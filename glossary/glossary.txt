@@ -1,0 +1,120 @@
+﻿Modifier	调整值	骰点的加法修正值，包括增益减益
+natural 20	投20	投骰结果为20
+natural 1	投1	投骰结果为1
+ability	属性
+Strength	力量	力量属性
+Dexterity	敏捷	敏捷属性
+Constitution	体质	体质属性
+Intelligence	智力	智力属性
+Wisdom	感知	感知属性
+Charisma	魅力	魅力属性
+STR	力	力量属性缩写
+DEX	敏	敏捷属性缩写
+CON	体	体质属性缩写
+INT	智	智力属性缩写
+WIS	感	感知属性缩写
+CHA	魅	魅力属性缩写
+bonus	加值	检定正数调整值
+penalty	减值	检定负数调整值
+initiative checks	先攻检定
+initiative	先攻
+save	豁免
+reflex	反射	条件反射，反应
+fortitude	强韧	实体攻击的抵抗力
+drain	流失	原翻译“吸取”并不贴切，被“吸取”的属性不会转移到吸取者身上。
+helpless	无助
+charms	魅惑
+compulsions	胁迫
+phantasms	魅影幻觉	只有施者和受者才能看到的幻象
+patterns	心灵幻觉	心智上感受的幻觉
+allegiance	立场
+law	守序
+chaos	混乱
+good	善良
+evil	邪恶
+occupation	职业背景
+class	职业
+class skill	本职技能
+feat	专长
+bonus feat	奖励专长	从专长列表中挑一个，这个bonus不是加值
+competence bonus	表现加值
+Academic	学者	职业背景
+Computer Use	计算机使用
+Craft	制造
+Decipher Script	文件解读
+Gather Information	收集信息
+Knowledge	知识
+arcane	秘法
+lore	学识
+civics	政法
+Bluff	唬骗
+Climb	攀爬
+Demolitions	爆破
+Disable Device	解除装置
+Escape Artist	脱逃
+Intimidate	威吓
+Jump	跳跃
+Move Silently	潜行
+streetwise	街头智慧
+Pilot	驾机
+Ride	骑术
+Spot	侦察
+Survival	生存
+Treat Injury	医疗
+Proficiency	擅长
+Brawl	拳法
+Tumble	翻滚
+structural	结构
+electronic	电力
+mechanical	机械
+Handle Animal	驯养动物
+Repair	修理
+Blue Collar	蓝领
+Athlete	运动员
+Adventurer	探险家
+Celebrity	名流
+visual art	视觉艺术
+Diplomacy	交涉
+Disguise	易容
+Perform	表演
+act	演戏
+stand-up	脱口秀
+sing	唱歌
+act	演戏
+Forgery	伪造文书
+Hide	躲藏
+Sleight of Hand	手上功夫
+Criminal	罪犯
+Creative	创作者
+Dilettante	富二代
+pharmaceutical	配药
+Emergency Services	应急人员
+Doctor	医生
+Entrepreneur	企业家
+Investigative	调查员
+Investigate	调查
+Sense Motive	察言观色
+Law Enforcement	执法人员
+tactics	策略
+Listen	聆听
+Combat Martial Arts	格斗武术
+Armor Proficiency (light)	擅长盔甲（轻型）
+Navigate	寻路
+Religious	宗教人士
+Military	军人
+Rural	农户
+Student	学生
+current events	时事
+Reputation	声望
+Reputation check	声望检定
+Fame	威名
+Infamy	骂名
+wealth	财富
+check	检定
+Windfall	横财
+hero	英雄	PC，玩家的角色，统一译英雄了
+Profession	专业
+take 10	取10
+take 20	取20
+Aid Another	救急	帮人付钱
+sale value	售价

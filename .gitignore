@@ -1,0 +1,5 @@
+.repositories
+omegat/last_entry.properties
+omegat/project_save.tmx*
+!omegat/project_save.tmx
+omegat/project_stats.txt

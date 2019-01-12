@@ -1,0 +1,3085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg># ABILITY SCORES</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T130449Z" creationid="QuenTine" creationdate="20181103T130449Z">
+        <seg># 属性值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># ALLEGIANCES</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T141628Z" creationid="QuenTine" creationdate="20181103T141628Z">
+        <seg># 立场</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># Ability Modifiers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T132349Z" creationid="QuenTine" creationdate="20181103T132349Z">
+        <seg># 属性调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># Allegiances and Influence</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T081824Z" creationid="QuenTine" creationdate="20181104T081824Z">
+        <seg># 立场及其影响</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># Changing Ability Scores</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140451Z" creationid="QuenTine" creationdate="20181103T140451Z">
+        <seg># 属性值改变</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># LEGAL INFORMATION</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T021550Z" creationid="QuenTine" creationdate="20181022T021550Z">
+        <seg># 法律信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># Pledging Allegiance</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T142826Z" creationid="QuenTine" creationdate="20181103T142826Z">
+        <seg># 选择立场</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># REPUTATION</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T121428Z" creationid="QuenTine" creationdate="20181106T121428Z">
+        <seg># 声望</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># STARTING OCCUPATION</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T084106Z" creationid="QuenTine" creationdate="20181104T084106Z">
+        <seg># 起始职业背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># THE BASICS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041150Z" creationid="QuenTine" creationdate="20181024T041150Z">
+        <seg># 基本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># Use Of Ability Scores</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T133149Z" creationid="QuenTine" creationdate="20181103T133149Z">
+        <seg># 属性值的作用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># WEALTH</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T132715Z" creationid="QuenTine" creationdate="20181106T132715Z">
+        <seg># 财富</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Academic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T095058Z" creationid="QuenTine" creationdate="20181104T095058Z">
+        <seg>## 学者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Adventurer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T113742Z" creationid="QuenTine" creationdate="20181104T113742Z">
+        <seg>## 探险家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Aid Another</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T141446Z" creationid="QuenTine" creationdate="20181106T141446Z">
+        <seg>## 临时救急</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Athlete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T121952Z" creationid="QuenTine" creationdate="20181104T121952Z">
+        <seg>## 运动员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Belief System</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T075303Z" creationid="QuenTine" creationdate="20181104T075303Z">
+        <seg>## 信仰体系</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Blue Collar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T122911Z" creationid="QuenTine" creationdate="20181104T122911Z">
+        <seg>## 蓝领</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Celebrity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T124123Z" creationid="QuenTine" creationdate="20181104T124123Z">
+        <seg>## 名流</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Charisma</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140400Z" creationid="QuenTine" creationdate="20181103T140400Z">
+        <seg>## 魅力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Constitution</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T134253Z" creationid="QuenTine" creationdate="20181103T134253Z">
+        <seg>## 体质</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Creative</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125240Z" creationid="QuenTine" creationdate="20181104T125240Z">
+        <seg>## 创作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Criminal</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125812Z" creationid="QuenTine" creationdate="20181104T125812Z">
+        <seg>## 罪犯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## DICE NOTATION</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041216Z" creationid="QuenTine" creationdate="20181024T041216Z">
+        <seg>## 骰子记法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Dexterity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T133510Z" creationid="QuenTine" creationdate="20181103T133510Z">
+        <seg>## 敏捷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Dilettante</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T132608Z" creationid="QuenTine" creationdate="20181104T131049Z">
+        <seg>## 富二代</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Doctor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T132850Z" creationid="QuenTine" creationdate="20181104T132850Z">
+        <seg>## 医生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Emergency Services</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T133211Z" creationid="QuenTine" creationdate="20181104T133211Z">
+        <seg>## 应急人员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Entrepreneur</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T134352Z" creationid="QuenTine" creationdate="20181104T134352Z">
+        <seg>## 企业家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Ethical Philosophy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T075920Z" creationid="QuenTine" creationdate="20181104T075920Z">
+        <seg>## 伦理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Fame and Infamy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T123232Z" creationid="QuenTine" creationdate="20181106T123232Z">
+        <seg>## 威名和骂名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Intelligence</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T135347Z" creationid="QuenTine" creationdate="20181103T135347Z">
+        <seg>## 智力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Investigative</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T135357Z" creationid="QuenTine" creationdate="20181104T135357Z">
+        <seg>## 调查员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Law Enforcement</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T140008Z" creationid="QuenTine" creationdate="20181104T140008Z">
+        <seg>## 执法人员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Losing Wealth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T061500Z" creationid="quentine" creationdate="20190112T061500Z">
+        <seg>## 财富的损失</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Military</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T141151Z" creationid="QuenTine" creationdate="20181104T141151Z">
+        <seg>## 军人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Moral Philosophy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T081355Z" creationid="QuenTine" creationdate="20181104T081355Z">
+        <seg>## 道德</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Nation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T074905Z" creationid="QuenTine" creationdate="20181104T074905Z">
+        <seg>## 国家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## OPEN GAME LICENSE Version 1.0a</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033332Z" creationid="QuenTine" creationdate="20181022T033332Z">
+        <seg>## 开放游戏许可证1.0a版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Organization</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T074551Z" creationid="QuenTine" creationdate="20181104T074551Z">
+        <seg>## 组织</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Person or Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T074152Z" creationid="QuenTine" creationdate="20181104T074152Z">
+        <seg>## 某人或某团体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Purchasing Equipment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134116Z" creationid="QuenTine" creationdate="20181106T134116Z">
+        <seg>## 购买装备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Regaining Wealth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063436Z" creationid="quentine" creationdate="20190112T063436Z">
+        <seg>## 重获财富</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Religious</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T141853Z" creationid="QuenTine" creationdate="20181104T141853Z">
+        <seg>## 宗教人士</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Rural</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T142207Z" creationid="QuenTine" creationdate="20181104T142207Z">
+        <seg>## 农户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Selling Stuff</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064128Z" creationid="quentine" creationdate="20190112T064128Z">
+        <seg>## 卖东西</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Shopping and Time</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135931Z" creationid="QuenTine" creationdate="20181106T135931Z">
+        <seg>## 购买与时间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Strength</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T133207Z" creationid="QuenTine" creationdate="20181103T133207Z">
+        <seg>## 力量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Student</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T142411Z" creationid="QuenTine" creationdate="20181104T142411Z">
+        <seg>## 学生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Taking 10 and Taking 20</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T140218Z" creationid="QuenTine" creationdate="20181106T140218Z">
+        <seg>## 取10和取20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Technician</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T143526Z" creationid="QuenTine" creationdate="20181104T143526Z">
+        <seg>## 技术人员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## The Wealth Check</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134323Z" creationid="QuenTine" creationdate="20181106T134323Z">
+        <seg>## 财富检定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Try Again?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T140713Z" creationid="QuenTine" creationdate="20181106T140713Z">
+        <seg>## 再来一次？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Using the Reputation Bonus</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T124609Z" creationid="QuenTine" creationdate="20181106T124609Z">
+        <seg>## 计算声望加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Wealth Awards</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064019Z" creationid="quentine" creationdate="20190112T064019Z">
+        <seg>## 财富奖励</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Wealth Bonus</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T132929Z" creationid="QuenTine" creationdate="20181106T132929Z">
+        <seg>## 财富加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Wealth Bonus of +0</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T062904Z" creationid="quentine" creationdate="20190112T062904Z">
+        <seg>## 0财富加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Wealth and the Starting Hero</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134532Z" creationid="QuenTine" creationdate="20181106T134532Z">
+        <seg>## 财富与新建的英雄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## White Collar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T143730Z" creationid="QuenTine" creationdate="20181104T143730Z">
+        <seg>## 白领</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Wisdom</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140213Z" creationid="QuenTine" creationdate="20181103T140213Z">
+        <seg>## 感知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### BASIC TASK RESOLUTION SYSTEM</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T045803Z" creationid="QuenTine" creationdate="20181024T044605Z">
+        <seg>### 基本事件处理机制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Die rolls are expressed in the format:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041618Z" creationid="QuenTine" creationdate="20181024T041618Z">
+        <seg>### 投骰记法如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### MULTIPLYING</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T042747Z" creationid="QuenTine" creationdate="20181024T042747Z">
+        <seg>### 乘法计算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### ROUNDING FRACTIONS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T042702Z" creationid="QuenTine" creationdate="20181024T042702Z">
+        <seg>### 四舍五入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### ROUNDING FRACTIONS
+In general, if you wind up with a fraction, round down, even if the fraction is one-half or larger.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041939Z" creationid="QuenTine" creationdate="20181024T041939Z">
+        <seg>### 四舍五入
+通常情况结果若有小数，则一律舍去，即便该小数大于或等于0.5。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### These rules use the following die notations:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041303Z" creationid="QuenTine" creationdate="20181024T041303Z">
+        <seg>### 本规则书中将使用以下骰子记法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(If the character has no ranks in the skill, this check is a Wisdom check.) The DC is equal to the character’s current Wealth bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063748Z" creationid="quentine" creationdate="20190112T063556Z">
+        <seg>（没有`专业`则检定`感知`）DC为角色当前的财富加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Some Knowledge skill modifiers might apply instead of the Int modifier, if the hero would be well known in the field covered by the Knowledge skill.) Modifiers to the Reputation check depend on the hero and the GM character in question, as shown below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135640Z" creationid="QuenTine" creationdate="20181106T125535Z">
+        <seg>（英雄在某一领域特别出名时，GM也可以使用该领域知识技能调整值代替智力调整值进行计算）声望检定的调整值取决于英雄和认出者，具体见下文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(ability/2) -5 [round result down]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T132518Z" creationid="QuenTine" creationdate="20181103T132518Z">
+        <seg>(属性值/2) -5 [向下取整]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(e) "Product Identity" means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content; (f) "Trademark" means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game License by the Contributor (g) "Use", "Used" or "Using" means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T110349Z" creationid="QuenTine" creationdate="20181022T110349Z">
+        <seg>（e）“产品识别（PI）”指的是产品和产品线名称、标志和其他标识物包括商业外观、手工艺品、生物角色、故事、故事线、情节、主题元素、对白、事件、语言、艺术品、符号、设计、描写、样貌、格式、姿势、概念、主题和图像、照片以及其他视觉或声音的表现，角色的名字和描述、咒语、魔法、品格、队伍、人物角色、样貌和特殊能力，地方、位置、环境、生物、装备、魔法的或超自然的能力或效果、标志、符号或图形设计，以及任何其他的能被PI所有者清晰识别为PI的商标或注册商标，以上明确不包括“开放游戏内容”；
+（f）“商标”指的是被贡献者用来识别商标本身或对应产品或被OGL贡献者贡献的相关的产品的徽标、名称、标记、记号、格言、设计。
+（g）“使用”指的是使用、分发、复制、编辑、排版、修改、翻译以及其他创作OGC衍生材料的行为。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(h) "You" or "Your" means the licensee in terms of this agreement.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T110736Z" creationid="QuenTine" creationdate="20181022T110736Z">
+        <seg>（h）“你”或“你的”指的是依据这份协议的许可证持有者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* +1 for having 1 to 4 ranks in the Profession skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063647Z" creationid="QuenTine" creationdate="20181106T135920Z">
+        <seg>* `专业`技能等级为1到4，则再加1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* 2d4 die roll.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135821Z" creationid="QuenTine" creationdate="20181106T135821Z">
+        <seg>* 2d4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Bonus from the Windfall feat, if taken.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135807Z" creationid="QuenTine" creationdate="20181106T135807Z">
+        <seg>* 横财专长的加值，如果有的话</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Strength (STR)
+* Dexterity (DEX)
+* Constitution (CON)
+* Intelligence (INT)
+* Wisdom (WIS)
+* Charisma (CHA)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T131209Z" creationid="QuenTine" creationdate="20181103T131209Z">
+        <seg>* 力量（STR）
+* 敏捷（DEX）
+* 体质（CON）
+* 智力（INT）
+* 感知（WIS）
+* 魅力（CHA）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Wealth provided by the character’s starting occupation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135753Z" creationid="QuenTine" creationdate="20181106T135753Z">
+        <seg>* 角色职业背景的财富加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* d4 = four sided die
+* d6 = six sided die
+* d8 = eight sided die
+* d10 = ten sided die
+* d12 = twelve sided die
+* d20 = twenty sided die
+* d% = percentile dice (a number between 1 and 100 is generated by rolling two different ten-sided dice.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041421Z" creationid="QuenTine" creationdate="20181024T041421Z">
+        <seg>* d4 = 四面骰
+* d6 = 六面骰
+* d8 = 八面骰
+* d10= 十面骰
+* d12= 十二面骰
+* d20= 二十面骰
+* d%= 百分骰（两个十面骰代表个位和十位）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Bonus Feat:** Select either Archaic Weapons Proficiency or Brawl.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T122850Z" creationid="QuenTine" creationdate="20181104T122850Z">
+        <seg>**奖励专长：** 选其一：擅长古典武器、拳法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Bonus Feat:** Select either Brawl or Personal Firearms Proficiency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T130738Z" creationid="QuenTine" creationdate="20181104T130738Z">
+        <seg>**奖励专长：** 选其一：拳法、擅长个人火器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Bonus Feat:** Select one of the following: Archaic Weapons Proficiency, Brawl, or Personal Firearms Proficiency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T121839Z" creationid="QuenTine" creationdate="20181104T121839Z">
+        <seg>**奖励专长：** 选其一：擅长古典武器、拳法、擅长个人火器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Bonus Feat:** Select one of the following: Brawl, Combat Martial Arts, Armor Proficiency (light), or Personal Firearms Proficiency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T141632Z" creationid="QuenTine" creationdate="20181104T141539Z">
+        <seg>**奖励专长：** 选其一：拳法、格斗武术、擅长盔甲（轻型）、擅长个人火器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Bonus Feat:** Select one of the following: Combat Martial Arts, Armor Proficiency (light), or Personal Firearms Proficiency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T141140Z" creationid="QuenTine" creationdate="20181104T141140Z">
+        <seg>**奖励专长：** 选其一：格斗武术、擅长盔甲（轻型）、擅长个人火器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Prerequisite:** Age 15+.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T114022Z" creationid="QuenTine" creationdate="20181104T114022Z">
+        <seg>**要求：** 不低于15岁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Prerequisite:** Age 18+.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T123158Z" creationid="QuenTine" creationdate="20181104T123158Z">
+        <seg>**要求：** 不低于18岁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Prerequisite:** Age 20+.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T140103Z" creationid="QuenTine" creationdate="20181104T140103Z">
+        <seg>**要求：** 不低于20岁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Prerequisite:** Age 23+.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T100222Z" creationid="QuenTine" creationdate="20181104T100222Z">
+        <seg>**要求：** 不低于23岁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Prerequisite:** Age 25+.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T133000Z" creationid="QuenTine" creationdate="20181104T133000Z">
+        <seg>**要求：** 不低于25岁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Prerequisite:** Strength 13 or Dexterity 13.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T122531Z" creationid="QuenTine" creationdate="20181104T122531Z">
+        <seg>**要求：** 13力量或13敏捷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Reputation Bonus Increase:** +1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125224Z" creationid="QuenTine" creationdate="20181104T125224Z">
+        <seg>**声望加值加成：** +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Skills:** Choose one of the following skills as permanent class skills.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T124309Z" creationid="QuenTine" creationdate="20181104T124309Z">
+        <seg>**技能：** 从以下技能选一项作为永久本职技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Skills:** Choose three of the following skills as permanent class skills.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T100315Z" creationid="QuenTine" creationdate="20181104T100307Z">
+        <seg>**技能：** 从以下技能选三项作为永久本职技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Skills:** Choose two of the following skills as permanent class skills.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T114043Z" creationid="QuenTine" creationdate="20181104T114043Z">
+        <seg>**技能：** 从以下技能选两项作为永久本职技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Wealth Bonus Increase:** +1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T121854Z" creationid="QuenTine" creationdate="20181104T121854Z">
+        <seg>**财富加值加成：** +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Wealth Bonus Increase:** +2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T123942Z" creationid="QuenTine" creationdate="20181104T123942Z">
+        <seg>**财富加值加成：** +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Wealth Bonus Increase:** +3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T100819Z" creationid="QuenTine" creationdate="20181104T100819Z">
+        <seg>**财富加值加成：** +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Wealth Bonus Increase:** +4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125235Z" creationid="QuenTine" creationdate="20181104T125235Z">
+        <seg>**财富加值加成：** +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Wealth Bonus Increase:** +6.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T132834Z" creationid="QuenTine" creationdate="20181104T132834Z">
+        <seg>**财富加值加成：** +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**\[#\] die type \[+/- modifiers\]**</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041726Z" creationid="QuenTine" creationdate="20181024T041726Z">
+        <seg>**骰种\[+/- 修正值\]**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>10\.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113100Z" creationid="QuenTine" creationdate="20181022T113100Z">
+        <seg>10、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>11\.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113125Z" creationid="QuenTine" creationdate="20181022T113125Z">
+        <seg>11、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>12\.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113158Z" creationid="QuenTine" creationdate="20181022T113158Z">
+        <seg>12、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>13\.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113255Z" creationid="QuenTine" creationdate="20181022T113255Z">
+        <seg>13、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>14\.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113337Z" creationid="QuenTine" creationdate="20181022T113337Z">
+        <seg>14、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>15\.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113400Z" creationid="QuenTine" creationdate="20181022T113400Z">
+        <seg>15、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1\.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033847Z" creationid="QuenTine" creationdate="20181022T033847Z">
+        <seg>1、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2\.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T110741Z" creationid="QuenTine" creationdate="20181022T110741Z">
+        <seg>2、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3\.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T111855Z" creationid="QuenTine" creationdate="20181022T111855Z">
+        <seg>3、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4\.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T111921Z" creationid="QuenTine" creationdate="20181022T111921Z">
+        <seg>4、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>5\.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T112008Z" creationid="QuenTine" creationdate="20181022T112008Z">
+        <seg>5、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6\.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T112036Z" creationid="QuenTine" creationdate="20181022T112036Z">
+        <seg>6、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7\.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T112106Z" creationid="QuenTine" creationdate="20181022T112106Z">
+        <seg>7、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8\.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T112949Z" creationid="QuenTine" creationdate="20181022T112949Z">
+        <seg>8、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9\.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113010Z" creationid="QuenTine" creationdate="20181022T113010Z">
+        <seg>9、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&gt; This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041136Z" creationid="QuenTine" creationdate="20181024T041058Z">
+        <seg>&gt; 该材料是OGC，而且是被OGL的条款许可公开使用的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A "natural 1" on the die roll is not an automatic failure, unless the rules state otherwise.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T051228Z" creationid="QuenTine" creationdate="20181024T050526Z">
+        <seg>`投1`也不再是必失败，除非规则中有特别描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A "natural 20" on the die roll is not an automatic success.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T051224Z" creationid="QuenTine" creationdate="20181024T050021Z">
+        <seg>在这一规则中，`投20`不再是必成功，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A 0 in any other score means the character is helpless and cannot move.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T132044Z" creationid="QuenTine" creationdate="20181103T132044Z">
+        <seg>其他属性值为0则意味着角色陷入无助状态并且无法活动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Reputation check is 1d20 + the hero’s Reputation bonus + the GM character’s Int modifer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T125233Z">
+        <seg>声望检定的数值为1d20+英雄的声望加值+GM角色的智力调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Wealth check is a 1d20 roll plus a character’s current Wealth bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134344Z" creationid="QuenTine" creationdate="20181106T134344Z">
+        <seg>一个财富检定就是1d20加上角色当前财富加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A celebrity is anyone who, for whatever reason, has been thrust into the spotlight of the public eye.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T124206Z" creationid="QuenTine" creationdate="20181104T124206Z">
+        <seg>名流是一些通过某种途径获得大众关注的角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character also cannot legally sell objects that have been reported as stolen.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T073134Z" creationid="quentine" creationdate="20190112T073134Z">
+        <seg>角色也不能合法的出售被通报失窃的赃物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can try again if he or she fails a Wealth check, but not until the character has spent an additional number of hours shopping equal to the purchase DC of the object or service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T141427Z" creationid="QuenTine" creationdate="20181106T141248Z">
+        <seg>如果财富检定失败，角色可以再来一次，但要再等待一个与购买DC相等小时数的冷却时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can usually take 10 or take 20 when making a Wealth check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T140230Z" creationid="QuenTine" creationdate="20181106T140230Z">
+        <seg>角色进行财富检定通常可以取10 或取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character cannot legally sell restricted objects unless the character is licensed to own them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T073115Z" creationid="quentine" creationdate="20190112T073115Z">
+        <seg>角色不能合法地出售管制物品，除非角色有资格持有它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character may have no allegiances (being either a free spirit or a lone wolf) or may change allegiances as he or she goes through life.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135206Z" creationid="QuenTine" creationdate="20181103T142450Z">
+        <seg>角色也可以没有特定立场（信仰自由或者独来独往的人），也可以在游戏过程中改变立场。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character may have up to three allegiances, listed in order from most important to least important.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T141715Z" creationid="QuenTine" creationdate="20181103T141715Z">
+        <seg>每个角色最多可以有三个立场，按重要程度从高到低排列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character still must meet any prerequisites for these bonus feats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T094725Z" creationid="QuenTine" creationdate="20181104T094725Z">
+        <seg>这些额外奖励专长仍然需要满足先决条件才能获得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character who doesn’t know, or know of, the hero can’t be influenced by his or her reputation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T130157Z">
+        <seg>角色不认识、没听说过这个英雄，是不能被英雄的声望影响的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with a CON of 0 is dead.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T132024Z" creationid="QuenTine" creationdate="20181103T132024Z">
+        <seg>体质值为0意味着角色死亡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character’s Wealth bonus can never decrease to less than +0.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063147Z" creationid="quentine" creationdate="20190112T063147Z">
+        <seg>角色的财富加值不会减至低于0。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character’s Wealth bonus can never fall below +0, and there is no limit to how high the Wealth bonus can climb.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T133819Z" creationid="QuenTine" creationdate="20181106T133819Z">
+        <seg>角色的财富加值下限是0，没有上限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character’s Wealth bonus only goes down if he or she successfully buys an object or service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T062657Z" creationid="quentine" creationdate="20190112T062657Z">
+        <seg>角色的财富加值只会在其成功购买物品或服务时下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character’s Wealth bonus recovers as the character advances.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063457Z" creationid="quentine" creationdate="20190112T063457Z">
+        <seg>角色的财富加值随着角色的进步而恢复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character’s Wealth bonus serves as the basis of the character’s Wealth check, which is used to purchase equipment and services for the character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T132914Z" creationid="QuenTine" creationdate="20181106T132914Z">
+        <seg>角色的财富加值是角色财富检定的基础，财富检定用于为角色购买装备和服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character’s ability score can’t drop below 0.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T132317Z" creationid="QuenTine" creationdate="20181103T132317Z">
+        <seg>角色的属性值不会跌到负数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A college-age student should also pick a major field of study.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T142645Z" creationid="QuenTine" creationdate="20181104T142645Z">
+        <seg>大学生及以上学历需要选定自己所学习的专业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A creature with no Constitution has no body or no metabolism.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T134502Z" creationid="QuenTine" creationdate="20181103T134502Z">
+        <seg>无体质属性的生物无实体或实体不进行新陈代谢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A creature with no Dexterity score can't move.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T133609Z" creationid="QuenTine" creationdate="20181103T133554Z">
+        <seg>无敏捷属性的生物无法移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A creature with no Intelligence score is an automaton, operating on simple instincts or programmed instructions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T135518Z" creationid="QuenTine" creationdate="20181103T135453Z">
+        <seg>无智力的生物为机器人，通过简单本能或程序化的指令进行行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A creature with no Strength score can't exert force, usually because it has no physical body or because it doesn't move.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T133356Z" creationid="QuenTine" creationdate="20181103T133356Z">
+        <seg>无力量属性的生物无法发挥物理力的作用，通常这种情况是由于该生物不具有实体或无法运动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A doctor can be a physician (general -practitioner or specialist), a surgeon, or a psychiatrist.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T132951Z" creationid="QuenTine" creationdate="20181104T132951Z">
+        <seg>医生包括内科医生（全科医生或专科医生）、外科医生和心理治疗师。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A hero may hold other jobs as his or her career unfolds, but the benefits of a starting occupation are only applied once, at the time of character creation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181104T084211Z">
+        <seg>英雄在开始冒险前可能从事过某种工作，但这种职业背景的加成只在建立人物时获得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A hero’s allegiance can take the form of loyalty to a person, to an organization, to a belief system, to a nation, or to an ethical or moral philosophy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T073831Z" creationid="QuenTine" creationdate="20181104T073831Z">
+        <seg>一个角色的立场可以由向某人、某组织、某信仰体系、某句话、某个国家、或者是某种道德观念示忠来决定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A high Reputation bonus also makes it difficult for the hero to mask his or her identity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T122646Z" creationid="QuenTine" creationdate="20181106T122646Z">
+        <seg>但高声望也会使得角色难以掩盖自己的身份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A limit, if any, will be specified in the rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T131410Z" creationid="QuenTine" creationdate="20181103T131410Z">
+        <seg>如果有限制，会在规则中有所提及。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A newly created 1st-level character’s Wealth bonus is +0 plus:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135733Z" creationid="QuenTine" creationdate="20181106T135733Z">
+        <seg>一个新建的一级角色，财富加值是0加上：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A positive modifier is called a bonus, and a negative modifier is called a penalty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T132957Z" creationid="QuenTine" creationdate="20181103T132957Z">
+        <seg>正数调整值称为加值，负数调整值则称为减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A score of "none" is not the same as a score of "0".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T131715Z" creationid="QuenTine" creationdate="20181103T131715Z">
+        <seg>“无”与“0”是两个概念。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A score of "none" means that the creature does not possess the ability at all.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T131921Z" creationid="QuenTine" creationdate="20181103T131921Z">
+        <seg>某项属性为“无”意味着这种生物完全不具备这一属性所代表的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A student can be in high school, college, or graduate school.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T142452Z" creationid="QuenTine" creationdate="20181104T142452Z">
+        <seg>中学生、大学生、研究生等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ability points lost to damage return naturally, typically at a rate of 1 point per day for each affected ability.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140733Z" creationid="QuenTine" creationdate="20181103T140733Z">
+        <seg>这些损失的属性点会自然恢复，通常速率为每天恢复1点受影响属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ability scores can increase with no limit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140532Z" creationid="QuenTine" creationdate="20181103T140532Z">
+        <seg>属性值的增加没有限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Academics include librarians, archaeologists, scholars, professors, teachers, and other education professionals.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T095200Z" creationid="QuenTine" creationdate="20181104T095200Z">
+        <seg>学者包括图书管理员、考古学家、专家、教授、教师以及其他与教育相关的职业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Actors, entertainers of all types, newscasters, radio and television personalities, and more fall under this starting occupation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T124226Z" creationid="QuenTine" creationdate="20181104T124226Z">
+        <seg>演员、各类演艺人员、新闻播报员、广播电视从业人员等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add 2."</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041831Z" creationid="QuenTine" creationdate="20181024T041831Z">
+        <seg>再加2。”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add the result of the three dice together.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041826Z" creationid="QuenTine" creationdate="20181024T041826Z">
+        <seg>结果总和之上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adventurers include professional daredevils, big-game hunters, relic hunters, explorers, extreme sports enthusiasts, field scientists, thrill-seekers, and others called to face danger for a variety of reasons.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T113959Z" creationid="QuenTine" creationdate="20181104T113959Z">
+        <seg>探险家包括专门从事危险行为者、猎手、盗墓者、探险者、极限运动爱好者、实地科学家、灵异探险家以及其他各类由于不同原因需要和危险情况打交道的职业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Adventuring may result in characters finding valuable items.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064038Z" creationid="quentine" creationdate="20190112T064038Z">
+        <seg>角色冒险时会找到有价值的物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All Rights Reserved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033816Z" creationid="QuenTine" creationdate="20181022T033816Z">
+        <seg>保留所有权利。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All of the rest of the text in this document is Open Game Content as described in Section 1(d) of the License.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033240Z" creationid="QuenTine" creationdate="20181022T033240Z">
+        <seg>本文其他所有的内容是开放游戏内容，参见许可证的第一条第d款。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All sublicenses shall survive the termination of this License.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113329Z" creationid="QuenTine" creationdate="20181022T113329Z">
+        <seg>所有该许可证派生的许可证都会终止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Allegiances include, but are not limited to, the following examples.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T074133Z" creationid="QuenTine" creationdate="20181104T074133Z">
+        <seg>立场包含但不限于以下例子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Along with this loss, any time a character buys an object or service with a purchase DC of 15 or higher, the character reduces his or her current Wealth bonus by an additional 1 point.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T062651Z" creationid="quentine" creationdate="20190112T062651Z">
+        <seg>任何时候角色购买了购买DC大于等于15的物品或服务，在原基础上额外减少一点财富加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, at the GM’s option, a hero might be considered infamous in certain situations due to events that have transpired in the campaign.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T124439Z">
+        <seg>同样，GM判定英雄是否在特定情况下背负骂名取决于该回合发生的事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, it always takes a number of hours equal to the purchase DC of the object or service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063421Z" creationid="quentine" creationdate="20190112T063421Z">
+        <seg>同样，这样购买物品与服务也需要耗费与购买DC等同的小时数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, just because the character fits into a certain category of people doesn’t mean the character has to have that category as an allegiance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T142730Z" creationid="QuenTine" creationdate="20181103T142606Z">
+        <seg>此外，角色只是身为某一类人并不意味着该角色与这类人立场相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, there is a penalty for spending beyond a character’s means.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T140642Z" creationid="QuenTine" creationdate="20181106T140642Z">
+        <seg>花费要是超过角色的余额，也会有所惩罚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An allegiance can create an empathic bond with others of the same allegiance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T082353Z" creationid="QuenTine" creationdate="20181104T082147Z">
+        <seg>相同立场的角色能互相感同身受，建立这种联系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An evil allegiance shows a willingness to hurt, oppress, and kill others, and to debase or destroy innocent life.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T081806Z" creationid="QuenTine" creationdate="20181104T081806Z">
+        <seg>而邪恶立场的人则趋向于伤害、压迫甚至杀害他人，并且贬低甚至危害无辜。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An individual with a chaotic outlook tends to follow his or her instincts and whims, favor new ideas and experiences, and behave in a subjective and open manner in dealings with others.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T081334Z" creationid="QuenTine" creationdate="20181104T081334Z">
+        <seg>而立场混乱的人则更喜欢按自己的套路行事，他们喜欢新奇的思想和体验，并且对他人的做法持开放态度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An individual with a good allegiance tends to protect innocent life.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T081545Z" creationid="QuenTine" creationdate="20181104T081545Z">
+        <seg>善良立场的人会倾向于保护无辜的生命，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An individual with a lawful outlook tends to tell the truth, keep his or her word, respect authority, and honor tradition, and he or she expects others to do likewise.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T081324Z" creationid="QuenTine" creationdate="20181104T081324Z">
+        <seg>守序的人通常诚实守信，尊重权威和传统，并且他们会希望周围的人也做同样的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any creature capable of telling the difference between itself and things that are not itself has at least 1 point of Charisma.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140439Z" creationid="QuenTine" creationdate="20181103T140439Z">
+        <seg>任何具备区别自我和其他存在的能力的生物至少具有1点魅力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any creature that can move has at least 1 point of Dexterity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T133536Z" creationid="QuenTine" creationdate="20181103T133536Z">
+        <seg>任何具备移动能力的生物至少具有1点敏捷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any creature that can perceive its environment in any fashion has at least 1 point of Wisdom.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140247Z" creationid="QuenTine" creationdate="20181103T140247Z">
+        <seg>任何能够通过任意方式感知环境的生物具有至少1点感知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any creature that can physically manipulate other objects has at least 1 point of Strength.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T133248Z" creationid="QuenTine" creationdate="20181103T133248Z">
+        <seg>任何能够通过物理手段作用于其他物体的生物至少具有1点力量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any creature that can think, learn, or remember has at least 1 point of Intelligence.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T135405Z" creationid="QuenTine" creationdate="20181103T135405Z">
+        <seg>任何能够思考、学习、或者记忆的生物具有至少1点智力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any living creature has at least 1 point of Constitution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T134432Z" creationid="QuenTine" creationdate="20181103T134432Z">
+        <seg>任何活物均至少具有1点体质。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any other result is a failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T045929Z" creationid="QuenTine" creationdate="20181024T045929Z">
+        <seg>否则为失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any time a character purchases an object or service with a purchase DC higher than his or her current Wealth bonus, or one with a purchase DC of 15 or higher, the character’s Wealth bonus goes down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T062239Z" creationid="quentine" creationdate="20190112T062239Z">
+        <seg>任何DC大于财富值，或者DC大于等于15时候，角色购买物品或服务会降低自己的财富加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anything with no Wisdom score is an object, not a creature.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140329Z" creationid="QuenTine" creationdate="20181103T140329Z">
+        <seg>无感知的存在为物体而非生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anything without a Wisdom score also has no Charisma score, and vice versa.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140352Z" creationid="QuenTine" creationdate="20181103T140352Z">
+        <seg>任何不具备感知的存在都不具备魅力属性，反之亦然。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a character ages, some ability scores go up and others go down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140805Z" creationid="QuenTine" creationdate="20181103T140805Z">
+        <seg>当角色年龄变化时，部分属性值会提高而另一些则可能会降低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a result, a character must have Intelligence and Wisdom scores of 3 or higher in order to select allegiances.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T074106Z" creationid="QuenTine" creationdate="20181104T074106Z">
+        <seg>所以，具备选择立场能力的角色至少需要3点智力及感知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As long as you’re applying a single multiplier, multiply the number normally.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T044234Z" creationid="QuenTine" creationdate="20181024T043009Z">
+        <seg>若只有一个乘数要乘，则直接与骰点或被乘数相乘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Assuming the object is undamaged and in working condition, the sale value is equal to the object’s purchase DC (as if purchased new) minus 3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064330Z" creationid="quentine" creationdate="20190112T064330Z">
+        <seg>如果这件物品没有损坏而且还很好用，售价就等于物品的购买DC（新买时的购买DC）减3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the moment it becomes relevant, the GM makes a Reputation check for a GM character who might be influenced in some fashion due to the hero’s fame or notoriety, as detailed below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T123102Z">
+        <seg>若有影响，GM便需要就NPC进行一次声望检定，以决定英雄的威名或是臭名对其造成何种影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Athletes include amateur athletes of Olympic quality and professional athletes of all types, including gymnasts, weight trainers, wrestlers, boxers, martial artists, swimmers, skaters, and those who engage in any type of competitive sport.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T122432Z" creationid="QuenTine" creationdate="20181104T122432Z">
+        <seg>运动员包括达到参加奥运会标准的各类职业或业余运动员，包括体操运动员、健美教练、摔跤手、拳击手、武师、游泳运动员、滑冰运动员以及其他各类参与竞技体育运动的人员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Balance, Climb, Computer Use, Drive, Jump, Knowledge (behavioral sciences, earth and life sciences, or technology), Search, Treat Injury, Swim.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T134100Z" creationid="QuenTine" creationdate="20181104T133842Z">
+        <seg>平衡、攀爬、计算机使用、驾驶、跳跃、知识（行为科学、地球及生命科学、技术）、搜索、医疗、游泳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Balance, Climb, Drive, Handle Animal, Repair, Ride, Survival, Swim.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T142337Z" creationid="QuenTine" creationdate="20181104T142337Z">
+        <seg>平衡、攀爬、驾驶、驯养动物、修理、骑术、生存、游泳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Balance, Climb, Drive, Jump, Ride, Swim, Tumble.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T122801Z" creationid="QuenTine" creationdate="20181104T122801Z">
+        <seg>平衡、攀爬、驾驶、跳跃、骑术、游泳、翻滚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Belief systems could also include political beliefs or philosophical outlooks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T075748Z" creationid="QuenTine" creationdate="20181104T075518Z">
+        <seg>也可以是政治信仰和哲学观。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Blue collar occupations include factory work, food service jobs, construction, service industry jobs, taxi drivers, postal workers, and other jobs that are usually not considered to be desk jobs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T123107Z" creationid="QuenTine" creationdate="20181104T123107Z">
+        <seg>蓝领的工作内容主要是工厂作业、食品加工、建造业、服务业、出租车司机、邮差以及一些通常不坐办公室的工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bluff, Climb, Demolitions, Disable Device, Drive, Escape Artist, Intimidate, Jump, Knowledge (arcane lore, streetwise, tactics, or technology), Move Silently, Pilot, Ride, Spot, Survival, Swim, Treat Injury.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T133850Z" creationid="QuenTine" creationdate="20181104T115744Z">
+        <seg>唬骗、攀爬、爆破、解除装置、驾驶、脱逃、威吓、跳跃、知识（秘法学识、街头智慧、策略、技术）、潜行、驾机、骑术、侦察、生存、游泳、医疗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bluff, Computer Use, Craft (visual art or writing), Disguise, Forgery, Knowledge (arcane lore or art), Perform (act, dance, keyboards, percussion instruments, sing, stand-up, stringed instruments, or wind instruments), Spot.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125805Z" creationid="QuenTine" creationdate="20181104T125805Z">
+        <seg>唬骗、计算机使用、制造（视觉艺术或写作）、易容、伪造文书、知识（秘法学识或艺术）、表演（演戏、舞蹈、键盘乐器、打击乐器、唱歌、脱口秀、弦乐器、管乐器）、侦察。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bluff, Craft (visual art or writing), Diplomacy, Disguise, Perform (act, dance, keyboards, percussion instruments, sing, stand-up, stringed instruments, or wind instruments).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125150Z" creationid="QuenTine" creationdate="20181104T125150Z">
+        <seg>唬骗、制造（视觉艺术或写作）、交涉、易容、表演（演戏、舞蹈、键盘乐器、打击乐器、唱歌、脱口秀、弦乐器、管乐器）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bluff, Diplomacy, Gamble, Knowledge (business, current events, or technology).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T135340Z" creationid="QuenTine" creationdate="20181104T135340Z">
+        <seg>唬骗、交涉、赌博、知识（商业、时事、和技术）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Buying less common objects generally takes a number of hours equal to the purchase DC of the object or service, reflecting the time needed to locate the wanted materials and close the deal.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T140013Z" creationid="QuenTine" creationdate="20181106T140013Z">
+        <seg>购买稀有物品大概要花掉与物品或服务的购买DC相等的小时数，这反映了查找所需的材料和结束交易所需要的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COPYRIGHT NOTICE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113417Z" creationid="QuenTine" creationdate="20181022T113417Z">
+        <seg>版权声明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose one occupation from the available selections and apply the benefits to the character as noted in the occupation’s description.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T095050Z" creationid="QuenTine" creationdate="20181104T095050Z">
+        <seg>从以下职业背景中选择自己角色的职业背景，获得相应的奖励。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Climb, Demolitions, Drive, Hide, Knowledge (tactics), Move Silently, Navigate, Pilot, Survival, Swim.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T141524Z" creationid="QuenTine" creationdate="20181104T141524Z">
+        <seg>攀爬、爆破、驾驶、躲藏、知识（策略）、潜行、寻路、驾机、生存、游泳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computer Use, Craft (chemical, electronic, mechanical, or structural), Knowledge (business, earth and life sciences, physical sciences, or technology), Repair, Research.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T143717Z" creationid="QuenTine" creationdate="20181104T143717Z">
+        <seg>计算机使用、制造（化学、电力、机械、结构）、知识（商业、地球和生命科学、物理科学、技术）、修理、研究。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computer Use, Craft (visual art or writing), Decipher Script, Forgery, Gather Information, Investigate, Knowledge (behavioral sciences, civics, earth and life sciences, or streetwise), Research, Search, Sense Motive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T135945Z" creationid="QuenTine" creationdate="20181104T135945Z">
+        <seg>计算机使用、制造（视觉艺术或写作）、文件解读、伪造文书、收集信息、调查、知识（行为科学、政法、地球及生命科学、街头智慧）、研究、搜索、察言观色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computer Use, Craft (writing), Decipher Script, Gather Information, Knowledge (arcane lore, art, behavioral sciences, business, civics, current events, earth and life sciences, history, physical sciences, popular culture, tactics, technology, or theology and philosophy), Research, or add a new Read/Write Language or a new Speak Language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T120215Z" creationid="QuenTine" creationdate="20181104T113724Z">
+        <seg>计算机使用、制造（写作）、文件解读、收集信息、知识（秘法学识、艺术、行为科学、商学、政法、时事、地球及生命科学、历史、物理科学、流行文化、策略、技术、神学与哲学）、研究，或者添加一门读写语言或口头语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computer Use, Diplomacy, Knowledge (art, business, civics, earth and life sciences, history, physical sciences, or technology), Research.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T143954Z" creationid="QuenTine" creationdate="20181104T143954Z">
+        <seg>计算机使用、交涉、知识（艺术、商业、政法、地球及生命科学、历史、物理学、技术）、研究。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computer Use, Knowledge (arcane lore, art, behavioral sciences, business, civics, current events, earth and life sciences, history, physical sciences, popular culture, technology, or theology and philosophy), Perform (act, dance, keyboards, percussion instruments, sing, stand-up, stringed instruments, or wind instruments), Research.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T143500Z" creationid="QuenTine" creationdate="20181104T143009Z">
+        <seg>计算机使用、知识（秘法学识、艺术、行为科学、商业、政法、时事、地球及生命科学、历史、物理科学、流行文化、技术、神学与哲学）、表演（演戏、舞蹈、键盘、打击乐器、唱歌、脱口秀、弦乐器、管乐器）、研究。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113108Z" creationid="QuenTine" creationdate="20181022T113108Z">
+        <seg>许可证的复制：你必须在每一个你发布的OGC副本包含一份该许可证的副本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft (electronic, mechanical, or structural), Climb, Drive, Handle Animal, Intimidate, Repair, Ride.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T123927Z" creationid="QuenTine" creationdate="20181104T123927Z">
+        <seg>制造（电力、机械或结构）、攀爬、驾驶、驯养动物、威吓、修理、骑术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft (pharmaceutical), Computer Use, Knowledge (behavioral sciences, earth and life sciences, or technology), Search, Treat Injury.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T134053Z" creationid="QuenTine" creationdate="20181104T133154Z">
+        <seg>制造（配药）、计算机使用、知识（行为科学、地球和生命科学或者技术）、搜索、医疗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Decipher Script, Knowledge (arcane lore, art, behavioral sciences, history, streetwise, or theology and philosophy), Listen, Sense Motive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T142032Z" creationid="QuenTine" creationdate="20181104T142032Z">
+        <seg>文件解读、知识（秘法学识、艺术、行为科学、历史、街头智慧、神学与哲学）、聆听、察言观色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Definitions: (a)"Contributors" means the copyright and/or trademark owners who have contributed Open Game Content; (b)"Derivative Material" means copyrighted material including derivative works and translations (including into other computer languages), potation, modification, correction, addition, extension, upgrade, improvement, compilation, abridgment or other form in which an existing work may be recast, transformed or adapted; (c) "Distribute" means to reproduce, license, rent, lease, sell, broadcast, publicly display, transmit or otherwise distribute; (d)"Open Game Content" means the game mechanic and includes the methods, procedures, processes and routines to the extent such content does not embody the Product Identity and is an enhancement over the prior art and any additional content clearly identified as Open Game Content by the Contributor, and means any work covered by this License, including translations and derivative works under copyright law, but specifically excludes Product Identity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T110313Z" creationid="QuenTine" creationdate="20181022T110313Z">
+        <seg>定义：
+（a）“贡献者”即贡献过开放游戏内容的版权与/或商标所有者；
+（b）“衍生材料”即有版权的材料，包括衍生的工作以及翻译（包括用其他计算机语言实现）、享用、修改、订正、添加、延伸、升级、提高、编译、删节或其他已知的重塑、变换和改编形式；
+（c）“分发”即再创作、许可、租借、出租、售卖、广播、宣传展示、传输或其他分发形式；
+（d）“开放游戏内容（OGC）”指的是符合条件的游戏机制：不体现“产品识别”的方法、步骤、过程和惯例；先有技术和任何其他能被贡献者标明为OGC的内容的扩展；任何该许可证涵盖的工作，包括遵守版权法的翻译和衍生工作，但明确不包括“产品识别”。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dilettantes usually get their wealth from family holdings and trust funds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T132705Z" creationid="QuenTine" creationdate="20181104T131018Z">
+        <seg>富二代通常花家里的钱或者信托基金的钱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Diplomacy, Drive, Gather Information, Intimidate, Knowledge (civics, earth and life sciences, streetwise, or tactics), Listen.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T140442Z" creationid="QuenTine" creationdate="20181104T140442Z">
+        <seg>交涉、驾驶、收集信息、威吓、知识（政法、地球及生命科学、街头智慧、策略）、聆听。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disable Device, Disguise, Forgery, Gamble, Hide, Knowledge (streetwise), Move Silent-ly, Sleight of Hand.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T130704Z" creationid="QuenTine" creationdate="20181104T130704Z">
+        <seg>解除装置、易容、伪造文书、赌博、躲藏、知识（街头智慧）、潜行、手上功夫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>END OF LICENSE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113503Z" creationid="QuenTine" creationdate="20181022T113503Z">
+        <seg>许可证结尾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each ability will have a modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T132420Z" creationid="QuenTine" creationdate="20181103T132420Z">
+        <seg>每项属性都对应一个调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each occupation provides a number of additional permanent class skills that the character can select from a list of choices.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T085040Z" creationid="QuenTine" creationdate="20181104T085040Z">
+        <seg>每个职业背景都会有大量永久性职业技能供角色选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Entrepreneurs have an obsession about being their own boss.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T134418Z" creationid="QuenTine" creationdate="20181104T134418Z">
+        <seg>企业家拥有资产，自己当自己的老板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every character has a Wealth bonus that reflects his or her buying power.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134242Z" creationid="QuenTine" creationdate="20181106T134242Z">
+        <seg>每个角色都有一个财富加值，反映其购买力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every character has a Wealth bonus that reflects his or her buying power—a composite of income, credit rating, and savings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T132755Z" creationid="QuenTine" creationdate="20181106T132755Z">
+        <seg>每一个角色都拥有一个财富加值，综合反映了其购买力——收入、信用额度、以及存款。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every character has six basic Ability Scores:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T130503Z" creationid="QuenTine" creationdate="20181103T130503Z">
+        <seg>每个角色都拥有六项基本属性值：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every object and service has a purchase DC.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134252Z" creationid="QuenTine" creationdate="20181106T134252Z">
+        <seg>每个物品和服务都有一个购买难度等级（DC）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every time a character gains a new level, make a Profession check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063703Z" creationid="quentine" creationdate="20190112T063519Z">
+        <seg>每次角色升级，进行一次`专业`检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: 3d6+2 means: "Roll 3 six sided dice.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041756Z" creationid="QuenTine" creationdate="20181024T041756Z">
+        <seg>例：3d6+2意为：“投掷三枚六面骰，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exception: Certain rolls, such as damage and hit points, have a minimum of 1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041949Z" creationid="QuenTine" creationdate="20181024T041949Z">
+        <seg>特例：部分投骰，如伤害骰和生命骰至少为1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fame, when recognized, provides a bonus to certain Charisma-based skill checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T124103Z">
+        <seg>威名会让英雄被认出时进行魅力相关技能检定可获得加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Farm workers, hunters, and others who make a living in rural communities fall under this category.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T142242Z" creationid="QuenTine" creationdate="20181104T142242Z">
+        <seg>农民、猎户以及各类在农村生活的人都归为此类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, a starting occupation increases the character’s Wealth bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T095751Z" creationid="QuenTine" creationdate="20181104T094851Z">
+        <seg>最后，起始职业背景还会增加财富加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For every 5 points by which the character exceeds the DC, he or she gains an additional +1 to his or her Wealth bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064004Z" creationid="quentine" creationdate="20190112T064004Z">
+        <seg>检定点超过DC的部分，每5点额外加1点财富值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gamble, Intimidate, Knowledge (current events or popular culture), Ride, or add a new Speak Language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T143318Z" creationid="QuenTine" creationdate="20181104T132821Z">
+        <seg>赌博、威吓、知识（时事或流行文化）、骑术或者学习一门口头语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Getting a license or buying an object with a restriction rating increases the time needed to make purchases.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T061122Z" creationid="QuenTine" creationdate="20181106T140141Z">
+        <seg>获得许可证或购买管制物品会增加购买所花费的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license with the exact terms of this License to Use, the Open Game Content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T111944Z" creationid="QuenTine" creationdate="20181022T111944Z">
+        <seg>授权与鉴于：鉴于同意使用该许可证，贡献者授予你一个永久的、全世界范围内的、开放专利的、非排外的许可证，允许摘录该许可证的条款以使用OGC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Having an allegiance implies having sufficient intelligence and wisdom to make a moral or ethical choice.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T074029Z" creationid="QuenTine" creationdate="20181104T074029Z">
+        <seg>具有立场的前提是必须有足够的智力和感知来评判和选择道德观念。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>He or she could be in a seminary, a military school, or a private institution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T142606Z" creationid="QuenTine" creationdate="20181104T142606Z">
+        <seg>可以是神学院、军校或私立教育机构的学生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How much the Wealth bonus is reduced depends on how expensive the object is.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T062255Z" creationid="quentine" creationdate="20190112T062255Z">
+        <seg>财富加值下降多少取决于物品有多贵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113004Z" creationid="QuenTine" creationdate="20181022T113004Z">
+        <seg>标识：如果你分发了OGC你必须清楚地指出你正在分发的这部分工作成果是OGC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If A character sells an object with a sale value less than or equal to his or her current Wealth bonus, and that sale value is 14 or lower, the character gains nothing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T071729Z" creationid="quentine" creationdate="20190112T071729Z">
+        <seg>如果角色出售了售价小于等于角色当前财富加值的物品，且售价小于等于14，角色不会增加任何财富值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a character's Constitution changes enough to alter his or her Constitution modifier, his or her hit points also increase or decrease accordingly at the same time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T134406Z" creationid="QuenTine" creationdate="20181103T134406Z">
+        <seg>角色的生命值受到体质调整值的影响，若体质属性值变化足够引起体质调整值的变化，则该角色生命值亦将随即发生变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a character’s Wealth bonus is +0, the character doesn’t have the buying power to purchase any object or service that has a purchase DC of 10 or higher, and can’t take 10 or take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063316Z" creationid="quentine" creationdate="20190112T063250Z">
+        <seg>如果角色的财富加值是0，角色无力购买任何DC大于等于10的物品或服务，也不能取10取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a skill the character selects is already a class skill, he or she receives a +1 competence bonus on checks using that skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T100744Z" creationid="QuenTine" creationdate="20181104T100744Z">
+        <seg>若所选的技能已经是本职技能，该技能检定时获得+1表现加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If it can act, it applies its Intelligence modifier to initiative checks instead of a Dexterity modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T134040Z" creationid="QuenTine" creationdate="20181103T134040Z">
+        <seg>如果这一生物仍能做出行动，则在计算先攻时使用智力调整值代替敏捷调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the GM character succeeds at the Reputation check, he or she recognizes the hero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T125744Z">
+        <seg>如果GM角色成功通过声望检定，那么角色便能够认出该英雄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the attempt is successful, that character provides the purchaser with a +2 bonus on his or her Wealth check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T141532Z" creationid="QuenTine" creationdate="20181106T141532Z">
+        <seg>如果尝试成功，救急者会为购买者的财富检定额外+2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character acts in a way that is detrimental to his or her allegiance, the GM may choose to strip the character of that allegiance (and all its benefits) and assign an allegiance more suitable to those actions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135227Z" creationid="QuenTine" creationdate="20181103T142810Z">
+        <seg>如果角色行为同其立场的精神相左，那么GM可以考虑剥夺该角色的立场（及其带来的好处）并且为其选择更为适合的立场。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character attempts to buy something and the check fails, his or her Wealth bonus is unaffected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T062744Z" creationid="quentine" creationdate="20190112T062744Z">
+        <seg>如果角色试图购买而检定失败，角色的财富加值是不受影响的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character fails, he or she can’t afford the object at the time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134439Z" creationid="QuenTine" creationdate="20181106T134439Z">
+        <seg>失败，则此次购买失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character succeeds on the Wealth check, the character gains the object.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134434Z" creationid="QuenTine" creationdate="20181106T134434Z">
+        <seg>如果角色财富检定成功，角色获得物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character succeeds, his or her current Wealth bonus increases by +1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063919Z" creationid="quentine" creationdate="20190112T063919Z">
+        <seg>如果检定成功，角色的财富加值加一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character successfully purchases an object or service with a purchase DC that’s higher than his or her current Wealth bonus, the character’s Wealth bonus decreases.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134519Z" creationid="QuenTine" creationdate="20181106T134519Z">
+        <seg>如果角色成功购买一件物品或服务，但物品或服务的购买DC大于角色的财富加值，角色的财富加值会降低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character’s current Wealth bonus is equal to or greater than the DC, the character automatically succeeds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134458Z" creationid="QuenTine" creationdate="20181106T134458Z">
+        <seg>如果角色当前财富加值大于等于购买DC，自动视为购买成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the creature can attack, it applies its Dexterity modifier to its base attack instead of a Strength modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T133452Z" creationid="QuenTine" creationdate="20181103T133452Z">
+        <seg>若该生物可以攻击，则使用敏捷调整值代替力量调整值计算基础攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the result of the d20 roll + the Modifiers equals or exceeds the Target Number, the test is successful.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T051206Z" creationid="QuenTine" creationdate="20181024T045752Z">
+        <seg>若 `d20投骰+调整值` 数值大于等于`目标值`，则判定为事件成功，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the skill selected is already a class skill for the character, he or she also gains a one-time competence bonus for that skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T100344Z" creationid="QuenTine" creationdate="20181104T091246Z">
+        <seg>若所选技能已经是角色的本职技能，则角色获得该技能的一个一次性的表现加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Illustrators, copywriters, cartoonists, graphic artists, novelists, magazine columnists, actors, sculptors, game designers, musicians, screenwriters, photographers, and web designers all fall under this occupation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125521Z" creationid="QuenTine" creationdate="20181104T125521Z">
+        <seg>插画师、文案写手、卡通画师、图形艺术家、小说家、杂志专栏作家、演员、雕塑师、游戏设计师、音乐家、剧作家、摄影师以及网页设计师都属于这一类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In general, a character can discard an allegiance at any time, but may only gain a new allegiance after attaining a new level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T073910Z" creationid="QuenTine" creationdate="20181104T073910Z">
+        <seg>通常，角色可以在任何时候放弃自己的立场，但必须在升级的时候才能够选择新的立场。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In general, if you wind up with a fraction, round down, even if the fraction is one-half or larger.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T042644Z" creationid="QuenTine" creationdate="20181024T042644Z">
+        <seg>通常情况结果若有小数，则一律舍去，即便该小数大于或等于0.5。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In such cases, the benefit translates into a Wealth award.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064113Z" creationid="quentine" creationdate="20190112T064113Z">
+        <seg>在这种情况下，这样的财宝会转为财富的奖励。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113248Z" creationid="QuenTine" creationdate="20181022T113248Z">
+        <seg>无法遵守：如果你的一些或全部的OGC由于法规、判决或者政府管制的原因，无法遵守该许可证的任何条款，受此影响，你不可以使用任何开放游戏素材。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Infamy, when recognized, provides a penalty to certain Charisma-based skill checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T124547Z">
+        <seg>骂名会让英雄被认出时进行魅力相关技能检定会获得减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instructions on using the License are provided within the License itself.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033201Z" creationid="QuenTine" creationdate="20181022T033201Z">
+        <seg>许可证的使用方法说明在许可证内提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It in-creases as a character gains Wealth and decreases as the character makes purchases.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134407Z" creationid="QuenTine" creationdate="20181106T134407Z">
+        <seg>角色获得财富就增加，购买就减少。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is immune to all mind-influencing effects (charms, compulsions, phantasms, patterns and morale effects) and automatically fails Intelligence checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140203Z" creationid="QuenTine" creationdate="20181103T135512Z">
+        <seg>他们免疫所有和思维有关的效果（魅惑、胁迫、魅影幻觉、心灵幻觉及道德影响），且进行智力检定必然失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is immune to any effect that requires a Fortitude save unless the effect works on objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T134716Z" creationid="QuenTine" creationdate="20181103T134716Z">
+        <seg>这类生物免疫一切需要通过强韧豁免的效果，除非这种效果能够作用在物体上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is possible for a creature to have a score of "none".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T131721Z" creationid="QuenTine" creationdate="20181103T131642Z">
+        <seg>有的生物的某个属性值可以为“无”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It may be where the individual was born, or where the hero resides after emigrating to a new home.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T075220Z" creationid="QuenTine" creationdate="20181104T075220Z">
+        <seg>也可以是出生的国家或者要移民去的国家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Keeping track of negative ability score points is never necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T132250Z" creationid="QuenTine" creationdate="20181103T132250Z">
+        <seg>没必要在意属性值为负几，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Law enforcement personnel include uniformed police, state troopers, federal police, federal agents, SWAT team members, and military police.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T140053Z" creationid="QuenTine" creationdate="20181104T140053Z">
+        <seg>执法人员包括警察、州警、联邦特警、联邦特工、SWAT成员、宪兵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MULTIPLYING
+Sometimes a special rule makes you multiply a number or a die roll.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T042038Z" creationid="QuenTine" creationdate="20181024T042038Z">
+        <seg>乘法计算
+Sometimes a special rule makes you multiply a number or a die roll.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many starting occupations have a prerequisite that the character must meet to qualify for the occupation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T084844Z" creationid="QuenTine" creationdate="20181104T084844Z">
+        <seg>很多起始职业背景都对角色的基本属性有要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Military covers any of the branches of the armed forces, including army, navy, air force, and marines, as well as the various elite training units such as Seals, Rangers, and Special Forces.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T141301Z" creationid="QuenTine" creationdate="20181104T141301Z">
+        <seg>军人包括海陆空三军和海军陆战队，还有海豹部队、游骑兵和特种部队等各类精英部队。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Modern System Reference Document Copyright 2002-2003, Wizards of the Coast, Inc.; Authors Bill Slavicsek, Jeff Grubb, Rich Redman, Charles Ryan, Eric Cagle, David Noonan, Stan!, based on material by Jonathan Tweet, Monte Cook, Skip Williams, Richard Baker, Peter Adkison, Bruce R. Cordell, John Tynes, Andy Collins, and JD Wiker.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113452Z" creationid="QuenTine" creationdate="20181022T113452Z">
+        <seg>MSRD版权2002-2003，威世智股份有限公司所有。作者：Bill Slavicsek、Jeff Grubb、Rich Redman、Charles Ryan、Eric Cagle、David Noonan、Stan!、基于Jonathan Tweet、Monte Cook、Skip Williams、Richard Baker、Peter Adkison、Bruce R. Cordell、John Tynes、Andy Collins和JD Wiker的材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More information on the Open Game License can be found at www.wizards.com/d20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033300Z" creationid="QuenTine" creationdate="20181022T033300Z">
+        <seg>OGL的更多信息参见www.wizards.com/d20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most characters with a high Reputation bonus (+4 or higher) are considered well known within their profession or social circle.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T123401Z" creationid="QuenTine" creationdate="20181106T123401Z">
+        <seg>大多数具有高声望加值（+4及以上）的角色都是其领域或社交圈当中相当出名的人物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most of the time, a hero doesn’t decide to use his or her reputation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135332Z" creationid="QuenTine" creationdate="20181106T122736Z">
+        <seg>绝大多数时候，英雄不需要主动使用声望值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No other terms or conditions may be applied to any Open Game Content distributed using this License.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T111841Z" creationid="QuenTine" creationdate="20181022T111841Z">
+        <seg>无任何除许可证外的其他的条款或条件应用在任何使用该许可证的OGC上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No terms may be added to or subtracted from this License except as described by the License itself.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T111824Z" creationid="QuenTine" creationdate="20181022T111824Z">
+        <seg>许可证的任何条款都不能增删，除非许可证有特殊说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that if the GM character has no possible way of recognizing a hero, then the Reputation check automatically fails.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T125650Z">
+        <seg>注意，若GM角色无论如何都无法认出该英雄则声望检定必然失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Notice of License Copyright: You must update the COPYRIGHT NOTICE portion of this License to include the exact text of the COPYRIGHT NOTICE of any Open Game Content You are copying, modifying or distributing, and You must add the title, the copyright date, and the copyright holder's name to the COPYRIGHT NOTICE of any original Open Game Content you Distribute.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T112057Z" creationid="QuenTine" creationdate="20181022T112057Z">
+        <seg>许可证版权声明：你必须更新本许可证的版权声明部分以包括任何准确的你正在复制、修改、分发的OGC的版权声明文本，而且你必须添加标题、版权日期以及版权持有者的名字到任何你要发布的原始OGC的版权声明上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T111912Z" creationid="QuenTine" creationdate="20181022T111912Z">
+        <seg>提供和接受：使用OGC时默认你已经同意了许可证的条款。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Office workers and desk jockeys, lawyers, accountants, insurance agents, bank personnel, financial advisors, tax preparers, clerks, sales personnel, real estate agents, and a variety of mid-level managers fall within the scope of this starting occupation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T143902Z" creationid="QuenTine" creationdate="20181104T143902Z">
+        <seg>办公室职员、律师、会计、保险职员、银行职员、金融顾问、报税员、办事员、销售人员、房产代理以及各类中层管理人员均属于此类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once selected, a permanent class skill is always considered to be a class skill for the character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T100502Z" creationid="QuenTine" creationdate="20181104T085201Z">
+        <seg>一旦选定，该技能便确定为角色的本职技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One (designated before rolling) is the tens digit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041522Z" creationid="QuenTine" creationdate="20181024T041522Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One other character can make an aid another attempt to help a character purchase an object or service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T141504Z" creationid="QuenTine" creationdate="20181106T141504Z">
+        <seg>一个角色可以在别的角色购买的时候尝试救急。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113436Z" creationid="QuenTine" creationdate="20181022T113436Z">
+        <seg>开放游戏许可证1.0a版，版权起始年份2000年，威世智股份有限公司所有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ordained clergy of all persuasions, as well as theological scholars and experts on religious studies fall within the scope of this starting occupation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T141914Z" creationid="QuenTine" creationdate="20181104T141914Z">
+        <seg>各信仰宗教从业人员，以及神学学者和宗教学术专家都属于这个职业背景范畴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Over the course of play, the hero’s Wealth bonus will decrease as the hero purchases expensive items and increase as the hero gains levels.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134758Z" creationid="QuenTine" creationdate="20181106T133748Z">
+        <seg>在游戏过程中，英雄购买昂贵物品的时候，财富加值会减少，升级的时候会增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permission to copy, modify and distribute this document is granted solely through the use of the Open Gaming License, Version 1.0a.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T032835Z" creationid="QuenTine" creationdate="20181022T032835Z">
+        <seg>通过使用开放游戏许可证（OGL）1.0a版，仅允许复制、修改和分发该文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poisons, diseases, and other effects can cause temporary ability damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140654Z" creationid="QuenTine" creationdate="20181103T140654Z">
+        <seg>毒素、疾病以及其他效果都有可能造成暂时性属性损伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisite: Age 23+.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T095258Z" creationid="QuenTine" creationdate="20181104T095258Z">
+        <seg>要求：年龄23+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113353Z" creationid="QuenTine" creationdate="20181022T113353Z">
+        <seg>改善：如果该许可证的任何规定不能强制执行，这样的规定应被改善至能强制执行的程度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Regardless of the character’s current Wealth bonus, he or she gains a Wealth bonus increase of 1 whenever the character sells an object with a sale value of 15 or higher.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T070522Z" creationid="quentine" creationdate="20190112T070522Z">
+        <seg>不管角色当前财富加值有多少，角色出售售价大于等于15的物品时，额外获得1点财富加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T112029Z" creationid="QuenTine" creationdate="20181022T112029Z">
+        <seg>贡献的权利表示：如果你在贡献原始材料至OGC，你就表示了你的贡献是你的原创内容，你拥有充分的权利可以通过该许可证授权于他人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reputation is used to determine whether another character (a GM character) recognizes a character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T121509Z" creationid="QuenTine" creationdate="20181106T121509Z">
+        <seg>声望决定一个角色是否能被另一个角色（GM控制角色）认出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rescue workers, firefighters, paramedics, hazardous material handlers, and emergency medical technicians fall under this category.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T133412Z" creationid="QuenTine" creationdate="20181104T133412Z">
+        <seg>包括救援人员、消防员、护理人员、危险品处理专员、以及急救医师。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scientists and engineers of all types fit within the scope of this starting occupation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T143541Z" creationid="QuenTine" creationdate="20181104T143541Z">
+        <seg>各类科学家及工程师均属于此类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selling an object can provide an increase to a character’s Wealth bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064400Z" creationid="quentine" creationdate="20190112T064400Z">
+        <seg>出售物品可以增加角色的财富加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selling objects illegally usually requires that the character have contacts in the black market, and reduces the sale value by an additional 3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T073213Z" creationid="quentine" creationdate="20190112T073213Z">
+        <seg>非法出售物品通常要求角色与黑市接触，并将售价再减3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Selling takes a number of hours equal to the normal purchase DC of the item.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T073244Z" creationid="quentine" creationdate="20190112T073244Z">
+        <seg>出售需要耗费掉与物品正常情况下购买DC相等的小时数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since Wealth is an abstract concept, it’s sometimes difficult to determine how financially well off a character is.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T133915Z" creationid="QuenTine" creationdate="20181106T133915Z">
+        <seg>既然财富是一个抽象的概念，角色的经济状况要到什么程度才算好，是难以断定的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some starting occupations provide a Reputation bonus or a bonus feat (in addition to the two feats a 1st-level character already receives).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T091840Z" creationid="QuenTine" creationdate="20181104T091840Z">
+        <seg>部分起始职业可以为角色提供声望加值或额外的奖励专长（在1级角色可以获得的2两个专长之外）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes a special rule makes you multiply a number or a die roll.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T042829Z" creationid="QuenTine" creationdate="20181024T042829Z">
+        <seg>有时一些特殊的规则可能会需要玩家在游戏是对骰点或特定数字进行乘法计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taking 20 requires 20 times as long as normal.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T140547Z" creationid="QuenTine" creationdate="20181106T140349Z">
+        <seg>取20消耗的时间是对应的普通交易所花时间的20倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113323Z" creationid="QuenTine" creationdate="20181022T113323Z">
+        <seg>终止：如果你没有遵守其中所有的条款，并且无法在得知违反条款之日起30天内弥补，该许可证将自动终止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That passion might be a charity or philanthropic foundation, an ideal or cause worth fighting for, or a lust for living a fun and carefree existence.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T132526Z" creationid="QuenTine" creationdate="20181104T131734Z">
+        <seg>可能是慈善事业、或是值得为之奋斗的理想，或者只是放浪形骸，纵情享乐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That system is:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T044639Z" creationid="QuenTine" creationdate="20181024T044639Z">
+        <seg>该机制的内容为：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM decides when a hero’s reputation can be relevant to a scene or encounter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135620Z" creationid="QuenTine" creationdate="20181106T122816Z">
+        <seg>GM来决定英雄的声望值是否会对当前事件造成影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM must decide that a character’s fame or infamy can come into play in a given situation to make a Reputation check necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T130127Z" creationid="QuenTine" creationdate="20181106T130127Z">
+        <seg>GM 必须决定角色的威名或骂名在指定情境下能够融入扮演中，以让情境有进行声望检定的必要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T111757Z" creationid="QuenTine" creationdate="20181022T111757Z">
+        <seg>许可证：该许可证适用于任何包括一个公告声明此OGC只能在遵循该许可证的情况下使用的OGC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Modifiers and Target Number are determined by the type of task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T045559Z" creationid="QuenTine" creationdate="20181024T045559Z">
+        <seg>调整值和目标数值的大小由事件本身决定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Score of these Abilities ranges from 0 to infinity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T131322Z" creationid="QuenTine" creationdate="20181103T131322Z">
+        <seg>以上属性的数值从0到无穷大不等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Wealth bonus is fluid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134358Z" creationid="QuenTine" creationdate="20181106T134358Z">
+        <seg>财富加值是不固定的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The allegiances system is optional.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T141647Z" creationid="QuenTine" creationdate="20181103T141638Z">
+        <seg>立场机制为可选机制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character who provides the aid reduces his or her Wealth bonus by +1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T141606Z" creationid="QuenTine" creationdate="20181106T141606Z">
+        <seg>救急者的财富加值会减少一点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The creative starting occupation covers artists of all types who fan their creative spark into a career.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125349Z" creationid="QuenTine" creationdate="20181104T125349Z">
+        <seg>创作者包含各类艺术行业从业人员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The creature automatically fails Strength checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T133426Z" creationid="QuenTine" creationdate="20181103T133426Z">
+        <seg>这类生物力量检定必然失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The creature fails all Reflex saves and Dexterity checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T134240Z" creationid="QuenTine" creationdate="20181103T134240Z">
+        <seg>这类生物反射豁免及敏捷检定必然失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The creature is also immune to ability damage, ability drain, energy drain, and massive damage, and always fails Constitution checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T135005Z" creationid="QuenTine" creationdate="20181103T135005Z">
+        <seg>这类生物同样免疫属性伤害、属性流失、能量流失和重击，但在进行体质检定时必然失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following text is the property of Wizards of the Coast, Inc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033735Z" creationid="QuenTine" creationdate="20181022T033352Z">
+        <seg>下文是威世智公司的财产，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The increase is the same amount as the Wealth bonus loss the character would experience if the character purchased an object with a purchase DC equal to the sale value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T073036Z" creationid="quentine" creationdate="20190112T065808Z">
+        <seg>卖家所增加的财富与买家损失的财富是相同的，买家的购买DC与售价相同，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The modifier can be calculated using this formula:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T132429Z" creationid="QuenTine" creationdate="20181103T132429Z">
+        <seg>调整值的计算公式如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The modifier for a score of "none" is +0.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T131947Z" creationid="QuenTine" creationdate="20181103T131947Z">
+        <seg>属性值为“无”的属性调整值为+0。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The modifier is the number you add to or subtract from the die roll when your character tries to do something related to that ability.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T132924Z" creationid="QuenTine" creationdate="20181103T132924Z">
+        <seg>在投骰做特定属性相关的检定时，投骰结果需要加上或减去该属性的属性调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The normal human range is 3 to 18.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T131456Z" creationid="QuenTine" creationdate="20181103T131456Z">
+        <seg>正常人类的数值范围是3到18。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The other is the ones digit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041528Z" creationid="QuenTine" creationdate="20181024T041528Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The owner of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T040724Z" creationid="QuenTine" creationdate="20181022T112815Z">
+        <seg>任何被OGC使用了PI的所有人对其PI保留所有权利、署名和利益。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The terms of the Open Gaming License Version 1.0a are as follows:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033319Z" creationid="QuenTine" creationdate="20181022T033319Z">
+        <seg>OGL1.0a版的条款如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The text of the Open Gaming License itself is not Open Game Content.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033155Z" creationid="QuenTine" creationdate="20181022T033038Z">
+        <seg>OGL的全文本身并不是“开放游戏内容”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The typical dilettante has no job, few re-sponsibilities, and at least one driving passion that -occupies his or her day.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T132717Z" creationid="QuenTine" creationdate="20181104T131726Z">
+        <seg>典型的富二代不用工作，也不用担负很重的责任。至少有一件事能燃烧其激情，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T112744Z" creationid="QuenTine" creationdate="20181022T112744Z">
+        <seg>在OGC中任何PI的用途不能动摇该PI的所有权。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are a number of jobs that fit within this occupation, including investigative reporters, photojournalists, private investigators, police detectives, criminologists, criminal profilers, espionage agents, and others who use their skills to gather evidence and analyze clues.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T135616Z" creationid="QuenTine" creationdate="20181104T135616Z">
+        <seg>大量职业都符合该职业背景，包括记者、摄影记者、私家侦探、警探、犯罪学家、罪犯绘图师、特工以及具备搜集分析信息的职业都属于这类人群。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These allegiances are indications of what the character values in life, and may encompass people, organizations, or ideals.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T142245Z" creationid="QuenTine" creationdate="20181103T142245Z">
+        <seg>这些立场反映着角色如何看待人生，围绕着周遭人与组织以及自身理想而建立。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These rules assume a standardized system for determining the success or failure of any given task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T044635Z" creationid="QuenTine" creationdate="20181024T044635Z">
+        <seg>这一系列规则的目的旨在确定一切特定事件的成功或失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These small to large business owners have a knack for putting together business plans, gathering resources, and getting a new venture off the ground.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T135045Z" creationid="QuenTine" creationdate="20181104T135045Z">
+        <seg>这些大大小小的企业家对统合商业计划、搜集资源以及抓住新商机都很有一套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They believe in themselves, have an abundance of confidence, and the ability to acquire the funds necessary to bankroll their newest moneymaking venture.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T134747Z" creationid="QuenTine" creationdate="20181104T134722Z">
+        <seg>他们富有自信，有能力为他发现的商机募集投资。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They rarely want to stick around after the launch, however, as they prefer to put their energies into the next big thing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T135256Z" creationid="QuenTine" creationdate="20181104T135256Z">
+        <seg>他们甚至把午饭后闲逛的时间都花到有用的地方去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This belief implies altruism, respect for life, and a concern for the dignity of other creatures.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T081731Z" creationid="QuenTine" creationdate="20181104T081615Z">
+        <seg>这种信仰包含了利他主义、尊重生命、关心他人的尊严。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This describes how one feels about order, as represented by law and chaos.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T080329Z" creationid="QuenTine" creationdate="20181104T080329Z">
+        <seg>描述一个人对秩序的看法，守序还是混乱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This describes one’s attitude toward others, as represented by good and evil.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T081518Z" creationid="QuenTine" creationdate="20181104T081518Z">
+        <seg>描述一个人对他人的态度，善良还是邪恶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This document provides an interface to the basic rules and materials needed to create content compatible with the modern setting based on the best-selling tabletop RPG system in the world.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T032924Z" creationid="QuenTine" creationdate="20181022T032924Z">
+        <seg>该文件提供了一个基本规则和材料的接口，用于创造与基于世界最畅销桌上RPG系统的现代题材设定兼容的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This illicit starting occupation reveals a background from the wrong side of the law.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T130353Z" creationid="QuenTine" creationdate="20181104T130353Z">
+        <seg>不法之徒游走在法律边缘之外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This includes a leader or superior, a family, a group of linked individuals (such as a band of adventurers or a cell of secret agents), or a discrete unit within a larger organization (such as members of the character’s squad or platoon, or individuals whose safety the character is responsible for).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135248Z" creationid="QuenTine" creationdate="20181104T074535Z">
+        <seg>包括某领袖、家族或者是由相关个体所组成的团体（例如一队英雄或是一班秘密特工），抑或是大组织中的小团体（例如玩家所在的小队或者排，或是由角色负责安全的团队）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is usually a particular faith or religion, but can also be a specific philosophy or school of thought.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T075815Z" creationid="QuenTine" creationdate="20181104T075500Z">
+        <seg>通常指某种信仰或者宗教，但同样可以是特定的学派或教派，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T083921Z" creationid="QuenTine" creationdate="20181104T083921Z">
+        <seg>&gt; 该材料是OGC，而且是被OGL的条款许可公开使用的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This material is being released using the Open Gaming License Version 1.0a and you should read and understand the terms of that license before using this material.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033020Z" creationid="QuenTine" creationdate="20181022T033020Z">
+        <seg>该材料使用OGL1.0a版发布，使用前你应该阅读并理解那篇许可证的条款。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This may be a company or corporation, a gathering of like-minded individuals, a fraternal brotherhood, a secret society, a branch of the armed forces, a local, state, or national government, a university, an employer, or an otherwise established authority.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T074853Z" creationid="QuenTine" creationdate="20181104T074708Z">
+        <seg>某个公司或集团、志同道合者组队、兄弟会、秘密社团、军队支部、各级政府、大学、雇佣者、或者是其他组织。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This may or may not be the nation that the hero currently resides in.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T075324Z" creationid="QuenTine" creationdate="20181104T075044Z">
+        <seg>不一定是角色的现居国，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This occupation includes con artists, burglars, thieves, crime family soldiers, gang members, bank robbers, and other types of career criminals.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T130014Z" creationid="QuenTine" creationdate="20181104T130014Z">
+        <seg>罪犯从事的职业背景包括诈骗犯、小偷、黑手党、黑帮成员、银行劫匪以及其他犯罪职业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This provides a +4 bonus or a –4 penalty on checks involving the following skills for the duration of the encounter: Bluff, Diplomacy, Gather Information, Intimidate, and Perform.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T125847Z">
+        <seg>这将会为英雄的唬骗、交涉、收集信息、威吓和表演带来±4的调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those who recognize the hero are more likely to help the hero or do what he or she asks, provided the reputation has a positive connotation to the character who recognizes the hero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T122601Z">
+        <seg>如果英雄的声望在认出英雄的角色看来是正面的，那么认出英雄的角色更可能帮英雄做些事情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thus, a double (x2) and a double (x2) applied to the same number results in a triple (x3, because 2 + 1 = 3).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T044522Z" creationid="QuenTine" creationdate="20181024T043605Z">
+        <seg>因此两次乘以2的计算结果是乘以3（2+1=3）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To determine a character’s starting Wealth bonus, roll 2d4 and add the wealth bonus for the character’s starting occupation, plus (if appropriate) the bonus from the Windfall feat, plus 1 if the character has ranks in Profession.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063616Z" creationid="QuenTine" creationdate="20181106T133258Z">
+        <seg>要决定一个角色的初始财富加值，掷2d4加上角色职业背景的财富加值，再加上（如果有的话）横财专长的加值，如果角色在`专业`上拥有等级则还要再加1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To get a general sense of how financially solvent a character is at any given time, check the table below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T133934Z" creationid="QuenTine" creationdate="20181106T133934Z">
+        <seg>任何时候，想要了解一个角色的大体经济状况，参考下表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To purchase an object, make a Wealth check against the purchase DC.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134311Z" creationid="QuenTine" creationdate="20181106T134311Z">
+        <seg>要购买一件物品，就要比对财富值与购买难度等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To sell something, a character first needs to determine its sale value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064218Z" creationid="quentine" creationdate="20190112T064218Z">
+        <seg>要出售物品，角色首先要定下它的`售价`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two 0s represent 100.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041532Z" creationid="QuenTine" creationdate="20181024T041532Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Updating the License: Wizards or its designated Agents may publish updated versions of this License.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113042Z" creationid="QuenTine" creationdate="20181022T113042Z">
+        <seg>更新许可证：威世智或者它指派的代理人会出版该许可证的更新版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113152Z" creationid="QuenTine" creationdate="20181022T113152Z">
+        <seg>贡献者名单的使用：你不可以使用任何贡献者的名字在市场上出售或者广告宣传OGC，除非你已获得那个贡献者的许可这么做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use of Product Identity: You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agreement with the owner of each element of that Product Identity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T112630Z" creationid="QuenTine" creationdate="20181022T112630Z">
+        <seg>产品识别的使用：你同意不使用任何产品识别，包括指示相容性，除非在与那个PI的每一个元素的所有者订立的另一个独立的协议中特许。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Wealth checks are used to determine what characters can afford and what gear they might reasonably have access to.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134208Z" creationid="QuenTine" creationdate="20181106T134208Z">
+        <seg>财富检定用于判定角色能够买得起什么和能穿得起什么装备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a character has a negative opinion of a hero’s reputation, the hero is considered to be infamous by that character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T124149Z">
+        <seg>角色对英雄的声望有负面的看法，则该英雄对于该角色享有骂名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a character has a positive opinion of a hero’s reputation, the hero is considered to be famous by that character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T123947Z">
+        <seg>角色对英雄的声望有正面的看法，则该英雄对于该角色享有威名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When an ability score changes, the modifier associated with that score also changes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140821Z" creationid="QuenTine" creationdate="20181103T140821Z">
+        <seg>当属性值发生变化时，该属性相关的调整值随即发生变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When two or more multipliers apply, however, combine them into a single multiple, with each extra multiple adding 1 less than its value to the first multiple.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T044336Z" creationid="QuenTine" creationdate="20181024T042911Z">
+        <seg>当有超过一个乘数参与计算，则将所有乘数求和，每一个额外的乘数在求和时减1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever a character buys an object that has a purchase DC higher than his or her current Wealth bonus, the character’s Wealth bonus decreases (see below).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T061316Z" creationid="QuenTine" creationdate="20181106T140704Z">
+        <seg>即只要角色购买了DC大于财富加值的物品，角色的财富加值会减少（如下）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whenever the GM decides that a character’s reputation can be a factor in an encounter, the GM makes a Reputation check (DC 25) for the GM character involved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T124959Z" creationid="QuenTine" creationdate="20181106T124959Z">
+        <seg>当GM决定套用声望时，GM需要对相关GM控制角色进行一次声望检定（DC25）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whether this has a positive or negative connotation depends on the point of view of the person who recognizes the hero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T123500Z">
+        <seg>这是美名还是臭名取决于认出者对英雄的看法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With the GM’s permission, the character gains a +2 circumstance bonus on Charisma-based skill checks when dealing with someone of the same allegiance—as long as the character has had some interaction with the other character to discover the connections and bring the bonus into play.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T083900Z" creationid="QuenTine" creationdate="20181104T082156Z">
+        <seg>在GM的允许下，角色可以在与同立场角色进行魅力检定时获得+2的环境加值。这一环境加值必须是目标角色发现这种联系才有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunction with a work containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T112647Z" creationid="QuenTine" creationdate="20181022T112647Z">
+        <seg>你同意不通过任何商标或者注册商标连同一个包含OGC的内容表明相容性或者互适性，除非在与该商标或注册商标所有者订立的另一个独立的协议中特许。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113047Z" creationid="QuenTine" creationdate="20181022T113047Z">
+        <seg>你可以使用任何该许可证的权威版本以复制、修改和分发任何原本依据该许可证的任何版本分发的OGC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You must affix such a notice to any Open Game Content that you Use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T111802Z" creationid="QuenTine" creationdate="20181022T111802Z">
+        <seg>你必须附上类似的声明于任何你使用的OGC上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\[1\] This stacks with the loss from a Purchase DC above the character’s current wealth bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063039Z" creationid="quentine" creationdate="20190112T062608Z">
+        <seg>\[1\] 这与下述加值损失叠加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and is Copyright 2000 Wizards of the Coast, Inc ("Wizards").</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033753Z" creationid="QuenTine" creationdate="20181022T033753Z">
+        <seg>版权所有，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>d20 + Modifiers vs. Target Number</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T045310Z" creationid="QuenTine" creationdate="20181024T045310Z">
+        <seg>d20 + 调整值（Modifiers） vs. 目标数值（Target Number）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Object or Service Purchase DC|Wealth Bonus Decrease|
+|-----------------------------------------------|----------------------------------:|
+|15 or higher|+1 point \[1\]|
+|1–10 points higher than current Wealth bonus|1 point|
+|11–15 points higher than current Wealth bonus|1d6 points|
+|16 or more points higher than current Wealth Bonus.|2d6 points|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T062528Z" creationid="quentine" creationdate="20190112T062528Z">
+        <seg>|物品或服务的购买DC|财富加值减少额|
+|-----------------------------------------------|----------------------------------:|
+|15或以上|+1点 \[1\]|
+|比当前财富加值高1-10点|1点|
+|比当前财富加值高11-15点|1d6点|
+|比当前财富加值高16点及以上|2d6点|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Situation|Reputation Check Modifier|
+|-------------|:------------------------------------:|
+|The hero is famous, known far and wide with either a positive or negative connotation|+10|
+|GM character is part of the hero’s professional or social circle GM|+5|
+|The hero has some small amount of fame or notoriety|+2|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T130005Z">
+        <seg>|情况|声望检定调整值|
+|-------------|:------------------------------------:|
+|该英雄威名或者骂名远扬|+10|
+|GM 角色是该英雄行业领域或社交圈内部的人|+5|
+|该英雄小有名声|+2|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Wealth Bonus|Financial Condition|
+|--------------------|----------------------------|
+|+0|Impoverished or in debt|
+|+1 to +4|Struggling|
+|+5 to +10|Middle class|
+|+11 to +15|Affluent|
+|+16 to +20|Wealthy|
+|+21 to +30|Rich|
+|+31 or higher|Very rich|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134103Z" creationid="QuenTine" creationdate="20181106T134103Z">
+        <seg>|财富加值|经济情况|
+|--------------------|----------------------------|
+|+0|一文不名或欠债|
+|+1 to +4|温饱|
+|+5 to +10|中产|
+|+11 to +15|宽裕|
+|+16 to +20|富有|
+|+21 to +30|富豪|
+|+31 or higher|巨富|</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
