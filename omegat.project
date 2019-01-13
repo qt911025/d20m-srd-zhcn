@@ -24,10 +24,5 @@
         <support_default_translations>true</support_default_translations>
         <remove_tags>false</remove_tags>
         <external_command></external_command>
-        <repositories>
-            <repository type="git" url="git@github.com:qt911025/d20m-srd-zhcn.git">
-                <mapping local="." repository="."/>
-            </repository>
-        </repositories>
     </project>
 </omegat>
