@@ -118,3 +118,11 @@ take 10	取10
 take 20	取20
 Aid Another	救急	帮人付钱
 sale value	售价
+defense	防御
+attack roll	攻击骰
+flat-footed	措手不及
+armor	护甲
+Touch Attacks	接触攻击
+Size	体型
+dodge	闪避
+deflection	偏斜

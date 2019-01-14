@@ -68,7 +68,7 @@ A starship’s Defense is partly determined by the skill of the pilot or the qua
 PILOTED SHIPS
 A starship with a living pilot has a Defense equal to:
 10 + starship’s size modifier + pilot’s class bonus to Defense + pilot’s Dexterity modifier
-Starship’s Size Modifier: The bigger a starship is, the easier it is to hit in combat. The smaller it is, the harder it is to hit. Size modifiers are shown on Table: Starship Sizes.
+Starship’s Size Modifier: The bigger a starship is, the easier it is to hit in combat. 越小则越难被击中。Size modifiers are shown on Table: Starship Sizes.
 Pilot’s Class Bonus to Defense: The pilot imparts her class bonus to Defense to the ship’s Defense. This bonus applies even if the starship is flat-footed or otherwise denied the pilot’s Dexterity bonus to its Defense.
 All starship pilots are assumed to have the appropriate Starship Operation feat. Consequently, they apply their full class bonus to Defense (instead of one-half the modifier) to a starship’s Defense.
 Pilot’s Dexterity Modifier: In any given round, a pilot may choose to transfer her full Dexterity bonus to the starship’s Defense. However, doing so forces the pilot to focus entirely on flying the ship, and consequently the pilot loses the Dexterity bonus to her own Defense for the round.

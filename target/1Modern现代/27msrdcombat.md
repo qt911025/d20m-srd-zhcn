@@ -29,7 +29,7 @@ Strength helps a character swing a weapon harder and faster, so a character’s 
 Size Modifier
 Creature size categories are defined differently from the size categories for weapons and other objects. Since this size modifier applies to Defense against a melee weapon attack or a ranged weapon attack, two creatures of the same size strike each other normally, regardless of what size they actually are. Creature sizes are compatible with vehicle sizes.
 
-Table: Size Modifiers
+表：体型调整值
 
 |Size (Example)|Size Modifier|
 |--------------|:-----------:|
@@ -70,7 +70,7 @@ Bonus damage represented as extra dice is not multiplied when a character scores
 Objects (including vehicles) and some types of creatures are immune to critical hits.  A 20 is always a successful hit, but deals no extra damage against these targets.
 
 Defense
-A character’s Defense represents how hard it is for opponents to land a solid, damaging blow on the character. It’s the attack roll result that an opponent needs to achieve to hit the character. The average, unarmored civilian has a Defense of 10. A character’s Defense is equal to:
+A character’s Defense represents how hard it is for opponents to land a solid, damaging blow on the character. It’s the attack roll result that an opponent needs to achieve to hit the character. 一般一个没有武装的平民防御值为10。A character’s Defense is equal to:
 10 + Dexterity modifier + class bonus + equipment bonus + size modifier
 Dexterity Modifier
 If a character’s Dexterity is high, he or she is particularly adept at dodging blows or gunfire. If a character’s Dexterity is low, he or she is particularly inept at it. Characters apply their Dexterity modifier to Defense.
@@ -78,20 +78,20 @@ Sometimes a character can’t use his or her Dexterity bonus. If a character can
 Class Bonus
 A character’s class and level grant the character an innate bonus to Defense. This bonus applies in all situations, even when the character is flat-footed or when the character would lose his or her Dexterity bonus for some other reason.
 Equipment Bonus
-If a character wears armor, it provides a bonus to his or her Defense. This bonus represents the armor’s ability to protect the character from blows.
-Armor provides a minimum bonus to anyone who wears it, but a character who is proficient in the use of a certain type of armor receives a larger bonus to Defense.
+If a character wears armor, it provides a bonus to his or her Defense. 这一加值代表护甲为角色抵挡击打的能力。
+护甲为穿戴的角色提供了一个最小装备加值，而擅长或精通特定类型护甲的角色可以获得更高的防御加值。
 Sometimes a character can’t use his or her equipment bonus to Defense. If an attack will damage the character just by touching him or her, that character can’t add his or her equipment bonus (see Touch Attacks, below).
 Size Modifier
-The bigger an opponent is, the easier it is to hit in combat. The smaller it is, the harder it is to hit. Since this same modifier applies to attack rolls a creature doesn’t have a hard time attacking another creature of the same size. Size modifiers are shown on Table: Size Modifiers.
+The bigger an opponent is, the easier it is to hit in combat. 越小则越难被击中。Since this same modifier applies to attack rolls a creature doesn’t have a hard time attacking another creature of the same size. Size modifiers are shown on Table: Size Modifiers.
 Other Modifiers
 Other factors can add to a character’s Defense.
 Feats: Some feats give a bonus to a character’s Defense.
-Natural Armor: Some creatures have natural armor, which usually consists of scales, fur, or layers of thick muscle.
-Dodge Bonuses: Some other Defense bonuses represent actively avoiding blows. These bonuses are called dodge bo-nus-es. Any situation that denies a character his or her Dexterity bonus also denies his or her dodge bonuses. Unlike most sorts of bonuses, dodge bonuses stack with each other.
-Magical Effects: Some campaigns may include magic. Some magical effects offer enhancement bonuses to armor (making it more effective) or deflection bonuses that ward off attacks.
+天然护甲：有的生物具有天然护甲，通常为鳞片、毛皮或厚肉。
+闪避加值：主动闪避攻击同样会为防御提供加值。这类加值被称为闪避加值。Any situation that denies a character his or her Dexterity bonus also denies his or her dodge bonuses. 同大多数加值不同，闪避加值可以相互叠加。
+魔法效果：有的冒险可能会加入魔法内容。部分魔法效果能够为护甲提供加成，或是提供偏斜加值以使对方的攻击失效。
 
 Touch Attacks
-Some attacks disregard armor.  In these cases, the attacker makes a touch attack roll (either a ranged touch attack roll or a melee touch attack roll). The attacker makes his or her attack roll as normal, but a character’s Defense does not include any equipment bonus or armor bonus. All other modifiers, such as class bonus, Dexterity modifier, and size modifier, apply normally.
+Some attacks disregard armor.  这种情况下，攻击方需要进行接触攻击投掷（远程接触攻击或近战接触攻击）。The attacker makes his or her attack roll as normal, but a character’s Defense does not include any equipment bonus or armor bonus. 其他调整值，如职业加值、敏捷调整值和体型调整值照常计算。
 
 Hit Points
 A character’s hit points tell how much punishment he or she can take before dropping. Hit points are based on the character’s class and level, and the character’s Constitution modifier applies.
