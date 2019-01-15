@@ -151,3 +151,47 @@ round	轮	所有角色都过一遍
 turn	回合	轮到一个玩家的行动时段
 stable	稳定
 Damage	伤害
+condition	状态
+effective	效果上的
+Blinded	目盲
+miss	失手
+Search	搜索
+Cowering	畏缩
+Deafened	耳聋
+Entangled	纠缠
+charge	冲锋
+run	奔跑
+Exhausted	力竭
+Fatigued	疲乏
+attack of opportunity	借机攻击
+Paralyzed	麻痹
+coup de grace	致命一击
+Nauseated	反胃
+Pinned	压制
+Prone	俯卧
+Shaken	战栗
+Stunned	震慑
+environment	环境
+hazard	危险
+Heat	炎热
+Cold	寒冷
+Darkness	黑暗
+Light	光明
+counteracts	抵御
+Starvation	饥饿
+Thirst	口渴
+Suffocation	窒息
+Drown	溺水
+Smoke	烟雾
+choke	呛气
+Strangulation	扼喉
+Colossal	超巨型
+Gargantuan	巨型
+Huge	超大型
+Large	大型
+Medium-size	普通
+Small	小型
+Tiny	超小型
+Diminutive	微型
+Fine	超微型
+chemical	化学

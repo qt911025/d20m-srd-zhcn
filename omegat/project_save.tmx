@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># CONDITION SUMMARY</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T115433Z" creationid="quentine" creationdate="20190115T115433Z">
+        <seg># 状态摘要</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># Changing Ability Scores</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140451Z" creationid="QuenTine" creationdate="20181103T140451Z">
@@ -66,6 +74,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T112548Z" creationid="quentine" creationdate="20190114T112548Z">
         <seg># 防御</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># ENVIRONMENT &amp; HAZARDS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131113Z" creationid="quentine" creationdate="20190115T131113Z">
+        <seg># 环境与危险</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,10 +150,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Ability Damaged</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T115618Z" creationid="quentine" creationdate="20190115T115618Z">
+        <seg>## 属性伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Ability Drained</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T120225Z" creationid="quentine" creationdate="20190115T120225Z">
+        <seg>## 属性流失</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Academic</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T095058Z" creationid="QuenTine" creationdate="20181104T095058Z">
         <seg>## 学者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Acid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143159Z" creationid="quentine" creationdate="20190115T143159Z">
+        <seg>## 酸</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,10 +214,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Blinded</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T120308Z" creationid="quentine" creationdate="20190115T120308Z">
+        <seg>## 目盲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Blue Collar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T122911Z" creationid="QuenTine" creationdate="20181104T122911Z">
         <seg>## 蓝领</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Catching on Fire</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132144Z" creationid="quentine" creationdate="20190115T132144Z">
+        <seg>## 着火</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Cowering</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T120948Z" creationid="quentine" creationdate="20190115T120948Z">
+        <seg>## 畏缩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Creative</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125240Z" creationid="QuenTine" creationdate="20181104T125240Z">
@@ -234,6 +298,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041216Z" creationid="QuenTine" creationdate="20181024T041216Z">
         <seg>## 骰子记法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Darkness and Light</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131122Z" creationid="quentine" creationdate="20190115T131122Z">
+        <seg>## 黑暗与光明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Dazed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121311Z" creationid="quentine" creationdate="20190115T121311Z">
+        <seg>## 眩晕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Dead</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121453Z" creationid="quentine" creationdate="20190115T121453Z">
+        <seg>## 死亡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Deafened</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121633Z" creationid="quentine" creationdate="20190115T121633Z">
+        <seg>## 耳聋</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,10 +358,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Disabled</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121823Z" creationid="quentine" creationdate="20190115T121823Z">
+        <seg>## 瘫痪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Disabled (0 Hit Points)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145537Z" creationid="quentine" creationdate="20190114T145537Z">
         <seg>## 瘫痪（0生命）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Disease</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141800Z" creationid="quentine" creationdate="20190115T141800Z">
+        <seg>## 疾病</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Dying</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121915Z" creationid="quentine" creationdate="20190115T121915Z">
+        <seg>## 濒死</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Effects of Hit Point Damage</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T141658Z" creationid="quentine" creationdate="20190114T141658Z">
@@ -286,10 +406,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Electricity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143719Z" creationid="quentine" creationdate="20190115T143719Z">
+        <seg>## 电</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Emergency Services</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T133211Z" creationid="QuenTine" creationdate="20181104T133211Z">
         <seg>## 应急人员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Entangled</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122038Z" creationid="quentine" creationdate="20190115T122038Z">
+        <seg>## 纠缠</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,10 +454,74 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Exhausted</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122351Z" creationid="quentine" creationdate="20190115T122351Z">
+        <seg>## 力竭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Falling</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T135207Z" creationid="quentine" creationdate="20190115T135207Z">
+        <seg>## 坠落</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Falling Objects</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T135611Z" creationid="quentine" creationdate="20190115T135611Z">
+        <seg>## 坠落物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Fame and Infamy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T123232Z" creationid="QuenTine" creationdate="20181106T123232Z">
         <seg>## 威名和骂名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Fatigued</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122554Z" creationid="quentine" creationdate="20190115T122554Z">
+        <seg>## 疲乏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Flat-Footed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122639Z" creationid="quentine" creationdate="20190115T122639Z">
+        <seg>## 措手不及</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Grappled</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T124636Z" creationid="quentine" creationdate="20190115T122851Z">
+        <seg>## 擒抱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Heat and Cold</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131508Z" creationid="quentine" creationdate="20190115T131508Z">
+        <seg>## 炎热与寒冷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Helpless</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123500Z" creationid="quentine" creationdate="20190115T123500Z">
+        <seg>## 无助</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Nauseated</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123715Z" creationid="quentine" creationdate="20190115T123715Z">
+        <seg>## 反胃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Nonlethal Damage</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T144434Z" creationid="quentine" creationdate="20190114T144434Z">
@@ -430,10 +638,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Panicked</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123901Z" creationid="quentine" creationdate="20190115T123901Z">
+        <seg>## 恐慌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Paralyzed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123959Z" creationid="quentine" creationdate="20190115T123959Z">
+        <seg>## 麻痹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Person or Group</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T074152Z" creationid="QuenTine" creationdate="20181104T074152Z">
         <seg>## 某人或某团体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Pinned</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T124130Z" creationid="quentine" creationdate="20190115T124130Z">
+        <seg>## 压制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Poison</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141016Z" creationid="quentine" creationdate="20190115T140907Z">
+        <seg>## 毒素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Prone</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T124843Z" creationid="quentine" creationdate="20190115T124843Z">
+        <seg>## 俯卧</seg>
       </tuv>
     </tu>
     <tu>
@@ -478,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Shaken</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125108Z" creationid="quentine" creationdate="20190115T125108Z">
+        <seg>## 战栗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Shopping and Time</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135931Z" creationid="QuenTine" creationdate="20181106T135931Z">
@@ -494,10 +750,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Smoke</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133714Z" creationid="quentine" creationdate="20190115T133714Z">
+        <seg>## 烟雾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Stable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125218Z" creationid="quentine" creationdate="20190115T125218Z">
+        <seg>## 稳定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Stable Characters and Recovery</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T150911Z" creationid="quentine" creationdate="20190114T150911Z">
         <seg>## 角色的稳定与恢复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Starvation and Thirst</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132655Z" creationid="quentine" creationdate="20190115T132655Z">
+        <seg>## 饥饿与口渴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Strangulation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134232Z" creationid="quentine" creationdate="20190115T134232Z">
+        <seg>## 扼喉</seg>
       </tuv>
     </tu>
     <tu>
@@ -514,6 +802,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T142411Z" creationid="QuenTine" creationdate="20181104T142411Z">
         <seg>## 学生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Stunned</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125246Z" creationid="quentine" creationdate="20190115T125246Z">
+        <seg>## 震慑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Suffocation and Drowning</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133211Z" creationid="quentine" creationdate="20190115T133211Z">
+        <seg>## 窒息与溺水</seg>
       </tuv>
     </tu>
     <tu>
@@ -554,6 +858,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T140713Z" creationid="QuenTine" creationdate="20181106T140713Z">
         <seg>## 再来一次？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Unconscious</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125425Z" creationid="quentine" creationdate="20190115T125425Z">
+        <seg>## 昏迷</seg>
       </tuv>
     </tu>
     <tu>
@@ -718,6 +1030,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Perils of Using Poison</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141518Z" creationid="quentine" creationdate="20190115T141518Z">
+        <seg>### 使用毒物的危险</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Poison Immunity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141639Z" creationid="quentine" creationdate="20190115T141639Z">
+        <seg>### 毒性免疫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### ROUNDING FRACTIONS</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T042702Z" creationid="QuenTine" creationdate="20181024T042702Z">
@@ -788,6 +1116,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135640Z" creationid="QuenTine" creationdate="20181106T125535Z">
         <seg>（英雄在某一领域特别出名时，GM也可以使用该领域知识技能调整值代替智力调整值进行计算）声望检定的调整值取决于英雄和认出者，具体见下文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(That is, once the character succeeds at the saving throw, he or she is no longer on fire.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132436Z" creationid="quentine" creationdate="20190115T132436Z">
+        <seg>（也即是说豁免一旦成功，就不再着火。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -953,6 +1289,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Incubation Period:** The amount of time before initial damage takes effect (if the victim fails his or her Fortitude save).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142234Z" creationid="quentine" creationdate="20190115T142234Z">
+        <seg>**潜伏期：** 从接触到受初次伤害所经过的时间（如果强韧豁免失败的话）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Initial Damage:** The damage the victim takes after the incubation period.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142255Z" creationid="quentine" creationdate="20190115T142255Z">
+        <seg>**初始伤害：** 潜伏期过后病患受到的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Prerequisite:** Age 15+.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T114022Z" creationid="QuenTine" creationdate="20181104T114022Z">
@@ -1017,6 +1369,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Secondary Damage:** The amount of damage the hero takes one day after taking initial damage, if he or she fails a second saving throw.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142511Z" creationid="quentine" creationdate="20190115T142351Z">
+        <seg>**再次伤害：** 第二次豁免失败，英雄受到初次伤害第二天受到的伤害数目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Skills:** Choose one of the following skills as permanent class skills.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T124309Z" creationid="QuenTine" creationdate="20181104T124309Z">
@@ -1037,6 +1397,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T114043Z" creationid="QuenTine" creationdate="20181104T114043Z">
         <seg>**技能：** 从以下技能选两项作为永久本职技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Type:** The disease’s method of delivery—ingested, inhaled, or via an injury—and the DC needed to save.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142148Z" creationid="quentine" creationdate="20190115T142148Z">
+        <seg>**类型：** 疾病的传播类型——摄入性、吸入性或伤口性——以及豁免所需DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1321,6 +1689,38 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character can go without food for three days, in growing discomfort.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132948Z" creationid="quentine" creationdate="20190115T132948Z">
+        <seg>角色可以三天缺食物，此期间角色逐渐感到不适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can go without water for one day plus a number of hours equal to his or her Constitution score.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132859Z" creationid="quentine" creationdate="20190115T132859Z">
+        <seg>角色可以连续在一天+等同于其体质值的小时数内缺水。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can make a Fortitude saving throw to reduce the damage by half.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143825Z" creationid="quentine" creationdate="20190115T143825Z">
+        <seg>角色可以进行强韧豁免以让伤害减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can make a Tumble check (DC 15) to treat a fall as if it were 10 feet shorter when determining the damage and Reflex saving throw DC required by the fall.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T135600Z" creationid="quentine" creationdate="20190115T135600Z">
+        <seg>在反射检定结算伤害时，如果高度低于10尺，角色可以对掉落进行翻滚检定（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character can only spend 1 action point in a round.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T135516Z" creationid="quentine" creationdate="20190114T135516Z">
@@ -1333,6 +1733,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T133401Z" creationid="quentine" creationdate="20190114T133401Z">
         <seg>角色可以用一点行动点选一个做：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can strangle or choke a target of the same size category or one size category larger or smaller.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134701Z" creationid="quentine" creationdate="20190115T134357Z">
+        <seg>角色能够对同样体型或者比自己大一级或小一级的目标扼喉或使其窒息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1369,6 +1777,38 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character dies when his or her hit points drop to –10 or lower, or when his or her Constitution drops to 0.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121623Z" creationid="quentine" creationdate="20190115T121623Z">
+        <seg>当生命值降至-10以及更低，或体质降至0，角色死亡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character fully immersed in acid takes potentially more damage per round of exposure than a character splashed with acid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143523Z" creationid="quentine" creationdate="20190115T143523Z">
+        <seg>角色完全浸入酸比溅到酸受到更多的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character has a 5% chance (roll of 1 on 1d20) to expose him or herself to a poison whenever the character applies it to a weapon or otherwise readies it for use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141538Z" creationid="quentine" creationdate="20190115T141538Z">
+        <seg>角色涂毒或执行其他准备使用毒物的动作时会有5%的几率让自己中毒（D20投出1）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character in an airless environment (underwater, vacuum) can hold his or her breath for a number of rounds equal to his or her Constitution score.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133405Z" creationid="quentine" creationdate="20190115T133405Z">
+        <seg>角色在无空气的环境下（水下、真空）能够闭气，持续等同于其体质的轮数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character may have no allegiances (being either a free spirit or a lone wolf) or may change allegiances as he or she goes through life.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135206Z" creationid="QuenTine" creationdate="20181103T142450Z">
@@ -1381,6 +1821,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T141715Z" creationid="QuenTine" creationdate="20181103T141715Z">
         <seg>每个角色最多可以有三个立场，按重要程度从高到低排列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character not properly equipped to counteract the heat or cold must attempt a Fortitude saving throw each hour (DC 15, +1 for each previous check).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131804Z" creationid="quentine" creationdate="20190115T131804Z">
+        <seg>角色如果没有穿戴能够抵御炎热或寒冷的装备，必须每小时进行一次强韧豁免检定（DC15，之后每次检定DC+1）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1401,6 +1849,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character takes 1d6 points of damage for every 10 feet of a fall, to a maximum of 20d6 points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T135226Z" creationid="quentine" creationdate="20190115T135226Z">
+        <seg>角色坠落后，每10尺的高度角色受到1d6的伤害，封顶20d6。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character undergoing complete bed rest (doing nothing for an entire day) recovers 2 hit points per character level.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113450Z" creationid="quentine" creationdate="20190115T113450Z">
@@ -1409,10 +1865,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character who becomes stunned loses his or her Dexterity bonus, drops what he or she is holding, and can take no attack or move actions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125350Z" creationid="quentine" creationdate="20190115T125329Z">
+        <seg>震慑状态的角色会失去敏捷加值，手上的东西会掉落，无法攻击或移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character who doesn’t know, or know of, the hero can’t be influenced by his or her reputation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T130157Z">
         <seg>角色不认识、没听说过这个英雄，是不能被英雄的声望影响的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character who has not yet acted during a combat is flat-footed, not reacting normally to the situation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122707Z" creationid="quentine" creationdate="20190115T122707Z">
+        <seg>角色战斗时还未行动就是措手不及，不能正常对形势作出反应。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character who succeeds at a Survival check (DC 15) gains a +4 competence bonus on the save (see the Survival skill).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131933Z" creationid="quentine" creationdate="20190115T131933Z">
+        <seg>生存检定成功（DC15）的角色会在豁免中获得4点表现加值（详见“生存”技能）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1585,10 +2065,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A flat-footed character loses his or her Dexterity bonus to Defense and cannot make attacks of opportunity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122836Z" creationid="quentine" creationdate="20190115T122836Z">
+        <seg>措手不及的角色在防御时，敏捷加值不会生效，且无法借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A helpless character has an effective Defense of 5 + size modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123552Z" creationid="quentine" creationdate="20190115T123552Z">
+        <seg>无助的角色的有效防御值为5+体型调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A hero may hold other jobs as his or her career unfolds, but the benefits of a starting occupation are only applied once, at the time of character creation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181104T084211Z">
         <seg>英雄在开始冒险前可能从事过某种工作，但这种职业背景的加成只在建立人物时获得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A hero on fire may automatically extinguish the flames by jumping into enough water to douse him or herself.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132515Z" creationid="quentine" creationdate="20190115T132515Z">
+        <seg>着火中的英雄跳进足够多的水中会自动熄灭火焰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1649,6 +2153,38 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A number of adverse conditions can affect the way a character operates, as defined here.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T115518Z" creationid="quentine" creationdate="20190115T115518Z">
+        <seg>大量不利的状态会如下所述影响角色的操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A panicked character flees as fast as possible and cowers (see Cowering, above) if unable to get away.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123921Z" creationid="quentine" creationdate="20190115T123921Z">
+        <seg>恐慌的角色会尽可能逃跑，如果无法逃跑，就会畏缩（见上文“畏缩”）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A pinned character cannot move but is not helpless.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140437Z" creationid="quentine" creationdate="20190115T140437Z">
+        <seg>被压制的角色不能移动但不处于无助状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A pinned character is held immobile (but not helpless) in a grapple.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T124745Z" creationid="quentine" creationdate="20190115T124745Z">
+        <seg>角色在擒抱中被固定住，就是处于压制状态，无法行动（但不是无助）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A positive modifier is called a bonus, and a negative modifier is called a penalty.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T132957Z" creationid="QuenTine" creationdate="20181103T132957Z">
@@ -1681,6 +2217,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A second save must succeed 1 minute later to avoid taking another 1d4 points of Constitution damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143700Z" creationid="quentine" creationdate="20190115T143700Z">
+        <seg>一分钟后进行再次豁免，失败则再受到1d4点体质伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A shaken character takes a –2 penalty on attack rolls, saving throws, and skill checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125209Z" creationid="quentine" creationdate="20190115T125209Z">
+        <seg>战栗的角色在攻击、豁免与技能检定时有2点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A stable character is no longer dying, but is still unconscious.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125228Z" creationid="quentine" creationdate="20190115T125228Z">
+        <seg>稳定的角色不再濒死，但仍昏迷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A stable character stops losing hit points every round, but remains unconscious.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T111827Z" creationid="quentine" creationdate="20190115T111827Z">
@@ -1693,6 +2253,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T142452Z" creationid="QuenTine" creationdate="20181104T142452Z">
         <seg>中学生、大学生、研究生等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A successful Reflex save indicates that the target takes half damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140136Z" creationid="quentine" creationdate="20190115T140136Z">
+        <seg>成功的反射豁免能让伤害减半。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1729,6 +2297,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acid damage from an attack reduces hit points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143501Z" creationid="quentine" creationdate="20190115T143501Z">
+        <seg>酸的攻击造成对生命值的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Action points provide characters with the means to affect game play in significant ways.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T132945Z" creationid="quentine" creationdate="20190114T132945Z">
@@ -1761,6 +2337,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Additionally, a character who rolls a 1 on an attack roll with a poisoned weapon must succeed at a Reflex saving throw (DC 15) or accidentally poison him or herself with the weapon.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141619Z" creationid="quentine" creationdate="20190115T141619Z">
+        <seg>另外，角色使用带毒武器攻击掷骰出1时，需要进行一次反射豁免（DC15），失败则自己会中该毒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Adventurers include professional daredevils, big-game hunters, relic hunters, explorers, extreme sports enthusiasts, field scientists, thrill-seekers, and others called to face danger for a variety of reasons.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T113959Z" creationid="QuenTine" creationdate="20181104T113959Z">
@@ -1777,10 +2361,58 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After 1 hour of complete, uninterrupted rest, an exhausted character becomes fatigued.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122542Z" creationid="quentine" creationdate="20190115T122542Z">
+        <seg>经过一小时完整且不被打断的休息后，角色从力竭转为疲乏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After 8 hours of complete, uninterrupted rest, a fatigued character is no longer fatigued.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122629Z" creationid="quentine" creationdate="20190115T122629Z">
+        <seg>经过8小时完整的不被打断的休息后，疲乏的角色将不再疲乏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After taking damage, a character can recover hit points through natural healing (over the course of days) or through medical technology (somewhat faster).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113240Z" creationid="quentine" creationdate="20190115T113240Z">
         <seg>受到伤害后角色可以自然地恢复生命值（经过几天之后）或者通过医药技术恢复（这样更快）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After this period of time, the character must make a Constitution check (DC 10) every round to continue holding his or her breath.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133445Z" creationid="quentine" creationdate="20190115T133445Z">
+        <seg>此后一段时间里，角色必须每轮进行一次体质检定（DC10）以继续闭气。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After this period of time, the target must make a Constitution check (DC 10, +1 for each previous check) every round to continue holding his or her breath.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T135243Z" creationid="quentine" creationdate="20190115T134821Z">
+        <seg>此后目标必须每轮进行体质检定（DC10，每次检定后+1），以继续闭气。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After this, the character must make a Constitution check each day (DC 10, +1 for each previous check) or sustain 1d6 points of damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133038Z" creationid="quentine" creationdate="20190115T133038Z">
+        <seg>此后，角色必须每天进行一次体质检定（DC10，每次检定后+1），失败则损失1d6点生命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After this, the character must make a Constitution check each hour (DC 10, +1 for each previous check) or take 1d6 points of damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132930Z" creationid="quentine" creationdate="20190115T132930Z">
+        <seg>此后角色必须每小时进行一次体质检定（DC10，每次检定后+1），失败则损失1d6点生命。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1873,6 +2505,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An attacker can attempt a coup de grace against a helpless character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123656Z" creationid="quentine" creationdate="20190115T123656Z">
+        <seg>攻击者可以尝试给无助者来个致命一击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An attacker who is prone (lying on the ground) takes a –4 penalty on melee attack rolls and can’t use bows or thrown ranged weapons.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125017Z" creationid="quentine" creationdate="20190115T125017Z">
+        <seg>俯卧状态下的攻击者，不能使用弓或投掷类远程武器，近战攻击会有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An entangled character takes a –2 penalty on attack rolls in addition to a –4 penalty to Dexterity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122116Z" creationid="quentine" creationdate="20190115T122116Z">
+        <seg>被纠缠的角色有两点攻击减值，以及4点敏捷减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An evil allegiance shows a willingness to hurt, oppress, and kill others, and to debase or destroy innocent life.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T081806Z" creationid="QuenTine" creationdate="20181104T081806Z">
@@ -1913,10 +2569,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An object deals an additional 1d6 points of damage for every 10-foot increment it falls beyond the first (to a maximum of 20d6 points of damage).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T135821Z" creationid="quentine" creationdate="20190115T135821Z">
+        <seg>更高的高度下，超过部分每高10尺就有额外的1d6点伤害（额外伤害最高为20d6）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An unaided stable, conscious character who has negative hit points (and is disabled) doesn’t heal naturally.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112533Z" creationid="quentine" creationdate="20190115T112331Z">
         <seg>未受救治的稳定状态，负生命值的有意识的角色（也是瘫痪的）不会自然恢复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An unconscious character is unable to defend him or herself.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125440Z" creationid="quentine" creationdate="20190115T125440Z">
+        <seg>昏迷的角色无法自我防御。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2033,6 +2705,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Appropriate clothing and successful use of the Survival skill can modify the save, as noted above.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132122Z" creationid="quentine" creationdate="20190115T132122Z">
+        <seg>合适的衣物和生存技能的成功使用对检定同样有上文所述的影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Armor provides a minimum bonus to anyone who wears it, but a character who is proficient in the use of a certain type of armor receives a larger bonus to Defense.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T123343Z" creationid="quentine" creationdate="20190114T123343Z">
@@ -2061,6 +2741,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T044234Z" creationid="QuenTine" creationdate="20181024T043009Z">
         <seg>若只有一个乘数要乘，则直接与骰点或被乘数相乘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As soon as the character suffers any damage from heat or cold, he or she is considered fatigued.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131713Z" creationid="quentine" creationdate="20190115T131713Z">
+        <seg>只要角色因为炎热或寒冷受伤，角色就会疲乏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2217,6 +2905,38 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characters breathing heavy smoke or similar toxic gases must make a Constitution check (DC 10, +1 for each previous check) each round or spend that round choking and coughing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133756Z" creationid="quentine" creationdate="20190115T133756Z">
+        <seg>吸入浓烟或类似毒性气体的角色必须每轮都进行一次体质检定（DC10，每次检定后+1），失败则呛气咳嗽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characters who are fatigued can’t run or charge and take a penalty of –2 to Strength and Dexterity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122611Z" creationid="quentine" creationdate="20190115T122611Z">
+        <seg>角色无法奔跑或冲锋，力量和敏捷各有两点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characters who are nauseated are unable to attack or do anything else requiring attention or concentration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123820Z" creationid="quentine" creationdate="20190115T123820Z">
+        <seg>反胃的角色无法攻击，也无法做任何需要集中注意力的动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characters who choke for 2 consecutive rounds take 1d6 points of damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133838Z" creationid="quentine" creationdate="20190115T133838Z">
+        <seg>连续两轮呛气的角色将会受到1d6点伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose one occupation from the available selections and apply the benefits to the character as noted in the occupation’s description.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T095050Z" creationid="QuenTine" creationdate="20181104T095050Z">
@@ -2289,6 +3009,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Corrosive acids deal damage each round of exposure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143246Z" creationid="quentine" creationdate="20190115T143246Z">
+        <seg>接触腐蚀性的酸液每轮都会造成伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Craft (electronic, mechanical, or structural), Climb, Drive, Handle Animal, Intimidate, Repair, Ride.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T123927Z" creationid="QuenTine" creationdate="20181104T123927Z">
@@ -2309,6 +3037,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T144403Z" creationid="quentine" creationdate="20190114T144403Z">
         <seg>免疫重击的生物也会免疫巨创。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creatures with natural poison attacks are immune to their own poison.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141715Z" creationid="quentine" creationdate="20190115T141715Z">
+        <seg>天然拥有毒性攻击的生物免疫它们自己的毒性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Damage from thirst or starvation cannot be recovered until the hero gets water or food, as needed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133115Z" creationid="quentine" creationdate="20190115T133115Z">
+        <seg>饥饿与口渴造成的伤害无法恢复，直到主角获得水或食物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2414,10 +3158,42 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each round, the DC of the Constitution check increases by 1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133516Z" creationid="quentine" creationdate="20190115T133516Z">
+        <seg>每轮体质检定的DC+1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Electrical hazards come in many forms, including stun guns, downed power lines, and electric security fences.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143745Z" creationid="quentine" creationdate="20190115T143745Z">
+        <seg>电力危险以多种情况发生，包括电击枪、掉落的电线、以及电栅栏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Entrepreneurs have an obsession about being their own boss.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T134418Z" creationid="QuenTine" creationdate="20181104T134418Z">
         <seg>企业家拥有资产，自己当自己的老板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even if the character succeeds, he or she typically faces secondary damage 1 minute later.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141210Z" creationid="quentine" creationdate="20190115T141210Z">
+        <seg>即使成功，角色一般还要在一分钟后再次面临伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even magical or psionic effects that restore hit points cannot heal this damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133135Z" creationid="quentine" creationdate="20190115T133135Z">
+        <seg>能恢复生命的魔法或超能力都不能治疗这种伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2486,6 +3262,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failure means he or she takes another 1d6 points of damage that round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132410Z" creationid="quentine" creationdate="20190115T132410Z">
+        <seg>失败则该轮又损失1d6点生命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failure means that the character loses 1d4 hit points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131826Z" creationid="quentine" creationdate="20190115T131826Z">
+        <seg>若失败则角色损失1d4生命值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failure means that the character loses 1d6 hit points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132100Z" creationid="quentine" creationdate="20190115T132100Z">
+        <seg>失败角色损失1d6点生命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fame, when recognized, provides a bonus to certain Charisma-based skill checks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T124103Z">
@@ -2522,6 +3322,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064004Z" creationid="quentine" creationdate="20190112T064004Z">
         <seg>检定点超过DC的部分，每5点额外加1点财富值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Furthermore, the blinded character has an effective Dexterity of 3, along with a –4 penalty on the use of Strength-based and Dexterity-based skills.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T120546Z" creationid="quentine" creationdate="20190115T120546Z">
+        <seg>此外，目盲的角色的敏捷有效值是3，使用基于力量和敏捷的技能检定有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Furthermore, they take a –6 penalty to Strength and Dexterity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122523Z" creationid="quentine" creationdate="20190115T122523Z">
+        <seg>此外，角色会有力量和敏捷的减值各六点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2578,6 +3394,70 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T150159Z" creationid="quentine" creationdate="20190114T150159Z">
         <seg>治疗让角色恢复生命至0点以上，角色会完全恢复行动能力，只要角色别再减至0或者更低的生命值就行了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heat and cold deal damage that cannot be recovered until the character counteracts or escapes the inclement temperature.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131521Z" creationid="quentine" creationdate="20190115T131521Z">
+        <seg>炎热与寒冷会造成无法恢复的伤害，直到角色抵御或脱离这样严酷的温度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heavy clothing or armor provides a –4 penalty on saves against heat but grants a +4 equipment bonus on saves against cold.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131851Z" creationid="quentine" creationdate="20190115T131851Z">
+        <seg>笨重的衣物或护甲对于炎热的豁免检定有4点减值，对于寒冷则有4点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heroes at risk of catching fire are allowed a Reflex saving throw (DC 15) to avoid this fate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132236Z" creationid="quentine" creationdate="20190115T132236Z">
+        <seg>英雄着火后可以做一个反射豁免（DC15）避免之。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heroes exposed to open flames might find their clothes, hair, or equipment on fire.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132206Z" creationid="quentine" creationdate="20190115T132206Z">
+        <seg>英雄接触到明火，可能会让其衣物、头发或装备起火。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heroes who are blind long-term (from birth or early in life) grow accustomed to these drawbacks and can overcome some of them (at the GM’s discretion).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121119Z" creationid="quentine" creationdate="20190115T120929Z">
+        <seg>长期目盲的英雄（比如天生或早年失明）习惯了这些缺陷，可以部分克服这些问题（具体由GM酌情决定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heroes who are deafened long-term (from birth or early in life) grow accustomed to these drawbacks and can overcome some of them (at the GM’s discretion).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121814Z" creationid="quentine" creationdate="20190115T121814Z">
+        <seg>长期耳聋的英雄（天生或早年耳聋）习惯了这些缺陷，可以部分克服这些问题（具体由GM酌情决定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heroes who are exhausted move at half speed and cannot run or charge.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122416Z" creationid="quentine" creationdate="20190115T122416Z">
+        <seg>力竭的英雄移动速度减半，且不能奔跑或冲锋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Heroes who are paralyzed fall to the ground, unable to move (they have an effective, but not actual, Dexterity and Strength of 0).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T124043Z" creationid="quentine" creationdate="20190115T123951Z">
+        <seg>麻痹的英雄会倒地，无法移动（其有效力量和敏捷为0，实际值不变）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2646,6 +3526,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a hero’s clothes or hair catch fire, he or she takes 1d6 points of damage immediately.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132306Z" creationid="quentine" creationdate="20190115T132306Z">
+        <seg>如果英雄的衣服或头发着火，会立即损失1d6点生命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a skill the character selects is already a class skill, he or she receives a +1 competence bonus on checks using that skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T100744Z" creationid="QuenTine" creationdate="20181104T100744Z">
@@ -2662,10 +3550,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If at any time the target breaks free or slips free of the grapple, the stranglehold is broken (although any damage that was dealt remains).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T135103Z" creationid="quentine" creationdate="20190115T135103Z">
+        <seg>任何时候目标脱离擒抱，扼喉就中止了（但之前造成的伤害仍然保持）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it can act, it applies its Intelligence modifier to initiative checks instead of a Dexterity modifier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T134040Z" creationid="QuenTine" creationdate="20181103T134040Z">
         <seg>如果这一生物仍能做出行动，则在计算先攻时使用智力调整值代替敏捷调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If more than one condition affects a character, apply both if possible.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T115532Z" creationid="quentine" creationdate="20190115T115532Z">
+        <seg>如果角色受到多个状态影响，如果可以的话，都应用之。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If no body of water is at hand, rolling on the ground or smothering the fire with blankets or the like permits the hero another save with a +4 bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132608Z" creationid="quentine" creationdate="20190115T132608Z">
+        <seg>如果没人手上有水，在地上打滚或用毯子切断助燃条件或者类似的行为可以让主角的反射豁免有4点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2678,10 +3590,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If not possible, apply only the most severe condition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T115609Z" creationid="quentine" creationdate="20190115T115609Z">
+        <seg>如果不可以，取最严重的那个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If successful, the character becomes disabled (see above).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112812Z" creationid="quentine" creationdate="20190115T112812Z">
         <seg>如果成功，角色变为瘫痪（见上文）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If that character is not grounded or is otherwise insulated from the current, a successful save indicates that no damage is suffered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143856Z" creationid="quentine" creationdate="20190115T143856Z">
+        <seg>如果角色不是接地的或者处于其他绝缘状况，豁免成功的结果是伤害完全免除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2742,6 +3670,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character fails the save, he or she takes damage after an incubation period; once per day thereafter, the character must succeed at a Fortitude saving throw to avoid secondary damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142031Z" creationid="quentine" creationdate="20190115T142031Z">
+        <seg>如果豁免失败，则角色在潜伏期过后受到伤害；此后每隔一天，角色必须进行同样的强韧豁免以避免再次伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character fails the save, the character’s hit point total is immediately reduced to –1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T144238Z" creationid="quentine" creationdate="20190114T144238Z">
@@ -2758,10 +3694,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character fails, he or she takes the poison’s initial damage (usually ability damage).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141137Z" creationid="quentine" creationdate="20190115T141137Z">
+        <seg>如果失败，角色受到毒物的初始伤害（通常是属性伤害）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character remains unconscious, he or she makes the same Fortitude save every hour until he or she becomes conscious.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113011Z" creationid="quentine" creationdate="20190115T113011Z">
         <seg>如果角色仍旧昏迷，角色每小时都会进行强韧豁免直到恢复意识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character succeeds on a Reflex saving throw (DC 10, +1 for each 10 feet fallen), this damage is halved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T135323Z" creationid="quentine" creationdate="20190115T135323Z">
+        <seg>如果角色进行反射豁免成功（DC10，每超过10尺+1），伤害减半。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2778,6 +3730,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063919Z" creationid="quentine" creationdate="20190112T063919Z">
         <seg>如果检定成功，角色的财富加值加一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character succeeds, the disease has no effect on him or her—the character’s immune system fights off the infection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141936Z" creationid="quentine" creationdate="20190115T141936Z">
+        <seg>如果角色成功，就不会感染——即角色的免疫系统抵御了疾病。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2846,10 +3806,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the entangling bonds are anchored to an immobile object, the entangled hero can’t move.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122438Z" creationid="quentine" creationdate="20190115T122211Z">
+        <seg>如果纠缠是绑定在固定的物体上，被纠缠的英雄将无法移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the grapple succeeds, the attacker can choose to deal normal unarmed damage as well as choke the target.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134710Z" creationid="quentine" creationdate="20190115T134615Z">
+        <seg>如果擒抱成功，攻击者可以选择空手攻击或者使对方窒息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the result of the d20 roll + the Modifiers equals or exceeds the Target Number, the test is successful.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T051206Z" creationid="QuenTine" creationdate="20181024T045752Z">
         <seg>若 `d20投骰+调整值` 数值大于等于`目标值`，则判定为事件成功，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the save fails by 10 or more, and the object is at least three size categories larger than the character, the character is pinned under the fallen object.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140413Z" creationid="quentine" creationdate="20190115T140413Z">
+        <seg>如果豁免失败，相比DC低10点甚至更低，并且物体尺寸比角色尺寸至少大3级，角色会被压制在坠落物之下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2894,6 +3878,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the saving throw fails, full damage is applied.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T135427Z" creationid="quentine" creationdate="20190115T135427Z">
+        <seg>失败则受到完全的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the skill selected is already a class skill for the character, he or she also gains a one-time competence bonus for that skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T100344Z" creationid="QuenTine" creationdate="20181104T091246Z">
@@ -2926,10 +3918,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In addition, the character takes a –2 penalty to Defense.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125404Z" creationid="quentine" creationdate="20190115T125404Z">
+        <seg>此外，角色防御时有2点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, the character takes a –2 penalty to his or her Defense.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121152Z" creationid="quentine" creationdate="20190115T121152Z">
+        <seg>此外，角色的防御有两点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In any case, a character can’t regain hit points past his or her full normal total.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113327Z" creationid="quentine" creationdate="20190115T113327Z">
         <seg>在任何情况下，角色不能恢复到超过生命上限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In each subsequent round, the burning hero must make another Reflex saving throw.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132348Z" creationid="quentine" creationdate="20190115T132348Z">
+        <seg>在之后的每一轮，着火的角色必须再来一次反射豁免。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2950,6 +3966,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In normal climates, heroes need at least 1/2 gallon of fluids and about 1/4 pound of decent food per day to avoid the threat of starvation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132754Z" creationid="quentine" creationdate="20190115T132754Z">
+        <seg>在正常气候下，主角每天需要至少半加仑的饮料以及大约四分之一磅的主食以避免饥饿的威胁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In some campaign settings, magical healing is also available.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113312Z" creationid="quentine" creationdate="20190115T113312Z">
@@ -2962,6 +3986,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064113Z" creationid="quentine" creationdate="20190112T064113Z">
         <seg>在这种情况下，这样的财宝会转为财富的奖励。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the following round, the character drops to –1 hit points and is dying.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133617Z" creationid="quentine" creationdate="20190115T133617Z">
+        <seg>再下一轮，角色会减至-1生命并濒死。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the next round, the character falls unconscious with 0 hit points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133624Z" creationid="quentine" creationdate="20190115T133545Z">
+        <seg>下一轮，角色会昏迷，生命值变为0。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the third round after failing the check, the character dies of suffocation or drowning.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133703Z" creationid="quentine" creationdate="20190115T133646Z">
+        <seg>第三轮，角色就会因窒息或溺水死亡。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2986,6 +4034,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T135422Z" creationid="quentine" creationdate="20190114T135422Z">
         <seg>花掉的这个行动点不是用来增强d20的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In very hot climates, heroes need two or three times as much water to avoid dehydration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132814Z" creationid="quentine" creationdate="20190115T132814Z">
+        <seg>在非常热的气候下，主角需要两到三倍的水以避免脱水。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3066,6 +4122,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T075220Z" creationid="QuenTine" creationdate="20181104T075220Z">
         <seg>也可以是出生的国家或者要移民去的国家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s a rare mission that doesn’t end up in the dark somewhere, and heroes need a way to see.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131251Z" creationid="quentine" creationdate="20190115T131251Z">
+        <seg>只有极少的关卡不在某个暗处告终，英雄总需要想办法去看。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3168,6 +4232,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Most diseases that are inhaled can also be ingested (and vice versa).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142213Z" creationid="quentine" creationdate="20190115T142213Z">
+        <seg>大多数吸入性疾病同时也会是摄入性疾病（反之亦然）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most of the time, a hero doesn’t decide to use his or her reputation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135332Z" creationid="QuenTine" creationdate="20181106T122736Z">
@@ -3216,6 +4288,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nonliving creatures and creatures without metabolisms are immune to poison.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141727Z" creationid="quentine" creationdate="20190115T141727Z">
+        <seg>非生物以及无新陈代谢的生物免疫毒性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that a grappled target who is not pinned can use his or her attack action to strangle his or her attacker.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T135154Z" creationid="quentine" creationdate="20190115T135154Z">
+        <seg>要注意的是，没被压制住的那个擒抱对象才可以扼住对方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that if the GM character has no possible way of recognizing a hero, then the Reputation check automatically fails.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T125650Z">
@@ -3228,6 +4316,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T112057Z" creationid="QuenTine" creationdate="20181022T112057Z">
         <seg>许可证版权声明：你必须更新本许可证的版权声明部分以包括任何准确的你正在复制、修改、分发的OGC的版权声明文本，而且你必须添加标题、版权日期以及版权持有者的名字到任何你要发布的原始OGC的版权声明上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Objects deal the initial damage given in Table: Damage from Falling Objects if they fall 10 feet or less.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T135742Z" creationid="quentine" creationdate="20190115T135742Z">
+        <seg>坠落物产生如下表的初始伤害：10尺以及更低的高度只产生初始伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Objects of Fine size are too small to deal damage, regardless of the distance fallen.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T135847Z" creationid="quentine" creationdate="20190115T135847Z">
+        <seg>超微型尺寸过小，无法造成伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Objects that fall upon characters (or creatures or vehicles) deal damage based on their size and the distance fallen, as noted on Table: Damage from Falling Objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T135704Z" creationid="quentine" creationdate="20190115T135646Z">
+        <seg>物品坠落砸到角色（或者生物、车辆）身上，根据体型和掉落距离造成伤害，见下表：坠落物造成的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3288,6 +4400,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Oozes and certain kinds of creatures are immune to poison, as detailed in their descriptions, though it is conceivable that a special poison could be synthesized specifically to harm them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141753Z" creationid="quentine" creationdate="20190115T141753Z">
+        <seg>泥形怪及特定生物免疫毒性，怪物描述中详述，可能有特别合成的特定毒药能伤害到它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113436Z" creationid="QuenTine" creationdate="20181022T113436Z">
@@ -3312,6 +4432,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Otherwise, the character can move at half speed, but can’t run or charge.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122323Z" creationid="quentine" creationdate="20190115T122323Z">
+        <seg>否则角色可以以一半的速度移动，但不能奔跑或冲锋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Over the course of play, the hero’s Wealth bonus will decrease as the hero purchases expensive items and increase as the hero gains levels.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134758Z" creationid="QuenTine" creationdate="20181106T133748Z">
@@ -3320,10 +4448,50 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Paralyzed, sleeping, or unconscious characters are helpless.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123531Z" creationid="quentine" creationdate="20190115T123531Z">
+        <seg>麻痹、睡眠及瘫痪的角色处于无助状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Permission to copy, modify and distribute this document is granted solely through the use of the Open Gaming License, Version 1.0a.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T032835Z" creationid="QuenTine" creationdate="20181022T032835Z">
         <seg>通过使用开放游戏许可证（OGL）1.0a版，仅允许复制、修改和分发该文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poisonous gases must be inhaled to be effective.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141444Z" creationid="quentine" creationdate="20190115T141444Z">
+        <seg>毒气必须吸入才生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poisonous liquids are usually administered through injection or by application to a weapon.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141346Z" creationid="quentine" creationdate="20190115T141346Z">
+        <seg>毒液通常通过注射或武器涂毒来投放。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poisonous solids are usually ingested with food or drink.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141507Z" creationid="quentine" creationdate="20190115T141507Z">
+        <seg>固体毒物通常通过混入饮食中摄取。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Poisons are detailed in the Craft(chemical) skill description.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141305Z" creationid="quentine" creationdate="20190115T141305Z">
+        <seg>毒物在制造（化学）技能里详述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3392,6 +4560,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Searing heat or bitter cold (desert or arctic conditions) forces a character to make a Fortitude save every 10 minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132048Z" creationid="quentine" creationdate="20190115T132048Z">
+        <seg>极端的炎热或寒冷天气（沙漠或极地情况）强制角色每十分钟进行一次强韧豁免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Table: Light Sources for the radius that a light source illuminates and how long it lasts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131320Z" creationid="quentine" creationdate="20190115T131320Z">
+        <seg>见下表：光源照亮半径与持续时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Selling an object can provide an increase to a character’s Wealth bonus.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064400Z" creationid="quentine" creationdate="20190112T064400Z">
@@ -3432,10 +4616,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smoke also obscures vision, giving one-half concealment (20% miss chance) to characters within it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134140Z" creationid="quentine" creationdate="20190115T134140Z">
+        <seg>烟雾同样影响可见度，烟雾中的角色处于半隐藏状态，并有20%失手率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some attacks disregard armor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T124742Z" creationid="quentine" creationdate="20190114T124742Z">
         <seg>有的攻击无视护甲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some injury diseases can be transmitted by a wound as small as an insect bite.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142202Z" creationid="quentine" creationdate="20190115T142202Z">
+        <seg>一些伤口性疾病能够依靠小至蚊虫叮咬的伤口传播。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3464,6 +4664,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sometimes heroes might find themselves without food and water.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132719Z" creationid="quentine" creationdate="20190115T132719Z">
+        <seg>有时英雄可能发现自己缺水缺食物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Sometimes the character can’t use his or her Dexterity bonus.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T115110Z" creationid="quentine" creationdate="20190114T115110Z">
@@ -3476,6 +4684,62 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T123501Z" creationid="quentine" creationdate="20190114T123501Z">
         <seg>有时角色无法使用装备加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Success means that the fire has gone out.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132422Z" creationid="quentine" creationdate="20190115T132422Z">
+        <seg>成功则意味着火焰被灭掉了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table: Acid Damage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143317Z" creationid="quentine" creationdate="20190115T143317Z">
+        <seg>表：酸性伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table: Damage from Falling Objects</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140617Z" creationid="quentine" creationdate="20190115T140617Z">
+        <seg>表：坠落物的伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table: Diseases</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142419Z" creationid="quentine" creationdate="20190115T142419Z">
+        <seg>表：疾病</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table: Electricity Damage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143904Z" creationid="quentine" creationdate="20190115T143904Z">
+        <seg>表：电力伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table: Electricity Damage gives damage values for various electrical hazards based on relative voltage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143809Z" creationid="quentine" creationdate="20190115T143809Z">
+        <seg>电力伤害表给出了相关电压下电的伤害值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table: Light Sources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131328Z" creationid="quentine" creationdate="20190115T131328Z">
+        <seg>表：光源</seg>
       </tuv>
     </tu>
     <tu>
@@ -3524,6 +4788,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T130528Z" creationid="quentine" creationdate="20190114T130528Z">
         <seg>豁免的DC由攻击本身决定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM can modify the DCs for these checks based on the circumstances.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140556Z" creationid="quentine" creationdate="20190115T140556Z">
+        <seg>GM可以根据实际情况修改检定DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3584,6 +4856,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The amount of damage varies depending on the acid’s strength, as noted on Table: Acid Damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143309Z" creationid="quentine" creationdate="20190115T143309Z">
+        <seg>酸液的伤害量取决于酸的强度，如下表所示：酸性伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The attacker makes his or her attack roll as normal, but the character’s Defense does not include any equipment bonus or armor bonus.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T125008Z" creationid="quentine" creationdate="20190114T125008Z">
@@ -3608,10 +4888,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character can make a Strength check to lift the object off him or herself or an Escape Artist check (DC 20) to get out from underneath.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140542Z" creationid="quentine" creationdate="20190115T140542Z">
+        <seg>角色能够进行力量检定以推开压在身上的物体，或者使用脱逃检定（DC20）抽身脱离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character can only take a single move or attack action each turn (but not both, nor can the character take full-round actions).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145829Z" creationid="quentine" creationdate="20190114T145829Z">
         <seg>每回合角色只能做单个移动或攻击动作（但不能都做，也不能用整轮动作）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character can take no actions, and each round a dying character loses 1 hit point until he or she dies or becomes stable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122017Z" creationid="quentine" creationdate="20190115T122017Z">
+        <seg>角色不能执行动作，每轮濒死的角色都会损失一点生命直到其死亡或稳定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3624,10 +4920,106 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character can take only a single move action or attack action, and takes 1 point of damage after any action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121902Z" creationid="quentine" creationdate="20190115T121902Z">
+        <seg>角色只能执行一个移动或攻击动作，并在执行动作后受到1点伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character can’t make Listen checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121738Z" creationid="quentine" creationdate="20190115T121738Z">
+        <seg>角色不能进行聆听检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character can’t make Spot checks or perform any other activity (such as reading) that requires vision.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T120858Z" creationid="quentine" creationdate="20190115T120858Z">
+        <seg>角色不能侦查或采取任何需要视力的动作（比如阅读）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character defends normally but cannot attack.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123930Z" creationid="quentine" creationdate="20190115T123930Z">
+        <seg>角色可以正常防御但无法攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character gains a +4 bonus to Defense against ranged attacks, but takes a –4 penalty to Defense against melee attacks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125043Z" creationid="quentine" creationdate="20190115T125043Z">
+        <seg>防御远程攻击有4点加值，但防御近战攻击则有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character has 0 hit points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121833Z" creationid="quentine" creationdate="20190115T121833Z">
+        <seg>角色生命值为0。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character has a 50% chance to miss in combat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T120430Z" creationid="quentine" creationdate="20190115T120430Z">
+        <seg>角色战斗有50%的机会失手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character has lost 1 or more ability score points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T115638Z" creationid="quentine" creationdate="20190115T115638Z">
+        <seg>角色失去一点或更多的属性点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character is helpless and typically falls prone.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125503Z" creationid="quentine" creationdate="20190115T125503Z">
+        <seg>角色同时是无助的，通常还会陷入俯卧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character is near death and unconscious, with –1 to –9 wound points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121933Z" creationid="quentine" creationdate="20190115T121933Z">
+        <seg>角色接近死亡并昏迷，生命值在-1到-9之间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character is not unconscious, but he or she is close to it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145643Z" creationid="quentine" creationdate="20190114T145643Z">
         <seg>角色不会昏迷但也差不多了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character loses his or her Dexterity bonus to Defense, except on attacks from characters with whom he or she is grappling.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T124625Z" creationid="quentine" creationdate="20190115T123109Z">
+        <seg>擒抱者防御时敏捷加值失效，除非攻击来源是角色所擒抱的对象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character takes a –4 penalty to Defense against melee attacks and loses his or her Dexterity bonus to Defense.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T124834Z" creationid="quentine" creationdate="20190115T124834Z">
+        <seg>角色对近战攻击防御值会有4点减值，对于所有的攻击，防御时的敏捷加值无效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3640,10 +5032,34 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The characteristics of some treatable diseases are summarized on Table: Diseases.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142113Z" creationid="quentine" creationdate="20190115T142113Z">
+        <seg>一些可治愈疾病的特性见表：疾病。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character’s current hit point total remains where it is, however, even though it’s negative.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112206Z" creationid="quentine" creationdate="20190115T112206Z">
         <seg>角色当前的生命值会维持原状，即使生命值为负数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The condition typically lasts 1 round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125415Z" creationid="quentine" creationdate="20190115T125415Z">
+        <seg>该状态通常只持续1轮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The condition typically lasts 10 rounds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121518Z" creationid="quentine" creationdate="20190115T121207Z">
+        <seg>一般该状态持续十轮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3688,10 +5104,58 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The fumes from most acids are inhaled poisons.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143543Z" creationid="quentine" creationdate="20190115T143543Z">
+        <seg>大多数酸的挥发气也是吸入性毒物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The hero can’t hear and takes a –4 penalty on initiative checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121707Z" creationid="quentine" creationdate="20190115T121707Z">
+        <seg>英雄不能听到东西，先攻判定有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The hero can’t see at all, and thus everything has total concealment to him or her.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T120417Z" creationid="quentine" creationdate="20190115T120417Z">
+        <seg>英雄看不见任何东西，即任何事物对其来说都是隐蔽的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The hero is frozen in fear, loses his or her Dexterity bonus, and can take no actions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121031Z" creationid="quentine" creationdate="20190115T121031Z">
+        <seg>英雄由于恐惧而动弹不得，其敏捷加值会丧失，并且不能做出动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The increase is the same amount as the Wealth bonus loss the character would experience if the character purchased an object with a purchase DC equal to the sale value.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T073036Z" creationid="quentine" creationdate="20190112T065808Z">
         <seg>卖家所增加的财富与买家损失的财富是相同的，买家的购买DC与售价相同，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The loss is permanent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T120255Z" creationid="quentine" creationdate="20190115T120255Z">
+        <seg>损失是永久的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The loss is temporary, and these points return at a rate of 1 per evening of rest.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T115743Z" creationid="quentine" creationdate="20190115T115743Z">
+        <seg>损失是暂时的，这些点数在每次晚休后恢复一点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3728,6 +5192,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The only action such a character can take is a single move action per turn.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123848Z" creationid="quentine" creationdate="20190115T123848Z">
+        <seg>每回合，反胃的角色只能做单个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The other is the ones digit.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041528Z" creationid="QuenTine" creationdate="20181024T041528Z">
@@ -3744,10 +5216,42 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The size of the falling object determines the save DC.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140147Z" creationid="quentine" creationdate="20190115T140147Z">
+        <seg>坠落物的尺寸决定了豁免DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The smaller it is, the harder it is to hit.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T123808Z" creationid="quentine" creationdate="20190114T123808Z">
         <seg>越小则越难被击中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The strangling attempt incurs an attack of opportunity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134445Z" creationid="quentine" creationdate="20190115T134445Z">
+        <seg>扼喉会引发对方的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target begins to suffocate on a failed check (see Suffocation and Drowning).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134855Z" creationid="quentine" creationdate="20190115T134855Z">
+        <seg>目标如果失败了就会进入窒息状态（详见窒息与溺水）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target can hold his of her breath for a number of rounds equal to his or her Constitution score.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134651Z" creationid="quentine" creationdate="20190115T134651Z">
+        <seg>目标可以闭气等同于其体质值的回合数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3792,6 +5296,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The victim must make this roll when he or she comes into contact with an infectious carrier, touches an item smeared with diseased matter, consumes food or drink tainted with a disease, or suffers damage from a contaminated attack.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141909Z" creationid="quentine" creationdate="20190115T141909Z">
+        <seg>角色必须在接触带病体、触碰沾有病原的物体、摄入病原污染的饮食或受到带污染的攻击时，进行这样的检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There are a number of jobs that fit within this occupation, including investigative reporters, photojournalists, private investigators, police detectives, criminologists, criminal profilers, espionage agents, and others who use their skills to gather evidence and analyze clues.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T135616Z" creationid="QuenTine" creationdate="20181104T135616Z">
@@ -3828,6 +5340,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T135045Z" creationid="QuenTine" creationdate="20181104T135045Z">
         <seg>这些大大小小的企业家对统合商业计划、搜集资源以及抓住新商机都很有一套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are helpless.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T124102Z" creationid="quentine" creationdate="20190115T124102Z">
+        <seg>麻痹的同时也会无助。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3880,10 +5400,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This condition typically lasts 1 round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121530Z" creationid="quentine" creationdate="20190115T121444Z">
+        <seg>一般该状态持续1轮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This continues until the character dies or becomes stable naturally or with help (see below).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T110858Z" creationid="quentine" creationdate="20190115T110858Z">
         <seg>直到角色死亡或自然地进入稳定状态，或受到救助（见下文）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This damage is taken each day the saving throw fails.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142526Z" creationid="quentine" creationdate="20190115T142526Z">
+        <seg>此后每次豁免失败英雄都获得该伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3900,6 +5436,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T081518Z" creationid="QuenTine" creationdate="20181104T081518Z">
         <seg>描述一个人对他人的态度，善良还是邪恶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This differs from “effective” ability loss, which is an effect that goes away when the condition causing it goes away.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T120152Z" creationid="quentine" creationdate="20190115T120152Z">
+        <seg>这与“效果上的”属性损失不同，后者是随着状态造成的条件的消失而消失的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3984,6 +5528,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This secondary damage also requires a Fortitude saving throw to avoid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141224Z" creationid="quentine" creationdate="20190115T141224Z">
+        <seg>再次伤害也需要强韧豁免来避免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This –4 penalty also applies to Search checks and any other skill checks for which the GM deems sight to be important.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T120814Z" creationid="quentine" creationdate="20190115T120814Z">
+        <seg>这4点减值同样作用于搜索技能检定和GM认为的任何其他的注重视物的技能检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Those who come within 5 feet of a large body of acid must make a Fortitude save (DC 15) or take 1 point of temporary Constitution damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143635Z" creationid="quentine" creationdate="20190115T143635Z">
+        <seg>进入大体积酸雾至5尺深的角色必须进行一次强韧豁免（DC15），失败则受到1点临时体质伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Those who recognize the hero are more likely to help the hero or do what he or she asks, provided the reputation has a positive connotation to the character who recognizes the hero.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T122601Z">
@@ -3996,6 +5564,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T044522Z" creationid="QuenTine" creationdate="20181024T043605Z">
         <seg>因此两次乘以2的计算结果是乘以3（2+1=3）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To begin the choke, the attacker must succeed at an opposed grapple check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134903Z" creationid="quentine" creationdate="20190115T134508Z">
+        <seg>要实施窒息，攻击者首先必须擒抱检定成功。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4036,6 +5612,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041532Z" creationid="QuenTine" creationdate="20181024T041532Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two successful saving throws in a row indicate that the character has fought off the disease and recovers, taking no more damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142052Z" creationid="quentine" creationdate="20190115T142052Z">
+        <seg>连续两次成功的豁免则使角色战胜疾病，不再受到伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unable to act, a dazed character can take no actions, but still gets the benefit of his or her normal Defense.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121431Z" creationid="quentine" creationdate="20190115T121431Z">
+        <seg>眩晕的角色无法行动，但仍能获得正常防御的增益。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4112,6 +5704,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a character is exposed to a treatable disease, the character must make an immediate Fortitude saving throw.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141839Z" creationid="quentine" creationdate="20190115T141839Z">
+        <seg>如果角色得了可治愈的疾病，角色必须立即进行一次强韧豁免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a character is strangled by an instrument or an attacker, use the rules below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134255Z" creationid="quentine" creationdate="20190115T134255Z">
+        <seg>当角色被器械或攻击者扼喉时，按照以下规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a character spends 1 action point to improve a d20 roll, add 1d6 to the d20 roll to help meet or exceed the target number.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T134121Z" creationid="quentine" creationdate="20190114T134054Z">
@@ -4124,6 +5732,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T135312Z" creationid="quentine" creationdate="20190114T135312Z">
         <seg>当角色花费行动点使用角色专长时，只能获得专长效果而不加1d6。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a character takes damage from an attack with a poisoned weapon, touches an item smeared with contact poison, consumes a poisonous substance, inhales a poisonous gas, or is otherwise poisoned, the character must make a Fortitude saving throw.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141114Z" creationid="quentine" creationdate="20190115T141114Z">
+        <seg>当角色被有毒武器伤害到、碰到涂上接触性毒素的物品、摄入毒物、吸入毒气或以其他的方式中毒时，角色必须进行一次强韧豁免。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4176,10 +5792,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When grappled, a hero can’t undertake any action other than attacking with his or her bare hands, attacking with a light weapon, or attempting to break free from his or her opponent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123119Z" creationid="quentine" creationdate="20190115T122923Z">
+        <seg>英雄被擒抱时无法施展除了空手攻击、轻武器攻击或试图挣脱擒抱者以外的动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When temporary hit points are lost, they can’t be restored as real hit points can be, even with medical treatment or magic.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113958Z" creationid="quentine" creationdate="20190115T113958Z">
         <seg>当损失了临时生命值，它们不能像真实的生命值那样回复，即使使用医疗或者魔法都不可以。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the character fails one of these Constitution checks, he or she begins to suffocate or drown.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133532Z" creationid="quentine" creationdate="20190115T133532Z">
+        <seg>当角色体质检定失败，角色将会开始窒息或溺水。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4256,6 +5888,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>\* Creates a beam 30 feet long and 5 feet high.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131455Z" creationid="quentine" creationdate="20190115T131455Z">
+        <seg>\* 射出30尺长、5尺高的光。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\*Damage per round of exposure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143435Z" creationid="quentine" creationdate="20190115T143435Z">
+        <seg>\* 伤害每轮都结算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\*If damage is sustained, make a second saving throw to avoid 1 point being permanently drained (instead of damaged).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143149Z" creationid="quentine" creationdate="20190115T143149Z">
+        <seg>\* 若伤害已造成，再进行一次豁免以避免1点永久性的属性流失（而不是伤害）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>\[1\] This stacks with the loss from a Purchase DC above the character’s current wealth bonus.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063039Z" creationid="quentine" creationdate="20190112T062608Z">
@@ -4280,6 +5936,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Acid Strength|Splash Attack\*|Total Immersion\*|
+|-------------------|:--------------------:|:---------------------:|
+|Mild|1d6|1d10|
+|Potent|2d6|2d10|
+|Concentrated|3d6|3d10|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143420Z" creationid="quentine" creationdate="20190115T143420Z">
+        <seg>|酸强度|飞溅伤害\*|完全浸入\*|
+|-------------------|:--------------------:|:---------------------:|
+|弱酸|1d6|1d10|
+|强酸|2d6|2d10|
+|浓酸|3d6|3d10|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Character Level|Action Point Dice Rolled|
 |:---------------------:|:---------------------------:|
 |1st–7th|1d6|
@@ -4292,6 +5964,76 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |1st–7th|1d6|
 |8th–14th|2d6|
 |15th–20th|3d6|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Disease|Type|Incubation Period|Initial Damage|Secondary Damage|
+|-----------|---------|----------------------|----------------------|------------------------|
+|Anthrax|Inhaled/Injury DC 16|1d2 days|1 Con|1d4 Con\*|
+|Small pox|Inhaled/Contact DC 15|2d4 days|1 Str and 1 Con|1d2 Str and 1d2 Con|
+|Pneumonia|Inhaled DC 12|1d4 days|1 Str|1d3 Str and 1d3 Con|
+|Hantavirus|Injury DC 14|1 day|1d2 Str|1d2 Str\* and 1d2 Con\*|
+|Necrotizing faciitis|Contact DC 13|1d6 days|1 Con|1d3 Con\*|
+|West Nile virus|Injury DC 12|1d4 days|1 Dex and 1 Con|1d2 Dex and 1d2 Con\*|
+|Salmonellosis|Ingested DC 13|1 day|1 Str and 1 Dex|1 Str and 1d3 Dex|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143102Z" creationid="quentine" creationdate="20190115T143102Z">
+        <seg>|疾病|类型|潜伏期|初始伤害|再次伤害|
+|-----------|---------|----------------------|----------------------|------------------------|
+|炭疽|吸入性/伤口性 DC16|1d2天|1体质|1d4体质\*|
+|天花|吸入性/接触性 DC15|2d4天|1力量1体质|1d2力量1d2体质|
+|肺炎|吸入性 DC12|1d4天|1力量|1d3力量1d3体质|
+|汉坦病毒|伤口性 DC14|1天|1d2力量|1d2力量\* 1d2体质\*|
+|坏死性筋膜炎|接触性 DC13|1d6天|1体质|1d3体质\*|
+|西尼罗病毒|伤口性 DC12|1d4天|1敏捷1体质|1d2敏捷1d2体质\*|
+|沙门氏菌病|摄入性 DC13|1天|1力量1敏捷|1力量1d3敏捷|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Item|Light|Duration|
+|--------|:------:|:----------:|
+|Candle|5 feet|12 hours|
+|Torch|20 feet|2 hours|
+|Halogen lantern|40 feet|24 hours|
+|Flashlight|20 feet\*|6 hours|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131439Z" creationid="quentine" creationdate="20190115T131439Z">
+        <seg>|物品|光|时长|
+|--------|:------:|:----------:|
+|蜡烛|5尺|12小时|
+|火把|20尺|2小时|
+|提灯|40尺|24小时|
+|手电筒|20尺\*|6小时|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Object Size|Examples|Initial Damage|Reflex Save DC|Strength Check DC|
+|-------------------|------------|:--------------------:|:---------------------:|:-------------------------:|
+|Fine|Penny|0|n/a|n/a|
+|Diminutive|Paperweight|1|0|n/a|
+|Tiny|Wrench|1d3|5|n/a|
+|Small|Vase|1d4|10|5|
+|Medium-size|Briefcase|1d6|15|10|
+|Large|Garbage can|2d6|20|20|
+|Huge|Oil barrel|4d6|25|30|
+|Gargantuan|Piano|8d6|30|40|
+|Colossal|Vehicle|10d6|35|50|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140814Z" creationid="quentine" creationdate="20190115T140814Z">
+        <seg>|物体尺寸|例如|初始伤害|反射豁免DC|力量检定DC|
+|-------------------|------------|:--------------------:|:---------------------:|:-------------------------:|
+|超微型|硬币|0|n/a|n/a|
+|微型|一张纸|1|0|n/a|
+|超小型|扳手|1d3|5|n/a|
+|小型|花瓶|1d4|10|5|
+|普通|公文包|1d6|15|10|
+|大型|垃圾箱|2d6|20|20|
+|超大型|油桶|4d6|25|30|
+|巨型|钢琴|8d6|30|40|
+|超巨型|车辆|10d6|35|50|</seg>
       </tuv>
     </tu>
     <tu>
@@ -4354,6 +6096,24 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |超小型|+2|
 |微型|+4|
 |超微型|+8|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Type|Examples|Damage|Fort DC|
+|--------|-------------|:--------:|:-----------:|
+|Jolt|Car battery, stun gun|1d3|10|
+|Low voltage|Fuse box, electrical socket|2d6|15|
+|Medium voltage|Industrial transformer, electric fence|4d6|15|
+|High voltage|Power line, electric chair, lightning|8d6|20|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T144023Z" creationid="quentine" creationdate="20190115T144023Z">
+        <seg>|类型|例子|伤害|强韧DC|
+|--------|-------------|:--------:|:-----------:|
+|短触|汽车电池、电击枪|1d3|10|
+|低压|保险丝盒、电源插座|2d6|15|
+|中压|变压器、电围栏|4d6|15|
+|高压|输电线、电椅、闪电|8d6|20|</seg>
       </tuv>
     </tu>
     <tu>

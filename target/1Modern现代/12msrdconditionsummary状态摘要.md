@@ -1,77 +1,101 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
 
-CONDITION SUMMARY
+# 状态摘要
 
-A number of adverse conditions can affect the way a character operates, as defined here. If more than one condition affects a character, apply both if possible. If not possible, apply only the most severe condition.
+大量不利的状态会如下所述影响角色的操作。如果角色受到多个状态影响，如果可以的话，都应用之。如果不可以，取最严重的那个。
 
-Ability Damaged
-The character has lost 1 or more ability score points. The loss is temporary, and these points return at a rate of 1 per evening of rest. This differs from “effective” ability loss, which is an effect that goes away when the condition causing it goes away.
+## 属性伤害
 
-Ability Drained
-The character has lost 1 or more ability score points. The loss is permanent.
+角色失去一点或更多的属性点。损失是暂时的，这些点数在每次晚休后恢复一点。这与“效果上的”属性损失不同，后者是随着状态造成的条件的消失而消失的。
 
-Blinded
-The hero can’t see at all, and thus everything has total concealment to him or her. The character has a 50% chance to miss in combat. Furthermore, the blinded character has an effective Dexterity of 3, along with a –4 penalty on the use of Strength-based and Dexterity-based skills. This –4 penalty also applies to Search checks and any other skill checks for which the GM deems sight to be important. The character can’t make Spot checks or perform any other activity (such as reading) that requires vision. Heroes who are blind long-term (from birth or early in life) grow accustomed to these drawbacks and can overcome some of them (at the GM’s discretion).
+## 属性流失
 
-Cowering
-The hero is frozen in fear, loses his or her Dexterity bonus, and can take no actions. In addition, the character takes a –2 penalty to his or her Defense. The condition typically lasts 10 rounds.
+角色失去一点或更多的属性点。损失是永久的。
 
-Dazed
-Unable to act, a dazed character can take no actions, but still gets the benefit of his or her normal Defense. This condition typically lasts 1 round.
+## 目盲
 
-Dead
-A character dies when his or her hit points drop to –10 or lower, or when his or her Constitution drops to 0.
+英雄看不见任何东西，即任何事物对其来说都是隐蔽的。角色战斗有50%的机会失手。此外，目盲的角色的敏捷有效值是3，使用基于力量和敏捷的技能检定有4点减值。这4点减值同样作用于搜索技能检定和GM认为的任何其他的注重视物的技能检定。角色不能侦查或采取任何需要视力的动作（比如阅读）。长期目盲的英雄（比如天生或早年失明）习惯了这些缺陷，可以部分克服这些问题（具体由GM酌情决定）。
 
-Deafened
-The hero can’t hear and takes a –4 penalty on initiative checks. The character can’t make Listen checks. Heroes who are deafened long-term (from birth or early in life) grow accustomed to these drawbacks and can overcome some of them (at the GM’s discretion).
+## 畏缩
 
-Disabled
-The character has 0 hit points. The character can take only a single move action or attack action, and takes 1 point of damage after any action.
+英雄由于恐惧而动弹不得，其敏捷加值会丧失，并且不能做出动作。此外，角色的防御有两点减值。一般该状态持续十轮。
 
-Dying
-The character is near death and unconscious, with –1 to –9 wound points. The character can take no actions, and each round a dying character loses 1 hit point until he or she dies or becomes stable.
+## 眩晕
 
-Entangled
-An entangled character takes a –2 penalty on attack rolls in addition to a –4 penalty to Dexterity. If the entangling bonds are anchored to an immobile object, the entangled hero can’t move. Otherwise, the character can move at half speed, but can’t run or charge.
+眩晕的角色无法行动，但仍能获得正常防御的增益。一般该状态持续1轮。
 
-Exhausted
-Heroes who are exhausted move at half speed and cannot run or charge. Furthermore, they take a –6 penalty to Strength and Dexterity. After 1 hour of complete, uninterrupted rest, an exhausted character becomes fatigued.
+## 死亡
 
-Fatigued
-Characters who are fatigued can’t run or charge and take a penalty of –2 to Strength and Dexterity. After 8 hours of complete, uninterrupted rest, a fatigued character is no longer fatigued.
+当生命值降至-10以及更低，或体质降至0，角色死亡。
 
-Flat-Footed
-A character who has not yet acted during a combat is flat-footed, not reacting normally to the situation. A flat-footed character loses his or her Dexterity bonus to Defense and cannot make attacks of opportunity.
+## 耳聋
 
-Grappled
-When grappled, a hero can’t undertake any action other than attacking with his or her bare hands, attacking with a light weapon, or attempting to break free from his or her opponent. The character loses his or her Dexterity bonus to Defense, except on attacks from characters with whom he or she is grappling.
+英雄不能听到东西，先攻判定有4点减值。角色不能进行聆听检定。长期耳聋的英雄（天生或早年耳聋）习惯了这些缺陷，可以部分克服这些问题（具体由GM酌情决定）。
 
-Helpless
-Paralyzed, sleeping, or unconscious characters are helpless. A helpless character has an effective Defense of 5 + size modifier. An attacker can attempt a coup de grace against a helpless character.
+## 瘫痪
 
-Nauseated
-Characters who are nauseated are unable to attack or do anything else requiring attention or concentration. The only action such a character can take is a single move action per turn.
+角色生命值为0。角色只能执行一个移动或攻击动作，并在执行动作后受到1点伤害。
 
-Panicked
-A panicked character flees as fast as possible and cowers (see Cowering, above) if unable to get away. The character defends normally but cannot attack.
+## 濒死
 
-Paralyzed
-Heroes who are paralyzed fall to the ground, unable to move (they have an effective, but not actual, Dexterity and Strength of 0). They are helpless.
+角色接近死亡并昏迷，生命值在-1到-9之间。角色不能执行动作，每轮濒死的角色都会损失一点生命直到其死亡或稳定。
 
-Pinned
-A pinned character is held immobile (but not helpless) in a grapple. The character takes a –4 penalty to Defense against melee attacks and loses his or her Dexterity bonus to Defense.
+## 纠缠
 
-Prone
-An attacker who is prone (lying on the ground) takes a –4 penalty on melee attack rolls and can’t use bows or thrown ranged weapons. The character gains a +4 bonus to Defense against ranged attacks, but takes a –4 penalty to Defense against melee attacks.
+被纠缠的角色有两点攻击减值，以及4点敏捷减值。如果纠缠是绑定在固定的物体上，被纠缠的英雄将无法移动。否则角色可以以一半的速度移动，但不能奔跑或冲锋。
 
-Shaken
-A shaken character takes a –2 penalty on attack rolls, saving throws, and skill checks.
+## 力竭
 
-Stable
-A stable character is no longer dying, but is still unconscious.
+力竭的英雄移动速度减半，且不能奔跑或冲锋。此外，角色会有力量和敏捷的减值各六点。经过一小时完整且不被打断的休息后，角色从力竭转为疲乏。
 
-Stunned
-A character who becomes stunned loses his or her Dexterity bonus, drops what he or she is holding, and can take no attack or move actions. In addition, the character takes a –2 penalty to Defense. The condition typically lasts 1 round.
+## 疲乏
 
-Unconscious
-An unconscious character is unable to defend him or herself.  The character is helpless and typically falls prone.
+角色无法奔跑或冲锋，力量和敏捷各有两点减值。经过8小时完整的不被打断的休息后，疲乏的角色将不再疲乏。
+
+## 措手不及
+
+角色战斗时还未行动就是措手不及，不能正常对形势作出反应。措手不及的角色在防御时，敏捷加值不会生效，且无法借机攻击。
+
+## 擒抱
+
+英雄被擒抱时无法施展除了空手攻击、轻武器攻击或试图挣脱擒抱者以外的动作。擒抱者防御时敏捷加值失效，除非攻击来源是角色所擒抱的对象。
+
+## 无助
+
+麻痹、睡眠及瘫痪的角色处于无助状态。无助的角色的有效防御值为5+体型调整值。攻击者可以尝试给无助者来个致命一击。
+
+## 反胃
+
+反胃的角色无法攻击，也无法做任何需要集中注意力的动作。每回合，反胃的角色只能做单个移动动作。
+
+## 恐慌
+
+恐慌的角色会尽可能逃跑，如果无法逃跑，就会畏缩（见上文“畏缩”）。角色可以正常防御但无法攻击。
+
+## 麻痹
+
+麻痹的英雄会倒地，无法移动（其有效力量和敏捷为0，实际值不变）。麻痹的同时也会无助。
+
+## 压制
+
+角色在擒抱中被固定住，就是处于压制状态，无法行动（但不是无助）。角色对近战攻击防御值会有4点减值，对于所有的攻击，防御时的敏捷加值无效。
+
+## 俯卧
+
+俯卧状态下的攻击者，不能使用弓或投掷类远程武器，近战攻击会有4点减值。防御远程攻击有4点加值，但防御近战攻击则有4点减值。
+
+## 战栗
+
+战栗的角色在攻击、豁免与技能检定时有2点减值。
+
+## 稳定
+
+稳定的角色不再濒死，但仍昏迷。
+
+## 震慑
+
+震慑状态的角色会失去敏捷加值，手上的东西会掉落，无法攻击或移动。此外，角色防御时有2点减值。该状态通常只持续1轮。
+
+## 昏迷
+
+昏迷的角色无法自我防御。角色同时是无助的，通常还会陷入俯卧。

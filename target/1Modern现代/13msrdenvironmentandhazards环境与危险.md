@@ -1,137 +1,170 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
-ENVIRONMENT & HAZARDS
 
-Darkness and Light
-It’s a rare mission that doesn’t end up in the dark somewhere, and heroes need a way to see. See Table: Light Sources for the radius that a light source illuminates and how long it lasts.
+# 环境与危险
 
+## 黑暗与光明
 
-Table: Light Sources
+只有极少的关卡不在某个暗处告终，英雄总需要想办法去看。见下表：光源照亮半径与持续时间。
 
-|Item|Light|Duration|
+表：光源
+
+|物品|光|时长|
 |--------|:------:|:----------:|
-|Candle|5 feet|12 hours|
-|Torch|20 feet|2 hours|
-|Halogen lantern|40 feet|24 hours|
-|Flashlight|20 feet\*|6 hours|
+|蜡烛|5尺|12小时|
+|火把|20尺|2小时|
+|提灯|40尺|24小时|
+|手电筒|20尺\*|6小时|
 
-\* Creates a beam 30 feet long and 5 feet high.
+\* 射出30尺长、5尺高的光。
 
-Heat and Cold
-Heat and cold deal damage that cannot be recovered until the character counteracts or escapes the inclement temperature. As soon as the character suffers any damage from heat or cold, he or she is considered fatigued.
+## 炎热与寒冷
 
-A character not properly equipped to counteract the heat or cold must attempt a Fortitude saving throw each hour (DC 15, +1 for each previous check). Failure means that the character loses 1d4 hit points. Heavy clothing or armor provides a –4 penalty on saves against heat but grants a +4 equipment bonus on saves against cold. A character who succeeds at a Survival check (DC 15) gains a +4 competence bonus on the save (see the Survival skill).
+炎热与寒冷会造成无法恢复的伤害，直到角色抵御或脱离这样严酷的温度。只要角色因为炎热或寒冷受伤，角色就会疲乏。
 
-Searing heat or bitter cold (desert or arctic conditions) forces a character to make a Fortitude save every 10 minutes. Failure means that the character loses 1d6 hit points. Appropriate clothing and successful use of the Survival skill can modify the save, as noted above.
+角色如果没有穿戴能够抵御炎热或寒冷的装备，必须每小时进行一次强韧豁免检定（DC15，之后每次检定DC+1）。若失败则角色损失1d4生命值。笨重的衣物或护甲对于炎热的豁免检定有4点减值，对于寒冷则有4点加值。生存检定成功（DC15）的角色会在豁免中获得4点表现加值（详见“生存”技能）。
 
-
-Catching on Fire
-Heroes exposed to open flames might find their clothes, hair, or equipment on fire. Heroes at risk of catching fire are allowed a Reflex saving throw (DC 15) to avoid this fate. If a hero’s clothes or hair catch fire, he or she takes 1d6 points of damage immediately. In each subsequent round, the burning hero must make another Reflex saving throw. Failure means he or she takes another 1d6 points of damage that round. Success means that the fire has gone out. (That is, once the character succeeds at the saving throw, he or she is no longer on fire.)
-
-A hero on fire may automatically extinguish the flames by jumping into enough water to douse him or herself. If no body of water is at hand, rolling on the ground or smothering the fire with blankets or the like permits the hero another save with a +4 bonus.
-
-Starvation and Thirst
-Sometimes heroes might find themselves without food and water. In normal climates, heroes need at least 1/2 gallon of fluids and about 1/4 pound of decent food per day to avoid the threat of starvation. In very hot climates, heroes need two or three times as much water to avoid dehydration.
-A character can go without water for one day plus a number of hours equal to his or her Constitution score. After this, the character must make a Constitution check each hour (DC 10, +1 for each previous check) or take 1d6 points of damage.
-A character can go without food for three days, in growing discomfort. After this, the character must make a Constitution check each day (DC 10, +1 for each previous check) or sustain 1d6 points of damage.
-
-Damage from thirst or starvation cannot be recovered until the hero gets water or food, as needed. Even magical or psionic effects that restore hit points cannot heal this damage.
-
-Suffocation and Drowning
-
-A character in an airless environment (underwater, vacuum) can hold his or her breath for a number of rounds equal to his or her Constitution score. After this period of time, the character must make a Constitution check (DC 10) every round to continue holding his or her breath. Each round, the DC of the Constitution check increases by 1.
-When the character fails one of these Constitution checks, he or she begins to suffocate or drown. In the next round, the character falls unconscious with 0 hit points. In the following round, the character drops to –1 hit points and is dying. In the third round after failing the check, the character dies of suffocation or drowning.
-
-Smoke
-Characters breathing heavy smoke or similar toxic gases must make a Constitution check (DC 10, +1 for each previous check) each round or spend that round choking and coughing. Characters who choke for 2 consecutive rounds take 1d6 points of damage.
-Smoke also obscures vision, giving one-half concealment (20% miss chance) to characters within it.
+极端的炎热或寒冷天气（沙漠或极地情况）强制角色每十分钟进行一次强韧豁免。失败角色损失1d6点生命。合适的衣物和生存技能的成功使用对检定同样有上文所述的影响。
 
 
-Strangulation
-When a character is strangled by an instrument or an attacker, use the rules below.
-A character can strangle or choke a target of the same size category or one size category larger or smaller.  The strangling attempt incurs an attack of opportunity.
-To begin the choke, the attacker must succeed at an opposed grapple check. If the grapple succeeds, the attacker can choose to deal normal unarmed damage as well as choke the target. The target can hold his of her breath for a number of rounds equal to his or her Constitution score. After this period of time, the target must make a Constitution check (DC 10, +1 for each previous check) every round to continue holding his or her breath. The target begins to suffocate on a failed check (see Suffocation and Drowning).
-If at any time the target breaks free or slips free of the grapple, the stranglehold is broken (although any damage that was dealt remains). Note that a grappled target who is not pinned can use his or her attack action to strangle his or her attacker.
+## 着火
 
-Falling
-A character takes 1d6 points of damage for every 10 feet of a fall, to a maximum of 20d6 points. If the character succeeds on a Reflex saving throw (DC 10, +1 for each 10 feet fallen), this damage is halved. If the saving throw fails, full damage is applied.
-A character can make a Tumble check (DC 15) to treat a fall as if it were 10 feet shorter when determining the damage and Reflex saving throw DC required by the fall.
+英雄接触到明火，可能会让其衣物、头发或装备起火。英雄着火后可以做一个反射豁免（DC15）避免之。如果英雄的衣服或头发着火，会立即损失1d6点生命。在之后的每一轮，着火的角色必须再来一次反射豁免。失败则该轮又损失1d6点生命。成功则意味着火焰被灭掉了。（也即是说豁免一旦成功，就不再着火。）
 
-Falling Objects
-Objects that fall upon characters (or creatures or vehicles) deal damage based on their size and the distance fallen, as noted on Table: Damage from Falling Objects.
-Objects deal the initial damage given in Table: Damage from Falling Objects if they fall 10 feet or less. An object deals an additional 1d6 points of damage for every 10-foot increment it falls beyond the first (to a maximum of 20d6 points of damage). Objects of Fine size are too small to deal damage, regardless of the distance fallen.
+着火中的英雄跳进足够多的水中会自动熄灭火焰。如果没人手上有水，在地上打滚或用毯子切断助燃条件或者类似的行为可以让主角的反射豁免有4点加值。
 
-A successful Reflex save indicates that the target takes half damage. The size of the falling object determines the save DC.
-If the save fails by 10 or more, and the object is at least three size categories larger than the character, the character is pinned under the fallen object. A pinned character cannot move but is not helpless. The character can make a Strength check to lift the object off him or herself or an Escape Artist check (DC 20) to get out from underneath. The GM can modify the DCs for these checks based on the circumstances.
+## 饥饿与口渴
 
-Table: Damage from Falling Objects
+有时英雄可能发现自己缺水缺食物。在正常气候下，主角每天需要至少半加仑的饮料以及大约四分之一磅的主食以避免饥饿的威胁。在非常热的气候下，主角需要两到三倍的水以避免脱水。
 
-|Object Size|Examples|Initial Damage|Reflex Save DC|Strength Check DC|
+角色可以连续在一天+等同于其体质值的小时数内缺水。此后角色必须每小时进行一次体质检定（DC10，每次检定后+1），失败则损失1d6点生命。
+
+角色可以三天缺食物，此期间角色逐渐感到不适。此后，角色必须每天进行一次体质检定（DC10，每次检定后+1），失败则损失1d6点生命。
+
+饥饿与口渴造成的伤害无法恢复，直到主角获得水或食物。能恢复生命的魔法或超能力都不能治疗这种伤害。
+
+## 窒息与溺水
+
+角色在无空气的环境下（水下、真空）能够闭气，持续等同于其体质的轮数。此后一段时间里，角色必须每轮进行一次体质检定（DC10）以继续闭气。每轮体质检定的DC+1。
+
+当角色体质检定失败，角色将会开始窒息或溺水。下一轮，角色会昏迷，生命值变为0。再下一轮，角色会减至-1生命并濒死。第三轮，角色就会因窒息或溺水死亡。
+
+## 烟雾
+
+吸入浓烟或类似毒性气体的角色必须每轮都进行一次体质检定（DC10，每次检定后+1），失败则呛气咳嗽。连续两轮呛气的角色将会受到1d6点伤害。
+
+烟雾同样影响可见度，烟雾中的角色处于半隐藏状态，并有20%失手率。
+
+## 扼喉
+
+当角色被器械或攻击者扼喉时，按照以下规则。
+
+角色能够对同样体型或者比自己大一级或小一级的目标扼喉或使其窒息。扼喉会引发对方的借机攻击。
+
+要实施窒息，攻击者首先必须擒抱检定成功。如果擒抱成功，攻击者可以选择空手攻击或者使对方窒息。目标可以闭气等同于其体质值的回合数。此后目标必须每轮进行体质检定（DC10，每次检定后+1），以继续闭气。目标如果失败了就会进入窒息状态（详见窒息与溺水）。
+
+任何时候目标脱离擒抱，扼喉就中止了（但之前造成的伤害仍然保持）。要注意的是，没被压制住的那个擒抱对象才可以扼住对方。
+
+## 坠落
+
+角色坠落后，每10尺的高度角色受到1d6的伤害，封顶20d6。如果角色进行反射豁免成功（DC10，每超过10尺+1），伤害减半。失败则受到完全的伤害。
+
+在反射检定结算伤害时，如果高度低于10尺，角色可以对掉落进行翻滚检定（DC15）。
+
+## 坠落物
+
+物品坠落砸到角色（或者生物、车辆）身上，根据体型和掉落距离造成伤害，见下表：坠落物造成的伤害。
+
+坠落物产生如下表的初始伤害：10尺以及更低的高度只产生初始伤害。更高的高度下，超过部分每高10尺就有额外的1d6点伤害（额外伤害最高为20d6）。超微型尺寸过小，无法造成伤害。
+
+成功的反射豁免能让伤害减半。坠落物的尺寸决定了豁免DC。
+
+如果豁免失败，相比DC低10点甚至更低，并且物体尺寸比角色尺寸至少大3级，角色会被压制在坠落物之下。被压制的角色不能移动但不处于无助状态。角色能够进行力量检定以推开压在身上的物体，或者使用脱逃检定（DC20）抽身脱离。GM可以根据实际情况修改检定DC。
+
+表：坠落物的伤害
+
+|物体尺寸|例如|初始伤害|反射豁免DC|力量检定DC|
 |-------------------|------------|:--------------------:|:---------------------:|:-------------------------:|
-|Fine|Penny|0|n/a|n/a|
-|Diminutive|Paperweight|1|0|n/a|
-|Tiny|Wrench|1d3|5|n/a|
-|Small|Vase|1d4|10|5|
-|Medium-size|Briefcase|1d6|15|10|
-|Large|Garbage can|2d6|20|20|
-|Huge|Oil barrel|4d6|25|30|
-|Gargantuan|Piano|8d6|30|40|
-|Colossal|Vehicle|10d6|35|50|
+|超微型|硬币|0|n/a|n/a|
+|微型|一张纸|1|0|n/a|
+|超小型|扳手|1d3|5|n/a|
+|小型|花瓶|1d4|10|5|
+|普通|公文包|1d6|15|10|
+|大型|垃圾箱|2d6|20|20|
+|超大型|油桶|4d6|25|30|
+|巨型|钢琴|8d6|30|40|
+|超巨型|车辆|10d6|35|50|
 
-Poison
-When a character takes damage from an attack with a poisoned weapon, touches an item smeared with contact poison, consumes a poisonous substance, inhales a poisonous gas, or is otherwise poisoned, the character must make a Fortitude saving throw. If the character fails, he or she takes the poison’s initial damage (usually ability damage). Even if the character succeeds, he or she typically faces secondary damage 1 minute later. This secondary damage also requires a Fortitude saving throw to avoid.
-Poisons are detailed in the Craft(chemical) skill description.
-Poisonous liquids are usually administered through injection or by application to a weapon. Poisonous gases must be inhaled to be effective. Poisonous solids are usually ingested with food or drink.
-Perils of Using Poison
-A character has a 5% chance (roll of 1 on 1d20) to expose him or herself to a poison whenever the character applies it to a weapon or otherwise readies it for use. Additionally, a character who rolls a 1 on an attack roll with a poisoned weapon must succeed at a Reflex saving throw (DC 15) or accidentally poison him or herself with the weapon.
-Poison Immunity
-Creatures with natural poison attacks are immune to their own poison. Nonliving creatures and creatures without metabolisms are immune to poison. Oozes and certain kinds of creatures are immune to poison, as detailed in their descriptions, though it is conceivable that a special poison could be synthesized specifically to harm them.
+## 毒素
 
-Disease
-When a character is exposed to a treatable disease, the character must make an immediate Fortitude saving throw. The victim must make this roll when he or she comes into contact with an infectious carrier, touches an item smeared with diseased matter, consumes food or drink tainted with a disease, or suffers damage from a contaminated attack. If the character succeeds, the disease has no effect on him or her—the character’s immune system fights off the infection. If the character fails the save, he or she takes damage after an incubation period; once per day thereafter, the character must succeed at a Fortitude saving throw to avoid secondary damage. Two successful saving throws in a row indicate that the character has fought off the disease and recovers, taking no more damage.
-The characteristics of some treatable diseases are summarized on Table: Diseases.
-Type: The disease’s method of delivery—ingested, inhaled, or via an injury—and the DC needed to save. Some injury diseases can be transmitted by a wound as small as an insect bite. Most diseases that are inhaled can also be ingested (and vice versa).
-Incubation Period: The amount of time before initial damage takes effect (if the victim fails his or her Fortitude save).
-Initial Damage: The damage the victim takes after the incubation period.
-Secondary Damage: The amount of damage the hero takes one day after taking initial damage, if he or she fails a second saving throw. This damage is taken each day the saving throw fails.
+当角色被有毒武器伤害到、碰到涂上接触性毒素的物品、摄入毒物、吸入毒气或以其他的方式中毒时，角色必须进行一次强韧豁免。如果失败，角色受到毒物的初始伤害（通常是属性伤害）。即使成功，角色一般还要在一分钟后再次面临伤害。再次伤害也需要强韧豁免来避免。
 
-Table: Diseases
+毒物在制造（化学）技能里详述。
 
-|Disease|Type|Incubation Period|Initial Damage|Secondary Damage|
+毒液通常通过注射或武器涂毒来投放。毒气必须吸入才生效。固体毒物通常通过混入饮食中摄取。
+
+### 使用毒物的危险
+
+角色涂毒或执行其他准备使用毒物的动作时会有5%的几率让自己中毒（D20投出1）。另外，角色使用带毒武器攻击掷骰出1时，需要进行一次反射豁免（DC15），失败则自己会中该毒。
+
+### 毒性免疫
+
+天然拥有毒性攻击的生物免疫它们自己的毒性。非生物以及无新陈代谢的生物免疫毒性。泥形怪及特定生物免疫毒性，怪物描述中详述，可能有特别合成的特定毒药能伤害到它们。
+
+## 疾病
+
+如果角色得了可治愈的疾病，角色必须立即进行一次强韧豁免。角色必须在接触带病体、触碰沾有病原的物体、摄入病原污染的饮食或受到带污染的攻击时，进行这样的检定。如果角色成功，就不会感染——即角色的免疫系统抵御了疾病。如果豁免失败，则角色在潜伏期过后受到伤害；此后每隔一天，角色必须进行同样的强韧豁免以避免再次伤害。连续两次成功的豁免则使角色战胜疾病，不再受到伤害。
+
+一些可治愈疾病的特性见表：疾病。
+
+**类型：** 疾病的传播类型——摄入性、吸入性或伤口性——以及豁免所需DC。一些伤口性疾病能够依靠小至蚊虫叮咬的伤口传播。大多数吸入性疾病同时也会是摄入性疾病（反之亦然）。
+
+**潜伏期：** 从接触到受初次伤害所经过的时间（如果强韧豁免失败的话）。
+
+**初始伤害：** 潜伏期过后病患受到的伤害。
+
+**再次伤害：** 第二次豁免失败，英雄受到初次伤害第二天受到的伤害数目。此后每次豁免失败英雄都获得该伤害。
+
+表：疾病
+
+|疾病|类型|潜伏期|初始伤害|再次伤害|
 |-----------|---------|----------------------|----------------------|------------------------|
-|Anthrax|Inhaled/Injury DC 16|1d2 days|1 Con|1d4 Con\*|
-|Small pox|Inhaled/Contact DC 15|2d4 days|1 Str and 1 Con|1d2 Str and 1d2 Con|
-|Pneumonia|Inhaled DC 12|1d4 days|1 Str|1d3 Str and 1d3 Con|
-|Hantavirus|Injury DC 14|1 day|1d2 Str|1d2 Str\* and 1d2 Con\*|
-|Necrotizing faciitis|Contact DC 13|1d6 days|1 Con|1d3 Con\*|
-|West Nile virus|Injury DC 12|1d4 days|1 Dex and 1 Con|1d2 Dex and 1d2 Con\*|
-|Salmonellosis|Ingested DC 13|1 day|1 Str and 1 Dex|1 Str and 1d3 Dex|
+|炭疽|吸入性/伤口性 DC16|1d2天|1体质|1d4体质\*|
+|天花|吸入性/接触性 DC15|2d4天|1力量1体质|1d2力量1d2体质|
+|肺炎|吸入性 DC12|1d4天|1力量|1d3力量1d3体质|
+|汉坦病毒|伤口性 DC14|1天|1d2力量|1d2力量\* 1d2体质\*|
+|坏死性筋膜炎|接触性 DC13|1d6天|1体质|1d3体质\*|
+|西尼罗病毒|伤口性 DC12|1d4天|1敏捷1体质|1d2敏捷1d2体质\*|
+|沙门氏菌病|摄入性 DC13|1天|1力量1敏捷|1力量1d3敏捷|
 
-\*If damage is sustained, make a second saving throw to avoid 1 point being permanently drained (instead of damaged).
+\* 若伤害已造成，再进行一次豁免以避免1点永久性的属性流失（而不是伤害）。
 
-Acid
-Corrosive acids deal damage each round of exposure. The amount of damage varies depending on the acid’s strength, as noted on Table: Acid Damage.
+## 酸
 
-Table: Acid Damage
+接触腐蚀性的酸液每轮都会造成伤害。酸液的伤害量取决于酸的强度，如下表所示：酸性伤害。
 
-|Acid Strength|Splash Attack\*|Total Immersion\*|
+表：酸性伤害
+
+|酸强度|飞溅伤害\*|完全浸入\*|
 |-------------------|:--------------------:|:---------------------:|
-|Mild|1d6|1d10|
-|Potent|2d6|2d10|
-|Concentrated|3d6|3d10|
+|弱酸|1d6|1d10|
+|强酸|2d6|2d10|
+|浓酸|3d6|3d10|
 
-\*Damage per round of exposure.
+\* 伤害每轮都结算
 
-Acid damage from an attack reduces hit points. A character fully immersed in acid takes potentially more damage per round of exposure than a character splashed with acid.
-The fumes from most acids are inhaled poisons. Those who come within 5 feet of a large body of acid must make a Fortitude save (DC 15) or take 1 point of temporary Constitution damage. A second save must succeed 1 minute later to avoid taking another 1d4 points of Constitution damage.
+酸的攻击造成对生命值的伤害。角色完全浸入酸比溅到酸受到更多的伤害。
 
-Electricity
-Electrical hazards come in many forms, including stun guns, downed power lines, and electric security fences. Table: Electricity Damage gives damage values for various electrical hazards based on relative voltage. A character can make a Fortitude saving throw to reduce the damage by half. If that character is not grounded or is otherwise insulated from the current, a successful save indicates that no damage is suffered.
+大多数酸的挥发气也是吸入性毒物。进入大体积酸雾至5尺深的角色必须进行一次强韧豁免（DC15），失败则受到1点临时体质伤害。一分钟后进行再次豁免，失败则再受到1d4点体质伤害。
 
-Table: Electricity Damage
+## 电
 
-|Type|Examples|Damage|Fort DC|
+电力危险以多种情况发生，包括电击枪、掉落的电线、以及电栅栏。电力伤害表给出了相关电压下电的伤害值。角色可以进行强韧豁免以让伤害减半。如果角色不是接地的或者处于其他绝缘状况，豁免成功的结果是伤害完全免除。
+
+表：电力伤害
+
+|类型|例子|伤害|强韧DC|
 |--------|-------------|:--------:|:-----------:|
-|Jolt|Car battery, stun gun|1d3|10|
-|Low voltage|Fuse box, electrical socket|2d6|15|
-|Medium voltage|Industrial transformer, electric fence|4d6|15|
-|High voltage|Power line, electric chair, lightning|8d6|20|
+|短触|汽车电池、电击枪|1d3|10|
+|低压|保险丝盒、电源插座|2d6|15|
+|中压|变压器、电围栏|4d6|15|
+|高压|输电线、电椅、闪电|8d6|20|

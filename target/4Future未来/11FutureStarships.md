@@ -210,7 +210,7 @@ Table: Evacuation Times
 \* Includes expert and ace crews.
 
 STARSHIP CONDITION SUMMARY
-A number of adverse conditions can affect the way a starship or its crew operates, as defined here. If more than one condition affects a starship, apply both if possible. If not possible, apply only the most severe condition.
+A number of adverse conditions can affect the way a starship or its crew operates, as defined here. If more than one condition affects a starship, apply both if possible. 如果不可以，取最严重的那个。
 Blinded: The starship’s sensors are inoperable. All targets have the equivalent of total concealment (50% miss chance).
 Breaking Apart: The starship is at negative hit points. It can take no actions, cannot be repaired, and loses 1 hit point each round until it is destroyed.
 Dazed: The starship, its crew, and its passengers can take no actions, but they take no penalty to Defense. A dazed condition usually lasts 1 round.
