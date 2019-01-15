@@ -103,7 +103,7 @@ A character normally moves as a move action, leaving an attack action to attack.
 
 Saving Throws
 Generally, when a character is subject to an unusual or magical attack, he or she gets a saving throw to avoid or reduce the effect. A saving throw is a 1d20 roll plus a bonus based on the character’s class and level (the character’s base save bonus) and an ability modifier.
-A natural 1 (the d20 comes up 1) on a saving throw is always a failure. A natural 20 (the d20 comes up 20) is always a success.
+投1（d20结果为1）在豁免骰中直接判定失败。投20（d20结果为20）直接判定成功。
 
 A character’s saving throw bonus is:
 Base save bonus + ability modifier
@@ -113,7 +113,7 @@ Saving Throw Types
 The three different kinds of saving throws are:
 Fortitude: These saves measure a character’s ability to stand up to massive physical punishment or attacks against his or her vitality and health such as poison and paralysis. Apply a character’s Constitution modifier to his or her Fortitude saving throws.
 Reflex: These saves test a character’s ability to dodge massive attacks such as explosions or car wrecks. (Often, when damage is inevitable, a character gets to make a Reflex save to take only half damage.) Apply the character’s Dexterity modifier to his or her Reflex saving throws.
-Will: These saves reflect a character’s resistance to mental influence and domination as well as to many magical effects. Apply the character’s Wisdom modifier to his or her Will saving throws.
+Will: These saves reflect a character’s resistance to mental influence and domination as well as to many magical effects. 计算意志豁免骰需要加上角色的感知调整值。
 
 Initiative
 Every round, each combatant gets to do something. The combatants’ initiative checks, from highest to lowest, determine the order in which they act, from first to last.

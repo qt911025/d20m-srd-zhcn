@@ -126,3 +126,28 @@ Touch Attacks	接触攻击
 Size	体型
 dodge	闪避
 deflection	偏斜
+Fortitude	强韧
+level	等级
+massive	巨大（伤害）	这个字眼可能代表巨创
+poison	毒素
+paralysis	麻痹
+talent	天赋
+feature	专长
+death	死亡
+dying	濒死
+heal	治疗
+Hit point	生命值
+disabled	瘫痪
+dying	濒死
+dead	死亡
+Massive Damage	巨创
+Improved Damage Threshold	巨创阈值提升
+critical hit	重击
+immune	免疫
+dazed	眩晕
+unconscious	昏迷
+full-round action	整轮动作
+round	轮	所有角色都过一遍
+turn	回合	轮到一个玩家的行动时段
+stable	稳定
+Damage	伤害

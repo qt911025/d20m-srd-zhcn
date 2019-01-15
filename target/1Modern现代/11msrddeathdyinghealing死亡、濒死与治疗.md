@@ -1,65 +1,99 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
-DEATH, DYING, AND HEALING
 
-Injury and Death
-Hit points measure how hard a character is to kill.  Hit points mean two things in the game world: the ability to take physical punishment and keep going, and the ability to turn a serious blow into a less serious one.
+# 死亡、濒死与治疗
 
-Effects of Hit Point Damage
-At 0 hit points, a character is disabled.
-At from –1 to –9 hit points, a character is dying.
-At –10 or lower, a character is dead.
+## 伤害与死亡
 
-Massive Damage
-Any time a character takes damage from a single hit that exceeds the character’s massive damage threshold, that damage is considered massive damage. A character’s massive damage threshold is equal to the character’s current Constitution score; it can be increased by taking the Improved Damage Threshold feat.
-When a character takes massive damage that doesn’t reduce his or her hit points to 0 or lower, the character must make a Fortitude save (DC 15). If the character fails the save, the character’s hit point total is immediately reduced to –1. If the save succeeds, the character suffers no ill effect beyond the loss of hit points.
-Creatures immune to critical hits are also immune to the effects of massive damage.
+生命值衡量了角色难以被杀死的程度。在游戏世界里，生命值有两个含义：承受肉体伤害后仍能维持行动的能力，和将重击化小的能力。
 
-Nonlethal Damage
-Nonlethal damage is dealt by unarmed attackers and some weapons. Melee weapons that deal lethal damage can be wielded so as to deal nonlethal damage, but the attacker takes a –4 penalty on attack rolls for trying to deal nonlethal damage instead of lethal damage. A ranged weapon that deals lethal damage can’t be made to deal nonlethal damage (unless it is used as an improvised melee weapon).
-Nonlethal damage does not affect the target’s hit points. Instead, compare the amount of nonlethal damage from an attack to the target’s massive damage threshold. If the amount is less than the target’s massive damage threshold, the target is unaffected by the attack.
-If the damage equals or exceeds the target’s massive damage threshold, the target must make a Fortitude save (DC 15). If the target succeeds on the save, the target is dazed for 1 round. If the target fails, he or she is knocked unconscious for 1d4+1 rounds.
+### 生命伤害的效果
 
-Disabled (0 Hit Points)
-When a character’s current hit points drop to exactly 0, the character is disabled. The character is not unconscious, but he or she is close to it. The character can only take a single move or attack action each turn (but not both, nor can the character take full-round actions). The character can take nonstrenuous move actions without further injuring his or herself, but if the character attacks or perform any other action the GM deems as strenuous, the character takes 1 point of damage after completing the act. Unless the activity increased the character’s hit points, the character is now at –1 hit points, and is dying.
-Healing that raises the character above 0 hit points makes him or her fully functional again, just as if the character had never been reduced to 0 or lower.
-A character can also become disabled when recovering from dying. In this case, it’s a step up along the road to recovery, and the character can have fewer than 0 hit points (see Stable Characters and Recovery).
+生命值为0时，角色瘫痪。
 
-Dying (–1 to –9 Hit Points)
-When a character’s current hit points drop below 0, the character is dying. A dying character has a current hit point total between –1 and –9 inclusive.
-A dying character immediately falls unconscious and can take no actions.
-A dying character loses 1 hit point every round. This continues until the character dies or becomes stable naturally or with help (see below).
+生命值为-1至-9时，角色濒死。
 
-Dead (–10 hit points or lower)
-When a character’s current hit points drop to –10 or lower, he or she is dead. A character can also die if his or her Constitution is reduced to 0.
+生命值为-10至更低时，角色死亡。
 
-Stable Characters and Recovery
-A dying character (one with –1 to –9 hit points) is un-conscious and loses 1 hit point every round until he or she becomes stable or dies.
+### 巨创
 
-Recovering without Help
-Each round, a dying character makes a Fortitude saving throw (DC 20). If the save fails, the character loses 1 hit point and must make another save on his or her turn the next round.
-If the save succeeds, the character becomes stable. A stable character stops losing hit points every round, but remains unconscious.
-If no one tends to the stable character (see below), he or she remains unconscious for 1 hour, at which point he or she makes a Fortitude save (DC 20). If the save succeeds, the stable character regains consciousness, becoming disabled (see above).
-The character’s current hit point total remains where it is, however, even though it’s negative. If the save fails, the character remains unconscious.
-An unaided stable, conscious character who has negative hit points (and is disabled) doesn’t heal naturally. Instead, each day the character makes a Fortitude save (DC 20) to start recovering hit points naturally that day; if the save fails, he or she loses 1 hit point.
-Once an unaided character starts recovering hit points naturally, the character is no longer in danger of losing additional hit points (even if his or her current hit point total is still negative).
+只要角色受到的单次攻击伤害超过了角色的巨创阈值，此伤害视为巨创。角色的巨创阈值等于角色当前的体质值；巨创阈值还会受“巨创阈值提升”专长提供加成。
 
-Recovering with Help
-A dying character can be made stable by the use of the Treat Injury skill (DC 15).
-One hour after a tended, dying character becomes stable, he or she makes a Fortitude save (DC 20) to regain consciousness. If successful, the character becomes disabled (see above). If the character remains unconscious, he or she makes the same Fortitude save every hour until he or she becomes conscious. Even while unconscious, the character recovers hit points naturally, and he or she can return to normal activity when his or her hit points rise to 1 or higher.
+当角色受到巨创但生命值未降至0以及更低时，角色必须进行一次强韧豁免（DC15）。如果角色豁免失败，角色的生命值会立即减至-1。如果豁免成功，角色只会扣除相应的生命值。
 
-Healing
-After taking damage, a character can recover hit points through natural healing (over the course of days) or through medical technology (somewhat faster). In some campaign settings, magical healing is also available. In any case, a character can’t regain hit points past his or her full normal total.
+免疫重击的生物也会免疫巨创。
 
-Natural Healing
-A character recovers 1 hit point per character level per evening of rest (8 hours of sleep).
-A character undergoing complete bed rest (doing nothing for an entire day) recovers 2 hit points per character level.
+### 非致命伤害
 
-Healing Ability Damage
-Ability damage returns at the rate of 1 point per evening of rest (8 hours of sleep). Complete bed rest (24 hours) restores 2 points per day.
+非致命伤害是由无武器的攻击方以及一些武器造成的。产生致命伤害的近战武器也可以采用非致命的攻击方式，但这么做的话，攻击者的攻击骰点要减去4。产生致命伤害的远程武器无法采用非致命攻击方式（除非该武器临时用于肉搏）。
 
-Temporary Hit Points
-Certain effects can give a character temporary hit points. When a character gains temporary hit points, make a note of his or her current hit points before adding the temporary hit points. When the temporary hit points go away, the character’s hit points drop to that score. If the character’s hit points are already below that score at that time, all the temporary hit points have already been lost, and the character’s hit point total does not drop.
-When temporary hit points are lost, they can’t be restored as real hit points can be, even with medical treatment or magic.
+非致命伤害不会影响目标的生命值。应将该非致命伤害值与目标的巨创阈值比较。如果伤害值比巨创阈值小，目标不会被攻击影响到。
 
-Increases in Constitution Score and Current Hit Points
-An increase in a character’s Constitution score—even a temporary one—can give the character more hit points (an effective hit point increase), but these are not temporary hit points. They can be restored through normal healing. When a character’s Constitution drops back down to its previous score after a temporary increase, the character’s full normal hit points go down accordingly.
+如果伤害大于等于目标的巨创阈值，目标必须进行强韧豁免判定（DC15）。如果目标豁免成功，目标晕眩一回合。如果检定失败，目标会昏迷1d4+1回合。
+
+### 瘫痪（0生命）
+
+当角色的当前生命值减至0，角色瘫痪。角色不会昏迷但也差不多了。每回合角色只能做单个移动或攻击动作（但不能都做，也不能用整轮动作）。角色可以进行不费力的移动动作以免再受伤，但如果角色攻击或表现出任何其他的让GM认为是费力的动作，角色会在动作完成时受到一点伤害。除非该动作增加了角色的生命值，角色的生命值将变为-1，是濒死状态。
+
+治疗让角色恢复生命至0点以上，角色会完全恢复行动能力，只要角色别再减至0或者更低的生命值就行了。
+
+角色从濒死状态恢复时也会陷入瘫痪。在这种情况下，角色依旧处于恢复状态，还是会减至0甚至更低的生命的（见角色的稳定与恢复）。
+
+### 濒死（-1到-9生命）
+
+当角色当前生命值降至低于0时，角色处于濒死状态。濒死的角色的生命值为-1到-9。
+
+濒死的角色会立即昏迷，无法采取任何行动。
+
+濒死的角色每轮都会失去1点生命值，直到角色死亡或自然地进入稳定状态，或受到救助（见下文）。
+
+### 死亡（-10及更低的生命）
+
+当角色当前的生命值减至-10或更低，角色死亡。角色的体质减至0也会死亡。
+
+## 角色的稳定与恢复
+
+濒死的角色（-1至-9生命值）是昏迷的，每回合损失1点生命值直到角色进入稳定状态或死亡。
+
+### 在没有帮助的情况下恢复
+
+每一轮，濒死的角色都会进行一次强韧豁免检定（DC20）。如果豁免失败，角色失去1点生命，并且下一轮在角色的回合必须再进行一次这样的豁免。
+
+如果豁免成功，角色进入稳定状态。稳定的角色停止每轮的生命损失，但仍处于昏迷状态。
+
+如果没人照料稳定的角色（见下文），角色会在一小时内继续昏迷，届时角色进行一次强韧豁免检定（DC20）。如果豁免成功，稳定的角色会恢复意识，变为瘫痪（见上文）。
+
+角色当前的生命值会维持原状，即使生命值为负数。如果豁免失败，角色仍保持昏迷状态。
+
+未受救治的稳定状态，负生命值的有意识的角色（也是瘫痪的）不会自然恢复。每天角色进行一次强韧豁免（DC20），成功则在当天开始恢复生命值；如果豁免失败，角色失去一点生命。
+
+一旦未受救治的角色开始自然恢复生命值，角色不再处于损失生命的危险之中（即使角色的生命是负的）。
+
+### 在他人帮助下恢复
+
+通过使用“医疗”技能（DC15），濒死的角色可以变得稳定。
+
+照料一小时后，濒死的角色变得稳定，角色进行一次强韧豁免（DC20）以重新获得意识。如果成功，角色变为瘫痪（见上文）。如果角色仍旧昏迷，角色每小时都会进行强韧豁免直到恢复意识。即使在昏迷的状态下，角色还是会自然恢复生命，而且当角色的生命升至1或更高就可以正常行动了。
+
+### 治疗
+
+受到伤害后角色可以自然地恢复生命值（经过几天之后）或者通过医药技术恢复（这样更快）。在一些战役设定中，魔法治疗也是可以的。在任何情况下，角色不能恢复到超过生命上限。
+
+### 自然治疗
+
+角色每经过一次晚休（睡8小时）都恢复与角色等级数相等的生命值。
+
+角色在床上经过充足的睡眠（一整天什么也不干）恢复角色等级数两倍的生命值。
+
+### 治疗属性伤害
+
+属性伤害每次晚休（8小时睡眠）恢复1点。全天休养（24小时）每天恢复2点。
+
+### 临时生命值
+
+有的效果能够赋予角色临时生命值。当角色获得临时生命值，记下角色获得前的生命值。当临时生命值消失，角色的生命值将减至那个值。当角色生命值已低于那个值，所有的临时生命值都被耗完，角色的生命值就不会再降。
+
+当损失了临时生命值，它们不能像真实的生命值那样回复，即使使用医疗或者魔法都不可以。
+
+### 体质值与当前生命值的增加
+
+角色的体质值的增加——临时增加的也算——能赋予角色更多的生命值（一次有效的生命增长），但这些不是临时生命值。这些生命值可以通过一般的治疗恢复。当角色的体质值经过暂时的增长后，掉回原值，角色的生命值上限相应掉回。

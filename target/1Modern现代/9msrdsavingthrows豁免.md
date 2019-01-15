@@ -1,14 +1,21 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
-SAVING THROWS
 
-Generally, when a hero is subject to an unusual or magical attack, he or she gets a saving throw to avoid or reduce the effect. Like an attack roll, a saving throw is a 1d20 roll plus a bonus based on the hero’s class and level (the hero’s base save bonus) and an ability modifier.
-A natural 1 (the d20 comes up 1) on a saving throw is always a failure. A natural 20 (the d20 comes up 20) is always a success.
-A character’s saving throw bonus is:
-Base save bonus + ability modifier
+# 豁免
 
-The Difficulty Class for a save is determined by the attack itself.
+通常，当英雄遭遇特殊攻击或魔法攻击时，则需要掷一个豁免骰以避免或者减少这种攻击的效果。与攻击骰相同，豁免骰是1d20加上基于英雄职业与等级的加值（英雄的基础豁免加值）再加上属性调整值。
 
-The three different kinds of saving throws are:
-Fortitude: These saves measure the character’s ability to stand up to massive physical punishment or attacks against his or her vitality and health such as poison and paralysis. Apply the character’s Constitution modifier to his or her Fortitude saving throws.
-Reflex: These saves test the character’s ability to dodge massive attacks such as explosions or car wrecks. (Often, when damage is inevitable, the character gets to make a Reflex save to take only half damage.) Apply the character’s Dexterity modifier to his or her Reflex saving throws.
-Will: These saves reflect the character’s resistance to mental influence and domination as well as to many magical effects. Apply the character’s Wisdom modifier to his or her Will saving throws.
+投1（d20结果为1）在豁免骰中直接判定失败。投20（d20结果为20）直接判定成功。
+
+角色的豁免骰加值为：
+
+基础豁免加值 + 属性调整值
+
+豁免的DC由攻击本身决定。
+
+三种豁免骰类型为：
+
+**强韧豁免：** 这一豁免代表角色在重大攻击下屹立不倒的能力和在受到类似毒素和麻痹攻击时保持活力的能力。计算强韧豁免骰需要加上角色的体质调整值。
+
+**反射豁免：** 这一豁免代表角色闪避重大攻击——如爆炸或车祸——的能力。（当伤害不可避免时，角色可以通过成功的反射豁免只承受一半伤害。）计算反射豁免骰需要加上角色的敏捷调整值。
+
+**意志豁免：** 这一豁免反映了角色对精神上的影响和控制和许多魔法效果的抵抗能力。计算意志豁免骰需要加上角色的感知调整值。

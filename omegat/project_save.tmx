@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># ACTION POINTS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T132811Z" creationid="quentine" creationdate="20190114T132811Z">
+        <seg># 行动点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># ALLEGIANCES</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T141628Z" creationid="QuenTine" creationdate="20181103T141628Z">
@@ -46,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># DEATH, DYING, AND HEALING</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T140806Z" creationid="quentine" creationdate="20190114T140806Z">
+        <seg># 死亡、濒死与治疗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># DEFENSE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T112548Z" creationid="quentine" creationdate="20190114T112548Z">
@@ -74,6 +90,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T121428Z" creationid="QuenTine" creationdate="20181106T121428Z">
         <seg># 声望</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg># SAVING THROWS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T125754Z" creationid="quentine" creationdate="20190114T125754Z">
+        <seg># 豁免</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,10 +262,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Disabled (0 Hit Points)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145537Z" creationid="quentine" creationdate="20190114T145537Z">
+        <seg>## 瘫痪（0生命）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Doctor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T132850Z" creationid="QuenTine" creationdate="20181104T132850Z">
         <seg>## 医生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Effects of Hit Point Damage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T141658Z" creationid="quentine" creationdate="20190114T141658Z">
+        <seg>## 生命值伤害的效果</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Injury and Death</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T140818Z" creationid="quentine" creationdate="20190114T140818Z">
+        <seg>## 伤害与死亡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Intelligence</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T135347Z" creationid="QuenTine" creationdate="20181103T135347Z">
@@ -318,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Massive Damage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T141815Z" creationid="quentine" creationdate="20190114T141815Z">
+        <seg>## 巨创</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Military</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T141151Z" creationid="QuenTine" creationdate="20181104T141151Z">
@@ -338,6 +394,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T074905Z" creationid="QuenTine" creationdate="20181104T074905Z">
         <seg>## 国家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Nonlethal Damage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T144434Z" creationid="quentine" creationdate="20190114T144434Z">
+        <seg>## 非致命伤害</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T123634Z" creationid="quentine" creationdate="20190114T123634Z">
         <seg>## 体型调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Stable Characters and Recovery</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T150911Z" creationid="quentine" creationdate="20190114T150911Z">
+        <seg>## 角色的稳定与恢复</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Dead (–10 hit points or lower)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T111208Z" creationid="quentine" creationdate="20190115T111208Z">
+        <seg>### 死亡（-10及更低的生命）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### Die rolls are expressed in the format:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041618Z" creationid="QuenTine" creationdate="20181024T041618Z">
@@ -558,10 +638,82 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Disabled (0 Hit Points)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T150900Z" creationid="quentine" creationdate="20190114T150900Z">
+        <seg>### 瘫痪（0生命）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Dying (–1 to –9 Hit Points)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T110542Z" creationid="quentine" creationdate="20190115T110542Z">
+        <seg>### 濒死（-1到-9生命）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Effects of Hit Point Damage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T150803Z" creationid="quentine" creationdate="20190114T150803Z">
+        <seg>### 生命伤害的效果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Healing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113045Z" creationid="quentine" creationdate="20190115T113045Z">
+        <seg>### 治疗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Healing Ability Damage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113512Z" creationid="quentine" creationdate="20190115T113512Z">
+        <seg>### 治疗属性伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Increases in Constitution Score and Current Hit Points</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T114046Z" creationid="quentine" creationdate="20190115T114046Z">
+        <seg>### 体质值与当前生命值的增加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### MULTIPLYING</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T042747Z" creationid="QuenTine" creationdate="20181024T042747Z">
         <seg>### 乘法计算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Massive Damage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T150812Z" creationid="quentine" creationdate="20190114T150812Z">
+        <seg>### 巨创</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Natural Healing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113341Z" creationid="quentine" creationdate="20190115T113341Z">
+        <seg>### 自然治疗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Nonlethal Damage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T150821Z" creationid="quentine" creationdate="20190114T150821Z">
+        <seg>### 非致命伤害</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,6 +736,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Recovering with Help</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112605Z" creationid="quentine" creationdate="20190115T112605Z">
+        <seg>### 在他人帮助下恢复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Recovering without Help</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T111423Z" creationid="quentine" creationdate="20190115T111423Z">
+        <seg>### 在没有帮助的情况下恢复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Temporary Hit Points</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113734Z" creationid="quentine" creationdate="20190115T113734Z">
+        <seg>### 临时生命值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### These rules use the following die notations:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041303Z" creationid="QuenTine" creationdate="20181024T041303Z">
@@ -596,6 +772,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063748Z" creationid="quentine" creationdate="20190112T063556Z">
         <seg>（没有`专业`则检定`感知`）DC为角色当前的财富加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Often, when damage is inevitable, the character gets to make a Reflex save to take only half damage.) Apply the character’s Dexterity modifier to his or her Reflex saving throws.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T132316Z" creationid="quentine" creationdate="20190114T132316Z">
+        <seg>（当伤害不可避免时，角色可以通过成功的反射豁免只承受一半伤害。）计算反射豁免骰需要加上角色的敏捷调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -651,6 +835,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>* Alter a single d20 roll used to make an attack, a skill check, an ability check, a level check, or a saving throw.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T133622Z" creationid="quentine" creationdate="20190114T133622Z">
+        <seg>* 调整单次d20投骰用于攻击、技能、属性、等级或者豁免检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>* Bonus from the Windfall feat, if taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135807Z" creationid="QuenTine" creationdate="20181106T135807Z">
@@ -673,6 +865,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
 * 智力（INT）
 * 感知（WIS）
 * 魅力（CHA）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>* Use a class talent or class feature during your turn for which the expenditure of 1 action point is required.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T133825Z" creationid="quentine" creationdate="20190114T133825Z">
+        <seg>* 在你的回合使用需要消耗1点行动点的职业天赋或职业专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -745,6 +945,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Fortitude:** These saves measure the character’s ability to stand up to massive physical punishment or attacks against his or her vitality and health such as poison and paralysis.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T131548Z" creationid="quentine" creationdate="20190114T130648Z">
+        <seg>**强韧豁免：** 这一豁免代表角色在重大攻击下屹立不倒的能力和在受到类似毒素和麻痹攻击时保持活力的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Prerequisite:** Age 15+.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T114022Z" creationid="QuenTine" creationdate="20181104T114022Z">
@@ -789,6 +997,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T122531Z" creationid="QuenTine" creationdate="20181104T122531Z">
         <seg>**要求：** 13力量或13敏捷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Reflex:** These saves test the character’s ability to dodge massive attacks such as explosions or car wrecks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T141856Z" creationid="quentine" creationdate="20190114T131735Z">
+        <seg>**反射豁免：** 这一豁免代表角色闪避重大攻击——如爆炸或车祸——的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -861,6 +1077,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T132834Z" creationid="QuenTine" creationdate="20181104T132834Z">
         <seg>**财富加值加成：** +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Will:** These saves reflect the character’s resistance to mental influence and domination as well as to many magical effects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T132525Z" creationid="quentine" creationdate="20190114T132525Z">
+        <seg>**意志豁免：** 这一豁免反映了角色对精神上的影响和控制和许多魔法效果的抵抗能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1065,6 +1289,54 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character always has a limited amount of action points, and while the character replenishes this supply with every new level he or she attains, the character must use them wisely.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T133232Z" creationid="quentine" creationdate="20190114T133232Z">
+        <seg>角色只拥有有限数量的行动点，这种行动点只能在升级时回满，因此必须慎重使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can also become disabled when recovering from dying.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T150233Z" creationid="quentine" creationdate="20190114T150233Z">
+        <seg>角色从濒死状态恢复时也会陷入瘫痪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can also die if his or her Constitution is reduced to 0.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T111310Z" creationid="quentine" creationdate="20190115T111310Z">
+        <seg>角色的体质减至0也会死亡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can declare the use of 1 action point to alter a d20 roll after the roll is made—but only before the GM reveals the result of that roll (whether the attack or check or saving throw suc-ceeded or failed).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T134456Z" creationid="quentine" creationdate="20190114T134456Z">
+        <seg>可以在d20投掷后宣布使用，但必须在GM公布投掷结果（成功了还是失败了）前。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can only spend 1 action point in a round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T135516Z" creationid="quentine" creationdate="20190114T135516Z">
+        <seg>角色在一轮内只能用掉1点行动点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can spend 1 action point to do one of these things:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T133401Z" creationid="quentine" creationdate="20190114T133401Z">
+        <seg>角色可以用一点行动点选一个做：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character can try again if he or she fails a Wealth check, but not until the character has spent an additional number of hours shopping equal to the purchase DC of the object or service.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T141427Z" creationid="QuenTine" creationdate="20181106T141248Z">
@@ -1089,6 +1361,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character can’t use an action point on a skill check or ability check when he or she is taking 10 or taking 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T134945Z" creationid="quentine" creationdate="20190114T134828Z">
+        <seg>角色不能在技能检定或属性检定中取10取20时，使用行动点改变投掷结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character may have no allegiances (being either a free spirit or a lone wolf) or may change allegiances as he or she goes through life.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135206Z" creationid="QuenTine" creationdate="20181103T142450Z">
@@ -1105,10 +1385,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character recovers 1 hit point per character level per evening of rest (8 hours of sleep).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113417Z" creationid="quentine" creationdate="20190115T113417Z">
+        <seg>角色每经过一次晚休（睡8小时）都恢复与角色等级数相等的生命值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character still must meet any prerequisites for these bonus feats.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T094725Z" creationid="QuenTine" creationdate="20181104T094725Z">
         <seg>这些额外奖励专长仍然需要满足先决条件才能获得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character undergoing complete bed rest (doing nothing for an entire day) recovers 2 hit points per character level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113450Z" creationid="quentine" creationdate="20190115T113450Z">
+        <seg>角色在床上经过充足的睡眠（一整天什么也不干）恢复角色等级数两倍的生命值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1185,6 +1481,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character’s massive damage threshold is equal to the character’s current Constitution score; it can be increased by taking the Improved Damage Threshold feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T143153Z" creationid="quentine" creationdate="20190114T142248Z">
+        <seg>角色的巨创阈值等于角色当前的体质值；巨创阈值还会受“巨创阈值提升”专长提供加成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character’s saving throw bonus is:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T130544Z" creationid="quentine" creationdate="20190114T130405Z">
+        <seg>角色的豁免骰加值为：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A college-age student should also pick a major field of study.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T142645Z" creationid="QuenTine" creationdate="20181104T142645Z">
@@ -1233,6 +1545,46 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A dying character (one with –1 to –9 hit points) is un-conscious and loses 1 hit point every round until he or she becomes stable or dies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T111412Z" creationid="quentine" creationdate="20190115T111412Z">
+        <seg>濒死的角色（-1至-9生命值）是昏迷的，每回合损失1点生命值直到角色进入稳定状态或死亡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A dying character can be made stable by the use of the Treat Injury skill (DC 15).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112655Z" creationid="quentine" creationdate="20190115T112655Z">
+        <seg>通过使用“医疗”技能（DC15），濒死的角色可以变得稳定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A dying character has a current hit point total between –1 and –9 inclusive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T110727Z" creationid="quentine" creationdate="20190115T110727Z">
+        <seg>濒死的角色的生命值为-1到-9。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A dying character immediately falls unconscious and can take no actions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T110803Z" creationid="quentine" creationdate="20190115T110803Z">
+        <seg>濒死的角色会立即昏迷，无法采取任何行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A dying character loses 1 hit point every round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T111150Z" creationid="quentine" creationdate="20190115T110845Z">
+        <seg>濒死的角色每轮都会失去1点生命值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A hero may hold other jobs as his or her career unfolds, but the benefits of a starting occupation are only applied once, at the time of character creation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181104T084211Z">
@@ -1273,6 +1625,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A natural 1 (the d20 comes up 1) on a saving throw is always a failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T130308Z" creationid="quentine" creationdate="20190114T130308Z">
+        <seg>投1（d20结果为1）在豁免骰中直接判定失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A natural 20 (the d20 comes up 20) is always a success.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T130347Z" creationid="quentine" creationdate="20190114T130339Z">
+        <seg>投20（d20结果为20）直接判定成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A newly created 1st-level character’s Wealth bonus is +0 plus:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135733Z" creationid="QuenTine" creationdate="20181106T135733Z">
@@ -1285,6 +1653,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T132957Z" creationid="QuenTine" creationdate="20181103T132957Z">
         <seg>正数调整值称为加值，负数调整值则称为减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A ranged weapon that deals lethal damage can’t be made to deal nonlethal damage (unless it is used as an improvised melee weapon).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145102Z" creationid="quentine" creationdate="20190114T145102Z">
+        <seg>产生致命伤害的远程武器无法采用非致命攻击方式（除非该武器临时用于肉搏）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1305,10 +1681,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A stable character stops losing hit points every round, but remains unconscious.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T111827Z" creationid="quentine" creationdate="20190115T111827Z">
+        <seg>稳定的角色停止每轮的生命损失，但仍处于昏迷状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A student can be in high school, college, or graduate school.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T142452Z" creationid="QuenTine" creationdate="20181104T142452Z">
         <seg>中学生、大学生、研究生等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ability damage returns at the rate of 1 point per evening of rest (8 hours of sleep).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113707Z" creationid="quentine" creationdate="20190115T113707Z">
+        <seg>属性伤害每次晚休（8小时睡眠）恢复1点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1333,6 +1725,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T095200Z" creationid="QuenTine" creationdate="20181104T095200Z">
         <seg>学者包括图书管理员、考古学家、专家、教授、教师以及其他与教育相关的职业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Action points provide characters with the means to affect game play in significant ways.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T132945Z" creationid="quentine" creationdate="20190114T132945Z">
+        <seg>行动点让角色可以在关键的环节影响游戏的走向。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1373,6 +1773,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064038Z" creationid="quentine" creationdate="20190112T064038Z">
         <seg>角色冒险时会找到有价值的物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After taking damage, a character can recover hit points through natural healing (over the course of days) or through medical technology (somewhat faster).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113240Z" creationid="quentine" creationdate="20190115T113240Z">
+        <seg>受到伤害后角色可以自然地恢复生命值（经过几天之后）或者通过医药技术恢复（这样更快）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1473,6 +1881,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An increase in a character’s Constitution score—even a temporary one—can give the character more hit points (an effective hit point increase), but these are not temporary hit points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T114126Z" creationid="quentine" creationdate="20190115T114126Z">
+        <seg>角色的体质值的增加——临时增加的也算——能赋予角色更多的生命值（一次有效的生命增长），但这些不是临时生命值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An individual with a chaotic outlook tends to follow his or her instincts and whims, favor new ideas and experiences, and behave in a subjective and open manner in dealings with others.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T081334Z" creationid="QuenTine" creationdate="20181104T081334Z">
@@ -1493,6 +1909,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T081324Z" creationid="QuenTine" creationdate="20181104T081324Z">
         <seg>守序的人通常诚实守信，尊重权威和传统，并且他们会希望周围的人也做同样的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An unaided stable, conscious character who has negative hit points (and is disabled) doesn’t heal naturally.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112533Z" creationid="quentine" creationdate="20190115T112331Z">
+        <seg>未受救治的稳定状态，负生命值的有意识的角色（也是瘫痪的）不会自然恢复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1569,6 +1993,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any time a character takes damage from a single hit that exceeds the character’s massive damage threshold, that damage is considered massive damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T142037Z" creationid="quentine" creationdate="20190114T142037Z">
+        <seg>只要角色受到的单次攻击伤害超过了角色的巨创阈值，此伤害视为巨创。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anything with no Wisdom score is an object, not a creature.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140329Z" creationid="QuenTine" creationdate="20181103T140329Z">
@@ -1581,6 +2013,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140352Z" creationid="QuenTine" creationdate="20181103T140352Z">
         <seg>任何不具备感知的存在都不具备魅力属性，反之亦然。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply the character’s Constitution modifier to his or her Fortitude saving throws.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T131656Z" creationid="quentine" creationdate="20190114T131656Z">
+        <seg>计算强韧豁免骰需要加上角色的体质调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply the character’s Wisdom modifier to his or her Will saving throws.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T132616Z" creationid="quentine" creationdate="20190114T132616Z">
+        <seg>计算意志豁免骰需要加上角色的感知调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1625,10 +2073,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 0 hit points, a character is disabled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T141715Z" creationid="quentine" creationdate="20190114T141715Z">
+        <seg>生命值为0时，角色瘫痪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At from –1 to –9 hit points, a character is dying.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T141733Z" creationid="quentine" creationdate="20190114T141733Z">
+        <seg>生命值为-1至-9时，角色濒死。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the moment it becomes relevant, the GM makes a Reputation check for a GM character who might be influenced in some fashion due to the hero’s fame or notoriety, as detailed below.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T123102Z">
         <seg>若有影响，GM便需要就NPC进行一次声望检定，以决定英雄的威名或是臭名对其造成何种影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At –10 or lower, a character is dead.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T141747Z" creationid="quentine" creationdate="20190114T141747Z">
+        <seg>生命值为-10至更低时，角色死亡。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1661,6 +2133,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T122801Z" creationid="QuenTine" creationdate="20181104T122801Z">
         <seg>平衡、攀爬、驾驶、跳跃、骑术、游泳、翻滚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Base save bonus + ability modifier</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T130443Z" creationid="quentine" creationdate="20190114T130424Z">
+        <seg>基础豁免加值 + 属性调整值</seg>
       </tuv>
     </tu>
     <tu>
@@ -1729,6 +2209,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Certain effects can give a character temporary hit points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113809Z" creationid="quentine" creationdate="20190115T113809Z">
+        <seg>有的效果能够赋予角色临时生命值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Choose one occupation from the available selections and apply the benefits to the character as noted in the occupation’s description.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T095050Z" creationid="QuenTine" creationdate="20181104T095050Z">
@@ -1741,6 +2229,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T141524Z" creationid="QuenTine" creationdate="20181104T141524Z">
         <seg>攀爬、爆破、驾驶、躲藏、知识（策略）、潜行、寻路、驾机、生存、游泳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complete bed rest (24 hours) restores 2 points per day.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113723Z" creationid="quentine" creationdate="20190115T113723Z">
+        <seg>全天休养（24小时）每天恢复2点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1809,6 +2305,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Creatures immune to critical hits are also immune to the effects of massive damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T144403Z" creationid="quentine" creationdate="20190114T144403Z">
+        <seg>免疫重击的生物也会免疫巨创。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decipher Script, Knowledge (arcane lore, art, behavioral sciences, history, streetwise, or theology and philosophy), Listen, Sense Motive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T142032Z" creationid="QuenTine" creationdate="20181104T142032Z">
@@ -1834,6 +2338,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
 （c）“分发”即再创作、许可、租借、出租、售卖、广播、宣传展示、传输或其他分发形式；
 （d）“开放游戏内容（OGC）”指的是符合条件的游戏机制：不体现“产品识别”的方法、步骤、过程和惯例；先有技术和任何其他能被贡献者标明为OGC的内容的扩展；任何该许可证涵盖的工作，包括遵守版权法的翻译和衍生工作，但明确不包括“产品识别”。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Depending on the hero’s character level (see the table below), he or she may be able to roll more than one d6 when spending 1 action point.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T135843Z" creationid="quentine" creationdate="20190114T135843Z">
+        <seg>根据英雄的等级（见下表），在使用行动点增强骰点时可使用多个d6进行投掷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1894,10 +2406,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each round, a dying character makes a Fortitude saving throw (DC 20).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T111522Z" creationid="quentine" creationdate="20190115T111522Z">
+        <seg>每一轮，濒死的角色都会进行一次强韧豁免检定（DC20）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Entrepreneurs have an obsession about being their own boss.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T134418Z" creationid="QuenTine" creationdate="20181104T134418Z">
         <seg>企业家拥有资产，自己当自己的老板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even while unconscious, the character recovers hit points naturally, and he or she can return to normal activity when his or her hit points rise to 1 or higher.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113036Z" creationid="quentine" creationdate="20190115T113036Z">
+        <seg>即使在昏迷的状态下，角色还是会自然恢复生命，而且当角色的生命升至1或更高就可以正常行动了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2006,6 +2534,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generally, when a hero is subject to an unusual or magical attack, he or she gets a saving throw to avoid or reduce the effect.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T130033Z" creationid="quentine" creationdate="20190114T130033Z">
+        <seg>通常，当英雄遭遇特殊攻击或魔法攻击时，则需要掷一个豁免骰以避免或者减少这种攻击的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Getting a license or buying an object with a restriction rating increases the time needed to make purchases.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T061122Z" creationid="QuenTine" creationdate="20181106T140141Z">
@@ -2038,6 +2574,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Healing that raises the character above 0 hit points makes him or her fully functional again, just as if the character had never been reduced to 0 or lower.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T150159Z" creationid="quentine" creationdate="20190114T150159Z">
+        <seg>治疗让角色恢复生命至0点以上，角色会完全恢复行动能力，只要角色别再减至0或者更低的生命值就行了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hit points mean two things in the game world: the ability to take physical punishment and keep going, and the ability to turn a serious blow into a less serious one.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T141606Z" creationid="quentine" creationdate="20190114T141548Z">
+        <seg>在游戏世界里，生命值有两个含义：承受肉体伤害后仍能维持行动的能力，和将重击化小的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hit points measure how hard a character is to kill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T141330Z" creationid="quentine" creationdate="20190114T141330Z">
+        <seg>生命值衡量了角色难以被杀死的程度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How much the Wealth bonus is reduced depends on how expensive the object is.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T062255Z" creationid="quentine" creationdate="20190112T062255Z">
@@ -2058,6 +2618,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T071729Z" creationid="quentine" creationdate="20190112T071729Z">
         <seg>如果角色出售了售价小于等于角色当前财富加值的物品，且售价小于等于14，角色不会增加任何财富值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a character spends a point to use a class feature, he or she can’t spend another one in the same round to improve a die roll, and vice versa.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T135705Z" creationid="quentine" creationdate="20190114T135705Z">
+        <seg>用了行动点发动角色专长就不能再用行动点增强投骰了，反之亦然。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2102,10 +2670,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If no one tends to the stable character (see below), he or she remains unconscious for 1 hour, at which point he or she makes a Fortitude save (DC 20).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T111954Z" creationid="quentine" creationdate="20190115T111954Z">
+        <seg>如果没人照料稳定的角色（见下文），角色会在一小时内继续昏迷，届时角色进行一次强韧豁免检定（DC20）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If successful, the character becomes disabled (see above).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112812Z" creationid="quentine" creationdate="20190115T112812Z">
+        <seg>如果成功，角色变为瘫痪（见上文）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the GM character succeeds at the Reputation check, he or she recognizes the hero.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T125744Z">
         <seg>如果GM角色成功通过声望检定，那么角色便能够认出该英雄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the amount is less than the target’s massive damage threshold, the target is unaffected by the attack.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145403Z" creationid="quentine" creationdate="20190114T145403Z">
+        <seg>如果伤害值比巨创阈值小，目标不会被攻击影响到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2142,10 +2734,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character does so, apply the highest result and disregard the other rolls.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T135950Z" creationid="quentine" creationdate="20190114T135950Z">
+        <seg>结果取数次投骰结果的最高值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character fails the save, the character’s hit point total is immediately reduced to –1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T144238Z" creationid="quentine" creationdate="20190114T144238Z">
+        <seg>如果角色豁免失败，角色的生命值会立即减至-1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character fails, he or she can’t afford the object at the time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134439Z" creationid="QuenTine" creationdate="20181106T134439Z">
         <seg>失败，则此次购买失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character remains unconscious, he or she makes the same Fortitude save every hour until he or she becomes conscious.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113011Z" creationid="quentine" creationdate="20190115T113011Z">
+        <seg>如果角色仍旧昏迷，角色每小时都会进行强韧豁免直到恢复意识。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2206,10 +2822,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character’s hit points are already below that score at that time, all the temporary hit points have already been lost, and the character’s hit point total does not drop.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113930Z" creationid="quentine" creationdate="20190115T113930Z">
+        <seg>当角色生命值已低于那个值，所有的临时生命值都被耗完，角色的生命值就不会再降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the creature can attack, it applies its Dexterity modifier to its base attack instead of a Strength modifier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T133452Z" creationid="QuenTine" creationdate="20181103T133452Z">
         <seg>若该生物可以攻击，则使用敏捷调整值代替力量调整值计算基础攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the damage equals or exceeds the target’s massive damage threshold, the target must make a Fortitude save (DC 15).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145420Z" creationid="quentine" creationdate="20190114T145420Z">
+        <seg>如果伤害大于等于目标的巨创阈值，目标必须进行强韧豁免判定（DC15）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2222,6 +2854,46 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the save fails, the character loses 1 hit point and must make another save on his or her turn the next round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T111720Z" creationid="quentine" creationdate="20190115T111720Z">
+        <seg>如果豁免失败，角色失去1点生命，并且下一轮在角色的回合必须再进行一次这样的豁免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the save fails, the character remains unconscious.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112229Z" creationid="quentine" creationdate="20190115T112229Z">
+        <seg>如果豁免失败，角色仍保持昏迷状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the save succeeds, the character becomes stable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T111749Z" creationid="quentine" creationdate="20190115T111736Z">
+        <seg>如果豁免成功，角色进入稳定状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the save succeeds, the character suffers no ill effect beyond the loss of hit points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T144305Z" creationid="quentine" creationdate="20190114T144305Z">
+        <seg>如果豁免成功，角色只会扣除相应的生命值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the save succeeds, the stable character regains consciousness, becoming disabled (see above).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112058Z" creationid="quentine" creationdate="20190115T112058Z">
+        <seg>如果豁免成功，稳定的角色会恢复意识，变为瘫痪（见上文）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the skill selected is already a class skill for the character, he or she also gains a one-time competence bonus for that skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T100344Z" creationid="QuenTine" creationdate="20181104T091246Z">
@@ -2230,10 +2902,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the target fails, he or she is knocked unconscious for 1d4+1 rounds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145525Z" creationid="quentine" creationdate="20190114T145525Z">
+        <seg>如果检定失败，目标会昏迷1d4+1回合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the target succeeds on the save, the target is dazed for 1 round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145453Z" creationid="quentine" creationdate="20190114T145453Z">
+        <seg>如果目标豁免成功，目标晕眩一回合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Illustrators, copywriters, cartoonists, graphic artists, novelists, magazine columnists, actors, sculptors, game designers, musicians, screenwriters, photographers, and web designers all fall under this occupation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125521Z" creationid="QuenTine" creationdate="20181104T125521Z">
         <seg>插画师、文案写手、卡通画师、图形艺术家、小说家、杂志专栏作家、演员、雕塑师、游戏设计师、音乐家、剧作家、摄影师以及网页设计师都属于这一类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In any case, a character can’t regain hit points past his or her full normal total.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113327Z" creationid="quentine" creationdate="20190115T113327Z">
+        <seg>在任何情况下，角色不能恢复到超过生命上限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2254,6 +2950,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In some campaign settings, magical healing is also available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113312Z" creationid="quentine" creationdate="20190115T113312Z">
+        <seg>在一些战役设定中，魔法治疗也是可以的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In such cases, the benefit translates into a Wealth award.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064113Z" creationid="quentine" creationdate="20190112T064113Z">
@@ -2270,6 +2974,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this case, it’s a step up along the road to recovery, and the character can have fewer than 0 hit points (see Stable Characters and Recovery).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T150517Z" creationid="quentine" creationdate="20190114T150517Z">
+        <seg>在这种情况下，角色依旧处于恢复状态，还是会减至0甚至更低的生命的（见角色的稳定与恢复）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, the action point is not a bonus to a d20 roll.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T135422Z" creationid="quentine" creationdate="20190114T135422Z">
+        <seg>花掉的这个行动点不是用来增强d20的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113248Z" creationid="QuenTine" creationdate="20181022T113248Z">
@@ -2282,6 +3002,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T124547Z">
         <seg>骂名会让英雄被认出时进行魅力相关技能检定会获得减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, compare the amount of nonlethal damage from an attack to the target’s massive damage threshold.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145253Z" creationid="quentine" creationdate="20190114T145253Z">
+        <seg>应将该非致命伤害值与目标的巨创阈值比较。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, each day the character makes a Fortitude save (DC 20) to start recovering hit points naturally that day; if the save fails, he or she loses 1 hit point.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112445Z" creationid="quentine" creationdate="20190115T112445Z">
+        <seg>每天角色进行一次强韧豁免（DC20），成功则在当天开始恢复生命值；如果豁免失败，角色失去一点生命。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2358,6 +3094,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Like an attack roll, a saving throw is a 1d20 roll plus a bonus based on the hero’s class and level (the hero’s base save bonus) and an ability modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T130432Z" creationid="quentine" creationdate="20190114T130203Z">
+        <seg>与攻击骰相同，豁免骰是1d20加上基于英雄职业与等级的加值（英雄的基础豁免加值）再加上属性调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MULTIPLYING
 Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
@@ -2380,6 +3124,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T084844Z" creationid="QuenTine" creationdate="20181104T084844Z">
         <seg>很多起始职业背景都对角色的基本属性有要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Melee weapons that deal lethal damage can be wielded so as to deal nonlethal damage, but the attacker takes a –4 penalty on attack rolls for trying to deal nonlethal damage instead of lethal damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145011Z" creationid="quentine" creationdate="20190114T145011Z">
+        <seg>产生致命伤害的近战武器也可以采用非致命的攻击方式，但这么做的话，攻击者的攻击骰点要减去4。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2448,6 +3200,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nonlethal damage does not affect the target’s hit points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145121Z" creationid="quentine" creationdate="20190114T145121Z">
+        <seg>非致命伤害不会影响目标的生命值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nonlethal damage is dealt by unarmed attackers and some weapons.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T144505Z" creationid="quentine" creationdate="20190114T144505Z">
+        <seg>非致命伤害是由无武器的攻击方以及一些武器造成的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Note that if the GM character has no possible way of recognizing a hero, then the Reputation check automatically fails.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T125650Z">
@@ -2480,6 +3248,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once an unaided character starts recovering hit points naturally, the character is no longer in danger of losing additional hit points (even if his or her current hit point total is still negative).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112521Z" creationid="quentine" creationdate="20190115T112521Z">
+        <seg>一旦未受救治的角色开始自然恢复生命值，角色不再处于损失生命的危险之中（即使角色的生命是负的）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once selected, a permanent class skill is always considered to be a class skill for the character.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T100502Z" creationid="QuenTine" creationdate="20181104T085201Z">
@@ -2492,6 +3268,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041522Z" creationid="QuenTine" creationdate="20181024T041522Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One hour after a tended, dying character becomes stable, he or she makes a Fortitude save (DC 20) to regain consciousness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112800Z" creationid="quentine" creationdate="20190115T112800Z">
+        <seg>照料一小时后，濒死的角色变得稳定，角色进行一次强韧豁免（DC20）以重新获得意识。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2736,6 +3520,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Difficulty Class for a save is determined by the attack itself.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T130528Z" creationid="quentine" creationdate="20190114T130528Z">
+        <seg>豁免的DC由攻击本身决定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The GM decides when a hero’s reputation can be relevant to a scene or encounter.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135620Z" creationid="QuenTine" creationdate="20181106T122816Z">
@@ -2816,10 +3608,42 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character can only take a single move or attack action each turn (but not both, nor can the character take full-round actions).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145829Z" creationid="quentine" creationdate="20190114T145829Z">
+        <seg>每回合角色只能做单个移动或攻击动作（但不能都做，也不能用整轮动作）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character can take nonstrenuous move actions without further injuring his or herself, but if the character attacks or perform any other action the GM deems as strenuous, the character takes 1 point of damage after completing the act.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145955Z" creationid="quentine" creationdate="20190114T145955Z">
+        <seg>角色可以进行不费力的移动动作以免再受伤，但如果角色攻击或表现出任何其他的让GM认为是费力的动作，角色会在动作完成时受到一点伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character is not unconscious, but he or she is close to it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145643Z" creationid="quentine" creationdate="20190114T145643Z">
+        <seg>角色不会昏迷但也差不多了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character who provides the aid reduces his or her Wealth bonus by +1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T141606Z" creationid="QuenTine" creationdate="20181106T141606Z">
         <seg>救急者的财富加值会减少一点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character’s current hit point total remains where it is, however, even though it’s negative.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112206Z" creationid="quentine" creationdate="20190115T112206Z">
+        <seg>角色当前的生命值会维持原状，即使生命值为负数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2944,6 +3768,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The three different kinds of saving throws are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T130615Z" creationid="quentine" creationdate="20190114T130615Z">
+        <seg>三种豁免骰类型为：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The typical dilettante has no job, few re-sponsibilities, and at least one driving passion that -occupies his or her day.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T132717Z" creationid="QuenTine" creationdate="20181104T131726Z">
@@ -3008,6 +3840,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They can be restored through normal healing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T114151Z" creationid="quentine" creationdate="20190115T114151Z">
+        <seg>这些生命值可以通过一般的治疗恢复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They rarely want to stick around after the launch, however, as they prefer to put their energies into the next big thing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T135256Z" creationid="QuenTine" creationdate="20181104T135256Z">
@@ -3036,6 +3876,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T123054Z" creationid="quentine" creationdate="20190114T123044Z">
         <seg>这一加值代表护甲为角色抵挡击打的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This continues until the character dies or becomes stable naturally or with help (see below).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T110858Z" creationid="quentine" creationdate="20190115T110858Z">
+        <seg>直到角色死亡或自然地进入稳定状态，或受到救助（见下文）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3192,6 +4040,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unless the activity increased the character’s hit points, the character is now at –1 hit points, and is dying.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T150052Z" creationid="quentine" creationdate="20190114T150052Z">
+        <seg>除非该动作增加了角色的生命值，角色的生命值将变为-1，是濒死状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlike most sorts of bonuses, dodge bonuses stack with each other.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T124345Z" creationid="quentine" creationdate="20190114T124345Z">
@@ -3232,6 +4088,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a character gains temporary hit points, make a note of his or her current hit points before adding the temporary hit points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113843Z" creationid="quentine" creationdate="20190115T113843Z">
+        <seg>当角色获得临时生命值，记下角色获得前的生命值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a character has a negative opinion of a hero’s reputation, the hero is considered to be infamous by that character.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T124149Z">
@@ -3248,10 +4112,82 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a character spends 1 action point to improve a d20 roll, add 1d6 to the d20 roll to help meet or exceed the target number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T134121Z" creationid="quentine" creationdate="20190114T134054Z">
+        <seg>当角色要花一点行动点增加d20投掷结果时，在这个d20投骰上加1d6，以帮助通过检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a character spends 1 action point to use a class feature, he or she gains the benefit of the feature but doesn’t roll a d6.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T135312Z" creationid="quentine" creationdate="20190114T135312Z">
+        <seg>当角色花费行动点使用角色专长时，只能获得专长效果而不加1d6。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a character takes massive damage that doesn’t reduce his or her hit points to 0 or lower, the character must make a Fortitude save (DC 15).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T144147Z" creationid="quentine" creationdate="20190114T144147Z">
+        <seg>当角色受到巨创但生命值未降至0以及更低时，角色必须进行一次强韧豁免（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a character’s Constitution drops back down to its previous score after a temporary increase, the character’s full normal hit points go down accordingly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T114255Z" creationid="quentine" creationdate="20190115T114255Z">
+        <seg>当角色的体质值经过暂时的增长后，掉回原值，角色的生命值上限相应掉回。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a character’s current hit points drop below 0, the character is dying.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T110610Z" creationid="quentine" creationdate="20190115T110610Z">
+        <seg>当角色当前生命值降至低于0时，角色处于濒死状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a character’s current hit points drop to exactly 0, the character is disabled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145622Z" creationid="quentine" creationdate="20190114T145622Z">
+        <seg>当角色的当前生命值减至0，角色瘫痪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a character’s current hit points drop to –10 or lower, he or she is dead.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T111234Z" creationid="quentine" creationdate="20190115T111234Z">
+        <seg>当角色当前的生命值减至-10或更低，角色死亡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When an ability score changes, the modifier associated with that score also changes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140821Z" creationid="QuenTine" creationdate="20181103T140821Z">
         <seg>当属性值发生变化时，该属性相关的调整值随即发生变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When temporary hit points are lost, they can’t be restored as real hit points can be, even with medical treatment or magic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113958Z" creationid="quentine" creationdate="20190115T113958Z">
+        <seg>当损失了临时生命值，它们不能像真实的生命值那样回复，即使使用医疗或者魔法都不可以。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the temporary hit points go away, the character’s hit points drop to that score.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113902Z" creationid="quentine" creationdate="20190115T113902Z">
+        <seg>当临时生命值消失，角色的生命值将减至那个值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3340,6 +4276,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T045310Z" creationid="QuenTine" creationdate="20181024T045310Z">
         <seg>d20 + 调整值（Modifiers） vs. 目标数值（Target Number）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Character Level|Action Point Dice Rolled|
+|:---------------------:|:---------------------------:|
+|1st–7th|1d6|
+|8th–14th|2d6|
+|15th–20th|3d6|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T140028Z" creationid="quentine" creationdate="20190114T140028Z">
+        <seg>|角色等级|投骰数|
+|:---------------------:|:---------------------------:|
+|1st–7th|1d6|
+|8th–14th|2d6|
+|15th–20th|3d6|</seg>
       </tuv>
     </tu>
     <tu>

@@ -1,18 +1,21 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
-ACTION POINTS
 
-Action points provide characters with the means to affect game play in significant ways. A character always has a limited amount of action points, and while the character replenishes this supply with every new level he or she attains, the character must use them wisely. A character can spend 1 action point to do one of these things:
-* Alter a single d20 roll used to make an attack, a skill check, an ability check, a level check, or a saving throw.
-* Use a class talent or class feature during your turn for which the expenditure of 1 action point is required.
+# 行动点
 
-When a character spends 1 action point to improve a d20 roll, add 1d6 to the d20 roll to help meet or exceed the target number. A character can declare the use of 1 action point to alter a d20 roll after the roll is made—but only before the GM reveals the result of that roll (whether the attack or check or saving throw suc-ceeded or failed). A character can’t use an action point on a skill check or ability check when he or she is taking 10 or taking 20.
+行动点让角色可以在关键的环节影响游戏的走向。角色只拥有有限数量的行动点，这种行动点只能在升级时回满，因此必须慎重使用。角色可以用一点行动点选一个做：
 
-When a character spends 1 action point to use a class feature, he or she gains the benefit of the feature but doesn’t roll a d6. In this case, the action point is not a bonus to a d20 roll.
+* 调整单次d20投骰用于攻击、技能、属性、等级或者豁免检定。
+* 在你的回合使用需要消耗1点行动点的职业天赋或职业专长。
 
-A character can only spend 1 action point in a round. If a character spends a point to use a class feature, he or she can’t spend another one in the same round to improve a die roll, and vice versa.
-Depending on the hero’s character level (see the table below), he or she may be able to roll more than one d6 when spending 1 action point. If the character does so, apply the highest result and disregard the other rolls.
+当角色要花一点行动点增加d20投掷结果时，在这个d20投骰上加1d6，以帮助通过检定。可以在d20投掷后宣布使用，但必须在GM公布投掷结果（成功了还是失败了）前。角色不能在技能检定或属性检定中取10取20时，使用行动点改变投掷结果。
 
-|Character Level|Action Point Dice Rolled|
+当角色花费行动点使用角色专长时，只能获得专长效果而不加1d6。花掉的这个行动点不是用来增强d20的。
+
+角色在一轮内只能用掉1点行动点。用了行动点发动角色专长就不能再用行动点增强投骰了，反之亦然。
+
+根据英雄的等级（见下表），在使用行动点增强骰点时可使用多个d6进行投掷。结果取数次投骰结果的最高值。
+
+|角色等级|投骰数|
 |:---------------------:|:---------------------------:|
 |1st–7th|1d6|
 |8th–14th|2d6|
