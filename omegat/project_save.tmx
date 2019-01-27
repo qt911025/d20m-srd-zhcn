@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># BASIC CHARACTER CLASSES</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114311Z" creationid="quentine" creationdate="20190116T114311Z">
+        <seg># 基本角色职业</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># CONDITION SUMMARY</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T115433Z" creationid="quentine" creationdate="20190115T115433Z">
@@ -202,6 +210,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T121952Z" creationid="QuenTine" creationdate="20181104T121952Z">
         <seg>## 运动员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Basic Class Descriptions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114318Z" creationid="quentine" creationdate="20190116T114318Z">
+        <seg>## 基本职业描述</seg>
       </tuv>
     </tu>
     <tu>
@@ -822,6 +838,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## THE FAST HERO</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T133842Z" creationid="quentine" creationdate="20190116T133842Z">
+        <seg>## 敏捷型英雄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## THE STRONG HERO</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T121132Z" creationid="quentine" creationdate="20190116T121132Z">
+        <seg>## 力量型英雄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## THE TOUGH HERO</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T141641Z" creationid="quentine" creationdate="20190117T141641Z">
+        <seg>## 体质型英雄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Taking 10 and Taking 20</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T140218Z" creationid="QuenTine" creationdate="20181106T140218Z">
@@ -926,10 +966,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Ability</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114328Z" creationid="quentine" creationdate="20190116T114328Z">
+        <seg>### 属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Action Points</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114609Z" creationid="quentine" creationdate="20190116T114609Z">
+        <seg>### 行动点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### BASIC TASK RESOLUTION SYSTEM</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T045803Z" creationid="QuenTine" creationdate="20181024T044605Z">
         <seg>### 基本事件处理机制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Class Features</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120123Z" creationid="quentine" creationdate="20190116T120123Z">
+        <seg>### 职业专长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Class Skills</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114656Z" creationid="quentine" creationdate="20190116T114631Z">
+        <seg>### 本职技能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Class Table</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115411Z" creationid="quentine" creationdate="20190116T115411Z">
+        <seg>### 职业列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -986,6 +1066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113512Z" creationid="quentine" creationdate="20190115T113512Z">
         <seg>### 治疗属性伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Hit Die</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114347Z" creationid="quentine" creationdate="20190116T114347Z">
+        <seg>### 生命骰</seg>
       </tuv>
     </tu>
     <tu>
@@ -1080,6 +1168,38 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Starting Feats</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115355Z" creationid="quentine" creationdate="20190116T115355Z">
+        <seg>### 起始专长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Table: The Fast Hero</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121331Z" creationid="quentine" creationdate="20190117T121331Z">
+        <seg>### 职业列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Table: The Strong Hero</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T122625Z" creationid="quentine" creationdate="20190116T122625Z">
+        <seg>### 职业列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Table: The Tough Hero</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T142421Z" creationid="quentine" creationdate="20190117T142421Z">
+        <seg>### 职业列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### Temporary Hit Points</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113734Z" creationid="quentine" creationdate="20190115T113734Z">
@@ -1092,6 +1212,86 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041303Z" creationid="QuenTine" creationdate="20181024T041303Z">
         <seg>### 本规则书中将使用以下骰子记法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Bonus Feats</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120501Z" creationid="quentine" creationdate="20190116T120501Z">
+        <seg>#### 奖励专长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Talents</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120207Z" creationid="quentine" creationdate="20190116T120207Z">
+        <seg>#### 天赋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>##### Damage Reduction Talent Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T142855Z" creationid="quentine" creationdate="20190117T142855Z">
+        <seg>##### 伤害减免天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>##### Defensive Talent Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121922Z" creationid="quentine" creationdate="20190117T121922Z">
+        <seg>##### 防御天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>##### Energy Resistance Talent Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144059Z" creationid="quentine" creationdate="20190117T144059Z">
+        <seg>##### 能量抗力天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>##### Extreme Effort Talent Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T124700Z" creationid="quentine" creationdate="20190116T124700Z">
+        <seg>##### 竭尽全力天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>##### Ignore Hardness Talent Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T125700Z" creationid="quentine" creationdate="20190116T125700Z">
+        <seg>##### 无视硬度天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>##### Increased Speed Talent Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T131255Z" creationid="quentine" creationdate="20190117T131255Z">
+        <seg>##### 加速天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>##### Melee Smash Talent Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130409Z" creationid="quentine" creationdate="20190116T130409Z">
+        <seg>##### 近战强击天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>##### Unbreakable Talent Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144637Z" creationid="quentine" creationdate="20190117T144637Z">
+        <seg>##### 不破金身天赋树</seg>
       </tuv>
     </tu>
     <tu>
@@ -1124,6 +1324,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132436Z" creationid="quentine" creationdate="20190115T132436Z">
         <seg>（也即是说豁免一旦成功，就不再着火。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The hero still loses his or her Dexterity bonus to Defense if the hero is immobilized.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T123048Z" creationid="quentine" creationdate="20190117T123048Z">
+        <seg>（英雄无法活动时无法发动此天赋）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1241,6 +1449,102 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Ability:** Constitution</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T141649Z" creationid="quentine" creationdate="20190117T141649Z">
+        <seg>**关键属性：** 体质</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Ability:** Dexterity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T133858Z" creationid="quentine" creationdate="20190116T133858Z">
+        <seg>**关键属性：** 敏捷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Ability:** Strength</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T121145Z" creationid="quentine" creationdate="20190116T121145Z">
+        <seg>**关键属性：** 力量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Acid Resistance:** The Tough hero ignores an amount of acid damage equal to his or her Constitution modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144252Z" creationid="quentine" creationdate="20190117T144252Z">
+        <seg>**酸系抗力：** 体质型英雄忽略等于自身体质调整值的酸性伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Action Points:** Fast heroes gain a number of action points equal to 5 + one-half their character level, rounded down, at 1st level and every time they attain a new level in this class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T134001Z" creationid="quentine" creationdate="20190116T134001Z">
+        <seg>**行动点：** 敏捷型英雄在1级和升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Action Points:** Strong heroes gain a number of action points equal to 5 + one-half their character level, rounded down, at 1st level and every time they attain a new level in this class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T121258Z" creationid="quentine" creationdate="20190116T121258Z">
+        <seg>**行动点：** 力量型英雄在1级和升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Action Points:** Tough heroes gain a number of action points equal to 5 + one-half their character level, rounded down, at 1st level and every time they attain a new level in this class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T141722Z" creationid="quentine" creationdate="20190117T141722Z">
+        <seg>**行动点：** 体质型英雄在1级和升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Advanced Extreme Effort:** The effort requires a full-round action and provides a +2 bonus that stacks with the bonuses provided by extreme effort and improved extreme effort (+6 total).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T143946Z" creationid="quentine" creationdate="20190116T125603Z">
+        <seg>**高级竭尽全力：** 该动作需要整轮进行，为检定提供总共+6加成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Advanced Ignore Hardness:** The Strong hero ignores 2 additional points of an object’s hardness (for a total of 6).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130305Z" creationid="quentine" creationdate="20190116T130305Z">
+        <seg>**高级无视硬度：** 力量型英雄共计无视6点物体硬度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Advanced Increased Speed:** The Fast hero’s base speed increases by 5 feet.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T131802Z" creationid="quentine" creationdate="20190117T131802Z">
+        <seg>**高级加速：** 敏捷型英雄基础速度再提高5尺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Advanced Melee Smash:** The Strong hero receives an additional +1 bonus on melee damage (+3 total).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130853Z" creationid="quentine" creationdate="20190116T130853Z">
+        <seg>**高级近战强击：** 力量型英雄在近战攻击时共计获得3点伤害加成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Base Attack Bonus:** The character’s base attack bonus and number of attacks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115550Z" creationid="quentine" creationdate="20190116T115550Z">
+        <seg>**基本攻击加值：** 角色的基本攻击加值与攻击次数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Bonus Feat:** Select either Archaic Weapons Proficiency or Brawl.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T122850Z" creationid="QuenTine" creationdate="20181104T122850Z">
@@ -1267,16 +1571,112 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>**Bonus Feat:** Select one of the following: Brawl, Combat Martial Arts, Armor Proficiency (light), or Personal Firearms Proficiency.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T141632Z" creationid="QuenTine" creationdate="20181104T141539Z">
-        <seg>**奖励专长：** 选其一：拳法、格斗武术、擅长盔甲（轻型）、擅长个人火器。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T133106Z" creationid="QuenTine" creationdate="20181104T141539Z">
+        <seg>**奖励专长：** 选其一：拳法、实战武术、擅长盔甲（轻型）、擅长个人火器。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>**Bonus Feat:** Select one of the following: Combat Martial Arts, Armor Proficiency (light), or Personal Firearms Proficiency.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T141140Z" creationid="QuenTine" creationdate="20181104T141140Z">
-        <seg>**奖励专长：** 选其一：格斗武术、擅长盔甲（轻型）、擅长个人火器。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T133119Z" creationid="QuenTine" creationdate="20181104T141140Z">
+        <seg>**奖励专长：** 选其一：实战武术、擅长盔甲（轻型）、擅长个人火器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Class Features:** Level-dependent class features, each explained in the section that follows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115951Z" creationid="quentine" creationdate="20190116T115951Z">
+        <seg>**职业专长：** 依赖于等级的职业专长，解释见下文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Cold Resistance:** The Tough hero ignores an amount of cold damage equal to his or her Constitution modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144333Z" creationid="quentine" creationdate="20190117T144333Z">
+        <seg>**寒系抗力：** 体质型英雄忽略等于自身体质调整值的寒冷伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Damage Reduction 1/—:** The Tough hero ignores 1 point of damage from melee and ranged weapons.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T143549Z" creationid="quentine" creationdate="20190117T143549Z">
+        <seg>**一级伤害减免：** 体质型英雄忽略1点来自近战及远程武器的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Damage Reduction 2/—:** The Tough hero ignores an additional 1 point of damage from melee and ranged weapons (DR 2/— total).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T143702Z" creationid="quentine" creationdate="20190117T143702Z">
+        <seg>**二级伤害减免：** 体质型英雄总共忽略2点来自近战及远程武器的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Damage Reduction 3/—:** The Tough hero ignores an additional 1 point of damage from melee and ranged weapons (DR 3/— total).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T143754Z" creationid="quentine" creationdate="20190117T143754Z">
+        <seg>**三级伤害减免：** 体质型英雄总共忽略3点来自近战及远程武器的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Defense Bonus:** The character’s bonus to Defense.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120012Z" creationid="quentine" creationdate="20190116T120012Z">
+        <seg>**防御加值：** 角色的防御加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Defensive Roll:** The Fast hero can roll with a potentially lethal attack to take less damage from it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T124922Z" creationid="quentine" creationdate="20190117T124922Z">
+        <seg>**防御翻滚：** 敏捷型英雄可以翻滚以降低潜在的致命攻击造成的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Electricity Resistance:** The Tough hero ignores an amount of electricity damage equal to his or her Constitution modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144416Z" creationid="quentine" creationdate="20190117T144416Z">
+        <seg>**电系抗力：** 体质型英雄忽略等于自身体质调整值的电力伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Evasion:** If the Fast hero is exposed to any effect that normally allows a character to attempt a Reflex saving throw for half damage, the Fast hero suffers no damage if he or she makes a successful saving throw.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T124437Z" creationid="quentine" creationdate="20190117T122307Z">
+        <seg>**反射闪避：** 敏捷型英雄在反射豁免成功后，伤害不再减半，而是全免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Extreme Effort:** The effort requires a full-round action and provides a +2 bonus on the check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T125032Z" creationid="quentine" creationdate="20190116T125032Z">
+        <seg>**竭尽全力：** 该动作需要整轮进行，为检定提供+2加成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Fire Resistance:** The Tough hero ignores an amount of fire damage equal to his or her Constitution modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144443Z" creationid="quentine" creationdate="20190117T144443Z">
+        <seg>**火系抗力：** 体质型英雄忽略等于自身体质调整值的火焰伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Fort Save:** The base save bonus for Fortitude saving throws.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115616Z" creationid="quentine" creationdate="20190116T115616Z">
+        <seg>**强韧豁免：** 基本强韧豁免加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1285,6 +1685,70 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T131548Z" creationid="quentine" creationdate="20190114T130648Z">
         <seg>**强韧豁免：** 这一豁免代表角色在重大攻击下屹立不倒的能力和在受到类似毒素和麻痹攻击时保持活力的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Hit Die:** 1d10</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T141657Z" creationid="quentine" creationdate="20190117T141657Z">
+        <seg>**生命骰：** 1d10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Hit Die:** 1d8</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T121208Z" creationid="quentine" creationdate="20190116T121208Z">
+        <seg>**生命骰：** 1d8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Ignore Hardness:** The Strong hero ignores 2 points of an object’s hardness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130001Z" creationid="quentine" creationdate="20190116T130001Z">
+        <seg>**无视硬度：** 力量型英雄无视物体2点硬度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Improved Extreme Effort:** The effort requires a full-round action and provides a +2 bonus that stacks with the bonus provided by extreme effort (+4 total).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T143932Z" creationid="quentine" creationdate="20190116T125251Z">
+        <seg>**精通竭尽全力：** 该动作需要整轮进行，为检定提供总共+4加成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Improved Ignore Hardness:** The Strong hero ignores 2 additional points of an object’s hardness (for a total of 4).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130648Z" creationid="quentine" creationdate="20190116T130216Z">
+        <seg>**精通无视硬度：** 力量型英雄共计无视物体4点硬度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Improved Increased Speed:** The Fast hero’s base speed increases by 5 feet.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T131601Z" creationid="quentine" creationdate="20190117T131541Z">
+        <seg>**精通加速：** 敏捷型英雄基础速度再提高5尺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Improved Melee Smash:** The Strong hero receives an additional +1 bonus on melee damage (+2 total).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130858Z" creationid="quentine" creationdate="20190116T130545Z">
+        <seg>**精通近战强击：** 力量型英雄在近战攻击时共计获得2点伤害加成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Increased Speed:** The Fast hero’s base speed increases by 5 feet.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T131547Z" creationid="quentine" creationdate="20190117T131459Z">
+        <seg>**加速：** 敏捷型英雄基础速度提高5尺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1301,6 +1765,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142255Z" creationid="quentine" creationdate="20190115T142255Z">
         <seg>**初始伤害：** 潜伏期过后病患受到的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Level:** The character’s level in the class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115524Z" creationid="quentine" creationdate="20190116T115524Z">
+        <seg>**等级：** 角色职业等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Melee Smash:** The Strong hero receives a +1 bonus on melee damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130511Z" creationid="quentine" creationdate="20190116T130511Z">
+        <seg>**近战强击：** 力量型英雄在近战攻击时获得1点伤害加成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Opportunist:** The Fast hero can spend 1 action point to use this talent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T130331Z" creationid="quentine" creationdate="20190117T130331Z">
+        <seg>**乘势攻击：** 敏捷型英雄可以使用1点行动点来使用这一天赋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1353,10 +1841,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Ref Save:** The base save bonus for Reflex saving throws.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115722Z" creationid="quentine" creationdate="20190116T115722Z">
+        <seg>**反射豁免：** 基本反射豁免加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Reflex:** These saves test the character’s ability to dodge massive attacks such as explosions or car wrecks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T141856Z" creationid="quentine" creationdate="20190114T131735Z">
         <seg>**反射豁免：** 这一豁免代表角色闪避重大攻击——如爆炸或车祸——的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Remain Conscious:** The Tough hero gains the ability to continue to perform actions when he or she would otherwise be considered unconscious and dying.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T145504Z" creationid="quentine" creationdate="20190117T145504Z">
+        <seg>**维持意识：** 体质型英雄能够在满足昏迷或濒死状态的条件下继续具有行动能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1369,10 +1873,58 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Reputation Bonus:** The character’s base Reputation bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120035Z" creationid="quentine" creationdate="20190116T120035Z">
+        <seg>**声望加值：** 角色基本声望加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Secondary Damage:** The amount of damage the hero takes one day after taking initial damage, if he or she fails a second saving throw.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142511Z" creationid="quentine" creationdate="20190115T142351Z">
         <seg>**再次伤害：** 第二次豁免失败，英雄受到初次伤害第二天受到的伤害数目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Skill Points at 1st Level:** (3 + Int modifier) x4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T142315Z" creationid="quentine" creationdate="20190117T142315Z">
+        <seg>**1级技能点数：** （3+智力调整值）x4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Skill Points at 1st Level:** (3 + Int modifier)x4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T122306Z" creationid="quentine" creationdate="20190116T122306Z">
+        <seg>**1级技能点数：** （3+智力调整值）x4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Skill Points at 1st Level:** (5 + Int modifier) x4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121311Z" creationid="quentine" creationdate="20190117T121311Z">
+        <seg>**1级技能点数：** （5+智力调整值）x4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Skill Points at Each Additional Level:** 3 + Int modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T122324Z" creationid="quentine" creationdate="20190116T122324Z">
+        <seg>**升级技能点数：** 3+智力调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Skill Points at Each Additional Level:** 5 + Int modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121323Z" creationid="quentine" creationdate="20190117T121323Z">
+        <seg>**升级技能点数：** 5+智力调整值</seg>
       </tuv>
     </tu>
     <tu>
@@ -1401,10 +1953,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Sonic/Concussion Resistance:** The Tough hero ignores an amount of sonic or concussion damage equal to his or her Constitution modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144620Z" creationid="quentine" creationdate="20190117T144620Z">
+        <seg>**音波/震荡抗力：** 体质型英雄忽略等于自身体质调整值的音波或震荡伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Type:** The disease’s method of delivery—ingested, inhaled, or via an injury—and the DC needed to save.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142148Z" creationid="quentine" creationdate="20190115T142148Z">
         <seg>**类型：** 疾病的传播类型——摄入性、吸入性或伤口性——以及豁免所需DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Uncanny Dodge 1:** The Fast hero retains his or her Dexterity bonus to Defense regardless of being caught flat-footed or struck by a hidden attacker.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T122943Z" creationid="quentine" creationdate="20190117T122943Z">
+        <seg>**一级直觉闪避：** 敏捷型英雄在措手不及和受偷袭时仍旧获得敏捷调整值所提供的防御加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Uncanny Dodge 2:** The Fast hero can no longer be flanked; the hero can react to opponents on opposite sides of him or herself as easily as he or she can react to a single attacker.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T123532Z" creationid="quentine" creationdate="20190117T123532Z">
+        <seg>**二级直觉闪避：** 敏捷型英雄不受夹击影响；英雄能像应对单个敌人一样应对多个不同方向进攻的敌人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1445,6 +2021,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T132834Z" creationid="QuenTine" creationdate="20181104T132834Z">
         <seg>**财富加值加成：** +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Will Save:** The base save bonus for Will saving throws.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115827Z" creationid="quentine" creationdate="20190116T115827Z">
+        <seg>**意志豁免：** 基本意志豁免加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1625,10 +2209,42 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A 1st-level character gets the maximum hit points rather than rolling (although the Constitution modifier is still applied).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114556Z" creationid="quentine" creationdate="20190116T114556Z">
+        <seg>1级角色无需掷骰，直接取骰子的最大值（体质调整值依旧有效）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A 1st-level character starts with 4 times the number of skill points he or she receives upon attaining each level beyond 1st.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115130Z" creationid="quentine" creationdate="20190116T115130Z">
+        <seg>1级角色初始将有4倍于此后每升一级所获得的技能点数值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Fast hero spends 1 action point to use this talent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T125138Z" creationid="quentine" creationdate="20190117T125138Z">
+        <seg>敏捷型英雄需耗费1点行动点使用此天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Reputation check is 1d20 + the hero’s Reputation bonus + the GM character’s Int modifer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T125233Z">
         <seg>声望检定的数值为1d20+英雄的声望加值+GM角色的智力调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Strong hero can push him or herself to make an extreme effort.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T124904Z" creationid="quentine" creationdate="20190116T124837Z">
+        <seg>力量型英雄可以迫使自己用尽最大的力气。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1659,8 +2275,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>A character always has a limited amount of action points, and while the character replenishes this supply with every new level he or she attains, the character must use them wisely.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T133232Z" creationid="quentine" creationdate="20190114T133232Z">
-        <seg>角色只拥有有限数量的行动点，这种行动点只能在升级时回满，因此必须慎重使用。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114753Z" creationid="quentine" creationdate="20190114T133232Z">
+        <seg>角色只拥有有限数量的行动点，这种行动点只能在升级时恢复，因此必须慎重使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1669,6 +2285,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T150233Z" creationid="quentine" creationdate="20190114T150233Z">
         <seg>角色从濒死状态恢复时也会陷入瘫痪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can also buy skills from other classes’ skill lists.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115212Z" creationid="quentine" creationdate="20190116T115212Z">
+        <seg>角色也可以从其他职业技能列表获得技能（跨职技能）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1793,6 +2417,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character gains a bonus feat upon attaining each even-numbered level in a class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120937Z" creationid="quentine" creationdate="20190116T120937Z">
+        <seg>角色在偶数等级可以获得一个奖励专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character gains a talent upon attaining each odd-numbered level in a class (including 1st level).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T121007Z" creationid="quentine" creationdate="20190116T120313Z">
+        <seg>角色可以在达到奇数等级时获得天赋（包括1级）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character has a 5% chance (roll of 1 on 1d20) to expose him or herself to a poison whenever the character applies it to a weapon or otherwise readies it for use.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141538Z" creationid="quentine" creationdate="20190115T141538Z">
@@ -1901,6 +2541,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T132024Z" creationid="QuenTine" creationdate="20181103T132024Z">
         <seg>体质值为0意味着角色死亡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character’s Intelligence modifier is applied to determine the total skill points gained each level (but always at least 1 point per level, even for a character with an Intelligence penalty).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115101Z" creationid="quentine" creationdate="20190116T115101Z">
+        <seg>角色的智力调整值决定了每级获得的技能点数（但每级至少1点，角色有智力减值也是如此）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2185,6 +2833,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A player rolls one die of the given type each time his or her character gains a new level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114419Z" creationid="quentine" creationdate="20190116T114419Z">
+        <seg>角色每升一级，玩家会投掷指定的骰子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A positive modifier is called a bonus, and a negative modifier is called a penalty.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T132957Z" creationid="QuenTine" creationdate="20181103T132957Z">
@@ -2305,6 +2961,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acrobatic, Combat Expertise, Combat Throw, Defensive Martial Arts, Double Tap, Elusive Target, Focused, Improved Disarm, Mobility, Personal Firearms Proficiency, Point Blank Shot, Stealthy, Weapon Finesse.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T142233Z" creationid="quentine" creationdate="20190117T134416Z">
+        <seg>杂技、寓守于攻、摔投技巧、防御武术、双发快射、凌波微步、全神贯注、精通卸除武器、灵活移动、擅长单兵火器、近程射击、隐秘、武器娴熟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Action points provide characters with the means to affect game play in significant ways.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T132945Z" creationid="quentine" creationdate="20190114T132945Z">
@@ -2333,6 +2997,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041826Z" creationid="QuenTine" creationdate="20181024T041826Z">
         <seg>结果总和之上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add the result to the character’s hit point total.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114450Z" creationid="quentine" creationdate="20190116T114450Z">
+        <seg>将结果加到角色的生命上限上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2425,6 +3097,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All of the following are class features of the Fast hero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121724Z" creationid="quentine" creationdate="20190117T121724Z">
+        <seg>下文为敏捷型英雄的职业专长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All of the following are class features of the Tough hero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T142736Z" creationid="quentine" creationdate="20190117T142736Z">
+        <seg>下文为体质型英雄的职业专长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All of the rest of the text in this document is Open Game Content as described in Section 1(d) of the License.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033240Z" creationid="QuenTine" creationdate="20181022T033240Z">
@@ -2485,6 +3173,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T142730Z" creationid="QuenTine" creationdate="20181103T142606Z">
         <seg>此外，角色只是身为某一类人并不意味着该角色与这类人立场相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, the starting occupation selected can provide additional class skills to choose from.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T122246Z" creationid="quentine" creationdate="20190116T122246Z">
+        <seg>此外，角色的职业背景也能提供可选的本职技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, the starting occupation the character selects can provide additional class skills to choose from.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121157Z" creationid="quentine" creationdate="20190117T121157Z">
+        <seg>此外，角色的职业背景也能提供可选的本职技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2589,6 +3293,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125440Z" creationid="quentine" creationdate="20190115T125440Z">
         <seg>昏迷的角色无法自我防御。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Animal Affinity, Archaic Weapons Proficiency, Athletic, Blind-Fight, Brawl, Cleave, Combat Martial Arts, Combat Reflexes, Great Cleave, Improved Brawl, Improved Combat Martial Arts, Power Attack, Weapon Focus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T133812Z" creationid="quentine" creationdate="20190116T132255Z">
+        <seg>动物亲和、擅长古典武器、竞技、盲战、拳法、顺势斩、实战武术、战斗反射、强力顺势斩、精通拳法、精通实战武术、猛力攻击、武器专攻。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2737,6 +3449,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As long as the hero qualifies, he or she can select freely from any and all talent trees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T123059Z" creationid="quentine" creationdate="20190116T123059Z">
+        <seg>只要满足先决条件，玩家可以在所有天赋树中任选。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As long as you’re applying a single multiplier, multiply the number normally.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T044234Z" creationid="QuenTine" creationdate="20181024T043009Z">
@@ -2765,6 +3485,46 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T141715Z" creationid="quentine" creationdate="20190114T141715Z">
         <seg>生命值为0时，角色瘫痪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 1st, 3rd, 5th, 7th, and 9th level, the Fast hero selects a talent from the following talent trees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121746Z" creationid="quentine" creationdate="20190117T121746Z">
+        <seg>敏捷型英雄在1级，3级，5级，7级和9级时可以在以下天赋树中选择一个天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 1st, 3rd, 5th, 7th, and 9th level, the Strong hero selects a talent from the following talent trees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T123259Z" creationid="quentine" creationdate="20190116T122926Z">
+        <seg>力量型英雄在1级，3级，5级，7级和9级时可以在以下天赋树中选择一个天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 1st, 3rd, 5th, 7th, and 9th level, the Tough hero selects a talent from the following talent trees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T142751Z" creationid="quentine" creationdate="20190117T142751Z">
+        <seg>体质型英雄在1级，3级，5级，7级和9级时可以在以下天赋树中选择一个天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 2nd, 4th, 6th, 8th, and 10th level, the Fast hero gains a bonus feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T131901Z" creationid="quentine" creationdate="20190117T131901Z">
+        <seg>2、4、6、8、10级时，敏捷型英雄获得奖励专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 2nd, 4th, 6th, 8th, and 10th level, the Strong hero gains a bonus feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T131005Z" creationid="quentine" creationdate="20190116T130956Z">
+        <seg>2、4、6、8、10级时，力量型英雄获得奖励专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2801,6 +3561,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Balance (Dex), Craft (mechanical) (Int), Drive (Dex), Escape Artist (Dex), Hide (Dex), Knowledge (current events, popular culture, streetwise) (Int), Move Silently (Dex), Pilot (Dex), Profession (Wis), Read/Write Language (none), Ride (Dex), Sleight of Hand (Dex), Speak Language (none), and Tumble (Dex).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121103Z" creationid="quentine" creationdate="20190117T121103Z">
+        <seg>平衡（敏）、制造（机械）（智）、驾驶（敏）、脱逃（敏）、躲藏（敏）、知识（时事、流行文化、街头智慧）（智）、潜行（敏）、驾机（敏）、专业（感）、读写语言（无）、骑术（敏）、手上功夫（敏）、口头语言（无）和翻滚（敏）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Balance, Climb, Computer Use, Drive, Jump, Knowledge (behavioral sciences, earth and life sciences, or technology), Search, Treat Injury, Swim.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T134100Z" creationid="QuenTine" creationdate="20181104T133842Z">
@@ -2829,6 +3597,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T130443Z" creationid="quentine" creationdate="20190114T130424Z">
         <seg>基础豁免加值 + 属性调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Before the hero can select a talent from this tree the hero must have previously selected at least one talent from the Energy Resistance or Unbreakable Talent Tree.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T143331Z" creationid="quentine" creationdate="20190117T143331Z">
+        <seg>在玩家选择本天赋树天赋前必须至少有一点天赋分配至`不破金身`或`能量抗力`天赋树。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2941,6 +3717,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T095050Z" creationid="QuenTine" creationdate="20181104T095050Z">
         <seg>从以下职业背景中选择自己角色的职业背景，获得相应的奖励。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Climb (Str), Concentration (Con), Craft (mechanical, structural) (Int), Drive (Dex), Intimidate (Cha), Knowledge (current events, popular culture, streetwise) (Int), Profession (Wis), Read/Write Language (none), Ride (Dex), Speak Language (none), Spot (Wis), and Survival (Wis).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T141903Z" creationid="quentine" creationdate="20190117T141903Z">
+        <seg>攀爬（力）、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Climb (Str), Craft (structural) (Int), Handle Animal (Cha), Jump (Str), Knowledge (current events, popular culture, streetwise, tactics) (Int), Profession (Wis), Read/Write Language (none), Repair (Int), Speak Language (none), and Swim (Str).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T122142Z" creationid="quentine" creationdate="20190116T121741Z">
+        <seg>攀爬（力）、制造（结构）（智）、驯养动物（魅）、跳跃（力）、知识（时事、流行文化、街头智慧、策略）（智）、专业（感）、读写语言（无）、修理（智）、口头语言（无）和游泳（力）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3166,6 +3958,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each skill point buys a half rank in these cross-class skills, and a character can only buy up to half the maximum ranks of a class skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115345Z" creationid="quentine" creationdate="20190116T115345Z">
+        <seg>每点技能点能加半级跨职技能，跨职技能等级上限为本职技能等级上限的一半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Electrical hazards come in many forms, including stun guns, downed power lines, and electric security fences.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143745Z" creationid="quentine" creationdate="20190115T143745Z">
@@ -3182,10 +3982,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Evasion can only be used when wearing light armor or no armor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T124505Z" creationid="quentine" creationdate="20190117T122324Z">
+        <seg>反射闪避只能在穿轻甲或无甲时使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even a Fast hero with the Combat Reflexes feat can’t use this talent more than once per round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T131047Z" creationid="quentine" creationdate="20190117T131047Z">
+        <seg>即便该英雄具有战斗反射专长，该天赋每回合最多也只能发动一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even if the character succeeds, he or she typically faces secondary damage 1 minute later.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141210Z" creationid="quentine" creationdate="20190115T141210Z">
         <seg>即使成功，角色一般还要在一分钟后再次面临伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even if the result is 0 or lower, the character always gains at least 1 hit point.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114532Z" creationid="quentine" creationdate="20190116T114532Z">
+        <seg>即使结果是0甚至更低，角色至少都会获得1点生命上限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3202,6 +4026,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113036Z" creationid="quentine" creationdate="20190115T113036Z">
         <seg>即使在昏迷的状态下，角色还是会自然恢复生命，而且当角色的生命升至1或更高就可以正常行动了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every basic class offers a selection of bonus feats to choose from.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120746Z" creationid="quentine" creationdate="20190116T120746Z">
+        <seg>每个基本职业都有一系列奖励专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every basic class offers a selection of talents to choose from.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120225Z" creationid="quentine" creationdate="20190116T120225Z">
+        <seg>每一个基础职业都提供了一系列天赋可供选择。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3854,6 +4694,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the save succeeds, he or she takes only half damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T125257Z" creationid="quentine" creationdate="20190117T125257Z">
+        <seg>若成功通过该豁免，英雄只受一半伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the save succeeds, the character becomes stable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T111749Z" creationid="quentine" creationdate="20190115T111736Z">
@@ -3914,6 +4762,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125521Z" creationid="QuenTine" creationdate="20181104T125521Z">
         <seg>插画师、文案写手、卡通画师、图形艺术家、小说家、杂志专栏作家、演员、雕塑师、游戏设计师、音乐家、剧作家、摄影师以及网页设计师都属于这一类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the two feats all characters get at 1st level, a Fast hero begins play with the Simple Weapons Proficiency feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121657Z" creationid="quentine" creationdate="20190117T121657Z">
+        <seg>除了所有角色在1级时获得的两个专长，敏捷型英雄初始拥有`擅长简易武器`专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the two feats all characters get at 1st level, a Strong hero begins play with the Simple Weapons Proficiency feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T122552Z" creationid="quentine" creationdate="20190116T122544Z">
+        <seg>除了所有角色在1级时获得的两个专长，力量型英雄初始拥有`擅长简易武器`专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the two feats all characters get at 1st level, a Tough hero begins play with the Simple Weapons Proficiency feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T142716Z" creationid="quentine" creationdate="20190117T142716Z">
+        <seg>除了所有角色在1级时获得的两个专长，体质型英雄初始拥有`擅长简易武器`专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4094,6 +4966,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It includes the following information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115503Z" creationid="quentine" creationdate="20190116T115503Z">
+        <seg>包括了以下信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is immune to all mind-influencing effects (charms, compulsions, phantasms, patterns and morale effects) and automatically fails Intelligence checks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140203Z" creationid="QuenTine" creationdate="20181103T135512Z">
@@ -4264,6 +5144,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No talent can be selected more than once unless expressly indicated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T123127Z" creationid="quentine" creationdate="20190116T123127Z">
+        <seg>除非有特别说明，每个天赋最多只能点选一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No terms may be added to or subtracted from this License except as described by the License itself.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T111824Z" creationid="QuenTine" creationdate="20181022T111824Z">
@@ -4372,6 +5260,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T100502Z" creationid="QuenTine" creationdate="20181104T085201Z">
         <seg>一旦选定，该技能便确定为角色的本职技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the point is spent, the hero can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T130714Z" creationid="quentine" creationdate="20190117T130714Z">
+        <seg>这时英雄可以对刚被他人近战伤害到的对手发起一次借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once the point is spent, the hero makes a Reflex saving throw (DC = damage dealt).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T125212Z" creationid="quentine" creationdate="20190117T125212Z">
+        <seg>花费行动点后，进行一次反射豁免检定（DC=伤害值）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4512,6 +5416,110 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prerequisite: Evasion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T124442Z" creationid="quentine" creationdate="20190117T123201Z">
+        <seg>要求；反射闪避</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisite: Extreme effort.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T125607Z" creationid="quentine" creationdate="20190116T125426Z">
+        <seg>要求：竭尽全力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisite: Ignore hardness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130233Z" creationid="quentine" creationdate="20190116T130233Z">
+        <seg>要求： 无视硬度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisite: Increased speed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T131653Z" creationid="quentine" creationdate="20190117T131653Z">
+        <seg>要求：加速</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisite: Melee smash.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130812Z" creationid="quentine" creationdate="20190116T130812Z">
+        <seg>要求： 近战强击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisite: One other talent from either the Energy Resistance Talent Tree or the Unbreakable Talent Tree.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T143613Z" creationid="quentine" creationdate="20190117T143613Z">
+        <seg>要求：1点能量抗力或不破金身天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisites: Damage reduction 1/—, damage reduction 2/—, one other talent from either the Energy Resistance Talent Tree or the Unbreakable Talent Tree.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T143812Z" creationid="quentine" creationdate="20190117T143812Z">
+        <seg>要求：二级伤害减免及其所有要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisites: Damage reduction 1/—, one other talent from either the Energy Resistance Talent Tree or the Unbreakable Talent Tree.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T143734Z" creationid="quentine" creationdate="20190117T143734Z">
+        <seg>要求：一级伤害减免及其所有要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisites: Evasion, uncanny dodge 1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T124452Z" creationid="quentine" creationdate="20190117T123604Z">
+        <seg>要求：反射闪避、一级直觉闪避</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisites: Extreme effort, improved extreme effort.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130643Z" creationid="quentine" creationdate="20190116T125637Z">
+        <seg>要求：竭尽全力、精通竭尽全力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisites: Ignore hardness, improved ignore hardness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130700Z" creationid="quentine" creationdate="20190116T130320Z">
+        <seg>要求：无视硬度，精通无视硬度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisites: Increased speed, improved increased speed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T131846Z" creationid="quentine" creationdate="20190117T131846Z">
+        <seg>要求：加速、精通加速</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisites: Melee smash, improved melee smash.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130930Z" creationid="quentine" creationdate="20190116T130930Z">
+        <seg>要求：近战强击、精通近战强击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113353Z" creationid="QuenTine" creationdate="20181022T113353Z">
@@ -4608,6 +5616,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since this effect would not normally allow a character to make a Reflex save for half damage, the Fast hero’s evasion talent doesn’t apply to the defensive roll.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T125942Z" creationid="quentine" creationdate="20190117T125942Z">
+        <seg>此天赋适用的情况通常不会允许角色做令受伤减半的反射豁免，所以敏捷型英雄的反射闪避不会与防御翻滚同时生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Size modifiers are shown on the Table below.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T123839Z" creationid="quentine" creationdate="20190114T123839Z">
@@ -4632,6 +5648,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some feats have prerequisites that must be met before a character can select them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T121126Z" creationid="quentine" creationdate="20190116T121126Z">
+        <seg>有的专长有先决条件，必须要满足后玩家才能进行选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some injury diseases can be transmitted by a wound as small as an insect bite.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142202Z" creationid="quentine" creationdate="20190115T142202Z">
@@ -4652,6 +5676,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T091840Z" creationid="QuenTine" creationdate="20181104T091840Z">
         <seg>部分起始职业可以为角色提供声望加值或额外的奖励专长（在1级角色可以获得的2两个专长之外）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some talents have prerequisites that must be met before a character can select them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120458Z" creationid="quentine" creationdate="20190116T120444Z">
+        <seg>有的天赋有先决条件，必须要满足之后玩家才能够选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some trees have a set order that must be followed, while others provide a list to choose from.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T123335Z" creationid="quentine" creationdate="20190116T123008Z">
+        <seg>在点选部分天赋时需遵循该天赋树的点选顺序，其他天赋则可任意选择。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4760,6 +5800,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Talents are considered to be extraordinary abilities.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120425Z" creationid="quentine" creationdate="20190116T120425Z">
+        <seg>天赋通常是指特殊能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113323Z" creationid="QuenTine" creationdate="20181022T113323Z">
@@ -4788,6 +5836,38 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T130528Z" creationid="quentine" creationdate="20190114T130528Z">
         <seg>豁免的DC由攻击本身决定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Fast hero can increase his or her natural base speed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T131415Z" creationid="quentine" creationdate="20190117T131415Z">
+        <seg>敏捷型英雄可以以此提升基础速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Fast hero gains the ability to improve his or her innate defensive talents as the hero attains new levels.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121940Z" creationid="quentine" creationdate="20190117T121940Z">
+        <seg>敏捷型英雄在升级时可以获得更高的防御能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Fast hero must be able to react to the attack to execute a defensive roll—if the hero is immobilized, he or she can’t use this talent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T125418Z" creationid="quentine" creationdate="20190117T125418Z">
+        <seg>英雄在使用这一天赋时必须处于能对该次攻击进行防御翻滚的状态，若该角色无法移动，则不能使用这一天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Fast hero’s class skills (and the key ability for each skill) are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T115930Z" creationid="quentine" creationdate="20190117T115930Z">
+        <seg>敏捷型英雄的本职技能（以及技能的关键属性）如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4836,6 +5916,62 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T131322Z" creationid="QuenTine" creationdate="20181103T131322Z">
         <seg>以上属性的数值从0到无穷大不等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Strong hero has an innate talent for finding weaknesses in objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T125729Z" creationid="quentine" creationdate="20190116T125729Z">
+        <seg>力量型英雄天生擅长发觉物件的弱点所在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Strong hero has an innate talent that increases melee damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130439Z" creationid="quentine" creationdate="20190116T130439Z">
+        <seg>力量型英雄擅长在近距离造成更高的近战伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Strong hero’s class skills (and the key ability for each skill) are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T115939Z" creationid="quentine" creationdate="20190116T121402Z">
+        <seg>力量型英雄的本职技能（以及技能的关键属性）如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Tough hero has an innate talent to ignore a set amount of damage from most weapons, but not from energy or special attack forms (which may or may not exist, depending on the campaign).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T143110Z" creationid="quentine" creationdate="20190117T143110Z">
+        <seg>体质型英雄能够减免大多数武器伤害，但不能减免能量或特殊伤害（根据跑团内容决定是否存在这种伤害类型）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Tough hero is particularly resilient thanks to the following talents.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144828Z" creationid="quentine" creationdate="20190117T144828Z">
+        <seg>体质型英雄可以通过选择以下天赋更加能抗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Tough hero is particularly resistant to certain kinds of deadly energy effects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144156Z" creationid="quentine" creationdate="20190117T144156Z">
+        <seg>体质型英雄能够抵挡某种致命的能量效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Tough hero’s class skills (and the key ability for each skill) are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T141748Z" creationid="quentine" creationdate="20190117T141748Z">
+        <seg>体质型英雄的本职技能（以及技能的关键属性）如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5040,6 +6176,46 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character’s Constitution modifier also applies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115629Z" creationid="quentine" creationdate="20190116T115629Z">
+        <seg>与角色的体质调整值共同作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character’s Constitution modifier is applied to the roll.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114438Z" creationid="quentine" creationdate="20190116T114438Z">
+        <seg>所得点数再加上角色的体质调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character’s Dexterity modifier also applies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115732Z" creationid="quentine" creationdate="20190116T115732Z">
+        <seg>与角色的敏捷调整值共同作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character’s Dexterity modifier and equipment bonus also applies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120109Z" creationid="quentine" creationdate="20190116T120109Z">
+        <seg>与角色的敏捷调整值和装备加值共同作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character’s Wisdom modifier also applies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115920Z" creationid="quentine" creationdate="20190116T115920Z">
+        <seg>与角色的感知调整值共同作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character’s current hit point total remains where it is, however, even though it’s negative.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112206Z" creationid="quentine" creationdate="20190115T112206Z">
@@ -5092,6 +6268,38 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T135005Z" creationid="QuenTine" creationdate="20181103T135005Z">
         <seg>这类生物同样免疫属性伤害、属性流失、能量流失和重击，但在进行体质检定时必然失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The die type used by characters of the class to determine the number of hit points gained per level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114401Z" creationid="quentine" creationdate="20190116T114401Z">
+        <seg>决定每级所获得生命点的掷骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The effort must relate either to a Strength check or a Strength-based skill check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T124919Z" creationid="quentine" creationdate="20190116T124919Z">
+        <seg>这一天赋加成只能用于力量检定或与力量相关的技能检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The feats gained at 1st level in the class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115404Z" creationid="quentine" creationdate="20190116T115404Z">
+        <seg>该职业1级获得的专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following are class features of the Strong hero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T122854Z" creationid="quentine" creationdate="20190116T122854Z">
+        <seg>下文为力量型英雄的职业专长</seg>
       </tuv>
     </tu>
     <tu>
@@ -5160,6 +6368,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The maximum ranks a character can have in a class skill is the character’s level +3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115148Z" creationid="quentine" creationdate="20190116T115148Z">
+        <seg>本职技能等级最高能升到角色等级+3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The modifier can be calculated using this formula:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T132429Z" creationid="QuenTine" creationdate="20181103T132429Z">
@@ -5188,6 +6404,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T131456Z" creationid="QuenTine" creationdate="20181103T131456Z">
         <seg>正常人类的数值范围是3到18。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of action points gained per level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114619Z" creationid="quentine" creationdate="20190116T114619Z">
+        <seg>每升一级所获得的行动点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5320,6 +6544,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These bonus feats are in addition to the feats that all characters receive as they attain new levels.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T121102Z" creationid="quentine" creationdate="20190116T121102Z">
+        <seg>奖励专长是在升级时获得的普通专长之外的奖励。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These bonuses are called dodge bo-nus-es.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T124226Z" creationid="quentine" creationdate="20190114T124226Z">
@@ -5340,6 +6572,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T135045Z" creationid="QuenTine" creationdate="20181104T135045Z">
         <seg>这些大大小小的企业家对统合商业计划、搜集资源以及抓住新商机都很有一套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These talents can be selected in any order.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144206Z" creationid="quentine" creationdate="20190117T144206Z">
+        <seg>以下天赋可按任意顺序选取。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5372,6 +6612,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T135256Z" creationid="QuenTine" creationdate="20181104T135256Z">
         <seg>他们甚至把午饭后闲逛的时间都花到有用的地方去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This allows a Strong hero to ignore some of an object’s hardness when making a melee attack to break it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T125747Z" creationid="quentine" creationdate="20190116T125747Z">
+        <seg>这使得力量型英雄在攻击破坏物件时可以无视其硬度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This attack counts as the Fast hero’s attack of opportunity for that round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T130900Z" creationid="quentine" creationdate="20190117T130900Z">
+        <seg>这一攻击算作该敏捷型英雄本轮内的借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5456,6 +6712,38 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This entry details special characteristics of the class, including bonus feats and unique talents, that are gained as a character attains higher levels in the class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120159Z" creationid="quentine" creationdate="20190116T120159Z">
+        <seg>这里详述了职业特征，包括奖励专长和独有的天赋，角色升级即可获得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This entry tells which ability is typically associated with that class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114340Z" creationid="quentine" creationdate="20190116T114340Z">
+        <seg>这里将阐述与职业关联的属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This feat must be selected from the following list, and the Fast hero must meet any prerequisites.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T131926Z" creationid="quentine" creationdate="20190117T131926Z">
+        <seg>奖励专长必须从下表中选择，在选择时必须满足该专长的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This feat must be selected from the following list, and the Strong hero must meet any prerequisites.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T131048Z" creationid="quentine" creationdate="20190116T131048Z">
+        <seg>奖励专长必须从下表中选择，在选择时必须满足该专长的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This illicit starting occupation reveals a background from the wrong side of the law.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T130353Z" creationid="QuenTine" creationdate="20181104T130353Z">
@@ -5532,6 +6820,38 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141224Z" creationid="quentine" creationdate="20190115T141224Z">
         <seg>再次伤害也需要强韧豁免来避免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This section of a class description provides a list of class skills and also gives the number of skill points the character starts with at 1st level and the number of skill points gained each level thereafter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114719Z" creationid="quentine" creationdate="20190116T114719Z">
+        <seg>本节提供了一个本职技能的列表，并给出新角色1级时的技能点数和角色升级时所得技能点数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This table details how a character improves as he or she attains higher levels in the class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115441Z" creationid="quentine" creationdate="20190116T115441Z">
+        <seg>该表详述了角色职业等级提升所获得的提高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This talent stacks with increased speed (10 feet total).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T131639Z" creationid="quentine" creationdate="20190117T131639Z">
+        <seg>与前者叠加，总共10尺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This talent stacks with increased speed and improved increased speed (15 feet total).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T131830Z" creationid="quentine" creationdate="20190117T131830Z">
+        <seg>与前两者叠加，总共15尺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5808,6 +7128,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the Fast hero would be reduced to 0 hit points or less by damage in combat (from a ranged or melee attack), the Fast hero can attempt to roll with the damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T125049Z" creationid="quentine" creationdate="20190117T125049Z">
+        <seg>当敏捷型英雄在战斗时受到能将其生命值将降至0或更低时的伤害（来自近战或远程攻击的伤害）时可以通过防御翻滚来降低该伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the character fails one of these Constitution checks, he or she begins to suffocate or drown.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133532Z" creationid="quentine" creationdate="20190115T133532Z">
@@ -5888,6 +7216,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You must decide to use this ability before making the check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T124932Z" creationid="quentine" creationdate="20190116T124932Z">
+        <seg>必须在进行检定前宣布使用这一天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>\* Creates a beam 30 feet long and 5 feet high.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131455Z" creationid="quentine" creationdate="20190115T131455Z">
@@ -5964,6 +7300,96 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |1st–7th|1d6|
 |8th–14th|2d6|
 |15th–20th|3d6|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Class Features|Defense Bonus|Reputation Bonus|
+|:-------|------------|------------|---------|-----------|:----------|--------|------------|
+|1st|+1|+1|+0|+0|Talent|+1|+0|
+|2nd|+2|+2|+0|+0|Bonus feat|+2|+0|
+|3rd|+3|+2|+1|+1|Talent|+2|+0|
+|4th|+4|+2|+1|+1|Bonus feat|+3|+0|
+|5th|+5|+3|+1|+1|Talent|+3|+1|
+|6th|+6/+1|+3|+2|+2|Bonus feat|+3|+1|
+|7th|+7/+2|+4|+2|+2|Talent|+4|+1|
+|8th|+8/+3|+4|+2|+2|Bonus feat|+4|+1|
+|9th|+9/+4|+4|+3|+3|Talent|+5|+2|
+|10th|+10/+5|+5|+3|+3|Bonus feat|+5|+2|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T122831Z" creationid="quentine" creationdate="20190116T122831Z">
+        <seg>|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|职业专长|防御加值|声望加值|
+|:-------|------------|------------|---------|-----------|:----------|--------|------------|
+|1st|+1|+1|+0|+0|天赋|+1|+0|
+|2nd|+2|+2|+0|+0|奖励专长|+2|+0|
+|3rd|+3|+2|+1|+1|天赋|+2|+0|
+|4th|+4|+2|+1|+1|奖励专长|+3|+0|
+|5th|+5|+3|+1|+1|天赋|+3|+1|
+|6th|+6/+1|+3|+2|+2|奖励专长|+3|+1|
+|7th|+7/+2|+4|+2|+2|天赋|+4|+1|
+|8th|+8/+3|+4|+2|+2|奖励专长|+4|+1|
+|9th|+9/+4|+4|+3|+3|天赋|+5|+2|
+|10th|+10/+5|+5|+3|+3|奖励专长|+5|+2|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Class Features|Defense Bonus|Reputation Bonus|
+|:-------|---------|-------|-------|--------|:--------|----------|--------|
+|1st|+0|+0|+1|+0|Talent|+3|+0|
+|2nd|+1|+0|+2|+0|Bonus feat|+4|+0|
+|3rd|+2|+1|+2|+1|Talent|+4|+1|
+|4th|+3|+1|+2|+1|Bonus feat|+5|+1|
+|5th|+3|+1|+3|+1|Talent|+5|+1|
+|6th|+4|+2|+3|+2|Bonus feat|+6|+2|
+|7th|+5|+2|+4|+2|Talent|+6|+2|
+|8th|+6/+1|+2|+4|+2|Bonus feat|+7|+2|
+|9th|+6/+1|+3|+4|+3|Talent|+7|+3|
+|10th|+7/+2|+3|+5|+3|Bonus feat|+8|+3|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121616Z" creationid="quentine" creationdate="20190117T121616Z">
+        <seg>|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|职业专长|防御加值|声望加值|
+|:-------|---------|-------|-------|--------|:--------|----------|--------|
+|1st|+0|+0|+1|+0|天赋|+3|+0|
+|2nd|+1|+0|+2|+0|奖励专长|+4|+0|
+|3rd|+2|+1|+2|+1|天赋|+4|+1|
+|4th|+3|+1|+2|+1|奖励专长|+5|+1|
+|5th|+3|+1|+3|+1|天赋|+5|+1|
+|6th|+4|+2|+3|+2|奖励专长|+6|+2|
+|7th|+5|+2|+4|+2|天赋|+6|+2|
+|8th|+6/+1|+2|+4|+2|奖励专长|+7|+2|
+|9th|+6/+1|+3|+4|+3|天赋|+7|+3|
+|10th|+7/+2|+3|+5|+3|奖励专长|+8|+3|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Class Features|Defense Bonus|Reputation Bonus|
+|:-------|---------|-------|-------|--------|:--------|----------|--------|
+|1st|+0|+1|+0|+0|Talent|+1|+0|
+|2nd|+1|+2|+0|+0|Bonus feat|+2|+0|
+|3rd|+2|+2|+1|+1|Talent|+2|+1|
+|4th|+3|+2|+1|+1|Bonus feat|+3|+1|
+|5th|+3|+3|+1|+1|Talent|+3|+1|
+|6th|+4|+3|+2|+2|Bonus feat|+3|+2|
+|7th|+5|+4|+2|+2|Talent|+4|+2|
+|8th|+6/+1|+4|+2|+2|Bonus feat|+4|+2|
+|9th|+6/+1|+4|+3|+3|Talent|+5|+3|
+|10th|+7/+2|+5|+3|+3|Bonus feat|+5|+3|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T142647Z" creationid="quentine" creationdate="20190117T142647Z">
+        <seg>|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|职业专长|防御加值|声望加值|
+|:-------|---------|-------|-------|--------|:--------|----------|--------|
+|1st|+0|+1|+0|+0|天赋|+1|+0|
+|2nd|+1|+2|+0|+0|奖励专长|+2|+0|
+|3rd|+2|+2|+1|+1|天赋|+2|+1|
+|4th|+3|+2|+1|+1|奖励专长|+3|+1|
+|5th|+3|+3|+1|+1|天赋|+3|+1|
+|6th|+4|+3|+2|+2|奖励专长|+3|+2|
+|7th|+5|+4|+2|+2|天赋|+4|+2|
+|8th|+6/+1|+4|+2|+2|奖励专长|+4|+2|
+|9th|+6/+1|+4|+3|+3|天赋|+5|+3|
+|10th|+7/+2|+5|+3|+3|奖励专长|+5|+3|</seg>
       </tuv>
     </tu>
     <tu>

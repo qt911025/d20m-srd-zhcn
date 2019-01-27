@@ -97,7 +97,7 @@ Sense Motive	察言观色
 Law Enforcement	执法人员
 tactics	策略
 Listen	聆听
-Combat Martial Arts	格斗武术
+Combat Martial Arts	实战武术
 Armor Proficiency (light)	擅长盔甲（轻型）
 Navigate	寻路
 Religious	宗教人士
@@ -195,3 +195,57 @@ Tiny	超小型
 Diminutive	微型
 Fine	超微型
 chemical	化学
+rank	级	技能的等级
+cross-class skill	跨职技能
+Fort Save	强韧豁免	fortitude save的缩写
+Ref Save	反射豁免	reflex save 的缩写
+Will	意志
+equipment	装备
+popular culture	流行文化
+Read/Write Language	读写语言
+Speak Language	口头语言
+Simple Weapons Proficiency	擅长简易武器
+Extreme Effort	竭尽全力
+Improved	精通
+Improved Extreme Effort	精通竭尽全力
+Prerequisite	要求
+Ignore Hardness	无视硬度
+Advanced	高级
+Melee Smash	近战强击
+Animal Affinity	动物亲和
+Archaic Weapons Proficiency	擅长古典武器
+Athletic	竞技
+Blind-Fight	盲战
+Cleave	顺势斩
+Combat Reflexes	战斗反射
+Great Cleave	强力顺势斩
+Power Attack	猛力攻击
+Focus	专攻
+Weapon Focus	武器专攻
+Drive	驾驶
+Evasion	反射闪避
+Uncanny Dodge	直觉闪避
+flank	夹击
+Defensive Roll	防御翻滚
+Opportunist	乘势攻击
+Acrobatic	杂技
+Combat Expertise	寓守于攻
+Combat Throw	摔投技巧
+Defensive Martial Arts	防御武术
+Double Tap	双发快射
+Elusive Target	凌波微步
+Focused	全神贯注
+Disarm	卸除武器
+Mobility	灵活移动
+Personal Firearms	单兵火器
+Point Blank Shot	近程射击
+Stealthy	隐秘
+Weapon Finesse	武器娴熟
+Damage Reduction	伤害减免
+Increased Speed	加速
+Unbreakable	不破金身
+Resistance	抗力
+Energy Resistance	能量抗力
+Sonic	音波
+Concussion	震荡
+Remain Conscious	维持意识
