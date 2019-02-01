@@ -329,135 +329,136 @@
 
 ##### 不破金身天赋树
 
-体质型英雄可以通过选择以下天赋更加能抗。
+体质型英雄可以通过选择以下天赋变得更加顽强。
 
-**维持意识：** 体质型英雄能够在满足昏迷或濒死状态的条件下继续具有行动能力。When the Tough hero’s hit points reach –1, the hero can perform as though he or she were disabled, making either an attack action or a move action every round until the hero reaches –10 hit points (and dies) or the hero’s hit points return to 1 or higher. The hero can choose to succumb to unconsciousness if he or she thinks that doing so might prevent him or her from taking more damage.
+**维持意识：** 体质型英雄能够在满足昏迷或濒死状态的条件下继续具有行动能力。体质型英雄生命值降到-1时，仍可处于瘫痪状态，每轮可以做单个攻击或移动动作，直到生命降到-10死亡，或者恢复到1或者更高。如果英雄想避免受到更多伤害，可以选择不再硬撑，陷入昏迷。
 
-**Robust:** The Tough hero becomes especially robust, gaining a number of hit points equal to his or her Tough level as soon as he or she selects this talent. Thereafter, the hero gains +1 hit point with each level of Tough he or she gains.
+**健硕：**体质型英雄变得尤其健硕，只要获得此天赋，就可获得等同于其体质等级的生命。
+> 译者注：体质等级即体质型职业的职业等级，而非体质点数或者体质调整值，下同。此外，英雄每升一级体质等级，都会获得一点生命值。
 
-**Second Wind:** The Tough hero can spend 1 action point to gain a second wind. When the hero does this, he or she recovers a number of hit points equal to his or her Constitution modifier. This talent does not increase the Tough hero’s hit points beyond the character’s full normal total.
+**回春：**体质型英雄可花费1点行动点恢复自己的生命。恢复量等于英雄的体质调整值。生命值不能恢复到超过生命值上限。
 
-**Stamina:** The Tough hero recovers twice as fast as normal. So, the hero recovers 2 hit points per character level per evening of rest, 2 points of temporary ability damage per evening of rest, and awakens in half the normal time after being knocked unconscious.
+**耐力：**体质型英雄恢复速度加倍。意即，英雄每晚休息后恢复两倍于角色等级数的生命、两点属性伤害，以及被攻击昏迷后只需花平常一半的时间清醒。
 
-Prerequisite: Robust.
+要求：健硕
 
 #### 奖励专长
 
-At 2nd, 4th, 6th, 8th, and 10th level, the Tough hero gains a bonus feat. This feat must be selected from the following list, and the Tough hero must meet any prerequisites.
+2、4、6、8、10级时，体质型英雄获得奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
 
-Alertness, Athletic, Brawl, Confident, Endurance, Great Fortitude, Improved Brawl, Improved Bull Rush, Improved Feint, Knockout Punch, Power Attack, Streetfighting, Toughness, Vehicle Expert.
+警觉、竞技、拳法、自信、坚忍、强韧加强、精通拳法、精通冲撞、精通虚招、终结之拳、猛力攻击、街头战斗、健壮、车辆专家。
 
-## THE SMART HERO
+## 智力型英雄
 
-**Ability:** Intelligence
+**关键属性：** 智力
 
-**Hit Die:** 1d6
+**生命骰：** 1d6
 
-**Action Points:** Smart heroes gain a number of action points equal to 5 + one-half their character level, rounded down, at 1st level and every time they attain a new level in this class.
+**行动点：** 智力型英雄在1级和升级时获得5+角色等级一半数值的行动点，向下取整。
 
 ### 本职技能
 
-The Smart hero’s class skills (and the key ability for each skill) are:
+智力型英雄的本职技能（以及技能的关键属性）如下：
 
-Computer Use (Int), Craft (chemical, electronic, mechanical, pharmaceutical, structural, visual art, writing) (Int), Decipher Script (Int), Demolitions (Int), Disable Device (Int), Forgery (Int), Investigate (Int), Knowledge (arcane lore, art, behavioral sciences, business, civics, current events, earth and life sciences, history, physical sciences, popular culture, streetwise, tactics, technology, theology and philosophy) (Int), Navigate (Int), Profession (Wis), Read/Write Language (none), Repair (Int), Research (Int), Search (Int), and Speak Language (none).
+计算机使用（智）、制造（化学、电力、机械、配药、结构、视觉艺术、写作）（智）、文件解读（智）、爆破（智）、解除装置（智）、伪造文书（智）、调查（智）、知识（秘法学识、艺术、行为科学、商学、政法、时事、地球与生命科学、历史、物理科学、流行文化、街头智慧、策略、技术、神学与哲学）（智）、寻路（智）、专业（感）、读写语言（无）、修理（智）、研究（智）、搜索（智）和口头语言（无）。
 
-Also, the starting occupation the hero selects can provide additional class skills to choose from.
+此外，角色的职业背景也能提供可选的本职技能。
 
-**Skill Points at 1st Level:** (9 + Int modifier) x4.
+**1级技能点数：** （9+智力调整值）x4
 
-**Skill Points at Each Additional Level:** 9 + Int modifier.
+**升级技能点数：** 9+智力调整值
 
-### Table: The Smart Hero
+### 职业列表
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Class Features|Defense Bonus|Reputation Bonus|
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|职业专长|防御加值|声望加值|
 |:-------|---------|-------|-------|--------|:--------|----------|--------|
-|1st|+0|+0|+0|+1|Talent|+0|+1|
-|2nd|+1|+0|+0|+2|Bonus feat|+1|+1|
-|3rd|+1|+1|+1|+2|Talent|+1|+1|
-|4th|+2|+1|+1|+2|Bonus feat|+1|+2|
-|5th|+2|+1|+1|+3|Talent|+2|+2|
-|6th|+3|+2|+2|+3|Bonus feat|+2|+2|
-|7th|+3|+2|+2|+4|Talent|+2|+3|
-|8th|+4|+2|+2|+4|Bonus feat|+3|+3|
-|9th|+4|+3|+3|+4|Talent|+3|+3|
-|10th|+5|+3|+3|+5|Bonus feat|+3|+4|
+|1st|+0|+0|+0|+1|天赋|+0|+1|
+|2nd|+1|+0|+0|+2|奖励专长|+1|+1|
+|3rd|+1|+1|+1|+2|天赋|+1|+1|
+|4th|+2|+1|+1|+2|奖励专长|+1|+2|
+|5th|+2|+1|+1|+3|天赋|+2|+2|
+|6th|+3|+2|+2|+3|奖励专长|+2|+2|
+|7th|+3|+2|+2|+4|天赋|+2|+3|
+|8th|+4|+2|+2|+4|奖励专长|+3|+3|
+|9th|+4|+3|+3|+4|天赋|+3|+3|
+|10th|+5|+3|+3|+5|奖励专长|+3|+4|
 
 ### 起始专长
 
-In addition to the two feats all characters get at 1st level, a Smart hero begins play with the Simple Weapons Proficiency feat.
+除了所有角色在1级时获得的两个专长，智力型英雄初始拥有`擅长简易武器`专长。
 
 ### 职业专长
 
-All of the following are class features of the Smart hero.
+下文为智力型英雄的职业专长
 
 #### 天赋
 
-At 1st, 3rd, 5th, 7th, and 9th level, the Smart hero selects a talent from the following talent trees. 在点选部分天赋时需遵循该天赋树的点选顺序，其他天赋则可任意选择。只要满足先决条件，玩家可以在所有天赋树中任选。除非有特别说明，每个天赋最多只能点选一次。
+智力型英雄在1级，3级，5级，7级和9级时可以在以下天赋树中选择一个天赋。在点选部分天赋时需遵循该天赋树的点选顺序，其他天赋则可任意选择。只要满足先决条件，玩家可以在所有天赋树中任选。除非有特别说明，每个天赋最多只能点选一次。
 
-##### Research Talent Tree
+##### 研究天赋树
 
-The Smart hero has a natural aptitude for study and fact-finding. 以下天赋可按任意顺序选取。
+智力型英雄天资聪明，擅长学术研究与发现原理。以下天赋可按任意顺序选取。
 
-**Savant:** Select one of the skills listed in the following paragraph. The hero must have ranks in the skill if it is Trained Only.  The Smart hero gets to add a bonus equal to his or her Smart level when making checks with that skill. A Smart hero can take this talent multiple times; each time it applies to a different skill.
+**学者：**从下列技能中选择一个。需受训的技能必须习得这个技能才可选。智力型英雄进行该技能的检定时会加上等同于其智力等级的加值。智力型英雄可多次选择该天赋，每次对应不同的技能。
 
-Computer Use, Craft (any single skill), Decipher Script, Demolitions, Disable Device, Forgery, Investigate, Knowledge (any single skill), Navigate, Repair, Research, Search.
+计算机使用、制造（任一）、文件解读、爆破、解除装置、伪造文书、调查、知识（任一）、寻路、修理、研究、搜索。
 
-**Linguist:** With this talent, the Smart hero becomes a master linguist. Whenever the hero encounters a new language, either spoken or written, that he or she does not know the Smart hero can make an Intelligence check to determine if he or she can understand it. The check is made with a bonus equal to the hero’s Smart level. For a written language, the bonus applies to a Decipher Script check instead.
+**语言专家：**拥有该天赋的智力型英雄是个语言大师。每当英雄遇到一门陌生的语言，无论是口语还是书面，英雄可以进行一次智力检定来决定英雄是否理解它。检定会再加上一个等同于其智力等级的加值。对于书面语言，该加值则加到文件解读检定上。
 
-The DC for the check depends on the situation: DC 15 if the language is in the same group as a language the hero has as a Read/Write Language or Speak Language skill; DC 20 if the language is unrelated to any other languages the hero knows; and DC 25 if the language is ancient or unique.  With this special ability, a Smart hero can glean enough meaning from a conversation or document to ascertain the basic message, but this ability in no way simulates actually being able to converse or fluently read and write in a given language.
+检定DC取决于：如果语言与英雄已掌握的口头或书面语言属于同一语族，DC15；与英雄掌握的语言没关系的，DC20；古代或很独特的语言，DC25。有这个特殊能力的英雄可以充分确定对话或文件的基本含义，但并不意味着英雄能流利地掌握这门语言。
 
-A single check covers roughly one minute of a spoken language or one page of a written language.
+一次检定能解决一分钟的口头语言和一页书面语言。
 
-Prerequisite: At least 1 rank in either Read/Write Language or Speak Language for each of three different languages.
+要求：至少有三门不同的语言在读写或口头上拥有等级。
 
-##### Strategy Talent Tree
+##### 战略天赋树
 
-The Smart hero has the brainpower to see solutions in most situations. These talents can be selected in any order, but before the hero can select a talent from this tree he or she must have previously selected at least one talent from the Research Talent Tree.
+智力型英雄在大多数情况下都有想出解决办法的力量。以下天赋可按任意顺序选取，但前提是至少在研究天赋树选择了一个天赋。
 
-**Exploit Weakness:** After 1 round of combat, the Smart hero can designate one opponent and try to find ways to gain an advantage by using brains over brawn. The Smart hero uses a move action and makes an Intelligence check (DC 15) with a bonus equal to his or her Smart level. If the check succeeds, for the rest of the combat the Smart hero uses his or her Intelligence bonus instead of either Strength or Dexterity bonus on attack rolls as the hero finds ways to outthink his opponent and notices weaknesses in his opponent’s fighting style.
+**寻找破绽：**一轮战斗后，智力型英雄可以指定一个对手用智力取得战斗优势。智力型英雄用一个移动动作进行带智力等级加值的智力检定（DC15）。若成功，智力型英雄在接下来的战斗用智力加值代替力量或敏捷加值结算攻击骰，当作是英雄脑子转得比对手快并抓住了对手战斗的破绽。
 
-Prerequisite: One talent from the Research Talent Tree.
+要求：研究天赋树的一个天赋。
 
-**Plan:**
+**计划：**
 
-Prior to an encounter the Smart hero can develop a plan of action to handle the situation. Using this talent requires preparation; a Smart hero can’t use this talent when surprised or otherwise unprepared for a particular situation. Creating a plan requires 1 minute.
+在面对有准备的局面时，智力型英雄可以为行动制定一个计划。使用该天赋需要做准备，智力型英雄不能在受到突袭等无准备的情况下制定计划。制定计划需要一分钟的时间。
 
-After creating the plan the Smart hero makes an Intelligence check (DC 10) with a bonus equal to his or her Smart level. The result of the check provides the Smart hero and allies with a circumstance bonus. A Smart hero can’t take 10 or 20 when making this check.
+制定计划后，智力型英雄需进行一次带智力等级加值的智力检定(DC10)。检定结果给英雄及其盟友提供情景加值。这个检定不能取10取20。
 
-|Check Result|Bonus|
+|检定结果|加值|
 |--------------------|---------|
-|9 or lower|+0 (check failed)|
+|9及以下|+0（检定失败）|
 |10–14|+1|
 |15–24|+2|
-|25 or higher|+3|
+|25及以上|+3|
 
-This bonus can be applied to all skill checks and attack rolls made by the Smart hero and his or her allies, but the bonus only lasts for the first 3 rounds after making the plan. After that time, reduce the bonus by 1 point (to a minimum of +0) for every additional round the situation continues, as the vagaries of circumstance begin to unravel even the best-laid plans.
+英雄及其盟友在任何技能检定和攻击骰上获得这个加值，但加值只能持续3轮。之后，加值逐轮-1，直到0，以示计划赶不上变化。
 
-Prerequisite: One talent from the Research Talent Tree.
+要求：研究天赋树的一个天赋。
 
-**Trick:**
+**诡计：**
 
-The Smart hero has the ability to temporarily confuse a target through the use of ploy and deception. The target must have an Intelligence score of 3 or higher to be susceptible to a trick, must be within 30 feet of the hero, and must be able to hear and understand the hero.
+智力型英雄可以通过某些诡计暂时迷惑一个目标。目标的智力必须至少为3，必须在英雄周围30尺内，且能听到并能理解智力型英雄的声音。
 
-To play a trick on a target, the hero must use a full-round action and make an Intelligence check (DC 15), adding his or her Smart level as a bonus. If the Intelligence check succeeds, the target can try to think quickly and ignore the trick.
+要对目标使用诡计，英雄需使用整轮动作来进行一次带智力等级加值的智力检定（DC15）。如果检定通过，目标可尝试识破这个诡计。
 
-The target resists the trick by making a Will saving throw (DC 10 + Smart hero’s class level + Smart hero’s Int bonus). If the saving throw fails, the target becomes dazed (unable to act, but can defend normally) for 1 round.
+目标进行意志豁免（DC10+智力等级+智力调整值）。如果豁免失败，目标会陷入眩晕1轮（无法行动，但可保护自己）。
 
-A trick can only be played on a particular target once per encounter. After the first trick in an encounter, whether the attempt succeeds or not, that target becomes wary and immune to such ploys.  This is a mind-affecting ability.
+一个诡计在一次遭遇战中只能影响一个目标一次。使用过一次诡计后，无论成功与否，目标都会提高警惕，免疫这些套路了。这是一个`影响心灵`类的能力。
 
-Prerequisite: One talent from the Research Talent Tree.
+要求：研究天赋树的一个天赋。
 
 #### 奖励专长
 
-At 2nd, 4th, 6th, 8th, and 10th level, the Smart hero gains a bonus feat. This feat must be selected from the following list, and the Smart hero must meet any prerequisites.
+2、4、6、8、10级时，智力型英雄获得奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
 
-Builder, Cautious, Combat Expertise, Educated, Gearhead, Improved Disarm, Improved Trip, Iron Will, Lightning Reflexes, Meticulous, Studious, Vehicle Expert, Weapon Focus.
+构造师、谨慎、寓守于攻、良好教育、技术宅、精通卸除武器、精通绊摔、钢铁意志、闪电反射、一丝不苟、好学、车辆专家、武器专攻。
 
-## THE DEDICATED HERO
+## 感知型英雄
 
 **Ability:** Wisdom
 
-**Hit Die:** 1d6
+**生命骰：** 1d6
 
 **Action Points:** Dedicated heroes gain a number of action points equal to 5 + one-half their character level, rounded down, at 1st level and every time they attain a new level in this class.
 
@@ -467,7 +468,7 @@ The Dedicated hero’s class skills (and the key ability for each skill) are:
 
 Craft (pharmaceutical, visual art, writing) (Int), Gamble (Wis), Investigate (Int), Knowledge (arcane lore, art, behavioral sciences, business, civics, current events, earth and life sciences, history, physical sciences, popular culture, streetwise, tactics, technology, theology and philosophy) (Int), Listen (Wis), Profession (Wis), Read/Write Language (none), Sense Motive (Wis), Speak Language (none), Spot (Wis), Survival (Wis), and Treat Injury (Wis).
 
-Also, the starting occupation the hero selects can provide additional class skills to choose from.
+此外，角色的职业背景也能提供可选的本职技能。
 
 **1级技能点数：** （5+智力调整值）x4
 
@@ -556,7 +557,7 @@ Advanced Firearms Proficiency, Alertness, Archaic Weapons Proficiency, Attentive
 
 **Ability:** Charisma
 
-**Hit Die:** 1d6
+**生命骰：** 1d6
 
 **Action Points:** Charismatic heroes gain a number of action points equal to 5 + one-half their character level, rounded down, at 1st level and every time they attain a new level in this class.
 
@@ -566,7 +567,7 @@ The Charismatic hero’s class skills (and the key ability for each skill) are:
 
 Bluff (Cha), Craft (visual art, writing) (Int), Diplomacy (Cha), Disguise (Cha), Gather Information (Cha), Handle Animal (Cha), Intimidate (Cha), Knowledge (arcane lore, art, behavioral sciences, business, civics, current events, popular culture, streetwise, theology and philosophy) (Int), Perform (act, dance, keyboards, percussion instruments, sing, stand-up, stringed instruments, wind instruments) (Cha), Profession (Wis), Read/Write Language (none), and Speak Language (none).
 
-Also, the starting occupation the hero selects can provide additional class skills to choose from.
+此外，角色的职业背景也能提供可选的本职技能。
 
 **Skill Points at 1st Level:** (7 + Int modifier) x4.
 

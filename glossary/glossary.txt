@@ -126,7 +126,6 @@ Touch Attacks	接触攻击
 Size	体型
 dodge	闪避
 deflection	偏斜
-Fortitude	强韧
 level	等级
 massive	巨大（伤害）	这个字眼可能代表巨创
 poison	毒素
@@ -249,3 +248,46 @@ Energy Resistance	能量抗力
 Sonic	音波
 Concussion	震荡
 Remain Conscious	维持意识
+Robust	健硕
+Second Wind	回春
+Stamina	耐力
+Alertness	警觉
+Confident	自信
+Endurance	坚忍
+Great Fortitude	强韧加强
+Great	xx加强	Great xx = xx加强
+Bull Rush	冲撞
+Feint	虚招
+Knockout Punch	终结之拳
+Streetfighting	街头战斗
+Toughness	健壮
+Vehicle Expert	车辆专家
+writing	写作
+arcane lore	秘法学识
+art	艺术
+behavioral sciences	行为科学
+business	商学
+earth and life sciences	地球与生命科学
+history	历史
+physical sciences	物理科学
+theology and philosophy	神学与哲学
+Research	研究
+Savant	学者
+Trained Only	需受训
+Linguist	语言专家
+Strategy	战略
+Exploit Weakness	寻找破绽
+surprise	突袭
+circumstance	情景
+Trick	诡计
+Plan	计划
+mind-affecting	影响心灵
+Builder	构造师
+Cautious	谨慎
+Educated	良好教育
+Gearhead	技术宅
+Trip	绊摔
+Iron Will	钢铁意志
+Lightning Reflexes	闪电反射
+Meticulous	一丝不苟
+Studious	好学

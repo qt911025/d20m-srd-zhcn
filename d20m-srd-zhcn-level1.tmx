@@ -806,10 +806,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## THE DEDICATED HERO</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T161644Z" creationid="quentine" creationdate="20190201T161644Z">
+        <seg>## 感知型英雄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## THE FAST HERO</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T133842Z" creationid="quentine" creationdate="20190116T133842Z">
         <seg>## 敏捷型英雄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## THE SMART HERO</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T125503Z" creationid="quentine" creationdate="20190201T125503Z">
+        <seg>## 智力型英雄</seg>
       </tuv>
     </tu>
     <tu>
@@ -1142,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Table: The Smart Hero</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T131337Z" creationid="quentine" creationdate="20190201T131337Z">
+        <seg>### 职业列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### Table: The Strong Hero</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T122625Z" creationid="quentine" creationdate="20190116T122625Z">
@@ -1242,6 +1266,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130409Z" creationid="quentine" creationdate="20190116T130409Z">
         <seg>##### 近战强击天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>##### Research Talent Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T131746Z" creationid="quentine" creationdate="20190201T131746Z">
+        <seg>##### 研究天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>##### Strategy Talent Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T143105Z" creationid="quentine" creationdate="20190201T143105Z">
+        <seg>##### 战略天赋树</seg>
       </tuv>
     </tu>
     <tu>
@@ -1423,6 +1463,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Ability:** Intelligence</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T125514Z" creationid="quentine" creationdate="20190201T125514Z">
+        <seg>**关键属性：** 智力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Ability:** Strength</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T121145Z" creationid="quentine" creationdate="20190116T121145Z">
@@ -1443,6 +1491,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T134001Z" creationid="quentine" creationdate="20190116T134001Z">
         <seg>**行动点：** 敏捷型英雄在1级和升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Action Points:** Smart heroes gain a number of action points equal to 5 + one-half their character level, rounded down, at 1st level and every time they attain a new level in this class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T125846Z" creationid="quentine" creationdate="20190201T125846Z">
+        <seg>**行动点：** 智力型英雄在1级和升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1615,6 +1671,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Exploit Weakness:** After 1 round of combat, the Smart hero can designate one opponent and try to find ways to gain an advantage by using brains over brawn.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T144028Z" creationid="quentine" creationdate="20190201T144028Z">
+        <seg>**寻找破绽：**一轮战斗后，智力型英雄可以指定一个对手用智力取得战斗优势。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Extreme Effort:** The effort requires a full-round action and provides a +2 bonus on the check.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T125032Z" creationid="quentine" creationdate="20190116T125032Z">
@@ -1651,6 +1715,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T141657Z" creationid="quentine" creationdate="20190117T141657Z">
         <seg>**生命骰：** 1d10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Hit Die:** 1d6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T125837Z" creationid="quentine" creationdate="20190201T125830Z">
+        <seg>**生命骰：** 1d6</seg>
       </tuv>
     </tu>
     <tu>
@@ -1735,6 +1807,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Linguist:** With this talent, the Smart hero becomes a master linguist.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T135531Z" creationid="quentine" creationdate="20190201T135531Z">
+        <seg>**语言专家：**拥有该天赋的智力型英雄是个语言大师。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Melee Smash:** The Strong hero receives a +1 bonus on melee damage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130511Z" creationid="quentine" creationdate="20190116T130511Z">
@@ -1747,6 +1827,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T130331Z" creationid="quentine" creationdate="20190117T130331Z">
         <seg>**乘势攻击：** 敏捷型英雄可以使用1点行动点来使用这一天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Plan:**</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T144657Z" creationid="quentine" creationdate="20190201T144657Z">
+        <seg>**计划：**</seg>
       </tuv>
     </tu>
     <tu>
@@ -1839,6 +1927,31 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Robust:** The Tough hero becomes especially robust, gaining a number of hit points equal to his or her Tough level as soon as he or she selects this talent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T153601Z" creationid="quentine" creationdate="20190130T144029Z">
+        <seg>**健硕：**体质型英雄变得尤其健硕，只要获得此天赋，就可获得等同于其体质等级的生命。
+&gt; 译者注：体质等级即体质型职业的职业等级，而非体质点数或者体质调整值，下同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Savant:** Select one of the skills listed in the following paragraph.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T134658Z" creationid="quentine" creationdate="20190201T134658Z">
+        <seg>**学者：**从下列技能中选择一个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Second Wind:** The Tough hero can spend 1 action point to gain a second wind.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190130T144400Z" creationid="quentine" creationdate="20190130T144258Z">
+        <seg>**回春：**体质型英雄可花费1点行动点恢复自己的生命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Secondary Damage:** The amount of damage the hero takes one day after taking initial damage, if he or she fails a second saving throw.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142511Z" creationid="quentine" creationdate="20190115T142351Z">
@@ -1871,6 +1984,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Skill Points at 1st Level:** (9 + Int modifier) x4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T131326Z" creationid="quentine" creationdate="20190201T131326Z">
+        <seg>**1级技能点数：** （9+智力调整值）x4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Skill Points at Each Additional Level:** 3 + Int modifier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T122324Z" creationid="quentine" creationdate="20190116T122324Z">
@@ -1883,6 +2004,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121323Z" creationid="quentine" creationdate="20190117T121323Z">
         <seg>**升级技能点数：** 5+智力调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Skill Points at Each Additional Level:** 9 + Int modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T131334Z" creationid="quentine" creationdate="20190201T131334Z">
+        <seg>**升级技能点数：** 9+智力调整值</seg>
       </tuv>
     </tu>
     <tu>
@@ -1915,6 +2044,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144620Z" creationid="quentine" creationdate="20190117T144620Z">
         <seg>**音波/震荡抗力：** 体质型英雄忽略等于自身体质调整值的音波或震荡伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Stamina:** The Tough hero recovers twice as fast as normal.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190130T144730Z" creationid="quentine" creationdate="20190130T144730Z">
+        <seg>**耐力：**体质型英雄恢复速度加倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Trick:**</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T151736Z" creationid="quentine" creationdate="20190201T151736Z">
+        <seg>**诡计：**</seg>
       </tuv>
     </tu>
     <tu>
@@ -2195,6 +2340,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T125233Z">
         <seg>声望检定的数值为1d20+英雄的声望加值+GM角色的智力调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Smart hero can take this talent multiple times; each time it applies to a different skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T135219Z" creationid="quentine" creationdate="20190201T135219Z">
+        <seg>智力型英雄可多次选择该天赋，每次对应不同的技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Smart hero can’t take 10 or 20 when making this check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T150144Z" creationid="quentine" creationdate="20190201T150144Z">
+        <seg>这个检定不能取10取20。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2847,6 +3008,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A single check covers roughly one minute of a spoken language or one page of a written language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T142652Z" creationid="quentine" creationdate="20190201T142652Z">
+        <seg>一次检定能解决一分钟的口头语言和一页书面语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A stable character is no longer dying, but is still unconscious.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125228Z" creationid="quentine" creationdate="20190115T125228Z">
@@ -2875,6 +3044,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140136Z" creationid="quentine" creationdate="20190115T140136Z">
         <seg>成功的反射豁免能让伤害减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A trick can only be played on a particular target once per encounter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T153905Z" creationid="quentine" creationdate="20190201T153905Z">
+        <seg>一个诡计在一次遭遇战中只能影响一个目标一次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3007,10 +3184,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>After creating the plan the Smart hero makes an Intelligence check (DC 10) with a bonus equal to his or her Smart level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T152645Z" creationid="quentine" creationdate="20190201T145050Z">
+        <seg>制定计划后，智力型英雄需进行一次带智力等级加值的智力检定(DC10)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>After taking damage, a character can recover hit points through natural healing (over the course of days) or through medical technology (somewhat faster).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113240Z" creationid="quentine" creationdate="20190115T113240Z">
         <seg>受到伤害后角色可以自然地恢复生命值（经过几天之后）或者通过医药技术恢复（这样更快）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After that time, reduce the bonus by 1 point (to a minimum of +0) for every additional round the situation continues, as the vagaries of circumstance begin to unravel even the best-laid plans.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T151645Z" creationid="quentine" creationdate="20190201T151645Z">
+        <seg>之后，加值逐轮-1，直到0，以示计划赶不上变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After the first trick in an encounter, whether the attempt succeeds or not, that target becomes wary and immune to such ploys.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T154858Z" creationid="quentine" creationdate="20190201T154203Z">
+        <seg>使用过一次诡计后，无论成功与否，目标都会提高警惕，免疫这些套路了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3047,6 +3248,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alertness, Athletic, Brawl, Confident, Endurance, Great Fortitude, Improved Brawl, Improved Bull Rush, Improved Feint, Knockout Punch, Power Attack, Streetfighting, Toughness, Vehicle Expert.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T125446Z" creationid="quentine" creationdate="20190201T125446Z">
+        <seg>警觉、竞技、拳法、自信、坚忍、强韧加强、精通拳法、精通冲撞、精通虚招、终结之拳、猛力攻击、街头战斗、健壮、车辆专家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All Rights Reserved.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033816Z" creationid="QuenTine" creationdate="20181022T033816Z">
@@ -3059,6 +3268,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121724Z" creationid="quentine" creationdate="20190117T121724Z">
         <seg>下文为敏捷型英雄的职业专长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All of the following are class features of the Smart hero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T131649Z" creationid="quentine" creationdate="20190201T131649Z">
+        <seg>下文为智力型英雄的职业专长</seg>
       </tuv>
     </tu>
     <tu>
@@ -3146,6 +3363,14 @@
         <seg>Also, the starting occupation the character selects can provide additional class skills to choose from.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121157Z" creationid="quentine" creationdate="20190117T121157Z">
+        <seg>此外，角色的职业背景也能提供可选的本职技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, the starting occupation the hero selects can provide additional class skills to choose from.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T131318Z" creationid="quentine" creationdate="20190201T131318Z">
         <seg>此外，角色的职业背景也能提供可选的本职技能。</seg>
       </tuv>
     </tu>
@@ -3455,6 +3680,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 1st, 3rd, 5th, 7th, and 9th level, the Smart hero selects a talent from the following talent trees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T131711Z" creationid="quentine" creationdate="20190201T131711Z">
+        <seg>智力型英雄在1级，3级，5级，7级和9级时可以在以下天赋树中选择一个天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At 1st, 3rd, 5th, 7th, and 9th level, the Strong hero selects a talent from the following talent trees.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T123259Z" creationid="quentine" creationdate="20190116T122926Z">
@@ -3479,10 +3712,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 2nd, 4th, 6th, 8th, and 10th level, the Smart hero gains a bonus feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T155004Z" creationid="quentine" creationdate="20190201T155004Z">
+        <seg>2、4、6、8、10级时，智力型英雄获得奖励专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At 2nd, 4th, 6th, 8th, and 10th level, the Strong hero gains a bonus feat.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T131005Z" creationid="quentine" creationdate="20190116T130956Z">
         <seg>2、4、6、8、10级时，力量型英雄获得奖励专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 2nd, 4th, 6th, 8th, and 10th level, the Tough hero gains a bonus feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190130T145104Z" creationid="quentine" creationdate="20190130T145104Z">
+        <seg>2、4、6、8、10级时，体质型英雄获得奖励专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3615,6 +3864,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Builder, Cautious, Combat Expertise, Educated, Gearhead, Improved Disarm, Improved Trip, Iron Will, Lightning Reflexes, Meticulous, Studious, Vehicle Expert, Weapon Focus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T161635Z" creationid="quentine" creationdate="20190201T160507Z">
+        <seg>构造师、谨慎、寓守于攻、良好教育、技术宅、精通卸除武器、精通绊摔、钢铁意志、闪电反射、一丝不苟、好学、车辆专家、武器专攻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Buying less common objects generally takes a number of hours equal to the purchase DC of the object or service, reflecting the time needed to locate the wanted materials and close the deal.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T140013Z" creationid="QuenTine" creationdate="20181106T140013Z">
@@ -3711,6 +3968,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Computer Use (Int), Craft (chemical, electronic, mechanical, pharmaceutical, structural, visual art, writing) (Int), Decipher Script (Int), Demolitions (Int), Disable Device (Int), Forgery (Int), Investigate (Int), Knowledge (arcane lore, art, behavioral sciences, business, civics, current events, earth and life sciences, history, physical sciences, popular culture, streetwise, tactics, technology, theology and philosophy) (Int), Navigate (Int), Profession (Wis), Read/Write Language (none), Repair (Int), Research (Int), Search (Int), and Speak Language (none).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T131303Z" creationid="quentine" creationdate="20190201T130742Z">
+        <seg>计算机使用（智）、制造（化学、电力、机械、配药、结构、视觉艺术、写作）（智）、文件解读（智）、爆破（智）、解除装置（智）、伪造文书（智）、调查（智）、知识（秘法学识、艺术、行为科学、商学、政法、时事、地球与生命科学、历史、物理科学、流行文化、街头智慧、策略、技术、神学与哲学）（智）、寻路（智）、专业（感）、读写语言（无）、修理（智）、研究（智）、搜索（智）和口头语言（无）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Computer Use, Craft (any single skill), Decipher Script, Demolitions, Disable Device, Forgery, Investigate, Knowledge (any single skill), Navigate, Repair, Research, Search.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T135420Z" creationid="quentine" creationdate="20190201T135420Z">
+        <seg>计算机使用、制造（任一）、文件解读、爆破、解除装置、伪造文书、调查、知识（任一）、寻路、修理、研究、搜索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Computer Use, Craft (chemical, electronic, mechanical, or structural), Knowledge (business, earth and life sciences, physical sciences, or technology), Repair, Research.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T143717Z" creationid="QuenTine" creationdate="20181104T143717Z">
@@ -3779,6 +4052,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T134053Z" creationid="QuenTine" creationdate="20181104T133154Z">
         <seg>制造（配药）、计算机使用、知识（行为科学、地球和生命科学或者技术）、搜索、医疗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a plan requires 1 minute.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T145009Z" creationid="quentine" creationdate="20190201T145009Z">
+        <seg>制定计划需要一分钟的时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4116,6 +4397,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a written language, the bonus applies to a Decipher Script check instead.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T135858Z" creationid="quentine" creationdate="20190201T135858Z">
+        <seg>对于书面语言，该加值则加到文件解读检定上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For every 5 points by which the character exceeds the DC, he or she gains an additional +1 to his or her Wealth bonus.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064004Z" creationid="quentine" creationdate="20190112T064004Z">
@@ -4420,6 +4709,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Intelligence check succeeds, the target can try to think quickly and ignore the trick.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T152924Z" creationid="quentine" creationdate="20190201T152924Z">
+        <seg>如果检定通过，目标可尝试识破这个诡计。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the amount is less than the target’s massive damage threshold, the target is unaffected by the attack.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145403Z" creationid="quentine" creationdate="20190114T145403Z">
@@ -4588,6 +4885,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the check succeeds, for the rest of the combat the Smart hero uses his or her Intelligence bonus instead of either Strength or Dexterity bonus on attack rolls as the hero finds ways to outthink his opponent and notices weaknesses in his opponent’s fighting style.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T144525Z" creationid="quentine" creationdate="20190201T144525Z">
+        <seg>若成功，智力型英雄在接下来的战斗用智力加值代替力量或敏捷加值结算攻击骰，当作是英雄脑子转得比对手快并抓住了对手战斗的破绽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the creature can attack, it applies its Dexterity modifier to its base attack instead of a Strength modifier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T133452Z" creationid="QuenTine" creationdate="20181103T133452Z">
@@ -4692,6 +4997,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the saving throw fails, the target becomes dazed (unable to act, but can defend normally) for 1 round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T153653Z" creationid="quentine" creationdate="20190201T153653Z">
+        <seg>如果豁免失败，目标会陷入眩晕1轮（无法行动，但可保护自己）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the skill selected is already a class skill for the character, he or she also gains a one-time competence bonus for that skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T100344Z" creationid="QuenTine" creationdate="20181104T091246Z">
@@ -4728,6 +5041,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121657Z" creationid="quentine" creationdate="20190117T121657Z">
         <seg>除了所有角色在1级时获得的两个专长，敏捷型英雄初始拥有`擅长简易武器`专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the two feats all characters get at 1st level, a Smart hero begins play with the Simple Weapons Proficiency feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T131635Z" creationid="quentine" creationdate="20190201T131635Z">
+        <seg>除了所有角色在1级时获得的两个专长，智力型英雄初始拥有`擅长简易武器`专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5356,6 +5677,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prerequisite: At least 1 rank in either Read/Write Language or Speak Language for each of three different languages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T144604Z" creationid="quentine" creationdate="20190201T142753Z">
+        <seg>要求：至少有三门不同的语言在读写或口头上拥有等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prerequisite: Evasion.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T124442Z" creationid="quentine" creationdate="20190117T123201Z">
@@ -5400,6 +5729,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T143613Z" creationid="quentine" creationdate="20190117T143613Z">
         <seg>要求：1点能量抗力或不破金身天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisite: One talent from the Research Talent Tree.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T144634Z" creationid="quentine" creationdate="20190201T144634Z">
+        <seg>要求：研究天赋树的一个天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisite: Robust.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190130T145055Z" creationid="quentine" creationdate="20190130T145055Z">
+        <seg>要求：健硕</seg>
       </tuv>
     </tu>
     <tu>
@@ -5456,6 +5801,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130930Z" creationid="quentine" creationdate="20190116T130930Z">
         <seg>要求：近战强击、精通近战强击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prior to an encounter the Smart hero can develop a plan of action to handle the situation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T144732Z" creationid="quentine" creationdate="20190201T144732Z">
+        <seg>在面对有准备的局面时，智力型英雄可以为行动制定一个计划。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5576,6 +5929,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134140Z" creationid="quentine" creationdate="20190115T134140Z">
         <seg>烟雾同样影响可见度，烟雾中的角色处于半隐藏状态，并有20%失手率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So, the hero recovers 2 hit points per character level per evening of rest, 2 points of temporary ability damage per evening of rest, and awakens in half the normal time after being knocked unconscious.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190130T145041Z" creationid="quentine" creationdate="20190130T145041Z">
+        <seg>意即，英雄每晚休息后恢复两倍于角色等级数的生命、两点属性伤害，以及被攻击昏迷后只需花平常一半的时间清醒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5772,6 +6133,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DC for the check depends on the situation: DC 15 if the language is in the same group as a language the hero has as a Read/Write Language or Speak Language skill; DC 20 if the language is unrelated to any other languages the hero knows; and DC 25 if the language is ancient or unique.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T142521Z" creationid="quentine" creationdate="20190201T142521Z">
+        <seg>检定DC取决于：如果语言与英雄已掌握的口头或书面语言属于同一语族，DC15；与英雄掌握的语言没关系的，DC20；古代或很独特的语言，DC25。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Difficulty Class for a save is determined by the attack itself.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T130528Z" creationid="quentine" creationdate="20190114T130528Z">
@@ -5860,6 +6229,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Smart hero gets to add a bonus equal to his or her Smart level when making checks with that skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T135141Z" creationid="quentine" creationdate="20190201T135006Z">
+        <seg>智力型英雄进行该技能的检定时会加上等同于其智力等级的加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Smart hero has a natural aptitude for study and fact-finding.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T131856Z" creationid="quentine" creationdate="20190201T131822Z">
+        <seg>智力型英雄天资聪明，擅长学术研究与发现原理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Smart hero has the ability to temporarily confuse a target through the use of ploy and deception.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T152050Z" creationid="quentine" creationdate="20190201T152050Z">
+        <seg>智力型英雄可以通过某些诡计暂时迷惑一个目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Smart hero has the brainpower to see solutions in most situations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T143725Z" creationid="quentine" creationdate="20190201T143725Z">
+        <seg>智力型英雄在大多数情况下都有想出解决办法的力量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Smart hero uses a move action and makes an Intelligence check (DC 15) with a bonus equal to his or her Smart level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T152709Z" creationid="quentine" creationdate="20190201T144150Z">
+        <seg>智力型英雄用一个移动动作进行带智力等级加值的智力检定（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Smart hero’s class skills (and the key ability for each skill) are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T125857Z" creationid="quentine" creationdate="20190201T125857Z">
+        <seg>智力型英雄的本职技能（以及技能的关键属性）如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Strong hero has an innate talent for finding weaknesses in objects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T125729Z" creationid="quentine" creationdate="20190116T125729Z">
@@ -5894,8 +6311,8 @@
       <tuv lang="EN-US">
         <seg>The Tough hero is particularly resilient thanks to the following talents.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144828Z" creationid="quentine" creationdate="20190117T144828Z">
-        <seg>体质型英雄可以通过选择以下天赋更加能抗。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190130T142015Z" creationid="quentine" creationdate="20190117T144828Z">
+        <seg>体质型英雄可以通过选择以下天赋变得更加顽强。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6164,6 +6581,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The check is made with a bonus equal to the hero’s Smart level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T135801Z" creationid="quentine" creationdate="20190201T135801Z">
+        <seg>检定会再加上一个等同于其智力等级的加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The condition typically lasts 1 round.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125415Z" creationid="quentine" creationdate="20190115T125415Z">
@@ -6260,6 +6685,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The hero can choose to succumb to unconsciousness if he or she thinks that doing so might prevent him or her from taking more damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190130T143643Z" creationid="quentine" creationdate="20190130T143643Z">
+        <seg>如果英雄想避免受到更多伤害，可以选择不再硬撑，陷入昏迷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The hero can’t hear and takes a –4 penalty on initiative checks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121707Z" creationid="quentine" creationdate="20190115T121707Z">
@@ -6280,6 +6713,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121031Z" creationid="quentine" creationdate="20190115T121031Z">
         <seg>英雄由于恐惧而动弹不得，其敏捷加值会丧失，并且不能做出动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The hero must have ranks in the skill if it is Trained Only.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T135028Z" creationid="quentine" creationdate="20190201T134851Z">
+        <seg>需受训的技能必须习得这个技能才可选。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6380,6 +6821,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result of the check provides the Smart hero and allies with a circumstance bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T150626Z" creationid="quentine" creationdate="20190201T150118Z">
+        <seg>检定结果给英雄及其盟友提供情景加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The size of the falling object determines the save DC.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140147Z" creationid="quentine" creationdate="20190115T140147Z">
@@ -6416,6 +6865,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134651Z" creationid="quentine" creationdate="20190115T134651Z">
         <seg>目标可以闭气等同于其体质值的回合数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target must have an Intelligence score of 3 or higher to be susceptible to a trick, must be within 30 feet of the hero, and must be able to hear and understand the hero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T152315Z" creationid="quentine" creationdate="20190201T152315Z">
+        <seg>目标的智力必须至少为3，必须在英雄周围30尺内，且能听到并能理解智力型英雄的声音。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target resists the trick by making a Will saving throw (DC 10 + Smart hero’s class level + Smart hero’s Int bonus).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T153631Z" creationid="quentine" creationdate="20190201T153128Z">
+        <seg>目标进行意志豁免（DC10+智力等级+智力调整值）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6476,6 +6941,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thereafter, the hero gains +1 hit point with each level of Tough he or she gains.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T125547Z" creationid="quentine" creationdate="20190130T144238Z">
+        <seg>此外，英雄每升一级体质等级，都会获得一点生命值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These allegiances are indications of what the character values in life, and may encompass people, organizations, or ideals.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T142245Z" creationid="QuenTine" creationdate="20181103T142245Z">
@@ -6512,6 +6985,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T135045Z" creationid="QuenTine" creationdate="20181104T135045Z">
         <seg>这些大大小小的企业家对统合商业计划、搜集资源以及抓住新商机都很有一套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These talents can be selected in any order, but before the hero can select a talent from this tree he or she must have previously selected at least one talent from the Research Talent Tree.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T143747Z" creationid="quentine" creationdate="20190201T143747Z">
+        <seg>以下天赋可按任意顺序选取，但前提是至少在研究天赋树选择了一个天赋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6576,6 +7057,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T081731Z" creationid="QuenTine" creationdate="20181104T081615Z">
         <seg>这种信仰包含了利他主义、尊重生命、关心他人的尊严。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This bonus can be applied to all skill checks and attack rolls made by the Smart hero and his or her allies, but the bonus only lasts for the first 3 rounds after making the plan.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T151406Z" creationid="quentine" creationdate="20190201T150153Z">
+        <seg>英雄及其盟友在任何技能检定和攻击骰上获得这个加值，但加值只能持续3轮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6676,9 +7165,25 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This feat must be selected from the following list, and the Smart hero must meet any prerequisites.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T155020Z" creationid="quentine" creationdate="20190201T155020Z">
+        <seg>奖励专长必须从下表中选择，在选择时必须满足该专长的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This feat must be selected from the following list, and the Strong hero must meet any prerequisites.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T131048Z" creationid="quentine" creationdate="20190116T131048Z">
+        <seg>奖励专长必须从下表中选择，在选择时必须满足该专长的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This feat must be selected from the following list, and the Tough hero must meet any prerequisites.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190130T145111Z" creationid="quentine" creationdate="20190130T145111Z">
         <seg>奖励专长必须从下表中选择，在选择时必须满足该专长的要求。</seg>
       </tuv>
     </tu>
@@ -6696,6 +7201,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135248Z" creationid="QuenTine" creationdate="20181104T074535Z">
         <seg>包括某领袖、家族或者是由相关个体所组成的团体（例如一队英雄或是一班秘密特工），抑或是大组织中的小团体（例如玩家所在的小队或者排，或是由角色负责安全的团队）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a mind-affecting ability.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T154948Z" creationid="quentine" creationdate="20190201T154948Z">
+        <seg>这是一个`影响心灵`类的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6780,6 +7293,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This talent does not increase the Tough hero’s hit points beyond the character’s full normal total.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190130T144643Z" creationid="quentine" creationdate="20190130T144643Z">
+        <seg>生命值不能恢复到超过生命值上限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This talent stacks with increased speed (10 feet total).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T131639Z" creationid="quentine" creationdate="20190117T131639Z">
@@ -6848,6 +7369,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T133934Z" creationid="QuenTine" creationdate="20181106T133934Z">
         <seg>任何时候，想要了解一个角色的大体经济状况，参考下表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To play a trick on a target, the hero must use a full-round action and make an Intelligence check (DC 15), adding his or her Smart level as a bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T152813Z" creationid="quentine" creationdate="20190201T152627Z">
+        <seg>要对目标使用诡计，英雄需使用整轮动作来进行一次带智力等级加值的智力检定（DC15）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6928,6 +7457,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T112630Z" creationid="QuenTine" creationdate="20181022T112630Z">
         <seg>产品识别的使用：你同意不使用任何产品识别，包括指示相容性，除非在与那个PI的每一个元素的所有者订立的另一个独立的协议中特许。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using this talent requires preparation; a Smart hero can’t use this talent when surprised or otherwise unprepared for a particular situation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T144948Z" creationid="quentine" creationdate="20190201T144948Z">
+        <seg>使用该天赋需要做准备，智力型英雄不能在受到突袭等无准备的情况下制定计划。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7076,10 +7613,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the Tough hero’s hit points reach –1, the hero can perform as though he or she were disabled, making either an attack action or a move action every round until the hero reaches –10 hit points (and dies) or the hero’s hit points return to 1 or higher.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190130T143513Z" creationid="quentine" creationdate="20190130T142127Z">
+        <seg>体质型英雄生命值降到-1时，仍可处于瘫痪状态，每轮可以做单个攻击或移动动作，直到生命降到-10死亡，或者恢复到1或者更高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When the character fails one of these Constitution checks, he or she begins to suffocate or drown.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133532Z" creationid="quentine" creationdate="20190115T133532Z">
         <seg>当角色体质检定失败，角色将会开始窒息或溺水。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the hero does this, he or she recovers a number of hit points equal to his or her Constitution modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190130T144522Z" creationid="quentine" creationdate="20190130T144522Z">
+        <seg>恢复量等于英雄的体质调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7116,6 +7669,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whenever the hero encounters a new language, either spoken or written, that he or she does not know the Smart hero can make an Intelligence check to determine if he or she can understand it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T135638Z" creationid="quentine" creationdate="20190201T135638Z">
+        <seg>每当英雄遇到一门陌生的语言，无论是口语还是书面，英雄可以进行一次智力检定来决定英雄是否理解它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Whether this has a positive or negative connotation depends on the point of view of the person who recognizes the hero.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T123500Z">
@@ -7126,8 +7687,16 @@
       <tuv lang="EN-US">
         <seg>With the GM’s permission, the character gains a +2 circumstance bonus on Charisma-based skill checks when dealing with someone of the same allegiance—as long as the character has had some interaction with the other character to discover the connections and bring the bonus into play.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T083900Z" creationid="QuenTine" creationdate="20181104T082156Z">
-        <seg>在GM的允许下，角色可以在与同立场角色进行魅力检定时获得+2的环境加值。这一环境加值必须是目标角色发现这种联系才有。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T150554Z" creationid="QuenTine" creationdate="20181104T082156Z">
+        <seg>在GM的允许下，角色可以在与同立场角色进行魅力检定时获得+2的情景加值。这一环境加值必须是目标角色发现这种联系才有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With this special ability, a Smart hero can glean enough meaning from a conversation or document to ascertain the basic message, but this ability in no way simulates actually being able to converse or fluently read and write in a given language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T142614Z" creationid="quentine" creationdate="20190201T142614Z">
+        <seg>有这个特殊能力的英雄可以充分确定对话或文件的基本含义，但并不意味着英雄能流利地掌握这门语言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7244,6 +7813,24 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Check Result|Bonus|
+|--------------------|---------|
+|9 or lower|+0 (check failed)|
+|10–14|+1|
+|15–24|+2|
+|25 or higher|+3|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T150247Z" creationid="quentine" creationdate="20190201T150247Z">
+        <seg>|检定结果|加值|
+|--------------------|---------|
+|9及以下|+0（检定失败）|
+|10–14|+1|
+|15–24|+2|
+|25及以上|+3|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Class Features|Defense Bonus|Reputation Bonus|
 |:-------|------------|------------|---------|-----------|:----------|--------|------------|
 |1st|+1|+1|+0|+0|Talent|+1|+0|
@@ -7270,6 +7857,36 @@
 |8th|+8/+3|+4|+2|+2|奖励专长|+4|+1|
 |9th|+9/+4|+4|+3|+3|天赋|+5|+2|
 |10th|+10/+5|+5|+3|+3|奖励专长|+5|+2|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Class Features|Defense Bonus|Reputation Bonus|
+|:-------|---------|-------|-------|--------|:--------|----------|--------|
+|1st|+0|+0|+0|+1|Talent|+0|+1|
+|2nd|+1|+0|+0|+2|Bonus feat|+1|+1|
+|3rd|+1|+1|+1|+2|Talent|+1|+1|
+|4th|+2|+1|+1|+2|Bonus feat|+1|+2|
+|5th|+2|+1|+1|+3|Talent|+2|+2|
+|6th|+3|+2|+2|+3|Bonus feat|+2|+2|
+|7th|+3|+2|+2|+4|Talent|+2|+3|
+|8th|+4|+2|+2|+4|Bonus feat|+3|+3|
+|9th|+4|+3|+3|+4|Talent|+3|+3|
+|10th|+5|+3|+3|+5|Bonus feat|+3|+4|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T131611Z" creationid="quentine" creationdate="20190201T131611Z">
+        <seg>|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|职业专长|防御加值|声望加值|
+|:-------|---------|-------|-------|--------|:--------|----------|--------|
+|1st|+0|+0|+0|+1|天赋|+0|+1|
+|2nd|+1|+0|+0|+2|奖励专长|+1|+1|
+|3rd|+1|+1|+1|+2|天赋|+1|+1|
+|4th|+2|+1|+1|+2|奖励专长|+1|+2|
+|5th|+2|+1|+1|+3|天赋|+2|+2|
+|6th|+3|+2|+2|+3|奖励专长|+2|+2|
+|7th|+3|+2|+2|+4|天赋|+2|+3|
+|8th|+4|+2|+2|+4|奖励专长|+3|+3|
+|9th|+4|+3|+3|+4|天赋|+3|+3|
+|10th|+5|+3|+3|+5|奖励专长|+3|+4|</seg>
       </tuv>
     </tu>
     <tu>
