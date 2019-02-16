@@ -78,7 +78,7 @@ Diplomacy	交涉
 Disguise	易容
 Perform	表演
 act	演戏
-stand-up	脱口秀
+stand-up	单口相声
 sing	唱歌
 act	演戏
 Forgery	伪造文书
@@ -291,3 +291,53 @@ Iron Will	钢铁意志
 Lightning Reflexes	闪电反射
 Meticulous	一丝不苟
 Studious	好学
+Gamble	赌博
+Empathic	移情
+Empathic	移情
+Empathy	移情
+Intuition	直觉
+medical kit	急救箱
+surgery kit	手术箱
+Healing Touch	救死扶伤
+Healing Knack	治疗诀窍
+Insightful	洞见
+Emphasis	专精
+Skill Emphasis	技能专精
+Aware	觉察
+Faith	信念
+Cool Under Pressure	沉着
+Advanced Firearms Proficiency	高级擅长火器
+Attentive	听者有心
+Deceptive	欺诈
+Far Shot	远程射击
+Medical Expert	医药专家
+Surgery	手术
+Track	追踪
+dance	舞蹈
+keyboards	键盘乐器
+percussion instruments	打击乐器
+stringed instruments	弦乐器
+wind instruments	管乐器
+indifferent	不关心
+unfriendly	不友善
+hostile	敌对
+Favor	求援
+plot	情节
+threaten	威胁
+Fast-Talk	花言巧语
+Dazzle	虚张声势
+Taunt	嘲讽
+Leadership	领导
+Coordinate	协调
+Inspiration	激励
+morale	士气
+Agile Riposte	借机反击
+Creative	富有创意
+Frightful Presence	气势凶猛
+Low Profile	低调
+Renown	闻名
+Trustworthy	值得信赖
+Multiclass	跨职
+multiple attacks	多次攻击
+Base Attack Bonus	基础攻击加值
+advanced class	高级职业

@@ -636,7 +636,7 @@ At 5th level, a Personality develops such a force of personal magnetism that he 
 The target makes a Will saving throw to avoid being persuaded by the Personality’s words and actions. The DC is 10 + Personality’s class level + Personality’s Charisma bonus.
 This ability doesn’t enable the Personality to control the target, but the target perceives the Personality’s words and actions in the most favorable way. The Personality can try to give the target orders, but he or she must win an opposed Charisma check to convince the target to perform any actions the target wouldn’t normally undertake. The target never obeys suicidal or obviously harmful orders, and any act by the Personality or his or her allies that threatens the target breaks the mood and clears the target’s head. Otherwise, a target remains won over for 1 minute per Personality level.
 After the duration expires, the GM determines the reaction and attitude of the target based on what the Personality compelled the target to do.
-This is a Mind-Affecting ability.
+这是一个`影响心灵`的能力。
 Compelling Performance
 At 10th level, a Personality’s force of personal magnetism increases to the point that he or she can arouse a single emotion of his or her choice—despair, hope, or rage—in a target. To use this ability, the Personality must spend 1 action point. The emotion he or she arouses affects one target (a GM character) within 15 feet of the Personality (or within 15 feet of a television, radio, or telephone that broadcasts the Personality’s performance). The performance requires a full-round action, and its effects on the target last for 1d4+1 rounds.
 The target makes a Will saving throw. The DC is 10 + Personality’s class level + Personality’s Charisma bonus. If the target succeeds at the saving throw, he or she is immune to the compulsion of this performance. If the target fails, he or she reacts to the emotion as described below.
@@ -686,7 +686,7 @@ A Negotiator of 4th level or higher can talk his or her way out of trouble. Eith
 To initiate this talent, the Negotiator must spend a full-round action talking to his or her opponent. The opponent makes a Will saving throw. The DC is equal to 10 + Negotiator’s class level + Negotiator’s Charisma bonus. If the save fails, the opponent stops fighting. If the save succeeds, the opponent continues as normal.
 At 7th level, a Negotiator can talk down a number of opponents equal to his or her Charisma bonus within 15 feet of his or her position or within 15 feet of a television, radio, or telephone broadcasting the Negotiator’s message.
 At 10th level, the range extends to 30 feet and covers all opponents who can hear and understand the Negotiator’s voice.
-This is a Mind-Affecting ability.
+这是一个`影响心灵`的能力。
 No Sweat
 Starting at 5th level, whenever a Negotiator spends 1 action point to improve the result of a die roll, he or she rolls an additional 1d6. The Negotiator can then select the highest die roll to add to his or her d20 roll.
 Sow Distrust
@@ -694,4 +694,4 @@ A Negotiator of 8th level or higher can turn one character against another. The 
 The target makes a Will save. The DC is equal to 10 + Negotiator’s class level + Negotiator’s Charisma bonus. If the target fails the save, his or her attitude toward the other designated character worsens by one step: helpful turns to friendly, friendly to indifferent, indifferent to unfriendly, unfriendly to hostile (see the Diplomacy skill). The target makes a Will save whenever the Negotiator uses this talent against him or her. As long as the target continues to fail the Will save, the Negotiator can continue taking full-round actions to worsen the target’s attitude toward a designated character. When the target’s attitude drops to hostile, he or she attacks the designated character.
 A successful Will save doesn’t restore previous attitude shifts, but it does render the target immune for 24 hours to further attempts by the Negotiator to sow distrust.
 The Negotiator can’t use this talent on his or her allies.
-This is a Mind-Affecting ability.
+这是一个`影响心灵`的能力。

@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Multiclass Characters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T081505Z" creationid="quentine" creationdate="20190216T081505Z">
+        <seg>## 跨职角色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Nation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T074905Z" creationid="QuenTine" creationdate="20181104T074905Z">
@@ -806,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## THE CHARISMATIC HERO</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T111716Z" creationid="quentine" creationdate="20190202T111716Z">
+        <seg>## 魅力型英雄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## THE DEDICATED HERO</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T161644Z" creationid="quentine" creationdate="20190201T161644Z">
@@ -958,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Ability Increases</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T091119Z" creationid="quentine" creationdate="20190216T091119Z">
+        <seg>### 属性增长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### Action Points</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114609Z" creationid="quentine" creationdate="20190116T114609Z">
@@ -966,10 +990,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Adding a Second Class</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T091253Z" creationid="quentine" creationdate="20190216T091234Z">
+        <seg>### 获得新职业</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Advancing a Level</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T093214Z" creationid="quentine" creationdate="20190216T093214Z">
+        <seg>### 升一级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Age</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T094446Z" creationid="quentine" creationdate="20190216T094419Z">
+        <seg>### 年龄的增长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### BASIC TASK RESOLUTION SYSTEM</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T045803Z" creationid="QuenTine" creationdate="20181024T044605Z">
         <seg>### 基本事件处理机制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Base Attack Bonus</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T082645Z" creationid="quentine" creationdate="20190216T082645Z">
+        <seg>### 基础攻击加值</seg>
       </tuv>
     </tu>
     <tu>
@@ -998,10 +1054,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Class and Level Features</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T081953Z" creationid="quentine" creationdate="20190216T081953Z">
+        <seg>### 职业与等级专长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### Dead (–10 hit points or lower)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T111208Z" creationid="quentine" creationdate="20190115T111208Z">
         <seg>### 死亡（-10及更低的生命）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Defense Bonus</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T084007Z" creationid="quentine" creationdate="20190216T084007Z">
+        <seg>### 防御加值</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,6 +1110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Feats</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T090652Z" creationid="quentine" creationdate="20190216T090652Z">
+        <seg>### 专长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### Healing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113045Z" creationid="quentine" creationdate="20190115T113045Z">
@@ -1062,10 +1142,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Hit Points</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T082519Z" creationid="quentine" creationdate="20190216T082519Z">
+        <seg>### 生命值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### Increases in Constitution Score and Current Hit Points</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T114046Z" creationid="quentine" creationdate="20190115T114046Z">
         <seg>### 体质值与当前生命值的增加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Level</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T082157Z" creationid="quentine" creationdate="20190216T082157Z">
+        <seg>### 等级</seg>
       </tuv>
     </tu>
     <tu>
@@ -1142,10 +1238,50 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Reputation Bonus</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T084036Z" creationid="quentine" creationdate="20190216T084036Z">
+        <seg>### 声望加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Saving Throws</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T083924Z" creationid="quentine" creationdate="20190216T083924Z">
+        <seg>### 豁免</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Skills</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T084057Z" creationid="quentine" creationdate="20190216T084057Z">
+        <seg>### 技能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### Starting Feats</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115355Z" creationid="quentine" creationdate="20190116T115355Z">
         <seg>### 起始专长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Table: The Charismatic Hero</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T113353Z" creationid="quentine" creationdate="20190202T113353Z">
+        <seg>### 职业列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Table: The Dedicated Hero</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T030047Z" creationid="quentine" creationdate="20190202T030047Z">
+        <seg>### 职业列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>##### Charm Talent Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T114954Z" creationid="quentine" creationdate="20190202T114954Z">
+        <seg>##### 魅惑天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>##### Damage Reduction Talent Tree</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T142855Z" creationid="quentine" creationdate="20190117T142855Z">
@@ -1226,6 +1370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121922Z" creationid="quentine" creationdate="20190117T121922Z">
         <seg>##### 防御天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>##### Empathic Talent Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T030608Z" creationid="quentine" creationdate="20190202T030608Z">
+        <seg>##### 移情天赋树</seg>
       </tuv>
     </tu>
     <tu>
@@ -1246,6 +1398,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>##### Fast-Talk Talent Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T133541Z" creationid="quentine" creationdate="20190215T133541Z">
+        <seg>##### 花言巧语天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>##### Healing Talent Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T042222Z" creationid="quentine" creationdate="20190202T042222Z">
+        <seg>##### 治疗天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>##### Ignore Hardness Talent Tree</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T125700Z" creationid="quentine" creationdate="20190116T125700Z">
@@ -1258,6 +1426,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T131255Z" creationid="quentine" creationdate="20190117T131255Z">
         <seg>##### 加速天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>##### Insightful Talent Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T100748Z" creationid="quentine" creationdate="20190202T100748Z">
+        <seg>##### 洞见天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>##### Leadership Talent Tree</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T072946Z" creationid="quentine" creationdate="20190216T072946Z">
+        <seg>##### 领导天赋树</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Some characters are charming to members of the opposite gender, others to members of the same gender.) The bonus is equal to the character’s Charismatic level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T124915Z" creationid="quentine" creationdate="20190202T120119Z">
+        <seg>（有的角色对异性而不是同性同伴有魅力）加值等于角色的魅力等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(That is, once the character succeeds at the saving throw, he or she is no longer on fire.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132436Z" creationid="quentine" creationdate="20190115T132436Z">
@@ -1330,6 +1522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T123048Z" creationid="quentine" creationdate="20190117T123048Z">
         <seg>（英雄无法活动时无法发动此天赋）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The maximum rank for a class skill is 3 + character level.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T084716Z" creationid="quentine" creationdate="20190216T084716Z">
+        <seg>（职业技能等级上限=3+角色等级）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1447,6 +1647,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Ability:** Charisma</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T111725Z" creationid="quentine" creationdate="20190202T111725Z">
+        <seg>**关键属性：** 魅力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Ability:** Constitution</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T141649Z" creationid="quentine" creationdate="20190117T141649Z">
@@ -1479,10 +1687,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Ability:** Wisdom</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T024940Z" creationid="quentine" creationdate="20190202T024940Z">
+        <seg>**关键属性：** 感知</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Acid Resistance:** The Tough hero ignores an amount of acid damage equal to his or her Constitution modifier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144252Z" creationid="quentine" creationdate="20190117T144252Z">
         <seg>**酸系抗力：** 体质型英雄忽略等于自身体质调整值的酸性伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Action Points:** Charismatic heroes gain a number of action points equal to 5 + one-half their character level, rounded down, at 1st level and every time they attain a new level in this class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T111802Z" creationid="quentine" creationdate="20190202T111802Z">
+        <seg>**行动点：** 魅力型英雄在1级和升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Action Points:** Dedicated heroes gain a number of action points equal to 5 + one-half their character level, rounded down, at 1st level and every time they attain a new level in this class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T024959Z" creationid="quentine" creationdate="20190202T024959Z">
+        <seg>**行动点：** 感知型英雄在1级和升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1551,10 +1783,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Aware:** The Dedicated hero is intuitively aware of his or her surroundings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T102949Z" creationid="quentine" creationdate="20190202T102949Z">
+        <seg>**觉察：**感知型英雄可以凭直觉感受周遭环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Base Attack Bonus:** The character’s base attack bonus and number of attacks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115550Z" creationid="quentine" creationdate="20190116T115550Z">
-        <seg>**基本攻击加值：** 角色的基本攻击加值与攻击次数。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T083808Z" creationid="quentine" creationdate="20190116T115550Z">
+        <seg>**基础攻击加值：** 角色的基本攻击加值与攻击次数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1599,6 +1839,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Captivate:** The Charismatic hero has the ability to temporarily beguile a target through the use of words and bearing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190203T041409Z" creationid="quentine" creationdate="20190202T131807Z">
+        <seg>**夺目：**魅力型英雄能够用言语和所持物骗取目标的注意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Charm:** The Charismatic hero gets a competence bonus on all Charisma-based skill checks made to influence members of his chosen gender.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T071157Z" creationid="quentine" creationdate="20190202T115745Z">
+        <seg>**魅惑：**解锁时，魅力型英雄指定一个性别，在用魅力相关的技能检定影响该性别的所有同伴时，获得一个表现加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Class Features:** Level-dependent class features, each explained in the section that follows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115951Z" creationid="quentine" creationdate="20190116T115951Z">
@@ -1611,6 +1867,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144333Z" creationid="quentine" creationdate="20190117T144333Z">
         <seg>**寒系抗力：** 体质型英雄忽略等于自身体质调整值的寒冷伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Cool Under Pressure:** The Dedicated hero selects a number of skills equal to 3 + the hero’s Wisdom modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T104859Z" creationid="quentine" creationdate="20190202T104859Z">
+        <seg>**沉着：**感知型英雄选择（3+感知调整值）个技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Coordinate:** The Charismatic hero has a knack for getting people to work together.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T073200Z" creationid="quentine" creationdate="20190216T073200Z">
+        <seg>**协调：** 魅力型英雄在组织工作上很有一套。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1639,6 +1911,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Dazzle:** The Charismatic hero has the ability to dazzle a target through sheer force of personality, a winning smile, and fast-talking.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T025249Z" creationid="quentine" creationdate="20190215T135406Z">
+        <seg>**虚张声势：** 魅力型英雄能够用纯粹的个人魅力、胜利的微笑或者花言巧语唬住目标，影响目标发挥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Defense Bonus:** The character’s bonus to Defense.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120012Z" creationid="quentine" creationdate="20190116T120012Z">
@@ -1659,6 +1939,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144416Z" creationid="quentine" creationdate="20190117T144416Z">
         <seg>**电系抗力：** 体质型英雄忽略等于自身体质调整值的电力伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Empathy:** The Dedicated hero has a knack for being sensitive to the feelings and thoughts of others without having those feelings and thoughts communicated in any objectively explicit manner.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T035627Z" creationid="quentine" creationdate="20190202T031116Z">
+        <seg>**移情：**感知型英雄善识时务，不需言传便可领会他人的意思。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1687,6 +1975,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Faith:** The Dedicated hero has a great deal of faith.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T104149Z" creationid="quentine" creationdate="20190202T104149Z">
+        <seg>**信念：**感知型英雄拥有强烈的信念。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Fast-Talk:** The Charismatic hero has a way with words when attempting to con and deceive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T134200Z" creationid="quentine" creationdate="20190215T134200Z">
+        <seg>**花言巧语：** 魅力型英雄有一套坑蒙拐骗的话术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Favor:** The Charismatic hero has the ability to acquire minor aid from anyone he or she meets.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190203T041125Z" creationid="quentine" creationdate="20190202T122139Z">
+        <seg>**求援：**魅力型英雄能够请任何所遇之人帮忙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Fire Resistance:** The Tough hero ignores an amount of fire damage equal to his or her Constitution modifier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144443Z" creationid="quentine" creationdate="20190117T144443Z">
@@ -1707,6 +2019,38 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T131548Z" creationid="quentine" creationdate="20190114T130648Z">
         <seg>**强韧豁免：** 这一豁免代表角色在重大攻击下屹立不倒的能力和在受到类似毒素和麻痹攻击时保持活力的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Greater Inspiration:** The Charismatic hero can inspire his or her allies to even greater heights, bolstering them and improving their chances of success.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T075150Z" creationid="quentine" creationdate="20190216T075150Z">
+        <seg>**高级激励：** 魅力型英雄可以更有效地激励友方，在背后支持他们，提高他们的成功机会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Healing Knack:** The hero has a knack for the healing arts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T043506Z" creationid="quentine" creationdate="20190202T042622Z">
+        <seg>**治疗诀窍：**英雄在治疗上很有一套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Healing Touch 1:** The Dedicated hero’s ability to restore damage with a medical kit or perform surgery with a surgery kit increases by +2 hit points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T044125Z" creationid="quentine" creationdate="20190202T044125Z">
+        <seg>**一级救死扶伤：**感知型英雄用急救箱或手术箱治疗伤害时额外恢复2点生命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Healing Touch 2:** The Dedicated hero’s ability to restore damage with a medical kit or perform surgery with a surgery kit increases by +2 hit points, which stacks with healing touch 1 for a total of +4 hit points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T044255Z" creationid="quentine" creationdate="20190202T044255Z">
+        <seg>**二级救死扶伤：**与一级救死扶伤叠加，额外恢复4点生命。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1739,6 +2083,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130001Z" creationid="quentine" creationdate="20190116T130001Z">
         <seg>**无视硬度：** 力量型英雄无视物体2点硬度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Improved Aid Another:** The Dedicated hero’s bonus on attempts to aid another increases by +1 on a successful aid another check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T034817Z" creationid="quentine" creationdate="20190202T034817Z">
+        <seg>**精通救急：**感知型英雄在进行救急检定时额外获得一点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1795,6 +2147,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142255Z" creationid="quentine" creationdate="20190115T142255Z">
         <seg>**初始伤害：** 潜伏期过后病患受到的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Inspiration:** The Charismatic hero can inspire his or her allies, bolstering them and improving their chances of success.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T074257Z" creationid="quentine" creationdate="20190216T074257Z">
+        <seg>**激励：** 魅力型英雄可以激励友方，在背后支持他们，提高他们的成功机会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Intuition:** The Dedicated hero has an innate ability to sense trouble in the air.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T035840Z" creationid="quentine" creationdate="20190202T035840Z">
+        <seg>**直觉：**感知型英雄善于感知气氛中的紧张。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1960,6 +2328,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Skill Emphasis:** The Dedicated hero chooses a single skill and receives a +3 bonus on all checks with that skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T101836Z" creationid="quentine" creationdate="20190202T101725Z">
+        <seg>**技能专精：**感知型英雄选择一个技能，使这个技能在检定时拥有3点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Skill Points at 1st Level:** (3 + Int modifier) x4.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T142315Z" creationid="quentine" creationdate="20190117T142315Z">
@@ -1984,6 +2360,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Skill Points at 1st Level:** (7 + Int modifier) x4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T113340Z" creationid="quentine" creationdate="20190202T113340Z">
+        <seg>**1级技能点数：** （7+智力调整值）x4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Skill Points at 1st Level:** (9 + Int modifier) x4.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T131326Z" creationid="quentine" creationdate="20190201T131326Z">
@@ -2004,6 +2388,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121323Z" creationid="quentine" creationdate="20190117T121323Z">
         <seg>**升级技能点数：** 5+智力调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Skill Points at Each Additional Level:** 7 + Int modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T113347Z" creationid="quentine" creationdate="20190202T113347Z">
+        <seg>**升级技能点数：** 7+智力调整值</seg>
       </tuv>
     </tu>
     <tu>
@@ -2052,6 +2444,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190130T144730Z" creationid="quentine" creationdate="20190130T144730Z">
         <seg>**耐力：**体质型英雄恢复速度加倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Taunt:** The Charismatic hero has the ability to temporarily rattle a target through the use of insults and goading.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T072106Z" creationid="quentine" creationdate="20190216T072106Z">
+        <seg>**嘲讽：** 魅力型英雄可以辱骂和刺激目标</seg>
       </tuv>
     </tu>
     <tu>
@@ -2328,6 +2728,46 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Charismatic hero can concentrate to keep a target captivated for additional rounds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T133114Z" creationid="quentine" creationdate="20190215T133051Z">
+        <seg>魅力型英雄可以专门持续吸引目标的注意，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Charismatic hero can only charm Gamemaster characters with attitudes of indifferent or better.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T120513Z" creationid="quentine" creationdate="20190202T120513Z">
+        <seg>魅力型英雄只能魅惑对其态度为不关心及以上的GM角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Charismatic hero can’t inspire him or herself.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T074836Z" creationid="quentine" creationdate="20190216T074836Z">
+        <seg>不能自己激励自己。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Charismatic hero can’t take 10 or 20 on this check, nor can the hero retry the check for the same (or virtually the same) favor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T123647Z" creationid="quentine" creationdate="20190202T123647Z">
+        <seg>不可以取10取20，同一个忙（或相近的）也不可以重复检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Charismatic hero spends 1 action point to activate this talent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T122949Z" creationid="quentine" creationdate="20190202T122949Z">
+        <seg>魅力型英雄使用此天赋需花费1点行动点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Fast hero spends 1 action point to use this talent.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T125138Z" creationid="quentine" creationdate="20190117T125138Z">
@@ -2564,6 +3004,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133405Z" creationid="quentine" creationdate="20190115T133405Z">
         <seg>角色在无空气的环境下（水下、真空）能够闭气，持续等同于其体质的轮数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character may add new classes as he or she progresses in levels, thereby becoming a multiclass character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T081702Z" creationid="quentine" creationdate="20190216T081702Z">
+        <seg>角色在另一个职业中获得等级，就成了一个跨职角色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2832,6 +3280,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A favor that would enable a character to avoid an adventure altogether should always be unavailable to the character, regardless of the result of a favor check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190203T041203Z" creationid="quentine" creationdate="20190202T124105Z">
+        <seg>决不能允许角色避开冒险，无论检定结果如何。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A flat-footed character loses his or her Dexterity bonus to Defense and cannot make attacks of opportunity.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122836Z" creationid="quentine" creationdate="20190115T122836Z">
@@ -2844,6 +3300,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123552Z" creationid="quentine" creationdate="20190115T123552Z">
         <seg>无助的角色的有效防御值为5+体型调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A hero gains hit points from each class as his or her class level increases, adding the new hit points to the previous total.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T082632Z" creationid="quentine" creationdate="20190216T082632Z">
+        <seg>英雄从每个职业的等级提升中获得生命值，加到角色生命值总和上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2892,6 +3356,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T131410Z" creationid="QuenTine" creationdate="20181103T131410Z">
         <seg>如果有限制，会在规则中有所提及。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A multiclass character increases one ability score by +1 every four character levels, regardless of individual class level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T091219Z" creationid="quentine" creationdate="20190216T091219Z">
+        <seg>跨职角色每4级角色等级获得1点属性点，而不是根据职业等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A multiclass character receives a new feat every three character levels, regardless of individual class level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T090820Z" creationid="quentine" creationdate="20190216T090820Z">
+        <seg>跨职角色每3级角色等级获得一个新专长，而不是根据职业等级决定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A multiclass hero uses his or her character level to determine the maximum ranks the hero can have in a skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T084416Z" creationid="quentine" creationdate="20190216T084236Z">
+        <seg>跨职英雄的技能等级上限由角色等级决定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2976,6 +3464,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A resulting value of +6 or higher provides the hero with multiple attacks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T082942Z" creationid="quentine" creationdate="20190216T082942Z">
+        <seg>这个值大于等于6时英雄可以进行多次攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A score of "none" is not the same as a score of "0".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T131715Z" creationid="QuenTine" creationdate="20181103T131715Z">
@@ -3044,6 +3540,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140136Z" creationid="quentine" creationdate="20190115T140136Z">
         <seg>成功的反射豁免能让伤害减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A taunt can be played on an opponent any number of times.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T072904Z" creationid="quentine" creationdate="20190216T072904Z">
+        <seg>可多次嘲讽同一个目标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3128,6 +3632,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Add Reputation bonuses together.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T084051Z" creationid="quentine" creationdate="20190216T084051Z">
+        <seg>为所有职业的声望加值之和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add the Defense bonuses for each class together.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T084025Z" creationid="quentine" creationdate="20190216T084025Z">
+        <seg>为所有职业的防御加值之和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add the base attack bonuses for each class to get the hero’s base attack bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T082740Z" creationid="quentine" creationdate="20190216T082740Z">
+        <seg>英雄的基础攻击加值是每个职业的基础攻击加值之和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Add the base save bonuses for each class together.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T083956Z" creationid="quentine" creationdate="20190216T083956Z">
+        <seg>为所有职业的豁免加值之和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Add the result of the three dice together.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041826Z" creationid="QuenTine" creationdate="20181024T041826Z">
@@ -3148,6 +3684,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141619Z" creationid="quentine" creationdate="20190115T141619Z">
         <seg>另外，角色使用带毒武器攻击掷骰出1时，需要进行一次反射豁免（DC15），失败则自己会中该毒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced Firearms Proficiency, Alertness, Archaic Weapons Proficiency, Attentive, Blind-Fight, Deceptive, Educated, Far Shot, Iron Will, Medical Expert, Meticulous, Surgery, Track, Weapon Focus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T111705Z" creationid="quentine" creationdate="20190202T110016Z">
+        <seg>高级擅长火器、警觉、擅长古典武器、听者有心、盲战、欺诈、良好教育、远程射击、钢铁意志、医药专家、一丝不苟、手术、追踪、武器专攻。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3248,6 +3792,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Agile Riposte, Creative, Deceptive, Dodge, Frightful Presence, Iron Will, Lightning Reflexes, Low Profile, Point Blank Shot, Renown, Trustworthy, Windfall.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T081431Z" creationid="quentine" creationdate="20190216T081431Z">
+        <seg>借机反击、富有创意、欺诈、闪避、气势凶猛、钢铁意志、闪电反射、低调、近程射击、闻名、值得信赖、横财。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Alertness, Athletic, Brawl, Confident, Endurance, Great Fortitude, Improved Brawl, Improved Bull Rush, Improved Feint, Knockout Punch, Power Attack, Streetfighting, Toughness, Vehicle Expert.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T125446Z" creationid="quentine" creationdate="20190201T125446Z">
@@ -3260,6 +3812,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033816Z" creationid="QuenTine" creationdate="20181022T033816Z">
         <seg>保留所有权利。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All of the following are class features of the Charismatic hero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T113512Z" creationid="quentine" creationdate="20190202T113512Z">
+        <seg>下文为魅力型英雄的职业专长</seg>
       </tuv>
     </tu>
     <tu>
@@ -3300,6 +3860,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T125100Z" creationid="quentine" creationdate="20190114T125100Z">
         <seg>其他调整值，如职业加值、敏捷调整值和体型调整值照常计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All other skills, including skills for another class the hero has levels in, are considered cross-class skills when ranks in those skills are purchased at this level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T090236Z" creationid="quentine" creationdate="20190216T090013Z">
+        <seg>所有其他技能，包括角色拥有这个职业的职业技能，将被视为跨职技能来加点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3392,6 +3960,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An ally must listen to and observe the Charismatic hero for a full round for the greater inspiration to take hold, and the hero must make a Charisma check (DC 10).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T075250Z" creationid="quentine" creationdate="20190216T075250Z">
+        <seg>友方必须整轮不动，用一整轮的时间来听取和观察魅力型英雄的高级激励，英雄作一次魅力检定（DC10）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An ally must listen to and observe the Charismatic hero for a full round for the inspiration to take hold, and the hero must make a Charisma check (DC 10).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T074620Z" creationid="quentine" creationdate="20190216T074516Z">
+        <seg>友方必须整轮不动，用一整轮的时间来听取和观察魅力型英雄的激励，英雄作一次魅力检定（DC10）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An attacker can attempt a coup de grace against a helpless character.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123656Z" creationid="quentine" creationdate="20190115T123656Z">
@@ -3452,6 +4036,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T081324Z" creationid="QuenTine" creationdate="20181104T081324Z">
         <seg>守序的人通常诚实守信，尊重权威和传统，并且他们会希望周围的人也做同样的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An inspired ally gains a +2 morale bonus on saving throws, attack rolls, and damage rolls.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T074809Z" creationid="quentine" creationdate="20190216T074809Z">
+        <seg>被激励的友方的豁免、攻击和伤害骰都获得2点士气加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An inspired ally gains an additional +1 morale bonus on saving throws, attack rolls, and damage rolls, which stacks with the bonus from inspiration for a total of a +3 morale bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T075432Z" creationid="quentine" creationdate="20190216T075432Z">
+        <seg>被激励的友方的豁免、攻击和伤害骰共计获得3点士气加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3624,6 +4224,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a general rule, the abilities of a multiclass character are the sum of the abilities provided by each of the character’s classes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T082149Z" creationid="quentine" creationdate="20190216T082149Z">
+        <seg>总的来说，跨职角色的属性是角色每个职业提供的属性的总和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a result, a character must have Intelligence and Wisdom scores of 3 or higher in order to select allegiances.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T074106Z" creationid="QuenTine" creationdate="20181104T074106Z">
@@ -3656,6 +4264,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As the character ages, his or her physical ability scores decrease and his or her mental ability scores increase, as detailed on Table: Aging Effects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T094615Z" creationid="quentine" creationdate="20190216T094615Z">
+        <seg>随着角色年龄的变化，角色肉体上的属性会下降而精神上的属性会增加，如下表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Assuming the object is undamaged and in working condition, the sale value is equal to the object’s purchase DC (as if purchased new) minus 3.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064330Z" creationid="quentine" creationdate="20190112T064330Z">
@@ -3668,6 +4284,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T141715Z" creationid="quentine" creationdate="20190114T141715Z">
         <seg>生命值为0时，角色瘫痪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 1st, 3rd, 5th, 7th, and 9th level, the Charismatic hero selects a talent from the following talent trees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T113522Z" creationid="quentine" creationdate="20190202T113522Z">
+        <seg>魅力型英雄在1级，3级，5级，7级和9级时可以在以下天赋树中选择一个天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 1st, 3rd, 5th, 7th, and 9th level, the Dedicated hero selects a talent from the following talent trees.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T030350Z" creationid="quentine" creationdate="20190202T030350Z">
+        <seg>感知型英雄在1级，3级，5级，7级和9级时可以在以下天赋树中选择一个天赋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3700,6 +4332,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T142751Z" creationid="quentine" creationdate="20190117T142751Z">
         <seg>体质型英雄在1级，3级，5级，7级和9级时可以在以下天赋树中选择一个天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 2nd, 4th, 6th, 8th, and 10th level, the Charismatic hero gains a bonus feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T075541Z" creationid="quentine" creationdate="20190216T075541Z">
+        <seg>2、4、6、8、10级时，魅力型英雄获得奖励专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 2nd, 4th, 6th, 8th, and 10th level, the Dedicated hero gains a bonus feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T105255Z" creationid="quentine" creationdate="20190202T105255Z">
+        <seg>2、4、6、8、10级时，感知型英雄获得奖励专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3832,6 +4480,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bluff (Cha), Craft (visual art, writing) (Int), Diplomacy (Cha), Disguise (Cha), Gather Information (Cha), Handle Animal (Cha), Intimidate (Cha), Knowledge (arcane lore, art, behavioral sciences, business, civics, current events, popular culture, streetwise, theology and philosophy) (Int), Perform (act, dance, keyboards, percussion instruments, sing, stand-up, stringed instruments, wind instruments) (Cha), Profession (Wis), Read/Write Language (none), and Speak Language (none).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T113318Z" creationid="quentine" creationdate="20190202T112919Z">
+        <seg>唬骗（魅）、制造（视觉艺术、写作）（智）、交涉（魅）、易容（魅）、收集信息（魅）、驯养动物（魅）、威吓（魅）、知识（秘法学识、艺术、行为科学、商学、政法、时事、流行文化、街头智慧、神学与哲学）（智）、表演（演戏、舞蹈、键盘乐器、打击乐器、唱歌、单口相声、弦乐器、管乐器）（魅）、专业（感）、读写语言（无）和口头语言（无）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bluff, Climb, Demolitions, Disable Device, Drive, Escape Artist, Intimidate, Jump, Knowledge (arcane lore, streetwise, tactics, or technology), Move Silently, Pilot, Ride, Spot, Survival, Swim, Treat Injury.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T133850Z" creationid="QuenTine" creationdate="20181104T115744Z">
@@ -3842,16 +4498,16 @@
       <tuv lang="EN-US">
         <seg>Bluff, Computer Use, Craft (visual art or writing), Disguise, Forgery, Knowledge (arcane lore or art), Perform (act, dance, keyboards, percussion instruments, sing, stand-up, stringed instruments, or wind instruments), Spot.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125805Z" creationid="QuenTine" creationdate="20181104T125805Z">
-        <seg>唬骗、计算机使用、制造（视觉艺术或写作）、易容、伪造文书、知识（秘法学识或艺术）、表演（演戏、舞蹈、键盘乐器、打击乐器、唱歌、脱口秀、弦乐器、管乐器）、侦察。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T113014Z" creationid="QuenTine" creationdate="20181104T125805Z">
+        <seg>唬骗、计算机使用、制造（视觉艺术或写作）、易容、伪造文书、知识（秘法学识或艺术）、表演（演戏、舞蹈、键盘乐器、打击乐器、唱歌、单口相声、弦乐器、管乐器）、侦察。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Bluff, Craft (visual art or writing), Diplomacy, Disguise, Perform (act, dance, keyboards, percussion instruments, sing, stand-up, stringed instruments, or wind instruments).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125150Z" creationid="QuenTine" creationdate="20181104T125150Z">
-        <seg>唬骗、制造（视觉艺术或写作）、交涉、易容、表演（演戏、舞蹈、键盘乐器、打击乐器、唱歌、脱口秀、弦乐器、管乐器）。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T113001Z" creationid="QuenTine" creationdate="20181104T125150Z">
+        <seg>唬骗、制造（视觉艺术或写作）、交涉、易容、表演（演戏、舞蹈、键盘乐器、打击乐器、唱歌、单口相声、弦乐器、管乐器）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3876,6 +4532,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T140013Z" creationid="QuenTine" creationdate="20181106T140013Z">
         <seg>购买稀有物品大概要花掉与物品或服务的购买DC相等的小时数，这反映了查找所需的材料和结束交易所需要的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By making a favor check, a Charismatic hero can gain important information without going through the time and trouble of doing a lot of research.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190203T041010Z" creationid="quentine" creationdate="20190202T122207Z">
+        <seg>英雄进行一个求援检定，无需花费时间和精力钻研难题便可以获得关键信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4018,8 +4682,8 @@
       <tuv lang="EN-US">
         <seg>Computer Use, Knowledge (arcane lore, art, behavioral sciences, business, civics, current events, earth and life sciences, history, physical sciences, popular culture, technology, or theology and philosophy), Perform (act, dance, keyboards, percussion instruments, sing, stand-up, stringed instruments, or wind instruments), Research.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T143500Z" creationid="QuenTine" creationdate="20181104T143009Z">
-        <seg>计算机使用、知识（秘法学识、艺术、行为科学、商业、政法、时事、地球及生命科学、历史、物理科学、流行文化、技术、神学与哲学）、表演（演戏、舞蹈、键盘、打击乐器、唱歌、脱口秀、弦乐器、管乐器）、研究。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T113026Z" creationid="QuenTine" creationdate="20181104T143009Z">
+        <seg>计算机使用、知识（秘法学识、艺术、行为科学、商业、政法、时事、地球及生命科学、历史、物理科学、流行文化、技术、神学与哲学）、表演（演戏、舞蹈、键盘、打击乐器、唱歌、单口相声、弦乐器、管乐器）、研究。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4052,6 +4716,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T134053Z" creationid="QuenTine" creationdate="20181104T133154Z">
         <seg>制造（配药）、计算机使用、知识（行为科学、地球和生命科学或者技术）、搜索、医疗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft (pharmaceutical, visual art, writing) (Int), Gamble (Wis), Investigate (Int), Knowledge (arcane lore, art, behavioral sciences, business, civics, current events, earth and life sciences, history, physical sciences, popular culture, streetwise, tactics, technology, theology and philosophy) (Int), Listen (Wis), Profession (Wis), Read/Write Language (none), Sense Motive (Wis), Speak Language (none), Spot (Wis), Survival (Wis), and Treat Injury (Wis).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T030020Z" creationid="quentine" creationdate="20190202T030020Z">
+        <seg>制造（配药、视觉艺术、写作）（智）、赌博（感）、调查（智）、知识（秘法学识、艺术、行为科学、商学、政法、时事、地球与生命科学、历史、物理科学、流行文化、街头智慧、策略、技术、神学与哲学）（智）、聆听（感）、专业（感）、读写语言（无）、察言观色（感）、口头语言（无）、侦察（感）、生存（感）以及医疗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4201,6 +4873,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115345Z" creationid="quentine" creationdate="20190116T115345Z">
         <seg>每点技能点能加半级跨职技能，跨职技能等级上限为本职技能等级上限的一半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each time a multiclass character attains a new level, the hero either increases one of his or her current class levels by one or picks up a new class at 1st level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T093330Z" creationid="quentine" creationdate="20190216T093330Z">
+        <seg>跨职角色每次升级，可以选择在现有职业上增加等级或在新的职业上获得一级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4381,6 +5061,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Favors can also be used to acquire the loan of equipment or documents, or to receive other minor assistance in the course of an adventure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190203T041021Z" creationid="quentine" creationdate="20190202T122911Z">
+        <seg>求援也可用于借用装备或文件，或者在冒险的途中得到他人的襄助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Favors should help advance the plot of an adventure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190203T041209Z" creationid="quentine" creationdate="20190202T123802Z">
+        <seg>求援应用于帮助推进情节，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Feats: Some feats give a bonus to Defense.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T124015Z" creationid="quentine" creationdate="20190114T124015Z">
@@ -4393,6 +5089,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T095751Z" creationid="QuenTine" creationdate="20181104T094851Z">
         <seg>最后，起始职业背景还会增加财富加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For a hero whose levels are all in the same class, character level and class level are the same.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T082511Z" creationid="quentine" creationdate="20190216T082511Z">
+        <seg>一个英雄所有的等级都在一个职业上，那么角色等级就等于职业等级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4621,6 +5325,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a skill is a class skill for any of a multiclass hero’s classes, then use character level to determine a skill’s maximum rank.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T084619Z" creationid="quentine" creationdate="20190216T084342Z">
+        <seg>若技能是一个职业技能，且跨职英雄有这个职业，则可用角色等级决定该技能的上限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a skill the character selects is already a class skill, he or she receives a +1 competence bonus on checks using that skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T100744Z" creationid="QuenTine" creationdate="20181104T100744Z">
@@ -4697,6 +5409,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143856Z" creationid="quentine" creationdate="20190115T143856Z">
         <seg>如果角色不是接地的或者处于其他绝缘状况，豁免成功的结果是伤害完全免除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Charisma check succeeds, the target can try to resist.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T131710Z" creationid="quentine" creationdate="20190215T131710Z">
+        <seg>检定成功后，目标可尝试抗拒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4957,6 +5677,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the save fails, the target becomes dazed (unable to act, but can defend normally) for 1 round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T072740Z" creationid="quentine" creationdate="20190216T072740Z">
+        <seg>如果豁免失败，目标会陷入眩晕1轮（无法行动，但可保护自己）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the save fails, the target receives a –1 penalty on attack rolls, ability checks, skill checks, and saving throws for a number of rounds equal to the character’s Charismatic level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T030415Z" creationid="quentine" creationdate="20190216T030415Z">
+        <seg>若豁免失败，目标会在等同于施放者魅力等级的轮数内，攻击骰、属性检定、豁免骰都获得一点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the save succeeds, he or she takes only half damage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T125257Z" creationid="quentine" creationdate="20190117T125257Z">
@@ -4997,6 +5733,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the saving throw fails, the hero becomes the target’s sole focus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T132023Z" creationid="quentine" creationdate="20190215T132023Z">
+        <seg>豁免失败，英雄将成功吸引目标的注意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the saving throw fails, the target becomes dazed (unable to act, but can defend normally) for 1 round.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T153653Z" creationid="quentine" creationdate="20190201T153653Z">
@@ -5033,6 +5777,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125521Z" creationid="QuenTine" creationdate="20181104T125521Z">
         <seg>插画师、文案写手、卡通画师、图形艺术家、小说家、杂志专栏作家、演员、雕塑师、游戏设计师、音乐家、剧作家、摄影师以及网页设计师都属于这一类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the two feats all characters get at 1st level, a Charismatic hero begins play with the Simple Weapons Proficiency feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T113451Z" creationid="quentine" creationdate="20190202T113451Z">
+        <seg>除了所有角色在1级时获得的两个专长，魅力型英雄初始拥有`擅长简易武器`专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition to the two feats all characters get at 1st level, a Dedicated hero begins play with the Simple Weapons Proficiency feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T030314Z" creationid="quentine" creationdate="20190202T030314Z">
+        <seg>除了所有角色在1级时获得的两个专长，感知型英雄初始拥有`擅长简易武器`专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5105,6 +5865,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T073910Z" creationid="QuenTine" creationdate="20181104T073910Z">
         <seg>通常，角色可以在任何时候放弃自己的立场，但必须在升级的时候才能够选择新的立场。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In general, a character can have levels in as many different classes as there are classes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T094413Z" creationid="quentine" creationdate="20190216T094413Z">
+        <seg>总的来说，角色能在有所有可选择的职业上获得等级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5277,10 +6045,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is used to determine when feats and ability score increases are gained</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T082346Z" creationid="quentine" creationdate="20190216T082346Z">
+        <seg>用来决定何时获得专长与属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It may be where the individual was born, or where the hero resides after emigrating to a new home.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T075220Z" creationid="QuenTine" creationdate="20181104T075220Z">
         <seg>也可以是出生的国家或者要移民去的国家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It might be faith in self, in a higher power, or in both.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T104301Z" creationid="quentine" creationdate="20190202T104301Z">
+        <seg>可以是信自己、更强大的力量、或两者皆有。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5517,6 +6301,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On a successful save, the hero gets a hunch that everything is all right, or the hero gets a bad feeling about a specific situation, based on the GM’s best guess relating to the circumstances.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T042127Z" creationid="quentine" creationdate="20190202T040700Z">
+        <seg>若成功，英雄会预感一切顺利，否则英雄对预感到的画面感受到不祥，预感到的画面即是GM对当前情景的最乐观猜测。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once an unaided character starts recovering hit points naturally, the character is no longer in danger of losing additional hit points (even if his or her current hit point total is still negative).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112521Z" creationid="quentine" creationdate="20190115T112521Z">
@@ -5569,6 +6361,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T141504Z" creationid="QuenTine" creationdate="20181106T141504Z">
         <seg>一个角色可以在别的角色购买的时候尝试救急。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only that class’s class skills may be purchased as class skills.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T090215Z" creationid="quentine" creationdate="20190216T085139Z">
+        <seg>只有这个职业的技能被当作本职技能来加点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5637,6 +6437,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Picking up a new class is not exactly the same as starting a character in that class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T093158Z" creationid="quentine" creationdate="20190216T093005Z">
+        <seg>新职业升一级并不等于以这个职业新建1级的角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Poisonous gases must be inhaled to be effective.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141444Z" creationid="quentine" creationdate="20190115T141444Z">
@@ -5685,6 +6493,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prerequisite: Charm.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T130013Z" creationid="quentine" creationdate="20190202T130013Z">
+        <seg>要求：魅惑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisite: Coordinate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T074949Z" creationid="quentine" creationdate="20190216T074949Z">
+        <seg>要求：协调。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisite: Empathy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T034908Z" creationid="quentine" creationdate="20190202T034908Z">
+        <seg>要求：移情</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prerequisite: Evasion.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T124442Z" creationid="quentine" creationdate="20190117T123201Z">
@@ -5697,6 +6529,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T125607Z" creationid="quentine" creationdate="20190116T125426Z">
         <seg>要求：竭尽全力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisite: Fast-talk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T071253Z" creationid="quentine" creationdate="20190216T071253Z">
+        <seg>要求：花言巧语</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisite: Healing knack.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T044139Z" creationid="quentine" creationdate="20190202T044139Z">
+        <seg>要求：治疗诀窍</seg>
       </tuv>
     </tu>
     <tu>
@@ -5749,6 +6597,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Prerequisite: Skill emphasis plus either faith or aware.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T105226Z" creationid="quentine" creationdate="20190202T105226Z">
+        <seg>要求：技能专精+（信念或觉察）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisite: Skill emphasis.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T103845Z" creationid="quentine" creationdate="20190202T103829Z">
+        <seg>要求：技能专精</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisites: Charm, Favor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T133341Z" creationid="quentine" creationdate="20190215T133341Z">
+        <seg>要求：魅惑、求援</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisites: Coordinate, inspiration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T075532Z" creationid="quentine" creationdate="20190216T075532Z">
+        <seg>要求： 协调、激励</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Prerequisites: Damage reduction 1/—, damage reduction 2/—, one other talent from either the Energy Resistance Talent Tree or the Unbreakable Talent Tree.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T143812Z" creationid="quentine" creationdate="20190117T143812Z">
@@ -5777,6 +6657,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130643Z" creationid="quentine" creationdate="20190116T125637Z">
         <seg>要求：竭尽全力、精通竭尽全力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisites: Fast-talk, dazzle.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T072921Z" creationid="quentine" creationdate="20190216T072921Z">
+        <seg>要求：花言巧语、虚张声势</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Prerequisites: Healing knack, healing touch 1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T044312Z" creationid="quentine" creationdate="20190202T044312Z">
+        <seg>要求：治疗诀窍、一级救死扶伤</seg>
       </tuv>
     </tu>
     <tu>
@@ -5925,6 +6821,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Skill points are spent according to the class that the multiclass character just advanced in.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T094023Z" creationid="quentine" creationdate="20190216T094023Z">
+        <seg>获得的技能点数取决于所升级的职业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skills are purchased at the cost appropriate for that class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T094144Z" creationid="quentine" creationdate="20190216T094144Z">
+        <seg>升级技能的花费也取决于所升级的职业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Smoke also obscures vision, giving one-half concealment (20% miss chance) to characters within it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134140Z" creationid="quentine" creationdate="20190115T134140Z">
@@ -6045,6 +6957,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Table: Aging Effects</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T094814Z" creationid="quentine" creationdate="20190216T094814Z">
+        <seg>表：年龄效果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Table: Damage from Falling Objects</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140617Z" creationid="quentine" creationdate="20190115T140617Z">
@@ -6101,6 +7021,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Taking one level in a new class does not entitle a character to receive the two feats that a beginning 1st-level character gets.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T091105Z" creationid="quentine" creationdate="20190216T091105Z">
+        <seg>角色在新职业上获得等级，不会像在一级那样获得两个专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Talents are considered to be extraordinary abilities.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120425Z" creationid="quentine" creationdate="20190116T120425Z">
@@ -6133,10 +7061,98 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Charismatic hero concentrates all his or her effort on the task, and the target gets to make a new Will save each round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T133205Z" creationid="quentine" creationdate="20190215T133205Z">
+        <seg>若如此，目标每轮都要进行一次意志豁免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Charismatic hero has a talent for leadership and inspiration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T073041Z" creationid="quentine" creationdate="20190216T073041Z">
+        <seg>魅力型英雄善于领导与激励。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Charismatic hero has an innate talent for being charming and captivating.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T115339Z" creationid="quentine" creationdate="20190202T115339Z">
+        <seg>魅力型英雄善于魅惑、迷倒他人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Charismatic hero has an innate talent for bending the truth and dazzling others with a combination of words, mannerisms, and charm.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T133936Z" creationid="quentine" creationdate="20190215T133936Z">
+        <seg>魅力型英雄善用三寸不烂之舌、神态与动作混淆视听。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Charismatic hero’s class skills (and the key ability for each skill) are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T111810Z" creationid="quentine" creationdate="20190202T111810Z">
+        <seg>魅力型英雄的本职技能（以及技能的关键属性）如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DC for the check depends on the situation: DC 15 if the language is in the same group as a language the hero has as a Read/Write Language or Speak Language skill; DC 20 if the language is unrelated to any other languages the hero knows; and DC 25 if the language is ancient or unique.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T142521Z" creationid="quentine" creationdate="20190201T142521Z">
         <seg>检定DC取决于：如果语言与英雄已掌握的口头或书面语言属于同一语族，DC15；与英雄掌握的语言没关系的，DC20；古代或很独特的语言，DC25。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DC ranges from 10 for a simple favor to as high as 30 for formidable and highly dangerous, expensive, or illegal favors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T123433Z" creationid="quentine" creationdate="20190202T123433Z">
+        <seg>DC下限是10，表示简单的小忙，上限是30，表示艰难、高危、昂贵或者违法的忙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Dedicated hero can make a Will saving throw (DC 15).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T035937Z" creationid="quentine" creationdate="20190202T035937Z">
+        <seg>感知型英雄可以进行一次意志豁免（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Dedicated hero has a talent for healing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T042249Z" creationid="quentine" creationdate="20190202T042249Z">
+        <seg>感知型英雄拥有治疗的天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Dedicated hero’s class skills (and the key ability for each skill) are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T025040Z" creationid="quentine" creationdate="20190202T025040Z">
+        <seg>感知型英雄的本职技能（以及技能的关键属性）如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Dedicated hero’s innate insightfulness serves her well.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T101231Z" creationid="quentine" creationdate="20190202T101231Z">
+        <seg>感知型英雄具有与生俱来的洞察力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Dedicated hero’s innate talents give him or her a great capacity for empathy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T031353Z" creationid="quentine" creationdate="20190202T031051Z">
+        <seg>感知型英雄天生拥有推己及人的同理心。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6197,10 +7213,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The GM may disallow any favor deemed to be disruptive to the game.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190203T041240Z" creationid="quentine" creationdate="20190202T130000Z">
+        <seg>GM不应允许破坏游戏体验的求援行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The GM must decide that a character’s fame or infamy can come into play in a given situation to make a Reputation check necessary.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T130127Z" creationid="QuenTine" creationdate="20181106T130127Z">
         <seg>GM 必须决定角色的威名或骂名在指定情境下能够融入扮演中，以让情境有进行声望检定的必要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM sets the DC based on the scope of the favor being requested.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T123209Z" creationid="quentine" creationdate="20190202T123158Z">
+        <seg>DC由GM酌情规定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM should carefully monitor a Charismatic hero’s use of favors to ensure that this ability isn’t abused.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190203T041226Z" creationid="quentine" creationdate="20190202T124249Z">
+        <seg>GM应管控好魅力型英雄对求援的使用，确保求援不被滥用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6381,6 +7421,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The bonus is equal to the hero’s Dedicated level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T034520Z" creationid="quentine" creationdate="20190202T034520Z">
+        <seg>加值等于英雄的感知等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bonus lasts for a number of rounds equal to the hero’s Charisma modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T073722Z" creationid="quentine" creationdate="20190216T073722Z">
+        <seg>加值持续轮数为英雄的魅力调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character can make a Strength check to lift the object off him or herself or an Escape Artist check (DC 20) to get out from underneath.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140542Z" creationid="quentine" creationdate="20190115T140542Z">
@@ -6449,6 +7505,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125043Z" creationid="quentine" creationdate="20190115T125043Z">
         <seg>防御远程攻击有4点加值，但防御近战攻击则有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character gains the 1st-level base attack bonus, base save bonuses, class skills, other class features of the new class, hit points of the appropriate die type, and the new class’s number of skill points gained at each additional level (not that number x4, as is the case for a 1st-level character).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T092745Z" creationid="quentine" creationdate="20190216T092745Z">
+        <seg>角色获得1级的基础攻击加值、基础豁免加值、角色技能、新职业的职业专长、按正确掷骰获得的生命值以及新职业升1级所获的技能点（不是角色1级时获得的4倍技能点）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character gets all class features (talents, bonus feats, or other special abilities) of all classes for the levels he or she possesses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T090646Z" creationid="quentine" creationdate="20190216T090646Z">
+        <seg>角色可获得所拥有职业的所有职业专长、天赋、奖励专长和其他特殊能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6581,10 +7653,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The charm bonus can’t be used against characters who are unfriendly or hostile.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T120735Z" creationid="quentine" creationdate="20190202T120707Z">
+        <seg>魅惑加值不能用于不友善或者敌对的角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The check is made with a bonus equal to the hero’s Smart level.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T135801Z" creationid="quentine" creationdate="20190201T135801Z">
         <seg>检定会再加上一个等同于其智力等级的加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The class abilities from all of a character’s classes combine to determine a multiclass character’s overall abilities.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T081939Z" creationid="quentine" creationdate="20190216T081939Z">
+        <seg>角色所有职业的属性组合在一起即这个跨职角色的总属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6645,6 +7733,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The effect ends immediately if the target is attacked or threatened.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T132901Z" creationid="quentine" creationdate="20190215T132825Z">
+        <seg>若目标被攻击或威胁，效果立即结束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The effect ends when the hero stops concentrating, or when the target succeeds on the save.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T133257Z" creationid="quentine" creationdate="20190215T133257Z">
+        <seg>英雄停止吸引或者目标豁免成功，效果结束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The effect lasts for a number of rounds equal to the hero’s Charisma modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T074652Z" creationid="quentine" creationdate="20190216T074540Z">
+        <seg>效果持续轮数为英雄的魅力调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The effects of each aging step are cumulative.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T094801Z" creationid="quentine" creationdate="20190216T094801Z">
+        <seg>每个年龄段的效果会叠加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The effort must relate either to a Strength check or a Strength-based skill check.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T124919Z" creationid="quentine" creationdate="20190116T124919Z">
@@ -6657,6 +7777,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115404Z" creationid="quentine" creationdate="20190116T115404Z">
         <seg>该职业1级获得的专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following are class features of the Dedicated hero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T030340Z" creationid="quentine" creationdate="20190202T030340Z">
+        <seg>下文为感知型英雄的职业专长</seg>
       </tuv>
     </tu>
     <tu>
@@ -6685,10 +7813,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The hero adds his or her base Will saving throw bonus to Listen or Spot checks to avoid surprise.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T103806Z" creationid="quentine" creationdate="20190202T103304Z">
+        <seg>英雄在进行聆听或侦察检定时，加上基础意志豁免作为加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The hero can choose to succumb to unconsciousness if he or she thinks that doing so might prevent him or her from taking more damage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190130T143643Z" creationid="quentine" creationdate="20190130T143643Z">
         <seg>如果英雄想避免受到更多伤害，可以选择不再硬撑，陷入昏迷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The hero can coordinate a number of allies equal to one-half his or her Charismatic level, rounded down (to a minimum of one ally).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T073848Z" creationid="quentine" creationdate="20190216T073848Z">
+        <seg>可指定的人数为英雄魅力等级的一半，向下取整，至少为1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The hero can inspire a number of allies equal to one-half his or her Charismatic level, rounded down (to a minimum of one ally).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T074937Z" creationid="quentine" creationdate="20190216T074937Z">
+        <seg>可激励的人数为英雄魅力等级的一半，向下取整，至少为1。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6719,8 +7871,17 @@
       <tuv lang="EN-US">
         <seg>The hero must have ranks in the skill if it is Trained Only.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T135028Z" creationid="quentine" creationdate="20190201T134851Z">
-        <seg>需受训的技能必须习得这个技能才可选。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T102623Z" creationid="quentine" creationdate="20190201T134851Z">
+        <seg>需受训的技能必须习得这个技能才可选。
+&gt; 译者注：`习得`即在这个技能上拥有等级，需受训的技能必须习得才能使用，不需受训的技能可以以0级的效果参与检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The hero receives a +2 bonus on all Treat Injury skill checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T042719Z" creationid="quentine" creationdate="20190202T042719Z">
+        <seg>英雄在所有的医疗技能检定上都有两点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6853,6 +8014,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The success or failure of a mission shouldn’t hinge on the use of a favor, and getting a favor shouldn’t replace good roleplaying or the use of other skills.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190203T041236Z" creationid="quentine" creationdate="20190202T125643Z">
+        <seg>关卡的成功与失败不应取决于求援的使用，不能用接受帮助来代替出色的角色扮演或其他技能的使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The target begins to suffocate on a failed check (see Suffocation and Drowning).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134855Z" creationid="quentine" creationdate="20190115T134855Z">
@@ -6869,10 +8038,66 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The target must have an Intelligence score of 3 or higher to be susceptible to a captivate attempt, must be within 30 feet of the hero, must be flat-footed or not in combat, and must be able to see, hear, and understand the hero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T072517Z" creationid="quentine" creationdate="20190204T123329Z">
+        <seg>目标智力必须不少于3才能被吸引，必须在英雄30尺内，必须为措手不及或者不在战斗中，必须能看见、听见、理解英雄的意思。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target must have an Intelligence score of 3 or higher to be susceptible to a dazzle attempt, must be within 30 feet of the hero, and must be able to see, hear, and understand the hero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T072458Z" creationid="quentine" creationdate="20190216T025729Z">
+        <seg>目标的智力必须不少于3才能受到影响，必须在英雄30尺内，必须能看见、听见、理解英雄的意思。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target must have an Intelligence score of 3 or higher to be susceptible to a taunt, must be within 30 feet of the hero, and must be able to hear and understand the hero.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T072402Z" creationid="quentine" creationdate="20190216T072344Z">
+        <seg>目标的智力必须不少于3才能听懂嘲讽，必须在英雄30尺内，必须能听见、理解英雄的意思。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The target must have an Intelligence score of 3 or higher to be susceptible to a trick, must be within 30 feet of the hero, and must be able to hear and understand the hero.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T152315Z" creationid="quentine" creationdate="20190201T152315Z">
         <seg>目标的智力必须至少为3，必须在英雄周围30尺内，且能听到并能理解智力型英雄的声音。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target pays no attention to anyone else for 1 round and remains flat-footed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T132205Z" creationid="quentine" creationdate="20190215T132205Z">
+        <seg>目标一轮内无视其他人，且会处于措手不及状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target resists the captivation attempt by making a Will saving throw (DC 10 + Charismatic hero’s class level + Charismatic hero’s Cha bonus).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T131929Z" creationid="quentine" creationdate="20190215T131929Z">
+        <seg>目标用一次意志豁免（DC为10+英雄魅力等级+英雄魅力加值）来抵抗吸引。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target resists the dazzle attempt by making a Will saving throw (DC 10 + Charismatic hero’s class level + Charismatic hero’s Cha bonus).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T030109Z" creationid="quentine" creationdate="20190216T030109Z">
+        <seg>目标用一次意志豁免（DC为10+英雄魅力等级+英雄魅力加值）来抵抗虚张声势。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The target resists the taunt by making a Will saving throw (DC 10 + Charismatic hero’s class level + Charismatic hero’s Cha bonus).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T072644Z" creationid="quentine" creationdate="20190216T072644Z">
+        <seg>目标用一次意志豁免（DC为10+英雄魅力等级+英雄魅力加值）来抵抗嘲讽。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7037,6 +8262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This ability can be taken more than once (for another gender).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T071115Z" creationid="quentine" creationdate="20190202T121441Z">
+        <seg>这个能力可以选取多次（解锁另一个性别）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This allows a Strong hero to ignore some of an object’s hardness when making a melee attack to break it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T125747Z" creationid="quentine" creationdate="20190116T125747Z">
@@ -7069,6 +8302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This bonus does not allow the hero to make checks for a trained-only skill if the hero has no ranks in the skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T102037Z" creationid="quentine" creationdate="20190202T102037Z">
+        <seg>这个加值不能用于未习得的需受训技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This bonus measures the character’s combat savvy and applies in all situations, even when the character is flat-footed or would lose his or her Dexterity bonus for some other reason.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T120119Z" creationid="quentine" creationdate="20190114T120119Z">
@@ -7097,6 +8338,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T110858Z" creationid="quentine" creationdate="20190115T110858Z">
         <seg>直到角色死亡或自然地进入稳定状态，或受到救助（见下文）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This could be a basic class or, if the character qualifies for it, an advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T092003Z" creationid="quentine" creationdate="20190216T092003Z">
+        <seg>可以选择一个基本职业，如果角色有资格选择，还可以选一个高级职业。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7157,6 +8406,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This feat must be from this list, and the Dedicated hero must meet any prerequisites.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T105311Z" creationid="quentine" creationdate="20190202T105311Z">
+        <seg>奖励专长必须从下表中选择，在选择时必须满足该专长的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This feat must be selected from the following list, and the Charismatic hero must meet any prerequisites.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T075548Z" creationid="quentine" creationdate="20190216T075548Z">
+        <seg>奖励专长必须从下表中选择，在选择时必须满足该专长的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This feat must be selected from the following list, and the Fast hero must meet any prerequisites.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T131926Z" creationid="quentine" creationdate="20190117T131926Z">
@@ -7189,6 +8454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This focusing of the target’s attention allows other characters to take actions of which the captivated target is unaware.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T132412Z" creationid="quentine" creationdate="20190215T132412Z">
+        <seg>吸引目标的注意力可以让其他角色做动作，而不被目标发现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This illicit starting occupation reveals a background from the wrong side of the law.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T130353Z" creationid="QuenTine" creationdate="20181104T130353Z">
@@ -7201,6 +8474,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135248Z" creationid="QuenTine" creationdate="20181104T074535Z">
         <seg>包括某领袖、家族或者是由相关个体所组成的团体（例如一队英雄或是一班秘密特工），抑或是大组织中的小团体（例如玩家所在的小队或者排，或是由角色负责安全的团队）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This innate talent provides a bonus on checks involving interaction skills (Bluff, Diplomacy, Handle Animal, Intimidate, Perform, and Sense Motive), provided the hero spends at least 1 minute observing his or her target prior to making the skill check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T034500Z" creationid="quentine" creationdate="20190202T034500Z">
+        <seg>此天赋允许英雄进行涉及交流的技能检定时，花费至少1分钟的时间观察目标的意图，给检定提供一个加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a Mind-Affecting ability.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T133319Z" creationid="quentine" creationdate="20190215T133319Z">
+        <seg>这是一个`影响心灵`的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7293,10 +8582,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This talent can be selected multiple times, each time increasing the bonus by +1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T034856Z" creationid="quentine" creationdate="20190202T034856Z">
+        <seg>该天赋可重复选取，效果叠加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This talent can be selected multiple times, each time worsening the dazzled penalty by –1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T070654Z" creationid="quentine" creationdate="20190216T070654Z">
+        <seg>此天赋可重复解锁，每解锁一层减值多一点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This talent does not increase the Tough hero’s hit points beyond the character’s full normal total.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190130T144643Z" creationid="quentine" creationdate="20190130T144643Z">
         <seg>生命值不能恢复到超过生命值上限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This talent is usable a number of times per day equal to the character’s Dedicated level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T040747Z" creationid="quentine" creationdate="20190202T040747Z">
+        <seg>角色每天可以使用此天赋的次数等于角色的感知等级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7313,6 +8626,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T131830Z" creationid="quentine" creationdate="20190117T131830Z">
         <seg>与前两者叠加，总共15尺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This unswerving belief allows the Dedicated hero to add his or her Wisdom modifier to the die roll whenever the hero spends 1 action point to improve the result of an attack roll, skill check, saving throw, or ability check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T104608Z" creationid="quentine" creationdate="20190202T104608Z">
+        <seg>这份坚定不移的信仰让英雄在花费1行动点提高攻击、技能、豁免、属性检定的结果时，再加上其感知调整值作为加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7357,6 +8678,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To captivate a target, the hero must use an attack action and make a Charisma check (DC 15), adding his or her Charismatic level as a bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T131624Z" creationid="quentine" creationdate="20190215T131624Z">
+        <seg>要吸引目标的注意，英雄消耗一次攻击行动做一次加上魅力等级作为加值的魅力检定（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To dazzle a target, the hero must use an attack action and make a Charisma check (DC 15), adding his or her Charismatic level as a bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T025908Z" creationid="quentine" creationdate="20190216T025908Z">
+        <seg>要使用此天赋，英雄应使用一次攻击动作作一个加上魅力等级作为加值的魅力检定（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To determine a character’s starting Wealth bonus, roll 2d4 and add the wealth bonus for the character’s starting occupation, plus (if appropriate) the bonus from the Windfall feat, plus 1 if the character has ranks in Profession.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063616Z" creationid="QuenTine" creationdate="20181106T133258Z">
@@ -7369,6 +8706,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T133934Z" creationid="QuenTine" creationdate="20181106T133934Z">
         <seg>任何时候，想要了解一个角色的大体经济状况，参考下表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To make a favor check, roll a d20 and add the character’s favor bonus, equal to the character’s Charismatic level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190203T041040Z" creationid="quentine" creationdate="20190202T123114Z">
+        <seg>进行求援检定，就是d20+魅力等级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7393,6 +8738,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064218Z" creationid="quentine" creationdate="20190112T064218Z">
         <seg>要出售物品，角色首先要定下它的`售价`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To taunt a target, the hero must use an attack action and make a Charisma check (DC 15), adding his or her Charismatic level as a bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T072608Z" creationid="quentine" creationdate="20190216T072608Z">
+        <seg>要嘲讽住目标，英雄消耗一次攻击行动做一次加上魅力等级作为加值的魅力检定（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To use multiple attacks in the same round, a character must use a full attack, which is a full-round action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T083246Z" creationid="quentine" creationdate="20190216T083246Z">
+        <seg>要在一轮中使用多次攻击，角色必须用掉一个整轮动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7549,6 +8910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a character with one class gains a level, he or she may choose to increase the level of his or her current class or pick up a new class at 1st level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T091442Z" creationid="quentine" creationdate="20190216T091442Z">
+        <seg>单职角色升级时都可以选择在原来的职业还是一个新职业上升1级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a character’s Constitution drops back down to its previous score after a temporary increase, the character’s full normal hit points go down accordingly.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T114255Z" creationid="quentine" creationdate="20190115T114255Z">
@@ -7581,6 +8950,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a multiclass character increases one of his or her class levels by one, the character gets all the standard benefits that characters receive for attaining the new level in that class: more hit points, possible bonuses on attack rolls, Defense, and saving throws (depending on the class and the new level), a new class feature (as defined by the class), and new skill points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T093848Z" creationid="quentine" creationdate="20190216T093848Z">
+        <seg>当跨职角色在一个职业上升了一级，角色获得这个职业升级所得：生命值，攻击、防御、豁免的加值（职业列表所述）、新的职业专长（仅限该职业）以及新的技能点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a multiclass hero gains a level in a class, he or she spends that level’s skill points as a member of that class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T085039Z" creationid="quentine" creationdate="20190216T085039Z">
+        <seg>当跨职英雄的一个职业升级了，可将所获技能点加在这个职业的技能上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When an ability score changes, the modifier associated with that score also changes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140821Z" creationid="QuenTine" creationdate="20181103T140821Z">
@@ -7593,6 +8978,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123119Z" creationid="quentine" creationdate="20190115T122923Z">
         <seg>英雄被擒抱时无法施展除了空手攻击、轻武器攻击或试图挣脱擒抱者以外的动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When making a check with one of these skills, the Dedicated hero can take 10 even when distracted or under duress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T105116Z" creationid="quentine" creationdate="20190202T105116Z">
+        <seg>当检定这些技能时，感知型英雄可以在心烦意乱或受胁迫的情况下取10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When picking up a new class, a hero doesn’t receive maximum hit points but should roll the new Hit Die.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T093128Z" creationid="quentine" creationdate="20190216T093128Z">
+        <seg>获得新的职业，英雄获得的生命值不是取最大值而是应掷生命骰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7625,6 +9026,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133532Z" creationid="quentine" creationdate="20190115T133532Z">
         <seg>当角色体质检定失败，角色将会开始窒息或溺水。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When the hero can spend a full round directing his or her allies and makes a Charisma check (DC 10), the hero provides any of his or her allies within 30 feet a +1 bonus on their attack rolls and skill checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T073630Z" creationid="quentine" creationdate="20190216T073630Z">
+        <seg>英雄用一个整轮动作进行一个魅力检定（DC10），指定30尺内任意几个友方，使其攻击或技能检定获得1点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7687,8 +9096,8 @@
       <tuv lang="EN-US">
         <seg>With the GM’s permission, the character gains a +2 circumstance bonus on Charisma-based skill checks when dealing with someone of the same allegiance—as long as the character has had some interaction with the other character to discover the connections and bring the bonus into play.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T150554Z" creationid="QuenTine" creationdate="20181104T082156Z">
-        <seg>在GM的允许下，角色可以在与同立场角色进行魅力检定时获得+2的情景加值。这一环境加值必须是目标角色发现这种联系才有。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T100000Z" creationid="QuenTine" creationdate="20181104T082156Z">
+        <seg>在GM的允许下，角色可以在与同立场角色进行魅力检定时获得+2的情景加值。这一加值必须是目角色间通过交流发现这种联系才有。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7697,6 +9106,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T142614Z" creationid="quentine" creationdate="20190201T142614Z">
         <seg>有这个特殊能力的英雄可以充分确定对话或文件的基本含义，但并不意味着英雄能流利地掌握这门语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With this talent, he or she applies his or her Charismatic level as a competence bonus on any Bluff, Diplomacy, or Gamble checks the hero makes while attempting to lie, cheat, or otherwise bend the truth.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T134644Z" creationid="quentine" creationdate="20190215T134644Z">
+        <seg>拥有此天赋的英雄在为说谎、欺诈或者其他歪曲事实的行为作唬骗、交涉、赌博鉴定时，获得一个等于其魅力等级的加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7793,6 +9210,68 @@
 |弱酸|1d6|1d10|
 |强酸|2d6|2d10|
 |浓酸|3d6|3d10|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Age Category|Ability Adjustments|
+|:-----------|:------------------|
+|Child (1–11)|–3 to Str and Con; –1 to Dex, Int, Wis, and Cha|
+|Young adult (12–15)|Original scores|
+|Adult (16–39)|Original scores|
+|Middle age (40–59)|–1 to Str, Dex, and Con; +1 to Int, Wis, and Cha|
+|Old (60–79)|–1 to Str, Dex, and Con; +1 to Int, Wis, and Cha|
+|Venerable (80+)|–1 to Str, Dex, and Con; +1 to Int, Wis, and Cha|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T095533Z" creationid="quentine" creationdate="20190216T095533Z">
+        <seg>|年龄段|属性调整|
+|:-----------|:------------------|
+|儿童（1-11）|力体–3；敏智感魅–1|
+|青少年（12-15）|不变|
+|青年（16-39）|不变|
+|中年（40–59）|力敏体–1；智感魅+1|
+|老年（60-79）|力敏体–1；智感魅+1|
+|高年（80+）|力敏体–1；智感魅+1|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Base Attack Bonus|Additional Attacks at|
+|:----------------|:--------------------|
+|+6|+1|
+|+7|+2|
+|+8|+3|
+|+9|+4|
+|+10|+5|
+|+11|+6/+1|
+|+12|+7/+2|
+|+13|+8/+3|
+|+14|+9/+4|
+|+15|+10/+5|
+|+16|+11/+6/+1|
+|+17|+12/+7/+2|
+|+18|+13/+8/+3|
+|+19|+14/+9/+4|
+|+20|+15/+10/+5|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T083849Z" creationid="quentine" creationdate="20190216T083125Z">
+        <seg>|基础攻击加值|额外攻击的基础攻击加值|
+|:----------------|:--------------------|
+|+6|+1|
+|+7|+2|
+|+8|+3|
+|+9|+4|
+|+10|+5|
+|+11|+6/+1|
+|+12|+7/+2|
+|+13|+8/+3|
+|+14|+9/+4|
+|+15|+10/+5|
+|+16|+11/+6/+1|
+|+17|+12/+7/+2|
+|+18|+13/+8/+3|
+|+19|+14/+9/+4|
+|+20|+15/+10/+5|</seg>
       </tuv>
     </tu>
     <tu>
@@ -7947,6 +9426,66 @@
 |8th|+6/+1|+4|+2|+2|奖励专长|+4|+2|
 |9th|+6/+1|+4|+3|+3|天赋|+5|+3|
 |10th|+7/+2|+5|+3|+3|奖励专长|+5|+3|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Class Features|Defense Bonus|Reputation Bonus|
+|:-------|---------|-------|-------|--------|:--------|----------|--------|
+|1st|+0|+1|+0|+1|Talent|+1|+1|
+|2nd|+1|+2|+0|+2|Bonus feat|+2|+1|
+|3rd|+2|+2|+1|+2|Talent|+2|+1|
+|4th|+3|+2|+1|+2|Bonus feat|+3|+2|
+|5th|+3|+3|+1|+3|Talent|+3|+2|
+|6th|+4|+3|+2|+3|Bonus feat|+3|+2|
+|7th|+5|+4|+2|+4|Talent|+4|+3|
+|8th|+6/+1|+4|+2|+4|Bonus feat|+4|+3|
+|9th|+6/+1|+4|+3|+4|Talent|+5|+3|
+|10th|+7/+2|+5|+3|+5|Bonus feat|+5|+4|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T030240Z" creationid="quentine" creationdate="20190202T030240Z">
+        <seg>|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|职业专长|防御加值|声望加值|
+|:-------|---------|-------|-------|--------|:--------|----------|--------|
+|1st|+0|+1|+0|+1|天赋|+1|+1|
+|2nd|+1|+2|+0|+2|奖励专长|+2|+1|
+|3rd|+2|+2|+1|+2|天赋|+2|+1|
+|4th|+3|+2|+1|+2|奖励专长|+3|+2|
+|5th|+3|+3|+1|+3|天赋|+3|+2|
+|6th|+4|+3|+2|+3|奖励专长|+3|+2|
+|7th|+5|+4|+2|+4|天赋|+4|+3|
+|8th|+6/+1|+4|+2|+4|奖励专长|+4|+3|
+|9th|+6/+1|+4|+3|+4|天赋|+5|+3|
+|10th|+7/+2|+5|+3|+5|奖励专长|+5|+4|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Class Features|Defense Bonus|Reputation Bonus|
+|:-------|---------|-------|-------|--------|:--------|----------|--------|
+|1st|+0|+1|+1|+0|Talent|+0|+2|
+|2nd|+1|+2|+2|+0|Bonus feat|+1|+2|
+|3rd|+1|+2|+2|+1|Talent|+1|+2|
+|4th|+2|+2|+2|+1|Bonus feat|+1|+3|
+|5th|+2|+3|+3|+1|Talent|+2|+3|
+|6th|+3|+3|+3|+2|Bonus feat|+2|+3|
+|7th|+3|+4|+4|+2|Talent|+2|+4|
+|8th|+4|+4|+4|+2|Bonus feat|+3|+4|
+|9th|+4|+4|+4|+3|Talent|+3|+4|
+|10th|+5|+5|+5|+3|Bonus feat|+3|+5|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T113437Z" creationid="quentine" creationdate="20190202T113437Z">
+        <seg>|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|职业专长|防御加值|声望加值|
+|:-------|---------|-------|-------|--------|:--------|----------|--------|
+|1st|+0|+1|+1|+0|天赋|+0|+2|
+|2nd|+1|+2|+2|+0|奖励专长|+1|+2|
+|3rd|+1|+2|+2|+1|天赋|+1|+2|
+|4th|+2|+2|+2|+1|奖励专长|+1|+3|
+|5th|+2|+3|+3|+1|天赋|+2|+3|
+|6th|+3|+3|+3|+2|奖励专长|+2|+3|
+|7th|+3|+4|+4|+2|天赋|+2|+4|
+|8th|+4|+4|+4|+2|奖励专长|+3|+4|
+|9th|+4|+4|+4|+3|天赋|+3|+4|
+|10th|+5|+5|+5|+3|奖励专长|+3|+5|</seg>
       </tuv>
     </tu>
     <tu>
@@ -8121,6 +9660,22 @@
 |+16 to +20|富有|
 |+21 to +30|富豪|
 |+31 or higher|巨富|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Character level” is a character’s total number of levels.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T082244Z" creationid="quentine" creationdate="20190216T082244Z">
+        <seg>`角色等级` 是角色所有职业等级之和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Class level” is the character’s level in a particular class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T082412Z" creationid="quentine" creationdate="20190216T082412Z">
+        <seg>`职业等级` 是角色在特定职业上的等级。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

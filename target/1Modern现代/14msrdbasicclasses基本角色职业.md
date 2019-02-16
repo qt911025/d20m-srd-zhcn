@@ -36,7 +36,7 @@
 
 **等级：** 角色职业等级。
 
-**基本攻击加值：** 角色的基本攻击加值与攻击次数。
+**基础攻击加值：** 角色的基本攻击加值与攻击次数。
 
 **强韧豁免：** 基本强韧豁免加值。与角色的体质调整值共同作用。
 
@@ -399,7 +399,8 @@
 
 智力型英雄天资聪明，擅长学术研究与发现原理。以下天赋可按任意顺序选取。
 
-**学者：**从下列技能中选择一个。需受训的技能必须习得这个技能才可选。智力型英雄进行该技能的检定时会加上等同于其智力等级的加值。智力型英雄可多次选择该天赋，每次对应不同的技能。
+**学者：**从下列技能中选择一个。需受训的技能必须习得这个技能才可选。
+> 译者注：`习得`即在这个技能上拥有等级，需受训的技能必须习得才能使用，不需受训的技能可以以0级的效果参与检定。智力型英雄进行该技能的检定时会加上等同于其智力等级的加值。智力型英雄可多次选择该天赋，每次对应不同的技能。
 
 计算机使用、制造（任一）、文件解读、爆破、解除装置、伪造文书、调查、知识（任一）、寻路、修理、研究、搜索。
 
@@ -456,17 +457,17 @@
 
 ## 感知型英雄
 
-**Ability:** Wisdom
+**关键属性：** 感知
 
 **生命骰：** 1d6
 
-**Action Points:** Dedicated heroes gain a number of action points equal to 5 + one-half their character level, rounded down, at 1st level and every time they attain a new level in this class.
+**行动点：** 感知型英雄在1级和升级时获得5+角色等级一半数值的行动点，向下取整。
 
 ### 本职技能
 
-The Dedicated hero’s class skills (and the key ability for each skill) are:
+感知型英雄的本职技能（以及技能的关键属性）如下：
 
-Craft (pharmaceutical, visual art, writing) (Int), Gamble (Wis), Investigate (Int), Knowledge (arcane lore, art, behavioral sciences, business, civics, current events, earth and life sciences, history, physical sciences, popular culture, streetwise, tactics, technology, theology and philosophy) (Int), Listen (Wis), Profession (Wis), Read/Write Language (none), Sense Motive (Wis), Speak Language (none), Spot (Wis), Survival (Wis), and Treat Injury (Wis).
+制造（配药、视觉艺术、写作）（智）、赌博（感）、调查（智）、知识（秘法学识、艺术、行为科学、商学、政法、时事、地球与生命科学、历史、物理科学、流行文化、街头智慧、策略、技术、神学与哲学）（智）、聆听（感）、专业（感）、读写语言（无）、察言观色（感）、口头语言（无）、侦察（感）、生存（感）以及医疗。
 
 此外，角色的职业背景也能提供可选的本职技能。
 
@@ -474,239 +475,239 @@ Craft (pharmaceutical, visual art, writing) (Int), Gamble (Wis), Investigate (In
 
 **升级技能点数：** 5+智力调整值
 
-### Table: The Dedicated Hero
+### 职业列表
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Class Features|Defense Bonus|Reputation Bonus|
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|职业专长|防御加值|声望加值|
 |:-------|---------|-------|-------|--------|:--------|----------|--------|
-|1st|+0|+1|+0|+1|Talent|+1|+1|
-|2nd|+1|+2|+0|+2|Bonus feat|+2|+1|
-|3rd|+2|+2|+1|+2|Talent|+2|+1|
-|4th|+3|+2|+1|+2|Bonus feat|+3|+2|
-|5th|+3|+3|+1|+3|Talent|+3|+2|
-|6th|+4|+3|+2|+3|Bonus feat|+3|+2|
-|7th|+5|+4|+2|+4|Talent|+4|+3|
-|8th|+6/+1|+4|+2|+4|Bonus feat|+4|+3|
-|9th|+6/+1|+4|+3|+4|Talent|+5|+3|
-|10th|+7/+2|+5|+3|+5|Bonus feat|+5|+4|
+|1st|+0|+1|+0|+1|天赋|+1|+1|
+|2nd|+1|+2|+0|+2|奖励专长|+2|+1|
+|3rd|+2|+2|+1|+2|天赋|+2|+1|
+|4th|+3|+2|+1|+2|奖励专长|+3|+2|
+|5th|+3|+3|+1|+3|天赋|+3|+2|
+|6th|+4|+3|+2|+3|奖励专长|+3|+2|
+|7th|+5|+4|+2|+4|天赋|+4|+3|
+|8th|+6/+1|+4|+2|+4|奖励专长|+4|+3|
+|9th|+6/+1|+4|+3|+4|天赋|+5|+3|
+|10th|+7/+2|+5|+3|+5|奖励专长|+5|+4|
 
 ### 起始专长
 
-In addition to the two feats all characters get at 1st level, a Dedicated hero begins play with the Simple Weapons Proficiency feat.
+除了所有角色在1级时获得的两个专长，感知型英雄初始拥有`擅长简易武器`专长。
 
 ### 职业专长
 
-The following are class features of the Dedicated hero.
+下文为感知型英雄的职业专长
 
 #### 天赋
 
-At 1st, 3rd, 5th, 7th, and 9th level, the Dedicated hero selects a talent from the following talent trees. 在点选部分天赋时需遵循该天赋树的点选顺序，其他天赋则可任意选择。只要满足先决条件，玩家可以在所有天赋树中任选。除非有特别说明，每个天赋最多只能点选一次。
+感知型英雄在1级，3级，5级，7级和9级时可以在以下天赋树中选择一个天赋。在点选部分天赋时需遵循该天赋树的点选顺序，其他天赋则可任意选择。只要满足先决条件，玩家可以在所有天赋树中任选。除非有特别说明，每个天赋最多只能点选一次。
 
-##### Empathic Talent Tree
+##### 移情天赋树
 
-The Dedicated hero’s innate talents give him or her a great capacity for empathy.
+感知型英雄天生拥有推己及人的同理心。
 
-**Empathy:** The Dedicated hero has a knack for being sensitive to the feelings and thoughts of others without having those feelings and thoughts communicated in any objectively explicit manner. This innate talent provides a bonus on checks involving interaction skills (Bluff, Diplomacy, Handle Animal, Intimidate, Perform, and Sense Motive), provided the hero spends at least 1 minute observing his or her target prior to making the skill check. The bonus is equal to the hero’s Dedicated level.
+**移情：**感知型英雄善识时务，不需言传便可领会他人的意思。此天赋允许英雄进行涉及交流的技能检定时，花费至少1分钟的时间观察目标的意图，给检定提供一个加值。加值等于英雄的感知等级。
 
-**Improved Aid Another:** The Dedicated hero’s bonus on attempts to aid another increases by +1 on a successful aid another check. This talent can be selected multiple times, each time increasing the bonus by +1.
+**精通救急：**感知型英雄在进行救急检定时额外获得一点加值。该天赋可重复选取，效果叠加。
 
-Prerequisite: Empathy.
+要求：移情
 
-**Intuition:** The Dedicated hero has an innate ability to sense trouble in the air. The Dedicated hero can make a Will saving throw (DC 15). On a successful save, the hero gets a hunch that everything is all right, or the hero gets a bad feeling about a specific situation, based on the GM’s best guess relating to the circumstances. This talent is usable a number of times per day equal to the character’s Dedicated level.
+**直觉：**感知型英雄善于感知气氛中的紧张。感知型英雄可以进行一次意志豁免（DC15）。若成功，英雄会预感一切顺利，否则英雄对预感到的画面感受到不祥，预感到的画面即是GM对当前情景的最乐观猜测。角色每天可以使用此天赋的次数等于角色的感知等级。
 
-Prerequisite: Empathy.
+要求：移情
 
-##### Healing Talent Tree
+##### 治疗天赋树
 
-The Dedicated hero has a talent for healing.
+感知型英雄拥有治疗的天赋。
 
-**Healing Knack:** The hero has a knack for the healing arts. The hero receives a +2 bonus on all Treat Injury skill checks.
+**治疗诀窍：**英雄在治疗上很有一套。英雄在所有的医疗技能检定上都有两点加值。
 
-**Healing Touch 1:** The Dedicated hero’s ability to restore damage with a medical kit or perform surgery with a surgery kit increases by +2 hit points.
+**一级救死扶伤：**感知型英雄用急救箱或手术箱治疗伤害时额外恢复2点生命。
 
-Prerequisite: Healing knack.
+要求：治疗诀窍
 
-**Healing Touch 2:** The Dedicated hero’s ability to restore damage with a medical kit or perform surgery with a surgery kit increases by +2 hit points, which stacks with healing touch 1 for a total of +4 hit points.
+**二级救死扶伤：**与一级救死扶伤叠加，额外恢复4点生命。
 
-Prerequisites: Healing knack, healing touch 1.
+要求：治疗诀窍、一级救死扶伤
 
-##### Insightful Talent Tree
+##### 洞见天赋树
 
-The Dedicated hero’s innate insightfulness serves her well.
+感知型英雄具有与生俱来的洞察力。
 
-**Skill Emphasis:** The Dedicated hero chooses a single skill and receives a +3 bonus on all checks with that skill. This bonus does not allow the hero to make checks for a trained-only skill if the hero has no ranks in the skill.
+**技能专精：**感知型英雄选择一个技能，使这个技能在检定时拥有3点加值。这个加值不能用于未习得的需受训技能。
 
-**Aware:** The Dedicated hero is intuitively aware of his or her surroundings. The hero adds his or her base Will saving throw bonus to Listen or Spot checks to avoid surprise.
+**觉察：**感知型英雄可以凭直觉感受周遭环境。英雄在进行聆听或侦察检定时，加上基础意志豁免作为加值。
 
-Prerequisite: Skill emphasis.
+要求：技能专精
 
-**Faith:** The Dedicated hero has a great deal of faith. It might be faith in self, in a higher power, or in both. This unswerving belief allows the Dedicated hero to add his or her Wisdom modifier to the die roll whenever the hero spends 1 action point to improve the result of an attack roll, skill check, saving throw, or ability check.
+**信念：**感知型英雄拥有强烈的信念。可以是信自己、更强大的力量、或两者皆有。这份坚定不移的信仰让英雄在花费1行动点提高攻击、技能、豁免、属性检定的结果时，再加上其感知调整值作为加值。
 
-Prerequisite: Skill emphasis.
+要求：技能专精
 
-**Cool Under Pressure:** The Dedicated hero selects a number of skills equal to 3 + the hero’s Wisdom modifier. When making a check with one of these skills, the Dedicated hero can take 10 even when distracted or under duress.
+**沉着：**感知型英雄选择（3+感知调整值）个技能。当检定这些技能时，感知型英雄可以在心烦意乱或受胁迫的情况下取10。
 
-Prerequisite: Skill emphasis plus either faith or aware.
+要求：技能专精+（信念或觉察）
 
 #### 奖励专长
 
-At 2nd, 4th, 6th, 8th, and 10th level, the Dedicated hero gains a bonus feat. This feat must be from this list, and the Dedicated hero must meet any prerequisites.
+2、4、6、8、10级时，感知型英雄获得奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
 
-Advanced Firearms Proficiency, Alertness, Archaic Weapons Proficiency, Attentive, Blind-Fight, Deceptive, Educated, Far Shot, Iron Will, Medical Expert, Meticulous, Surgery, Track, Weapon Focus.
+高级擅长火器、警觉、擅长古典武器、听者有心、盲战、欺诈、良好教育、远程射击、钢铁意志、医药专家、一丝不苟、手术、追踪、武器专攻。
 
-## THE CHARISMATIC HERO
+## 魅力型英雄
 
-**Ability:** Charisma
+**关键属性：** 魅力
 
 **生命骰：** 1d6
 
-**Action Points:** Charismatic heroes gain a number of action points equal to 5 + one-half their character level, rounded down, at 1st level and every time they attain a new level in this class.
+**行动点：** 魅力型英雄在1级和升级时获得5+角色等级一半数值的行动点，向下取整。
 
 ### 本职技能
 
-The Charismatic hero’s class skills (and the key ability for each skill) are:
+魅力型英雄的本职技能（以及技能的关键属性）如下：
 
-Bluff (Cha), Craft (visual art, writing) (Int), Diplomacy (Cha), Disguise (Cha), Gather Information (Cha), Handle Animal (Cha), Intimidate (Cha), Knowledge (arcane lore, art, behavioral sciences, business, civics, current events, popular culture, streetwise, theology and philosophy) (Int), Perform (act, dance, keyboards, percussion instruments, sing, stand-up, stringed instruments, wind instruments) (Cha), Profession (Wis), Read/Write Language (none), and Speak Language (none).
+唬骗（魅）、制造（视觉艺术、写作）（智）、交涉（魅）、易容（魅）、收集信息（魅）、驯养动物（魅）、威吓（魅）、知识（秘法学识、艺术、行为科学、商学、政法、时事、流行文化、街头智慧、神学与哲学）（智）、表演（演戏、舞蹈、键盘乐器、打击乐器、唱歌、单口相声、弦乐器、管乐器）（魅）、专业（感）、读写语言（无）和口头语言（无）。
 
 此外，角色的职业背景也能提供可选的本职技能。
 
-**Skill Points at 1st Level:** (7 + Int modifier) x4.
+**1级技能点数：** （7+智力调整值）x4
 
-**Skill Points at Each Additional Level:** 7 + Int modifier.
+**升级技能点数：** 7+智力调整值
 
-### Table: The Charismatic Hero
+### 职业列表
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Class Features|Defense Bonus|Reputation Bonus|
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|职业专长|防御加值|声望加值|
 |:-------|---------|-------|-------|--------|:--------|----------|--------|
-|1st|+0|+1|+1|+0|Talent|+0|+2|
-|2nd|+1|+2|+2|+0|Bonus feat|+1|+2|
-|3rd|+1|+2|+2|+1|Talent|+1|+2|
-|4th|+2|+2|+2|+1|Bonus feat|+1|+3|
-|5th|+2|+3|+3|+1|Talent|+2|+3|
-|6th|+3|+3|+3|+2|Bonus feat|+2|+3|
-|7th|+3|+4|+4|+2|Talent|+2|+4|
-|8th|+4|+4|+4|+2|Bonus feat|+3|+4|
-|9th|+4|+4|+4|+3|Talent|+3|+4|
-|10th|+5|+5|+5|+3|Bonus feat|+3|+5|
+|1st|+0|+1|+1|+0|天赋|+0|+2|
+|2nd|+1|+2|+2|+0|奖励专长|+1|+2|
+|3rd|+1|+2|+2|+1|天赋|+1|+2|
+|4th|+2|+2|+2|+1|奖励专长|+1|+3|
+|5th|+2|+3|+3|+1|天赋|+2|+3|
+|6th|+3|+3|+3|+2|奖励专长|+2|+3|
+|7th|+3|+4|+4|+2|天赋|+2|+4|
+|8th|+4|+4|+4|+2|奖励专长|+3|+4|
+|9th|+4|+4|+4|+3|天赋|+3|+4|
+|10th|+5|+5|+5|+3|奖励专长|+3|+5|
 
 ### 起始专长
 
-In addition to the two feats all characters get at 1st level, a Charismatic hero begins play with the Simple Weapons Proficiency feat.
+除了所有角色在1级时获得的两个专长，魅力型英雄初始拥有`擅长简易武器`专长。
 
 ### 职业专长
 
-All of the following are class features of the Charismatic hero.
+下文为魅力型英雄的职业专长
 
 #### 天赋
 
-At 1st, 3rd, 5th, 7th, and 9th level, the Charismatic hero selects a talent from the following talent trees. 在点选部分天赋时需遵循该天赋树的点选顺序，其他天赋则可任意选择。只要满足先决条件，玩家可以在所有天赋树中任选。除非有特别说明，每个天赋最多只能点选一次。
+魅力型英雄在1级，3级，5级，7级和9级时可以在以下天赋树中选择一个天赋。在点选部分天赋时需遵循该天赋树的点选顺序，其他天赋则可任意选择。只要满足先决条件，玩家可以在所有天赋树中任选。除非有特别说明，每个天赋最多只能点选一次。
 
-##### Charm Talent Tree
+##### 魅惑天赋树
 
-The Charismatic hero has an innate talent for being charming and captivating.
+魅力型英雄善于魅惑、迷倒他人。
 
-**Charm:** The Charismatic hero gets a competence bonus on all Charisma-based skill checks made to influence members of his chosen gender. (Some characters are charming to members of the opposite gender, others to members of the same gender.) The bonus is equal to the character’s Charismatic level.
+**魅惑：**解锁时，魅力型英雄指定一个性别，在用魅力相关的技能检定影响该性别的所有同伴时，获得一个表现加值。（有的角色对异性而不是同性同伴有魅力）加值等于角色的魅力等级。
 
-A Charismatic hero can only charm Gamemaster characters with attitudes of indifferent or better. The charm bonus can’t be used against characters who are unfriendly or hostile.
+魅力型英雄只能魅惑对其态度为不关心及以上的GM角色。魅惑加值不能用于不友善或者敌对的角色。
 
-This ability can be taken more than once (for another gender).
+这个能力可以选取多次（解锁另一个性别）。
 
-**Favor:** The Charismatic hero has the ability to acquire minor aid from anyone he or she meets. By making a favor check, a Charismatic hero can gain important information without going through the time and trouble of doing a lot of research. Favors can also be used to acquire the loan of equipment or documents, or to receive other minor assistance in the course of an adventure.
+**求援：**魅力型英雄能够请任何所遇之人帮忙。英雄进行一个求援检定，无需花费时间和精力钻研难题便可以获得关键信息。求援也可用于借用装备或文件，或者在冒险的途中得到他人的襄助。
 
-A Charismatic hero spends 1 action point to activate this talent. To make a favor check, roll a d20 and add the character’s favor bonus, equal to the character’s Charismatic level. The GM sets the DC based on the scope of the favor being requested. The DC ranges from 10 for a simple favor to as high as 30 for formidable and highly dangerous, expensive, or illegal favors. A Charismatic hero can’t take 10 or 20 on this check, nor can the hero retry the check for the same (or virtually the same) favor.  Favors should help advance the plot of an adventure. A favor that would enable a character to avoid an adventure altogether should always be unavailable to the character, regardless of the result of a favor check.
+魅力型英雄使用此天赋需花费1点行动点。进行求援检定，就是d20+魅力等级。DC由GM酌情规定，DC下限是10，表示简单的小忙，上限是30，表示艰难、高危、昂贵或者违法的忙。不可以取10取20，同一个忙（或相近的）也不可以重复检定。求援应用于帮助推进情节，决不能允许角色避开冒险，无论检定结果如何。
 
-The GM should carefully monitor a Charismatic hero’s use of favors to ensure that this ability isn’t abused. The success or failure of a mission shouldn’t hinge on the use of a favor, and getting a favor shouldn’t replace good roleplaying or the use of other skills. The GM may disallow any favor deemed to be disruptive to the game.
+GM应管控好魅力型英雄对求援的使用，确保求援不被滥用。关卡的成功与失败不应取决于求援的使用，不能用接受帮助来代替出色的角色扮演或其他技能的使用。GM不应允许破坏游戏体验的求援行为。
 
-Prerequisite: Charm.
+要求：魅惑
 
-**Captivate:** The Charismatic hero has the ability to temporarily beguile a target through the use of words and bearing. The target must have an Intelligence score of 3 or higher to be susceptible to a captivate attempt, must be within 30 feet of the hero, must be flat-footed or not in combat, and must be able to see, hear, and understand the hero.
+**夺目：**魅力型英雄能够用言语和所持物骗取目标的注意。目标智力必须不少于3才能被吸引，必须在英雄30尺内，必须为措手不及或者不在战斗中，必须能看见、听见、理解英雄的意思。
 
-To captivate a target, the hero must use an attack action and make a Charisma check (DC 15), adding his or her Charismatic level as a bonus. If the Charisma check succeeds, the target can try to resist.
+要吸引目标的注意，英雄消耗一次攻击行动做一次加上魅力等级作为加值的魅力检定（DC15）。检定成功后，目标可尝试抗拒。
 
-The target resists the captivation attempt by making a Will saving throw (DC 10 + Charismatic hero’s class level + Charismatic hero’s Cha bonus). If the saving throw fails, the hero becomes the target’s sole focus. The target pays no attention to anyone else for 1 round and remains flat-footed. This focusing of the target’s attention allows other characters to take actions of which the captivated target is unaware. The effect ends immediately if the target is attacked or threatened.
+目标用一次意志豁免（DC为10+英雄魅力等级+英雄魅力加值）来抵抗吸引。豁免失败，英雄将成功吸引目标的注意。目标一轮内无视其他人，且会处于措手不及状态。吸引目标的注意力可以让其他角色做动作，而不被目标发现。若目标被攻击或威胁，效果立即结束。
 
-A Charismatic hero can concentrate to keep a target captivated for additional rounds. The Charismatic hero concentrates all his or her effort on the task, and the target gets to make a new Will save each round. The effect ends when the hero stops concentrating, or when the target succeeds on the save. This is a Mind-Affecting ability.
+魅力型英雄可以专门持续吸引目标的注意，若如此，目标每轮都要进行一次意志豁免。英雄停止吸引或者目标豁免成功，效果结束。这是一个`影响心灵`的能力。
 
-Prerequisites: Charm, Favor.
+要求：魅惑、求援
 
-##### Fast-Talk Talent Tree
+##### 花言巧语天赋树
 
-The Charismatic hero has an innate talent for bending the truth and dazzling others with a combination of words, mannerisms, and charm.
+魅力型英雄善用三寸不烂之舌、神态与动作混淆视听。
 
-**Fast-Talk:** The Charismatic hero has a way with words when attempting to con and deceive. With this talent, he or she applies his or her Charismatic level as a competence bonus on any Bluff, Diplomacy, or Gamble checks the hero makes while attempting to lie, cheat, or otherwise bend the truth.
+**花言巧语：** 魅力型英雄有一套坑蒙拐骗的话术。拥有此天赋的英雄在为说谎、欺诈或者其他歪曲事实的行为作唬骗、交涉、赌博鉴定时，获得一个等于其魅力等级的加值。
 
-**Dazzle:** The Charismatic hero has the ability to dazzle a target through sheer force of personality, a winning smile, and fast-talking. The target must have an Intelligence score of 3 or higher to be susceptible to a dazzle attempt, must be within 30 feet of the hero, and must be able to see, hear, and understand the hero.
+**虚张声势：** 魅力型英雄能够用纯粹的个人魅力、胜利的微笑或者花言巧语唬住目标，影响目标发挥。目标的智力必须不少于3才能受到影响，必须在英雄30尺内，必须能看见、听见、理解英雄的意思。
 
-To dazzle a target, the hero must use an attack action and make a Charisma check (DC 15), adding his or her Charismatic level as a bonus. If the Charisma check succeeds, the target can try to resist.
+要使用此天赋，英雄应使用一次攻击动作作一个加上魅力等级作为加值的魅力检定（DC15）。检定成功后，目标可尝试抗拒。
 
-The target resists the dazzle attempt by making a Will saving throw (DC 10 + Charismatic hero’s class level + Charismatic hero’s Cha bonus). If the save fails, the target receives a –1 penalty on attack rolls, ability checks, skill checks, and saving throws for a number of rounds equal to the character’s Charismatic level.
+目标用一次意志豁免（DC为10+英雄魅力等级+英雄魅力加值）来抵抗虚张声势。若豁免失败，目标会在等同于施放者魅力等级的轮数内，攻击骰、属性检定、豁免骰都获得一点减值。
 
-This talent can be selected multiple times, each time worsening the dazzled penalty by –1.  This is a Mind-Affecting ability.
+此天赋可重复解锁，每解锁一层减值多一点。这是一个`影响心灵`的能力。
 
-Prerequisite: Fast-talk.
+要求：花言巧语
 
-**Taunt:** The Charismatic hero has the ability to temporarily rattle a target through the use of insults and goading. The target must have an Intelligence score of 3 or higher to be susceptible to a taunt, must be within 30 feet of the hero, and must be able to hear and understand the hero.
+**嘲讽：** 魅力型英雄可以辱骂和刺激目标目标的智力必须不少于3才能听懂嘲讽，必须在英雄30尺内，必须能听见、理解英雄的意思。
 
-To taunt a target, the hero must use an attack action and make a Charisma check (DC 15), adding his or her Charismatic level as a bonus. If the Charisma check succeeds, the target can try to resist.
+要嘲讽住目标，英雄消耗一次攻击行动做一次加上魅力等级作为加值的魅力检定（DC15）。检定成功后，目标可尝试抗拒。
 
-The target resists the taunt by making a Will saving throw (DC 10 + Charismatic hero’s class level + Charismatic hero’s Cha bonus). If the save fails, the target becomes dazed (unable to act, but can defend normally) for 1 round.
+目标用一次意志豁免（DC为10+英雄魅力等级+英雄魅力加值）来抵抗嘲讽。如果豁免失败，目标会陷入眩晕1轮（无法行动，但可保护自己）。
 
-A taunt can be played on an opponent any number of times.  This is a Mind-Affecting ability.
+可多次嘲讽同一个目标。这是一个`影响心灵`的能力。
 
-Prerequisites: Fast-talk, dazzle.
+要求：花言巧语、虚张声势
 
-##### Leadership Talent Tree
+##### 领导天赋树
 
-The Charismatic hero has a talent for leadership and inspiration.
+魅力型英雄善于领导与激励。
 
-**Coordinate:** The Charismatic hero has a knack for getting people to work together. When the hero can spend a full round directing his or her allies and makes a Charisma check (DC 10), the hero provides any of his or her allies within 30 feet a +1 bonus on their attack rolls and skill checks. The bonus lasts for a number of rounds equal to the hero’s Charisma modifier.
+**协调：** 魅力型英雄在组织工作上很有一套。英雄用一个整轮动作进行一个魅力检定（DC10），指定30尺内任意几个友方，使其攻击或技能检定获得1点加值。加值持续轮数为英雄的魅力调整值。
 
-The hero can coordinate a number of allies equal to one-half his or her Charismatic level, rounded down (to a minimum of one ally).
+可指定的人数为英雄魅力等级的一半，向下取整，至少为1。
 
-**Inspiration:** The Charismatic hero can inspire his or her allies, bolstering them and improving their chances of success. An ally must listen to and observe the Charismatic hero for a full round for the inspiration to take hold, and the hero must make a Charisma check (DC 10). The effect lasts for a number of rounds equal to the hero’s Charisma modifier.
+**激励：** 魅力型英雄可以激励友方，在背后支持他们，提高他们的成功机会。友方必须整轮不动，用一整轮的时间来听取和观察魅力型英雄的激励，英雄作一次魅力检定（DC10）。效果持续轮数为英雄的魅力调整值。
 
-An inspired ally gains a +2 morale bonus on saving throws, attack rolls, and damage rolls.
+被激励的友方的豁免、攻击和伤害骰都获得2点士气加值。
 
-A Charismatic hero can’t inspire him or herself. The hero can inspire a number of allies equal to one-half his or her Charismatic level, rounded down (to a minimum of one ally).
+不能自己激励自己。可激励的人数为英雄魅力等级的一半，向下取整，至少为1。
 
-Prerequisite: Coordinate.
+要求：协调。
 
-**Greater Inspiration:** The Charismatic hero can inspire his or her allies to even greater heights, bolstering them and improving their chances of success. An ally must listen to and observe the Charismatic hero for a full round for the greater inspiration to take hold, and the hero must make a Charisma check (DC 10). The effect lasts for a number of rounds equal to the hero’s Charisma modifier.
+**高级激励：** 魅力型英雄可以更有效地激励友方，在背后支持他们，提高他们的成功机会。友方必须整轮不动，用一整轮的时间来听取和观察魅力型英雄的高级激励，英雄作一次魅力检定（DC10）。效果持续轮数为英雄的魅力调整值。
 
-An inspired ally gains an additional +1 morale bonus on saving throws, attack rolls, and damage rolls, which stacks with the bonus from inspiration for a total of a +3 morale bonus.
+被激励的友方的豁免、攻击和伤害骰共计获得3点士气加值。
 
-A Charismatic hero can’t inspire him or herself. The hero can inspire a number of allies equal to one-half his or her Charismatic level, rounded down (to a minimum of one ally).
+不能自己激励自己。可激励的人数为英雄魅力等级的一半，向下取整，至少为1。
 
-Prerequisites: Coordinate, inspiration.
+要求： 协调、激励
 
 #### 奖励专长
 
-At 2nd, 4th, 6th, 8th, and 10th level, the Charismatic hero gains a bonus feat. This feat must be selected from the following list, and the Charismatic hero must meet any prerequisites.
+2、4、6、8、10级时，魅力型英雄获得奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
 
-Agile Riposte, Creative, Deceptive, Dodge, Frightful Presence, Iron Will, Lightning Reflexes, Low Profile, Point Blank Shot, Renown, Trustworthy, Windfall.
+借机反击、富有创意、欺诈、闪避、气势凶猛、钢铁意志、闪电反射、低调、近程射击、闻名、值得信赖、横财。
 
-## Multiclass Characters
+## 跨职角色
 
-A character may add new classes as he or she progresses in levels, thereby becoming a multiclass character. The class abilities from all of a character’s classes combine to determine a multiclass character’s overall abilities.
+角色在另一个职业中获得等级，就成了一个跨职角色。角色所有职业的属性组合在一起即这个跨职角色的总属性。
 
-### Class and Level Features
+### 职业与等级专长
 
-As a general rule, the abilities of a multiclass character are the sum of the abilities provided by each of the character’s classes.
+总的来说，跨职角色的属性是角色每个职业提供的属性的总和。
 
-### Level
+### 等级
 
-“Character level” is a character’s total number of levels. It is used to determine when feats and ability score increases are gained
+`角色等级` 是角色所有职业等级之和。用来决定何时获得专长与属性。
 
-“Class level” is the character’s level in a particular class. For a hero whose levels are all in the same class, character level and class level are the same.
+`职业等级` 是角色在特定职业上的等级。一个英雄所有的等级都在一个职业上，那么角色等级就等于职业等级。
 
-### Hit Points
+### 生命值
 
-A hero gains hit points from each class as his or her class level increases, adding the new hit points to the previous total.
+英雄从每个职业的等级提升中获得生命值，加到角色生命值总和上。
 
-### Base Attack Bonus
+### 基础攻击加值
 
-Add the base attack bonuses for each class to get the hero’s base attack bonus. A resulting value of +6 or higher provides the hero with multiple attacks.
+英雄的基础攻击加值是每个职业的基础攻击加值之和。这个值大于等于6时英雄可以进行多次攻击。
 
-|Base Attack Bonus|Additional Attacks at|
+|基础攻击加值|额外攻击的基础攻击加值|
 |:----------------|:--------------------|
 |+6|+1|
 |+7|+2|
@@ -724,67 +725,67 @@ Add the base attack bonuses for each class to get the hero’s base attack bonus
 |+19|+14/+9/+4|
 |+20|+15/+10/+5|
 
-To use multiple attacks in the same round, a character must use a full attack, which is a full-round action.
+要在一轮中使用多次攻击，角色必须用掉一个整轮动作。
 
-### Saving Throws
+### 豁免
 
-Add the base save bonuses for each class together.
+为所有职业的豁免加值之和。
 
-### Defense Bonus
+### 防御加值
 
-Add the Defense bonuses for each class together.
+为所有职业的防御加值之和。
 
-### Reputation Bonus
+### 声望加值
 
-Add Reputation bonuses together.
+为所有职业的声望加值之和。
 
-### Skills
+### 技能
 
-A multiclass hero uses his or her character level to determine the maximum ranks the hero can have in a skill. If a skill is a class skill for any of a multiclass hero’s classes, then use character level to determine a skill’s maximum rank. (The maximum rank for a class skill is 3 + character level.)
+跨职英雄的技能等级上限由角色等级决定。若技能是一个职业技能，且跨职英雄有这个职业，则可用角色等级决定该技能的上限。（职业技能等级上限=3+角色等级）
 
-When a multiclass hero gains a level in a class, he or she spends that level’s skill points as a member of that class. Only that class’s class skills may be purchased as class skills. All other skills, including skills for another class the hero has levels in, are considered cross-class skills when ranks in those skills are purchased at this level.
+当跨职英雄的一个职业升级了，可将所获技能点加在这个职业的技能上。只有这个职业的技能被当作本职技能来加点。所有其他技能，包括角色拥有这个职业的职业技能，将被视为跨职技能来加点。
 
 ### 职业专长
 
-The character gets all class features (talents, bonus feats, or other special abilities) of all classes for the levels he or she possesses.
+角色可获得所拥有职业的所有职业专长、天赋、奖励专长和其他特殊能力。
 
-### Feats
+### 专长
 
-A multiclass character receives a new feat every three character levels, regardless of individual class level. Taking one level in a new class does not entitle a character to receive the two feats that a beginning 1st-level character gets.
+跨职角色每3级角色等级获得一个新专长，而不是根据职业等级决定。角色在新职业上获得等级，不会像在一级那样获得两个专长。
 
-### Ability Increases
+### 属性增长
 
-A multiclass character increases one ability score by +1 every four character levels, regardless of individual class level.
+跨职角色每4级角色等级获得1点属性点，而不是根据职业等级。
 
-### Adding a Second Class
+### 获得新职业
 
-When a character with one class gains a level, he or she may choose to increase the level of his or her current class or pick up a new class at 1st level. This could be a basic class or, if the character qualifies for it, an advanced class.
+单职角色升级时都可以选择在原来的职业还是一个新职业上升1级。可以选择一个基本职业，如果角色有资格选择，还可以选一个高级职业。
 
-The character gains the 1st-level base attack bonus, base save bonuses, class skills, other class features of the new class, hit points of the appropriate die type, and the new class’s number of skill points gained at each additional level (not that number x4, as is the case for a 1st-level character).
+角色获得1级的基础攻击加值、基础豁免加值、角色技能、新职业的职业专长、按正确掷骰获得的生命值以及新职业升1级所获的技能点（不是角色1级时获得的4倍技能点）。
 
-Picking up a new class is not exactly the same as starting a character in that class.  When picking up a new class, a hero doesn’t receive maximum hit points but should roll the new Hit Die.
+新职业升一级并不等于以这个职业新建1级的角色。获得新的职业，英雄获得的生命值不是取最大值而是应掷生命骰。
 
-### Advancing a Level
+### 升一级
 
-Each time a multiclass character attains a new level, the hero either increases one of his or her current class levels by one or picks up a new class at 1st level.
+跨职角色每次升级，可以选择在现有职业上增加等级或在新的职业上获得一级。
 
-When a multiclass character increases one of his or her class levels by one, the character gets all the standard benefits that characters receive for attaining the new level in that class: more hit points, possible bonuses on attack rolls, Defense, and saving throws (depending on the class and the new level), a new class feature (as defined by the class), and new skill points.
+当跨职角色在一个职业上升了一级，角色获得这个职业升级所得：生命值，攻击、防御、豁免的加值（职业列表所述）、新的职业专长（仅限该职业）以及新的技能点。
 
-Skill points are spent according to the class that the multiclass character just advanced in. Skills are purchased at the cost appropriate for that class.
+获得的技能点数取决于所升级的职业。升级技能的花费也取决于所升级的职业。
 
-In general, a character can have levels in as many different classes as there are classes.
+总的来说，角色能在有所有可选择的职业上获得等级。
 
-### Age
+### 年龄的增长
 
-As the character ages, his or her physical ability scores decrease and his or her mental ability scores increase, as detailed on Table: Aging Effects. The effects of each aging step are cumulative.
+随着角色年龄的变化，角色肉体上的属性会下降而精神上的属性会增加，如下表。每个年龄段的效果会叠加。
 
-Table: Aging Effects
+表：年龄效果
 
-|Age Category|Ability Adjustments|
+|年龄段|属性调整|
 |:-----------|:------------------|
-|Child (1–11)|–3 to Str and Con; –1 to Dex, Int, Wis, and Cha|
-|Young adult (12–15)|Original scores|
-|Adult (16–39)|Original scores|
-|Middle age (40–59)|–1 to Str, Dex, and Con; +1 to Int, Wis, and Cha|
-|Old (60–79)|–1 to Str, Dex, and Con; +1 to Int, Wis, and Cha|
-|Venerable (80+)|–1 to Str, Dex, and Con; +1 to Int, Wis, and Cha|
+|儿童（1-11）|力体–3；敏智感魅–1|
+|青少年（12-15）|不变|
+|青年（16-39）|不变|
+|中年（40–59）|力敏体–1；智感魅+1|
+|老年（60-79）|力敏体–1；智感魅+1|
+|高年（80+）|力敏体–1；智感魅+1|
