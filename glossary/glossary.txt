@@ -341,3 +341,12 @@ Multiclass	跨职
 multiple attacks	多次攻击
 Base Attack Bonus	基础攻击加值
 advanced class	高级职业
+Soldier	士兵
+Martial Artist	武术家
+Gunslinger	枪手
+Infiltrator	渗透者
+Daredevil	勇士
+Bodyguard	保镖
+Field Scientist	战地科学家
+Techie	技师
+Mage	法师

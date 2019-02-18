@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># ADVANCED CLASSES</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190218T140015Z" creationid="quentine" creationdate="20190218T140015Z">
+        <seg># 高级职业</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># ALLEGIANCES</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T141628Z" creationid="QuenTine" creationdate="20181103T141628Z">
@@ -3602,6 +3610,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ADVANCED CLASSES</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T115057Z" creationid="quentine" creationdate="20190216T115057Z">
+        <seg>高级职业</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ability damage returns at the rate of 1 point per evening of rest (8 hours of sleep).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113707Z" creationid="quentine" creationdate="20190115T113707Z">
@@ -3990,6 +4006,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T140642Z" creationid="QuenTine" creationdate="20181106T140642Z">
         <seg>花费要是超过角色的余额，也会有所惩罚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Although each advanced class naturally builds from a certain basic class, every advanced class is available to all characters who fulfill the prerequisites of the class, regardless of what basic classes they have gained levels in.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T120152Z" creationid="quentine" creationdate="20190216T120152Z">
+        <seg>虽然每个高级职业都是建立在相应的基本职业之上，但每个高级职业都是允许所有满足了职业要求的角色选择的，和角色的基本职业的等级没什么关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An advanced class represents a focus and a calling for the experienced adventurer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T115426Z" creationid="quentine" creationdate="20190216T115426Z">
+        <seg>高级职业就是一些有经验的冒险者用的职业。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6111,6 +6143,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It provides a specialization and a range of power and ability to give a character that something extra to set him or her apart.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T115758Z" creationid="quentine" creationdate="20190216T115758Z">
+        <seg>这些职业给角色提供了更专门化的能力，细分了角色的种类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s a rare mission that doesn’t end up in the dark somewhere, and heroes need a way to see.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131251Z" creationid="quentine" creationdate="20190115T131251Z">
@@ -7453,6 +7493,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143309Z" creationid="quentine" creationdate="20190115T143309Z">
         <seg>酸液的伤害量取决于酸的强度，如下表所示：酸性伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The associations between basic classes and advanced classes are summarized on the following table.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T120301Z" creationid="quentine" creationdate="20190216T120301Z">
+        <seg>下表总结了基本职业和高级职业的联系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9332,6 +9380,28 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |+18|+13/+8/+3|
 |+19|+14/+9/+4|
 |+20|+15/+10/+5|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Basic Class\*|Advanced Class|
+|:------------|:-------------|
+|Strong|Soldier; Martial Artist|
+|Fast|Gunslinger; Infiltrator|
+|Tough|Daredevil; Bodyguard|
+|Smart|Field Scientist; Techie, Mage|
+|Dedicated|Field Medic; Investigator, Acolyte|
+|Charismatic|Personality; Negotiator|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T122824Z" creationid="quentine" creationdate="20190216T121804Z">
+        <seg>|基本职业\*|高级职业|
+|:------------|:-------------|
+|力量型|士兵；武术家|
+|敏捷型|枪手；渗透者|
+|体质型|勇士；保镖|
+|智力型|战地科学家；技师、法师|
+|感知型|Field Medic; Investigator, Acolyte|
+|魅力型|Personality; Negotiator|</seg>
       </tuv>
     </tu>
     <tu>

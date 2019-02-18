@@ -2,7 +2,7 @@
 1Modern现代/2msrdbasics基本.md
 1Modern现代/3msrdabilityscores属性值.md
 1Modern现代/4msrdallegiances立场.md
-1Modern现代/5msrdoccupation职业背景.md
+1Modern现代/5msrdoccupation背景.md
 1Modern现代/6msrdreputation声望.md
 1Modern现代/7msrdwealth财富.md
 1Modern现代/8msrddefense防御.md
@@ -11,11 +11,11 @@
 1Modern现代/11msrddeathdyinghealing死亡、濒死与治疗.md
 1Modern现代/12msrdconditionsummary状态摘要.md
 1Modern现代/13msrdenvironmentandhazards环境与危险.md
-1Modern现代/14msrdbasicclasses基本角色职业.md
-1Modern现代/15msrdadvancedclassesI.md
-1Modern现代/16msrdadvancedclassesII.md
-1Modern现代/17msrdordinaries.md
-1Modern现代/18msrdfeats.md
+1Modern现代/14msrdbasicclasses基本职业.md
+1Modern现代/15msrdadvancedclassesI高级职业I.md
+1Modern现代/16msrdadvancedclassesII高级职业II.md
+1Modern现代/17msrdordinaries路人.md
+1Modern现代/18msrdfeats专长.md
 1Modern现代/19msrdskillsoverview.md
 1Modern现代/20msrdskillsi.md
 1Modern现代/21msrdskillsii.md
