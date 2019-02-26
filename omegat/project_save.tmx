@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## MARTIAL ARTIST</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T134650Z" creationid="quentine" creationdate="20190226T134650Z">
+        <seg>## 武术家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Massive Damage</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T141815Z" creationid="quentine" creationdate="20190114T141815Z">
@@ -746,6 +754,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T142207Z" creationid="QuenTine" creationdate="20181104T142207Z">
         <seg>## 农户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## SOLDIER</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T134333Z" creationid="quentine" creationdate="20190221T134333Z">
+        <seg>## 士兵</seg>
       </tuv>
     </tu>
     <tu>
@@ -1078,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Class Information</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T134549Z" creationid="quentine" creationdate="20190221T134549Z">
+        <seg>### 职业信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### Class Skills</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114656Z" creationid="quentine" creationdate="20190116T114631Z">
@@ -1296,6 +1320,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Requirements</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T134342Z" creationid="quentine" creationdate="20190221T134342Z">
+        <seg>### 要求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### Saving Throws</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T083924Z" creationid="quentine" creationdate="20190216T083924Z">
@@ -1344,9 +1376,25 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Table: The Martial Artist</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T135328Z" creationid="quentine" creationdate="20190226T135328Z">
+        <seg>### 职业列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### Table: The Smart Hero</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T131337Z" creationid="quentine" creationdate="20190201T131337Z">
+        <seg>### 职业列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Table: The Soldier</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T140505Z" creationid="quentine" creationdate="20190221T140505Z">
         <seg>### 职业列表</seg>
       </tuv>
     </tu>
@@ -1392,10 +1440,98 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#### Critical Strike</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T132404Z" creationid="quentine" creationdate="20190226T132404Z">
+        <seg>#### 致命重击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Flurry of Blows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T145014Z" creationid="quentine" creationdate="20190226T145014Z">
+        <seg>#### 疾风连击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Flying Kick</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T142813Z" creationid="quentine" creationdate="20190226T142813Z">
+        <seg>#### 飞踢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Greater Weapon Specialization</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T131321Z" creationid="quentine" creationdate="20190226T131321Z">
+        <seg>#### 高等武器专精</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Improved Critical</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T130719Z" creationid="quentine" creationdate="20190226T130719Z">
+        <seg>#### 精通重击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Improved Reaction</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T131133Z" creationid="quentine" creationdate="20190226T131133Z">
+        <seg>#### 快速反应</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Iron Fist</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T143856Z" creationid="quentine" creationdate="20190226T143856Z">
+        <seg>#### 铁拳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Living Weapon</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T140519Z" creationid="quentine" creationdate="20190226T140519Z">
+        <seg>#### 人间兵器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Tactical Aid</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T130025Z" creationid="quentine" creationdate="20190226T130025Z">
+        <seg>#### 战术支援</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#### Talents</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120207Z" creationid="quentine" creationdate="20190116T120207Z">
         <seg>#### 天赋</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Weapon Focus</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T133826Z" creationid="quentine" creationdate="20190222T133826Z">
+        <seg>#### 专攻武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Weapon Specialization</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T134620Z" creationid="quentine" creationdate="20190222T134620Z">
+        <seg>#### 专精武器</seg>
       </tuv>
     </tu>
     <tu>
@@ -1753,50 +1889,66 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Action Points:** 6 + one-half character level, rounded down, every time the character attains a new level in this class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T134918Z" creationid="quentine" creationdate="20190221T134918Z">
+        <seg>**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Action Points:** 6 + one-half character level, rounded down, every time the martial artist attains a new level in this class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T134853Z" creationid="quentine" creationdate="20190226T134853Z">
+        <seg>**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Action Points:** Charismatic heroes gain a number of action points equal to 5 + one-half their character level, rounded down, at 1st level and every time they attain a new level in this class.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T111802Z" creationid="quentine" creationdate="20190202T111802Z">
-        <seg>**行动点：** 魅力型英雄在1级和升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T135251Z" creationid="quentine" creationdate="20190202T111802Z">
+        <seg>**行动点：** 魅力型英雄在1级和该职业升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>**Action Points:** Dedicated heroes gain a number of action points equal to 5 + one-half their character level, rounded down, at 1st level and every time they attain a new level in this class.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T024959Z" creationid="quentine" creationdate="20190202T024959Z">
-        <seg>**行动点：** 感知型英雄在1级和升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T135155Z" creationid="quentine" creationdate="20190202T024959Z">
+        <seg>**行动点：** 感知型英雄在1级和该职业升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>**Action Points:** Fast heroes gain a number of action points equal to 5 + one-half their character level, rounded down, at 1st level and every time they attain a new level in this class.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T134001Z" creationid="quentine" creationdate="20190116T134001Z">
-        <seg>**行动点：** 敏捷型英雄在1级和升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T135113Z" creationid="quentine" creationdate="20190116T134001Z">
+        <seg>**行动点：** 敏捷型英雄在1级和该职业升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>**Action Points:** Smart heroes gain a number of action points equal to 5 + one-half their character level, rounded down, at 1st level and every time they attain a new level in this class.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T125846Z" creationid="quentine" creationdate="20190201T125846Z">
-        <seg>**行动点：** 智力型英雄在1级和升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T135133Z" creationid="quentine" creationdate="20190201T125846Z">
+        <seg>**行动点：** 智力型英雄在1级和该职业升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>**Action Points:** Strong heroes gain a number of action points equal to 5 + one-half their character level, rounded down, at 1st level and every time they attain a new level in this class.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T121258Z" creationid="quentine" creationdate="20190116T121258Z">
-        <seg>**行动点：** 力量型英雄在1级和升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T135052Z" creationid="quentine" creationdate="20190116T121258Z">
+        <seg>**行动点：** 力量型英雄在1级和该职业升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>**Action Points:** Tough heroes gain a number of action points equal to 5 + one-half their character level, rounded down, at 1st level and every time they attain a new level in this class.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T141722Z" creationid="quentine" creationdate="20190117T141722Z">
-        <seg>**行动点：** 体质型英雄在1级和升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T135123Z" creationid="quentine" creationdate="20190117T141722Z">
+        <seg>**行动点：** 体质型英雄在1级和该职业升级时获得5+角色等级一半数值的行动点，向下取整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1837,6 +1989,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T102949Z" creationid="quentine" creationdate="20190202T102949Z">
         <seg>**觉察：**感知型英雄可以凭直觉感受周遭环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Base Attack Bonus:** +3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T134446Z" creationid="quentine" creationdate="20190221T134446Z">
+        <seg>**基础攻击加值：** +3</seg>
       </tuv>
     </tu>
     <tu>
@@ -2045,6 +2205,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190203T041125Z" creationid="quentine" creationdate="20190202T122139Z">
         <seg>**求援：**魅力型英雄能够请任何所遇之人帮忙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Feat:** Personal Firearms Proficiency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T134539Z" creationid="quentine" creationdate="20190221T134539Z">
+        <seg>**专长：** 擅长单兵火器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Feats:** Combat Martial Arts, Defensive Martial Arts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T134751Z" creationid="quentine" creationdate="20190226T134751Z">
+        <seg>**专长：**实战武术、防御武术。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2305,6 +2481,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Qualifying for an Advanced Class**</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T133729Z" creationid="quentine" creationdate="20190221T133729Z">
+        <seg>**满足条件才能选择高级职业**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Ref Save:** The base save bonus for Reflex saving throws.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115722Z" creationid="quentine" creationdate="20190116T115722Z">
@@ -2458,6 +2642,38 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Skill Points at Each Level:** 3 + Int modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T135314Z" creationid="quentine" creationdate="20190226T135314Z">
+        <seg>**升级技能点数：** 3+智力调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Skill Points at Each Level:** 5 + Int modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T135906Z" creationid="quentine" creationdate="20190221T135906Z">
+        <seg>**升级技能点数：** 5+智力调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Skill:** Jump 3 ranks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T134715Z" creationid="quentine" creationdate="20190226T134715Z">
+        <seg>**技能：** 跳跃3级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Skill:** Knowledge (tactics) 3 ranks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T134509Z" creationid="quentine" creationdate="20190221T134509Z">
+        <seg>**技能：** 知识（策略）3级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Skills:** Choose one of the following skills as permanent class skills.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T124309Z" creationid="QuenTine" creationdate="20181104T124309Z">
@@ -2494,6 +2710,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190130T144730Z" creationid="quentine" creationdate="20190130T144730Z">
         <seg>**耐力：**体质型英雄恢复速度加倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Table:** The Soldier</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T135943Z" creationid="quentine" creationdate="20190221T135943Z">
+        <seg>**职业列表**</seg>
       </tuv>
     </tu>
     <tu>
@@ -3146,6 +3370,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character who qualifies can choose an advanced class as an additional class as he or she gains levels, using the multiclassing rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T134034Z" creationid="quentine" creationdate="20190221T134034Z">
+        <seg>满足了要求的角色将可以选择一个高级职业，作为一个新增的职业，按照跨职规则提升等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character who succeeds at a Survival check (DC 15) gains a +4 competence bonus on the save (see the Survival skill).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131933Z" creationid="quentine" creationdate="20190115T131933Z">
@@ -3658,6 +3890,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acrobatic, Advanced Combat Martial Arts, Archaic Weapons Proficiency, Combat Reflexes, Combat Throw, Elusive Target, Exotic Melee Weapon Proficiency, Improved Combat Throw, Improved Combat Martial Arts, Unbalance Opponent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T143849Z" creationid="quentine" creationdate="20190226T143849Z">
+        <seg>杂技、高级实战武术、擅长古典武器、战斗反射、摔投技巧、凌波微步、擅长异种近战武器、精通摔投技巧、精通实战武术、晃倒对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acrobatic, Combat Expertise, Combat Throw, Defensive Martial Arts, Double Tap, Elusive Target, Focused, Improved Disarm, Mobility, Personal Firearms Proficiency, Point Blank Shot, Stealthy, Weapon Finesse.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T142233Z" creationid="quentine" creationdate="20190117T134416Z">
@@ -3748,8 +3988,24 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>Advanced Firearms Proficiency, Alertness, Archaic Weapons Proficiency, Attentive, Blind-Fight, Deceptive, Educated, Far Shot, Iron Will, Medical Expert, Meticulous, Surgery, Track, Weapon Focus.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T111705Z" creationid="quentine" creationdate="20190202T110016Z">
-        <seg>高级擅长火器、警觉、擅长古典武器、听者有心、盲战、欺诈、良好教育、远程射击、钢铁意志、医药专家、一丝不苟、手术、追踪、武器专攻。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T141205Z" creationid="quentine" creationdate="20190202T110016Z">
+        <seg>高级擅长火器、警觉、擅长古典武器、听者有心、盲战、欺诈、良好教育、远程射击、钢铁意志、医药专家、一丝不苟、手术、追踪、专攻武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced Firearms Proficiency, Archaic Weapons Proficiency, Armor Proficiency (light), Armor Proficiency (medium), Armor Proficiency (heavy), Brawl, Burst Fire, Cleave, Combat Reflexes, Exotic Firearms Proficiency, Exotic Melee Weapon Proficiency, Far Shot, Great Cleave, Im-proved Brawl, Improved Knockout Punch, Knockout Punch, Power Attack.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T130013Z" creationid="quentine" creationdate="20190226T125336Z">
+        <seg>高级擅长火器、擅长古典武器、擅长盔甲（轻型）、擅长盔甲（中型）、擅长盔甲（重型）、拳法、点射、顺势斩、战斗反射、擅长异种近战武器、远程射击、强力顺势斩、精通拳法、精通终结之拳、终结之拳、猛力攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced classes are like basic classes, except that they have requirements that must be met before a character can attain 1st level in the class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T133841Z" creationid="quentine" creationdate="20190221T133841Z">
+        <seg>高级职业和基本职业没什么不同，唯一的区别是必须满足高级职业的要求才能解锁这个职业。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4156,8 +4412,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>Animal Affinity, Archaic Weapons Proficiency, Athletic, Blind-Fight, Brawl, Cleave, Combat Martial Arts, Combat Reflexes, Great Cleave, Improved Brawl, Improved Combat Martial Arts, Power Attack, Weapon Focus.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T133812Z" creationid="quentine" creationdate="20190116T132255Z">
-        <seg>动物亲和、擅长古典武器、竞技、盲战、拳法、顺势斩、实战武术、战斗反射、强力顺势斩、精通拳法、精通实战武术、猛力攻击、武器专攻。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T141135Z" creationid="quentine" creationdate="20190116T132255Z">
+        <seg>动物亲和、擅长古典武器、竞技、盲战、拳法、顺势斩、实战武术、战斗反射、强力顺势斩、精通拳法、精通实战武术、猛力攻击、专攻武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4298,6 +4554,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a full-round action, the Soldier provides tactical aid to all of his allies (including himself) within sight and voice</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T130242Z" creationid="quentine" creationdate="20190226T130242Z">
+        <seg>这是一个整轮动作，士兵给所有看到且能听到的队友包括自己提供战术支援。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a full-round action, the Soldier provides tactical aid to all of his allies (including himself) within sight and voice range of his position.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T130400Z" creationid="quentine" creationdate="20190226T130400Z">
+        <seg>这是一个整轮动作，士兵给所有看到且能听到的队友包括自己提供战术支援。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a general rule, the abilities of a multiclass character are the sum of the abilities provided by each of the character’s classes.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T082149Z" creationid="quentine" creationdate="20190216T082149Z">
@@ -4362,6 +4634,38 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 10th level, a Soldier gains the ability to automatically confirm a threat as a critical hit when attacking with the weapon he or she has applied weapon specialization to, eliminating the need to make a roll to confirm the critical hit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T134643Z" creationid="quentine" creationdate="20190226T133125Z">
+        <seg>10级时，士兵用专精的武器攻击骰掷出重击时，无需再做重击检定直接判定为重击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 10th level, this ability im-proves.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T144749Z" creationid="quentine" creationdate="20190226T144749Z">
+        <seg>10级时该能力增强。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 1st level, a Soldier gains the Weapon Focus class feature, providing the benefit of the feat with the same name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T134039Z" creationid="quentine" creationdate="20190222T134039Z">
+        <seg>1级时，士兵获得`专攻武器`职业专长，效果与同名一般专长相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 1st level, the martial artist deals 1d6 points of damage with an unarmed strike.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T142034Z" creationid="quentine" creationdate="20190226T142034Z">
+        <seg>1级时，武术家徒手攻击的伤害骰是1d6。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At 1st, 3rd, 5th, 7th, and 9th level, the Charismatic hero selects a talent from the following talent trees.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T113522Z" creationid="quentine" creationdate="20190202T113522Z">
@@ -4406,6 +4710,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T142751Z" creationid="quentine" creationdate="20190117T142751Z">
         <seg>体质型英雄在1级，3级，5级，7级和9级时可以在以下天赋树中选择一个天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 2nd level, a Soldier gains weapon specialization with a specific melee or ranged weapon that he or she also has applied the Weapon Focus feat or class feature to.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T135043Z" creationid="quentine" creationdate="20190222T135043Z">
+        <seg>2级时，士兵选择一种已获得`专攻武器`专长的近战或远程武器，获得这种武器的`专精武器`专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4458,10 +4770,82 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 3rd, 6th, and 9th level, the Martial Artist gets a bonus feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T143209Z" creationid="quentine" creationdate="20190226T143209Z">
+        <seg>3、6、9级时，武术家获得一个奖励专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 3rd, 6th, and 9th level, the Soldier gets a bonus feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T135213Z" creationid="quentine" creationdate="20190222T135213Z">
+        <seg>3、6、9级时，士兵获得一个奖励专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 4th level, damage increases to 1d8.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T142100Z" creationid="quentine" creationdate="20190226T142100Z">
+        <seg>4级时，伤害骰是1d8。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 5th level, a Martial Artist gains the ability to spend 1 action point to increase the damage he or she deals to a single opponent with a single unarmed strike.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T144051Z" creationid="quentine" creationdate="20190226T144051Z">
+        <seg>5级时、武术家可以用1点行动点增加对一个对手的徒手击打的伤害值一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 7th level, a Martial Artist gains the ability to strike with a flurry of blows at the expense of accuracy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T145146Z" creationid="quentine" creationdate="20190226T145146Z">
+        <seg>7级时，武术家可以牺牲准确性施展连击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 7th level, a Soldier gains a +2 competence bonus on initiative checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T131300Z" creationid="quentine" creationdate="20190226T131300Z">
+        <seg>7级时，士兵检定先攻将获得+2表现价值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 8th level, a Soldier gains greater weapon specialization with the weapon he  or she selected at 2nd level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T133801Z" creationid="quentine" creationdate="20190226T131356Z">
+        <seg>8级时，对2级时士兵指定专精的武器，获得此武器的高等专精。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 8th level, it increases to 1d10.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T142128Z" creationid="quentine" creationdate="20190226T142128Z">
+        <seg>8级时，伤害骰是1d10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At from –1 to –9 hit points, a character is dying.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T141733Z" creationid="quentine" creationdate="20190114T141733Z">
         <seg>生命值为-1至-9时，角色濒死。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of this charge, the martial artist adds his or her class level as a bonus to the damage he or she deals with an unarmed strike.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T143157Z" creationid="quentine" creationdate="20190226T143004Z">
+        <seg>冲锋结束时，武术家造成一个徒手击打伤害，加上等于本职业等级数的伤害加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4596,8 +4980,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>Builder, Cautious, Combat Expertise, Educated, Gearhead, Improved Disarm, Improved Trip, Iron Will, Lightning Reflexes, Meticulous, Studious, Vehicle Expert, Weapon Focus.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T161635Z" creationid="quentine" creationdate="20190201T160507Z">
-        <seg>构造师、谨慎、寓守于攻、良好教育、技术宅、精通卸除武器、精通绊摔、钢铁意志、闪电反射、一丝不苟、好学、车辆专家、武器专攻。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T141156Z" creationid="quentine" creationdate="20190201T160507Z">
+        <seg>构造师、谨慎、寓守于攻、良好教育、技术宅、精通卸除武器、精通绊摔、钢铁意志、闪电反射、一丝不苟、好学、车辆专家、专攻武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4662,6 +5046,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133838Z" creationid="quentine" creationdate="20190115T133838Z">
         <seg>连续两轮呛气的角色将会受到1d6点伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Check with your GM before selecting an advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T133519Z" creationid="quentine" creationdate="20190221T133519Z">
+        <seg>选择一个高级职业前应该和GM沟通好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4758,6 +5150,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T113026Z" creationid="QuenTine" creationdate="20181104T143009Z">
         <seg>计算机使用、知识（秘法学识、艺术、行为科学、商业、政法、时事、地球及生命科学、历史、物理科学、流行文化、技术、神学与哲学）、表演（演戏、舞蹈、键盘、打击乐器、唱歌、单口相声、弦乐器、管乐器）、研究。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conversely, the GM can decide that certain advanced classes aren’t available in the campaign.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T133438Z" creationid="quentine" creationdate="20190221T133438Z">
+        <seg>也能决定哪些高级职业禁止选择。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5187,6 +5587,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064004Z" creationid="quentine" creationdate="20190112T064004Z">
         <seg>检定点超过DC的部分，每5点额外加1点财富值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For the weapon the Soldier has applied weapon specialization to the Soldier’s threat range increases by one.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T133210Z" creationid="quentine" creationdate="20190226T131115Z">
+        <seg>士兵所有拥有`专精武器`专长的武器，其威胁范围+1。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6961,6 +7369,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some combination of base attack bonus, feats, and skill ranks determines whether a character is eligible to gain a level in an advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T134327Z" creationid="quentine" creationdate="20190221T134327Z">
+        <seg>基础攻击加值、专长和技能等级的要求一起决定了角色是否能提升这个高级职业的等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some feats have prerequisites that must be met before a character can select them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T121126Z" creationid="quentine" creationdate="20190116T121126Z">
@@ -7037,6 +7453,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T123501Z" creationid="quentine" creationdate="20190114T123501Z">
         <seg>有时角色无法使用装备加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting at 2nd level, a Martial Artist can use a charge to deliver a devastating flying kick to an opponent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T143026Z" creationid="quentine" creationdate="20190226T142946Z">
+        <seg>2级时，武术家可以一个`冲锋`飞起一脚踢中对手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7345,10 +7769,58 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Gamemaster may add advanced classes specifically suited to his or her campaign.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T133445Z" creationid="quentine" creationdate="20190221T133325Z">
+        <seg>GM根据游戏内容允许玩家选择部分高级职业，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T111757Z" creationid="QuenTine" creationdate="20181022T111757Z">
         <seg>许可证：该许可证适用于任何包括一个公告声明此OGC只能在遵循该许可证的情况下使用的OGC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Martial Artist also deals more damage with unarmed strikes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T141936Z" creationid="quentine" creationdate="20190226T141936Z">
+        <seg>武术家徒手攻击时能造成更多伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Martial Artist attacks with either fist interchangeably, or even with elbows, knees, and feet.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T150008Z" creationid="quentine" creationdate="20190226T140747Z">
+        <seg>武术家可用拳、肘、膝、脚交替攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Martial Artist must be unarmored to use this talent, and he or she must make unarmed strikes to gain the benefit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T145313Z" creationid="quentine" creationdate="20190226T145313Z">
+        <seg>武术家必须不穿护甲且必须施展徒手攻击才能使用此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Martial Artist now adds the result of the action point roll to all successful attacks he or she makes in a round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T145005Z" creationid="quentine" creationdate="20190226T145005Z">
+        <seg>武术家可以将行动点投出的加值增益本轮所有成功攻击的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Martial Artist’s class skills (and the key ability for each skill) are: Balance (Dex), Climb (Str), Escape Artist (Dex), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge (current events, popular culture, theology and philosophy) (Int), Move Silently (Dex), Perform (dance) (Cha), Profession (Wis), Read/Write Language (none), Speak Language (none), Spot (Wis), Tumble (Dex).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T135302Z" creationid="quentine" creationdate="20190226T135302Z">
+        <seg>武术家的本职技能（及相关属性）有：平衡（敏）、攀爬（力）、脱逃（敏）、躲藏（敏）、威吓（魅）、跳跃（力）、知识（时事、流行文化、神学与哲学）（智）、潜行（敏）、表演（舞蹈）（魅）、专业（感）、读写语言（无）、口头语言（无）、侦察（感）、翻滚（敏）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7413,6 +7885,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T125857Z" creationid="quentine" creationdate="20190201T125857Z">
         <seg>智力型英雄的本职技能（以及技能的关键属性）如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Soldier chooses a specific weapon.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T134141Z" creationid="quentine" creationdate="20190222T134118Z">
+        <seg>士兵选定一种武器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Soldier’s class skills (and the key ability for each skill) are: Demolitions (Int), Drive (Dex), Intimidate (Cha), Jump (Str), Knowledge (current events, history, popular culture, tactics) (Int), Listen (Wis), Navigate (Int), Profession (Wis), Read/Write Language (none), Speak Language (none), Spot (Wis), Survival (Wis), Swim (Str).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T135825Z" creationid="quentine" creationdate="20190221T135825Z">
+        <seg>士兵的本职技能（及相关属性）有：爆破（智）、驾驶（敏）、威吓（魅）、跳跃（力）、知识（时事、历史、流行文化、策略）（智）、聆听（感）、寻路（智）、专业（感）、读写语言（无）、口头语言（无）、侦察（感）、生存（感）、游泳（力）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7529,10 +8017,34 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The bonus feat must be selected from the following list, and the Martial Artist must meet all the prerequisites of the feat to select it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T143217Z" creationid="quentine" creationdate="20190226T143217Z">
+        <seg>奖励专长必须从下表中选择，在选择时必须满足该专长的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bonus feat must be selected from the following list, and the Soldier must meet all the prerequisites of the feat to select it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T135301Z" creationid="quentine" creationdate="20190222T135301Z">
+        <seg>奖励专长必须从下表中选择，在选择时必须满足该专长的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The bonus is equal to the hero’s Dedicated level.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T034520Z" creationid="quentine" creationdate="20190202T034520Z">
         <seg>加值等于英雄的感知等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bonus lasts for a number of rounds equal to one-half of the Soldier’s level in the advanced class, rounded down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T130707Z" creationid="quentine" creationdate="20190226T130707Z">
+        <seg>加值持续的轮数等于角色士兵职业等级的一半，向下取整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7905,6 +8417,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following features pertain to the Martial Artist advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T140507Z" creationid="quentine" creationdate="20190226T140507Z">
+        <seg>以下是有关武术家职业的专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following features pertain to the Soldier advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T133811Z" creationid="quentine" creationdate="20190222T133811Z">
+        <seg>以下是有关士兵职业的专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following text is the property of Wizards of the Coast, Inc.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033735Z" creationid="QuenTine" creationdate="20181022T033352Z">
@@ -8018,6 +8546,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The martial artist declares the use of the action point after making a successful unarmed strike.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T144125Z" creationid="quentine" creationdate="20190226T144125Z">
+        <seg>武术家在徒手击打检定成功后宣布使用此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The maximum ranks a character can have in a class skill is the character’s level +3.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115148Z" creationid="quentine" creationdate="20190116T115148Z">
@@ -8090,6 +8626,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The penalty applies to all attacks for one full round, including attacks of opportunity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T145807Z" creationid="quentine" creationdate="20190226T145807Z">
+        <seg>这个减值将应用于本轮的所有攻击，包括借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The result of the action point roll is added to the damage roll for that attack.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T144733Z" creationid="quentine" creationdate="20190226T144250Z">
+        <seg>行动点的骰点（即按照增强检定的掷法）将作为这次攻击伤害的加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result of the check provides the Smart hero and allies with a circumstance bonus.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T150626Z" creationid="quentine" creationdate="20190201T150118Z">
@@ -8110,6 +8662,39 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T123808Z" creationid="quentine" creationdate="20190114T123808Z">
         <seg>越小则越难被击中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The soldier adds +1 to all attack rolls made using the selected weapon.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T135118Z" creationid="quentine" creationdate="20190222T134612Z">
+        <seg>用选定的武器掷攻击骰都可以获得1点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The soldier can choose unarmed strike or grapple as the weapon.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T134356Z" creationid="quentine" creationdate="20190222T134136Z">
+        <seg>徒手击打和擒抱也可当作武器选择，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The soldier gets a +2 bonus on damage rolls with the chosen weapon.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T135110Z" creationid="quentine" creationdate="20190222T135110Z">
+        <seg>
+用选定的武器掷攻击骰都可以获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The soldier must be proficient with the chosen weapon.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T134426Z" creationid="quentine" creationdate="20190222T134426Z">
+        <seg>士兵必须擅长选定的武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8378,10 +8963,43 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This ability can only be used when taking the full attack action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T145657Z" creationid="quentine" creationdate="20190226T145657Z">
+        <seg>这将花费一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This ability increases the bonus on damage rolls to +4 when using the selected weapon.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T133718Z" creationid="quentine" creationdate="20190226T132118Z">
+        <seg>选定的武器获得的攻击骰加值增至+4。
+&gt; 译者注：这句明确说明了攻击骰加值增至+4，所以以此类推，此专长和武器专精、武器专攻的加值不能叠加，而是覆盖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This aid provides a +1 competence bonus on attack rolls.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T130548Z" creationid="quentine" creationdate="20190226T130548Z">
+        <seg>这个支援为攻击骰提供1点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This allows a Strong hero to ignore some of an object’s hardness when making a melee attack to break it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T125747Z" creationid="quentine" creationdate="20190116T125747Z">
         <seg>这使得力量型英雄在攻击破坏物件时可以无视其硬度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This attack and each other attack made in the round take a –2 penalty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T145613Z" creationid="quentine" creationdate="20190226T145538Z">
+        <seg>两次攻击的攻击检定有2点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8610,6 +9228,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is an increase to Combat Martial Arts damage; this has no effect on Brawl.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T142805Z" creationid="quentine" creationdate="20190226T142805Z">
+        <seg>这可替换增强实战武术的伤害骰，但无法用于拳法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is usually a particular faith or religion, but can also be a specific philosophy or school of thought.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T075815Z" creationid="QuenTine" creationdate="20181104T075500Z">
@@ -8646,6 +9272,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T075324Z" creationid="QuenTine" creationdate="20181104T075044Z">
         <seg>不一定是角色的现居国，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This means that the Martial Artist may even make unarmed strikes when his or her hands are full, and there is no such thing as an off-hand attack for a Martial Artist striking unarmed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T141850Z" creationid="quentine" creationdate="20190226T141813Z">
+        <seg>武术家在手持物品时也能徒手攻击，对于他们来说徒手攻击不需要“徒手”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8746,6 +9380,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This use of tactical aid requires an action point.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T130432Z" creationid="quentine" creationdate="20190226T130432Z">
+        <seg>需要消耗1点行动点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This –4 penalty also applies to Search checks and any other skill checks for which the GM deems sight to be important.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T120814Z" creationid="quentine" creationdate="20190115T120814Z">
@@ -8838,6 +9480,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134311Z" creationid="QuenTine" creationdate="20181106T134311Z">
         <seg>要购买一件物品，就要比对财富值与购买难度等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To qualify to become a Martial Artist, a character must fulfill the following criteria.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T134701Z" creationid="quentine" creationdate="20190226T134701Z">
+        <seg>要达到成为武术家的资格，角色必须满足以下要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To qualify to become a Soldier, a character must fulfill the following criteria.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T134424Z" creationid="quentine" creationdate="20190221T134424Z">
+        <seg>要达到成为士兵的资格，角色必须满足以下要求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9202,6 +9860,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>With a flurry of blows, the Martial Artist may make one extra attack in a round at his or her highest base attack bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T145545Z" creationid="quentine" creationdate="20190226T145517Z">
+        <seg>施展疾风连击，即武术家在本轮以其最大的基础攻击加值额外攻击一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>With the GM’s permission, the character gains a +2 circumstance bonus on Charisma-based skill checks when dealing with someone of the same allegiance—as long as the character has had some interaction with the other character to discover the connections and bring the bonus into play.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T100000Z" creationid="QuenTine" creationdate="20181104T082156Z">
@@ -9262,6 +9928,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131455Z" creationid="quentine" creationdate="20190115T131455Z">
         <seg>\* 射出30尺长、5尺高的光。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\* The given basic class provides the fastest path to both of the associated advanced classes, though not the only path.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T133205Z" creationid="quentine" creationdate="20190221T133205Z">
+        <seg>\* 所示的基本职业并不是对应高级职业的必要条件，而是通往高级职业的捷径。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9393,15 +10067,15 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |Dedicated|Field Medic; Investigator, Acolyte|
 |Charismatic|Personality; Negotiator|</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T122824Z" creationid="quentine" creationdate="20190216T121804Z">
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T132921Z" creationid="quentine" creationdate="20190216T121804Z">
         <seg>|基本职业\*|高级职业|
 |:------------|:-------------|
 |力量型|士兵；武术家|
 |敏捷型|枪手；渗透者|
 |体质型|勇士；保镖|
 |智力型|战地科学家；技师、法师|
-|感知型|Field Medic; Investigator, Acolyte|
-|魅力型|Personality; Negotiator|</seg>
+|感知型|战地医生；调查员，侍僧|
+|魅力型|明星；谈判专家|</seg>
       </tuv>
     </tu>
     <tu>
@@ -9616,6 +10290,66 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |8th|+4|+4|+4|+2|奖励专长|+3|+4|
 |9th|+4|+4|+4|+3|天赋|+3|+4|
 |10th|+5|+5|+5|+3|奖励专长|+3|+5|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+|:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
+|1st|+1|+0|+2|+0|Living weapon 1d6|+1|+0|
+|2nd|+2|+0|+3|+0|Flying kick|+2|+0|
+|3rd|+3|+1|+3|+1|Bonus feat|+2|+0|
+|4th|+4|+1|+4|+1|Living weapon 1d8|+3|+0|
+|5th|+5|+1|+4|+1|Iron fist (one attack)|+4|+1|
+|6th|+6|+2|+5|+2|Bonus feat|+4|+1|
+|7th|+7|+2|+5|+2|Flurry of blows|+5|+1|
+|8th|+8|+2|+6|+2|Living weapon 1d10|+6|+1|
+|9th|+9|+3|+6|+3|Bonus feat|+6|+2|
+|10th|+10|+3|+7|+3|Iron fist (all attacks)|+7|+2|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T140456Z" creationid="quentine" creationdate="20190226T140456Z">
+        <seg>|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
+|:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
+|1st|+1|+0|+2|+0|人间兵器 1d6|+1|+0|
+|2nd|+2|+0|+3|+0|飞踢|+2|+0|
+|3rd|+3|+1|+3|+1|奖励专长|+2|+0|
+|4th|+4|+1|+4|+1|人间兵器 1d8|+3|+0|
+|5th|+5|+1|+4|+1|铁拳（一次攻击）|+4|+1|
+|6th|+6|+2|+5|+2|奖励专长|+4|+1|
+|7th|+7|+2|+5|+2|疾风连击|+5|+1|
+|8th|+8|+2|+6|+2|人间兵器 1d10|+6|+1|
+|9th|+9|+3|+6|+3|奖励专长|+6|+2|
+|10th|+10|+3|+7|+3|铁拳（所有攻击）|+7|+2|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation bonus|
+|:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
+|1st|+0|+1|+1|+0|Weapon Focus|+1|+0|
+|2nd|+1|+2|+2|+0|Weapon specialization|+1|+0|
+|3rd|+2|+2|+2|+1|Bonus feat|+2|+0|
+|4th|+3|+2|+2|+1|Tactical aid|+2|+0|
+|5th|+3|+3|+3|+1|Improved critical|+3|+1|
+|6th|+4|+3|+3|+2|Bonus feat|+3|+1|
+|7th|+5|+4|+4|+2|Improved reaction|+4|+1|
+|8th|+6|+4|+4|+2|Greater weapon specialization|+4|+1|
+|9th|+6|+4|+4|+3|Bonus feat|+5|+2|
+|10th|+7|+5|+5|+3|Critical strike|+5|+2|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T133714Z" creationid="quentine" creationdate="20190221T141108Z">
+        <seg>|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
+|:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
+|1st|+0|+1|+1|+0|专攻武器|+1|+0|
+|2nd|+1|+2|+2|+0|专精武器|+1|+0|
+|3rd|+2|+2|+2|+1|奖励专长|+2|+0|
+|4th|+3|+2|+2|+1|战术支援|+2|+0|
+|5th|+3|+3|+3|+1|精通重击|+3|+1|
+|6th|+4|+3|+3|+2|奖励专长|+3|+1|
+|7th|+5|+4|+4|+2|快速反应|+4|+1|
+|8th|+6|+4|+4|+2|高等专精武器|+4|+1|
+|9th|+6|+4|+4|+3|奖励专长|+5|+2|
+|10th|+7|+5|+5|+3|致命重击|+5|+2|</seg>
       </tuv>
     </tu>
     <tu>

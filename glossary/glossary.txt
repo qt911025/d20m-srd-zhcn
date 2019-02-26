@@ -219,8 +219,8 @@ Cleave	顺势斩
 Combat Reflexes	战斗反射
 Great Cleave	强力顺势斩
 Power Attack	猛力攻击
-Focus	专攻
-Weapon Focus	武器专攻
+Focus	专攻~
+Weapon Focus	专攻武器
 Drive	驾驶
 Evasion	反射闪避
 Uncanny Dodge	直觉闪避
@@ -350,3 +350,28 @@ Bodyguard	保镖
 Field Scientist	战地科学家
 Techie	技师
 Mage	法师
+Field Medic	战地医生
+Investigator	调查员
+Acolyte	侍僧
+Personality	明星
+Negotiator	谈判专家
+Action Point	行动点
+swim	游泳
+specialization	专精~
+Weapon specialization	专精武器
+Tactical aid	战术支援
+critical	重击
+Improved critical	精通重击
+Improved reaction	快速反应
+Greater	高等
+Critical strike	致命重击
+unarmed strike	徒手击打
+grapple	擒抱
+Burst Fire	点射
+Exotic Melee Weapon	异种近战武器
+threat range	威胁范围
+Living weapon	人间兵器
+Flying kick	飞踢
+Flurry of blows	疾风连击
+Iron fist	铁拳
+Unbalance Opponent	晃倒对手

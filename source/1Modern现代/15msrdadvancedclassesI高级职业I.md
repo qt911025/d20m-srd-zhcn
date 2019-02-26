@@ -47,7 +47,7 @@ The Soldier’s class skills (and the key ability for each skill) are: Demolitio
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-**Table:** The Soldier
+### Table: The Soldier
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation bonus|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
@@ -84,9 +84,7 @@ Advanced Firearms Proficiency, Archaic Weapons Proficiency, Armor Proficiency (l
 
 #### Tactical Aid
 
-As a full-round action, the Soldier provides tactical aid to all of his allies (including himself) within sight and voice
-
-range of his position. This use of tactical aid requires an action point.
+As a full-round action, the Soldier provides tactical aid to all of his allies (including himself) within sight and voice range of his position. This use of tactical aid requires an action point.
 
 This aid provides a +1 competence bonus on attack rolls. The bonus lasts for a number of rounds equal to one-half of the Soldier’s level in the advanced class, rounded down.
 
@@ -130,7 +128,7 @@ The Martial Artist’s class skills (and the key ability for each skill) are: Ba
 
 **Skill Points at Each Level:** 3 + Int modifier.
 
-**Table:** The Martial Artist
+### Table: The Martial Artist
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
@@ -201,7 +199,7 @@ The Gunslinger’s class skills (and the key ability for each skill) are: Bluff 
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-**Table:** The Gunslinger
+### Table: The Gunslinger
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
@@ -280,7 +278,7 @@ The Infiltrator’s class skills (and the key ability for each skill) are: Balan
 
 **Skill Points at Each Level:** 7 + Int modifier.
 
-**Table:** The Infiltrator
+###Table: The Infiltrator
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
@@ -363,7 +361,7 @@ The Daredevil’s class skills (and the key ability for each skill) are: Balance
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-**Table:** The Daredevil
+###Table: The Daredevil
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
@@ -440,7 +438,7 @@ The Bodyguard’s class skills (and the key ability for each skill) are: Concent
 
 **Skill Points at Each Level:** 3 + Int modifier.
 
-**Table:** The Bodyguard
+###Table: The Bodyguard
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
@@ -517,7 +515,7 @@ The Field Scientist’s class skills (and the key ability for each skill) are: C
 
 **Skill Points at Each Level:** 7 + Int modifier.
 
-**Table:** The Field Scientist
+###Table: The Field Scientist
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
@@ -602,7 +600,7 @@ The Techie’s class skills (and the key ability for each skill) are: Computer U
 
 **Skill Points at Each Level:** 7 + Int modifier.
 
-**Table:** The Techie
+###Table: The Techie
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
@@ -763,7 +761,7 @@ The Field Medic’s class skills (and the key ability for each skill) are: Compu
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-**Table:** The Field Medic
+###Table: The Field Medic
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
@@ -836,7 +834,7 @@ The Investigator’s class skills (and the key ability for each skill) are: Bluf
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-**Table:** The Investigator
+###Table: The Investigator
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
@@ -919,7 +917,7 @@ The Personality’s class skills (and the key ability for each skill) are: Bluff
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-**Table:** The Personality
+###Table: The Personality
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
@@ -1013,7 +1011,7 @@ The Negotiator’s class skills (and the key ability for each skill) are: Bluff 
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-**Table:** The Negotiator
+###Table: The Negotiator
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|

@@ -32,7 +32,7 @@ Balance (Dex), Climb (Str), Concentration (Con), Gather Information (Cha), Intim
 
 **Skill Points at Each Level:** 3 + Int modifier.
 
-**Table:** The Shadow Slayer
+###Table: The Shadow Slayer
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation bonus|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
@@ -178,7 +178,7 @@ Craft (visual arts, writing) (Int), Decipher Script (Int), Drive (Dex), Escape A
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-**Table:** The Occultist
+###Table: The Occultist
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation bonus|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
@@ -369,7 +369,7 @@ Autohypnosis (Wis), Bluff (Cha), Concentration (Con), Diplomacy (Cha), Gather In
 **Skill Points at Each Level:** 5 + Int modifier.
 
 
-**Table:** The Telepath
+###Table: The Telepath
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation bonus|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
@@ -551,7 +551,7 @@ Autohypnosis (Wis), Balance (Dex), Climb (Str), Concentration (Con), Craft (visu
 **Skill Points at Each Level:** 3 + Int modifier.
 
 
-**Table:** The Battle Mind
+###Table: The Battle Mind
 
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
@@ -715,7 +715,7 @@ Computer Use (Int), Concentration (Con), Craft (chemical) (Int), Craft (pharmace
 
 **Skill Points at Each Level:** 7 + Int modifier.
 
-**Table:** The Mage
+###Table: The Mage
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
@@ -978,7 +978,7 @@ Concentration (Con), Craft (structural, visual arts, writing) (Int), Diplomacy (
 
 **Skill Points at Each Level:** 5 + Int modifier.
 
-**Table:** The Acolyte
+###Table: The Acolyte
 
 |Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation bonus|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
