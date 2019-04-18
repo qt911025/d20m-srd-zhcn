@@ -375,3 +375,24 @@ Flying kick	飞踢
 Flurry of blows	疾风连击
 Iron fist	铁拳
 Unbalance Opponent	晃倒对手
+Close combat shot	枪斗术
+Defensive position	防御位置
+Lightning shot	连射
+Sharp-shooting	穿杨
+Bullseye	致命射击
+Two-Weapon Fighting	双持
+Dead Aim	屏息瞄准
+Precise Shot	精准射击
+Quick Draw	快速拔出
+Quick Reload	快速装填
+Shot on the Run	移动射击
+Skip Shot	跳弹射击
+Strafe	扫射
+Balance	平衡
+Sweep	扫瞄
+Improvised Implements	不滞于物
+Skill mastery	稳定发挥
+Improvised weapon damage	举轻若重
+Without a trace	销声匿迹
+improvised weapon	简易武器
+Nimble	灵巧

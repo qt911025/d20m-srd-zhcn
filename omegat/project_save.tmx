@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## GUNSLINGER</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190227T042218Z" creationid="quentine" creationdate="20190227T042218Z">
+        <seg>## 枪手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Grappled</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T124636Z" creationid="quentine" creationdate="20190115T122851Z">
@@ -546,6 +554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123500Z" creationid="quentine" creationdate="20190115T123500Z">
         <seg>## 无助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## INFILTRATOR</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T140653Z" creationid="quentine" creationdate="20190413T140653Z">
+        <seg>## 渗透者</seg>
       </tuv>
     </tu>
     <tu>
@@ -1376,6 +1392,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Table: The Gunslinger</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190227T042945Z" creationid="quentine" creationdate="20190227T042945Z">
+        <seg>### 职业列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### Table: The Martial Artist</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T135328Z" creationid="quentine" creationdate="20190226T135328Z">
@@ -1440,10 +1464,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#### Bullseye</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T130338Z" creationid="quentine" creationdate="20190413T130338Z">
+        <seg>#### 致命射击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Close Combat Shot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T130415Z" creationid="quentine" creationdate="20190413T130415Z">
+        <seg>#### 枪斗术</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#### Critical Strike</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T132404Z" creationid="quentine" creationdate="20190226T132404Z">
         <seg>#### 致命重击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Defensive Position</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T134647Z" creationid="quentine" creationdate="20190413T134647Z">
+        <seg>#### 防御位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -1464,6 +1512,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#### Greater Weapon Focus</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T135740Z" creationid="quentine" creationdate="20190413T135740Z">
+        <seg>#### 高等专攻火器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#### Greater Weapon Specialization</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T131321Z" creationid="quentine" creationdate="20190226T131321Z">
@@ -1480,10 +1536,42 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#### Improved Evasion</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T142936Z" creationid="quentine" creationdate="20190417T142936Z">
+        <seg>#### 精通反射闪避</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#### Improved Reaction</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T131133Z" creationid="quentine" creationdate="20190226T131133Z">
         <seg>#### 快速反应</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Improved Sweep</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190418T000027Z" creationid="quentine" creationdate="20190418T000027Z">
+        <seg>#### 精通扫描</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Improvised Implements</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T141529Z" creationid="quentine" creationdate="20190417T141529Z">
+        <seg>#### 不滞于物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Improvised Weapon Damage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T235003Z" creationid="quentine" creationdate="20190417T235003Z">
+        <seg>#### 举轻若重</seg>
       </tuv>
     </tu>
     <tu>
@@ -1496,10 +1584,42 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#### Lightning Shot</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T134931Z" creationid="quentine" creationdate="20190413T134931Z">
+        <seg>#### 连射</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#### Living Weapon</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T140519Z" creationid="quentine" creationdate="20190226T140519Z">
         <seg>#### 人间兵器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Sharp-Shooting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T135328Z" creationid="quentine" creationdate="20190413T135328Z">
+        <seg>#### 穿杨</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Skill Mastery</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T233824Z" creationid="quentine" creationdate="20190417T233824Z">
+        <seg>#### 稳定发挥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Sweep</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T140036Z" creationid="quentine" creationdate="20190417T140036Z">
+        <seg>#### 扫瞄</seg>
       </tuv>
     </tu>
     <tu>
@@ -1532,6 +1652,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T134620Z" creationid="quentine" creationdate="20190222T134620Z">
         <seg>#### 专精武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Without a Trace</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190418T010145Z" creationid="quentine" creationdate="20190418T010145Z">
+        <seg>#### 销声匿迹</seg>
       </tuv>
     </tu>
     <tu>
@@ -1660,6 +1788,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144637Z" creationid="quentine" creationdate="20190117T144637Z">
         <seg>##### 不破金身天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>###Table: The Infiltrator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T133208Z" creationid="quentine" creationdate="20190417T133208Z">
+        <seg>### 职业列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -1897,6 +2033,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Action Points:** 6 + one-half character level, rounded down, every time the gunslinger attains a new level in this class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190227T042409Z" creationid="quentine" creationdate="20190227T042409Z">
+        <seg>**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Action Points:** 6 + one-half character level, rounded down, every time the infiltrator attains a new level in this class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T140925Z" creationid="quentine" creationdate="20190413T140925Z">
+        <seg>**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Action Points:** 6 + one-half character level, rounded down, every time the martial artist attains a new level in this class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T134853Z" creationid="quentine" creationdate="20190226T134853Z">
@@ -1989,6 +2141,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T102949Z" creationid="quentine" creationdate="20190202T102949Z">
         <seg>**觉察：**感知型英雄可以凭直觉感受周遭环境。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Base Attack Bonus:** +2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190227T042252Z" creationid="quentine" creationdate="20190227T042252Z">
+        <seg>**基础攻击加值：** +2</seg>
       </tuv>
     </tu>
     <tu>
@@ -2658,6 +2818,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Skill Points at Each Level:** 7 + Int modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T141008Z" creationid="quentine" creationdate="20190413T141008Z">
+        <seg>**升级技能点数：** 7+智力调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Skill:** Jump 3 ranks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T134715Z" creationid="quentine" creationdate="20190226T134715Z">
@@ -2694,6 +2862,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T114043Z" creationid="QuenTine" creationdate="20181104T114043Z">
         <seg>**技能：** 从以下技能选两项作为永久本职技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Skills:** Hide 6 ranks, Move Silently 6 ranks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T140732Z" creationid="quentine" creationdate="20190413T140732Z">
+        <seg>**技能：** 躲藏6级、潜行6级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Skills:** Sleight of Hand 6 ranks, Tumble 6 ranks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190227T042331Z" creationid="quentine" creationdate="20190227T042331Z">
+        <seg>**技能：** 手上功夫6级、翻滚6级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3826,6 +4010,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A successful check relates the danger’s strength compared to the Infiltrator: stronger (higher level or Hit Dice), on par (same level or HD), or weaker (lower level or HD).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190418T010132Z" creationid="quentine" creationdate="20190418T005822Z">
+        <seg>显示的相对实力是相对于渗透者的：更强（等级或生命高于自己）、相当（等级或生命与自己相等）、更弱（等级或生命低于自己）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A taunt can be played on an opponent any number of times.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T072904Z" creationid="quentine" creationdate="20190216T072904Z">
@@ -3894,6 +4086,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T143849Z" creationid="quentine" creationdate="20190226T143849Z">
         <seg>杂技、高级实战武术、擅长古典武器、战斗反射、摔投技巧、凌波微步、擅长异种近战武器、精通摔投技巧、精通实战武术、晃倒对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acrobatic, Alertness, Armor Proficiency (light), Athletic, Attentive, Brawl, Cautious, Defensive Martial Arts, Dodge, Elusive Target, Meticulous, Mobility, Nimble, Renown, Run, Stealthy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T142916Z" creationid="quentine" creationdate="20190417T142315Z">
+        <seg>杂技、警觉、擅长盔甲（轻型）、竞技、听者有心、拳法、谨慎、防御武术、闪避、凌波微步、一丝不苟、灵活移动、灵巧、闻名、奔跑、隐秘。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3982,6 +4182,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141619Z" creationid="quentine" creationdate="20190115T141619Z">
         <seg>另外，角色使用带毒武器攻击掷骰出1时，需要进行一次反射豁免（DC15），失败则自己会中该毒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced Firearms Proficiency, Advanced Two-Weapon Fighting, Burst Fire, Dead Aim, Double Tap, Far Shot, Improved Two-Weapon Fighting, Precise Shot, Quick Draw, Quick Reload, Shot on the Run, Skip Shot, Strafe, Two-Weapon Fighting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T134633Z" creationid="quentine" creationdate="20190413T131641Z">
+        <seg>高级擅长火器、高级双持、点射、屏息瞄准、双发快射、远程射击、精通双持、精准射击、快速拔出、快速装填、移动射击、扫射、双持。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4234,6 +4442,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, the Infiltrator is able to make do without proper equipment in certain circumstances: the Infiltrator no longer takes a –4 penalty when using the Climb and Disable Device skills without the proper tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T141920Z" creationid="quentine" creationdate="20190417T141920Z">
+        <seg>同样，渗透者在缺乏适当工具使用攀爬和解除装置技能不再受到4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, the starting occupation selected can provide additional class skills to choose from.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T122246Z" creationid="quentine" creationdate="20190116T122246Z">
@@ -4270,6 +4486,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T120152Z" creationid="quentine" creationdate="20190216T120152Z">
         <seg>虽然每个高级职业都是建立在相应的基本职业之上，但每个高级职业都是允许所有满足了职业要求的角色选择的，和角色的基本职业的等级没什么关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An Infiltrator knows how to size up an area and get the lay of the land in a single sweep of his or her eyes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T140514Z" creationid="quentine" creationdate="20190417T140514Z">
+        <seg>渗透者只需扫一眼就能丈量地形，判断地势。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4498,6 +4722,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anything not concealed can be spotted in a sweep with a successful check (DC 10).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T141248Z" creationid="quentine" creationdate="20190417T141144Z">
+        <seg>若检定成功（DC10），任何非隐藏的目标都会被侦察到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Anything with no Wisdom score is an object, not a creature.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140329Z" creationid="QuenTine" creationdate="20181103T140329Z">
@@ -4634,6 +4866,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 10th level, a Gunslinger becomes so adept at using the firearm to which he or she has applied Weapon Focus and Greater Weapon Focus that the gunslinger’s attacks with that firearm can deal extra damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T140301Z" creationid="quentine" creationdate="20190413T140211Z">
+        <seg>10级时，枪手指定专攻专精的火器将造成额外的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At 10th level, a Soldier gains the ability to automatically confirm a threat as a critical hit when attacking with the weapon he or she has applied weapon specialization to, eliminating the need to make a roll to confirm the critical hit.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T134643Z" creationid="quentine" creationdate="20190226T133125Z">
@@ -4646,6 +4886,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T144749Z" creationid="quentine" creationdate="20190226T144749Z">
         <seg>10级时该能力增强。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 10th level, when an Infiltrator uses any of the following skills: Balance, Climb, Disable Device, Escape Artist, Hide, Move Silently, and Sleight of Hand, those using Investigate, Listen, Search, or Spot to detect the Infiltrator’s activity take a –4 penalty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190418T011415Z" creationid="quentine" creationdate="20190418T011415Z">
+        <seg>10级时，当渗透者使用这些技能（平衡、攀爬、解除装置、脱逃、躲藏、潜行和手上功夫）时，其他人针对此渗透者使用调查、聆听、搜索、侦察将有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 1st level, a Gunslinger gains the ability to make a ranged attack with a Medium-size or smaller firearm while in a threatened area without provoking an attack of opportunity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T130859Z" creationid="quentine" creationdate="20190413T130712Z">
+        <seg>1级时，枪手在威胁区域内用普通大小以及更小的火器进行远程攻击时，不会触发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4714,10 +4970,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 2nd level, a Gunslinger gains the Weapon Focus class feature, providing the benefit of the feat with the same name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T131353Z" creationid="quentine" creationdate="20190413T131353Z">
+        <seg>2级时，枪手获得`专攻武器`职业专长，效果与同名一般专长相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At 2nd level, a Soldier gains weapon specialization with a specific melee or ranged weapon that he or she also has applied the Weapon Focus feat or class feature to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T135043Z" creationid="quentine" creationdate="20190222T135043Z">
         <seg>2级时，士兵选择一种已获得`专攻武器`专长的近战或远程武器，获得这种武器的`专精武器`专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 2nd level, an Infiltrator no longer takes a –4 penalty when wielding an improvised weapon.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T141723Z" creationid="quentine" creationdate="20190417T141723Z">
+        <seg>2级时，渗透者持有简易武器不再有4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4770,6 +5042,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 3rd, 6th, and 9th level, the Gunslinger gets a bonus feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T131538Z" creationid="quentine" creationdate="20190413T131538Z">
+        <seg>3、6、9级时，枪手获得一个奖励专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 3rd, 6th, and 9th level, the Infiltrator gets a bonus feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T141939Z" creationid="quentine" creationdate="20190417T141939Z">
+        <seg>3、6、9级时，渗透者获得一个奖励专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At 3rd, 6th, and 9th level, the Martial Artist gets a bonus feat.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T143209Z" creationid="quentine" creationdate="20190226T143209Z">
@@ -4802,6 +5090,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 5th level, an Infiltrator selects a number of skills from his or her class list equal to 3 + his or her Intelligence modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T234549Z" creationid="quentine" creationdate="20190417T234122Z">
+        <seg>5级时，渗透者选取多个本职技能，数量等于3+智力调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At 7th level, a Martial Artist gains the ability to strike with a flurry of blows at the expense of accuracy.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T145146Z" creationid="quentine" creationdate="20190226T145146Z">
@@ -4818,10 +5114,42 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 7th level, an Infiltrator’s attacks with improvised weapons deal more damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T235036Z" creationid="quentine" creationdate="20190417T235036Z">
+        <seg>7级时，渗透者用简易武器攻击时可造成更多伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 7th level, if the Gunslinger uses a personal firearm to attack a target, the cover bonus to the target’s Defense for one-quarter, one-half, three-quarters, or nine-tenths cover is reduced by 2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T135727Z" creationid="quentine" creationdate="20190413T135727Z">
+        <seg>7级时，枪手用单兵火器攻击一个处于1/4、1/2、3/4或9/10掩体目标时，目标的掩体加值-2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 8th level, a Gunslinger receives a +1 competence bonus on attack rolls made with the firearm selected for the Weapon Focus ability at 2nd level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T140240Z" creationid="quentine" creationdate="20190413T135949Z">
+        <seg>8级时，枪手使用2级时指定专攻的火器攻击时，攻击骰获得1点表现加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At 8th level, a Soldier gains greater weapon specialization with the weapon he  or she selected at 2nd level.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T133801Z" creationid="quentine" creationdate="20190226T131356Z">
         <seg>8级时，对2级时士兵指定专精的武器，获得此武器的高等专精。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 8th level, an Infiltrator’s ability to get the lay of the land improves.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190418T000105Z" creationid="quentine" creationdate="20190418T000105Z">
+        <seg>8级时，渗透者观察地形的能力提升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5583,6 +5911,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For an Infiltrator who does not have evasion (see the Fast hero class description), improved evasion counts as evasion for the purpose of meeting the prerequisites on the Fast hero’s defensive talent tree.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T233816Z" creationid="quentine" creationdate="20190417T233816Z">
+        <seg>若渗透者没有反射闪避（见敏捷型英雄的描述），此特殊专长将代替反射闪避，以满足解锁敏捷型英雄的防御天赋树的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For every 5 points by which the character exceeds the DC, he or she gains an additional +1 to his or her Wealth bonus.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064004Z" creationid="quentine" creationdate="20190112T064004Z">
@@ -5819,6 +6155,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T100744Z" creationid="QuenTine" creationdate="20181104T100744Z">
         <seg>若所选的技能已经是本职技能，该技能检定时获得+1表现加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If an Infiltrator of 4th level or higher is exposed to any effect that normally allows a character to attempt a Reflex saving throw for half damage, the Infiltrator suffers no damage if he or she makes a successful saving throw and only half damage on a failed save.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T233121Z" creationid="quentine" creationdate="20190417T143012Z">
+        <seg>四级及以上的渗透者在反射豁免成功后，伤害不再减半，而是全免；豁免失败也能拥有伤害减半的效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6259,6 +6603,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125521Z" creationid="QuenTine" creationdate="20181104T125521Z">
         <seg>插画师、文案写手、卡通画师、图形艺术家、小说家、杂志专栏作家、演员、雕塑师、游戏设计师、音乐家、剧作家、摄影师以及网页设计师都属于这一类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Improved evasion can only be used when wearing light armor or no armor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T233220Z" creationid="quentine" creationdate="20190417T233220Z">
+        <seg>精通反射闪避只有在穿着轻甲或无甲时生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6757,6 +7109,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T112057Z" creationid="QuenTine" creationdate="20181022T112057Z">
         <seg>许可证版权声明：你必须更新本许可证的版权声明部分以包括任何准确的你正在复制、修改、分发的OGC的版权声明文本，而且你必须添加标题、版权日期以及版权持有者的名字到任何你要发布的原始OGC的版权声明上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now the Infiltrator not only spots potential perils with a successful check, he or she can determine the relative strength of these dangers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190418T005631Z" creationid="quentine" creationdate="20190418T004739Z">
+        <seg>渗透者侦察成功时，不止能辨认潜在的威胁，还能显示敌人的相对实力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7465,6 +7825,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Starting at 4th level, the Gunslinger gains an additional +2 cover bonus to Defense and an additional +2 cover bonus on Reflex saves whenever he or she has one-quarter, one-half, three-quarters, or nine-tenths cover.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T134921Z" creationid="quentine" creationdate="20190413T134921Z">
+        <seg>4级时，枪手在1/4、1/2、3/4、9/10掩体下，防御值获得2点掩体加值、反射豁免获得两点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting at 5th level, a Gunslinger can make a flurry of ranged attacks with a personal firearm at the expense of accuracy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T135116Z" creationid="quentine" creationdate="20190413T135047Z">
+        <seg>5级时，枪手可以牺牲精准度，快速地射击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Success means that the fire has gone out.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132422Z" creationid="quentine" creationdate="20190115T132422Z">
@@ -7625,6 +8001,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DC for concealed or less obvious threats is equal to their Hide check result.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T141504Z" creationid="quentine" creationdate="20190417T141504Z">
+        <seg>隐藏或极不明显的目标，其侦察DC等于他们的躲藏检定结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DC for the check depends on the situation: DC 15 if the language is in the same group as a language the hero has as a Read/Write Language or Speak Language skill; DC 20 if the language is unrelated to any other languages the hero knows; and DC 25 if the language is ancient or unique.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T142521Z" creationid="quentine" creationdate="20190201T142521Z">
@@ -7773,6 +8157,46 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T133445Z" creationid="quentine" creationdate="20190221T133325Z">
         <seg>GM根据游戏内容允许玩家选择部分高级职业，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Gunslinger must choose a specific personal firearm.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T131444Z" creationid="quentine" creationdate="20190413T131444Z">
+        <seg>枪手必须选定一种单兵火器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Gunslinger’s class skills (and the key ability for each skill) are: Bluff (Cha), Demolitions (Int), Drive (Dex), Escape Artist (Dex), Gamble (Wis), Intimidate (Cha), Knowledge (current events, popular culture, streetwise) (Int), Move Silently (Dex), Profession (Wis), Read/Write Language (none), Ride (Dex), Sleight of Hand (Dex), Speak Language (none), Spot (Wis), Survival (Wis), Tumble (Dex).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190227T042936Z" creationid="quentine" creationdate="20190227T042936Z">
+        <seg>枪手的本职技能（及相关属性）有：唬骗（魅）、爆破（智）、驾驶（敏）、脱逃（敏）、赌博（感）、威吓（魅）、知识（时事、流行文化、街头智慧）（智）、潜行（敏）、专业（感）、读写语言（无）、骑术（敏）、手上功夫（敏）、口头语言（无）、侦察（感）、翻滚（敏）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Infiltrator can use this bonus at the start of an encounter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T141149Z" creationid="quentine" creationdate="20190417T141013Z">
+        <seg>此加值也可用于遇敌的开头。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Infiltrator treats an improvised weapon as one size category larger than it is for the purpose of determining the damage it deals.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190418T000015Z" creationid="quentine" creationdate="20190418T000015Z">
+        <seg>渗透者持有的简易武器在根据尺寸级别确定伤害时，尺寸等价于原尺寸更高一级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Infiltrator’s class skills (and the key ability for each skill) are: Balance (Dex), Climb (Str), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Hide (Dex), Investigate (Int), Jump (Str), Knowledge (art, business, current events, popular culture, streetwise) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Read/Write Language (none), Search (Int), Sleight of Hand (Dex), Speak Language (none), Spot (Wis), Tumble (Dex).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T133159Z" creationid="quentine" creationdate="20190417T133159Z">
+        <seg>渗透者的本职技能（及相关属性）有：平衡（敏）、攀爬（力）、解除装置（智）、易容（魅）、脱逃（敏）、躲藏（敏）、调查（智）、跳跃（力）、知识（艺术、商学、时事、流行文化、街头智慧）（智）、聆听（感）、潜行（敏）、专业（感）、读写语言（无）、搜索（智）、手上功夫（敏）、口头语言（无）、侦察（感）、翻滚（敏）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8013,6 +8437,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T123721Z" creationid="quentine" creationdate="20190114T123721Z">
         <seg>目标的个头越大，在战斗中越容易被击中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bonus feat must be selected from the following list, and the Gunslinger must meet all the prerequisites of the feat to select it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T131548Z" creationid="quentine" creationdate="20190413T131548Z">
+        <seg>奖励专长必须从下表中选择，在选择时必须满足该专长的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bonus feat must be selected from the following list, and the Infiltrator must meet all the prerequisites of the feat to select it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T141947Z" creationid="quentine" creationdate="20190417T141947Z">
+        <seg>奖励专长必须从下表中选择，在选择时必须满足该专长的要求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8417,6 +8857,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following features pertain to the Gunslinger advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T130356Z" creationid="quentine" creationdate="20190413T130356Z">
+        <seg>以下是有关枪手职业的专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following features pertain to the Infiltrator advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T140017Z" creationid="quentine" creationdate="20190417T140017Z">
+        <seg>以下是有关渗透者职业的专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following features pertain to the Martial Artist advanced class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T140507Z" creationid="quentine" creationdate="20190226T140507Z">
@@ -8433,6 +8889,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following information pertains to the Infiltrator advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T140823Z" creationid="quentine" creationdate="20190413T140823Z">
+        <seg>以下是有关渗透者职业的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following text is the property of Wizards of the Coast, Inc.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033735Z" creationid="QuenTine" creationdate="20181022T033352Z">
@@ -8445,6 +8909,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143543Z" creationid="quentine" creationdate="20190115T143543Z">
         <seg>大多数酸的挥发气也是吸入性毒物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The gunslinger adds +1 to all attack rolls you make using the selected personal firearm.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T131523Z" creationid="quentine" creationdate="20190413T131523Z">
+        <seg>用选定的单兵火器掷攻击骰都可以获得1点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9052,6 +9524,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This bonus stacks with the earlier bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T140041Z" creationid="quentine" creationdate="20190413T140041Z">
+        <seg>加值与前置的加值叠加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This condition typically lasts 1 round.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121530Z" creationid="quentine" creationdate="20190115T121444Z">
@@ -9316,6 +9796,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This sweep provides a +4 circumstance bonus on Spot checks and covers an area out to 30 feet away from the Infiltrator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T140730Z" creationid="quentine" creationdate="20190417T140730Z">
+        <seg>扫瞄专长让渗透者在侦察半径30尺内的地区时获得4点情景加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This table details how a character improves as he or she attains higher levels in the class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115441Z" creationid="quentine" creationdate="20190116T115441Z">
@@ -9484,6 +9972,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To qualify to become a Gunslinger, a character must fulfill the following criteria.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190227T042243Z" creationid="quentine" creationdate="20190227T042243Z">
+        <seg>要达到成为枪手的资格，角色必须满足以下要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To qualify to become a Martial Artist, a character must fulfill the following criteria.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T134701Z" creationid="quentine" creationdate="20190226T134701Z">
@@ -9496,6 +9992,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T134424Z" creationid="quentine" creationdate="20190221T134424Z">
         <seg>要达到成为士兵的资格，角色必须满足以下要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To qualify to become an Infiltrator, a character must fulfill the following criteria.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T140710Z" creationid="quentine" creationdate="20190413T140710Z">
+        <seg>要达到成为渗透者的资格，角色必须满足以下要求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9748,6 +10252,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When making a check using one of these skills, the Infiltrator may take 10 even if stress and distractions would normally prevent him or her from doing so.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T234848Z" creationid="quentine" creationdate="20190417T234848Z">
+        <seg>当检定这些技能时，渗透者可以在紧张、心烦意乱的情况下取10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When making a check with one of these skills, the Dedicated hero can take 10 even when distracted or under duress.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T105116Z" creationid="quentine" creationdate="20190202T105116Z">
@@ -9864,6 +10376,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T145545Z" creationid="quentine" creationdate="20190226T145517Z">
         <seg>施展疾风连击，即武术家在本轮以其最大的基础攻击加值额外攻击一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With a lightning shot, the Gunslinger may make one extra ranged attack with a personal firearm in a round at his or her highest base attack bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T135313Z" creationid="quentine" creationdate="20190413T135056Z">
+        <seg>枪手的连射，即在一轮内以最高的基础攻击加值额外进行一次远程攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With a successful attack, before damage is rolled, the gunslinger can spend 1 action point to deal +3d6 points of damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T140638Z" creationid="quentine" creationdate="20190413T140638Z">
+        <seg>攻击成功后，在伤害骰之前，枪手可花费1行动点让伤害值+3d6。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10290,6 +10818,66 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |8th|+4|+4|+4|+2|奖励专长|+3|+4|
 |9th|+4|+4|+4|+3|天赋|+3|+4|
 |10th|+5|+5|+5|+3|奖励专长|+3|+5|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+|:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
+|1st|+0|+0|+1|+1|Close combat shot|+1|+0|
+|2nd|+1|+0|+2|+2|Weapon focus|+1|+0|
+|3rd|+2|+1|+2|+2|Bonus feat|+2|+1|
+|4th|+3|+1|+2|+2|Defensive position|+2|+1|
+|5th|+3|+1|+3|+3|Lightning shot|+3|+1|
+|6th|+4|+2|+3|+3|Bonus feat|+3|+2|
+|7th|+5|+2|+4|+4|Sharp-shooting|+4|+2|
+|8th|+6|+2|+4|+4|Greater weapon|focus|+4|+2|
+|9th|+6|+3|+4|+4|Bonus feat|+5|+3|
+|10th|+7|+3|+5|+5|Bullseye|+5|+3|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T130256Z" creationid="quentine" creationdate="20190227T043712Z">
+        <seg>|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
+|:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
+|1st|+0|+0|+1|+1|枪斗术|+1|+0|
+|2nd|+1|+0|+2|+2|专攻武器|+1|+0|
+|3rd|+2|+1|+2|+2|奖励专长|+2|+1|
+|4th|+3|+1|+2|+2|防御位置|+2|+1|
+|5th|+3|+1|+3|+3|连射|+3|+1|
+|6th|+4|+2|+3|+3|奖励专长|+3|+2|
+|7th|+5|+2|+4|+4|穿杨|+4|+2|
+|8th|+6|+2|+4|+4|高等专攻武器|+4|+2|
+|9th|+6|+3|+4|+4|奖励专长|+5|+3|
+|10th|+7|+3|+5|+5|致命射击|+5|+3|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+|:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
+|1st|+0|+0|+2|+0|Sweep|+1|+1|
+|2nd|+1|+0|+3|+0|Improvised implements|+2|+1|
+|3rd|+1|+1|+3|+1|Bonus feat|+2|+1|
+|4th|+2|+1|+4|+1|Improved evasion|+3|+2|
+|5th|+2|+1|+4|+1|Skill mastery|+4|+2|
+|6th|+3|+2|+5|+2|Bonus feat|+4|+2|
+|7th|+3|+2|+5|+2|Improvised weapon damage|+5|+3|
+|8th|+4|+2|+6|+2|Improved sweep|+6|+3|
+|9th|+4|+3|+6|+3|Bonus feat|+6|+3|
+|10th|+5|+3|+7|+3|Without a trace|+7|+4|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T140007Z" creationid="quentine" creationdate="20190417T140007Z">
+        <seg>|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
+|:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
+|1st|+0|+0|+2|+0|扫瞄|+1|+1|
+|2nd|+1|+0|+3|+0|不滞于物|+2|+1|
+|3rd|+1|+1|+3|+1|奖励专长|+2|+1|
+|4th|+2|+1|+4|+1|精通反射闪避|+3|+2|
+|5th|+2|+1|+4|+1|稳定发挥|+4|+2|
+|6th|+3|+2|+5|+2|奖励专长|+4|+2|
+|7th|+3|+2|+5|+2|举轻若重|+5|+3|
+|8th|+4|+2|+6|+2|精通扫瞄|+6|+3|
+|9th|+4|+3|+6|+3|奖励专长|+6|+3|
+|10th|+5|+3|+7|+3|销声匿迹|+7|+4|</seg>
       </tuv>
     </tu>
     <tu>
