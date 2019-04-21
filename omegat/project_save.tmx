@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## BODYGUARD</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T124039Z" creationid="quentine" creationdate="20190421T124039Z">
+        <seg>## 保镖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Basic Class Descriptions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114318Z" creationid="quentine" creationdate="20190116T114318Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125812Z" creationid="QuenTine" creationdate="20181104T125812Z">
         <seg>## 罪犯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## DAREDEVIL</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T094334Z" creationid="quentine" creationdate="20190421T094334Z">
+        <seg>## 勇士</seg>
       </tuv>
     </tu>
     <tu>
@@ -482,6 +498,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122351Z" creationid="quentine" creationdate="20190115T122351Z">
         <seg>## 力竭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## FIELD SCIENTIST</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T135124Z" creationid="quentine" creationdate="20190421T135124Z">
+        <seg>## 战地科学家</seg>
       </tuv>
     </tu>
     <tu>
@@ -1456,6 +1480,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#### Action Boost</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T121343Z" creationid="quentine" creationdate="20190421T121343Z">
+        <seg>#### 行动加速</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Adrenaline Rush</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T121700Z" creationid="quentine" creationdate="20190421T121700Z">
+        <seg>#### 肾上腺素激发</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Blanket Protection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T135053Z" creationid="quentine" creationdate="20190421T134213Z">
+        <seg>#### 防卫指导</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#### Bonus Feats</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120501Z" creationid="quentine" creationdate="20190116T120501Z">
@@ -1480,6 +1528,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#### Combat Sense</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T131451Z" creationid="quentine" creationdate="20190421T131451Z">
+        <seg>#### 战斗直觉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#### Critical Strike</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T132404Z" creationid="quentine" creationdate="20190226T132404Z">
@@ -1488,10 +1544,42 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#### Damage Threshold</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T123924Z" creationid="quentine" creationdate="20190421T123924Z">
+        <seg>#### 巨创阈值提升</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#### Defensive Position</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T134647Z" creationid="quentine" creationdate="20190413T134647Z">
         <seg>#### 防御位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Defensive Strike</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T133708Z" creationid="quentine" creationdate="20190421T133708Z">
+        <seg>#### 防守反击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Delay Damage</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T123742Z" creationid="quentine" creationdate="20190421T123742Z">
+        <seg>#### 延缓伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Fearless</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T114816Z" creationid="quentine" creationdate="20190421T114816Z">
+        <seg>#### 无畏</seg>
       </tuv>
     </tu>
     <tu>
@@ -1524,6 +1612,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T131321Z" creationid="quentine" creationdate="20190226T131321Z">
         <seg>#### 高等武器专精</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Harm’s Way</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T130359Z" creationid="quentine" creationdate="20190421T130359Z">
+        <seg>#### 护卫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Improved Charge</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T133435Z" creationid="quentine" creationdate="20190421T133435Z">
+        <seg>#### 精通冲锋</seg>
       </tuv>
     </tu>
     <tu>
@@ -1600,6 +1704,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#### Nip-Up</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T115133Z" creationid="quentine" creationdate="20190421T115133Z">
+        <seg>#### 起身</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#### Sharp-Shooting</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T135328Z" creationid="quentine" creationdate="20190413T135328Z">
@@ -1612,6 +1724,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T233824Z" creationid="quentine" creationdate="20190417T233824Z">
         <seg>#### 稳定发挥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Sudden Action</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T132518Z" creationid="quentine" creationdate="20190421T132518Z">
+        <seg>#### 突然行动</seg>
       </tuv>
     </tu>
     <tu>
@@ -1788,6 +1908,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144637Z" creationid="quentine" creationdate="20190117T144637Z">
         <seg>##### 不破金身天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>###Table: The Bodyguard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T124607Z" creationid="quentine" creationdate="20190421T124607Z">
+        <seg>### 职业列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>###Table: The Daredevil</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T100306Z" creationid="quentine" creationdate="20190421T100306Z">
+        <seg>### 职业列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>###Table: The Field Scientist</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T140053Z" creationid="quentine" creationdate="20190421T140053Z">
+        <seg>### 职业列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -2021,6 +2165,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144252Z" creationid="quentine" creationdate="20190117T144252Z">
         <seg>**酸系抗力：** 体质型英雄忽略等于自身体质调整值的酸性伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Action Points:** 6 + one-half character level, rounded down, every time he or she attains a new level in this class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T095411Z" creationid="quentine" creationdate="20190421T095411Z">
+        <seg>**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Action Points:** 6 + one-half character level, rounded down, every time the Bodyguard attains a new level in this class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T124204Z" creationid="quentine" creationdate="20190421T124204Z">
+        <seg>**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Action Points:** 6 + one-half character level, rounded down, every time the Field Scientist attains a new level in this class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T135547Z" creationid="quentine" creationdate="20190421T135547Z">
+        <seg>**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2369,6 +2537,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Feat:** Endurance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T094518Z" creationid="quentine" creationdate="20190421T094518Z">
+        <seg>**专长：** 坚忍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Feat:** Personal Firearms Proficiency.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T134539Z" creationid="quentine" creationdate="20190221T134539Z">
@@ -2445,6 +2621,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T141657Z" creationid="quentine" creationdate="20190117T141657Z">
         <seg>**生命骰：** 1d10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Hit Die:** 1d12</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T124147Z" creationid="quentine" creationdate="20190421T124147Z">
+        <seg>**生命骰：** 1d12</seg>
       </tuv>
     </tu>
     <tu>
@@ -2842,6 +3026,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Skills:** 6 ranks in either Craft (chemical) or Craft (electronic), plus 6 ranks in Knowledge (earth and life sciences), Knowledge (physical sciences), or Knowledge (technology), plus 6 ranks in Research.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T135522Z" creationid="quentine" creationdate="20190421T135522Z">
+        <seg>**技能：** 制造（化学）或制造（电力）6级，知识（地球与生命科学）或知识（物理科学）或知识（技术）6级，研究6级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Skills:** Choose one of the following skills as permanent class skills.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T124309Z" creationid="QuenTine" creationdate="20181104T124309Z">
@@ -2862,6 +3054,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T114043Z" creationid="QuenTine" creationdate="20181104T114043Z">
         <seg>**技能：** 从以下技能选两项作为永久本职技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Skills:** Concentrate 6 ranks, Intimidate 6 ranks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T124124Z" creationid="quentine" creationdate="20190421T124124Z">
+        <seg>**技能：** 专注6级、威吓6级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Skills:** Concentration 6 ranks, Drive 6 ranks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T095555Z" creationid="quentine" creationdate="20190421T094610Z">
+        <seg>**技能：** 专注6级、驾驶6级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3170,6 +3378,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A 10th-level Daredevil increases his or her massive damage threshold by 3 points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T123955Z" creationid="quentine" creationdate="20190421T123955Z">
+        <seg>10级时，勇士增加3点巨创阈值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A 1st-level character gets the maximum hit points rather than rolling (although the Constitution modifier is still applied).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114556Z" creationid="quentine" creationdate="20190116T114556Z">
@@ -3182,6 +3398,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115130Z" creationid="quentine" creationdate="20190116T115130Z">
         <seg>1级角色初始将有4倍于此后每升一级所获得的技能点数值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Bodyguard of 5th level or higher can make a charge without having to move in a straight line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T133530Z" creationid="quentine" creationdate="20190421T133530Z">
+        <seg>5级时，保镖可以不按直线冲锋。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3222,6 +3446,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T122949Z" creationid="quentine" creationdate="20190202T122949Z">
         <seg>魅力型英雄使用此天赋需花费1点行动点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Daredevil can spend 1 action point, see the result of the roll, and then decide to spend a second point, as long as he or she does so before the Gamemaster reveals the result of the action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T121649Z" creationid="quentine" creationdate="20190421T121649Z">
+        <seg>勇士可以花费1点行动点，查看掷骰结果、再在GM宣布行动结果前选择再花费一点行动点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Daredevil gains a +4 morale bonus on Will saves to resist fear effects and on level checks to oppose Intimidate checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T115123Z" creationid="quentine" creationdate="20190421T115123Z">
+        <seg>勇士在用意志豁免抵抗恐惧时，与在用等级检定对抗威吓检定时，获得4点士气加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Daredevil of 2nd level or higher can stand up from a prone position as a free action that does not provoke an attack of opportunity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T115523Z" creationid="quentine" creationdate="20190421T115523Z">
+        <seg>2级时，勇士从俯卧状态到站立状态的动作视为即时动作，且不会触发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3644,8 +3892,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>A character’s massive damage threshold is equal to the character’s current Constitution score; it can be increased by taking the Improved Damage Threshold feat.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T143153Z" creationid="quentine" creationdate="20190114T142248Z">
-        <seg>角色的巨创阈值等于角色当前的体质值；巨创阈值还会受“巨创阈值提升”专长提供加成。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T120537Z" creationid="quentine" creationdate="20190114T142248Z">
+        <seg>角色的巨创阈值等于角色当前的体质值；巨创阈值还会受“巨创阈值提升”（及其高级专长）专长提供加成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4098,6 +4346,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Acrobatic, Armor Proficiency (light), Armor Proficiency (me-di-um), Athletic, Brawl, Cautious, Dodge, Force Stop, Im-proved Brawl, Improved Damage Threshold, Improved Knockout Punch, Knockout Punch, Mobility, Nimble, Spring Attack, Streetfighting, Surface Vehicle Operation, Toughness, Vehicle Dodge, Vehicle Expert.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T121325Z" creationid="quentine" creationdate="20190421T115612Z">
+        <seg>杂技、擅长盔甲（轻型）、擅长盔甲（中型）、竞技、拳法、谨慎、闪避、逼停、精通拳法、巨创阈值增强、精通终结之拳、终结之拳、灵活移动、灵巧、跳跃攻击、街头战斗、地面载具操作、健壮、载具闪避、载具专家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Acrobatic, Combat Expertise, Combat Throw, Defensive Martial Arts, Double Tap, Elusive Target, Focused, Improved Disarm, Mobility, Personal Firearms Proficiency, Point Blank Shot, Stealthy, Weapon Finesse.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T142233Z" creationid="quentine" creationdate="20190117T134416Z">
@@ -4206,6 +4462,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T130013Z" creationid="quentine" creationdate="20190226T125336Z">
         <seg>高级擅长火器、擅长古典武器、擅长盔甲（轻型）、擅长盔甲（中型）、擅长盔甲（重型）、拳法、点射、顺势斩、战斗反射、擅长异种近战武器、远程射击、强力顺势斩、精通拳法、精通终结之拳、终结之拳、猛力攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Advanced Firearms Proficiency, Armor Proficiency (light), Armor Proficiency (medium), Attentive, Combat Expertise, Combat Reflexes, Double Tap, Improved Brawl, Improved Feint, Improved Knockout Punch, Knockout Punch, Precise Shot, Quick Draw, Quick Reload, Streetfighting, Vehicle Expert.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T132505Z" creationid="quentine" creationdate="20190421T132505Z">
+        <seg>高级擅长火器、擅长盔甲（轻型）、擅长盔甲（中型）、听者有心、寓守于攻、战斗反射、双发快射、精通拳法、精通虚招、精通终结之拳、终结之拳、精准射击、快速拔出、快速装填、街头战斗、载具专家。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4324,8 +4588,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>Alertness, Athletic, Brawl, Confident, Endurance, Great Fortitude, Improved Brawl, Improved Bull Rush, Improved Feint, Knockout Punch, Power Attack, Streetfighting, Toughness, Vehicle Expert.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T125446Z" creationid="quentine" creationdate="20190201T125446Z">
-        <seg>警觉、竞技、拳法、自信、坚忍、强韧加强、精通拳法、精通冲撞、精通虚招、终结之拳、猛力攻击、街头战斗、健壮、车辆专家。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T121210Z" creationid="quentine" creationdate="20190201T125446Z">
+        <seg>警觉、竞技、拳法、自信、坚忍、强韧加强、精通拳法、精通冲撞、精通虚招、终结之拳、猛力攻击、街头战斗、健壮、载具专家。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4374,6 +4638,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033240Z" creationid="QuenTine" creationdate="20181022T033240Z">
         <seg>本文其他所有的内容是开放游戏内容，参见许可证的第一条第d款。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All other charge rules apply, but the Bodyguard can alter his or her direction when making a charge to avoid obstacles.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T133700Z" creationid="quentine" creationdate="20190421T133700Z">
+        <seg>冲锋的所有规则仍有效，但保镖可以在冲锋的过程中改变方向以避开障碍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4866,6 +5138,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 10th level, a Bodyguard can use his expertise to provide protection for up to six allies (not including himself) within sight and voice range of his position.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T134444Z" creationid="quentine" creationdate="20190421T134444Z">
+        <seg>10级时，保镖可以运用其专业知识为6个能看到且能听到的友方（不包括自己）提供保护。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At 10th level, a Gunslinger becomes so adept at using the firearm to which he or she has applied Weapon Focus and Greater Weapon Focus that the gunslinger’s attacks with that firearm can deal extra damage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T140301Z" creationid="quentine" creationdate="20190413T140211Z">
@@ -5042,6 +5322,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 3rd, 6th, and 9th level, the Bodyguard gets a bonus feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T132011Z" creationid="quentine" creationdate="20190421T132011Z">
+        <seg>3、6、9级时，保镖获得一个奖励专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 3rd, 6th, and 9th level, the Daredevil gets a bonus feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T115538Z" creationid="quentine" creationdate="20190421T115538Z">
+        <seg>3、6、9级时，勇士获得一个奖励专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At 3rd, 6th, and 9th level, the Gunslinger gets a bonus feat.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T131538Z" creationid="quentine" creationdate="20190413T131538Z">
@@ -5078,6 +5374,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T142100Z" creationid="quentine" creationdate="20190226T142100Z">
         <seg>4级时，伤害骰是1d8。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 5th level, a Daredevil can temporarily increase one of his or her physical ability scores (Strength, Dexterity, or Constitution).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T123648Z" creationid="quentine" creationdate="20190421T121804Z">
+        <seg>5级时，勇士可以暂时增加一项身体属性（力量、敏捷或者体质）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5122,10 +5426,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 7th level, if an opponent makes a melee attack against the Bodyguard and misses while the Bodyguard is using the total defense option, the Bodyguard can attack that opponent on his or her next turn (as an attack action) with a +4 bonus on his or her attack roll.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T134001Z" creationid="quentine" creationdate="20190421T134001Z">
+        <seg>7级时，如果对手近战攻击保镖失手了，而保镖此时在防御，保镖可以在下次攻击此对手时，攻击骰有4点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At 7th level, if the Gunslinger uses a personal firearm to attack a target, the cover bonus to the target’s Defense for one-quarter, one-half, three-quarters, or nine-tenths cover is reduced by 2.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T135727Z" creationid="quentine" creationdate="20190413T135727Z">
         <seg>7级时，枪手用单兵火器攻击一个处于1/4、1/2、3/4或9/10掩体目标时，目标的掩体加值-2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 8th level, a Daredevil can temporarily increase two physical ability scores.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T123656Z" creationid="quentine" creationdate="20190421T123535Z">
+        <seg>8级时，勇士可增益两项身体属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5162,10 +5482,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 8th level, the competence bonus increases to +2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T132000Z" creationid="quentine" creationdate="20190421T132000Z">
+        <seg>8级时，表现加值升至2点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At from –1 to –9 hit points, a character is dying.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T141733Z" creationid="quentine" creationdate="20190114T141733Z">
         <seg>生命值为-1至-9时，角色濒死。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of the duration, the Daredevil is fatigued for 1d4+1 rounds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T123446Z" creationid="quentine" creationdate="20190421T123446Z">
+        <seg>增益结束后，勇士疲乏1d4+1轮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the end of the duration, the Daredevil is fatigued for 1d6+2 rounds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T123731Z" creationid="quentine" creationdate="20190421T123731Z">
+        <seg>增益结束后，勇士疲乏1d6+2轮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5308,8 +5652,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>Builder, Cautious, Combat Expertise, Educated, Gearhead, Improved Disarm, Improved Trip, Iron Will, Lightning Reflexes, Meticulous, Studious, Vehicle Expert, Weapon Focus.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T141156Z" creationid="quentine" creationdate="20190201T160507Z">
-        <seg>构造师、谨慎、寓守于攻、良好教育、技术宅、精通卸除武器、精通绊摔、钢铁意志、闪电反射、一丝不苟、好学、车辆专家、专攻武器。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T121236Z" creationid="quentine" creationdate="20190201T160507Z">
+        <seg>构造师、谨慎、寓守于攻、良好教育、技术宅、精通卸除武器、精通绊摔、钢铁意志、闪电反射、一丝不苟、好学、载具专家、专攻武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5396,8 +5740,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>Climb (Str), Concentration (Con), Craft (mechanical, structural) (Int), Drive (Dex), Intimidate (Cha), Knowledge (current events, popular culture, streetwise) (Int), Profession (Wis), Read/Write Language (none), Ride (Dex), Speak Language (none), Spot (Wis), and Survival (Wis).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T141903Z" creationid="quentine" creationdate="20190117T141903Z">
-        <seg>攀爬（力）、</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T095213Z" creationid="quentine" creationdate="20190117T141903Z">
+        <seg>攀爬（力）、专注（体）、制造（机械、结构）（智）、驾驶（敏）、威吓（魅）、知识（时事、流行文化、街头智慧）（智）、专业（感）、读写语言（无）、骑术（敏）、口头语言（无）、侦察（感）、生存（感）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5627,6 +5971,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T124144Z" creationid="quentine" creationdate="20190114T124144Z">
         <seg>闪避加值：主动闪避攻击同样会为防御提供加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Doing this provides the Bodyguard’s allies with a +1 insight bonus to Defense for 3 rounds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T135020Z" creationid="quentine" creationdate="20190421T135020Z">
+        <seg>友方的防御增加1点洞察加值，持续3回合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6191,6 +6543,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it misses, it also misses the ally.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T130758Z" creationid="quentine" creationdate="20190421T130758Z">
+        <seg>若未命中，友方也不会被命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If more than one condition affects a character, apply both if possible.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T115532Z" creationid="quentine" creationdate="20190115T115532Z">
@@ -6267,6 +6627,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145403Z" creationid="quentine" creationdate="20190114T145403Z">
         <seg>如果伤害值比巨创阈值小，目标不会被攻击影响到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the attack hits the Bodyguard, he or her takes damage normally.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T130700Z" creationid="quentine" creationdate="20190421T130700Z">
+        <seg>攻击击中则保镖受伤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7177,6 +7545,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Once per day, a Bodyguard of 4th level or higher can focus his or her effort to burst into sudden action when the situation calls for it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T132647Z" creationid="quentine" creationdate="20190421T132647Z">
+        <seg>4级时，保镖每天有一次机会，在情势需要时迅猛地行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once per day, a Daredevil of 7th level or higher can delay the damage dealt by a single attack or effect for a number of rounds equal to his or her class level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T123910Z" creationid="quentine" creationdate="20190421T123910Z">
+        <seg>7级时，勇士每天有一次机会，延迟一次攻击或效果造成的伤害，延迟轮数等于本职业等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once per round, if the Bodyguard is adjacent to an ally who is targeted by a direct melee or ranged attack (but not an area effect), the Bodyguard can subject him or herself to the attack in the ally’s stead.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T131357Z" creationid="quentine" creationdate="20190421T130614Z">
+        <seg>保镖每轮有一次机会，当与保镖相邻的友方成为直接的近战或远程攻击的目标（而非范围攻击）时，保镖可代替其成为目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once selected, a permanent class skill is always considered to be a class skill for the character.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T100502Z" creationid="QuenTine" creationdate="20181104T085201Z">
@@ -7961,6 +8353,78 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Bodyguard can change his or her place in the initiative order, moving higher in the count by a number less than or equal to his or her class level, as the Bodyguard sees fit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T133236Z" creationid="quentine" creationdate="20190421T133236Z">
+        <seg>保镖可以改变自己的先攻顺序，让自己更优先，跨度自选，不能大于职业等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Bodyguard can declare the use of this ability at the start of any round, before anyone else takes an action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T133355Z" creationid="quentine" creationdate="20190421T133355Z">
+        <seg>保镖在一轮的开始，所有人行动前宣布使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Bodyguard can select a new opponent on any action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T131926Z" creationid="quentine" creationdate="20190421T131926Z">
+        <seg>保镖可在行动时指定新的目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Bodyguard can’t change his or her ally for the duration of the combat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T131430Z" creationid="quentine" creationdate="20190421T131430Z">
+        <seg>战斗时不能改变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Bodyguard gains no bonus against an opponent who doesn’t attack the Bodyguard or against an opponent who makes a successful attack.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T134203Z" creationid="quentine" creationdate="20190421T134203Z">
+        <seg>若对手没有近战攻击保镖或攻击成功了，保镖不能享受此加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Bodyguard must declare his or her intention to place him or herself in harm’s way before the attack roll is made.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T130856Z" creationid="quentine" creationdate="20190421T130856Z">
+        <seg>保镖必须在掷骰之前宣布使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Bodyguard selects his or her ally either prior to combat or immediately after the Bodyguard makes his or her initiative check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T131436Z" creationid="quentine" creationdate="20190421T131317Z">
+        <seg>保镖只能在战斗前或先攻时指定所护卫的对象，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Bodyguard spends 1 action point and takes a full-round action to issue orders and directions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T135105Z" creationid="quentine" creationdate="20190421T134538Z">
+        <seg>保镖花费1行动点和一个整轮动作来指挥与指导。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Bodyguard’s class skills (and the key ability for each skill) are: Concentration (Con), Disguise (Cha), Drive (Dex), Forgery (Int), Gather Information (Cha), Intimidate (Cha), Knowledge (behavioral sciences, civics, current events, streetwise) (Int), Listen (Wis), Profession (Wis), Read/Write Language (none), Search (Int), Sense Motive (Wis), Speak Language (none), Spot (Wis).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T124602Z" creationid="quentine" creationdate="20190421T124602Z">
+        <seg>保镖的本职技能（及相关属性）有：专注（体）、易容（魅）、驾驶（敏）、伪造文书（智）、收集信息（魅）、威吓（魅）、知识（行为科学、政法、时事、街头智慧）（智）、聆听（感）、专业（感）、读写语言（无）、搜索（智）、察言观色（感）、口头语言（无）、侦察（感）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Charismatic hero concentrates all his or her effort on the task, and the target gets to make a new Will save each round.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T133205Z" creationid="quentine" creationdate="20190215T133205Z">
@@ -8021,6 +8485,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T123433Z" creationid="quentine" creationdate="20190202T123433Z">
         <seg>DC下限是10，表示简单的小忙，上限是30，表示艰难、高危、昂贵或者违法的忙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Daredevil spends 1 action point and gets to increase the selected ability score by 1d4+1 points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T123131Z" creationid="quentine" creationdate="20190421T121839Z">
+        <seg>勇士花费1行动点来增益所选的属性1d4+1点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Daredevil’s class skills (and the key ability for each skill) are: Balance (Dex), Climb (Str), Concentration (Con), Demolitions (Int), Drive (Dex), Escape Artist (Dex), Intimidate (Cha), Jump (Str), Knowledge (current events, popular culture) (Int), Perform (act) (Cha), Pilot (Dex), Profession (Wis), Read/Write Language (none), Ride (Dex), Speak Language (none), Spot (Wis), Swim (Str), Tumble (Dex).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T100253Z" creationid="quentine" creationdate="20190421T095515Z">
+        <seg>勇士的本职技能（及相关属性）有：平衡（敏）、攀爬（力）、专注（体）、爆破（智）、驾驶（敏）、脱逃（敏）、威吓（魅）、跳跃（敏）、知识（时事、流行文化）（智）、表演（演戏）（魅）、驾机（敏）、专业（感）、读写语言（无）、骑术（敏）、口头语言（无）、侦察（感）、游泳（力）、翻滚（敏）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8101,6 +8581,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T115930Z" creationid="quentine" creationdate="20190117T115930Z">
         <seg>敏捷型英雄的本职技能（以及技能的关键属性）如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Field Scientist’s class skills (and the key ability for each skill) are: Computer Use (Int), Craft (chemical, electronic, mechanical, pharmaceutical), Decipher Script (Int), Demolitions (Int), Disable Device (Int), Drive (Dex), Investigate (Int), Knowledge (be-havioral sciences, earth and life sciences, physical sciences, technology) (Int), Navigate (Int), Pilot (Dex), Profession (Wis), Read/Write Language (none), Research (Int), Search (Int), Speak Language (none).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T140043Z" creationid="quentine" creationdate="20190421T140043Z">
+        <seg>战地科学家的本职技能（及相关属性）有：计算机使用（智）、制造（化学、电力、机械、配药）、伪造文书（智）、爆破（智）、解除装置（智）、驾驶（敏）、调查（智）、知识（行为科学、地球与生命科学、物理科学、技术）（智）、寻路（智）、驾机（敏）、专业（感）、读写语言（无）、研究（智）、搜索（智）、口头语言（无）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8437,6 +8925,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T123721Z" creationid="quentine" creationdate="20190114T123721Z">
         <seg>目标的个头越大，在战斗中越容易被击中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bonus feat must be selected from the following list, and the Bodyguard must meet all the prerequisites of the feat to select it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T132018Z" creationid="quentine" creationdate="20190421T132018Z">
+        <seg>奖励专长必须从下表中选择，在选择时必须满足该专长的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bonus feat must be selected from the following list, and the Daredevil must meet all the prerequisites of the feat to select it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T115546Z" creationid="quentine" creationdate="20190421T115546Z">
+        <seg>奖励专长必须从下表中选择，在选择时必须满足该专长的要求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8857,6 +9361,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following features pertain to the Bodyguard advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T130352Z" creationid="quentine" creationdate="20190421T130352Z">
+        <seg>以下是有关保镖职业的专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following features pertain to the Daredevil advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T114751Z" creationid="quentine" creationdate="20190421T114751Z">
+        <seg>以下是有关勇士职业的专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following features pertain to the Gunslinger advanced class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T130356Z" creationid="quentine" creationdate="20190413T130356Z">
@@ -8885,6 +9405,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T133811Z" creationid="quentine" creationdate="20190222T133811Z">
         <seg>以下是有关士兵职业的专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following information pertains to the Bodyguard advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T124136Z" creationid="quentine" creationdate="20190421T124136Z">
+        <seg>以下是有关保镖职业的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following information pertains to the Daredevil advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T095336Z" creationid="quentine" creationdate="20190421T095336Z">
+        <seg>以下是有关勇士职业的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following information pertains to the Field Scientist -advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T135536Z" creationid="quentine" creationdate="20190421T135536Z">
+        <seg>以下是有关战地科学家职业的信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8998,6 +9542,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T073036Z" creationid="quentine" creationdate="20190112T065808Z">
         <seg>卖家所增加的财富与买家损失的财富是相同的，买家的购买DC与售价相同，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The increase lasts for a number of rounds equal to his or her class level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T123310Z" creationid="quentine" creationdate="20190421T123310Z">
+        <seg>增益持续的轮数等同于本职业等级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9427,6 +9979,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This ability allows a Bodyguard of 2nd level or higher to designate a single opponent during his or her action and receive a +1 competence bonus on attacks against that opponent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T131658Z" creationid="quentine" creationdate="20190421T131658Z">
+        <seg>2级时，保镖可以在自己行动时指定单个对手，攻击指定对手时获得1点表现加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This ability can be taken more than once (for another gender).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T071115Z" creationid="quentine" creationdate="20190202T121441Z">
@@ -9448,6 +10008,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T133718Z" creationid="quentine" creationdate="20190226T132118Z">
         <seg>选定的武器获得的攻击骰加值增至+4。
 &gt; 译者注：这句明确说明了攻击骰加值增至+4，所以以此类推，此专长和武器专精、武器专攻的加值不能叠加，而是覆盖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This ability, gained at 4th level, allows a Daredevil to spend 2 action points on a single action in a round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T121451Z" creationid="quentine" creationdate="20190421T121451Z">
+        <seg>4级时，勇士一轮内的单个动作可以花费两点行动点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9680,6 +10248,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135248Z" creationid="QuenTine" creationdate="20181104T074535Z">
         <seg>包括某领袖、家族或者是由相关个体所组成的团体（例如一队英雄或是一班秘密特工），抑或是大组织中的小团体（例如玩家所在的小队或者排，或是由角色负责安全的团队）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This increase stacks with the increase provided by the Improved Damage Threshold feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T124033Z" creationid="quentine" creationdate="20190421T124033Z">
+        <seg>效果与`巨创阈值增强`的效果叠加。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9968,6 +10544,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134311Z" creationid="QuenTine" creationdate="20181106T134311Z">
         <seg>要购买一件物品，就要比对财富值与购买难度等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To qualify to become a Bodyguard, a character must fulfill the following criteria.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T124055Z" creationid="quentine" creationdate="20190421T124055Z">
+        <seg>要达到成为保镖的资格，角色必须满足以下要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To qualify to become a Daredevil, a character must fulfill the following criteria.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T094354Z" creationid="quentine" creationdate="20190421T094354Z">
+        <seg>要达到成为勇士的资格，角色必须满足以下要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To qualify to become a Field Scientist, a character must fulfill the following criteria.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T135140Z" creationid="quentine" creationdate="20190421T135140Z">
+        <seg>要达到成为战地科学家的资格，角色必须满足以下要求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10878,6 +11478,96 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |8th|+4|+2|+6|+2|精通扫瞄|+6|+3|
 |9th|+4|+3|+6|+3|奖励专长|+6|+3|
 |10th|+5|+3|+7|+3|销声匿迹|+7|+4|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+|:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
+|1st|+0|+1|+1|+0|Smart defense|+0|+0|
+|2nd|+1|+2|+2|+0|Scientific improvisation|+1|+0|
+|3rd|+1|+2|+2|+1|Bonus feat|+1|+1|
+|4th|+2|+2|+2|+1|Skill mastery|+1|+1|
+|5th|+2|+3|+3|+1|Minor breakthrough|+2|+1|
+|6th|+3|+3|+3|+2|Bonus feat|+2|+2|
+|7th|+3|+4|+4|+2|Smart survival|+2|+2|
+|8th|+4|+4|+4|+2|Smart weapon|+3|+2|
+|9th|+4|+4|+4|+3|Bonus feat|+3|+3|
+|10th|+5|+5|+5|+3|Major breakthrough|+3|+3|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T140353Z" creationid="quentine" creationdate="20190421T140353Z">
+        <seg>|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
+|:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
+|1st|+0|+1|+1|+0|Smart defense|+0|+0|
+|2nd|+1|+2|+2|+0|Scientific improvisation|+1|+0|
+|3rd|+1|+2|+2|+1|Bonus feat|+1|+1|
+|4th|+2|+2|+2|+1|Skill mastery|+1|+1|
+|5th|+2|+3|+3|+1|Minor breakthrough|+2|+1|
+|6th|+3|+3|+3|+2|Bonus feat|+2|+2|
+|7th|+3|+4|+4|+2|Smart survival|+2|+2|
+|8th|+4|+4|+4|+2|Smart weapon|+3|+2|
+|9th|+4|+4|+4|+3|Bonus feat|+3|+3|
+|10th|+5|+5|+5|+3|Major breakthrough|+3|+3|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+|:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
+|1st|+0|+1|+2|+0|Harm’s way|+1|+0|
+|2nd|+1|+2|+3|+0|Combat sense|+1|+1|+0|
+|3rd|+2|+2|+3|+1|Bonus feat|+2|+1|
+|4th|+3|+2|+4|+1|Sudden action|+2|+1|
+|5th|+3|+3|+4|+1|Improved charge|+3|+1|
+|6th|+4|+3|+5|+2|Bonus feat|+3|+2|
+|7th|+5|+4|+5|+2|Defensive strike|+4|+2|
+|8th|+6|+4|+6|+2|Combat sense|+2|+4|+2|
+|9th|+6|+4|+6|+3|Bonus feat|+5|+3|
+|10th|+7|+5|+7|+3|Blanket protection|+5|+3|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T135035Z" creationid="quentine" creationdate="20190421T130340Z">
+        <seg>|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
+|:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
+|1st|+0|+1|+2|+0|护卫|+1|+0|
+|2nd|+1|+2|+3|+0|战斗直觉|+1|+1|+0|
+|3rd|+2|+2|+3|+1|奖励专长|+2|+1|
+|4th|+3|+2|+4|+1|突然行动|+2|+1|
+|5th|+3|+3|+4|+1|精通冲锋|+3|+1|
+|6th|+4|+3|+5|+2|奖励专长|+3|+2|
+|7th|+5|+4|+5|+2|防守反击|+4|+2|
+|8th|+6|+4|+6|+2|战斗直觉|+2|+4|+2|
+|9th|+6|+4|+6|+3|奖励专长|+5|+3|
+|10th|+7|+5|+7|+3|防卫指导|+5|+3|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+|:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
+|1st|+0|+2|+0|+0|Fearless|+1|+0|
+|2nd|+1|+3|+0|+0|Nip-up|+2|+0|
+|3rd|+1|+3|+1|+1|Bonus feat|+2|+1|
+|4th|+2|+4|+1|+1|Action boost|+3|+1|
+|5th|+2|+4|+1|+1|Adrenaline rush (one ability score)|+4|+1|
+|6th|+3|+5|+2|+2|Bonus feat|+4|+2|
+|7th|+3|+5|+2|+2|Delay damage|+5|+2|
+|8th|+4|+6|+2|+2|Adrenaline rush (two ability scores)|+6|+2|
+|9th|+4|+6|+3|+3|Bonus feat|+6|+3|
+|10th|+5|+7|+3|+3|Damage threshold|+7|+3|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T114733Z" creationid="quentine" creationdate="20190421T114733Z">
+        <seg>|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
+|:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
+|1st|+0|+2|+0|+0|无畏|+1|+0|
+|2nd|+1|+3|+0|+0|起身|+2|+0|
+|3rd|+1|+3|+1|+1|奖励专长|+2|+1|
+|4th|+2|+4|+1|+1|行动加速|+3|+1|
+|5th|+2|+4|+1|+1|肾上腺素激发（1行动点）|+4|+1|
+|6th|+3|+5|+2|+2|奖励专长|+4|+2|
+|7th|+3|+5|+2|+2|延缓伤害|+5|+2|
+|8th|+4|+6|+2|+2|肾上腺素激发（2行动点）|+6|+2|
+|9th|+4|+6|+3|+3|奖励专长|+6|+3|
+|10th|+5|+7|+3|+3|巨创阈值提升|+7|+3|</seg>
       </tuv>
     </tu>
     <tu>

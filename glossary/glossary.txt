@@ -140,7 +140,7 @@ disabled	瘫痪
 dying	濒死
 dead	死亡
 Massive Damage	巨创
-Improved Damage Threshold	巨创阈值提升
+Improved Damage Threshold	巨创阈值增强
 critical hit	重击
 immune	免疫
 dazed	眩晕
@@ -261,7 +261,7 @@ Feint	虚招
 Knockout Punch	终结之拳
 Streetfighting	街头战斗
 Toughness	健壮
-Vehicle Expert	车辆专家
+Vehicle Expert	载具专家
 writing	写作
 arcane lore	秘法学识
 art	艺术
@@ -396,3 +396,23 @@ Improvised weapon damage	举轻若重
 Without a trace	销声匿迹
 improvised weapon	简易武器
 Nimble	灵巧
+Concentration	专注
+Fearless	无畏
+Nip-up	起身
+Action boost	行动加速
+Adrenaline rush	肾上腺素激发
+Delay damage	延缓伤害
+Damage threshold	巨创阈值提升
+fear	恐惧
+free action	即时动作
+Force Stop	逼停
+Spring Attack	跳跃攻击
+Surface Vehicle Operation	地面载具操作
+Vehicle Dodge	载具闪避
+Harm’s way	护卫
+Combat sense	战斗直觉
+Sudden action	突然行动
+Defensive strike	防守反击
+Blanket protection	防卫指导
+insight bonus	洞察加值
+technology	技术
