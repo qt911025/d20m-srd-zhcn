@@ -1,5 +1,5 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
-ADVANCED CLASSES
+高级职业
 
 ARCANE ARRANGER
 The fastest path into this advanced class is from the Charismatic hero basic class, though other paths are possible.
@@ -548,7 +548,8 @@ At 4th level, the Swashbuckler gains the Weapon Specialization feat. He gains a 
 Find the Mark
 The Swashbuckler increases his threat range by one when using any melee weapon with which he has Weapon Finesse. A weapon that would threaten a critical on 20 would now do so on a 19 or 20, and one which threatens on a 19 or 20 would now do so on an 18 to 20. This ability works with other abilities which increase threat ranges.
 Greater Weapon Specialization
-At 7th level, the Swashbuckler gains Greater Weapon Specialization with a light or smaller melee weapon with which he has Weapon Specialization. This ability increases the bonus on damage rolls to +4 when using the selected weapon.
+At 7th level, the Swashbuckler gains Greater Weapon Specialization with a light or smaller melee weapon with which he has Weapon Specialization. 选定的武器获得的攻击骰加值增至+4。
+> 译者注：这句明确说明了攻击骰加值增至+4，所以以此类推，此专长和武器专精、武器专攻的加值不能叠加，而是覆盖。
 Deflect Missiles
 At 8th level, the Swashbuckler can use his weapon to deflect missiles in the air, including arrows, spears, bolts, and bullets. This is a supernatural ability and costs an action point to activate.
 If armed with a melee weapon with which he has Greater Weapon Specialization, the Swashbuckler may spend an action point to allow a Reflex save (DC 20 +1 per enhancement bonus of the attacking weapon). If he succeeds, he deflects the missile harmlessly away. The Deflect Missiles ability applies to bullets from handguns and longarms, but not exceptional missiles (such as magic missiles or particularly large items). If used successfully against a grenade attack the grenade automatically scatters (as normal rules) and then explodes.

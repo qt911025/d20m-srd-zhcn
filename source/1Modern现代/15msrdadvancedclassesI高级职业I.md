@@ -772,7 +772,7 @@ The Field Medic’s class skills (and the key ability for each skill) are: Compu
 |5th|+2|+4|+1|+3|Medical specialist +2|+3|+2|
 |6th|+3|+5|+2|+3|Bonus feat|+3|+2|
 |7th|+3|+5|+2|+4|Minor medical miracle|+4|+3|
-|8th|+4|+6|+2|+4|Medical specialist|+3|+4|+3|
+|8th|+4|+6|+2|+4|Medical specialist +3|+4|+3|
 |9th|+4|+6|+3|+4|Bonus feat|+5|+3|
 |10th|+5|+7|+3|+5|Medical miracle|+5|+4|
 

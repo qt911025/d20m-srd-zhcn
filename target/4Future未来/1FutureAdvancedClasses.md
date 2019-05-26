@@ -1,5 +1,5 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
-ADVANCED CLASSES
+高级职业
 
 AMBASSADOR
 The fastest path into this advanced class is from the Charismatic hero basic class, though other paths are conceivable.

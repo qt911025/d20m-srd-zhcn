@@ -85,7 +85,7 @@ Forgery	伪造文书
 Hide	躲藏
 Sleight of Hand	手上功夫
 Criminal	罪犯
-Creative	创作者
+Creative	创作者（背景）
 Dilettante	富二代
 pharmaceutical	配药
 Emergency Services	应急人员
@@ -332,7 +332,7 @@ Coordinate	协调
 Inspiration	激励
 morale	士气
 Agile Riposte	借机反击
-Creative	富有创意
+Creative	富有创意（专长）
 Frightful Presence	气势凶猛
 Low Profile	低调
 Renown	闻名
@@ -416,3 +416,49 @@ Defensive strike	防守反击
 Blanket protection	防卫指导
 insight bonus	洞察加值
 technology	技术
+Smart defense	机智防御
+Scientific improvisation	就地取材
+Minor breakthrough	细微进展
+Smart survival	机智求生
+Smart weapon	巧用武器
+Major Breakthrough	重大突破
+Jury-rig	应急维修
+Extreme machine	极限过载
+Build robot	造机器人
+Mastercraft	大师级工艺
+Vehicles	载具
+maneuver	机动性
+robot	机器人
+Components	部件
+Manipulators	机械臂
+Treads	履带	在制造机器人里的运动方式，显然不是指轮胎纹
+Bipedal	双足
+Quadruped	四足
+Audio/visual sensor	视听装置
+Creature	生物
+mastercraft feature	大师级工艺功能
+computers	计算机
+electronic devices	电气设备
+Medical specialist	医疗专精
+Expert healer	急救妙手
+Medical mastery	燃眉救护
+Minor medical miracle	回春圣手
+Profile	画像
+Contact	联系
+Nonlethal force	非致命武力
+Discern lie	识破谎言
+Sixth sense	第六感
+Unlimited access	自由进出
+Bonus class skill	奖励本职技能
+Royalty	富贵
+Winning smile	亲和
+Compelling performance	带动情绪
+opposed	对抗	opposed xx check
+Conceal motive	隐藏动机
+React first	先发制人
+Talk down	劝和
+No sweat	轻而易举
+Sow distrust	挑拨离间
+attitude	态度
+helpful	提供帮助
+friendly	友善

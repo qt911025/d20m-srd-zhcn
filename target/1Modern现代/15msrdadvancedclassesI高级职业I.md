@@ -1,697 +1,1075 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
-ADVANCED CLASSES
 
-An advanced class represents a focus and a calling for the experienced adventurer. It provides a specialization and a range of power and ability to give a character that something extra to set him or her apart.
-Although each advanced class naturally builds from a certain basic class, every advanced class is available to all characters who fulfill the prerequisites of the class, regardless of what basic classes they have gained levels in. The associations between basic classes and advanced classes are summarized on the following table.
+# 高级职业
 
-|Basic Class\*|Advanced Class|
+高级职业就是一些有经验的冒险者用的职业。这些职业给角色提供了更专门化的能力，细分了角色的种类。
+
+虽然每个高级职业都是建立在相应的基本职业之上，但每个高级职业都是允许所有满足了职业要求的角色选择的，和角色的基本职业的等级没什么关系。下表总结了基本职业和高级职业的联系。
+
+|基本职业\*|高级职业|
 |:------------|:-------------|
-|Strong|Soldier; Martial Artist|
-|Fast|Gunslinger; Infiltrator|
-|Tough|Daredevil; Bodyguard|
-|Smart|Field Scientist; Techie, Mage|
-|Dedicated|Field Medic; Investigator, Acolyte|
-|Charismatic|Personality; Negotiator|
+|力量型|士兵；武术家|
+|敏捷型|枪手；渗透者|
+|体质型|勇士；保镖|
+|智力型|战地科学家；技师、法师|
+|感知型|战地医生；调查员，侍僧|
+|魅力型|明星；谈判专家|
 
-\* The given basic class provides the fastest path to both of the associated advanced classes, though not the only path.
+\* 所示的基本职业并不是对应高级职业的必要条件，而是通往高级职业的捷径。
 
-The Gamemaster may add advanced classes specifically suited to his or her campaign. Conversely, the GM can decide that certain advanced classes aren’t available in the campaign. Check with your GM before selecting an advanced class.
+GM根据游戏内容允许玩家选择部分高级职业，也能决定哪些高级职业禁止选择。选择一个高级职业前应该和GM沟通好。
 
-Qualifying for an Advanced Class
-Advanced classes are like basic classes, except that they have requirements that must be met before a character can attain 1st level in the class. A character who qualifies can choose an advanced class as an additional class as he or she gains levels, using the multiclassing rules. Some combination of base attack bonus, feats, and skill ranks determines whether a character is eligible to gain a level in an advanced class.
+**满足条件才能选择高级职业**
 
-SOLDIER
-Requirements
-To qualify to become a Soldier, a character must fulfill the following criteria.
-Base Attack Bonus: +3.
-Skill: Knowledge (tactics) 3 ranks.
-Feat: Personal Firearms Proficiency.
-Class Information
-Hit Die: 1d10
-Action Points: 6 + one-half character level, rounded down, every time the character attains a new level in this class.
-Class Skills
-The Soldier’s class skills (and the key ability for each skill) are: Demolitions (Int), Drive (Dex), Intimidate (Cha), Jump (Str), Knowledge (current events, history, popular culture, tactics) (Int), Listen (Wis), Navigate (Int), Profession (Wis), Read/Write Language (none), Speak Language (none), Spot (Wis), Survival (Wis), Swim (Str).
-Skill Points at Each Level: 5 + Int modifier.
+高级职业和基本职业没什么不同，唯一的区别是必须满足高级职业的要求才能解锁这个职业。满足了要求的角色将可以选择一个高级职业，作为一个新增的职业，按照跨职规则提升等级。基础攻击加值、专长和技能等级的要求一起决定了角色是否能提升这个高级职业的等级。
 
-Table: The Soldier
+## 士兵
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation bonus|
+### 要求
+
+要达到成为士兵的资格，角色必须满足以下要求。
+
+**基础攻击加值：** +3
+
+**技能：** 知识（策略）3级
+
+**专长：** 擅长单兵火器
+
+### 职业信息
+
+**生命骰：** 1d10
+
+**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。
+
+### 本职技能
+
+士兵的本职技能（及相关属性）有：爆破（智）、驾驶（敏）、威吓（魅）、跳跃（力）、知识（时事、历史、流行文化、策略）（智）、聆听（感）、寻路（智）、专业（感）、读写语言（无）、口头语言（无）、侦察（感）、生存（感）、游泳（力）。
+
+**升级技能点数：** 5+智力调整值
+
+### 职业列表
+
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+0|+1|+1|+0|Weapon Focus|+1|+0|
-|2nd|+1|+2|+2|+0|Weapon specialization|+1|+0|
-|3rd|+2|+2|+2|+1|Bonus feat|+2|+0|
-|4th|+3|+2|+2|+1|Tactical aid|+2|+0|
-|5th|+3|+3|+3|+1|Improved critical|+3|+1|
-|6th|+4|+3|+3|+2|Bonus feat|+3|+1|
-|7th|+5|+4|+4|+2|Improved reaction|+4|+1|
-|8th|+6|+4|+4|+2|Greater weapon specialization|+4|+1|
-|9th|+6|+4|+4|+3|Bonus feat|+5|+2|
-|10th|+7|+5|+5|+3|Critical strike|+5|+2|
+|1st|+0|+1|+1|+0|专攻武器|+1|+0|
+|2nd|+1|+2|+2|+0|专精武器|+1|+0|
+|3rd|+2|+2|+2|+1|奖励专长|+2|+0|
+|4th|+3|+2|+2|+1|战术支援|+2|+0|
+|5th|+3|+3|+3|+1|精通重击|+3|+1|
+|6th|+4|+3|+3|+2|奖励专长|+3|+1|
+|7th|+5|+4|+4|+2|快速反应|+4|+1|
+|8th|+6|+4|+4|+2|高等专精武器|+4|+1|
+|9th|+6|+4|+4|+3|奖励专长|+5|+2|
+|10th|+7|+5|+5|+3|致命重击|+5|+2|
 
-Class Features
-The following features pertain to the Soldier advanced class.
-Weapon Focus
-At 1st level, a Soldier gains the Weapon Focus class feature, providing the benefit of the feat with the same name. The Soldier chooses a specific weapon. The soldier can choose unarmed strike or grapple as the weapon. The soldier must be proficient with the chosen weapon.
-The soldier adds +1 to all attack rolls made using the selected weapon.
-Weapon Specialization
-At 2nd level, a Soldier gains weapon specialization with a specific melee or ranged weapon that he or she also has applied the Weapon Focus feat or class feature to. The soldier gets a +2 bonus on damage rolls with the chosen weapon.
-Bonus Feats
-At 3rd, 6th, and 9th level, the Soldier gets a bonus feat. The bonus feat must be selected from the following list, and the Soldier must meet all the prerequisites of the feat to select it.
-Advanced Firearms Proficiency, Archaic Weapons Proficiency, Armor Proficiency (light), Armor Proficiency (medium), Armor Proficiency (heavy), Brawl, Burst Fire, Cleave, Combat Reflexes, Exotic Firearms Proficiency, Exotic Melee Weapon Proficiency, Far Shot, Great Cleave, Im-proved Brawl, Improved Knockout Punch, Knockout Punch, Power Attack.
-Tactical Aid
-As a full-round action, the Soldier provides tactical aid to all of his allies (including himself) within sight and voice
-range of his position. This use of tactical aid requires an action point.
-This aid provides a +1 competence bonus on attack rolls. The bonus lasts for a number of rounds equal to one-half
-of the Soldier’s level in the advanced class, rounded down.
-Improved Critical
-For the weapon the Soldier has applied weapon specialization to the Soldier’s threat range increases by one.
-Improved Reaction
-At 7th level, a Soldier gains a +2 competence bonus on initiative checks.
-Greater Weapon Specialization
-At 8th level, a Soldier gains greater weapon specialization with the weapon he  or she selected at 2nd level. This ability increases the bonus on damage rolls to +4 when using the selected weapon.
-Critical Strike
-At 10th level, a Soldier gains the ability to automatically confirm a threat as a critical hit when attacking with the weapon he or she has applied weapon specialization to, eliminating the need to make a roll to confirm the critical hit.
+### 职业专长
 
-MARTIAL ARTIST
-Requirements
-To qualify to become a Martial Artist, a character must fulfill the following criteria.
-Base Attack Bonus: +3.
-Skill: Jump 3 ranks.
-Feats: Combat Martial Arts, Defensive Martial Arts.
-Class Information
-Hit Die: 1d8
-Action Points: 6 + one-half character level, rounded down, every time the martial artist attains a new level in this class.
-Class Skills
-The Martial Artist’s class skills (and the key ability for each skill) are: Balance (Dex), Climb (Str), Escape Artist (Dex), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge (current events, popular culture, theology and philosophy) (Int), Move Silently (Dex), Perform (dance) (Cha), Profession (Wis), Read/Write Language (none), Speak Language (none), Spot (Wis), Tumble (Dex).
-Skill Points at Each Level: 3 + Int modifier.
+以下是有关士兵职业的专长。
 
-Table: The Martial Artist
+#### 专攻武器
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+1级时，士兵获得`专攻武器`职业专长，效果与同名一般专长相同。士兵选定一种武器，徒手击打和擒抱也可当作武器选择，士兵必须擅长选定的武器。
+
+用选定的武器掷攻击骰都可以获得1点加值。
+
+#### 专精武器
+
+2级时，士兵选择一种已获得`专攻武器`专长的近战或远程武器，获得这种武器的`专精武器`专长。
+用选定的武器掷攻击骰都可以获得2点加值。
+
+#### 奖励专长
+
+3、6、9级时，士兵获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
+
+高级擅长火器、擅长古典武器、擅长盔甲（轻型）、擅长盔甲（中型）、擅长盔甲（重型）、拳法、点射、顺势斩、战斗反射、擅长异种近战武器、远程射击、强力顺势斩、精通拳法、精通终结之拳、终结之拳、猛力攻击。
+
+#### 战术支援
+
+这是一个整轮动作，士兵给所有看到且能听到的队友包括自己提供战术支援。需要消耗1点行动点。
+
+这个支援为攻击骰提供1点加值。加值持续的轮数等于角色士兵职业等级的一半，向下取整。
+
+#### 精通重击
+
+士兵所有拥有`专精武器`专长的武器，其威胁范围+1。
+
+#### 快速反应
+
+7级时，士兵检定先攻将获得+2表现价值。
+
+#### 高等武器专精
+
+8级时，对2级时士兵指定专精的武器，获得此武器的高等专精。选定的武器获得的攻击骰加值增至+4。
+> 译者注：这句明确说明了攻击骰加值增至+4，所以以此类推，此专长和武器专精、武器专攻的加值不能叠加，而是覆盖。
+
+#### 致命重击
+
+10级时，士兵用专精的武器攻击骰掷出重击时，无需再做重击检定直接判定为重击。
+
+## 武术家
+
+### 要求
+
+要达到成为武术家的资格，角色必须满足以下要求。
+
+**基础攻击加值：** +3
+
+**技能：** 跳跃3级
+
+**专长：**实战武术、防御武术。
+
+### 职业信息
+
+**生命骰：** 1d8
+
+**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。
+
+### 本职技能
+
+武术家的本职技能（及相关属性）有：平衡（敏）、攀爬（力）、脱逃（敏）、躲藏（敏）、威吓（魅）、跳跃（力）、知识（时事、流行文化、神学与哲学）（智）、潜行（敏）、表演（舞蹈）（魅）、专业（感）、读写语言（无）、口头语言（无）、侦察（感）、翻滚（敏）。
+
+**升级技能点数：** 3+智力调整值
+
+### 职业列表
+
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+1|+0|+2|+0|Living weapon 1d6|+1|+0|
-|2nd|+2|+0|+3|+0|Flying kick|+2|+0|
-|3rd|+3|+1|+3|+1|Bonus feat|+2|+0|
-|4th|+4|+1|+4|+1|Living weapon 1d8|+3|+0|
-|5th|+5|+1|+4|+1|Iron fist (one attack)|+4|+1|
-|6th|+6|+2|+5|+2|Bonus feat|+4|+1|
-|7th|+7|+2|+5|+2|Flurry of blows|+5|+1|
-|8th|+8|+2|+6|+2|Living weapon 1d10|+6|+1|
-|9th|+9|+3|+6|+3|Bonus feat|+6|+2|
-|10th|+10|+3|+7|+3|Iron fist (all attacks)|+7|+2|
+|1st|+1|+0|+2|+0|人间兵器 1d6|+1|+0|
+|2nd|+2|+0|+3|+0|飞踢|+2|+0|
+|3rd|+3|+1|+3|+1|奖励专长|+2|+0|
+|4th|+4|+1|+4|+1|人间兵器 1d8|+3|+0|
+|5th|+5|+1|+4|+1|铁拳（一次攻击）|+4|+1|
+|6th|+6|+2|+5|+2|奖励专长|+4|+1|
+|7th|+7|+2|+5|+2|疾风连击|+5|+1|
+|8th|+8|+2|+6|+2|人间兵器 1d10|+6|+1|
+|9th|+9|+3|+6|+3|奖励专长|+6|+2|
+|10th|+10|+3|+7|+3|铁拳（所有攻击）|+7|+2|
 
-Class Features
-The following features pertain to the Martial Artist advanced class.
-Living Weapon
-The Martial Artist attacks with either fist interchangeably, or even with elbows, knees, and feet. This means that the Martial Artist may even make unarmed strikes when his or her hands are full, and there is no such thing as an off-hand attack for a Martial Artist striking unarmed.
-The Martial Artist also deals more damage with unarmed strikes. At 1st level, the martial artist deals 1d6 points of damage with an unarmed strike. At 4th level, damage increases to 1d8. At 8th level, it increases to 1d10.
-This is an increase to Combat Martial Arts damage; this has no effect on Brawl.
-Flying Kick
-Starting at 2nd level, a Martial Artist can use a charge to deliver a devastating flying kick to an opponent. At the end of this charge, the martial artist adds his or her class level as a bonus to the damage he or she deals with an unarmed strike.
-Bonus Feats
-At 3rd, 6th, and 9th level, the Martial Artist gets a bonus feat. The bonus feat must be selected from the following list, and the Martial Artist must meet all the prerequisites of the feat to select it.
-Acrobatic, Advanced Combat Martial Arts, Archaic Weapons Proficiency, Combat Reflexes, Combat Throw, Elusive Target, Exotic Melee Weapon Proficiency, Improved Combat Throw, Improved Combat Martial Arts, Unbalance Opponent.
-Iron Fist
-At 5th level, a Martial Artist gains the ability to spend 1 action point to increase the damage he or she deals to a single opponent with a single unarmed strike. The martial artist declares the use of the action point after making a successful unarmed strike. The result of the action point roll is added to the damage roll for that attack.
-At 10th level, this ability im-proves. The Martial Artist now adds the result of the action point roll to all successful attacks he or she makes in a round.
-Flurry of Blows
-At 7th level, a Martial Artist gains the ability to strike with a flurry of blows at the expense of accuracy. The Martial Artist must be unarmored to use this talent, and he or she must make unarmed strikes to gain the benefit. With a flurry of blows, the Martial Artist may make one extra attack in a round at his or her highest base attack bonus. This attack and each other attack made in the round take a –2 penalty. This ability can only be used when taking the full attack action. The penalty applies to all attacks for one full round, including attacks of opportunity.
+### 职业专长
 
-GUNSLINGER
-Requirements
-To qualify to become a Gunslinger, a character must fulfill the following criteria.
-Base Attack Bonus: +2.
-Skills: Sleight of Hand 6 ranks, Tumble 6 ranks.
-Feat: Personal Firearms Proficiency.
-Class Information
-Hit Die: 1d10
-Action Points: 6 + one-half character level, rounded down, every time the gunslinger attains a new level in this class.
-Class Skills
-The Gunslinger’s class skills (and the key ability for each skill) are: Bluff (Cha), Demolitions (Int), Drive (Dex), Escape Artist (Dex), Gamble (Wis), Intimidate (Cha), Knowledge (current events, popular culture, streetwise) (Int), Move Silently (Dex), Profession (Wis), Read/Write Language (none), Ride (Dex), Sleight of Hand (Dex), Speak Language (none), Spot (Wis), Survival (Wis), Tumble (Dex).
-Skill Points at Each Level: 5 + Int modifier.
+以下是有关武术家职业的专长。
 
-Table: The Gunslinger
+#### 人间兵器
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+武术家可用拳、肘、膝、脚交替攻击。武术家在手持物品时也能徒手攻击，对于他们来说徒手攻击不需要“徒手”。
+
+武术家徒手攻击时能造成更多伤害。1级时，武术家徒手攻击的伤害骰是1d6。4级时，伤害骰是1d8。8级时，伤害骰是1d10。
+
+这可替换增强实战武术的伤害骰，但无法用于拳法。
+
+#### 飞踢
+
+2级时，武术家可以一个`冲锋`飞起一脚踢中对手。冲锋结束时，武术家造成一个徒手击打伤害，加上等于本职业等级数的伤害加值。
+
+#### 奖励专长
+
+3、6、9级时，武术家获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
+
+杂技、高级实战武术、擅长古典武器、战斗反射、摔投技巧、凌波微步、擅长异种近战武器、精通摔投技巧、精通实战武术、晃倒对手。
+
+#### 铁拳
+
+5级时、武术家可以用1点行动点增加对一个对手的徒手击打的伤害值一次。武术家在徒手击打检定成功后宣布使用此专长。行动点的骰点（即按照增强检定的掷法）将作为这次攻击伤害的加值。
+
+10级时该能力增强。武术家可以将行动点投出的加值增益本轮所有成功攻击的伤害。
+
+#### 疾风连击
+
+7级时，武术家可以牺牲准确性施展连击。武术家必须不穿护甲且必须施展徒手攻击才能使用此专长。施展疾风连击，即武术家在本轮以其最大的基础攻击加值额外攻击一次。两次攻击的攻击检定有2点减值。这将花费一个整轮动作。这个减值将应用于本轮的所有攻击，包括借机攻击。
+
+## 枪手
+
+### 要求
+
+要达到成为枪手的资格，角色必须满足以下要求。
+
+**基础攻击加值：** +2
+
+**技能：** 手上功夫6级、翻滚6级。
+
+**专长：** 擅长单兵火器
+
+### 职业信息
+
+**生命骰：** 1d10
+
+**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。
+
+### 本职技能
+
+枪手的本职技能（及相关属性）有：唬骗（魅）、爆破（智）、驾驶（敏）、脱逃（敏）、赌博（感）、威吓（魅）、知识（时事、流行文化、街头智慧）（智）、潜行（敏）、专业（感）、读写语言（无）、骑术（敏）、手上功夫（敏）、口头语言（无）、侦察（感）、翻滚（敏）。
+
+**升级技能点数：** 5+智力调整值
+
+### 职业列表
+
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+0|+0|+1|+1|Close combat shot|+1|+0|
-|2nd|+1|+0|+2|+2|Weapon focus|+1|+0|
-|3rd|+2|+1|+2|+2|Bonus feat|+2|+1|
-|4th|+3|+1|+2|+2|Defensive position|+2|+1|
-|5th|+3|+1|+3|+3|Lightning shot|+3|+1|
-|6th|+4|+2|+3|+3|Bonus feat|+3|+2|
-|7th|+5|+2|+4|+4|Sharp-shooting|+4|+2|
-|8th|+6|+2|+4|+4|Greater weapon|focus|+4|+2|
-|9th|+6|+3|+4|+4|Bonus feat|+5|+3|
-|10th|+7|+3|+5|+5|Bullseye|+5|+3|
+|1st|+0|+0|+1|+1|枪斗术|+1|+0|
+|2nd|+1|+0|+2|+2|专攻武器|+1|+0|
+|3rd|+2|+1|+2|+2|奖励专长|+2|+1|
+|4th|+3|+1|+2|+2|防御位置|+2|+1|
+|5th|+3|+1|+3|+3|连射|+3|+1|
+|6th|+4|+2|+3|+3|奖励专长|+3|+2|
+|7th|+5|+2|+4|+4|穿杨|+4|+2|
+|8th|+6|+2|+4|+4|高等专攻武器|+4|+2|
+|9th|+6|+3|+4|+4|奖励专长|+5|+3|
+|10th|+7|+3|+5|+5|致命射击|+5|+3|
 
-Class Features
-The following features pertain to the Gunslinger advanced class.
-Close Combat Shot
-At 1st level, a Gunslinger gains the ability to make a ranged attack with a Medium-size or smaller firearm while in a threatened area without provoking an attack of opportunity.
-Weapon Focus
-At 2nd level, a Gunslinger gains the Weapon Focus class feature, providing the benefit of the feat with the same name. The Gunslinger must choose a specific personal firearm.
-The gunslinger adds +1 to all attack rolls you make using the selected personal firearm.
-Bonus Feats
-At 3rd, 6th, and 9th level, the Gunslinger gets a bonus feat. The bonus feat must be selected from the following list, and the Gunslinger must meet all the prerequisites of the feat to select it.
-Advanced Firearms Proficiency, Advanced Two-Weapon Fighting, Burst Fire, Dead Aim, Double Tap, Far Shot, Improved Two-Weapon Fighting, Precise Shot, Quick Draw, Quick Reload, Shot on the Run, Skip Shot, Strafe, Two-Weapon Fighting.
-Defensive Position
-Starting at 4th level, the Gunslinger gains an additional +2 cover bonus to Defense and an additional +2 cover bonus on Reflex saves whenever he or she has one-quarter, one-half, three-quarters, or nine-tenths cover.
-Lightning Shot
-Starting at 5th level, a Gunslinger can make a flurry of ranged attacks with a personal firearm at the expense of accuracy. With a lightning shot, the Gunslinger may make one extra ranged attack with a personal firearm in a round at his or her highest base attack bonus. This attack and each other attack made in the round take a –2 penalty. This ability can only be used when taking the full attack action. The penalty applies to all attacks for one full round, including attacks of opportunity.
-Sharp-Shooting
-At 7th level, if the Gunslinger uses a personal firearm to attack a target, the cover bonus to the target’s Defense for one-quarter, one-half, three-quarters, or nine-tenths cover is reduced by 2.
-Greater Weapon Focus
-At 8th level, a Gunslinger receives a +1 competence bonus on attack rolls made with the firearm selected for the Weapon Focus ability at 2nd level. This bonus stacks with the earlier bonus.
-Bullseye
-At 10th level, a Gunslinger becomes so adept at using the firearm to which he or she has applied Weapon Focus and Greater Weapon Focus that the gunslinger’s attacks with that firearm can deal extra damage. With a successful attack, before damage is rolled, the gunslinger can spend 1 action point to deal +3d6 points of damage.
+### 职业专长
 
-INFILTRATOR
-Requirements
-To qualify to become an Infiltrator, a character must fulfill the following criteria.
-Base Attack Bonus: +2.
-Skills: Hide 6 ranks, Move Silently 6 ranks.
-Class Information
-The following information pertains to the Infiltrator advanced class.
-Hit Die: 1d8
-Action Points: 6 + one-half character level, rounded down, every time the infiltrator attains a new level in this class.
-Class Skills
-The Infiltrator’s class skills (and the key ability for each skill) are: Balance (Dex), Climb (Str), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Hide (Dex), Investigate (Int), Jump (Str), Knowledge (art, business, current events, popular culture, streetwise) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Read/Write Language (none), Search (Int), Sleight of Hand (Dex), Speak Language (none), Spot (Wis), Tumble (Dex).
-Skill Points at Each Level: 7 + Int modifier.
-Class Features
-The following features pertain to the Infiltrator advanced class.
+以下是有关枪手职业的专长。
 
-Table: The Infiltrator
+#### 枪斗术
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+1级时，枪手在威胁区域内用普通大小以及更小的火器进行远程攻击时，不会触发借机攻击。
+
+#### 专攻武器
+
+2级时，枪手获得`专攻武器`职业专长，效果与同名一般专长相同。枪手必须选定一种单兵火器，
+
+用选定的单兵火器掷攻击骰都可以获得1点加值。
+
+#### 奖励专长
+
+3、6、9级时，枪手获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
+
+高级擅长火器、高级双持、点射、屏息瞄准、双发快射、远程射击、精通双持、精准射击、快速拔出、快速装填、移动射击、扫射、双持。
+
+#### 防御位置
+
+4级时，枪手在1/4、1/2、3/4、9/10掩体下，防御值获得2点掩体加值、反射豁免获得两点加值。
+
+#### 连射
+
+5级时，枪手可以牺牲精准度，快速地射击。枪手的连射，即在一轮内以最高的基础攻击加值额外进行一次远程攻击。两次攻击的攻击检定有2点减值。这将花费一个整轮动作。这个减值将应用于本轮的所有攻击，包括借机攻击。
+
+#### 穿杨
+
+7级时，枪手用单兵火器攻击一个处于1/4、1/2、3/4或9/10掩体目标时，目标的掩体加值-2。
+
+#### 高等专攻火器
+
+8级时，枪手使用2级时指定专攻的火器攻击时，攻击骰获得1点表现加值。加值与前置的加值叠加。
+
+#### 致命射击
+
+10级时，枪手指定专攻专精的火器将造成额外的伤害。攻击成功后，在伤害骰之前，枪手可花费1行动点让伤害值+3d6。
+
+## 渗透者
+
+### 要求
+
+要达到成为渗透者的资格，角色必须满足以下要求。
+
+**基础攻击加值：** +2
+
+**技能：** 躲藏6级、潜行6级。
+
+### 职业信息
+
+以下是有关渗透者职业的信息。
+
+**生命骰：** 1d8
+
+**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。
+
+### 本职技能
+
+渗透者的本职技能（及相关属性）有：平衡（敏）、攀爬（力）、解除装置（智）、易容（魅）、脱逃（敏）、躲藏（敏）、调查（智）、跳跃（力）、知识（艺术、商学、时事、流行文化、街头智慧）（智）、聆听（感）、潜行（敏）、专业（感）、读写语言（无）、搜索（智）、手上功夫（敏）、口头语言（无）、侦察（感）、翻滚（敏）。
+
+**升级技能点数：** 7+智力调整值
+
+### 职业列表
+
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+0|+0|+2|+0|Sweep|+1|+1|
-|2nd|+1|+0|+3|+0|Improvised implements|+2|+1|
-|3rd|+1|+1|+3|+1|Bonus feat|+2|+1|
-|4th|+2|+1|+4|+1|Improved evasion|+3|+2|
-|5th|+2|+1|+4|+1|Skill mastery|+4|+2|
-|6th|+3|+2|+5|+2|Bonus feat|+4|+2|
-|7th|+3|+2|+5|+2|Improvised weapon damage|+5|+3|
-|8th|+4|+2|+6|+2|Improved sweep|+6|+3|
-|9th|+4|+3|+6|+3|Bonus feat|+6|+3|
-|10th|+5|+3|+7|+3|Without a trace|+7|+4|
+|1st|+0|+0|+2|+0|扫瞄|+1|+1|
+|2nd|+1|+0|+3|+0|不滞于物|+2|+1|
+|3rd|+1|+1|+3|+1|奖励专长|+2|+1|
+|4th|+2|+1|+4|+1|精通反射闪避|+3|+2|
+|5th|+2|+1|+4|+1|稳定发挥|+4|+2|
+|6th|+3|+2|+5|+2|奖励专长|+4|+2|
+|7th|+3|+2|+5|+2|举轻若重|+5|+3|
+|8th|+4|+2|+6|+2|精通扫瞄|+6|+3|
+|9th|+4|+3|+6|+3|奖励专长|+6|+3|
+|10th|+5|+3|+7|+3|销声匿迹|+7|+4|
 
-Sweep
-An Infiltrator knows how to size up an area and get the lay of the land in a single sweep of his or her eyes. This sweep provides a +4 circumstance bonus on Spot checks and covers an area out to 30 feet away from the Infiltrator. The Infiltrator can use this bonus at the start of an encounter.
-Anything not concealed can be spotted in a sweep with a successful check (DC 10). The DC for concealed or less obvious threats is equal to their Hide check result.
-Improvised Implements
-At 2nd level, an Infiltrator no longer takes a –4 penalty when wielding an improvised weapon. Also, the Infiltrator is able to make do without proper equipment in certain circumstances: the Infiltrator no longer takes a –4 penalty when using the Climb and Disable Device skills without the proper tools.
-Bonus Feats
-At 3rd, 6th, and 9th level, the Infiltrator gets a bonus feat. The bonus feat must be selected from the following list, and the Infiltrator must meet all the prerequisites of the feat to select it.
-Acrobatic, Alertness, Armor Proficiency (light), Athletic, Attentive, Brawl, Cautious, Defensive Martial Arts, Dodge, Elusive Target, Meticulous, Mobility, Nimble, Renown, Run, Stealthy.
-Improved Evasion
-If an Infiltrator of 4th level or higher is exposed to any effect that normally allows a character to attempt a Reflex saving throw for half damage, the Infiltrator suffers no damage if he or she makes a successful saving throw and only half damage on a failed save. Improved evasion can only be used when wearing light armor or no armor.
-For an Infiltrator who does not have evasion (see the Fast hero class description), improved evasion counts as evasion for the purpose of meeting the prerequisites on the Fast hero’s defensive talent tree.
-Skill Mastery
-At 5th level, an Infiltrator selects a number of skills from his or her class list equal to 3 + his or her Intelligence modifier. When making a check using one of these skills, the Infiltrator may take 10 even if stress and distractions would normally prevent him or her from doing so.
-Improvised Weapon Damage
-At 7th level, an Infiltrator’s attacks with improvised weapons deal more damage. The Infiltrator treats an improvised weapon as one size category larger than it is for the purpose of determining the damage it deals.
-Improved Sweep
-At 8th level, an Infiltrator’s ability to get the lay of the land improves. Now the Infiltrator not only spots potential perils with a successful check, he or she can determine the relative strength of these dangers. A successful check relates the danger’s strength compared to the Infiltrator: stronger (higher level or Hit Dice), on par (same level or HD), or weaker (lower level or HD).
-Without a Trace
-At 10th level, when an Infiltrator uses any of the following skills: Balance, Climb, Disable Device, Escape Artist, Hide, Move Silently, and Sleight of Hand, those using Investigate, Listen, Search, or Spot to detect the Infiltrator’s activity take a –4 penalty.
+### 职业专长
 
-DAREDEVIL
-Requirements
-To qualify to become a Daredevil, a character must fulfill the following criteria.
-Base Attack Bonus: +2.
-Skills: Concentration 6 ranks, Drive 6 ranks.
-Feat: Endurance.
-Class Information
-The following information pertains to the Daredevil advanced class.
-Hit Die: 1d10
-Action Points: 6 + one-half character level, rounded down, every time he or she attains a new level in this class.
-Class Skills
-The Daredevil’s class skills (and the key ability for each skill) are: Balance (Dex), Climb (Str), Concentration (Con), Demolitions (Int), Drive (Dex), Escape Artist (Dex), Intimidate (Cha), Jump (Str), Knowledge (current events, popular culture) (Int), Perform (act) (Cha), Pilot (Dex), Profession (Wis), Read/Write Language (none), Ride (Dex), Speak Language (none), Spot (Wis), Swim (Str), Tumble (Dex).
-Skill Points at Each Level: 5 + Int modifier.
+以下是有关渗透者职业的专长。
 
-Table: The Daredevil
+#### 扫瞄
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+渗透者只需扫一眼就能丈量地形，判断地势。扫瞄专长让渗透者在侦察半径30尺内的地区时获得4点情景加值。此加值也可用于遇敌的开头。
+
+若检定成功（DC10），任何非隐藏的目标都会被侦察到。隐藏或极不明显的目标，其侦察DC等于他们的躲藏检定结果。
+
+#### 不滞于物
+
+2级时，渗透者持有简易武器不再有4点减值。同样，渗透者在缺乏适当工具使用攀爬和解除装置技能不再受到4点减值。
+
+#### 奖励专长
+
+3、6、9级时，渗透者获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
+
+杂技、警觉、擅长盔甲（轻型）、竞技、听者有心、拳法、谨慎、防御武术、闪避、凌波微步、一丝不苟、灵活移动、灵巧、闻名、奔跑、隐秘。
+
+#### 精通反射闪避
+
+四级及以上的渗透者在反射豁免成功后，伤害不再减半，而是全免；豁免失败也能拥有伤害减半的效果。精通反射闪避只有在穿着轻甲或无甲时生效。
+
+若渗透者没有反射闪避（见敏捷型英雄的描述），此特殊专长将代替反射闪避，以满足解锁敏捷型英雄的防御天赋树的要求。
+
+#### 稳定发挥
+
+5级时，渗透者选取多个本职技能，数量等于3+智力调整值。当检定这些技能时，渗透者可以在紧张、心烦意乱的情况下取10。
+
+#### 举轻若重
+
+7级时，渗透者用简易武器攻击时可造成更多伤害。渗透者持有的简易武器在根据尺寸级别确定伤害时，尺寸等价于原尺寸更高一级。
+
+#### 精通扫描
+
+8级时，渗透者观察地形的能力提升。渗透者侦察成功时，不止能辨认潜在的威胁，还能显示敌人的相对实力。显示的相对实力是相对于渗透者的：更强（等级或生命高于自己）、相当（等级或生命与自己相等）、更弱（等级或生命低于自己）。
+
+#### 销声匿迹
+
+10级时，当渗透者使用这些技能（平衡、攀爬、解除装置、脱逃、躲藏、潜行和手上功夫）时，其他人针对此渗透者使用调查、聆听、搜索、侦察将有4点减值。
+
+## 勇士
+
+### 要求
+
+要达到成为勇士的资格，角色必须满足以下要求。
+
+**基础攻击加值：** +2
+
+**技能：** 专注6级、驾驶6级。
+
+**专长：** 坚忍
+
+### 职业信息
+
+以下是有关勇士职业的信息。
+
+**生命骰：** 1d10
+
+**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。
+
+### 本职技能
+
+勇士的本职技能（及相关属性）有：平衡（敏）、攀爬（力）、专注（体）、爆破（智）、驾驶（敏）、脱逃（敏）、威吓（魅）、跳跃（敏）、知识（时事、流行文化）（智）、表演（演戏）（魅）、驾机（敏）、专业（感）、读写语言（无）、骑术（敏）、口头语言（无）、侦察（感）、游泳（力）、翻滚（敏）。
+
+**升级技能点数：** 5+智力调整值
+
+### 职业列表
+
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+0|+2|+0|+0|Fearless|+1|+0|
-|2nd|+1|+3|+0|+0|Nip-up|+2|+0|
-|3rd|+1|+3|+1|+1|Bonus feat|+2|+1|
-|4th|+2|+4|+1|+1|Action boost|+3|+1|
-|5th|+2|+4|+1|+1|Adrenaline rush (one ability score)|+4|+1|
-|6th|+3|+5|+2|+2|Bonus feat|+4|+2|
-|7th|+3|+5|+2|+2|Delay damage|+5|+2|
-|8th|+4|+6|+2|+2|Adrenaline rush (two ability scores)|+6|+2|
-|9th|+4|+6|+3|+3|Bonus feat|+6|+3|
-|10th|+5|+7|+3|+3|Damage threshold|+7|+3|
+|1st|+0|+2|+0|+0|无畏|+1|+0|
+|2nd|+1|+3|+0|+0|起身|+2|+0|
+|3rd|+1|+3|+1|+1|奖励专长|+2|+1|
+|4th|+2|+4|+1|+1|行动加速|+3|+1|
+|5th|+2|+4|+1|+1|肾上腺素激发（1行动点）|+4|+1|
+|6th|+3|+5|+2|+2|奖励专长|+4|+2|
+|7th|+3|+5|+2|+2|延缓伤害|+5|+2|
+|8th|+4|+6|+2|+2|肾上腺素激发（2行动点）|+6|+2|
+|9th|+4|+6|+3|+3|奖励专长|+6|+3|
+|10th|+5|+7|+3|+3|巨创阈值提升|+7|+3|
 
-Class Features
-The following features pertain to the Daredevil advanced class.
-Fearless
-A Daredevil gains a +4 morale bonus on Will saves to resist fear effects and on level checks to oppose Intimidate checks.
-Nip-Up
-A Daredevil of 2nd level or higher can stand up from a prone position as a free action that does not provoke an attack of opportunity.
-Bonus Feats
-At 3rd, 6th, and 9th level, the Daredevil gets a bonus feat. The bonus feat must be selected from the following list, and the Daredevil must meet all the prerequisites of the feat to select it.
-Acrobatic, Armor Proficiency (light), Armor Proficiency (me-di-um), Athletic, Brawl, Cautious, Dodge, Force Stop, Im-proved Brawl, Improved Damage Threshold, Improved Knockout Punch, Knockout Punch, Mobility, Nimble, Spring Attack, Streetfighting, Surface Vehicle Operation, Toughness, Vehicle Dodge, Vehicle Expert.
-Action Boost
-This ability, gained at 4th level, allows a Daredevil to spend 2 action points on a single action in a round. A Daredevil can spend 1 action point, see the result of the roll, and then decide to spend a second point, as long as he or she does so before the Gamemaster reveals the result of the action.
-Adrenaline Rush
-At 5th level, a Daredevil can temporarily increase one of his or her physical ability scores (Strength, Dexterity, or Constitution). The Daredevil spends 1 action point and gets to increase the selected ability score by 1d4+1 points. The increase lasts for a number of rounds equal to his or her class level. At the end of the duration, the Daredevil is fatigued for 1d4+1 rounds.
-At 8th level, a Daredevil can temporarily increase two physical ability scores. At the end of the duration, the Daredevil is fatigued for 1d6+2 rounds.
-Delay Damage
-Once per day, a Daredevil of 7th level or higher can delay the damage dealt by a single attack or effect for a number of rounds equal to his or her class level.
-Damage Threshold
-A 10th-level Daredevil increases his or her massive damage threshold by 3 points. This increase stacks with the increase provided by the Improved Damage Threshold feat.
+### 职业专长
 
-BODYGUARD
-Requirements
-To qualify to become a Bodyguard, a character must fulfill the following criteria.
-Base Attack Bonus: +2.
-Skills: Concentrate 6 ranks, Intimidate 6 ranks.
-Feat: Personal Firearms Proficiency.
-Class Information
-The following information pertains to the Bodyguard advanced class.
-Hit Die: 1d12
-Action Points: 6 + one-half character level, rounded down, every time the Bodyguard attains a new level in this class.
-Class Skills
-The Bodyguard’s class skills (and the key ability for each skill) are: Concentration (Con), Disguise (Cha), Drive (Dex), Forgery (Int), Gather Information (Cha), Intimidate (Cha), Knowledge (behavioral sciences, civics, current events, streetwise) (Int), Listen (Wis), Profession (Wis), Read/Write Language (none), Search (Int), Sense Motive (Wis), Speak Language (none), Spot (Wis).
-Skill Points at Each Level: 3 + Int modifier.
+以下是有关勇士职业的专长。
 
-Table: The Bodyguard
+#### 无畏
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+勇士在用意志豁免抵抗恐惧时，与在用等级检定对抗威吓检定时，获得4点士气加值
+
+#### 起身
+
+2级时，勇士从俯卧状态到站立状态的动作视为即时动作，且不会触发借机攻击。
+
+#### 奖励专长
+
+3、6、9级时，勇士获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
+
+杂技、擅长盔甲（轻型）、擅长盔甲（中型）、竞技、拳法、谨慎、闪避、逼停、精通拳法、巨创阈值增强、精通终结之拳、终结之拳、灵活移动、灵巧、跳跃攻击、街头战斗、地面载具操作、健壮、载具闪避、载具专家。
+
+#### 行动加速
+
+4级时，勇士一轮内的单个动作可以花费两点行动点。勇士可以花费1点行动点，查看掷骰结果、再在GM宣布行动结果前选择再花费一点行动点。
+
+#### 肾上腺素激发
+
+5级时，勇士可以暂时增加一项身体属性（力量、敏捷或者体质）。勇士花费1行动点来增益所选的属性1d4+1点。增益持续的轮数等同于本职业等级。增益结束后，勇士疲乏1d4+1轮。
+
+8级时，勇士可增益两项身体属性。增益结束后，勇士疲乏1d6+2轮。
+
+#### 延缓伤害
+
+7级时，勇士每天有一次机会，延迟一次攻击或效果造成的伤害，延迟轮数等于本职业等级。
+
+#### 巨创阈值提升
+
+10级时，勇士增加3点巨创阈值。效果与`巨创阈值增强`的效果叠加。
+
+## 保镖
+
+### 要求
+
+要达到成为保镖的资格，角色必须满足以下要求。
+
+**基础攻击加值：** +2
+
+**技能：** 专注6级、威吓6级。
+
+**专长：** 擅长单兵火器
+
+### 职业信息
+
+以下是有关保镖职业的信息。
+
+**生命骰：** 1d12
+
+**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。
+
+### 本职技能
+
+保镖的本职技能（及相关属性）有：专注（体）、易容（魅）、驾驶（敏）、伪造文书（智）、收集信息（魅）、威吓（魅）、知识（行为科学、政法、时事、街头智慧）（智）、聆听（感）、专业（感）、读写语言（无）、搜索（智）、察言观色（感）、口头语言（无）、侦察（感）。
+
+**升级技能点数：** 3+智力调整值
+
+### 职业列表
+
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+0|+1|+2|+0|Harm’s way|+1|+0|
-|2nd|+1|+2|+3|+0|Combat sense|+1|+1|+0|
-|3rd|+2|+2|+3|+1|Bonus feat|+2|+1|
-|4th|+3|+2|+4|+1|Sudden action|+2|+1|
-|5th|+3|+3|+4|+1|Improved charge|+3|+1|
-|6th|+4|+3|+5|+2|Bonus feat|+3|+2|
-|7th|+5|+4|+5|+2|Defensive strike|+4|+2|
-|8th|+6|+4|+6|+2|Combat sense|+2|+4|+2|
-|9th|+6|+4|+6|+3|Bonus feat|+5|+3|
-|10th|+7|+5|+7|+3|Blanket protection|+5|+3|
+|1st|+0|+1|+2|+0|护卫|+1|+0|
+|2nd|+1|+2|+3|+0|战斗直觉|+1|+1|+0|
+|3rd|+2|+2|+3|+1|奖励专长|+2|+1|
+|4th|+3|+2|+4|+1|突然行动|+2|+1|
+|5th|+3|+3|+4|+1|精通冲锋|+3|+1|
+|6th|+4|+3|+5|+2|奖励专长|+3|+2|
+|7th|+5|+4|+5|+2|防守反击|+4|+2|
+|8th|+6|+4|+6|+2|战斗直觉|+2|+4|+2|
+|9th|+6|+4|+6|+3|奖励专长|+5|+3|
+|10th|+7|+5|+7|+3|防卫指导|+5|+3|
 
-Class Features
-The following features pertain to the Bodyguard advanced class.
-Harm’s Way
-Once per round, if the Bodyguard is adjacent to an ally who is targeted by a direct melee or ranged attack (but not an area effect), the Bodyguard can subject him or herself to the attack in the ally’s stead. If the attack hits the Bodyguard, he or her takes damage normally. If it misses, it also misses the ally.
-The Bodyguard must declare his or her intention to place him or herself in harm’s way before the attack roll is made. The Bodyguard selects his or her ally either prior to combat or immediately after the Bodyguard makes his or her initiative check. The Bodyguard can’t change his or her ally for the duration of the combat.
-Combat Sense
-This ability allows a Bodyguard of 2nd level or higher to designate a single opponent during his or her action and receive a +1 competence bonus on attacks against that opponent. The Bodyguard can select a new opponent on any action.
-At 8th level, the competence bonus increases to +2.
-Bonus Feats
-At 3rd, 6th, and 9th level, the Bodyguard gets a bonus feat. The bonus feat must be selected from the following list, and the Bodyguard must meet all the prerequisites of the feat to select it.
-Advanced Firearms Proficiency, Armor Proficiency (light), Armor Proficiency (medium), Attentive, Combat Expertise, Combat Reflexes, Double Tap, Improved Brawl, Improved Feint, Improved Knockout Punch, Knockout Punch, Precise Shot, Quick Draw, Quick Reload, Streetfighting, Vehicle Expert.
-Sudden Action
-Once per day, a Bodyguard of 4th level or higher can focus his or her effort to burst into sudden action when the situation calls for it. The Bodyguard can change his or her place in the initiative order, moving higher in the count by a number less than or equal to his or her class level, as the Bodyguard sees fit. The Bodyguard can declare the use of this ability at the start of any round, before anyone else takes an action.
-Improved Charge
-A Bodyguard of 5th level or higher can make a charge without having to move in a straight line. All other charge rules apply, but the Bodyguard can alter his or her direction when making a charge to avoid obstacles.
-Defensive Strike
+### 职业专长
 
+以下是有关保镖职业的专长。
 
-At 7th level, if an opponent makes a melee attack against the Bodyguard and misses while the Bodyguard is using the total defense option, the Bodyguard can attack that opponent on his or her next turn (as an attack action) with a +4 bonus on his or her attack roll. The Bodyguard gains no bonus against an opponent who doesn’t attack the Bodyguard or against an opponent who makes a successful attack.
-Blanket Protection
-At 10th level, a Bodyguard can use his expertise to provide protection for up to six allies (not including himself) within sight and voice range of his position.
-The Bodyguard spends 1 action point and takes a full-round action to issue orders and directions. Doing this provides the Bodyguard’s allies with a +1 insight bonus to Defense for 3 rounds.
+#### 护卫
 
-FIELD SCIENTIST
-Requirements
-To qualify to become a Field Scientist, a character must fulfill the following criteria.
-Skills: 6 ranks in either Craft (chemical) or Craft (electronic), plus 6 ranks in Knowledge (earth and life sciences), Knowledge (physical sciences), or Knowledge (technology), plus 6 ranks in Research.
-Class Information
-The following information pertains to the Field Scientist -advanced class.
-Hit Die: 1d8
-Action Points: 6 + one-half character level, rounded down, every time the Field Scientist attains a new level in this class.
-Class Skills
-The Field Scientist’s class skills (and the key ability for each skill) are: Computer Use (Int), Craft (chemical, electronic, mechanical, pharmaceutical), Decipher Script (Int), Demolitions (Int), Disable Device (Int), Drive (Dex), Investigate (Int), Knowledge (be-havioral sciences, earth and life sciences, physical sciences, technology) (Int), Navigate (Int), Pilot (Dex), Profession (Wis), Read/Write Language (none), Research (Int), Search (Int), Speak Language (none).
-Skill Points at Each Level: 7 + Int modifier.
+保镖每轮有一次机会，当与保镖相邻的友方成为直接的近战或远程攻击的目标（而非范围攻击）时，保镖可代替其成为目标。攻击击中则保镖受伤。若未命中，友方也不会被命中。
 
-Table: The Field Scientist
+保镖必须在掷骰之前宣布使用。保镖只能在战斗前或先攻时指定所护卫的对象，战斗时不能改变。
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+#### 战斗直觉
+
+2级时，保镖可以在自己行动时指定单个对手，攻击指定对手时获得1点表现加值。保镖可在行动时指定新的目标。
+
+8级时，表现加值升至2点。
+
+#### 奖励专长
+
+3、6、9级时，保镖获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
+
+高级擅长火器、擅长盔甲（轻型）、擅长盔甲（中型）、听者有心、寓守于攻、战斗反射、双发快射、精通拳法、精通虚招、精通终结之拳、终结之拳、精准射击、快速拔出、快速装填、街头战斗、载具专家。
+
+#### 突然行动
+
+4级时，保镖每天有一次机会，在情势需要时迅猛地行动。保镖可以改变自己的先攻顺序，让自己更优先，跨度自选，不能大于职业等级。保镖在一轮的开始，所有人行动前宣布使用。
+
+#### 精通冲锋
+
+5级时，保镖可以不按直线冲锋。冲锋的所有规则仍有效，但保镖可以在冲锋的过程中改变方向以避开障碍。
+
+#### 防守反击
+
+7级时，如果对手近战攻击保镖失手了，而保镖此时在防御，保镖可以在下次攻击此对手时，攻击骰有4点加值。若对手没有近战攻击保镖或攻击成功了，保镖不能享受此加值。
+
+#### 防卫指导
+
+10级时，保镖可以运用其专业知识为6个能看到且能听到的友方（不包括自己）提供保护。
+
+保镖花费1行动点和一个整轮动作来指挥与指导。友方的防御增加1点洞察加值，持续3回合。
+
+## 战地科学家
+
+### 要求
+
+要达到成为战地科学家的资格，角色必须满足以下要求。
+
+**技能：** 制造（化学）或制造（电力）6级，知识（地球与生命科学）或知识（物理科学）或知识（技术）6级，研究6级。
+
+### 职业信息
+
+以下是有关战地科学家职业的信息。
+
+**生命骰：** 1d8
+
+**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。
+
+### 本职技能
+
+战地科学家的本职技能（及相关属性）有：计算机使用（智）、制造（化学、电力、机械、配药）、伪造文书（智）、爆破（智）、解除装置（智）、驾驶（敏）、调查（智）、知识（行为科学、地球与生命科学、物理科学、技术）（智）、寻路（智）、驾机（敏）、专业（感）、读写语言（无）、研究（智）、搜索（智）、口头语言（无）。
+
+**升级技能点数：** 7+智力调整值
+
+### 职业列表
+
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+0|+1|+1|+0|Smart defense|+0|+0|
-|2nd|+1|+2|+2|+0|Scientific improvisation|+1|+0|
-|3rd|+1|+2|+2|+1|Bonus feat|+1|+1|
-|4th|+2|+2|+2|+1|Skill mastery|+1|+1|
-|5th|+2|+3|+3|+1|Minor breakthrough|+2|+1|
-|6th|+3|+3|+3|+2|Bonus feat|+2|+2|
-|7th|+3|+4|+4|+2|Smart survival|+2|+2|
-|8th|+4|+4|+4|+2|Smart weapon|+3|+2|
-|9th|+4|+4|+4|+3|Bonus feat|+3|+3|
-|10th|+5|+5|+5|+3|Major breakthrough|+3|+3|
+|1st|+0|+1|+1|+0|机智防御|+0|+0|
+|2nd|+1|+2|+2|+0|就地取材|+1|+0|
+|3rd|+1|+2|+2|+1|奖励专长|+1|+1|
+|4th|+2|+2|+2|+1|稳定发挥|+1|+1|
+|5th|+2|+3|+3|+1|细微进展|+2|+1|
+|6th|+3|+3|+3|+2|奖励专长|+2|+2|
+|7th|+3|+4|+4|+2|机智求生|+2|+2|
+|8th|+4|+4|+4|+2|巧用武器|+3|+2|
+|9th|+4|+4|+4|+3|奖励专长|+3|+3|
+|10th|+5|+5|+5|+3|重大突破|+3|+3|
 
-Class Features
-The following features pertain to the Field Scientist advanced class.
-Smart Defense
-A Field Scientist applies his or her Intelligence bonus and his or her Dexterity bonus to his or her Defense. Any situation that would deny the Field Scientist his or her Dexterity bonus to Defense also denies the Intelligence bonus.
-Scientific Improvisation
-At 2nd level, a Field Scientist gains the ability to improvise solutions using common objects and scientific know-how. This ability lets the Field Scientist create objects in a dramatic situation quickly and cheaply, but that have a limited duration.
-By spending 1 action point and combining common objects with a Craft check that corresponds to the function desired, the Field Scientist can build a tool or device to deal with any situation. The DC for the Craft check is equal to 5 + the purchase DC of the object that most closely matches the desired function.
-Only objects that can normally be used more than once can be improvised.
-Electronic devices, special tools, weapons, mechanical devices, and more can be built with scientific improvisation. It takes a full-round action to make an object with scientific improvisation. The object, when put into use, lasts for a number of rounds equal to the Field Scientist’s class level, or until the end of the current encounter, before it breaks down. It can’t be repaired.
-Bonus Feats
-At 3rd, 6th, and 9th level, the Field Scientist gets a bonus feat. The bonus feat must be selected from the following list, and the Field Scientist must meet all the prerequisites of the feat to select it.
-Archaic Weapons Proficiency, Attentive, Cautious, Combat Expertise, Educated, Gearhead, Personal Firearms Proficiency, Point Blank Shot, Renown, Studious.
-Skill Mastery
-At 4th level, a Field Scientist selects a number of skills from his or her class list equal to 3 + his or her Intelligence modifier. When making a skill check using one of these skills, the Field Scientist may take 10 even if stress and distractions would normally prevent him or her from doing so.
-Minor Breakthrough
-Upon attaining 5th level, a Field Scientist receives credit for a minor scientific breakthrough that earns him or her the recognition of her peers. The Field Scientist chooses one of the following Knowledge skills: behavioral sciences, earth and life sciences, physical sciences, or technology. When dealing with others with at least 1 rank in the same Knowledge skill, the Field Scientist gains a +2 bonus on Reputation checks.
-This minor breakthrough also provides the Field Scientist with a +3 Wealth bonus increase.
-Smart Survival
-A Field Scientist of 7th level or higher can spend 1 action point to reduce the damage dealt by a single attack or effect by 5 points.
-Smart Weapon
-At 8th level, the Field Scientist selects one weapon that he or she is proficient in and can use with one hand. With the selected weapon, the Field Scientist can use his or her Intelligence modifier instead of Strength or Dexterity modifier on attack rolls.
-Major Breakthrough
-At 10th level, the Field Scientist gains a +2 bonus on Reputation checks when dealing with individuals who have at least 1 rank in any of the following Knowledge skills: behavioral sciences, earth and life sciences, physical sciences, or technology. This bonus stacks with the bonus provided by the minor breakthrough ability.
-This major breakthrough also provides the Field Scientist with a +3 Wealth bonus increase.
+### 职业专长
 
-TECHIE
-Requirements
-To qualify to become a Techie, a character must fulfill the following criteria.
-Skills: Computer Use 6 ranks, either Craft (electronic) 6 ranks or Craft (mechanical) 6 ranks, and Disable Device 6 ranks.
-Class Information
-The following information pertains to the Techie advanced class.
-Hit Die: 1d6
-Action Points: 6 + one-half character level, rounded down, every time the Techie attains a new level in this class.
-Class Skills
-The Techie’s class skills (and the key ability for each skill) are: Computer Use (Int), Craft (electronic, mechanical) (Int), Demolitions (Int), Disable Device (Int), Drive (Dex), Knowledge (behavioral sciences, earth and life sciences, physical sciences, popular culture, technology) (Int), Navigate (Int), Profession (Wis), Read/Write Language (none), Repair (Int), Research (Int), Speak Language (none), Spot (Wis).
-Skill Points at Each Level: 7 + Int modifier.
+以下是有关战地科学家职业的专长。
 
-Table: The Techie
+#### 机智防御
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+战地科学家的防御不但受敏捷加值加成，还受智力加值加成。任何让敏捷加值无效的情形，也会使智力加值无效。
+
+#### 就地取材
+
+2级时，战地科学家可以运用科学知识，利用寻常的物资解决问题。战地科学家可以用匪夷所思的方式既快又省地组装器物，但有使用时限。
+
+使用此专长需要花费1行动点，并进行一次制造检定，来将普通物品组合成新的工具和设备，组合要符合物品的运行规律。制造检定的DC为5+与成品功能上最近似的物品的购买DC。
+
+只有非一次性物品能如此临时制造出来，
+
+比如电气设备、特殊工具、武器、机械设备以及其他可以用科技动手制作的物品。使用此专长需要耗费一个整轮动作。制造物从一开始使用算起，经过等同于战地科学家职业等级的轮数后，或是此次遭遇战结束时，将会毁坏。制造物不可修理。
+
+#### 奖励专长
+
+3、6、9级时，战地科学家获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
+
+擅长古典武器、听着有心、谨慎、寓守于攻、良好教育、技术宅、擅长单兵火器、近程射击、闻名、好学。
+
+#### 稳定发挥
+
+4级时，战地科学家选取多个本职技能，数量等于3+智力调整值。当检定这些技能时，战地科学家可以在紧张、心烦意乱的情况下取10。
+
+#### 细微进展
+
+5级时，战地科学家已经在其领域为科学研究取得微小的进展，受到同行的尊重。战地科学家从以下知识技能里选择一个：行为科学、地球与生命科学、物理科学、技术。在与其他有至少1级此知识技能的人打交道时，战地科学家在声望检定时获得2点加值。
+
+此专长也会给战地科学家增加3点财富加值。
+
+#### 机智求生
+
+7级时，战地科学家可以花费1点行动点降低单次攻击或效果造成的伤害5点。
+
+#### 巧用武器
+
+8级时，战地科学家选择一个已擅长的且可单手使用的武器。使用此武器作攻击骰时，战地科学家可以用智力调整值代替力量或敏捷调整值。
+
+#### 重大突破
+
+10级时，战地科学家与在行为科学、地球与生命科学、物理科学或技术这四个知识技能中，任一技能拥有等级的人，进行声望检定时有2点加值。此加成与细微进展的加成叠加。
+
+此专长也会给战地科学家增加3点财富加值。
+
+## 技师
+
+### 要求
+
+要达到成为技师的资格，角色必须满足以下要求。
+
+**技能：** 计算机使用6级、制造（电力）或制造（机械）（任一）6级、解除装置6级。
+
+### 职业信息
+
+以下是有关技师职业的信息。
+
+**生命骰：** 1d6
+
+**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。
+
+### 本职技能
+
+技师的本职技能（及相关属性）有：计算机使用（智）、制造（电力、机械）（智）、爆破（智）、解除装置（智）、驾驶（敏）、知识（行为科学、地球与生命科学、物理科学、流行文化、技术）（智）、寻路（智）、专业（感）、读写语言（无）、修理（智）、研究（智）、口头语言（无）、侦察（感）。
+
+**升级技能点数：** 7+智力调整值
+
+### 职业列表
+
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+0|+0|+0|+2|Jury-rig +2|+1|+0|
-|2nd|+1|+0|+0|+3|Extreme machine|+1|+0|
-|3rd|+1|+1|+1|+3|Bonus feat|+2|+1|
-|4th|+2|+1|+1|+4|Build robot|+2|+1|
-|5th|+2|+1|+1|+4|Mastercraft|+3|+1|
-|6th|+3|+2|+2|+5|Bonus feat|+3|+2|
-|7th|+3|+2|+2|+5|Jury-rig +4|+4|+2|
-|8th|+4|+2|+2|+6|Mastercraft|+4|+2|
-|9th|+4|+3|+3|+6|Bonus feat|+5|+3|
-|10th|+5|+3|+3|+7|Mastercraft|+5|+3|
+|1st|+0|+0|+0|+2|应急维修 +2|+1|+0|
+|2nd|+1|+0|+0|+3|极限过载|+1|+0|
+|3rd|+1|+1|+1|+3|奖励专长|+2|+1|
+|4th|+2|+1|+1|+4|造机器人|+2|+1|
+|5th|+2|+1|+1|+4|大师级工艺|+3|+1|
+|6th|+3|+2|+2|+5|奖励专长|+3|+2|
+|7th|+3|+2|+2|+5|应急维修  +4|+4|+2|
+|8th|+4|+2|+2|+6|大师级工艺|+4|+2|
+|9th|+4|+3|+3|+6|奖励专长|+5|+3|
+|10th|+5|+3|+3|+7|大师级工艺|+5|+3|
 
-Class Features
-The following features pertain to the Techie advanced class.
-Jury-Rig
-A Techie gains a +2 competence bonus on Repair skill checks made to attempt temporary or jury-rigged repairs. See the Repair skill for details on jury-rigging.
-At 7th level, this competence bonus increases to +4.
-Extreme Machine
-If it has mechanical or electronic components, a Techie of 2nd level or higher can get maximum performance out of it.
-By spending 1 action point and making either a Craft (electronic) or Craft (mechanical) check (whichever is appropriate for the machine in question), the Techie can temporarily improve a machine’s performance—at the risk of causing the machine to need repairs later. The DC for the Craft check depends on the type of improvement being made, as shown on the table below.
+### 职业专长
 
-|Improvement|Craft DC|Repair Chance (d%)|
+以下是有关技师职业的专长。
+
+#### 应急维修
+
+技师在修理技能检定时，若要做的是临时的、应急的修理，获得2点表现加值。详见修理技能的应急维修条目。
+
+7级时，此表现加值增至+4。
+
+#### 极限过载
+
+2级时，技师可将拥有机械或电气部件的物品性能提升至极限。
+
+技师需花费1点行动点，并做一个制造（电力）或制造（机械）检定（取决于要提升的物品），来暂时提升一个机器的性能，这机器可能会因此坏掉。制造检定的DC取决于要提升的物品类型，如下表所示。
+
+|提升幅度|制造DC|故障几率（d%）|
 |-----------|--------|------------------|
-|Ranged Weapons|
-|+1 to damage|15|01–25|
-|+2 to damage|20|01–50|
-|+3 to damage|25|01–75|
-|+5 ft. to range increment|15|01–25|
-|+10 ft. to range increment|25|01–50|
-|Electronic Devices|
-|+1 equipment bonus|15|01–25|
-|+2 equipment bonus|20|01–50|
-|+3 equipment bonus|25|01–75|
-|Vehicles|
-|+1 on initiative checks|20|01–25|
-|+1 to maneuver|25|01–50|
-|+2 to maneuver|30|01–75|
+|远程武器|
+|伤害 +1|15|01–25|
+|伤害 +2|20|01–50|
+|伤害 +3|25|01–75|
+|射程  +5尺|15|01–25|
+|射程 +10尺|25|01–50|
+|电气设备|
+|装备加值 +1|15|01–25|
+|装备加值 +2|20|01–50|
+|装备加值 +3|25|01–75|
+|载具|
+|先攻检定加值 +1|20|01–25|
+|机动性 +1|25|01–50|
+|机动性 +2|30|01–75|
 
-The Techie performs the extreme modifications in 1 hour. The Techie can’t take 10 or take 20 on this check. If the check succeeds, the effect of the improvement lasts for a number of minutes equal to his or her Techie class level, beginning when the object is first put into use. The Techie selects the single improvement he or she wants to make prior to making the check. After the duration of the effect ends, the machine reverts to its previous state and a repair chance percentile roll is made. The result of this roll indicates whether the machine re-quires repairs before it can be used again.
-Bonus Feats
-At 3rd, 6th, and 9th level, the Techie gets a bonus feat. The bonus feat must be selected from the following list, and the Techie must meet all the prerequisites of the feat to select it.
-Builder, Cautious, Combat Expertise, Educated, Gearhead, Personal Firearms Proficiency, Point Blank Shot, Studious.
-Build Robot
-A Techie of 4th level or higher can build remote-controlled robots that are Tiny or Diminutive in size. These robots serve as the Techie’s eyes, ears, or hands out to a predetermined distance away from the character when the Techie wants to use one of the following skills: Computer Use, Demolitions, Disable Device, Listen, Repair, or Spot.
-The Techie must have at least 1 rank in the skill that he wants to program into the robot. The Techie can only control one robot at a time, and only one of his robots can be active at any time.
-Follow these steps to build a robot.
+技师要花费1小时来改造。此检定不能取10取20。若检定成功，提升效果从提升后第一次使用开始计算，持续等同于技师等级的分钟数。技师从列表中选择一个提升项来提升，进行相应的检定。当提升效果结束，设备将回到原来的状态，并做一次故障几率检定。检定结果决定设备是否需要修理才能再度使用。
 
-Wealth Check: The purchase DC for the components needed to construct a robot is based on the robot’s size.
+#### 奖励专长
 
-|Size|Purchase DC|
+3、6、9级时，技师获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
+
+构造师、谨慎、寓守于攻、良好教育、技术宅、擅长单兵火器、近程射击、好学。
+
+#### 造机器人
+
+4级时，技师能制造可远程操控的超小型或微型体型的机器人。这些机器人充当技师的耳目和助手，让技师可以远程使用以下技能：计算机使用、爆破、解除装置、聆听、修理、侦察。
+
+前提是技师得习得需要操作机器人去使用的技能。技师同一时间只能操作一个机器人，一个技师的所有机器人也只能有一个处于激活状态。
+
+机器人需按照以下顺序制造：
+
+**财富检定：** 制造机器人所需部件的购买DC取决于其体型。
+
+|体型|购买DC|
 |:---|-----------|
-|Diminutive|18|
-|Tiny|15|
+|微型|18|
+|超小型|15|
 
-Make the Wealth check to purchase and gather the necessary components prior to starting construction.
+进行财富检定以购买收集制造机器人所需要的部件。
 
-Construct Frame: The robot’s body determines its size, shape, locomotion, and hit points. The DC of the Craft (mechanical) check is set by the robot’s size and modified by the form of locomotion selected.
+**制造框架：** 机器人的躯干决定了它的体型、形状、运动方式和生命值。制造（机械）的检定DC由体型决定基准DC，运动方式决定DC调整值。
 
-|Size|Craft DC|
+|体型|制造 DC|
 |:---|--------|
-|Diminutive|15|
-|Tiny|12|
+|微型|15|
+|超小型|12|
 
-|Components|DC Modifier|
+|部件|DC 调整值|
 |----------|-----------|
-|Frame Shape and Locomotion\*|
-|Bipedal|+4|
-|Quadruped|+3|
-|Treads|+2|
-|Wheels|+1|
-|External Components\*\*|
-|Manipulators\*\*\*|+3|
-|Audio/visual sensor|+2|
-|Remote Range\*|
-|Remote control link, 100 feet|+1|
-|Remote control link, 200 feet|+3|
-|Remote control link, 300 feet|+5|
+|框架形状与运动方式\*|
+|双足式|+4|
+|四足式|+3|
+|履带式|+2|
+|轮式|+1|
+|外挂部件\*\*|
+|机械臂\*\*\*|+3|
+|视听装置|+2|
+|远程通信\*|
+|远程控制模块 100尺|+1|
+|远程控制模块 200尺|+3|
+|远程控制模块 300尺|+5|
 
-\* Select only one of the options in this category.
-\*\* Select one or more of the options in this category.
-\*\*\* Necessary for a robot built to use any skill except Listen or Spot.
+\* 单选
 
-Select a frame size and form, add manipulators and sensors as necessary, and choose a type of remote control link. Add all the modifiers to determine the check’s DC. Make the Craft (mechanical) check to construct the robot’s frame.
-It takes a Techie 30 hours to construct a Diminutive robot frame or 12 hours to construct a Tiny robot frame.
-A Diminutive robot can be 6 to 12 inches long or tall and weighs about 1 pound. A Tiny robot can be 13 to 24 inches long or tall and weighs up to 3 pounds. Statistics for these robots can be found in the Creature listings.
+\*\* 多选
 
+\*\*\* 这是使用除聆听和侦察外的技能所必需的。
 
-Construct the Electronics: The next step is to build the internal electronics for the robot and install them in the frame. The DC is based on the size of the robot and modified by the number of components that need to be wired together. For a Diminutive robot, the DC is 20. For a Tiny robot, the DC is 15. Add +1 to the DC for each external component and +2 for the remote link. Make the Craft (electronic) check.
-It takes a Techie 12 hours to wire a Diminutive robot or 6 hours to wire a Tiny robot.
-Program the Robot: The Techie programs the robot as the final step. Decide how many ranks of the appropriate skill to program into the robot, up to the number of ranks the Techie has in the skill. A Techie’s robot can only contain programming for one skill. Make the Computer Use check to program the robot.
-The DC for the Computer Use check is 20, modified by the number of ranks the Techie wants to program into the robot (+1 to the DC for each rank). It takes 1 hour to program the robot.
-Reprogramming: A robot can be reprogrammed at any time. Doing this requires 1 hour of work and a Computer Use check (DC 20 + the number of ranks programmed into the robot).
-Mastercraft
-At 5th level, the Techie becomes adept at creating mastercraft objects. He of she applies the mastercraft ability to one of his or her Craft skills (electronic or mechanical). From this point on, he or she can build mastercraft objects using that skill.
-With Craft (electronic), the Techie can build electronic devices. With Craft (mechanical), the Techie can build mechanical devices, including weapons.
-On average, it takes twice as long to build a mastercraft object as it does to build an ordinary object of the same type. The cost to build a mastercraft object is equal to the purchase DC for the components (see the appropriate Craft skill description) + the bonus provided by the mastercraft feature. A Techie can add the mastercraft feature to an existing ordinary object by making the Wealth check and then making the Craft check as though he or she were constructing the object from scratch.
-In addition to the Wealth check, the Techie must also pay a cost in experience points equal to 25 x his or her Techie level x the bonus provided by the mastercraft feature. The XP must be paid before making the Craft check. If the expenditure of these XP would drop the Techie to below the minimum needed for his or her current level, then the XP can’t be paid and the Techie can’t use the mastercraft ability until he or she gains enough additional XP to remain at his or her current level after the expenditure is made.
-When successfully completed, a mastercraft object provides a +1 bonus to its quality compared to an ordinary object of the same type. All weapons and armor, and certain other types of equipment, such as computers and electronic devices, can be constructed as mastercraft objects.
-At 8th level, the Techie can add the mastercraft ability to another Craft skill, or he or she can improve his or her ability in the skill selected at 5th level, so that his or her mastercraft objects provide a +2 bonus.
-At 10th level, the Techie adds another +1 bonus to his or her mastercraft ability. If the Techie focuses his or her ability on one Craft skill, his or her mastercraft objects now provide a +3 bonus. If the Techie already has the ability for both Craft skills, he or she chooses which one to improve to a +2 bonus.
-The Craft DC for a mastercraft object is the same as for a normal object of the same type, as described in the Craft skill, with the following modification: For a +1 object, add +3 to the Craft DC; for a +2 object, add +5 to the Craft DC; and for a +3 object, add +10 to the Craft DC.
+选择一种框架尺寸和形式，根据需要添加机械臂和视听装置，并选择一种远程控制模块。将选择的框架和部件的检定DC求和。以此DC进行一次制造（机械）检定，以制造机器人框架。
 
-FIELD MEDIC
-Requirements
-To qualify to become a Field Medic, a character must fulfill the following -criteria.
-Base Attack Bonus: +2.
-Skills: Treat Injury 6 ranks, Spot 6 ranks.
-Feat: Surgery.
-Class Information
-The following information pertains to the Field Medic advanced class.
-Hit Die: 1d8
-Action Points: 6 + one-half character level, rounded down, every time the Field Medic attains a new level in this class.
-Class Skills
-The Field Medic’s class skills (and the key ability for each skill) are: Computer Use (Int), Concentration (Con), Craft (pharmaceutical) (Int), Diplomacy (Cha), Drive (Dex), Knowledge (behavioral sciences, current events, earth and life sciences, popular culture, technology) (Int), Listen (Wis), Pilot (Dex), Profession (Wis), Read/Write Language (none), Research (Int), Speak Language (none), Spot (Wis), Treat Injury (Wis).
-Skill Points at Each Level: 5 + Int modifier.
+制造微型机器人需要30小时，而制造超小型机器人需要12小时。
 
-Table: The Field Medic
+微型机器人大概为6到12英寸长宽，大约1磅重。超小型机器人大概为13到24英寸长宽，大约3磅重。机器人的属性在生物列表里列出。
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+**装配电路：** 下一步就是制造机器人的电路并装配进框架。检定DC由体型决定基准值，由需要连接起来的部件数量决定调整值。微型机器人基准DC为20。超小型机器人基准DC为15。每个外挂部件DC+1，远程控制模块DC+2。进行一次制造（电力）检定以组装电路。
+
+组装微型机器人电路需要12小时，而超小型的需要6小时。
+
+**编程：** 编程是技师制造机器人的最后一步。这一步由技师决定要为机器人赋予多少等级的技能，最高不能超过技师自己的技能等级。技师机器人只能习得一种技能。此步骤需要进行计算机使用技能检定，
+
+基准DC为20，每一级要赋予的技能使DC+1。编程要花费1小时。
+
+**重新编程：** 机器人可以随时重新编程。重新编程需要再花费一小时进行计算机使用技能检定，（DC20+要编程赋予技能的等级）
+
+#### 大师级工艺
+
+5级时，技师已能熟练地制造大师级工艺。技师让自己的一项制造技能（电力或机械）拥有大师级工艺能力。从今往后，技师可以用此技能制造大师级工艺物品。
+
+指定了制造（电力），则可制造大师级的电气设备。指定了制造（机械），则可制造大师级机械设备，包括武器。
+
+制造一件大师级工艺的物品平均耗费的时间是制造原版物品的两倍。制造大师级工艺消耗的DC = 部件的购买DC（见相应的制造技能描述） + 大师级工艺特性加成。制造大师级工艺，意即将`大师级工艺`特性附加到一个原版物品上，这么做需要进行一次财富检定，再进行一次制造检定。
+
+除了要进行财富检定，技师必须消耗掉经验值，需消耗经验值=25×技师等级×大师级工艺特性提供的加值。经验值必须在检定前就消耗掉。如果消耗的经验值让剩余经验不足以满足技师当前职业等级所需，则无法消耗经验值，此制造过程不可进行，只有消耗经验而不降级才可制造大师级工艺。
+
+若此过程成功完成，大师级工艺特性将会为原版物品提高1点品质。所有武器、护甲以及其他类型的装备，比如计算机和电气设备都可以升级为大师级工艺。
+
+8级时，技师可以让另一个制造技能拥有大师级工艺；或者让已有大师级工艺的技能再叠加一层，提供+2的加成。
+
+10级时，可再次选择一个技能，叠加一层大师级工艺。若技师专注于给一个技能叠加大师级工艺，再叠加则使大师级工艺提供+3加成。若技师给两个技能都叠加了大师级工艺，此时选择一个技能，让该技能的大师级工艺提供+2加成。
+
+制造大师级工艺的物品的制造DC基础值等同于对应普通物品的DC，再根据以下规则添加DC调整值：为物品+1则+3DC，为物品+2则+5DC，为物品+3则+10DC。
+
+## 战地医生
+
+### 要求
+
+要达到成为战地医生的资格，角色必须满足以下要求。
+
+**基础攻击加值：** +2
+
+**技能：** 医疗6级、侦察6级。
+
+**专长：** 手术
+
+### 职业信息
+
+以下是有关战地医生职业的信息。
+
+**生命骰：** 1d8
+
+**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。
+
+### 本职技能
+
+战地医生的本职技能（及相关属性）有：计算机使用（智）、专注（体）、制造（配药）（智）、交涉（魅）、驾驶（敏）、知识（行为科学、时事、地球与生命科学、流行文化、技术）（智）、聆听（感）、驾机（敏）、专业（感）、读写语言（无）、研究（智）、口头语言（无）、侦察（感）、医疗（感）。
+
+**升级技能点数：** 5+智力调整值
+
+### 职业列表
+
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+0|+2|+0|+1|Medical specialist +1|+1|+1|
-|2nd|+1|+3|+0|+2|Expert healer |+1|+1|
-|3rd|+1|+3|+1|+2|Bonus feat|+2|+1|
-|4th|+2|+4|+1|+2|Medical mastery|+2|+2|
-|5th|+2|+4|+1|+3|Medical specialist +2|+3|+2|
-|6th|+3|+5|+2|+3|Bonus feat|+3|+2|
-|7th|+3|+5|+2|+4|Minor medical miracle|+4|+3|
-|8th|+4|+6|+2|+4|Medical specialist|+3|+4|+3|
-|9th|+4|+6|+3|+4|Bonus feat|+5|+3|
-|10th|+5|+7|+3|+5|Medical miracle|+5|+4|
+|1st|+0|+2|+0|+1|医疗专精 +1|+1|+1|
+|2nd|+1|+3|+0|+2|急救妙手|+1|+1|
+|3rd|+1|+3|+1|+2|奖励专长|+2|+1|
+|4th|+2|+4|+1|+2|燃眉救护|+2|+2|
+|5th|+2|+4|+1|+3|医疗专精 +2|+3|+2|
+|6th|+3|+5|+2|+3|奖励专长|+3|+2|
+|7th|+3|+5|+2|+4|回春圣手|+4|+3|
+|8th|+4|+6|+2|+4|医疗专精 +3|+4|+3|
+|9th|+4|+6|+3|+4|奖励专长|+5|+3|
+|10th|+5|+7|+3|+5|医学奇迹|+5|+4|
 
-Class Features
-The following features pertain to the Field Medic advanced class.
-Medical Specialist
-The Field Medic receives a competence bonus on Treat Injury checks. At 1st level, the bonus is +1. It increases to +2 at 5th level, and to +3 at 8th level.
-Expert Healer
-At 2nd level and higher, the Field Medic’s ability to restore hit points with a medical kit or surgery kit and a successful use of the Treat Injury skill improves. In addition to the normal hit point recovery rate (1d4 for a medical kit, 1d6 per patient’s character level for surgery), the Field Medic restores 1 hit point for every level he or she has in this advanced class.
-Bonus Feats
-At 3rd, 6th, and 9th level, the Field Medic gets a bonus feat. The bonus feat must be selected from the following list, and the Field Medic must meet all the prerequisites of the feat to select it.
-Armor Proficiency (light), Armor Proficiency (medium), Cautious, Defensive Martial Arts, Dodge, Educated, Im-proved Initiative, Medical Expert, Personal Firearms Proficiency, Surface Vehicle Operation, Vehicle Expert.
-Medical Mastery
-When making a Treat Injury skill check, a Field Medic of 4th level or higher may take 10 even if stress and distractions would normally prevent him or her from doing so.
-Minor Medical Miracle
-At 7th level or higher, a Field Medic can save a character reduced to –10 hit points or lower. If the Field Medic is able to administer aid within 3 rounds of the character’s death, he or she can make a Treat Injury check. The DC for this check is 30, and the Field Medic can’t take 10 or take 20. If the check succeeds, the dead character can make a Fortitude save (DC 15) to stabilize and be restored to 0 hit points.
-If the Field Medic fails the skill check or the patient fails the save, the dead character can’t be saved.
-Medical Miracle
-At 10th level, a Field Medic can revive a character reduced to –10 hit points or lower. If the Field Medic is able to administer aid within 3 minutes of the character’s death, he or she can make a Treat Injury check. The DC for this check is 40, and the Field Medic can’t take 10 or take 20. If the check succeeds, the dead character can make a Fortitude save (DC 20) to stabilize and be restored to 1d6 hit points.
-If the Field Medic fails the skill check or the patient fails the Fortitude save, the dead character can’t be restored.
+### 职业专长
 
-INVESTIGATOR
-Requirements
-To qualify to become an Investigator, a character must fulfill the following criteria.
-Base Attack Bonus: +2.
-Skills: Investigate 6 ranks, Listen 6 ranks, Sense Motive 6 ranks.
-Class Information
-The following information pertains to the Investigator advanced class.
-Hit Die: 1d6
-Action Points: 6 + one-half character level, rounded down, every time the Investigator attains a new level in this class.
-Class Skills
-The Investigator’s class skills (and the key ability for each skill) are: Bluff (Cha), Computer Use (Int), Disable Device (Dex), Drive (Dex), Forgery (Int), Gather Information (Cha), Intimidate (Cha), Investigate (Int), Knowledge (behavioral sciences, civics, current events, streetwise) (Int), Listen (Wis), Profession (Wis), Read/_Write Language (none), Research (Int), Search (Int), Sense Motive (Wis), Speak Language (none), Spot (Wis).
-Skill Points at Each Level: 5 + Int modifier.
+以下是有关战地医生职业的专长。
 
-Table: The Investigator
+#### 医疗专精
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+战地医生在进行医疗检定时获得表现加值。1级时加值为1。5级时加值为2，8级时加值为3。
+
+#### 急救妙手
+
+2级时，战地医生成功用急救箱或手术箱实施疗伤所回复的生命值将会提升。在一般的生命值回复率基础上（有急救箱1d4，病人每级角色等级1d6），每级战地医生等级额外回复1点生命值。
+
+#### 奖励专长
+
+3、6、9级时，战地医生获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
+
+擅长盔甲（轻型）、擅长盔甲（中型）、谨慎、防御武术、闪避、良好教育、精通先攻、医药专家、擅长单兵火器、地面载具操作、载具专家。
+
+#### 燃眉救护
+
+4级时，战地医生检定医疗技能时，可以在紧张、心烦意乱的情况下取10。
+
+#### 回春圣手
+
+7级时，战地医生可以救护生命值小于等于-10的角色。战地医生可以对进入死亡状态3轮内的角色进行医疗检定。检定DC为30，战地医生不能取10取20。若检定成功，死亡角色进行一次强韧豁免（DC15）以稳定并直接回复至0生命。
+
+如果战地医生医疗检定失败或者病人强韧豁免失败，死亡角色将完全死亡，无力回天。
+
+#### 医学奇迹
+
+10级时，战地医生能将死亡的角色救醒。战地医生可以对进入死亡状态3分钟内的角色进行医疗检定。检定DC为40，战地医生不能取10取20。若检定成功，死亡角色进行一次强韧豁免（DC20）以稳定并直接回复至1d6点生命。
+
+如果战地医生医疗检定失败或者病人强韧豁免失败，死亡角色将完全死亡，无力回天。
+
+## 调查员
+
+### 要求
+
+要达到成为调查员的资格，角色必须满足以下要求。
+
+**基础攻击加值：** +2
+
+**技能：** 调查6级、聆听6级、察言观色6级。
+
+### 职业信息
+
+以下是有关调查员职业的信息。
+
+**生命骰：** 1d6
+
+**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。
+
+### 本职技能
+
+调查员的本职技能（及相关属性）有：唬骗（魅）、计算机使用（智）、解除装置（敏）、驾驶（敏）、伪造文书（智）、收集信息（魅）、威吓（魅）、调查（智）、知识（行为科学、政法、时事、街头智慧）（智）、聆听（感）、专业（感）、读写语言（无）、研究（智）、搜索（智）、察言观色（感）、口头语言（无）、侦察（感）。
+
+**升级技能点数：** 5+智力调整值
+
+### 职业列表
+
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+0|+0|+1|+1|Profile|+1|+1|
-|2nd|+1|+0|+2|+2|Contact, low-level|+1|+1|
-|3rd|+2|+1|+2|+2|Bonus feat|+2|+1|
-|4th|+3|+1|+2|+2|Nonlethal force|+2|+2|
-|5th|+3|+1|+3|+3|Contact,  mid-level|+3|+2|
-|6th|+4|+2|+3|+3|Bonus feat|+3|+2|
-|7th|+5|+2|+4|+4|Discern lie|+4|+3|
-|8th|+6|+2|+4|+4|Contact, high-level|+4|+3|
-|9th|+6|+3|+4|+4|Bonus feat|+5|+3|
-|10th|+7|+3|+5|+5|Sixth sense|+5|+4|
+|1st|+0|+0|+1|+1|画像|+1|+1|
+|2nd|+1|+0|+2|+2|联系（低级）|+1|+1|
+|3rd|+2|+1|+2|+2|奖励专长|+2|+1|
+|4th|+3|+1|+2|+2|非致命武力|+2|+2|
+|5th|+3|+1|+3|+3|联系（中级）|+3|+2|
+|6th|+4|+2|+3|+3|奖励专长|+3|+2|
+|7th|+5|+2|+4|+4|识破谎言|+4|+3|
+|8th|+6|+2|+4|+4|联系（高级）|+4|+3|
+|9th|+6|+3|+4|+4|奖励专长|+5|+3|
+|10th|+7|+3|+5|+5|第六感|+5|+4|
 
-Class Features
-The following features pertain to the Investigator advanced class.
-Profile
-By making a Gather Information check (DC 15) when talking to witnesses of a crime, the Investigator compiles a rough mental picture of the suspect. This mental picture provides a physical description, including distinguishing markings and visible mannerisms. Success makes the profile accurate, at least concerning a particular suspect as seen by witnesses. (For this Gather Information check, no money changes hands.)
-The Investigator can expand the profile by making an Investigate check (DC 15) involving the crime scene or other evidence linked to the suspect. If successful, the Investigator combines eyewitness accounts with forensic evidence to develop a profile of the suspect’s method of operation. This provides a +2 circumstance bonus on any skill checks made to uncover additional evidence or otherwise locate and capture the suspect.
-Contact
-An Investigator of 2nd level or higher cultivates associates and informants. Each time the Investigator gains a contact, the GM should develop a supporting character to represent the contact. The player can suggest the type of contact his or her character wants to gain, but the contact must be an ordinary character, not a heroic character.
-A contact will not accompany an Investigator on missions or risk his or her life. A contact can, however, provide information or render a service (make a specific skill check on the Investigator’s behalf).
-At 2nd level, the Investigator gains a low-level contact, at 5th level a mid-level contact, and at 8th level a high-level contact.
-The Investigator can’t call on the same contact more than once in a week, and when he or she does call on a contact, compensation may be required for the assistance the contact renders. In general, a professional associate won’t be compensated monetarily, but instead will consider that the Investigator owes him or her a favor. Contacts with underworld or street connections usually demand monetary compensation for the services they render, and experts in the use of skills normally want to be paid for the services they provide.
-For underworld or street contacts, this expense is represented by a Wealth check against a purchase DC of 10 for the low-level contact, 15 for the mid-level contact, or 20 for the high-level contact. For skilled experts, the purchase DC is 10 + the ranks the expert has in the appropriate skill.
-Bonus Feats
-At 3rd, 6th, and 9th level, the Investigator gets a bonus feat. The bonus feat must be selected from the following list, and the Investigator must meet all the prerequisites of the feat to select it.
-Advanced Firearms Proficiency, Armor Proficiency (light), Armor Proficiency (medium), Brawl, Defensive Martial Arts, Dodge, Double Tap, Educated, Knockout Punch, Personal Firearms Proficiency, Point Blank Shot.
-Nonlethal Force
-At 4th level, an Investigator becomes adept at using nonlethal force to subdue an opponent. From this point on, he or she can deal nonlethal damage with a weapon that normally deals lethal damage (if he or she so chooses) without taking the normal –4 penalty on the attack roll.
-Discern Lie
-At 7th level, an Investigator develops the ability to gauge whether another character is telling the truth by reading facial expressions and interpreting body language. The Investigator must be able to see and hear (but not necessarily understand) the individual under scrutiny.
-With a successful Sense Motive check opposed by the subject’s Bluff check result or against DC 10 (whichever is greater), the Investigator can tell whether the subject is deliberately and knowingly speaking a lie. This ability doesn’t reveal the truth, uncover unintentional inaccuracies, or necessarily reveal omissions in information.
-Sixth Sense
-At 10th level, an Investigator becomes so attuned at solving mysteries that he or she finds a way to put two and two together and rarely misses a clue. Whenever the Investigator spends 1 action point to improve the result of a skill check made using certain skills (see below), the Investigator gets to add an additional 1d6 to the result.
-The skills that sixth sense applies to are Gather Information, Investigate, Listen, Research, Search, and Spot.
+### 职业专长
 
-PERSONALITY
-Requirements
-To qualify to become a Personality, a character must fulfill the following criteria.
-Skills: Diplomacy 6 ranks, Perform (select one) 6 ranks.
-Feat: Renown.
-Class Information
-The following information pertains to the Personality advanced class.
-Hit Die: 1d6
-Action Points: 6 + one-half character level, rounded down, every time the Personality attains a new level in this class.
-Class Skills
-The Personality’s class skills (and the key ability for each skill) are: Bluff (Cha), Craft (visual arts) (Int), Craft (writing) (Int), Diplomacy (Cha), Knowledge (art, behavioral sciences, business, civics, current events, popular culture) (Int), Perform (act, dance, sing, stand-up) (Cha), Profession (Wis), Read/_Write Language (none), Speak Language (none).
-Skill Points at Each Level: 5 + Int modifier.
+以下是有关调查员职业的专长。
 
-Table: The Personality
+#### 画像
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+与犯罪现场目击者谈话时，调查员进行一次收集信息检定（DC15）可以大致描绘出嫌疑犯的画像。画像包含对方的外貌信息，如显著外貌特征和可辨识的小动作。检定成功则嫌疑犯的样貌清晰地浮现，至少可以让目击者认出了嫌疑对象。（这个收集信息检定不会触发任何财富转移。）
+
+调查员可以再进行一次调查检定（DC15）以丰富描绘的内容，包括犯罪情景还原或者其他关于嫌疑犯的线索。检定成功则调查员可以联系所有证据还原出犯罪过程。这将使调查员在发现其他线索、锁定嫌疑犯位置和抓捕嫌疑犯时获得2点表现加值。
+
+#### 联系
+
+2级时，调查员可以发展帮手和线人。调查员每次联系时，GM应建立联系人角色。玩家可以对联系人的类型提出需求，但联系人的角色只能是路人角色而不能是英雄角色。
+
+联系人不会作为调查员的同伴参与游戏过程，也不会因游戏机制危害到生命。但联系人可以为调查员提供信息或服务（代调查员进行特定的技能检定）。
+
+2级时，调查员可以联系低级角色，5级时联系中级角色，8级时联系高级角色。
+
+调查员一周内与同一个联系人最多联系一次，当联系时，联系人可以向调查员索要补偿。通常，专业人士帮忙不会直接索要财物，而是让调查员欠人情（见`求援`）。寻求黑社会或街头人士帮忙一般需要财物补偿，而求助专家提供技能上的帮助通常是明码标价的。
+
+与黑社会或街头人士联系的费用对应财富检定，低级联系财富检定DC为10，中级联系DC15，高级联系DC20。求助专家的购买DC = 10 + 专家提供技能帮助的技能等级。
+
+#### 奖励专长
+
+3、6、9级时，调查员获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
+
+高级擅长火器、擅长盔甲（轻型）、擅长盔甲（中型）、拳法、防御武术、闪避、双发快射、良好教育、终结之拳、擅长单兵火器、近程射击。
+
+#### 非致命武力
+
+4级时，调查员能熟练使用非致命武力制服对手。从现在开始，调查员可以（如果手上有）用通常会造成致命伤害的武器施加非致命伤害，伤害骰不再有4点减值。
+
+#### 识破谎言
+
+7级时，调查员能够通过看穿角色的面部表情和肢体语言来辨别对方是否说了实话。调查员在审人时，必须能看见且听见（不需要听懂）对方。
+
+调查员要断定对方是否在故意说谎，需要进行成功的察言观色检定，DC = Max(对方唬骗检定结果, 10)。这个能力并不能揭露事实、揭穿无意的不实陈述或者发现信息中的遗漏。
+
+#### 第六感
+
+10级时，调查员能够麻利地解决谜团和联系看似不相关的线索。当调查员花费1点行动点增强特定的技能检定结果时，结果额外加1d6。
+
+第六感适用技能：收集信息、调查、聆听、研究、搜索以及侦察。
+
+## 明星
+
+### 要求
+
+要达到成为明星的资格，角色必须满足以下要求。
+
+**技能：** 交涉6级、表演（任一）6级。
+
+**专长：** 闻名。
+
+### 职业信息
+
+以下是有关明星职业的信息。
+
+**生命骰：** 1d6
+
+**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。
+
+### 本职技能
+
+明星的本职技能（及相关属性）有：唬骗（魅）、制造（视觉艺术）（智）、制造（写作）（智）、交涉（魅）、知识（艺术、行为科学、商学、政法、时事、流行文化）（智）、表演（演戏、舞蹈、唱歌、单口相声）（魅）、专业（感）、读写语言（无）、口头语言（无）。
+
+**升级技能点数：** 5+智力调整值
+
+### 职业列表
+
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+0|+1|+1|+0|Unlimited access|+0|+2|
-|2nd|+1|+2|+2|+0|Bonus class skill|+1|+2|
-|3rd|+1|+2|+2|+1|Bonus feat|+1|+2|
-|4th|+2|+2|+2|+1|Royalty|+1|+3|
-|5th|+2|+3|+3|+1|Winning smile|+2|+3|
-|6th|+3|+3|+3|+2|Bonus feat|+2|+3|
-|7th|+3|+4|+4|+2|Bonus class skill|+2|+4|
-|8th|+4|+4|+4|+2|Royalty|+3|+4|
-|9th|+4|+4|+4|+3|Bonus feat|+3|+4|
-|10th|+5|+5|+5|+3|Compelling performance|+3|+5|
+|1st|+0|+1|+1|+0|自由进出|+0|+2|
+|2nd|+1|+2|+2|+0|奖励本职技能|+1|+2|
+|3rd|+1|+2|+2|+1|奖励专长|+1|+2|
+|4th|+2|+2|+2|+1|富贵|+1|+3|
+|5th|+2|+3|+3|+1|亲和|+2|+3|
+|6th|+3|+3|+3|+2|奖励专长|+2|+3|
+|7th|+3|+4|+4|+2|奖励本职技能|+2|+4|
+|8th|+4|+4|+4|+2|富贵|+3|+4|
+|9th|+4|+4|+4|+3|奖励专长|+3|+4|
+|10th|+5|+5|+5|+3|带动情绪|+3|+5|
 
-Class Features
-The following features pertain to the Personality advanced class.
-Unlimited Access
-When others would normally make a Diplomacy check or Bluff check to smooth-talk or trick their way into a private party or invitation-only event, the Personality adds a bonus equal to his or her Personality level.
-When a Personality buys a ticket to a show or for transportation, he or she can make a Diplomacy check to get that ticket upgraded.  DCs are given below.
+### 职业专长
 
-|Upgrade|Diplomacy DC|
+以下是有关明星职业的专长。
+
+#### 自由进出
+
+一般人需要进行交涉或唬骗检定，绞尽脑汁混进私人集会或者非开放活动，明星做这些事可以获得数值等于此职业等级的加成。
+
+明星如果有入场券，或者本就有权参与，明星可以再进行一次交涉检定，将入场券资格升级。DC如下。
+
+|升级|交涉 DC|
 |:------|:----------:|
-|Seat at sporting event to field pass|10|
-|Hotel room to suite|15|
-|Concert or theater ticket to backstage pass|20|
-|Economy transportation to first-class|25|
+|体育赛事从观众席升级到进入赛场|10|
+|宾馆从标间升级到套房|15|
+|音乐会或戏剧从观众席升级到进入后台|20|
+|经济舱升级到头等舱|25|
 
-Bonus Class Skill
-At 2nd and again at 7th level, the Personality designates one cross-class skill as a class skill. Once designated, the skill is considered a class skill every time the character adds a new level of Personality.
-Bonus Feats
-At 3rd, 6th, and 9th level, the Personality gets a bonus feat. The bonus feat must be selected from the following list, and the Personality must meet all the prerequisites of the feat to select it.
-Alertness, Animal Affinity, Combat Expertise, Confident, Creative, Deceptive, Defensive Martial Arts, Educated, Trustworthy.
-Royalty
-At 4th and 8th level, a Personality’s activities in the public eye generate extra income. This income provides a Wealth bonus increase of +4.
-Winning Smile
-At 5th level, a Personality develops such a force of personal magnetism that he or she can convince a single target to regard him or her as a trusted friend. (If the target is currently being threatened or attacked by the Personality or his or her allies, this ability won’t work.)
-The target makes a Will saving throw to avoid being persuaded by the Personality’s words and actions. The DC is 10 + Personality’s class level + Personality’s Charisma bonus.
-This ability doesn’t enable the Personality to control the target, but the target perceives the Personality’s words and actions in the most favorable way. The Personality can try to give the target orders, but he or she must win an opposed Charisma check to convince the target to perform any actions the target wouldn’t normally undertake. The target never obeys suicidal or obviously harmful orders, and any act by the Personality or his or her allies that threatens the target breaks the mood and clears the target’s head. Otherwise, a target remains won over for 1 minute per Personality level.
-After the duration expires, the GM determines the reaction and attitude of the target based on what the Personality compelled the target to do.
+#### 奖励本职技能
+
+2级和7级时，明星各有一次机会，将指定一个跨职技能为本职技能。指定后，这个技能按照明星职业的本职技能升级，不再属于原来的职业。
+
+#### 奖励专长
+
+3、6、9级时，明星获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
+
+警觉、动物亲和、寓守于攻、自信、富有创意、欺诈、防御武术、良好教育、值得信赖。
+
+#### 富贵
+
+4级和8级时，明星从事了公众活动，获得了额外收入。每获得此专长，财富加值+4。
+
+#### 亲和
+
+5级时，明星将拥有一定的人格魅力，能够说服一个目标，让目标相信自己是个值得信赖的朋友。（如果目标被明星或其伙伴威胁或攻击，这个能力就不起作用。）
+
+目标进行一次意志豁免以对抗明星的游说。DC = 10 + 明星职业技能 + 明星的魅力加值。
+
+明星不能用这个能力来控制目标，只能让目标对明星的言行感到放心。明星可以要求目标做一些事，但明星每次要求目标做平常会拒绝做的事时都要进行魅力对抗检定。目标不可能满足自杀性或者显然有害的要求，并且只要明星及其伙伴做了会威胁到目标的举动，目标就会反应过来，状态失效。没有意外的话，目标会在等于明星等级的分钟数内，保持信任状态。
+
+信任期结束后，GM根据明星强迫目标做的事的性质决定目标接下来的反应和态度。
+
 这是一个`影响心灵`的能力。
-Compelling Performance
-At 10th level, a Personality’s force of personal magnetism increases to the point that he or she can arouse a single emotion of his or her choice—despair, hope, or rage—in a target. To use this ability, the Personality must spend 1 action point. The emotion he or she arouses affects one target (a GM character) within 15 feet of the Personality (or within 15 feet of a television, radio, or telephone that broadcasts the Personality’s performance). The performance requires a full-round action, and its effects on the target last for 1d4+1 rounds.
-The target makes a Will saving throw. The DC is 10 + Personality’s class level + Personality’s Charisma bonus. If the target succeeds at the saving throw, he or she is immune to the compulsion of this performance. If the target fails, he or she reacts to the emotion as described below.
-Despair: The target takes a –2 morale penalty on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls.
-Hope: The target gains a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls.
-Rage: The target gains a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a –1 penalty to Defense. In a dramatic situation, the target is compelled to fight, regardless of the danger.
 
-NEGOTIATOR
-Requirements
-To qualify to become a Negotiator, a character must fulfill the following criteria.
-Skills: Bluff 6 ranks, Diplomacy 6 ranks.
-Feat: Alertness.
-Class Information
-The following information pertains to the Negotiator advanced class.
-Hit Die: 1d8
-Action Points: 6 + one-half character level, rounded down, every time the Negotiator attains a new level in this class.
-Class Skills
-The Negotiator’s class skills (and the key ability for each skill) are: Bluff (Cha), Computer Use (Int), Diplomacy (Cha), Drive (Dex), Gamble (Wis), Gather Information (Cha), Intimidate (Cha), Investigate (Int), Knowledge (behavioral sciences, business, civics, current events, popular culture, streetwise) (Int), Profession (Wis), Read/Write Language (none), Sense Motive (Wis), Speak Language (none), Spot (Wis).
-Skill Points at Each Level: 5 + Int modifier.
+#### 带动情绪
 
-Table: The Negotiator
+10级时，明星的人格魅力可以让其随意带动一个人的情绪，让他人产生绝望、希望、愤怒的情绪。明星需要花费1行动点使用此能力。目标必须是一个GM角色，处在明星15尺范围内（或处在能传播明星的表演的媒介如电视、广播、电话的15尺内）。这个表演需要花费一个整轮动作，给目标的影响持续1d4+1轮。
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+目标进行意志豁免以对抗，DC = 10 + 明星职业技能 + 明星的魅力加值。如果目标豁免成功，将免疫此表演的蛊惑。如果豁免失败，目标将如下述规则产生情绪效果。
+
+**绝望：** 目标进行豁免、攻击、属性、技能、伤害的掷骰/检定将有2点士气减值。
+
+**希望：** 目标进行豁免、攻击、属性、技能、伤害的掷骰/检定将有2点士气加值。
+
+**愤怒：** 目标的力量和体质获得2点士气加值，意志检定获得1点士气加值，防御获得1点减值。在一些戏剧化的情境中，目标会无视危险，强行进入战斗。
+
+## 谈判专家
+
+### 要求
+
+要达到成为谈判专家的资格，角色必须满足以下要求。
+
+**技能：** 唬骗6级、交涉6级。
+
+**专长：** 警觉。
+
+### 职业信息
+
+以下是有关谈判专家职业的信息。
+
+**生命骰：** 1d8
+
+**行动点：** 角色每次提升该职业等级时获得6+角色等级一半数值的行动点，向下取整。
+
+### 本职技能
+
+谈判专家的本职技能（及相关属性）有：唬骗（魅）、计算机使用（智）、交涉（魅）、驾驶（敏）、赌博（感）、收集信息（魅）、威吓（魅）、调查（智）、知识（行为科学、商学、政法、时事、流行文化、街头智慧）（智）、专业（感）、读写语言（无）、察言观色（感）、口头语言（无）、侦察（感）。
+
+**升级技能点数：** 5+智力调整值
+
+### 职业列表
+
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+0|+1|+0|+2|Conceal motive|+0|+1|
-|2nd|+1|+2|+0|+3|React first|+1|+1|
-|3rd|+2|+2|+1|+3|Bonus feat|+1|+1|
-|4th|+3|+2|+1|+4|Talk down one opponent|+1|+2|
-|5th|+3|+3|+1|+4|No sweat|+2|+2|
-|6th|+4|+3|+2|+5|Bonus feat|+2|+2|
-|7th|+5|+4|+2|+5|Talk down several opponents|+2|+3|
-|8th|+6|+4|+2|+6|Sow distrust|+3|+3|
-|9th|+6|+4|+3|+6|Bonus feat|+3|+3|
-|10th|+7|+5|+3|+7|Talk down all opponents|+3|+4|
+|1st|+0|+1|+0|+2|隐藏动机|+0|+1|
+|2nd|+1|+2|+0|+3|先发制人|+1|+1|
+|3rd|+2|+2|+1|+3|奖励专长|+1|+1|
+|4th|+3|+2|+1|+4|劝和一人|+1|+2|
+|5th|+3|+3|+1|+4|轻而易举|+2|+2|
+|6th|+4|+3|+2|+5|奖励专长|+2|+2|
+|7th|+5|+4|+2|+5|劝和多人|+2|+3|
+|8th|+6|+4|+2|+6|挑拨离间|+3|+3|
+|9th|+6|+4|+3|+6|奖励专长|+3|+3|
+|10th|+7|+5|+3|+7|劝和全场|+3|+4|
 
-Class Features
-All of the following are features of the Negotiator advanced class.
-Conceal Motive
-A Negotiator gets to add a bonus equal to his or her Negotiator level whenever he or she opposes a Sense Motive check.
-React First
-Starting at 2nd level, a Negotiator gains the ability to react first when trying to make a deal or mediate a settlement. The Negotiator must make contact and speak to the participants prior to the start of combat. If he or she does this, he or she gains a free readied action that allows the Negotiator to make either a move or attack action if either side in the negotiation (other than the Negotiator) decides to start hostilities. The Negotiator gets to act before any initiative checks are made, in effect giving him or her the benefit of surprise.
-Bonus Feats
-At 3rd, 6th, and 9th level, the Negotiator gets a bonus feat. The bonus feat must be selected from the following list, and the Negotiator must meet all the prerequisites of the feat to select it.
-Advanced Firearms Proficiency, Armor Proficiency (light), Armor Proficiency (medium), Attentive, Confident, Dead Aim, Deceptive, Educated, Far Shot, Iron Will, Personal Firearms Proficiency, Trustworthy.
-Talk Down
-A Negotiator of 4th level or higher can talk his or her way out of trouble. Either prior to the start of hostilities or during combat, the Negotiator can talk down a single opponent within 15 feet of his or her position or otherwise able to hear the Negotiator’s voice. The target must be able to understand the Negotiator. That opponent immediately stops fighting and reverts to an indifferent attitude regarding the Negotiator and the situation in general. Any hostile action by the Negotiator or by one of the Negotiator’s allies directed at the opponent allows the opponent to act as he or she sees fit.
-To initiate this talent, the Negotiator must spend a full-round action talking to his or her opponent. The opponent makes a Will saving throw. The DC is equal to 10 + Negotiator’s class level + Negotiator’s Charisma bonus. If the save fails, the opponent stops fighting. If the save succeeds, the opponent continues as normal.
-At 7th level, a Negotiator can talk down a number of opponents equal to his or her Charisma bonus within 15 feet of his or her position or within 15 feet of a television, radio, or telephone broadcasting the Negotiator’s message.
-At 10th level, the range extends to 30 feet and covers all opponents who can hear and understand the Negotiator’s voice.
+### 职业专长
+
+以下是有关谈判专家职业的专长。
+
+#### 隐藏动机
+
+谈判专家在对抗察言观色检定时获得等于其职业等级的加值。
+
+#### 先发制人
+
+2级时，谈判专家能够第一时间提出交易或调解。谈判专家必须在战斗开始前宣布与对方对话。如果这么做了，谈判专家将允许准备一个移动或攻击动作，如果谈判双方（除了谈判专家）要做出敌意行为，这个动作将触发。触发的动作将在先攻检定前执行，效果上应用突袭的规则。
+
+#### 奖励专长
+
+3、6、9级时，谈判专家获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
+
+高级擅长火器、擅长盔甲（轻型）、擅长盔甲（中型）、听着有心、自信、屏息瞄准、欺诈、良好教育、远程射击、钢铁意志、擅长单兵火器、值得信赖。
+
+#### 劝和
+
+4级时，谈判专家可以用谈话的方式平息争端。在敌意行为开始前或者在战斗中，谈判专家可以劝说一个15尺内能听到谈判专家的敌人停战。目标必须能听懂谈判专家的话。一般情况下，不管和谈判专家有什么关系，或者情境如何，目标都将立即停止战斗，态度转变为`不关心`。其后任何发自谈判专家及其同伙的敌对行为，对方酌情做出合理的反应。
+
+要做出劝和行为，谈判专家必须花费一个整轮动作，与对手谈话。对方进行一个意志豁免，DC = 10 + 谈判专家职业等级 + 谈判专家魅力加值。豁免失败，则停战。豁免成功则如常行动。
+
+7级时，谈判专家一次能劝和的人数等于其魅力加值，范围为15尺内，或者能传输谈判专家信息的媒介的15尺内，如电视、广播、电话。
+
+10级时，范围增加到30尺，范围内的所有能听到听懂的人都能被劝和。
+
 这是一个`影响心灵`的能力。
-No Sweat
-Starting at 5th level, whenever a Negotiator spends 1 action point to improve the result of a die roll, he or she rolls an additional 1d6. The Negotiator can then select the highest die roll to add to his or her d20 roll.
-Sow Distrust
-A Negotiator of 8th level or higher can turn one character against another. The Negotiator must spend a full-round action and know the name of the character he or she is attempting to persuade as well as the name of the character toward whom the target’s distrust will be directed. The target must be able to hear and understand the Negotiator.
-The target makes a Will save. The DC is equal to 10 + Negotiator’s class level + Negotiator’s Charisma bonus. If the target fails the save, his or her attitude toward the other designated character worsens by one step: helpful turns to friendly, friendly to indifferent, indifferent to unfriendly, unfriendly to hostile (see the Diplomacy skill). The target makes a Will save whenever the Negotiator uses this talent against him or her. As long as the target continues to fail the Will save, the Negotiator can continue taking full-round actions to worsen the target’s attitude toward a designated character. When the target’s attitude drops to hostile, he or she attacks the designated character.
-A successful Will save doesn’t restore previous attitude shifts, but it does render the target immune for 24 hours to further attempts by the Negotiator to sow distrust.
-The Negotiator can’t use this talent on his or her allies.
+
+#### 轻而易举
+
+5级时，谈判专家花费1行动点增强骰点结果时，可以额外掷1d6，从中选最高者加至d20结果。
+
+#### 挑拨离间
+
+8级时，谈判专家可以挑拨一个角色对另一个角色的态度。谈判专家要花费一个整轮动作离间对手，谈判专家必须知道这两个角色的名字。目标必须能听到听懂谈判专家的话。
+
+目标将进行一次意志豁免。DC = 10 + 谈判专家职业等级 + 谈判专家魅力加值。豁免失败，被挑拨的目标对指定角色的态度下降一级：提供帮助到友善、友善到不关心、不关心到不友善、不友善到敌对（见交涉技能）。无论何时谈判专家对目标使用这个专长，目标都要做意志豁免。只要目标持续豁免失败，谈判专家就可以持续用整轮动作恶化目标对指定角色的态度。当目标态度恶化到敌对，目标将攻击指定角色。
+
+成功的豁免并不会让目标的态度恢复原状，但会让目标在24小时内免疫谈判专家的挑拨。
+
+谈判专家不能挑拨盟友。
+
 这是一个`影响心灵`的能力。
