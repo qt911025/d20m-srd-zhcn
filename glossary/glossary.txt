@@ -462,3 +462,28 @@ Sow distrust	挑拨离间
 attitude	态度
 helpful	提供帮助
 friendly	友善
+SHADOW SLAYER	暗影猎手
+Detect Shadow	探查暗影
+Shadow immunity	暗影免疫
+Slayer weapon	猎影武器
+Shadow enemy	影之天敌
+Fast healing	快速愈合
+denizens of Shadow	暗影生物
+campaigns	冒险
+aura	气场
+Faint	微弱
+Moderate	中等
+Overwhelming	凌厉
+Strong	强烈
+Aura Power	气场强度
+Rating	能级
+Shadow Aura	暗影气场
+caster level	施法者等级
+spell	法术
+Magic	魔法
+Outsider	异界生物类
+Aberration	异怪类
+construct	构装体类
+dragon	龙类
+elemental	元素类
+undead	不死生物类

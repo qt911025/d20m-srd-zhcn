@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># CAMPAIGN ADVANCE CLASSES</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T131915Z" creationid="quentine" creationdate="20190527T131915Z">
+        <seg># 战役高级职业</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># CONDITION SUMMARY</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T115433Z" creationid="quentine" creationdate="20190115T115433Z">
@@ -798,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## SHADOW SLAYER</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T132832Z" creationid="quentine" creationdate="20190527T132547Z">
+        <seg>## 暗影猎手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## SOLDIER</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T134333Z" creationid="quentine" creationdate="20190221T134333Z">
@@ -1486,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#### Action Points</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T133050Z" creationid="quentine" creationdate="20190527T133050Z">
+        <seg>#### 行动点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#### Adrenaline Rush</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T121700Z" creationid="quentine" creationdate="20190421T121700Z">
@@ -1614,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#### Detect Shadow</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T135303Z" creationid="quentine" creationdate="20190527T135303Z">
+        <seg>#### 探查暗影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#### Discern Lie</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190526T085605Z" creationid="quentine" creationdate="20190526T085605Z">
@@ -1682,6 +1714,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T130359Z" creationid="quentine" creationdate="20190421T130359Z">
         <seg>#### 护卫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Hit Die</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T132929Z" creationid="quentine" creationdate="20190527T132929Z">
+        <seg>#### 生命骰</seg>
       </tuv>
     </tu>
     <tu>
@@ -2214,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>###Table: The Shadow Slayer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T133801Z" creationid="quentine" creationdate="20190527T133801Z">
+        <seg>### 职业列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>###Table: The Techie</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190518T134039Z" creationid="quentine" creationdate="20190518T134039Z">
@@ -2403,6 +2451,30 @@
 * d12= 十二面骰
 * d20= 二十面骰
 * d%= 百分骰（两个十面骰代表个位和十位）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**1st Round:** Presence or absence of Shadow creatures.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T140418Z" creationid="quentine" creationdate="20190527T140418Z">
+        <seg>**第1轮：** 暗影生物的出现与消失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**2nd Round:** Number of Shadow auras (creatures or objects of Shadow) in the area and the power of the strongest Shadow aura present.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T143031Z" creationid="quentine" creationdate="20190527T140729Z">
+        <seg>**第2轮：** 范围内暗影气场的数量（暗影生物及物体的数量），以及能感应到的最强气场的强度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**3rd Round:** The power of each Shadow aura in the area becomes clear.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T143206Z" creationid="quentine" creationdate="20190527T143021Z">
+        <seg>**第3轮：** 范围内每个气场的气场强度清晰可辨。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2935,6 +3007,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Feats:** Archaic Weapons Proficiency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T132859Z" creationid="quentine" creationdate="20190527T132859Z">
+        <seg>**专长：** 擅长古典武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Feats:** Combat Martial Arts, Defensive Martial Arts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T134751Z" creationid="quentine" creationdate="20190226T134751Z">
@@ -3316,6 +3396,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142511Z" creationid="quentine" creationdate="20190115T142351Z">
         <seg>**再次伤害：** 第二次豁免失败，英雄受到初次伤害第二天受到的伤害数目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Shadow Aura:** A creature of Shadow emanates an aura that links it to the supernatural dimension.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T143521Z" creationid="quentine" creationdate="20190527T143344Z">
+        <seg>**暗影气场：** 暗影生物散发出与超自然维度所相连的气场。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3988,6 +4076,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T125233Z">
         <seg>声望检定的数值为1d20+英雄的声望加值+GM角色的智力调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A Shadow Slayer is uncannily aware of the denizens of Shadow and the true nature of reality.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T135515Z" creationid="quentine" creationdate="20190527T135515Z">
+        <seg>暗影猎手拥有能够在现实世界感应到暗影生物的异能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6448,6 +6544,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Balance (Dex), Climb (Str), Concentration (Con), Gather Information (Cha), Intimidate (Cha), Jump (Str), Knowledge (current events, popular culture, streetwise) (Int), Listen (Wis), Profession (Wis), Read/Write Language (none), Sense Motive (Wis), Speak Language (none), Spot (Wis), Tumble (Dex).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T133738Z" creationid="quentine" creationdate="20190527T133738Z">
+        <seg>平衡（敏）、攀爬（力）、专注（体）、收集信息（魅）、威吓（魅）、跳跃（力）、知识（时事、流行文化、街头智慧）（智）、聆听（感）、专业（感）、读写语言（无）、察言观色（感）、口头语言（无）、侦察（感）、翻滚（敏）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Balance (Dex), Craft (mechanical) (Int), Drive (Dex), Escape Artist (Dex), Hide (Dex), Knowledge (current events, popular culture, streetwise) (Int), Move Silently (Dex), Pilot (Dex), Profession (Wis), Read/Write Language (none), Ride (Dex), Sleight of Hand (Dex), Speak Language (none), and Tumble (Dex).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T121103Z" creationid="quentine" creationdate="20190117T121103Z">
@@ -7581,6 +7685,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If an aura is outside the Slayer’s line of sight, then he discerns its direction but not its exact location.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T143314Z" creationid="quentine" creationdate="20190527T143314Z">
+        <seg>如果气场在暗影猎手视线外，暗影猎手只能感应到这个气场的方向，而不能感应位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If at any time the target breaks free or slips free of the grapple, the stranglehold is broken (although any damage that was dealt remains).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T135103Z" creationid="quentine" creationdate="20190115T135103Z">
@@ -7997,6 +8109,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the power of the strongest Shadow aura is “overwhelming,” and has a rating of at least twice the Shadow Slayer’s character level, the Slayer is stunned for 1 round and the use of this ability ends.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190601T130324Z" creationid="quentine" creationdate="20190527T141036Z">
+        <seg>如果最强暗影的`气场强度`是“凌厉”，并且`能级`大于等于暗影猎手角色等级的两倍，暗影猎手将陷入震慑状态1轮并中止感应。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the result of the d20 roll + the Modifiers equals or exceeds the Target Number, the test is successful.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T051206Z" creationid="QuenTine" creationdate="20181024T045752Z">
@@ -8317,6 +8437,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In most campaigns any creatures other than humans, animals, and vermin are considered denizens of Shadow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T135850Z" creationid="quentine" creationdate="20190527T135850Z">
+        <seg>在绝大多数冒险里，暗影生物指的是除了人类、动物、害虫之外的生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In normal climates, heroes need at least 1/2 gallon of fluids and about 1/4 pound of decent food per day to avoid the threat of starvation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132754Z" creationid="quentine" creationdate="20190115T132754Z">
@@ -8441,6 +8569,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190518T130317Z" creationid="quentine" creationdate="20190518T130317Z">
         <seg>制造物不可修理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It has a range of 30 feet and lasts as long as the Slayer concentrates, up to a number of rounds equal to the Slayer’s level in this advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T140246Z" creationid="quentine" creationdate="20190527T140246Z">
+        <seg>可以感应半径30尺内的范围，暗影猎手需处于专注，且最多能持续等同于本职等级数的轮数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8857,6 +8993,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190526T111250Z" creationid="quentine" creationdate="20190526T111250Z">
         <seg>指定后，这个技能按照明星职业的本职技能升级，不再属于原来的职业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once per day per the Slayer’s level in this advanced class, the Shadow Slayer can sense the presence of a denizen of Shadow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T135647Z" creationid="quentine" creationdate="20190527T135647Z">
+        <seg>暗影猎手能检测暗影生物的存在，每天能检测的次数等于本职业等级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10333,6 +10477,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Shadow Slayer gains 1d8 hit points per level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T133004Z" creationid="quentine" creationdate="20190527T133004Z">
+        <seg>暗影猎手每级获得1d8点生命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Shadow Slayer gains a number of action points equal to 6 + one-half his character level, rounded down, every time he attains a new level in this class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T133357Z" creationid="quentine" creationdate="20190527T133357Z">
+        <seg>暗影猎手在该职业升级时，获得6+角色等级一半数值的行动点，向下取整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Shadow Slayer’s class skills are as follows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T133424Z" creationid="quentine" creationdate="20190527T133424Z">
+        <seg>暗影猎手的本职技能如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Smart hero gets to add a bonus equal to his or her Smart level when making checks with that skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T135141Z" creationid="quentine" creationdate="20190201T135006Z">
@@ -10529,6 +10697,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143309Z" creationid="quentine" creationdate="20190115T143309Z">
         <seg>酸液的伤害量取决于酸的强度，如下表所示：酸性伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The amount of information gleaned by this uncanny awareness depends on how long the Slayer focuses his attention.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T140335Z" creationid="quentine" creationdate="20190527T140335Z">
+        <seg>能感应到的信息取决于已经持续感应的轮数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10861,6 +11037,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character’s Constitution modifier applies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T133037Z" creationid="quentine" creationdate="20190527T133037Z">
+        <seg>与角色的体质调整值共同作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character’s Constitution modifier is applied to the roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114438Z" creationid="quentine" creationdate="20190116T114438Z">
@@ -11133,6 +11317,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The following features pertain to the Shadow Slayer advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T135256Z" creationid="quentine" creationdate="20190527T135256Z">
+        <seg>以下是有关暗影猎手职业的专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The following features pertain to the Soldier advanced class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T133811Z" creationid="quentine" creationdate="20190222T133811Z">
@@ -11209,6 +11401,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190526T091730Z" creationid="quentine" creationdate="20190526T091730Z">
         <seg>以下是有关明星职业的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The following information pertains to the Shadow Slayer advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T132910Z" creationid="quentine" creationdate="20190527T132910Z">
+        <seg>以下是有关暗影猎手职业的信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11466,6 +11666,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190526T083012Z" creationid="quentine" creationdate="20190526T081120Z">
         <seg>玩家可以对联系人的类型提出需求，但联系人的角色只能是路人角色而不能是英雄角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The power of a Shadow aura depends on the type of creature or object emitting the aura and its Hit Dice or caster level.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T144305Z" creationid="quentine" creationdate="20190527T143718Z">
+        <seg>暗影气场的强度取决于散发气场的生物或物体的类型以及生命骰或者施法者等级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12584,6 +12792,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To qualify to become a Shadow Slayer, a character must fulfill the following criteria.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T132843Z" creationid="quentine" creationdate="20190527T132843Z">
+        <seg>要达到成为暗影猎手的资格，角色必须满足以下要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To qualify to become a Soldier, a character must fulfill the following criteria.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T134424Z" creationid="quentine" creationdate="20190221T134424Z">
@@ -12716,6 +12932,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T112630Z" creationid="QuenTine" creationdate="20181022T112630Z">
         <seg>产品识别的使用：你同意不使用任何产品识别，包括指示相容性，除非在与那个PI的每一个元素的所有者订立的另一个独立的协议中特许。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using this talent is an attack action that requires concentration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T135933Z" creationid="quentine" creationdate="20190527T135933Z">
+        <seg>这个专长的使用是一个攻击动作，需要专注。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13060,6 +13284,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T123500Z">
         <seg>这是美名还是臭名取决于认出者对英雄的看法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While stunned, the Slayer can’t act, he loses any Dexterity bonus to Defense, and attackers gain a +2 bonus on attacks made against him.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T142932Z" creationid="quentine" creationdate="20190527T142410Z">
+        <seg>暗影猎手若陷入震慑，将无法行动，防御时失去敏捷加成，攻击者攻击骰获得2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13964,6 +14196,36 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation bonus|
+|:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
+|1st|+1|+1|+1|+1|Detect Shadow|+1|+0|
+|2nd|+2|+2|+2|+2|Shadow immunity|+1|+0|
+|3rd|+3|+2|+2|+2|Bonus feat|+2|+0|
+|4th|+4|+2|+2|+2|Slayer weapon|+2|+0|
+|5th|+5|+3|+3|+3|Shadow enemy|+3|+1|
+|6th|+6|+3|+3|+3|Bonus feat|+3|+1|
+|7th|+7|+4|+4|+4|Shadow enemy|+4|+1|
+|8th|+8|+4|+4|+4|Fast healing|+4|+1|
+|9th|+9|+4|+4|+4|Bonus feat|+5|+2|
+|10th|+10|+5|+5|+5|Word of slaying|+5|+2|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T135235Z" creationid="quentine" creationdate="20190527T135235Z">
+        <seg>|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
+|:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
+|1st|+1|+1|+1|+1|探查暗影|+1|+0|
+|2nd|+2|+2|+2|+2|暗影免疫|+1|+0|
+|3rd|+3|+2|+2|+2|奖励专长|+2|+0|
+|4th|+4|+2|+2|+2|猎影武器|+2|+0|
+|5th|+5|+3|+3|+3|影之天敌|+3|+1|
+|6th|+6|+3|+3|+3|奖励专长|+3|+1|
+|7th|+7|+4|+4|+4|影之天敌|+4|+1|
+|8th|+8|+4|+4|+4|快速愈合|+4|+1|
+|9th|+9|+4|+4|+4|奖励专长|+5|+2|
+|10th|+10|+5|+5|+5|猎影之言|+5|+2|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Components|DC Modifier|
 |----------|-----------|
 |Frame Shape and Locomotion\*|
@@ -13994,6 +14256,24 @@
 |远程控制模块 100尺|+1|
 |远程控制模块 200尺|+3|
 |远程控制模块 300尺|+5|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Creature/Object|Rating|
+|---------------|------|
+|Outsider|HD|
+|Magic item or spell|Caster level x 1/2|
+|Aberration, construct, dragon, elemental, undead creature|HD x 1/2|
+|All other denizens of Shadow|HD x 1/5|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T144922Z" creationid="quentine" creationdate="20190527T143740Z">
+        <seg>|生物/物体|能级|
+|---------------|------|
+|异界生物类|生命骰|
+|魔法物品或法术|施法者等级 x 1/2|
+|异怪类、构装体类、龙类、元素类、不死生物类|生命骰 x 1/2|
+|其他暗影生物|生命骰 x 1/5|</seg>
       </tuv>
     </tu>
     <tu>
@@ -14102,6 +14382,24 @@
 |比当前财富加值高1-10点|1点|
 |比当前财富加值高11-15点|1d6点|
 |比当前财富加值高16点及以上|2d6点|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Rating|Aura Power|
+|------|----------|
+|1 or lower|Faint|
+|2–4|Moderate|
+|5–10|Strong|
+|11 or higher|Overwhelming|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190601T130345Z" creationid="quentine" creationdate="20190527T141950Z">
+        <seg>|能级|气场强度|
+|------|----------|
+|1或更低|微弱|
+|2–4|中等|
+|5–10|强烈|
+|11或更高|凌厉|</seg>
       </tuv>
     </tu>
     <tu>

@@ -1,83 +1,83 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
 
-# CAMPAIGN ADVANCE CLASSES
+# 战役高级职业
 
-## SHADOW SLAYER
+## 暗影猎手
 
 ### 要求
 
-To qualify to become a Shadow Slayer, a character must fulfill the following criteria.
+要达到成为暗影猎手的资格，角色必须满足以下要求。
 
 **基础攻击加值：** +3
 
-**Feats:** Archaic Weapons Proficiency.
+**专长：** 擅长古典武器。
 
 ### 职业信息
 
-The following information pertains to the Shadow Slayer advanced class.
+以下是有关暗影猎手职业的信息。
 
-#### Hit Die
+#### 生命骰
 
-The Shadow Slayer gains 1d8 hit points per level. The character’s Constitution modifier applies.
+暗影猎手每级获得1d8点生命。与角色的体质调整值共同作用。
 
-#### Action Points
+#### 行动点
 
-The Shadow Slayer gains a number of action points equal to 6 + one-half his character level, rounded down, every time he attains a new level in this class.
+暗影猎手在该职业升级时，获得6+角色等级一半数值的行动点，向下取整。
 
 ### 本职技能
 
-The Shadow Slayer’s class skills are as follows.
+暗影猎手的本职技能如下：
 
-Balance (Dex), Climb (Str), Concentration (Con), Gather Information (Cha), Intimidate (Cha), Jump (Str), Knowledge (current events, popular culture, streetwise) (Int), Listen (Wis), Profession (Wis), Read/Write Language (none), Sense Motive (Wis), Speak Language (none), Spot (Wis), Tumble (Dex).
+平衡（敏）、攀爬（力）、专注（体）、收集信息（魅）、威吓（魅）、跳跃（力）、知识（时事、流行文化、街头智慧）（智）、聆听（感）、专业（感）、读写语言（无）、察言观色（感）、口头语言（无）、侦察（感）、翻滚（敏）。
 
 **升级技能点数：** 3+智力调整值
 
-###Table: The Shadow Slayer
+### 职业列表
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation bonus|
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+1|+1|+1|+1|Detect Shadow|+1|+0|
-|2nd|+2|+2|+2|+2|Shadow immunity|+1|+0|
-|3rd|+3|+2|+2|+2|Bonus feat|+2|+0|
-|4th|+4|+2|+2|+2|Slayer weapon|+2|+0|
-|5th|+5|+3|+3|+3|Shadow enemy|+3|+1|
-|6th|+6|+3|+3|+3|Bonus feat|+3|+1|
-|7th|+7|+4|+4|+4|Shadow enemy|+4|+1|
-|8th|+8|+4|+4|+4|Fast healing|+4|+1|
-|9th|+9|+4|+4|+4|Bonus feat|+5|+2|
-|10th|+10|+5|+5|+5|Word of slaying|+5|+2|
+|1st|+1|+1|+1|+1|探查暗影|+1|+0|
+|2nd|+2|+2|+2|+2|暗影免疫|+1|+0|
+|3rd|+3|+2|+2|+2|奖励专长|+2|+0|
+|4th|+4|+2|+2|+2|猎影武器|+2|+0|
+|5th|+5|+3|+3|+3|影之天敌|+3|+1|
+|6th|+6|+3|+3|+3|奖励专长|+3|+1|
+|7th|+7|+4|+4|+4|影之天敌|+4|+1|
+|8th|+8|+4|+4|+4|快速愈合|+4|+1|
+|9th|+9|+4|+4|+4|奖励专长|+5|+2|
+|10th|+10|+5|+5|+5|猎影之言|+5|+2|
 
 ### 职业专长
 
-The following features pertain to the Shadow Slayer advanced class.
+以下是有关暗影猎手职业的专长。
 
-#### Detect Shadow
+#### 探查暗影
 
-A Shadow Slayer is uncannily aware of the denizens of Shadow and the true nature of reality. Once per day per the Slayer’s level in this advanced class, the Shadow Slayer can sense the presence of a denizen of Shadow. In most campaigns any creatures other than humans, animals, and vermin are considered denizens of Shadow. Using this talent is an attack action that requires concentration. It has a range of 30 feet and lasts as long as the Slayer concentrates, up to a number of rounds equal to the Slayer’s level in this advanced class.
+暗影猎手拥有能够在现实世界感应到暗影生物的异能。暗影猎手能检测暗影生物的存在，每天能检测的次数等于本职业等级。在绝大多数冒险里，暗影生物指的是除了人类、动物、害虫之外的生物。这个专长的使用是一个攻击动作，需要专注。可以感应半径30尺内的范围，暗影猎手需处于专注，且最多能持续等同于本职等级数的轮数。
 
-The amount of information gleaned by this uncanny awareness depends on how long the Slayer focuses his attention.
+能感应到的信息取决于已经持续感应的轮数。
 
-**1st Round:** Presence or absence of Shadow creatures.
+**第1轮：** 暗影生物的出现与消失。
 
-**2nd Round:** Number of Shadow auras (creatures or objects of Shadow) in the area and the power of the strongest Shadow aura present. If the power of the strongest Shadow aura is “overwhelming,” and has a rating of at least twice the Shadow Slayer’s character level, the Slayer is stunned for 1 round and the use of this ability ends. While stunned, the Slayer can’t act, he loses any Dexterity bonus to Defense, and attackers gain a +2 bonus on attacks made against him.
+**第2轮：** 范围内暗影气场的数量（暗影生物及物体的数量），以及能感应到的最强气场的强度。如果最强暗影的`气场强度`是“凌厉”，并且`能级`大于等于暗影猎手角色等级的两倍，暗影猎手将陷入震慑状态1轮并中止感应。暗影猎手若陷入震慑，将无法行动，防御时失去敏捷加成，攻击者攻击骰获得2点加值。
 
-**3rd Round:** The power of each Shadow aura in the area becomes clear. If an aura is outside the Slayer’s line of sight, then he discerns its direction but not its exact location.
+**第3轮：** 范围内每个气场的气场强度清晰可辨。如果气场在暗影猎手视线外，暗影猎手只能感应到这个气场的方向，而不能感应位置。
 
-**Shadow Aura:** A creature of Shadow emanates an aura that links it to the supernatural dimension. The power of a Shadow aura depends on the type of creature or object emitting the aura and its Hit Dice or caster level.
+**暗影气场：** 暗影生物散发出与超自然维度所相连的气场。暗影气场的强度取决于散发气场的生物或物体的类型以及生命骰或者施法者等级。
 
-|Creature/Object|Rating|
+|生物/物体|能级|
 |---------------|------|
-|Outsider|HD|
-|Magic item or spell|Caster level x 1/2|
-|Aberration, construct, dragon, elemental, undead creature|HD x 1/2|
-|All other denizens of Shadow|HD x 1/5|
+|异界生物类|生命骰|
+|魔法物品或法术|施法者等级 x 1/2|
+|异怪类、构装体类、龙类、元素类、不死生物类|生命骰 x 1/2|
+|其他暗影生物|生命骰 x 1/5|
 
-|Rating|Aura Power|
+|能级|气场强度|
 |------|----------|
-|1 or lower|Faint|
-|2–4|Moderate|
-|5–10|Strong|
-|11 or higher|Overwhelming|
+|1或更低|微弱|
+|2–4|中等|
+|5–10|强烈|
+|11或更高|凌厉|
 
 If an aura falls into more than one strength category (for instance, if a creature and a magic item are in the same place and each emits an aura), the ability indicates the stronger of the two.
 
@@ -162,11 +162,11 @@ To qualify to become an Occultist, a character must fulfill the following criter
 
 The following information pertains to the Occultist advanced class.
 
-#### Hit Die
+#### 生命骰
 
-The Occultist gains 1d6 hit points per level. The character’s Constitution modifier applies.
+The Occultist gains 1d6 hit points per level. 与角色的体质调整值共同作用。
 
-#### Action Points
+#### 行动点
 
 The Occultist gains a number of action points equal to 6 + one-half her character level, rounded down, every time she attains a new level in this class.
 
@@ -352,11 +352,11 @@ To qualify to become a Telepath, a character must fulfill the following criteria
 
 The following information pertains to the Telepath advanced class.
 
-#### Hit Die
+#### 生命骰
 
-The Telepath gains 1d6 hit points per level. The character’s Constitution modifier applies.
+The Telepath gains 1d6 hit points per level. 与角色的体质调整值共同作用。
 
-#### Action Points
+#### 行动点
 
 The Telepath gains a number of action points equal to 6 + one-half his character level, rounded down, every time he attains a new level in this class.
 
@@ -534,11 +534,11 @@ To qualify to become a Battle Mind, a character must fulfill the following crite
 
 The following information pertains to the Battle Mind advanced class.
 
-#### Hit Die
+#### 生命骰
 
-The Battle Mind gains 1d8 hit points per level. The character’s Constitution modifier applies.
+The Battle Mind gains 1d8 hit points per level. 与角色的体质调整值共同作用。
 
-#### Action Points
+#### 行动点
 
 The Battle Mind gains a number of action points equal to 6 + one-half her character level, rounded down, every time she attains a new level in this class.
 
@@ -699,11 +699,11 @@ To qualify to become a Mage, a character must fulfill the following criteria.
 
 The following information pertains to the Mage advanced class.
 
-#### Hit Die
+#### 生命骰
 
-The Mage gains 1d6 hit points per level. The character’s Constitution modifier applies.
+The Mage gains 1d6 hit points per level. 与角色的体质调整值共同作用。
 
-#### Action Points
+#### 行动点
 
 The Mage gains a number of action points equal to 6 + one-half his character level, rounded down, every time he attains a new level in this class.
 
@@ -962,11 +962,11 @@ An Acolyte needs her holy symbol in order to cast certain divine spells. It is a
 
 The following information pertains to the Acolyte advanced class.
 
-#### Hit Die
+#### 生命骰
 
-The Acolyte gains 1d8 hit points per level. The character’s Constitution modifier applies.
+The Acolyte gains 1d8 hit points per level. 与角色的体质调整值共同作用。
 
-#### Action Points
+#### 行动点
 
 The Acolyte gains a number of action points equal to 6 + one-half her character level, rounded down, every time she attains a new level in this class.
 

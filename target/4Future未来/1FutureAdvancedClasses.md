@@ -11,7 +11,7 @@ Allegiance: An Ambassador must pledge her primary allegiance to a faction, natio
 Class Information
 The following information pertains to the Ambassador advanced class.
 Hit Die
-The Ambassador gains 1d6 hit points per level. The character’s Constitution modifier applies.
+The Ambassador gains 1d6 hit points per level. 与角色的体质调整值共同作用。
 Action Points
 The Ambassador gains a number of action points equal to 6 + one-half her character level, rounded down, every time she attains a new level in this class.
 Class Skills
@@ -77,7 +77,7 @@ Base Reflex Save: +2.
 Class Information
 The following information pertains to the Dogfighter advanced class.
 Hit Die
-The Dogfighter gains 1d8 hit points per level. The character’s Constitution modifier applies.
+The Dogfighter gains 1d8 hit points per level. 与角色的体质调整值共同作用。
 Action Points
 The Dogfighter gains a number of action points equal to 6 + one-half his character level, rounded down, every time he attains a new level in this class.
 Class Skills
@@ -125,7 +125,7 @@ Tough Hero Talents: Any two Tough hero talents.
 Class Information
 The following information pertains to the Dreadnought advanced class.
 Hit Die
-The Dreadnought gains 1d12 hit points per level. The character’s Constitution modifier applies.
+The Dreadnought gains 1d12 hit points per level. 与角色的体质调整值共同作用。
 Action Points
 The Dreadnought gains a number of action points equal to 6 + one-half her character level, rounded down, every time she attains a new level in this class.
 Class Skills
@@ -181,7 +181,7 @@ Skills: Computer Use 6 ranks, Craft (electrical) 6 ranks, Craft (mechanical) 6 r
 Class Information
 The following information pertains to the Engineer advanced class.
 Hit Die
-The Engineer gains 1d6 hit points per level. The character’s Constitution modifier applies.
+The Engineer gains 1d6 hit points per level. 与角色的体质调整值共同作用。
 Action Points
 The Engineer gains a number of action points equal to 6 + one-half his character level, rounded down, every time he attains a new level in this class.
 Class Skills
@@ -289,7 +289,7 @@ Dedicated Hero Talent: Aware.
 Class Information
 The following information pertains to the Explorer advanced class.
 Hit Die
-The Explorer gains 1d8 hit points per level. The character’s Constitution modifier applies.
+The Explorer gains 1d8 hit points per level. 与角色的体质调整值共同作用。
 Action Points
 The Explorer gains a number of action points equal to 6 + one-half her character level, rounded down, every time she attains a new level in this class.
 Class Skills
@@ -355,7 +355,7 @@ Feat: Personal Firearms Proficiency.
 Class Information
 The following information pertains to the Field Officer advanced class.
 Hit Die
-The Field Officer gains 1d8 hit points per level. The character’s Constitution modifier applies.
+The Field Officer gains 1d8 hit points per level. 与角色的体质调整值共同作用。
 Action Points
 The Field Officer gains a number of action points equal to 6 + one-half his character level, rounded down, every time he attains a new level in this class.
 Class Skills
@@ -418,7 +418,7 @@ Feat: Endurance.
 Class Information
 The following information pertains to the Helix Warrior advanced class.
 Hit Die
-The Helix Warrior gains 1d10 hit points per level. The character’s Constitution modifier applies.
+The Helix Warrior gains 1d10 hit points per level. 与角色的体质调整值共同作用。
 Action Points
 The Helix Warrior gains a number of action points equal to 6 + one-half her character level, rounded down, every time she attains a new level in this class.
 Class Skills
@@ -474,7 +474,7 @@ Tough Hero Talent: Any one talent from the Unbreakable Talent Tree.
 Class Information
 The following information pertains to the Space Monkey advanced class.
 Hit Die
-The Space Monkey gains 1d10 hit points per level. The character’s Constitution modifier applies.
+The Space Monkey gains 1d10 hit points per level. 与角色的体质调整值共同作用。
 Action Points
 The Space Monkey gains a number of action points equal to 6 + one-half his character level, rounded down, every time he attains a new level in this class.
 Class Skills
@@ -527,7 +527,7 @@ Charismatic Hero Talents: Any two of the following talents: Charm, Coordinate, F
 Class Information
 The following information pertains to the Swindler advanced class.
 Hit Die
-The Swindler gains 1d6 hit points per level. The character’s Constitution modifier applies.
+The Swindler gains 1d6 hit points per level. 与角色的体质调整值共同作用。
 Action Points
 The Swindler gains a number of action points equal to 7 + one-half his character level, rounded down, every time he attains a new level in this class. (The Swindler’s ability to manipulate probability entitles him to a higher number of action points per class level than other advanced classes.)
 Class Skills
@@ -574,7 +574,7 @@ Skills: Computer Use 6 ranks, Craft (electrical or mechanical) 6 ranks, Disable 
 Class Information
 The following information pertains to the Technosavant advanced class.
 Hit Die
-The Technosavant gains 1d6 hit points per level. The character’s Constitution modifier applies.
+The Technosavant gains 1d6 hit points per level. 与角色的体质调整值共同作用。
 Action Points
 The Technosavant gains a number of action points equal to 6 + one-half her character level, rounded down, every time she attains a new level in this class.
 Class Skills
@@ -645,7 +645,7 @@ Feat: Track.
 Class Information
 The following information pertains to the Tracer advanced class.
 Hit Die
-The Tracer gains 1d8 hit points per level. The character’s Constitution modifier applies.
+The Tracer gains 1d8 hit points per level. 与角色的体质调整值共同作用。
 Action Points
 The Tracer gains a number of action points equal to 6 + one-half his character level, rounded down, every time he attains a new level in this class.
 Class Skills
@@ -697,7 +697,7 @@ Smart Hero Talent: Either linguist or exploit weakness.
 Class Information
 The following information pertains to the Xenophile advanced class.
 Hit Die
-The Xenophile gains 1d8 hit points per level. The character’s Constitution modifier applies.
+The Xenophile gains 1d8 hit points per level. 与角色的体质调整值共同作用。
 Action Points
 The Xenophile gains a number of action points equal to 6 + one-half her character level, rounded down, every time she attains a new level in this class.
 Class Skills

@@ -1284,7 +1284,7 @@ Feats: Mecha Operation.
 CLASS INFORMATION
 The following information pertains to the Mecha Jockey advanced class.
 Hit Die
-The Mecha Jockey gains 1d10 hit points per level. The character’s Constitution modifier applies.
+The Mecha Jockey gains 1d10 hit points per level. 与角色的体质调整值共同作用。
 Action Points
 The Mecha Jockey gains a number of action points equal to 6 + one-half his character level, rounded down, each time he attains a new level in this class.
 Class Skills
