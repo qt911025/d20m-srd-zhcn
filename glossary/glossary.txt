@@ -487,3 +487,22 @@ construct	构装体类
 dragon	龙类
 elemental	元素类
 undead	不死生物类
+Lingers	残留	气场（aura）的残留
+Shadow Slayer	暗影猎手
+natural	天生
+natural weapon	天生武器	生物自带的武器，比如爪子
+Exotic Firearms	异种火器
+empower	强效化
+magic weapon	魔化武器
+enhancement bonus	增强加值
+favored	专克	暗影猎手影之天敌专长，专克
+Fey	精类	一种生物种类
+Giant	巨人类
+Humanoid	类人生物类
+Lycanthrope	兽化人类
+Magical beast	魔法兽类
+Monstrous humanoid	人形怪物类
+restore	恢复
+Word of slaying	猎影之言
+attack action	攻击动作
+Hit Dice	生命骰

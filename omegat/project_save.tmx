@@ -1712,6 +1712,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#### Fast Healing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T142502Z" creationid="quentine" creationdate="20190611T142502Z">
+        <seg>#### 快速愈合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#### Fearless</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T114816Z" creationid="quentine" creationdate="20190421T114816Z">
@@ -1968,6 +1976,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>#### Shadow Enemy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T140750Z" creationid="quentine" creationdate="20190611T140719Z">
+        <seg>#### 影之天敌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Shadow Immunity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T133901Z" creationid="quentine" creationdate="20190611T133901Z">
+        <seg>#### 暗影免疫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>#### Sharp-Shooting</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T135328Z" creationid="quentine" creationdate="20190413T135328Z">
@@ -1988,6 +2012,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T233824Z" creationid="quentine" creationdate="20190417T233824Z">
         <seg>#### 稳定发挥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Slayer Weapon</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T135148Z" creationid="quentine" creationdate="20190611T135148Z">
+        <seg>#### 猎影武器</seg>
       </tuv>
     </tu>
     <tu>
@@ -2100,6 +2132,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190418T010145Z" creationid="quentine" creationdate="20190418T010145Z">
         <seg>#### 销声匿迹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#### Word of Slaying</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T143204Z" creationid="quentine" creationdate="20190611T143204Z">
+        <seg>#### 猎影之言</seg>
       </tuv>
     </tu>
     <tu>
@@ -2308,6 +2348,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190518T134039Z" creationid="quentine" creationdate="20190518T134039Z">
         <seg>### 职业列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(At 4th level, the enhancement bonus is +2.) This bonus allows the weapon to deal extra damage and to hurt creatures with damage reduction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T140317Z" creationid="quentine" creationdate="20190611T140027Z">
+        <seg>（即4级时，这个增强加值为+2），此加值让武器施加额外伤害，伤害到有伤害减免的生物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3245,6 +3293,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T035840Z" creationid="quentine" creationdate="20190202T035840Z">
         <seg>**直觉：**感知型英雄善于感知气氛中的紧张。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Length Aura Lingers:** How long a Shadow aura lingers after the creature or object has vacated the location depends on the aura’s original strength.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T132955Z" creationid="quentine" creationdate="20190611T132916Z">
+        <seg>**气场残留时间：** 生物或物品离开所处位置，该位置残留的气场持续的时间取决于刚离开时气场的初始强度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4650,6 +4706,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A dazed creature can’t act for 1d4 rounds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T143955Z" creationid="quentine" creationdate="20190611T143955Z">
+        <seg>眩晕的生物在1d4轮内无法行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A doctor can be a physician (general -practitioner or specialist), a surgeon, or a psychiatrist.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T132951Z" creationid="QuenTine" creationdate="20181104T132951Z">
@@ -4770,6 +4834,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A killed creature dies (if it is living) or is destroyed (if it is a construct or an undead).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T144208Z" creationid="quentine" creationdate="20190611T144208Z">
+        <seg>击杀生物将死亡（如果生物有生命）或摧毁（如果是构装体类或不死生物类）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A limit, if any, will be specified in the rules.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T131410Z" creationid="QuenTine" creationdate="20181103T131410Z">
@@ -4838,6 +4910,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123921Z" creationid="quentine" creationdate="20190115T123921Z">
         <seg>恐慌的角色会尽可能逃跑，如果无法逃跑，就会畏缩（见上文“畏缩”）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A paralyzed creature can’t move or act for 1d10 minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T144049Z" creationid="quentine" creationdate="20190611T144049Z">
+        <seg>麻痹的生物1d10分钟内无法移动或做其他动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4954,6 +5034,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A stunned creature is stunned for 2d4 rounds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T144020Z" creationid="quentine" creationdate="20190611T144020Z">
+        <seg>震慑的生物将被震慑2d4轮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A successful Reflex save indicates that the target takes half damage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140136Z" creationid="quentine" creationdate="20190115T140136Z">
@@ -5038,6 +5126,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143501Z" creationid="quentine" creationdate="20190115T143501Z">
         <seg>酸的攻击造成对生命值的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Acrobatic, Advanced Combat Martial Arts, Alertness, Cleave, Combat Reflexes, Defensive Martial Arts, Elusive Target, Exotic Melee Weapon Proficiency, Great Cleave, Power Attack, Unbalance Opponent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T135135Z" creationid="quentine" creationdate="20190611T134848Z">
+        <seg>杂技、高级实战武术、警觉、顺势斩、战斗反射、防御武术、凌波微步、擅长异种近战武器、强力顺势斩、猛力攻击、晃倒对手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5188,8 +5284,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>Advanced Firearms Proficiency, Archaic Weapons Proficiency, Armor Proficiency (light), Armor Proficiency (medium), Armor Proficiency (heavy), Brawl, Burst Fire, Cleave, Combat Reflexes, Exotic Firearms Proficiency, Exotic Melee Weapon Proficiency, Far Shot, Great Cleave, Im-proved Brawl, Improved Knockout Punch, Knockout Punch, Power Attack.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T130013Z" creationid="quentine" creationdate="20190226T125336Z">
-        <seg>高级擅长火器、擅长古典武器、擅长盔甲（轻型）、擅长盔甲（中型）、擅长盔甲（重型）、拳法、点射、顺势斩、战斗反射、擅长异种近战武器、远程射击、强力顺势斩、精通拳法、精通终结之拳、终结之拳、猛力攻击。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T135016Z" creationid="quentine" creationdate="20190226T125336Z">
+        <seg>高级擅长火器、擅长古典武器、擅长盔甲（轻型）、擅长盔甲（中型）、擅长盔甲（重型）、拳法、点射、顺势斩、战斗反射、擅长异种火器、擅长异种近战武器、远程射击、强力顺势斩、精通拳法、精通终结之拳、终结之拳、猛力攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5610,6 +5706,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An empowered weapon behaves like a magic weapon in the hands of the Shadow Slayer, providing an enhancement bonus equal to one-half of the Slayer’s level in this advanced class, rounded down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T135950Z" creationid="quentine" creationdate="20190611T135950Z">
+        <seg>在暗影猎手手上强效化的武器会像魔化武器一样，获得等于本职业等级一半（向下取整）的增强加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An empowered weapon only acts as an empowered weapon in the hands of the Shadow Slayer who empowered it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T140625Z" creationid="quentine" creationdate="20190611T140625Z">
+        <seg>强效化的武器只有握在施展者手中才能享受此增强加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An entangled character takes a –2 penalty on attack rolls in addition to a –4 penalty to Dexterity.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T122116Z" creationid="quentine" creationdate="20190115T122116Z">
@@ -5758,6 +5870,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T134432Z" creationid="QuenTine" creationdate="20181103T134432Z">
         <seg>任何活物均至少具有1点体质。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any melee weapon can be empowered by the Shadow Slayer, including the Shadow Slayer’s unarmed strikes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T140415Z" creationid="quentine" creationdate="20190611T140415Z">
+        <seg>任何近战武器都可以强效化，包括徒手击打。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6002,6 +6122,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 10th level, a Shadow Slayer comes into his full power.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T143322Z" creationid="quentine" creationdate="20190611T143322Z">
+        <seg>10级时，暗影猎手步入巅峰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At 10th level, a Soldier gains the ability to automatically confirm a threat as a critical hit when attacking with the weapon he or she has applied weapon specialization to, eliminating the need to make a roll to confirm the critical hit.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T134643Z" creationid="quentine" creationdate="20190226T133125Z">
@@ -6148,8 +6276,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>At 2nd level and higher, the Field Medic’s ability to restore hit points with a medical kit or surgery kit and a successful use of the Treat Injury skill improves.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190524T130104Z" creationid="quentine" creationdate="20190524T130104Z">
-        <seg>2级时，战地医生成功用急救箱或手术箱实施疗伤所回复的生命值将会提升。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T142911Z" creationid="quentine" creationdate="20190524T130104Z">
+        <seg>2级时，战地医生成功用急救箱或手术箱实施疗伤所恢复的生命值将会提升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6166,6 +6294,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190413T131353Z" creationid="quentine" creationdate="20190413T131353Z">
         <seg>2级时，枪手获得`专攻武器`职业专长，效果与同名一般专长相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 2nd level, a Shadow Slayer gains damage reduction against the natural weapons of the denizens of Shadow (claws, bite, and so on).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T134238Z" creationid="quentine" creationdate="20190611T134238Z">
+        <seg>2级时，暗影猎手能减免来自暗影生物的天生武器（如爪子、牙齿等）的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6322,6 +6458,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 3rd, 6th, and 9th level, the Shadow Slayer gets a bonus feat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T134554Z" creationid="quentine" creationdate="20190611T134554Z">
+        <seg>3、6、9级时，暗影猎手获得一个奖励专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At 3rd, 6th, and 9th level, the Soldier gets a bonus feat.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190222T135213Z" creationid="quentine" creationdate="20190222T135213Z">
@@ -6354,6 +6498,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At 4th level, a Shadow Slayer gains the ability to empower any melee weapon he wields.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T135443Z" creationid="quentine" creationdate="20190611T135443Z">
+        <seg>4级时，暗影猎手可以强效化所装备的近战武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At 4th level, an Investigator becomes adept at using nonlethal force to subdue an opponent.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190526T084823Z" creationid="quentine" creationdate="20190526T084823Z">
@@ -6366,6 +6518,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T142100Z" creationid="quentine" creationdate="20190226T142100Z">
         <seg>4级时，伤害骰是1d8。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At 5th and 7th level, a Shadow Slayer selects a type of Shadow creature as a favored enemy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T141553Z" creationid="quentine" creationdate="20190611T140857Z">
+        <seg>5级和7级时，暗影猎手选择一种类型的暗影生物，专克这类生物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6542,6 +6702,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T132000Z" creationid="quentine" creationdate="20190421T132000Z">
         <seg>8级时，表现加值升至2点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At each level after 5th, the Shadow Slayer may add +1 to the value of the bonus against each of his favored enemy types.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T141646Z" creationid="quentine" creationdate="20190611T141418Z">
+        <seg>5级后的每级，暗影猎手对每一类所专克的生物，获得的加值+1。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6766,6 +6934,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190518T140718Z" creationid="quentine" creationdate="20190518T140718Z">
         <seg>技师需花费1点行动点，并做一个制造（电力）或制造（机械）检定（取决于要提升的物品），来暂时提升一个机器的性能，这机器可能会因此坏掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By spending 1 action point and using an attack action, the Shadow Slayer can utter a word of power that can devastate creatures of Shadow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T143642Z" creationid="quentine" creationdate="20190611T143642Z">
+        <seg>暗影猎手花费1行动点和1个攻击动作，念出对暗影生物致命的咒语。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7111,6 +7287,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Due to his extensive study of these foes and training in the proper techniques for combating them, the Shadow Slayer gains a +1 bonus on Bluff, Listen, Search, Sense Motive, and Spot checks when using these skills against creatures of this type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T141234Z" creationid="quentine" creationdate="20190611T141234Z">
+        <seg>在针对性的研究和训练下，暗影猎手以这类目标进行唬骗、聆听、搜索、察言观色、侦察检定时获得1点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>END OF LICENSE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113503Z" creationid="QuenTine" creationdate="20181022T113503Z">
@@ -7131,6 +7315,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T085040Z" creationid="QuenTine" creationdate="20181104T085040Z">
         <seg>每个职业背景都会有大量永久性职业技能供角色选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each round, a Shadow Slayer can turn to detect the presence of Shadow in a new area.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T133612Z" creationid="quentine" creationdate="20190611T133204Z">
+        <seg>暗影猎手每一轮都能探查到在新位置出现的暗影，感应移动的气场来源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7299,6 +7491,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134252Z" creationid="QuenTine" creationdate="20181106T134252Z">
         <seg>每个物品和服务都有一个购买难度等级（DC）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Every round, the Shadow Slayer recovers a number of hit points equal to one-half his level in this advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T142953Z" creationid="quentine" creationdate="20190611T142556Z">
+        <seg>每一轮，暗影猎手恢复等于本职业等级一半的生命值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7551,6 +7751,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>He also gets a +1 bonus on weapon damage rolls against creatures of this type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T141332Z" creationid="quentine" creationdate="20190611T141322Z">
+        <seg>对这类生物的伤害骰也获得1点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>He of she applies the mastercraft ability to one of his or her Craft skills (electronic or mechanical).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190523T140200Z" creationid="quentine" creationdate="20190523T132942Z">
@@ -7739,6 +7947,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T123613Z" creationid="quentine" creationdate="20190114T123613Z">
         <seg>如果一次攻击仅通过接触攻击对角色造成伤害，角色不能算上装备加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If an aura falls into more than one strength category (for instance, if a creature and a magic item are in the same place and each emits an aura), the ability indicates the stronger of the two.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190610T141447Z" creationid="quentine" creationdate="20190610T115004Z">
+        <seg>如果气场的来源可分（比如一个生物和一个魔法物品在同一位置，都散发气场），探查暗影探查到的是较强者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8105,16 +8321,16 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>If the check succeeds, the dead character can make a Fortitude save (DC 15) to stabilize and be restored to 0 hit points.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190524T132733Z" creationid="quentine" creationdate="20190524T132045Z">
-        <seg>若检定成功，死亡角色进行一次强韧豁免（DC15）以稳定并直接回复至0生命。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T142938Z" creationid="quentine" creationdate="20190524T132045Z">
+        <seg>若检定成功，死亡角色进行一次强韧豁免（DC15）以稳定并直接恢复至0生命。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>If the check succeeds, the dead character can make a Fortitude save (DC 20) to stabilize and be restored to 1d6 hit points.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190524T132743Z" creationid="quentine" creationdate="20190524T132616Z">
-        <seg>若检定成功，死亡角色进行一次强韧豁免（DC20）以稳定并直接回复至1d6点生命。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T142943Z" creationid="quentine" creationdate="20190524T132616Z">
+        <seg>若检定成功，死亡角色进行一次强韧豁免（DC20）以稳定并直接恢复至1d6点生命。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8377,8 +8593,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>In addition to the normal hit point recovery rate (1d4 for a medical kit, 1d6 per patient’s character level for surgery), the Field Medic restores 1 hit point for every level he or she has in this advanced class.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190524T130600Z" creationid="quentine" creationdate="20190524T130600Z">
-        <seg>在一般的生命值回复率基础上（有急救箱1d4，病人每级角色等级1d6），每级战地医生等级额外回复1点生命值。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T143010Z" creationid="quentine" creationdate="20190524T130600Z">
+        <seg>在一般的生命值恢复率基础上（有急救箱1d4，病人每级角色等级1d6），每级战地医生等级额外恢复1点生命值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8739,6 +8955,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190523T130519Z" creationid="quentine" creationdate="20190523T130519Z">
         <seg>制造微型机器人需要30小时，而制造超小型机器人需要12小时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It takes a full-round action to empower a weapon.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T140431Z" creationid="quentine" creationdate="20190611T140431Z">
+        <seg>强效化需要一个整轮动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9617,6 +9841,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Shadow immunity doesn’t reduce the damage dealt by firearms, melee weapons, or hazardous effects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T134443Z" creationid="quentine" creationdate="20190611T134443Z">
+        <seg>暗影免疫不能减免火器、近战武器以及危险的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since Wealth is an abstract concept, it’s sometimes difficult to determine how financially well off a character is.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T133915Z" creationid="QuenTine" creationdate="20181106T133915Z">
@@ -9661,6 +9893,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134140Z" creationid="quentine" creationdate="20190115T134140Z">
         <seg>烟雾同样影响可见度，烟雾中的角色处于半隐藏状态，并有20%失手率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So, as an 8th-level Shadow Slayer, he recovers 4 hit points every round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T143103Z" creationid="quentine" creationdate="20190611T143103Z">
+        <seg>也就是说，8级时，暗影猎手每轮恢复4点生命值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9805,6 +10045,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190526T132746Z" creationid="quentine" creationdate="20190526T132730Z">
         <seg>5级时，谈判专家花费1行动点增强骰点结果时，可以额外掷1d6，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Starting at 8th level, a Shadow Slayer gains the ability of fast healing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T142514Z" creationid="quentine" creationdate="20190611T142514Z">
+        <seg>8级时，暗影猎手能快速愈合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10761,6 +11009,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The ability can penetrate barriers, but 1 foot of stone, 1 inch of metal, or 3 feet of wood or dirt blocks it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T133847Z" creationid="quentine" creationdate="20190611T133810Z">
+        <seg>探查能力能穿过障碍，但对于石质障碍穿深只有1尺、金属障碍穿深只有1寸、木质或泥土穿深为3尺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The allegiances system is optional.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T141647Z" creationid="QuenTine" creationdate="20181103T141638Z">
@@ -10892,6 +11148,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
         <seg>The bonus feat must be selected from the following list, and the Personality must meet all the prerequisites of the feat to select it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190526T111314Z" creationid="quentine" creationdate="20190526T111314Z">
+        <seg>奖励专长必须从下表中选择，在选择时必须满足该专长的要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The bonus feat must be selected from the following list, and the Shadow Slayer must meet all the prerequisites of the feat to select it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T134604Z" creationid="quentine" creationdate="20190611T134604Z">
         <seg>奖励专长必须从下表中选择，在选择时必须满足该专长的要求。</seg>
       </tuv>
     </tu>
@@ -11241,6 +11505,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The damage reduction is equal to one-half of the Slayer’s level in this advanced class, rounded down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T134538Z" creationid="quentine" creationdate="20190611T134538Z">
+        <seg>伤害减免的量等于本职业等级的一半，向下取整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The die type used by characters of the class to determine the number of hit points gained per level.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114401Z" creationid="quentine" creationdate="20190116T114401Z">
@@ -11293,6 +11565,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190526T115814Z" creationid="quentine" creationdate="20190526T115744Z">
         <seg>目标必须是一个GM角色，处在明星15尺范围内（或处在能传播明星的表演的媒介如电视、广播、电话的15尺内）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The enhancement bonus lasts for a number of rounds equal to the Shadow Slayer’s level in this advanced class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T140738Z" creationid="quentine" creationdate="20190611T140710Z">
+        <seg>增强加值持续的轮数等于暗影猎手的本职业等级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11590,6 +11870,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T042719Z" creationid="quentine" creationdate="20190202T042719Z">
         <seg>英雄在所有的医疗技能检定上都有两点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ill effects depend on the Hit Dice of the creatures, as shown below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T143832Z" creationid="quentine" creationdate="20190611T143832Z">
+        <seg>杀伤效果取决于生物的生命骰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12039,6 +12327,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141909Z" creationid="quentine" creationdate="20190115T141909Z">
         <seg>角色必须在接触带病体、触碰沾有病原的物体、摄入病原污染的饮食或受到带污染的攻击时，进行这样的检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The word of slaying affects any denizens of Shadow within 15 feet of the Slayer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T143732Z" creationid="quentine" creationdate="20190611T143732Z">
+        <seg>暗影之言将杀伤15尺内的暗影生物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13254,8 +13550,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>When temporary hit points are lost, they can’t be restored as real hit points can be, even with medical treatment or magic.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113958Z" creationid="quentine" creationdate="20190115T113958Z">
-        <seg>当损失了临时生命值，它们不能像真实的生命值那样回复，即使使用医疗或者魔法都不可以。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T142848Z" creationid="quentine" creationdate="20190115T113958Z">
+        <seg>当损失了临时生命值，它们不能像真实的生命值那样恢复，即使使用医疗或者魔法都不可以。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14408,6 +14704,24 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|HD|Effect|
+|--|------|
+|12 or more|Dazed|
+|8–11|Stunned|
+|4–7|Paralyzed|
+|3 or less|Killed|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T143934Z" creationid="quentine" creationdate="20190611T143934Z">
+        <seg>|生命骰|效果|
+|--|------|
+|12及以上|眩晕|
+|8–11|震慑|
+|4–7|麻痹|
+|3及以下|击杀|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Improvement|Craft DC|Repair Chance (d%)|
 |-----------|--------|------------------|
 |Ranged Weapons|
@@ -14492,6 +14806,24 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Original Aura Power|Duration|
+|-------------------|--------|
+|Faint|1d6 minutes|
+|Moderate|1d6 x 10 minutes|
+|Strong|1d6 hours|
+|Overwhelming|1d6 days|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T133119Z" creationid="quentine" creationdate="20190611T133119Z">
+        <seg>|气场初始强度|持续时间|
+|-------------------|--------|
+|微弱|1d6 分钟|
+|中等|1d6 x 10 分钟|
+|强烈|1d6 小时|
+|凌厉|1d6 天|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Rating|Aura Power|
 |------|----------|
 |1 or lower|Faint|
@@ -14506,6 +14838,40 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |2–4|中等|
 |5–10|强烈|
 |11或更高|凌厉|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Shadow Enemy Type|
+|-----------------|
+|Aberration|
+|Construct|
+|Dragon|
+|Elemental|
+|Fey|
+|Giant|
+|Humanoid|
+|Lycanthrope|
+|Magical beast|
+|Monstrous humanoid|
+|Outsider|
+|Undead|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T142450Z" creationid="quentine" creationdate="20190611T142450Z">
+        <seg>|暗影生物类型|
+|-----------------|
+|异怪类|
+|构装体类|
+|龙类|
+|元素类|
+|精类|
+|巨人类|
+|类人生物类|
+|兽化人类|
+|魔法兽类|
+|人形怪物类|
+|异界生物类|
+|不死生物类|</seg>
       </tuv>
     </tu>
     <tu>
