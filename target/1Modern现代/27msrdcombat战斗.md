@@ -140,7 +140,7 @@ Feats: Some feats give a bonus to a character’s Defense.
 
 有的攻击无视护甲。这种情况下，攻击方需要进行接触攻击投掷（远程接触攻击或近战接触攻击）。The attacker makes his or her attack roll as normal, but a character’s Defense does not include any equipment bonus or armor bonus. 其他调整值，如职业加值、敏捷调整值和体型调整值照常计算。
 
-## Hit Points
+## 生命值
 
 A character’s hit points tell how much punishment he or she can take before dropping. Hit points are based on the character’s class and level, and the character’s Constitution modifier applies.
 

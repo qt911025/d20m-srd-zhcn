@@ -506,3 +506,132 @@ restore	恢复
 Word of slaying	猎影之言
 attack action	攻击动作
 Hit Dice	生命骰
+OCCULTIST	术士
+Smart hero	智力型英雄
+STRONG HERO	力量型英雄
+TOUGH HERO	体质型英雄
+FAST HERO	敏捷型英雄
+DEDICATED HERO	感知型英雄
+CHARISMATIC HERO	魅力型英雄
+Use Magic Device	使用魔法装置
+Arcane skills	秘法技能
+scrolls	卷轴
+Bind	束缚
+Bind Shadow creature	束缚暗影生物
+Banish	驱除
+normal	一般
+Try Again	重试
+Special	特别
+distraction	分心
+lost	丧失
+defensively	防御姿态
+wand	魔杖
+spellbook	法术书
+read a spell	解读施放	解读写好的法术，解读后这个法术会施放出来
+activate	启动
+emulate	模仿
+Activate blindly	盲目启用
+Decipher a written spell	解读写好了的法术
+Emulate class feature	模仿职业专长
+Emulate ability score	模仿属性值
+Emulate allegiance	模仿立场
+Use a scroll	使用卷轴
+mishap	严重失误
+Spellcraft	辨识法术
+Mage	法师
+divine	神术
+scribe scroll	抄录卷轴
+Shadow contact	暗影联系
+contact	联系人
+HD	生命骰	基础生命上限
+vermin	虫类
+animal	动物
+type	种类
+outward attitude	公开态度
+inward	内心
+wondrous item	奇物
+magic	魔化	做形容词修饰武器、盔甲时为“魔化”
+Shadow dimension	暗影位面
+dimension	位面
+TELEPATH	异能者
+Wild Talent	特异功能
+Autohypnosis	自我催眠
+Psicraft	辨识灵能
+Psionic skills	灵能技能
+Psionic	灵能
+psionic powers	灵力
+Trigger power	触发灵力
+Combat manifestation	战斗释放
+Maximize power	极效灵力
+Resist fear	抵御恐惧
+Memorize	记忆
+Tolerate poison	忍耐毒素
+Willpower	坚定意志
+8 1/2-by-11-inch sheet of paper	8.5乘11英寸大小的纸	美制A4纸的大小
+secondary damage	再次伤害
+manifest	释放灵力
+power level	灵力等级
+move action	移动动作
+Telepath	异能者
+psionic effect	灵能效果
+power point	灵力点数
+Power crystal	灵力水晶
+encode	灌注	将灵力灌注至灵力水晶
+maximum effect	极效	极效的灵力
+Battle Mind	灵战士
+Psi-blade	灵能战刃
+imprint tattoo	刻印文身
+Psychic shield	灵能护盾
+Ultimate psi-blade	终极灵能战刃
+piercing damage	穿刺伤害
+experience point	经验值
+summon familiar	召唤魔宠
+familiar	魔宠
+brew potion	调制药水
+potion	药水
+Scribe tattoo	书写文身
+Spell mastery	法术熟稔
+Combat casting	战斗施法
+Maximize spell	极效法术
+alchemy	炼金术
+detect magical aura	侦测魔法气场
+school	学派
+read magic	阅读魔法
+reaction	反应	反应，不需要动作
+master	主人	魔宠的主人
+Familiar Qualities	魔宠品质
+touch range spell	远程接触法术
+Empathic Link	情感连接
+Share Spells	共享法术
+Familiar’s Intelligence	魔宠智力
+Natural Armor	天生护甲
+deliver touch spells	传递接触法术
+touch spell	接触法术
+cast	施展（法术）
+dissipates	消散
+Ferret	鼬
+Hawk	猎鹰
+viper	毒蛇
+target of the spell	受术者
+FX Abilities	超自然能力
+Holy Symbol	神符
+turn	驱散	驱散不死生物
+rebuke	斥喝	斥喝（不死生物）
+Turn or rebuke undead	驱散或斥喝不死生物
+Spontaneous cast	自发施法
+Turn or rebuke	驱散或斥喝
+zombies	僵尸
+skeletons	骷髅
+ghosts	幽魂
+vampires	吸血鬼
+total cover	完全掩蔽
+mental control	心灵控制
+Dispel Turning	解除驱散
+Bolster Undead	鼓舞不死生物
+cure spell	治疗法术
+inflict spell	造成伤害法术
+Ordinaries	路人
+Challenge Rating	挑战等级
+allies	盟友
+antagonists	对手
+Heroic supporting character	英雄非玩家角色

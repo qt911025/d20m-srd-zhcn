@@ -813,7 +813,7 @@ The Mage’s key characteristic is the ability to cast arcane spells. He is limi
 
 The Mage must prepare spells ahead of time by resting for 8 hours and spending 1 hour studying his spellbook. While studying, the Mage decides which spells to prepare. To learn, prepare, or cast a spell, the Mage must have an Intelligence score of at least 10 + the spell’s level.
 
-A Mage can prepare a lower-level spell in place of a higher-level one if he desires. place.
+A Mage can prepare a lower-level spell in place of a higher-level one if he desires place.
 
 The Difficulty Class for saving throws to resist the effects of a Mage’s spells is 10 + the spell’s level + the Mage’s Intelligence modifier.
 

@@ -1,59 +1,59 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
 
-# ORDINARIES
+# 路人
 
-“Ordinaries” are nonheroic supporting characters and extras.  Ordinaries are built using the six basic classes (Strong, Fast, Tough, Smart, Dedicated, and Charismatic) and have starting occupations, skills, and feats. As they gain levels, ordinaries increase their skill points, base attack bonus, saving throw modifiers, Defense bonus, and Reputation bonus—just as heroes do. However, ordinaries differ from heroes in several ways.
+“路人”指不具英雄特有功能的角色以及其他实体。路人角色的建立都是从六大基本职业（力量型、敏捷型、体质型、智力型、感知型和魅力型），并拥有起始职业背景、技能和专长。路人升级时也增加技能点、基础攻击加值、豁免加值、防御加值，以及声望加值——这些和英雄一样。但是，路人有几点与英雄不同。
 
-An ordinary character has:
+路人角色：
 
-* The standard starting ability score package
-* Random starting hit points
-* No action points
-* No class features
-* No levels in an advanced class
+* 有一套固定的待分配起始属性点
+* 起始生命值是随机的
+* 没有行动点
+* 没有职业专长
+* 没有高级职业
 
-## Starting Ability Scores
+## 起始属性点
 
-Ordinaries do not roll their ability scores. They start with the standard score package: 15, 14, 13, 12, 10, 8. The GM can assign the scores as he or she sees fit. At 4th level and every four character levels thereafter (8th, 12th, and so on), an ordinary adds 1 point to one ability score—just as heroes do.
+路人不通过投掷来分配属性点。他们们是有一定数量的待分配属性值：15、14、13、12、10、8。GM酌情分配这些点数加到属性值上。4级时以及之后每升4级（8级、12级等等）、路人可加1点属性点——和英雄一样。
 
-## Hit Points
+## 生命值
 
-Unlike heroes, ordinaries do not automatically receive maximum hit points at 1st level. The GM should roll an ordinary’s starting hit points normally.
+与英雄不同的是，1级时路人的最大生命值不取骰点的最大值。GM应照常掷骰以决定1级时的生命值上限。
 
-## Action Points
+## 行动点
 
-Unlike heroes, ordinary characters do not receive action points. They do not gain action points as they increase in level, either.
+与英雄不同的是，路人不会获得行动点。他们升级时也不会获得行动点。
 
-## Class Features
+## 职业专长
 
-Ordinary characters gain none of the Class Features (talents or bonus feats) listed under each basic class.
+路人不会获得基础职业里列出的任何职业专长，无论是天赋还是奖励专长。
 
-## Advanced Classes
+## 高级职业
 
-Although ordinaries can multiclass freely between the six basic classes, they cannot take levels in any advanced class. Ordinaries are limited to the six basic classes.
+虽然路人可以在基础职业间自由地跨职，但他们无法在高级职业上获得任何等级。路人只限于在基础职业上获得等级。
 
-## Children
+## 儿童
 
-Children (newborns to age 11) are handled differently from other characters. They do not have classes or levels. They begin with the same ability score package as ordinaries (15, 14, 13, 12, 10, 8), but their ability scores are reduced as follows: –3 Str, –1 Dex, –3 Con, –1 Int, –1 Wis, –1 Cha.
+儿童（新生儿到11岁）的机制与其他角色不同。他们没有职业或等级。他们拥有和路人一样的待分配属性值（15、14、13、12、10、8），但属性点降至：-3力、-1敏、-3体、-1智、-1感、-1魅。
 
-Children have 1d4 hit points plus their Constitution modifier (minimum 1 hit point). They have no skills, feats, action points, or occupations. Their base attack bonus is +0, they have a +0 modifier on all saving throws (plus any modifiers for high or low ability scores), and their Reputation bonus is +0. Children have a +0 modifier to Defense and a normal speed of 20 feet. Children have no effective attacks and should be treated as noncombatants.
+儿童有1d4+体质调整值的生命值（至少1点）。他们没有技能、专长、行动点、职业背景。他们的基础攻击加值为0，所有豁免骰有0点调整值（加上任何高或低属性的属性调整值），还有他们的声望加值为0。儿童的防御有0点调整值，有20尺的基础移动速度。儿童没有攻击效果，应视为非战斗人员。
 
-When a child turns 12, he or she is considered a young adult and takes his or her first level in one of the six basic classes. At that point, the character becomes an ordinary (or hero, in some cases).
+当儿童到了12岁，将视为青少年，将获得第一个基础职业等级。此时，角色将成为一个路人（或者英雄，看情况）。
 
-## Challenge Ratings
+## 挑战等级
 
-An ordinary character has a Challenge Rating equal to his or her character level –1. A 1st-level ordinary has a Challenge Rating of 1/2.
+路人角色拥有等于其角色等级-1的挑战等级。1级路人的挑战等级是1/2。
 
-Children have a Challenge Rating of 0, and heroes receive no experience points for “defeating” them.
+儿童的挑战等级为0，英雄“打败”他们不会获得任何经验值。
 
-## Heroic GM Characters
+## 英雄GM角色
 
-Heroic allies and antagonists are built the same way as heroic player characters. Challenge Rating: A heroic supporting character has a Challenge Rating equal to his or her character level.
+英雄角色盟友和对手的角色建立过程与英雄玩家角色相同。挑战等级：英雄非玩家角色的挑战等级等于其角色等级。
 
-**Hit Points:** Heroic supporting characters gain maximum hit points at 1st level, just as heroic player characters do.
+**生命值：** 英雄非玩家角色1级时获得的生命值取最大值，与英雄玩家角色相同。
 
-**Action Points:** Heroic supporting characters gain action points. However, few of them have the maximum number of action points for their level (because they will have spent some of them). Assume that a heroic supporting character has a number of action points remaining equal to one-half his or her class level.
+**行动点：** 英雄非玩家角色也能获得行动点。然而，他们只有极少数的行动点是满的（因为他们在冒险中总不可能一点行动点都没花）。一般认为英雄非玩家角色登场时只有其等级一半的行动点。
 
-**Class Features:** Heroic supporting characters gain all the class features (talents and bonus feats) available to the six basic heroic classes.
+**职业专长：** 英雄非玩家角色能获得六大基础角色中的所有可获得的职业专长（天赋以及奖励专长）。
 
-**Access to Advanced Classes:** Supporting characters with levels in one or more heroic basic classes can take levels in an advanced class, provided they meet the prerequisites for that class.
+**成为高级职业：** 英雄非玩家角色只要在基础角色上有等级，且满足高级职业的要求，就可以在高级职业上获得等级。

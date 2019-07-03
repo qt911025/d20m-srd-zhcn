@@ -53,7 +53,7 @@
 
 #### 探查暗影
 
-暗影猎手拥有能够在现实世界感应到暗影生物的异能。暗影猎手能检测暗影生物的存在，每天能检测的次数等于本职业等级。在绝大多数冒险里，暗影生物指的是除了人类、动物、害虫之外的生物。这个专长的使用是一个攻击动作，需要专注。可以感应半径30尺内的范围，暗影猎手需处于专注，且最多能持续等同于本职等级数的轮数。
+暗影猎手拥有能够在现实世界感应到暗影生物的异能。暗影猎手能检测暗影生物的存在，每天能检测的次数等于本职业等级。在绝大多数冒险里，暗影生物指的是除了人类、动物、虫类之外的生物。这个专长的使用是一个攻击动作，需要专注。可以感应半径30尺内的范围，暗影猎手需处于专注，且最多能持续等同于本职等级数的轮数。
 
 能感应到的信息取决于已经持续感应的轮数。
 
@@ -79,214 +79,214 @@
 |5–10|强烈|
 |11或更高|凌厉|
 
-If an aura falls into more than one strength category (for instance, if a creature and a magic item are in the same place and each emits an aura), the ability indicates the stronger of the two.
+如果气场的来源可分（比如一个生物和一个魔法物品在同一位置，都散发气场），探查暗影探查到的是较强者。
 
-**Length Aura Lingers:** How long a Shadow aura lingers after the creature or object has vacated the location depends on the aura’s original strength.
+**气场残留时间：** 生物或物品离开所处位置，该位置残留的气场持续的时间取决于刚离开时气场的初始强度。
 
-|Original Aura Power|Duration|
+|气场初始强度|持续时间|
 |-------------------|--------|
-|Faint|1d6 minutes|
-|Moderate|1d6 x 10 minutes|
-|Strong|1d6 hours|
-|Overwhelming|1d6 days|
+|微弱|1d6 分钟|
+|中等|1d6 x 10 分钟|
+|强烈|1d6 小时|
+|凌厉|1d6 天|
 
-Each round, a Shadow Slayer can turn to detect the presence of Shadow in a new area. The ability can penetrate barriers, but 1 foot of stone, 1 inch of metal, or 3 feet of wood or dirt blocks it.
+暗影猎手每一轮都能探查到在新位置出现的暗影，感应移动的气场来源。探查能力能穿过障碍，但对于石质障碍穿深只有1尺、金属障碍穿深只有1寸、木质或泥土穿深为3尺。
 
-#### Shadow Immunity
+#### 暗影免疫
 
-At 2nd level, a Shadow Slayer gains damage reduction against the natural weapons of the denizens of Shadow (claws, bite, and so on). Shadow immunity doesn’t reduce the damage dealt by firearms, melee weapons, or hazardous effects. The damage reduction is equal to one-half of the Slayer’s level in this advanced class, rounded down.
+2级时，暗影猎手能减免来自暗影生物的天生武器（如爪子、牙齿等）的伤害。暗影免疫不能减免火器、近战武器以及危险的效果。伤害减免的量等于本职业等级的一半，向下取整。
 
 #### 奖励专长
 
-At 3rd, 6th, and 9th level, the Shadow Slayer gets a bonus feat. The bonus feat must be selected from the following list, and the Shadow Slayer must meet all the prerequisites of the feat to select it.
+3、6、9级时，暗影猎手获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
 
-Acrobatic, Advanced Combat Martial Arts, Alertness, Cleave, Combat Reflexes, Defensive Martial Arts, Elusive Target, Exotic Melee Weapon Proficiency, Great Cleave, Power Attack, Unbalance Opponent.
+杂技、高级实战武术、警觉、顺势斩、战斗反射、防御武术、凌波微步、擅长异种近战武器、强力顺势斩、猛力攻击、晃倒对手。
 
-#### Slayer Weapon
+#### 猎影武器
 
-At 4th level, a Shadow Slayer gains the ability to empower any melee weapon he wields. An empowered weapon behaves like a magic weapon in the hands of the Shadow Slayer, providing an enhancement bonus equal to one-half of the Slayer’s level in this advanced class, rounded down. (At 4th level, the enhancement bonus is +2.) This bonus allows the weapon to deal extra damage and to hurt creatures with damage reduction.
+4级时，暗影猎手可以强效化所装备的近战武器。在暗影猎手手上强效化的武器会像魔化武器一样，获得等于本职业等级一半（向下取整）的增强加值。（即4级时，这个增强加值为+2），此加值让武器施加额外伤害，伤害到有伤害减免的生物。
 
-Any melee weapon can be empowered by the Shadow Slayer, including the Shadow Slayer’s unarmed strikes. It takes a full-round action to empower a weapon. An empowered weapon only acts as an empowered weapon in the hands of the Shadow Slayer who empowered it. The enhancement bonus lasts for a number of rounds equal to the Shadow Slayer’s level in this advanced class.
+任何近战武器都可以强效化，包括徒手击打。强效化需要一个整轮动作。强效化的武器只有握在施展者手中才能享受此增强加值。增强加值持续的轮数等于暗影猎手的本职业等级。
 
-#### Shadow Enemy
+#### 影之天敌
 
-At 5th and 7th level, a Shadow Slayer selects a type of Shadow creature as a favored enemy. Due to his extensive study of these foes and training in the proper techniques for combating them, the Shadow Slayer gains a +1 bonus on Bluff, Listen, Search, Sense Motive, and Spot checks when using these skills against creatures of this type. He also gets a +1 bonus on weapon damage rolls against creatures of this type.
+5级和7级时，暗影猎手选择一种类型的暗影生物，专克这类生物。在针对性的研究和训练下，暗影猎手以这类目标进行唬骗、聆听、搜索、察言观色、侦察检定时获得1点加值。对这类生物的伤害骰也获得1点加值。
 
-At each level after 5th, the Shadow Slayer may add +1 to the value of the bonus against each of his favored enemy types.
+5级后的每级，暗影猎手对每一类所专克的生物，获得的加值+1。
 
-|Shadow Enemy Type|
+|暗影生物类型|
 |-----------------|
-|Aberration|
-|Construct|
-|Dragon|
-|Elemental|
-|Fey|
-|Giant|
-|Humanoid|
-|Lycanthrope|
-|Magical beast|
-|Monstrous humanoid|
-|Outsider|
-|Undead|
+|异怪类|
+|构装体类|
+|龙类|
+|元素类|
+|精类|
+|巨人类|
+|类人生物类|
+|兽化人类|
+|魔法兽类|
+|人形怪物类|
+|异界生物类|
+|不死生物类|
 
-#### Fast Healing
+#### 快速愈合
 
-Starting at 8th level, a Shadow Slayer gains the ability of fast healing. Every round, the Shadow Slayer recovers a number of hit points equal to one-half his level in this advanced class. So, as an 8th-level Shadow Slayer, he recovers 4 hit points every round.
+8级时，暗影猎手能快速愈合。每一轮，暗影猎手恢复等于本职业等级一半的生命值。也就是说，8级时，暗影猎手每轮恢复4点生命值。
 
-#### Word of Slaying
+#### 猎影之言
 
-At 10th level, a Shadow Slayer comes into his full power. By spending 1 action point and using an attack action, the Shadow Slayer can utter a word of power that can devastate creatures of Shadow. The word of slaying affects any denizens of Shadow within 15 feet of the Slayer. The ill effects depend on the Hit Dice of the creatures, as shown below.
+10级时，暗影猎手步入巅峰。暗影猎手花费1行动点和1个攻击动作，念出对暗影生物致命的咒语。暗影之言将杀伤15尺内的暗影生物。杀伤效果取决于生物的生命骰。
 
-|HD|Effect|
+|生命骰|效果|
 |--|------|
-|12 or more|Dazed|
-|8–11|Stunned|
-|4–7|Paralyzed|
-|3 or less|Killed|
+|12及以上|眩晕|
+|8–11|震慑|
+|4–7|麻痹|
+|3及以下|击杀|
 
-A dazed creature can’t act for 1d4 rounds. A stunned creature is stunned for 2d4 rounds. A paralyzed creature can’t move or act for 1d10 minutes. A killed creature dies (if it is living) or is destroyed (if it is a construct or an undead).
+眩晕的生物在1d4轮内无法行动。震慑的生物将被震慑2d4轮。麻痹的生物1d10分钟内无法移动或做其他动作。击杀生物将死亡（如果生物有生命）或摧毁（如果是构装体类或不死生物类）。
 
-## OCCULTIST
+## 术士
 
-The fastest path into this advanced class is from the Smart hero basic class, though other paths are possible.
+成为法师的捷径是从智力型英雄玩起，当然其他途径也是允许的。
 
 ### 要求
 
-To qualify to become an Occultist, a character must fulfill the following criteria.
+要达到成为术士的资格，角色必须满足以下要求。
 
-**Skills:** Decipher Script 6 ranks, Knowledge (arcane lore) 6 ranks, Research 6 ranks.
+**技能：** 文件解读6级、知识（秘法学识）6级、研究6级。
 
-**Feats:** Educated, Studious.
+**专长：** 良好教育、好学。
 
 ### 职业信息
 
-The following information pertains to the Occultist advanced class.
+以下是有关术士职业的信息。
 
 #### 生命骰
 
-The Occultist gains 1d6 hit points per level. 与角色的体质调整值共同作用。
+术士每级获得1d6点生命。与角色的体质调整值共同作用。
 
 #### 行动点
 
-The Occultist gains a number of action points equal to 6 + one-half her character level, rounded down, every time she attains a new level in this class.
+术士在该职业升级时，获得6+角色等级一半数值的行动点，向下取整。
 
 ### 本职技能
 
-The Occultist’s class skills are as follows.
+术士的本职技能如下：
 
-Craft (visual arts, writing) (Int), Decipher Script (Int), Drive (Dex), Escape Artist (Dex), Forgery (Int), Investigate (Int), Knowledge (arcane lore, history, theology and philosophy) (Int), Profession (Wis), Read/Write Language (none), Re- search (Int), Sleight of Hand (Dex), Speak Language (none), Use Magic Device (Cha).
+制造（视觉艺术、写作）（智）、文件解读（智）、驾驶（敏）、脱逃（敏）、伪造文书（智）、调查（智）、知识（秘法学识、历史、神学与哲学）（智）、专业（感）、读写语言（无）、研究（智）、手上功夫（敏）、口头语言（无）、使用魔法装置（魅）。
 
 **升级技能点数：** 5+智力调整值
 
-###Table: The Occultist
+### 职业列表
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation bonus|
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+0|+0|+0|+1|Arcane skills, spell resistance|+0|+0|
-|2nd|+1|+0|+0|+2|Arcane research (scrolls)|+1|+0|
-|3rd|+1|+1|+1|+2|Bonus feat|+1|+1|
-|4th|+2|+1|+1|+2|Shadow contact|+1|+1|
-|5th|+2|+1|+1|+3|Bind Shadow creature|+2|+1|
-|6th|+3|+2|+2|+3|Bonus feat|+2|+2|
-|7th|+3|+2|+2|+4|Arcane research (items)|+2|+2|
-|8th|+4|+2|+2|+4|Bind Shadow creature|+3|+2|
-|9th|+4|+3|+3|+4|Bonus feat|+3|+3|
-|10th|+5|+3|+3|+5|Banish|+3|+3|
+|1st|+0|+0|+0|+1|秘法技能、法术抗力|+0|+0|
+|2nd|+1|+0|+0|+2|秘法研究（卷轴）|+1|+0|
+|3rd|+1|+1|+1|+2|奖励专长|+1|+1|
+|4th|+2|+1|+1|+2|暗影联系|+1|+1|
+|5th|+2|+1|+1|+3|束缚暗影生物|+2|+1|
+|6th|+3|+2|+2|+3|奖励专长|+2|+2|
+|7th|+3|+2|+2|+4|秘法研究（物品）|+2|+2|
+|8th|+4|+2|+2|+4|束缚暗影生物|+3|+2|
+|9th|+4|+3|+3|+4|奖励专长|+3|+3|
+|10th|+5|+3|+3|+5|驱除|+3|+3|
 
 ### 职业专长
 
-The following features pertain to the Occultist advanced class.
+以下是有关术士职业的专长。
 
-#### Arcane Skills
+#### 秘法技能
 
-An Occultist has access to the following arcane skills. These skills are considered class skills for the Occultist, and she can use her skill points to buy ranks in them, just like other skills in the game.
+术士能使用以下秘法技能。这些技能视为术士的本职技能，遵循本职技能加点规则。
 
-##### Concentration (Con)
+##### 专注（体）
 
-The normal Concentration skill expands to include arcane applications, as defined below.
+一般的专注技能应用于秘法时，使用以下规则。
 
-**Check:** You must make a Concentration check whenever you may potentially be distracted while engaged in an activity, including casting a spell or concentrating on an active spell, that requires your full attention.
+**检定：** 进行任何行为时，只要有可能分心，就要做一次专注检定，这些动作包括施法或者其他需要全神贯注维持法术启动状态的活动。
 
-If the check succeeds, you may continue with the action as normal. If the check fails, the action automatically fails and is wasted. If you were in the process of casting a spell, the spell is lost. If you were concentrating on an active spell, the spell ends.
+检定成功则如常继续该动作。检定失败，该动作自动失败并浪费掉。如果是在施法途中，该法术丧失。如果正在维持对一个已启动法术的专注，如同你停止对其专注一样，该法术停止。
 
-The table in the Concentration skill description summarizes the various types of distractions. In situations where the distraction occurs while you are casting a spell, you add the level of the spell to the DC.
+专注技能描述里的列表总结了各种不同类型的分心。当施法时发生分心的情况，专注检定DC要加上法术等级。
 
-**Try Again?:** You can try again, but doing so doesn’t cancel the effects of a previous failure. If you lost a spell, the spell is lost.
+**重试：** 可以，但成功不能抵消之前的失败后果。丧失了正在施展的法术，就真的丧失了。
 
-**Special:** By making a check (DC 15 + spell level), you can use Concentration to cast a spell defensively, thus avoiding attacks of opportunity. If the check succeeds, you can attempt the casting without incurring any attacks of opportunity.
+**特别：** 经过检定（DC为15+法术等级），你可以用专注技能来以防御姿态施法，避免触发借机攻击。若检定成功，就可以如此施法，避免所有的借机攻击。
 
-##### Use Magic Device (Cha)
+##### 使用魔法装置（魅）
 
-Trained only. Use this skill to activate magic devices, including scrolls and wands, that you could not otherwise activate.
+需受训。使用此技能来启动不能以其他方式触发的魔法装置，包括卷轴和魔杖。
 
-**Check:** You can use this skill to read a spell from a scroll or spellbook or activate a magic item. This skill lets you use a magic item as if you had the spell ability or class features of another class or a different allegiance.
+**检定：** 你可以用此技能解读施放卷轴或法术书上的法术，或启动魔法物品。启动这些魔法物品就如同你拥有对应的施法能力或者职业专长或者属于对应的立场。
 
-When you’re attempting to activate a magic item using this skill, you do so as an attack action. However, the checks you make to determine whether you are successful at activating the item take no time by themselves and are included in the activate magic item attack action.
+使用此技能视为做了一个攻击动作。而启动物品成功与否的检定花掉的时间算在这个攻击动作里。
 
-You make Use Magic Device checks each time you activate a device such as a scroll or a wand. If you are using the check to emulate some quality in an ongoing manner, you need to make the checks once per hour.
+每次启动装置——比如卷轴或者魔杖——都需要做一次使用魔法装置检定。如果你要持续地模拟一些特性，你需要每小时都做一次检定。
 
-|Task|DC|
+|任务|DC|
 |----|--|
-|Activate blindly|25|
-|Decipher a written spell|25 + spell level|
-|Emulate class feature|20|
-|Emulate ability score|See text|
-|Emulate allegiance|30|
-|Use a scroll|20 + caster level|
-|Use a wand|20|
+|盲目启用|25|
+|解读写好了的法术|25 + 法术等级|
+|模仿职业专长|20|
+|模仿属性值|见下文|
+|模仿立场|30|
+|使用卷轴|20 + 施法者等级|
+|使用魔杖|20|
 
 
->**Activate Blindly**
+>**盲目启用**
 >
->Some magic items are activated by special words, thoughts, or actions. You can activate such items as if you were using the activation word, thought, or action even if you’re not, and even if you don’t know it. You do have to use something equivalent. You have to speak, wave the item around, or otherwise attempt to get it to activate. You get a +2 bonus on the check if you’ve activated the item at least once in the past.
+>某些魔法物品是由特定言语、思想或动作启用。在无意甚至不知情的情况下，只要你使用了启动语、思想、或动作，就会启动这些物品。你必须做类似的举动才能生效，比如开口说话、挥动物品、或者只是想要得到。如果曾经启动过此物品，再次启动，检定获得2点加值。
 >
->If you fail the check by 10 or more, you suffer a mishap. A mishap means that magical energy is released, but it doesn’t do what you wanted it to. The GM determines the result of a mishap. The default mishaps are that the item affects the wrong target or that uncontrolled magical energy deals 2d6 points of damage to you. This mishap is in addition to the chance for a mishap normally associated with casting a spell from a scroll when the spell’s caster level is higher than your level in this class.
+>如果检定结果小于等于DC-10，表示人物犯下严重失误。严重失误意味着某些你不希望出现的魔法能量释放了出来。GM决定严重失误的后果。默认的后果是物品施加到了错误的目标，或者不受控制的魔法能量对你造成2d6点伤害。这个严重失误和使用卷轴施展超过人物法术等级的法术造成的严重失误是独立的两个过程，应分开结算。
 >
->**Decipher a Written Spell**
+>**解读写好了的法术**
 >
->This works like the same use of the Spellcraft skill (see the Mage Advanced Class), except that the DC is 5 points higher. Deciphering a written spell takes 1 minute of concentration.
+>效果和以`辨识法术`（见高级职业`法师`）阅读书写之法术相同，但DC增加5。阅读书写之法术必须专注1分钟。
 >
->**Emulate Class Feature**
+>**模仿职业专长**
 >
->Sometimes you need a class feature to activate a magic item. Your effective level in the emulated class equals your check result minus 20.
+>有时你需要模仿使用特定的职业专长来启动魔法物品。你能有效模仿出的职业等级为检定结果-20
 >
->This skill use doesn’t allow you to use the class feature of another class. It just lets you activate items as if you had the class feature.
+>使用此技能并不能允许你真的使用指定职业的职业专长。这只能让你拥有物品要求拥有的职业专长来启动物品。
 >
->If the class whose feature you are emulating has an allegiance requirement, you must meet it. This may require a separate check to emulate allegiance (see below).
+>如果职业专长有立场要求，你也必须满足。如果不满足，就需要另一次检定（见下文）。
 >
->**Emulate Ability Score**
+>**模仿属性值**
 >
->To cast a spell from a scroll, you need a high ability score in the appropriate ability (Intelligence for arcane spells, Wisdom for divine spells). Your effective ability score (appropriate to the class you’re emulating when you try to cast a spell from a scroll) equals your check result minus 15. If you already have a high enough score in the ability, you don’t need to make this check.
+>要施展卷轴里的法术，你需要在施法主属性拥有较高的属性值（秘法法术要求智力，神术法术需要感知）。有效的属性值（当你尝试从卷轴施法时要模拟的职业所对应的属性）等于检定结果-15。如果你的属性值已经满足，就不需要检定。
 >
->**Emulate Allegiance**
+>**模仿立场**
 >
->Some magic items have positive or negative effects based on your allegiance. You can use these items as if you were of an allegiance of your choice. You can only emulate one allegiance at a time.
+>有的魔法物品会根据你的立场产生正面或负面效果。你可以模仿需要模仿的立场来使用物品。你一次只能模仿一个立场。
 >
->**Use a Scroll**
+>**使用卷轴**
 >
->Normally, to cast a spell from a scroll, you must belong to a class that has access to the arcane or divine spell inscribed therein. This use of the skill allows you to use a scroll as if you were of the appropriate spellcasting class. The DC equals 20 + the caster level of the spell you are trying to cast from the scroll. To cast a spell from a scroll, you must first decipher it.
+>一般情况下，卷轴里的法术，你需要成为指定的职业才能学会施展相应的秘法或神术法术。使用这个技能能让你能像卷轴法术要求的职业那样将卷轴法术施展出来。DC为20+卷轴法术的施法等级。你必须能解读卷轴里的法术才能施展它。
 >
->In addition, casting a spell from a scroll requires a minimum score of 10 + the spell’s level in the appropriate ability. If you don’t have a sufficiently high score, you must emulate the ability score with a separate check (see above).
+>此外，施展卷轴中的法术要求对应的属性至少为10+法术等级。如果你的属性值不够，你需要另外做一个检定，把属性值模仿出来（见上文）。
 >
->**Use a Wand**
+>**使用魔杖**
 >
->Normally, to use a wand you must belong to a class that has access to the arcane or divine spell ensorcelled therein. This use of the skill allows you to use a wand as if you were of the appropriate spellcasting class.
+>一般情况下，你必须成为能够学习秘法或神术的职业才能使用相应的魔杖。使用此技能可以让你像魔杖要求的职业一样使用此魔杖。
 
-**Try Again?:** Yes, but if you ever roll a natural 1 while attempting to activate an item and you fail the check, then you can’t try to activate that item again for 24 hours.
+**重试：** 可以，但如果你在尝试启动物品时`投1`了，而且还失败了，24小时内你将不能再启动该物品。
 
-**Special:** You can’t take 10 or take 20 with this skill. Magic is too unpredictable to make the use of this skill reliable.
+**特别：** 这个技能不能取10取20，毕竟使用魔法是极不稳定且难以预料的事。
 
-#### Spell Resistance
+#### 法术抗力
 
-An Occultist has spell resistance equal to 5 + her Occultist level. It never interferes with her own spells, and she can voluntarily lower her spell resistance at any time.
+术士对法术拥有5+本职业等级的抗力。抗力对自己的法术无效，术士还可以随时自行降低法术抗力。
 
-#### Arcane Research (Scrolls)
+#### 秘法研究（卷轴）
 
-Starting at 2nd level, an Occultist can research spells and scribe scrolls. Indeed, the only way for an Occultist to cast an arcane spell is by using a scroll. The method and process is unique to the Occultist, and it differs from the Mage’s scribe scroll ability. There is no purchase DC or XP cost for the scrolls the Occultist gains with each new level attained in this class.
+2级时，术士可以研究法术，并抄录卷轴。需要强调的是，术士只能通过使用卷轴的方式施展秘法法术。方式和过程都是术士独有的，不同于法师的抄录卷轴的能力。术士因每次提升本职业的等级而获得卷轴都不需要检定购买或花费经验。
 
-When the Occultist attains 2nd level, and upon attaining each new level thereafter, she uncovers spell scrolls through arcane research and study. The GM randomly selects the spells contained on the scrolls, though the Occultist can make a Research check to select a certain number of her own spells. The table below shows how many scrolls of each spell level the Occultist receives upon gaining a new level, and how many of these can be researched at each level. A failed Research check indicates that the Occultist instead discovers all random spells.
+当术士达到2级时，以及之后每次提升本职业的等级时，术士都会通过研究和学习秘法，发现新的法术卷轴。术士进行研究检定，若成功则可任选一定数量的法术，获得卷轴，而余下的卷轴配额则由GM随机选择并授予。下表列出了术士每次升级时，每个法术等级可获得的卷轴数，以及术士研究成功后可自选的法术数量。若研究检定失败，术士不可自选法术，所获得的卷轴都是随机的。
 
-|Level|1|2|3|4|Research|
+|等级|1|2|3|4|研究|
 |-----|-|-|-|-|--------|
 |2nd|3|—|—|—|1 (DC 20)|
 |3rd|4|—|—|—|2 (DC 23)|
@@ -298,169 +298,169 @@ When the Occultist attains 2nd level, and upon attaining each new level thereaft
 |9th|6|5|4|—|8 (DC 38)|
 |10th|7|6|5|2|9 (DC 40)|
 
-So, at 2nd level, the Occultist gains three 1st-level arcane spell scrolls. One of these spells can be selected by the Occultist if she makes a successful Research check (DC 20); the other two spells are selected randomly. These are all the spell scrolls the Occultist has until she attains 3rd level. Once a spell is used, it disappears from the scroll that contained it. The Occultist may find other scrolls in the course of her adventures.
+比如说，术士2级时得到3份1级秘法法术卷轴。若研究检定（DC20）成功，术士可以选择一个法术，获得一份卷轴，另外两份卷轴是随机选择的法术。这就是术士所拥有的所有法术卷轴了，直到3级才能获得新的。法术一旦使用，将会从其所记载的卷轴中消失。术士也可以在冒险中找到其他的卷轴。
 
-The Occultist uses the Use Magic Device arcane skill to cast a spell from a scroll (see above).
+术士使用`使用魔法装置`秘法技能来施展卷轴中的魔法（见上文）。
 
 #### 奖励专长
 
-At 3rd, 6th, and 9th level, the Occultist gets a bonus feat. The bonus feat must be selected from the following list, and the Occultist must meet all the prerequisites of the feat to select it.
+3、6、9级时，术士获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
 
-Alertness, Archaic Weapons Proficiency, Attentive, Confident, Defensive Martial Arts, Focused, Frightful Presence, Iron Will, Personal Firearms Proficiency, Point Blank Shot.
+警觉、擅长古典武器、听着有心、自信、防御武术、全神贯注、气势凶猛、钢铁意志、擅长单兵火器、近程射击。
 
-#### Shadow Contact
+#### 暗影联系
 
-At 4th level, an Occultist gains a denizen of Shadow as a contact. The Shadow creature can have HD equal to one-half the Occultist’s class level or less. This Shadow creature may or may not be overtly hostile toward humans, but it tolerates the Occultist. The Shadow creature will provide information or other minor assistance as though its attitude toward the Occultist were friendly. It might still omit important details, depending on its relationship with the Occultist. The Shadow creature doesn’t accompany the Occultist on adventures, and it may not always be available when the Occultist wants it. In most cases, the Shadow contact can be called upon once per week, and the creature requires some form of compensation for each favor. Compensation can be a favor in return or something appropriate to the creature in question.
+4级时，术士可拥有一个暗影生物联系人。此暗影生物可拥有的生命骰小于等于术士等级。它可能会也可能不会公开敌视人类，但它能容忍术士自己。若它对术士的态度是友善，它会向术士提供信息或者帮些小忙。如果它与术士关系好，它甚至可能会透露关键信息。此暗影生物不会和术士一起冒险，而且它也并不是随叫随到。大多数情况下，术士每周只能联系它一次，每次求助它都会索要各种形式的报酬。这些报酬可以是偿还人情，或者是这种生物需要的东西。
 
-If the Shadow creature dies, a new creature replaces it when the Occultist attains her next level in this class.
+如果此暗影生物死亡，术士提升本职业等级后，才会有新的生物补位。
 
-#### Bind Shadow Creature
+#### 束缚暗影生物
 
-At 5th level, an Occultist can select a type of Shadow creature (any creature type other than animal or vermin) and bind one such creature into service. A Shadow creature of the appropriate type and Hit Dice (GM’s choice) appears at the Occultist’s side in 1d6+1 days. Thereafter, it serves the Occultist, with an outward attitude of helpful (though it might inwardly hate the Occultist who has trapped it into service). It obeys the Occultist, providing protection, fighting at her side, and performing other services. It always seeks to obey the letter of the Occultist’s command, and can sometimes use this behavior to harm the Occultist or otherwise hinder as much as it helps.
+5级时，术士可以选择一类暗影生物（任何除了动物或虫类以外的种类），允许束缚一只此类生物为其服务。一只相应类型和1HD（由GM决定是何种HD）的暗影生物出现在术士的一方，持续1d6+1天。然后，此生物会服侍术士，公开态度为`提供帮助`（但它内心的态度可能会因被迫服侍而憎恨术士）。它会服从术士的命令，保护术士，为术士战斗，以及提供其他服务。它总是会照术士的每一句话做，这可能会因此伤害到术士，或是帮倒忙。
 
-At 5th level, the Occultist can bind a Shadow creature with 2 HD or less.
+5级时，术士能束缚一个2HD及以下的暗影生物。
 
-At 8th level, the Occultist can bind a Shadow creature with 4 HD or less.
+8级时，术士能束缚一个4HD及以下的暗影生物。
 
-#### Arcane Research (Items)
+#### 秘法研究（物品）
 
-Starting at 7th level, an Occultist can perform research to find magic items. The method and process is unique to the Occultist. There is no purchase DC or XP cost for the magic items the Occultist gains with each new level attained in this class.
+从7级开始，术士能进行寻找魔法物品的研究。方式和过程都是术士独有的。术士因每次提升本职业的等级而获得魔法物品都不需要检定购买或花费经验。
 
-When the Occultist attains 7th level, and upon attaining each new level thereafter, she uncovers one magic item through arcane research and study. The GM randomly selects the item, though the Occultist can make a Research check (DC 25) to specify the type of item gained.
+当术士达到7级时，以及之后每次提升本职业的等级时，术士都会通过研究和学习秘法，发现新的魔法物品。术士进行研究检定（DC25），若成功则可自选要获得的魔法物品，若失败则由GM随机选择并授予。
 
-The item must be a wondrous item, a wand, a magic weapon, or a set of magic armor.
+物品必须是奇物、魔杖、魔化武器或者一套魔化护甲。
 
-The Occultist uses the Use Magic Device arcane skill to use a magic item (see above).
+术士使用`使用魔法装置`秘法技能来使用魔法物品（见上文）。
 
-#### Banish
+#### 驱除
 
-At 10th level, an Occultist comes into her full power. By spending 1 action point and an attack action, the Occultist can utter a word of power that forces a denizen of Shadow to return to the Shadow dimension. The Shadow creature gets a Will save (DC 10 + Occultist’s level + Occultist’s Cha modifier), adding a bonus equal to its HD to the save. If the save succeeds, the Shadow creature doesn’t disappear but is instead stunned for 1d4+1 rounds.
+10级时，术士步入巅峰。术士花费1行动点和1个攻击动作，念出咒语将一个暗影生物驱逐回暗影位面。暗影生物进行一次意志豁免（DC为10+术士职业等级+术士魅力调整值），豁免加上它的生命骰作为加值。若豁免成功，此暗影生物不会消失，但会震慑1d4+1轮。
 
-## TELEPATH
+## 异能者
 
-The fastest path into this advanced class is from the Charismatic hero basic class, though other paths are possible.
+成为异能者的捷径是从魅力型英雄玩起，当然其他途径也是允许的。
 
 ### 要求
 
-To qualify to become a Telepath, a character must fulfill the following criteria.
+要达到成为异能者的资格，角色必须满足以下要求。
 
-**Skills:** Bluff 6 ranks, Diplomacy 6 ranks, Gather Information 6 ranks.
+**技能：** 唬骗6级、交涉6级、收集信息6级。
 
-**Feat:** Wild Talent
+**专长：** 特异功能。
 
 ### 职业信息
 
-The following information pertains to the Telepath advanced class.
+以下是有关异能者职业的信息。
 
 #### 生命骰
 
-The Telepath gains 1d6 hit points per level. 与角色的体质调整值共同作用。
+异能者每级获得1d6点生命。与角色的体质调整值共同作用。
 
 #### 行动点
 
-The Telepath gains a number of action points equal to 6 + one-half his character level, rounded down, every time he attains a new level in this class.
+异能者在该职业升级时，获得6+角色等级一半数值的行动点，向下取整。
 
 ### 本职技能
 
-The Telepath’s class skills are as follows.
+异能者的本职技能如下：
 
-Autohypnosis (Wis), Bluff (Cha), Concentration (Con), Diplomacy (Cha), Gather Information (Cha), Knowledge (behavioral sciences, current events, popular culture, philosophy and theology) (Int), Profession (Wis), Psicraft (Int), Read/Write Language (none), Sense Motive (Wis), Speak Language (none).
+自我催眠（感）、唬骗（魅）、专注（体）、交涉（魅）、收集信息（魅）、知识（行为科学、时事、流行文化、神学与哲学）（智）、专业（感）、辨识灵能（智）、读写语言（无）、察言观色（感）、口头语言（无）。
 
 **升级技能点数：** 5+智力调整值
 
 
-###Table: The Telepath
+### 职业列表
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation bonus|
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+0|+0|+0|+2|Psionic skills, psionic powers|+0|+1|
-|2nd|+1|+0|+0|+3|Trigger power, psionic powers|+1|+1|
-|3rd|+1|+1|+1|+3|Bonus feat, psionic powers|+1|+1|
-|4th|+2|+1|+1|+4|Power crystal, psionic powers|+1|+2|
-|5th|+2|+1|+1|+4|Trigger power, psionic powers|+2|+2|
-|6th|+3|+2|+2|+5|Bonus feat, psionic powers|+2|+2|
-|7th|+3|+2|+2|+5|Combat manifestation, psionic powers|+2|+3|
-|8th|+4|+2|+2|+6|Trigger power, psionic powers|+3|+3|
-|9th|+4|+3|+3|+6|Bonus feat, psionic powers|+3|+3|
-|10th|+5|+3|+3|+7|Maximize power, psionic powers|+3|+4
+|1st|+0|+0|+0|+2|灵能技能、灵力|+0|+1|
+|2nd|+1|+0|+0|+3|触发灵力、灵力|+1|+1|
+|3rd|+1|+1|+1|+3|奖励专长、灵力|+1|+1|
+|4th|+2|+1|+1|+4|灵力水晶、灵力|+1|+2|
+|5th|+2|+1|+1|+4|触发灵力、灵力|+2|+2|
+|6th|+3|+2|+2|+5|奖励专长、灵力|+2|+2|
+|7th|+3|+2|+2|+5|战斗释放、灵力|+2|+3|
+|8th|+4|+2|+2|+6|触发灵力、灵力|+3|+3|
+|9th|+4|+3|+3|+6|奖励专长、灵力|+3|+3|
+|10th|+5|+3|+3|+7|极效灵力、灵力|+3|+4
 
 ### 职业专长
 
-All of the following features pertain to the Telepath advanced class.
+以下是有关异能者职业的专长。
 
-#### Psionic Skills
+#### 灵能技能
 
-A Telepath has access to the following psionic skills. These skills are considered class skills for the Telepath, and he can use his skill points to buy ranks in them, just like other skills in the game.
+异能者能使用以下灵能技能。这些技能视为异能者的本职技能，遵循本职技能加点规则。
 
-##### Autohypnosis (Wis)
+##### 自我催眠（感）
 
-Trained only. You have trained your mind to resist certain injuries and threats while also gaining a few select benefits.
+需受训。你的思想经过训练，可以抵抗伤害和威胁还能获得一些增益。
 
-**Check:** The DC and effect depend on the task you attempt.
+**检定：** DC与效果取决于你要催眠的目的。
 
-|Task|DC|
+|目的|DC|
 |----|--|
-|Resist fear|15|
-|Memorize|15|
-|Tolerate poison|Poison’s DC|
-|Willpower|20|
+|抵御恐惧|15|
+|记忆|15|
+|忍耐毒素|毒素的DC|
+|坚定意志|20|
 
->**Resist Fear:** In response to a fear effect, you can make an Autohypnosis check on your next action even if you’ve been overcome by fear. A successful check grants you another saving throw with a +4 morale bonus to resist the fear effect.
+>**抵御恐惧：** 你可以做一个自我催眠检定来免除下一个行动将受到的恐惧惩罚，甚至可以在已陷入恐惧时这么做。检定成功则获得一次掷抵抗恐惧豁免骰的机会，成功则获得4点士气加值。
 >
->**Memorize:** You can attempt to memorize a long string of numbers, a long passage of verse, or other particularly difficult piece of information. Each successful check allows you to memorize up to 250 words or the equivalent of what could be comfortably contained on an 8 1/2-by-11-inch sheet of paper. You always retain this information; however, you can only recall it with a successful Autohypnosis check.
+>**记忆：** 你可以尝试记忆一长串数字、一段韵文或者其他特别难记的信息。每次检定成功，你将可以记忆250字的文章或等价于一张A4纸大小的文本。你会永远记住此信息，但必须再进行自我催眠检定成功后才能回忆起来。
 >
->**Tolerate Poison:** In response to being poisoned, you can make an Autohypnosis check on your next action. A successful check grants you a +4 morale bonus on your saving throw to resist the poison’s secondary damage.
+>**忍耐毒素：** 你可以做一个自我催眠检定来抵抗毒素的影响。若检定成功，你将在检定豁免再次伤害时获得4点士气加值。
 >
->**Willpower:** If reduced to 0 hit points (disabled), you may make an Autohypnosis check. If successful, you can perform a strenuous action without taking 1 point of damage. A failed check carries no penalties—you can choose not to perform the strenuous action. If you do perform the strenuous action after failing the check, you take 1 point of damage, as normal.
+>**坚定意志：** 如果生命值降到0（瘫痪），你可以进行一次自我催眠检定。如果检定成功，你可以做一个费力的动作而不会受到1点伤害。若检定失败，也不会受到额外的惩罚——你可以不做费力动作避免受伤。若在检定失败后做费力动作，你将照常承受1点伤害。
 
-**Try Again?:** For resist fear and memorize, you can make a check once per round. You can’t try again to tolerate poison. You can’t try again in the same round for willpower.
+**重试：** 对于抵御恐惧和记忆，你可以每轮做一次检定。而忍耐毒素不可重试。同一轮内也不能重试坚定意志。
 
-**Special:** You can take 10 on Autohypnosis checks, but you can’t take 20.
+**特别：** 你可以取10，但不能取20。
 
-Most uses of Autohypnosis are attack actions. Willpower is a free action that can be attempted once per round.
+大多数自我催眠都是攻击动作。坚定意志是即时动作，每轮可以进行一次。
 
-##### Concentration (Con)
+##### 专注（体）
 
-The normal Concentration skill expands to include psionic applications, as defined below.
+一般的专注技能应用于灵能时，使用以下规则。
 
-**Check:** You must make a Concentration check whenever you may potentially be distracted while engaged in an activity, including manifesting a power or concentrating on an active power, that requires your full attention.
+**检定：** 进行任何行为时，只要有可能分心，就要做一次专注检定，这些动作包括释放灵力或者其他需要全神贯注维持灵力启动状态的活动。
 
-If the check succeeds, you may continue with the action as normal. If the check fails, the action automatically fails and is wasted. If you were in the process of manifesting a power, the power is lost. If you were concentrating on an active power, the power ends. The table in the Concentration skill description summarizes the various types of distractions. In situations where the distraction occurs while you are manifesting a power, you add the level of the power to the DC.
+检定成功则如常继续该动作。检定失败，该动作自动失败并浪费掉。如果是在释放灵力途中，该灵力丧失。如果正在维持对一个已启动灵力的专注，如同你停止对其专注一样，该灵力停止。专注技能描述里的列表总结了各种不同类型的分心。当释放灵力时发生分心的情况，专注检定DC要加上灵力等级。
 
-**Try Again?:** You can try again, but doing so doesn’t cancel the effects of a previous failure. If you lost a power, the power is lost.
+**重试：** 可以，但成功不能抵消之前的失败后果。丧失了正在释放的灵力，就真的丧失了。
 
-**Special:** By making a check (DC 15 + power level), you can use Concentration to manifest a power defensively, thus avoiding attacks of opportunity. If the check succeeds, you can attempt the action without incurring any attacks of opportunity.
+**特别：** 经过检定（DC为15+灵力等级），你可以用专注技能来以防御姿态释放灵力，避免触发借机攻击。若检定成功，就可以如此释放灵力，避免所有的借机攻击。
 
-##### Psicraft (Int)
+##### 辨识灵能（智）
 
-Trained only. Use this skill to identify psionic powers as they manifest or psionic effects already in place.
+需受训。使用此技能来辨识他人正在释放的灵力，或者辨识现场的灵能效果。
 
-**Check:** You can identify psionic powers and effects.
+**检定：** 你可以辨识灵力和灵能效果。
 
-|DC|Task|
+|DC|能做|
 |--|----|
-|15 + power level|Identify a psionic power as it manifests. (You must sense the power’s display or see some visible effect to identify a power.) You can’t try again.|
-|20 + power level|Identify a power that’s already in place and in effect. (You must be able to see or detect the effects of the power.) You can’t try again.|
-|20 + power level|Identify materials created or shaped by psionics. You can’t try again.|
-|30 or higher|Understand a strange or unique psionic effect. You can’t try again.|
+|15 + 灵力等级|辨识正在释放出来的灵力。（你必须能用普通感官感觉到灵力外显的效果，比如看到灵力表现的视觉效果。）不可重试。|
+|20 + 灵力等级|辨识存留在场并且生效的灵力。（你必须能看见或探测出灵力产生的效果。）不可重试。|
+|20 + 灵力等级|识别灵力造出或拟态出的材料。不可重试。|
+|30及以上|理解一个陌生的或独一无二的灵力效果。不可重试。|
 
-**Try Again?:** See above.
+**重试：** 见上文。
 
-**Time:** Unless otherwise indicated, Psicraft is a move action.
+**时间：** 除非特别说明，辨识灵能是一个移动动作。
 
-#### Psionic Powers
+#### 灵力
 
-The Telepath’s main strength is his ability to manifest psionic powers.
+异能者的主要能力就是释放灵力。
 
-A psionic power is a one-time psionic effect. Psionic powers require power points to use. Unlike arcane spellcasters, Telepaths don’t have spellbooks and they don’t prepare powers ahead of time. In addition, a Telepath can use psionics while wearing armor without risking the failure of the power.
+一个灵力是一个一次性的灵能效果。灵力需要消耗灵力点数才能使用。不像秘法的施法者，异能者没有法术书，也不需要事先准备“法术”。另外，异能者可以穿着护甲使用灵能，护甲不会增加释放灵能的失败风险。
 
-A Telepath’s level limits the number of power points available for manifesting powers. In addition, a Telepath must have a key ability score equal to at least 10 + the power’s level to manifest a particular power.
+异能者等级限制了可供释放的灵力点数。而且，异能者必须具备关键的属性点才能释放对应的灵力，所需的属性点为10+灵力等级。
 
-The Telepath’s selection of powers is extremely limited, although he enjoys ultimate flexibility. At 1st level, a Telepath knows three 0-level powers of your choice and one 1st-level power. At each level, the Telepath discovers one or more previously latent powers, as indicated on the table below.
+异能者可释放的灵力种类稀少，选择上却享有极高的自由。1级时，异能者可以选择发现3个0级的灵力和1个1级的灵力。异能者每一级都会发现一到多个先前未选的灵力，如下表所示。
 
-The DC for saving throws to resist a psionic power is 10 + the power’s level + the Telepath’s key ability modifier.
+抵抗一个灵力的豁免DC为10+灵力等级+异能者关键属性的调整值。
 
-|Telepath Level|Pts/Day|0\*|1\*|2\*|3\*|4\*|5\*|
+|异能者等级|每日灵力点|0\*|1\*|2\*|3\*|4\*|5\*|
 |--------------|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1st|2|3|1|—|—|—|—|
 |2nd|3|3|2|—|—|—|—|
@@ -473,11 +473,11 @@ The DC for saving throws to resist a psionic power is 10 + the power’s level +
 |9th|34|5|4|3|3|2|—|
 |10th|43|6|4|3|3|2|1|
 
-\* Powers Discovered by Level
+\* 发现的各等级的灵力
 
-A Telepath can manifest a certain number of powers per day based on his available power points. (0-level powers have a special cost; see FX Basics.) He just pays the power point cost of a power to manifest it, no preparation necessary. The base number of power points available per day is shown on the table above. This number is improved by bonus points determined by the Telepath’s Charisma score, as shown on the table below.
+异能者每日能释放`每日灵力点`所限的灵力。（0级灵力的花费有特别的计法，见`超自然基础`一章。）异能者无需准备，只需消耗灵力所需的灵力点数即可释放。基础的每日可用灵力点如上表所示。这个值会受异能者的魅力提供的加值增益，如下表。
 
-|Cha Score|Bonus Power Points per Day|
+|魅力值|每日灵力点加值|
 |---------|:------------------------:|
 |12–13|1|
 |14–15|3|
@@ -486,147 +486,147 @@ A Telepath can manifest a certain number of powers per day based on his availabl
 |20–21|9|
 |22–23|11|
 
-#### Trigger Power
+#### 触发灵力
 
-At 2nd, 5th, and 8th level, the Telepath chooses one psionic power that he can attempt to manifest for no power point cost.
+2、5、8级时，异能者都可选择一个灵力，让这个灵力可以不需要消耗灵力点就能释放。
 
-At each of these levels, you select one 0-, 1st-, 2nd-, or 3rd-level power you can use. From that point on, you can attempt to trigger that power without paying its cost. To trigger a power, you must have enough power points to cover the normal cost of the power manifestation. Then, make an ability check appropriate to the power.
+每到选择时，你可以选择一个0-3级的灵力。选择后，就可以无消耗释放此灵力，这被称为`触发`。要触发灵力，你必须至少拥有正常释放此灵力所需的灵力点。然后做一个灵力关键属性检定。
 
-If you succeed at the ability check, the power manifests with no cost in power points. If the check fails, you pay the power point cost and the power manifests.
+若属性检定成功，则可无消耗释放此灵力。若检定失败，则照常消耗灵力点释放此灵力。
 
-DCs for the ability check depend on the level of the power: 0-level, DC 11; 1st-level, DC 13; 2nd-level, DC 15; and 3rd-level, DC 17.
+属性检定的DC取决于灵力等级：0级的DC为11，1级DC13，2级DC15、3级DC17。
 
 #### 奖励专长
 
-At 3rd, 6th, and 9th level, the Telepath gets a bonus feat. The bonus feat must be selected from the following list, and the Telepath must meet all the prerequisites of the feat to select it.
+3、6、9级时，异能者获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
 
-Alertness, Animal Affinity, Attentive, Blind-Fight, Combat Expertise, Confident, Creative, Deceptive, Educated, Focused, Frightful Presence, Iron Will, Renown, Stealthy, Studious.
+警觉、动物亲和、听着有心、盲战、寓守于攻、自信、富有创意、欺诈、良好教育、全神贯注、气势凶猛、钢铁意志、闻名、隐秘、好学。
 
-#### Power Crystal
+#### 灵力水晶
 
-At 4th level, the Telepath can store excess power points in a power crystal specially attuned to him. Encoding the crystal takes 24 hours and requires a gem with a purchase DC of 20. When complete, the power crystal is a psionically charged crystalline stone no more than an inch in diameter. A Telepath can possess no more than one power crystal at a time.
+4级时，异能者可以储存富余的灵力点到灵力水晶里。灌注水晶需要24小时，以及购买DC为20的宝石购买费用。若灌注成功，异能者将得到一个直径不超过一寸的已灌注水晶。异能者一次只能灌注一个水晶。
 
-A power crystal is imbued with 5 power points when it is created. The Telepath can call upon these power points at any time and use them just as he would his natural power points. Once the crystal is depleted, the Telepath must refill it using up to 5 power points from his own reserves. A power crystal can be recharged after a Telepath has rested and renewed his own reserves of power points for the day..
+刚灌注的灵力水晶储存着5灵力点。异能者可以像使用自己的灵力点一样使用水晶里的灵力点。一但灵力水晶耗尽，异能者必须使用自己的5点灵力点充满水晶。异能者可以在休息后或经过一天恢复满灵力点后向水晶充能。
 
-#### Combat Manifestation
+#### 战斗释放
 
-At 7th level, a Telepath becomes adept at manifesting psionic powers in combat. He gets a +4 bonus on Concentration checks to manifest a power while on the defensive.
+7级时，异能者渐渐熟稔战斗中的灵力释放。异能者在防御姿态释放灵力所进行的专注检定将获得4点加值。
 
-#### Maximize Power
+#### 极效灵力
 
-At 10th level, a Telepath learns to manifest psionic powers to maximum effect. All variable, numeric effects of a maximized power automatically achieve their maximum values. A maximized power deals the most possible points of damage, affects the maximum number of targets, and so forth, as appropriate. Saving throws and opposed checks are not affected. Powers without random variables are not affected.
+10级，异能者已经懂得释放极效的灵力。极效灵力即此灵力的所有变数都取最大值。极效灵力按伤害上限造成伤害，按目标数的上限影响最多的目标，触及灵力所能触及的最远距离。极效无法用于豁免和对抗检定。不含随机数值的灵力也用不上极效。
 
-A maximized power costs a number of power points equal to its normal cost +6.
+释放极效灵力需要花费正常释放所需灵力点+6的灵力点。
 
-## BATTLE MIND
+## 灵战士
 
 ### 要求
 
-To qualify to become a Battle Mind, a character must fulfill the following criteria.
+要达到成为灵战士的资格，角色必须满足以下要求。
 
 **基础攻击加值：** +3
 
-**Skill:** Jump 6 ranks.
+**技能：** 跳跃6级
 
-**Feat:** Wild Talent
+**专长：** 特异功能。
 
 ### 职业信息
 
-The following information pertains to the Battle Mind advanced class.
+以下是有关灵战士职业的信息。
 
 #### 生命骰
 
-The Battle Mind gains 1d8 hit points per level. 与角色的体质调整值共同作用。
+灵战士每级获得1d8点生命。与角色的体质调整值共同作用。
 
 #### 行动点
 
-The Battle Mind gains a number of action points equal to 6 + one-half her character level, rounded down, every time she attains a new level in this class.
+灵战士在该职业升级时，获得6+角色等级一半数值的行动点，向下取整。
 
 ### 本职技能
 
-The Battle Mind’s class skills are as follows.
+灵战士的本职技能如下：
 
-Autohypnosis (Wis), Balance (Dex), Climb (Str), Concentration (Con), Craft (visual arts) (Int), Drive (Dex), Jump (Str), Knowledge (current events, streetwise) (Int), Profession (Wis), Read/Write Language (none), Speak Language (none), Spot (Wis), Swim (Str).
+自我催眠（感）、平衡（敏）、攀爬（力）、专注（体）、制造（视觉艺术）（智）、驾驶（敏）、跳跃（力）、知识（时事、街头智慧）（智）、专业（感）、读写语言（无）、口头语言（无）、侦察（感）、游泳（力）。
 
 **升级技能点数：** 3+智力调整值
 
 
-###Table: The Battle Mind
+### 职业列表
 
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+0|+2|+0|+0|Psionic skills, psionic powers|+1|+0|
-|2nd|+1|+3|+0|+0|Psi-blade, imprint tattoo, psionic powers|+2|+0|
-|3rd|+2|+3|+1|+1|Bonus feat, psionic powers|+2|+0|
-|4th|+3|+4|+1|+1|Psychic shield, psionic powers|+3|+0|
-|5th|+3|+4|+1|+1|Combat manifestation, psionic powers|+4|+1|
-|6th|+4|+5|+2|+2|Bonus feat, psionic powers|+4|+1|
-|7th|+5|+5|+2|+2|Improved psi-blade, psionic powers|+5|+1|
-|8th|+6|+6|+2|+2|Improved psychic shield, psionic powers|+6|+1|
-|9th|+6|+6|+3|+3|Bonus feat, psionic powers|+6|+2|
-|10th|+7|+7|+3|+3|Ultimate psi-blade, psionic powers|+7|+2|
+|1st|+0|+2|+0|+0|灵能技能、灵力|+1|+0|
+|2nd|+1|+3|+0|+0|灵能战刃、刻印文身、灵力|+2|+0|
+|3rd|+2|+3|+1|+1|奖励专长、灵力|+2|+0|
+|4th|+3|+4|+1|+1|灵能护盾、灵力|+3|+0|
+|5th|+3|+4|+1|+1|战斗释放、灵力|+4|+1|
+|6th|+4|+5|+2|+2|奖励专长、灵力|+4|+1|
+|7th|+5|+5|+2|+2|精通灵能战刃、灵力|+5|+1|
+|8th|+6|+6|+2|+2|精通灵能护盾、灵力|+6|+1|
+|9th|+6|+6|+3|+3|奖励专长、灵力|+6|+2|
+|10th|+7|+7|+3|+3|终极灵能战刃、灵力|+7|+2|
 
 ### 职业专长
 
-All of the following features pertain to the Battle Mind advanced class.
+以下是有关灵战士职业的专长。
 
-#### Psionic Skills
+#### 灵能技能
 
-A Battle Mind has access to the following psionic skills. These skills are considered class skills for the Battle Mind, and she can use her skill points to buy ranks in them, just like other skills in the game.
+灵战士能使用以下灵能技能。这些技能视为灵战士的本职技能，遵循本职技能加点规则。
 
-##### Autohypnosis (Wis)
+##### 自我催眠（感）
 
-Trained only. You have trained your mind to resist certain injuries and threats while also gaining a few select benefits.
+需受训。你的思想经过训练，可以抵抗伤害和威胁还能获得一些增益。
 
-**Check:** The DC and effect depend on the task you attempt.
+**检定：** DC与效果取决于你要催眠的目的。
 
-|Task|DC|
+|目的|DC|
 |----|--|
-|Resist fear|15|
-|Memorize|15|
-|Tolerate poison|Poison’s DC|
-|Willpower|20|
+|抵御恐惧|15|
+|记忆|15|
+|忍耐毒素|毒素的DC|
+|坚定意志|20|
 
->**Resist Fear:** In response to a fear effect, you can make an Autohypnosis check on your next action even if you’ve been overcome by fear. A successful check grants you another saving throw with a +4 morale bonus to resist the fear effect.
+>**抵御恐惧：** 你可以做一个自我催眠检定来免除下一个行动将受到的恐惧惩罚，甚至可以在已陷入恐惧时这么做。检定成功则获得一次掷抵抗恐惧豁免骰的机会，成功则获得4点士气加值。
 >
->**Memorize:** You can attempt to memorize a long string of numbers, a long passage of verse, or other particularly difficult piece of information. Each successful check allows you to memorize up to 250 words or the equivalent of what could be comfortably contained on an 8 1/2-by-11-inch sheet of paper. You always retain this information; however, you can only recall it with a successful Autohypnosis check.
+>**记忆：** 你可以尝试记忆一长串数字、一段韵文或者其他特别难记的信息。每次检定成功，你将可以记忆250字的文章或等价于一张A4纸大小的文本。你会永远记住此信息，但必须再进行自我催眠检定成功后才能回忆起来。
 >
->**Tolerate Poison:** In response to being poisoned, you can make an Autohypnosis check on your next action. A successful check grants you a +4 morale bonus on your saving throw to resist the poison’s secondary damage.
+>**忍耐毒素：** 你可以做一个自我催眠检定来抵抗毒素的影响。若检定成功，你将在检定豁免再次伤害时获得4点士气加值。
 >
->**Willpower:** If reduced to 0 hit points (disabled), you may make an Autohypnosis check. If successful, you can perform a strenuous action without taking 1 point of damage. A failed check carries no penalties—you can choose not to perform the strenuous action. If you do perform the strenuous action after failing the check, you take 1 point of damage, as normal.
+>**坚定意志：** 如果生命值降到0（瘫痪），你可以进行一次自我催眠检定。如果检定成功，你可以做一个费力的动作而不会受到1点伤害。若检定失败，也不会受到额外的惩罚——你可以不做费力动作避免受伤。若在检定失败后做费力动作，你将照常承受1点伤害。
 
-**Try Again?:** For resist fear and memorize, you can make a check once per round. You can’t try again to tolerate poison. You can’t try again in the same round for willpower.
+**重试：** 对于抵御恐惧和记忆，你可以每轮做一次检定。而忍耐毒素不可重试。同一轮内也不能重试坚定意志。
 
-**Special:** You can take 10 on Autohypnosis checks, but you can’t take 20.
+**特别：** 你可以取10，但不能取20。
 
-Most uses of Autohypnosis are attack actions. Willpower is a free action that can be attempted once per round.
+大多数自我催眠都是攻击动作。坚定意志是即时动作，每轮可以进行一次。
 
-##### Concentration (Con)
+##### 专注（体）
 
-The normal Concentration skill expands to include psionic applications, as defined below.
+一般的专注技能应用于灵能时，使用以下规则。
 
-**Check:** You must make a Concentration check whenever you may potentially be distracted while engaged in an activity, including manifesting a power or concentrating on an active power, that requires your full attention.
+**检定：** 进行任何行为时，只要有可能分心，就要做一次专注检定，这些动作包括释放灵力或者其他需要全神贯注维持灵力启动状态的活动。
 
-If the check succeeds, you may continue with the action as normal. If the check fails, the action automatically fails and is wasted. If you were in the process of manifesting a power, the power is lost. If you were concentrating on an active power, the power ends. The table in the Concentration skill description summarizes the various types of distractions. In situations where the distraction occurs while you are manifesting a power, you add the level of the power to the DC.
+检定成功则如常继续该动作。检定失败，该动作自动失败并浪费掉。如果是在释放灵力途中，该灵力丧失。如果正在维持对一个已启动灵力的专注，如同你停止对其专注一样，该灵力停止。专注技能描述里的列表总结了各种不同类型的分心。当释放灵力时发生分心的情况，专注检定DC要加上灵力等级。
 
-**Try Again?:** You can try again, but doing so doesn’t cancel the effects of a previous failure. If you lost a power, the power is lost.
+**重试：** 可以，但成功不能抵消之前的失败后果。丧失了正在释放的灵力，就真的丧失了。
 
-**Special:** By making a check (DC 15 + power level), you can use Concentration to manifest a power defensively, thus avoiding attacks of opportunity. If the check succeeds, you can attempt the action without incurring any attacks of opportunity.
+**特别：** 经过检定（DC为15+灵力等级），你可以用专注技能来以防御姿态释放灵力，避免触发借机攻击。若检定成功，就可以如此释放灵力，避免所有的借机攻击。
 
-#### Psionic Powers
+#### 灵力
 
-The Battle Mind’s main strength is her ability to manifest offensive psionic powers.
+灵战士的主要能力就是释放攻击性的灵力。
 
-A psionic power is a one-time psionic effect. Psionic powers require power points to use. Unlike arcane spellcasters, Battle Minds don’t have spellbooks and they don’t prepare powers ahead of time. In addition, a Battle Mind can use psionics while wearing armor without risking the failure of the power.
+一个灵力是一个一次性的灵能效果。灵力需要消耗灵力点数才能使用。不像秘法的施法者，灵战士没有法术书，也不需要事先准备“法术”。另外，灵战士可以穿着护甲使用灵能，护甲不会增加释放灵能的失败风险。
 
-A Battle Mind’s level limits the number of power points available for manifesting powers. In addition, a Battle Mind must have a key ability score equal to at least 10 + the power’s level to manifest a particular power.
+灵战士等级限制了可供释放的灵力点数。而且，灵战士必须具备关键的属性点才能释放对应的灵力，所需的属性点为10+灵力等级。
 
-The Battle Mind’s selection of powers is extremely limited and tied to combat. At 1st level, a Battle Mind knows two 0-level powers of your choice. At each level, the Battle Mind discovers one or more previously latent powers, as indicated on the table below.
+灵战士可释放的灵力种类极少，与战斗紧密相关。1级时，灵战士可以选择发现2个0级的灵力。灵战士每一级都会发现一到多个先前未选的灵力，如下表所示。
 
-The DC for saving throws to resist a psionic power is 10 + the power’s level + the Battle Mind’s key ability modifier.
+抵抗一个灵力的豁免DC为10+灵力等级+灵战士关键属性的调整值。
 
-|Battle Mind Level|Pts/Day|0\*|1\*|2\*|3\*|4\*|5\*|
+|异能者等级|每日灵力点|0\*|1\*|2\*|3\*|4\*|5\*|
 |--------------|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1st|2|2|—|—|—|—|
 |2nd|3|3|—|—|—|—|
@@ -639,153 +639,153 @@ The DC for saving throws to resist a psionic power is 10 + the power’s level +
 |9th|26|3|3|3|2|—|
 |10th|33|3|3|3|2|1|
 
-\* Powers Discovered by Level
+\* 发现的各等级的灵力
 
-A Battle Mind can manifest a certain number of powers per day based on her available power points. She just pays the power point cost of a power to manifest it, no preparation necessary. The number of power points available per day is shown above.
+灵战士每日能释放`每日灵力点`所限的灵力。灵战士无需准备，只需消耗灵力所需的灵力点数即可释放。每日可用灵力点如上表所示。
 
-#### Psi-Blade
+#### 灵能战刃
 
-At 2nd level, a Battle Mind can manifest a glowing blade of mental energy. This 1-foot-long blade extends from the Battle Mind’s fist. It can be manifested as a move action, and it lasts for a number of rounds equal to the Battle Mind’s level or until the Battle Mind wills it to dissipate. She can create another one on her next move action, as long as the Battle Mind’s power point reserve is 1 or more.
+2级时，灵战士可以伸出一把由灵能化成的战刃。这把1尺长的战刃从灵战士的拳头中伸展而出。释放这一灵力需要一个移动动作，灵能战刃将持续等同于灵战士等级的轮数，也可由灵战士自行收回。灵战士可以用下一个移动动作释放另一个战刃，只要还有灵力点数可用。
 
-The psi-blade deals 1d6 points of piercing damage. At 3rd level, her psi-blade gains a +1 enhancement bonus. At 5th level the enhancement bonus improves to +2. At 7th level, it improves to +3, and at 9th level it improves to +4.
+灵能战刃造成1d6点穿刺伤害。3级时，灵能战刃将获得1点增强加值。5级时，增强加值提升至2点。7级时，增强加值提升至3点，9级时提升至4点。
 
-The Battle Mind can apply the Weapon Focus or Weapon Finesse feats to her psi-blade.
+灵能战刃受`专攻武器`和`武器娴熟`两个专长的影响。
 
-#### Imprint Tattoo
+#### 刻印文身
 
-Starting at 2nd level, a Battle Mind can create create tattoos on his body or someone else’s that can be used to invoke psionic powers. A tattoo is a single-use item that duplicates the effect of a particular power. Imprinting a tattoo takes one day. The purchase DC for the raw materials to imprint a tattoo is 15 + the tattoo’s power level + the tattoo’s manifester level.
+2级时，灵战士可以在自己或其他可释放灵力的人身上刻印灵能文身。文身是一次性物品，作用是将一种灵力的效果加倍。刻印文身需要1天的时间。刻印文身所需原材料的购买DC是15+文身对应灵力的等级+释放者等级。
 
-The Battle Mind must also spend experience points to imprint a tattoo. The XP cost is equal to the power level x the manifester level x the purchase DC of the raw materials.
+灵战士也必须花费经验值来刻印文身。经验值的消耗量=灵力等级×释放者等级×原材料购买DC。
 
-Finally, the Battle Mind makes a Craft (visual arts) check. The DC for the check is 10 + the power level + the manifester level of the power. If the check fails, the raw materials are used up but the XP are not spent. The Battle Mind can try imprinting the tattoo again as soon as he purchases more raw materials.
+最后，灵战士还要做一次`制造（视觉艺术）`检定。检定DC=10+灵力等级+释放者等级。若检定失败，将消耗原材料，但不会消耗经验值。灵战士只要再购买原材料就可以再次尝试刻印文身。
 
 #### 奖励专长
 
-At 3rd, 6th, and 9th level, the Battle Mind gets a bonus feat. The bonus feat must be selected from the following list, and the Battle Mind must meet all the prerequisites of the feat to select it.
+3、6、9级时，灵战士获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
 
-Archaic Weapons Proficiency, Athletic, Blind-Fight, Cleave, Combat Martial Arts, Combat Reflexes, Exotic Melee Weapon Proficiency, Focused, Improved Combat Martial Arts, Power Attack, Weapon Finesse, Weapon Focus.
+擅长古典武器、竞技、盲战、顺势斩、实战武术、战斗反射、擅长异种近战武器、全神贯注、精通实战武术、猛力攻击、武器娴熟、专攻武器。
 
-#### Psychic Shield
+#### 灵能护盾
 
-At 4th level, a Battle Mind can manifest a shield of psychic energy, outlining her body in a barely perceptible glowing nimbus that provides a +3 equipment bonus to Defense. The shield can be manifested as a move action, and it lasts for a number of rounds equal to the Battle Mind’s level or until she wills it to dissipate. She can create another shield on her next move action, as long as her power point reserve is 1 or more.
+4级时，灵战士能释放出由灵能构成的护盾，周身被炽热光亮的灵气包裹着，防御获得3点装备加值。释放护盾需要一个移动动作，护盾将持续等同于灵战士等级的轮数，也可由灵战士自行收回。灵战士可以用下一个移动动作释放另一个护盾，只要还有灵力点数可用。
 
-#### Combat Manifestation
+#### 战斗释放
 
-At 5th level, a Battle Mind becomes adept at manifesting psionic powers in combat. She gets a +4 bonus on Concentration checks to manifest a power while on the defensive.
+5级时，灵战士渐渐熟稔战斗中的灵力释放。灵战士在防御姿态释放灵力所进行的专注检定将获得4点加值。
 
-#### Improved Psi-Blade
+#### 精通灵能战刃
 
-At 7th level, a Battle Mind’s psi-blade increases in damage capability. It now deals 1d8 points of piercing damage on a successful attack.
+7级时，灵战士的灵能战刃的伤害骰提升。成功攻击将造成1d8点穿刺伤害。
 
-#### Improved Psychic Shield
+#### 精通灵能护盾
 
-At 8th level, a Battle Mind’s psychic shield improves. It now provides a +6 equipment bonus to Defense.
+8级时，灵战士的灵能护盾得到增强。护盾将为防御提供6点装备加值。
 
-#### Ultimate Psi-Blade
+#### 终极灵能战刃
 
-At 10th level, a Battle Mind’s psi-blade increases further in damage capability. It now deals 2d6 points of piercing damage on a successful attack.
+10级时，灵战士的灵能战刃的伤害骰将再度提升。成功攻击将造成2d6点穿刺伤害。
 
-## MAGE
+## 法师
 
-The fastest path into this advanced class is from the Smart hero basic class, though other paths are possible.
+成为法师的捷径是从智力型英雄玩起，当然其他途径也是允许的。
 
 ### 要求
 
-To qualify to become a Mage, a character must fulfill the following criteria.
+要达到成为法师的资格，角色必须满足以下要求。
 
-**Skills:** Craft (chemical) 6 ranks, Decipher Script 6 ranks, Knowledge (arcane lore) 6 ranks, Research 6 ranks.
+**技能：** 制造（化学）6级、文件解读6级、知识（秘法学识）6级、研究6级。
 
 ### 职业信息
 
-The following information pertains to the Mage advanced class.
+以下是有关法师职业的信息。
 
 #### 生命骰
 
-The Mage gains 1d6 hit points per level. 与角色的体质调整值共同作用。
+法师每级获得1d6点生命。与角色的体质调整值共同作用。
 
 #### 行动点
 
-The Mage gains a number of action points equal to 6 + one-half his character level, rounded down, every time he attains a new level in this class.
+法师在该职业升级时，获得6+角色等级一半数值的行动点，向下取整。
 
 ### 本职技能
 
-The Mage’s class skills are as follows.
+法师的本职技能如下：
 
-Computer Use (Int), Concentration (Con), Craft (chemical) (Int), Craft (pharmaceutical) (Int), Craft (visual arts) (Int),Craft (writing) (Int), Decipher Script (Int), Investigate (Int), Knowledge (arcane lore, art, current events, earth and life sciences, physical sciences, popular culture, technology) (Int), Profession (Wis), Read/Write Language (none), Research (Int), Speak Language (none), Spellcraft (Int).
+计算机使用（智）、专注（体）、制造（化学、配药、视觉艺术、写作）（智）、文件解读（智）、调查（智）、知识（秘法学识、艺术、时事、地球与生命科学、物理科学、流行文化、技术）（智）、专业（感）、读写语言（无）、研究（智）、口头语言（无）、辨识法术（智）。
 
 **升级技能点数：** 7+智力调整值
 
-###Table: The Mage
+### 职业列表
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+0|+0|+0|+2|Arcane skills, arcane spells, summon familiar|+1|+1|
-|2nd|+1|+0|+0|+3|Scribe scroll, arcane spells|+1|+1|
-|3rd|+1|+1|+1|+3|Bonus feat, arcane spells, brew potion|+2|+1|
-|4th|+2|+1|+1|+4|Scribe tattoo, arcane spells|+2|+2|
-|5th|+2|+1|+1|+4|Spell mastery, arcane spells|+3|+2|
-|6th|+3|+2|+2|+5|Bonus feat, arcane spells|+3|+2|
-|7th|+3|+2|+2|+5|Combat casting, arcane spells|+4|+3|
-|8th|+4|+2|+2|+6|Spell mastery, arcane spells|+4|+3|
-|9th|+4|+3|+3|+6|Bonus feat, arcane spells|+5|+3|
-|10th|+5|+3|+3|+7|Maximize spell, arcane spells|+5|+4|
+|1st|+0|+0|+0|+2|秘法技能、秘法法术、召唤魔宠|+1|+1|
+|2nd|+1|+0|+0|+3|抄录卷轴、秘法法术|+1|+1|
+|3rd|+1|+1|+1|+3|奖励专长、秘法法术、调制药水|+2|+1|
+|4th|+2|+1|+1|+4|书写文身、秘法法术|+2|+2|
+|5th|+2|+1|+1|+4|法术熟稔、秘法法术|+3|+2|
+|6th|+3|+2|+2|+5|奖励专长、秘法法术|+3|+2|
+|7th|+3|+2|+2|+5|战斗施法、秘法法术|+4|+3|
+|8th|+4|+2|+2|+6|法术熟稔、秘法法术|+4|+3|
+|9th|+4|+3|+3|+6|奖励专长、秘法法术|+5|+3|
+|10th|+5|+3|+3|+7|极效法术、秘法法术|+5|+4|
 
 ### 职业专长
 
-All of the following features pertain to the Mage advanced class.
+以下是有关法师职业的专长。
 
-#### Arcane Skills
+#### 秘法技能
 
-A Mage has access to the following arcane skills. These skills are considered class skills for the Mage, and he can use his skill points to buy ranks in them.
+法师能使用以下秘法技能。这些技能视为法师的本职技能，遵循本职技能加点规则。
 
-##### Concentration (Con)
+##### 专注（体）
 
-The normal Concentration skill expands to include arcane applications, as defined below.
+一般的专注技能应用于秘法时，使用以下规则。
 
-**Check:** You must make a Concentration check whenever you may potentially be distracted while engaged in an activity, including casting a spell or concentrating on an active spell, that requires your full attention.
+**检定：** 进行任何行为时，只要有可能分心，就要做一次专注检定，这些动作包括施法或者其他需要全神贯注维持法术启动状态的活动。
 
-If the check succeeds, you may continue with the action as normal. If the check fails, the action automatically fails and is wasted. If you were in the process of casting a spell, the spell is lost. If you were concentrating on an active spell, the spell ends.
+检定成功则如常继续该动作。检定失败，该动作自动失败并浪费掉。如果是在施法途中，该法术丧失。如果正在维持对一个已启动法术的专注，如同你停止对其专注一样，该法术停止。
 
-The table in the Concentration skill description summarizes the various types of distractions. In situations where the distraction occurs while you are casting a spell, you add the level of the spell to the DC.
+专注技能描述里的列表总结了各种不同类型的分心。当施法时发生分心的情况，专注检定DC要加上法术等级。
 
-**Try Again?:** You can try again, but doing so doesn’t cancel the effects of a previous failure. If you lost a spell, the spell is lost.
+**重试：** 可以，但成功不能抵消之前的失败后果。丧失了正在施展的法术，就真的丧失了。
 
-**Special:** By making a check (DC 15 + spell level), you can use Concentration to cast a spell defensively, thus avoiding attacks of opportunity. If the check succeeds, you can attempt the casting without incurring any attacks of opportunity.
+**特别：** 经过检定（DC为15+法术等级），你可以用专注技能来以防御姿态施法，避免触发借机攻击。若检定成功，就可以如此施法，避免所有的借机攻击。
 
-##### Craft (chemical) (Int)
+##### 制造（化学）（智）
 
-Trained only. This skill expands to include alchemy, which can be used to create potions.
+需受训。此技能扩展到涵盖炼金术、适用于制造药水。
 
-##### Spellcraft (Int)
+##### 辨识法术（智）
 
-Trained only. Use this skill to identify spells as they are cast or spells already in place.
+需受训。使用此技能来辨识他人正在施展的法术，或者辨识现场的法术效果。
 
-**Check:** You can identify spells and magic effects.
+**检定：** 你可以辨识法术和魔法的效果。
 
-Additionally, certain spells allow you to gain information about magic provided that you make a Spellcraft check as detailed in the spell description.
+除此之外，有的法术还提供下述允许辨识出的信息。
 
-**Try Again?:** See above.
+**重试：** 见上文。
 
-**Time:** Unless otherwise indicated, using the Spellcraft skill is a move action.
+**时间：** 除非特别说明，辨识法术是一个移动动作。
 
-|DC|Task|
+|DC|能做|
 |--|----|
-|15 + spell level|Identify a spell being cast. (You must see or hear the spell’s verbal or somatic components.) You can’t try again.|
-|15 + spell level|Learn a spell from a spellbook or scroll. You can’t try again for that spell until you gain at least 1 rank in Spellcraft.|
-|15 + spell level|Prepare a spell from a borrowed spellbook. One try per day.|
-|15 + spell level|When casting detect magical aura, determine the school of magic involved in the aura of a single item or creature you can see. (If the aura isn’t a spell effect, the DC is 15 + one-half caster level.)|
-|20 + spell level|Identify a spell that’s already in place and in effect. (You must be able to see or detect the effects of the spell.) You can’t try again.|
-|20 + spell level|Identify materials created or shaped by magic, such as noting that an iron wall is the result of a wall of iron spell. You can’t try again.|
-|20 + spell level|Decipher a written spell (such as a  scroll) without using read magic. One try per day.|
-|25 + spell level|After rolling a saving throw against a spell targeted at you, determine what spell was cast upon you. This is a reaction.|
-|25|Identify a potion. This takes 1 minute.|
-|30 or higher|Understand a strange or unique magical effect. You can’t try again.|
+|15 + 法术等级|辨识正在施展的法术（你必须能看见或听见法术的姿态或声音成分。）不可重试。|
+|15 + 法术等级|从法术书或卷轴上学习法术。不可对同一个法术重试，除非你在辨识法术上提升了至少一个级数。|
+|15 + 法术等级|用借来的法术书准备法术。每天试一次。|
+|15 + 法术等级|当施展`侦测魔法气场`时，通过单一物品或你能看见的生物所发出的气场来判断魔法学派。（如果这气场不是法术效果，那么DC是15+施法者等级的一半）|
+|20 + 法术等级|鉴别已经存在并生效的法术。（你必须能看见或侦测到法术的效果。）不可重试。|
+|20 + 法术等级|鉴别由魔法创造或变形的物质，例如注意到一堵铁墙是`铁墙术`的产物。不可重试|
+|20 + 法术等级|不通过`阅读魔法`来解读写下来的法术（例如卷轴）。每天试一次。|
+|25 + 法术等级|在对抗针对你的法术时投掷完豁免后，判断那是什么法术。这是个反应，不需要动作。|
+|25|鉴定药水。需要一分钟|
+|30及以上|理解一个陌生的或独一无二的魔法效果。不可重试。|
 
-#### Arcane Spells
+#### 秘法法术
 
-The Mage’s key characteristic is the ability to cast arcane spells. He is limited to a certain number of spells of each spell level per day, according to his Mage class level. In addition, the Mage receives bonus spells based on his Intelligence score. Determine the Mage’s total number of spells per day by consulting the two tables below.
+法师的最重要的特点就是施展秘法法术。根据法师等级，法师每天每个等级的法术只能施展一定次数。而且，这个次数根据法师的智力有所增加。法师每日施法总数由以下两表综合决定。
 
-|Mage Level|0\*|1\*|2\*|3\*|4\*|5\*|
+|法师等级|0\*|1\*|2\*|3\*|4\*|5\*|
 |----------|:-:|:-:|:-:|:-:|:-:|:-:|
 |1st|3|1|—|—|—|—|
 |2nd|4|2|—|—|—|—|
@@ -798,9 +798,9 @@ The Mage’s key characteristic is the ability to cast arcane spells. He is limi
 |9th|4|4|4|3|2|1|
 |10th|4|4|4|3|3|2|
 
-\* Spells per Day by Spell Level
+\* 每个法术等级每日可用施法数
 
-|Int Score|0\*|1\*|2\*|3\*|4\*|5\*|
+|智力值|0\*|1\*|2\*|3\*|4\*|5\*|
 |---------|:-:|:-:|:-:|:-:|:-:|:-:|
 |12–13|—|1|—|—|—|—|
 |14–15|—|1|1|—|—|—|
@@ -809,242 +809,242 @@ The Mage’s key characteristic is the ability to cast arcane spells. He is limi
 |20–21|—|2|1|1|1|1|
 |22–23|—|2|2|1|1|1|
 
-\* Bonus Spells by Spell Level
+\* 每个法术等级奖励的施法次数。
 
-The Mage must prepare spells ahead of time by resting for 8 hours and spending 1 hour studying his spellbook. While studying, the Mage decides which spells to prepare. To learn, prepare, or cast a spell, the Mage must have an Intelligence score of at least 10 + the spell’s level.
+法师必须经过8小时的休息和1小时的法术书学习来准备法术，才能施法。法师在学习时决定要准备哪些法术。要学习、准备、施展一个法术，法师必须具备至少10+此法术等级的智力。
 
-A Mage can prepare a lower-level spell in place of a higher-level one if he desires. place.
+如果极缺空间，法师可以占用高级法术的位置来准备低级法术。
 
-The Difficulty Class for saving throws to resist the effects of a Mage’s spells is 10 + the spell’s level + the Mage’s Intelligence modifier.
+抵抗一个法术的豁免DC为10+法术等级+法师的智力调整值。
 
-##### Arcane Spells and Armor
+##### 秘法法术与护甲
 
-The Mage can become proficient in the use of armor, but he still has a difficult time casting most arcane spells while wearing it. Armor restricts movement, making it harder to perform the complicated gestures needed to cast spells with somatic components. When casting an arcane spell with a somatic component, the chance of arcane spell failure depends on the type of armor being worn and whether the Mage has the appropriate Armor Proficiency feat, as shown below.
+法师可以擅长使用盔甲，但法师穿着护甲施展绝大多数法术还是有些困难。护甲限制运动，让法师难以做出施法所需的复杂施法姿势。当施展需要身体姿势的魔法时，施法失败率取决于穿着的护甲类型以及法师是否擅长使用身着的护甲类型。
 
-|Armor Type|Arcane Spell Failure (Proficient)|Arcane Spell Failure (Nonproficient)|
+|护甲类型|施法失败率（擅长）|施法失败率（不擅长）|
 |----------|:-------------------------------:|:----------------------------------:|
-|Light|10%|20%|
-|Medium|20%|30%|
-|Heavy|30%|40%|
+|轻型|10%|20%|
+|中型|20%|30%|
+|重型|30%|40%|
 
-##### Spellbooks
+##### 法术书
 
-The Mage must study his spellbook each day to prepare his spells. The Mage can’t prepare any spell not recorded in his spellbook (except for read magic, which the Mage can prepare from memory). The Mage begins play with a spellbook containing all 0-level arcane spells and three 1st-level arcane spells of the player’s choice. For each point of Intelligence bonus the Mage has, his spellbook holds one additional 1st-level arcane spell. Each time the character attains a new level of Mage, he gains two new spells of any level or levels that he can cast, according to his new level. The Mage can also add spells found in other Mages’ spellbooks.
+法师必须每天学习法术书以准备法术。法师不能准备自己法术书上没有的法术（`阅读魔法`除外，这是法师可以从记忆中准备的）。法师初始便拥有一本记载了所有0级法术和3个由玩家选择的1级法术的法术书。法师的每一点智力加值还可让法师多选择一个1级法术。每次角色的法师职业升级，都能获得两个新的法术，法师必须满足施展新法术所需等级。法师还可以从找到的别人的法术书里添加新法术。
 
-A spellbook can be an actual book or any other information storage device, such as a notebook computer, desktop computer, or PDA (personal data assistant).
+法术书可以是实体书或者任何其他数据存储装置，比如笔记本电脑、台式电脑或者PDA。
 
-#### Summon Familiar
+#### 召唤魔宠
 
-A Mage has the ability to obtain a familiar.
+法师可以拥有魔宠。
 
-A familiar is magically linked to its master. In some sense, the familiar and the Mage who controls it are practically one being. That’s why, for example, the Mage can cast a personal range spell on a familiar even though normally he can only cast such a spell on himself. A familiar is a magical beast, similar physically to the normal creature it resembles. However, a familiar grants special abilities to its master, as described below. A special ability granted by a familiar only applies when the Mage and the familiar are within 1 mile of each other.
+魔宠以魔法与主人建立联系。在一些情境下，魔宠与其主人是一体的。这就是法师能向魔宠施展只能以自己为目标的法术的原因。魔宠是魔法兽类，体格上与一般的生物相似。但是，魔宠能赋予其主人特别的能力，如下所述。赋予的特殊能力只有在魔宠与主人相距不到1里时生效。
 
-For all familiar special abilities based on the master’s level count only Mage levels. Any levels from classes other than Mage are not included in this calculation unless specifically stated otherwise.
+所有魔宠的特殊能力基于主人的法师等级。主人法师外的其他等级不包括在内，除非另有说明。
 
-Depending on what kind of creature the familiar is, the master gains a special benefit, as summarized on the above table.
+根据魔宠的种类，主人获得特殊的增益，如表所示。
 
-**Familiar Qualities:** Use the basic statistics for a creature of its type but make these changes.
+**魔宠品质：** 使用同类型生物的基本属性但有所改动。
 
-**Hit Dice:** Treat as the Mage’s character level (for effects related to Hit Dice). Use the familiar’s normal total if it is higher.
+**生命骰：** 按法师当前角色等级来掷生命骰。如果魔宠生物种类的生命骰更高，则用魔宠的。
 
-**Hit Points:** One-half the Mage’s total, rounded down.
+**生命值：** 法师的总生命值的一半，向下取整。
 
-**Action Points:** A familiar cannot gain or spend action points, and a Mage cannot spend an action point through his familiar.
+**行动点：** 魔宠不能获得、使用行动点，法师也不能通过魔宠使用行动点。
 
-**Attacks:** Use the Mage’s base attack bonus. Use the familiar’s Dexterity modifier or Strength modifier, whichever is greater, to determine the familiar’s melee attack bonus with unarmed attacks. Damage equals that of a normal creature of its type.
+**攻击：** 使用法师的基础攻击加值。使用魔宠的敏捷调整值和力量调整值的最大值，来决定魔宠徒手的近战攻击加值。伤害等于同类型生物的一般伤害。
 
-**Saving Throws:** The familiar uses the Mage’s base saving throw bonuses if they’re better than the familiar’s. The familiar uses its own ability modifiers to saves, and does not enjoy other bonuses that the Mage may have (such as from feats).
+**豁免骰：** 魔宠使用法师的基础豁免骰加值，除非魔宠的更高。魔宠使用自己的属性调整值来豁免，不接受法师其他的加成（比如专长）。
 
-**Skills:** For each skill, use either the normal skill ranks for a creature of its type or the Mage’s skill ranks, whichever is better. In either case, the familiar uses its own ability modifiers. Regardless of a familiar’s total skill modifiers, some skills may remain beyond the ability of the familiar to perform (such as Craft, for instance).
+**技能：** 每个技能取魔宠一般技能等级与法师技能等级的最高者。不管取哪一个，魔宠使用自己的属性调整值。不管魔宠总的技能调整值如何，有些技能魔宠还是无法做到的（比如说制造）。
 
-**Familiar Special Abilities:** Familiars have special abilities, or impart abilities to their Mages, depending on the level of the Mage.
+**魔宠特殊能力：** 根据法师的等级，魔宠拥有特殊能力，或者能传授给主人能力。
 
->**Natural Armor (Ex):** This number represents a bonus to the familiar’s existing natural armor bonus to Defense. Add the given value directly to the familiar’s Defense. It represents a familiar’s preternatural toughness.
+>**天生护甲（Ex）：**此数值表示魔宠天然拥有的护甲提供的防御加值数值直接加到防御上。这代表魔宠异常地坚韧。
 >
->**Familiar’s Intelligence (Ex):** The familiar’s Intelligence score. (Normal creatures of its type have a much lower Intelligence score.)
+>**魔宠智力（Ex）：**魔宠的智力值。（同种类的一般生物的智力不如魔宠。）
 >
->**Alertness (Ex):** The presence of a familiar sharpens its master’s senses. While the familiar is within 5 feet, the Mage gains the Alertness feat.
+>**警觉（Ex）：**魔宠在场时，主人的感觉更敏锐。魔宠在5尺以内时，法师获得`警觉`专长。
 >
->**Share Spells (Su):** At the Mage’s option, he may have any spell he casts on himself also affect his familiar. The familiar must be within 5 feet at the time. If the spell has a duration other than instantaneous, the spell stops affecting the familiar if the creature moves farther than 5 feet away. The spell’s effect is not restored even if the familiar returns to the Mage before the duration would otherwise have ended. Additionally, the Mage may cast a spell with a target of “You” on his familiar (as a touch range spell) instead of on himself. The Mage and the familiar can share spells even if the spells normally do not affect creatures of the familiar’s type (magical beast).
+>**共享法术（Su）：**法师向自己施展的所有法术都可生效于魔宠。魔宠此时必须处于5尺以内。如果法术是持续的而非瞬时的，当魔宠处于5尺以外时，作用在魔宠上的法术将失效。即使法术未过有效期，魔宠再回到范围内，法术也不会恢复作用。此外，法师可以对魔宠施展那些法术目标为“自己”的法术（如同远程接触法术）而不是对自己施展。即使魔法不会生效于魔宠所属类型（魔法兽类）的生物，法师也与魔宠共享该法术。
 >
->**Empathic Link (Su):** The Mage has an empathic link with the familiar out to a distance of up to 1 mile. The Mage can’t see through the familiar’s eyes, but the two of them can communicate telepathically. Note that the relatively low Intelligence of a low-level Mage’s familiar limits what it is able to communicate or understand, and even intelligent familiars see the world differently from humans.
+>**情感连接（Su）：**法师与魔宠相距1里内时，彼此有情感连接。法师无法透过魔宠的眼睛看东西，但双方可以心灵沟通。应当指出的是，低级法师的魔宠智力相对底下，其交流与理解能力有限，即使是最聪明的魔宠，看待世界的方式也与人类不同。
 >
->**Touch (Su):** The familiar of a Mage who is 3rd level or higher can deliver touch spells for him. When the mage casts a touch spell, he can designate his familiar as the “toucher.” (The Mage and the familiar have to be in contact at the time of casting.) The familiar can then deliver the touch spell just as the Mage could. As normal, if the Mage casts another spell, the touch spell dissipates.
+>**接触（Su）：** 三级及以上法师的魔宠可以替主人传递接触性的法术。当法师施展`接触法术`时，法师可以指定魔宠为“接触者”（法师和魔宠必须在施法时可联系交流）。魔宠之后即可像主人本人一样去传递此接触性法术。和正常情况一样，如果在法术被传递前主人施展了另外一个法术，该接触法术`消散`。
 >
->**Improved Evasion (Ex):** If a familiar is subjected to an attack that normally allows a Reflex saving throw for half damage, the familiar takes no damage if it makes a successful saving throw and half damage even if the saving throw fails.
+>**精通反射闪避（Ex）：**如果魔宠遭到平常可以通过反射豁免而减半的伤害，反射豁免成功后，伤害不再减半，而是全免；豁免失败也能拥有伤害减半的效果。
 >
->**Speak with Familiar/Speak with Master (Ex):** A Mage of 5th level or higher and his familiar can communicate verbally as if they were using a common language. Other creatures do not understand the communication without magical help.
+>**交谈（Ex）：**5级及以上的法师可以与魔宠可以像有共同语言一样无障碍交谈。其他生物除非有魔法帮助，否则不能理解交谈内容。
 >
->**Speak with Animals of Its Type (Ex):** The familiar of a Mage of 7th level or higher can communicate with animals of approximately the same type as itself: bats and rats with rodents, cats with felines, ferrets with creatures of the family Mustelidae (weasels, minks, polecats, ermines, skunks, wolverines, and badgers), hawks and owls with birds, snakes with reptiles, toads with amphibians. The communication is limited by the Intelligence of the conversing creatures.
+>**与动物同类交谈（Ex）：**7级及以上的法师可以与和魔宠种类近似的动物交流：蝙蝠、老鼠与啮齿类动物，猫与猫科动物，鼬与鼬科动物（鼬，水貂，斑纹臭鼬，白鼬，臭鼬，狼獾，獾），猎鹰、猫头鹰与鸟类，蛇与爬虫类，蟾蜍与两栖类。它们之间的交流受对象生物智力的限制。
 >
->**Spell Resistance (Ex):** The familiar of a Mage of 9th level or higher gains spell resistance equal to the Mage’s level + 5.
+>**法术抗力（Ex）：**9级及以上的法师的魔宠获得法师等级+5的法术抗力。
 
-|Familiar|Special Benefit|
+|魔宠|特殊增益|
 |--------|---------------|
-|Bat|Mage gains +3 bonus on Listen checks|
-|Cat|Mage gains +3 bonus on Move Silently checks|
-|Ferret|Mage gains +2 bonus on Reflex saves|
-|Hawk|Mage gains +3 bonus on Spot checks in daylight|
-|Owl|Mage gains +3 bonus on Spot checks in dusk or darkness|
-|Rat|Mage gains +2 bonus on Fortitude saves|
-|Snake (Tiny viper)|Mage gains +3 bonus on Bluff checks|
-|Toad|Mage gains +3 hit points|
+|蝙蝠|法师的聆听检定获得3点加值|
+|猫|法师的潜行检定获得3点加值|
+|鼬|法师的反射豁免获得2点加值|
+|猎鹰|法师白天的侦察检定获得3点加值|
+|猫头鹰|法师在暗处的侦察检定获得3点加值|
+|老鼠|法师的强韧豁免获得2点加值|
+|蛇（超小型毒蛇）|法师的唬骗检定获得3点加值|
+|蟾蜍|法师增加3点生命|
 
-#### Scribe Scroll
+#### 抄录卷轴
 
-Starting at 2nd level, a Mage can create scrolls from which he or another spellcaster can cast a scribed spell. You can create a scroll of any spell you know. Scribing a scroll takes one day. The purchase DC for the raw materials to scribe a scroll is 13 + the scroll’s spell level + the scroll’s caster level.
+2级时，法师可以创造卷轴，供自己或他人施展。你可以创造任何你所会法术的卷轴。抄录卷轴需要1天的时间。抄录卷轴所需原材料的购买DC是13+法术等级+施法者等级。
 
-The Mage must also spend experience points to scribe a scroll. The XP cost is equal to the spell level ¥ the caster level ¥ the purchase DC of the raw materials.
+法师也必须花费经验值来抄录卷轴。经验值的消耗量=法术等级×施法者等级×原材料购买DC。
 
-Finally, the Mage makes a Craft (writing) check. The DC for the check is 10 + the spell level + the caster level of the scroll. If the check fails, the raw materials are used up but the XP are not spent. The Mage can try scribing the scroll again as soon as he purchases more raw materials.
+最后，法师还要做一次`制造（写作）`检定。检定DC=10+法术等级+施法者等级。若检定失败，将消耗原材料，但不会消耗经验值。法师只要再购买原材料就可以再次尝试抄录卷轴。
 
-Any scroll that stores a spell with a costly material component or an XP cost also carries a commensurate cost. In addition to the costs derived from the base price, you must expend the material component or pay the XP when scribing the scroll.
+若法术本身需要花费材料或经验值，制造此法术的卷轴也需要花费。除了基本价格的支出外，抄录卷轴必须额外花费法术所需的材料费用以及经验。
 
-A scroll can be written on a sheet of paper or parchment, or it can be saved as a file on a computer or PDA.
+卷轴可以写在一张纸或羊皮纸上，也可以存在电脑或PDA的文件里。
 
 #### 奖励专长
 
-At 3rd, 6th, and 9th level, the Mage gets a bonus feat. The bonus feat must be selected from the following list, and the Mage must meet all the prerequisites of the feat to select it.
+3、6、9级时，法师获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
 
-Attentive, Archaic Weapons Proficiency, Combat Expertise, Educated, Frightful Presence, Low Profile, Nimble, Studious.
+听着有心、擅长古典武器、寓守于攻、良好教育、气势雄猛、低调、灵巧、好学。
 
-#### Brew Potion
+#### 调制药水
 
-At 3rd level, a Mage can create potions, which carry spells within themselves.
+3级时，法师可以制造药水，药水可以承载法师所会的法术。
 
-The Mage can create a potion of any spell of 3rd level or lower that he knows. The spell must target a character or characters. Brewing a potion takes 24 hours. When the Mage creates a potion, he sets the caster level. The caster level must be sufficient to cast the spell in question and no higher than the Mage’s class level. The caster level has an effect on the purchase DC of the raw materials to brew the potion, the skill check to create the potion, the experience point cost to brew the potion, and the DC of a saving throw (if applicable) to resist the effect of the potion.
+法师可以制造所会的3级及以下的法术的药水。法术必须是需指定受术者的。调制药水需要24小时。调制药水时需要设置施法者等级。此施法者等级必须足以施展该法术，而且不可高于你本身的等级。施法者等级影响调制药水所需原材料的购买DC、制造药水的技能检定、调制药水所需耗费的经验、以及抵抗药水效果的豁免DC（如果可豁免）。
 
-The purchase DC for the raw materials to brew a potion is 15 + the potion’s spell level + the potion’s caster level.
+调制药水所需原材料的购买DC=15+药水的法术等级+药水的施法者等级。
 
-The Mage must also spend experience points to brew a potion. The XP cost is equal to the spell level ¥ the caster level ¥ the purchase DC of the raw materials.
+法师也必须花费经验值来调制药水。经验值的消耗量=法术等级×施法者等级×原材料购买DC。
 
-Finally, the Mage makes a Craft (chemical) check. The DC for the check is 10 + the spell level + the caster level of the potion. If the check fails, the raw materials are used up but the XP are not spent. The Mage can try brewing the potion again as soon as he purchases more raw materials.
+最后，法师还要做一次`制造（化学）`检定。检定DC=10+法术等级+药水的施法者等级。若检定失败，将消耗原材料，但不会消耗经验值。法师只要再购买原材料就可以再次尝试调制药水。
 
-When a Mage creates a potion, he makes any choices that he would normally make when casting the spell. Whoever drinks the potion is the target of the spell.
+法师调制药水时，也需要面临平常施展此法术会面临的选择。喝下药水的即为受术者。
 
-Any potion that stores a spell with a costly material component or an XP cost also carries a commensurate cost. In addition to the raw materials cost, the Mage must expend the material component or pay the XP when creating the potion.
+若法术本身需要花费材料或经验值，制造此法术的药水也需要花费。除了基本价格的支出外，调制药水必须额外花费法术所需的材料费用以及经验。
 
-#### Scribe Tattoo
+#### 书写文身
 
-At 4th level, a Mage can create tattoos on his body or someone else’s. Tattoos function similarly to scrolls, and are created in the same way (see the scribe scroll ability), except that the pertinent skill is Craft (visual arts). See Chapter Ten: FX Abilities for more about tattoos.
+4级时，法师可以在自己或别人身上创造文身。文身的机制与卷轴类似，创造过程也与抄录卷轴相同（详见`抄录卷轴`），但文身相关的技能检定是`制造（视觉艺术）`。有关文身的更多内容见第十章：超自然能力。
 
-#### Spell Mastery
+#### 法术熟稔
 
-At 5th and 8th level, a Mage gains the spell mastery ability. Each time, the Mage chooses a number of spells that he already knows equal to his Intelligence modifier. From that point on, the Mage can prepare these spells without referring to a spellbook. The Mage is so intimately familiar with these spells that he doesn’t need a spellbook to prepare them anymore.
+5级和8级时，法师获得法术熟稔能力。每次法师都可以选择数量等同于他的智力调整值的的法术。选择后，法师无需援引法术书即可准备这些法术。法师对这些法术成竹在胸，不再需要看法术书才能准备了。
 
-#### Combat Casting
+#### 战斗施法
 
-At 7th level, a Mage becomes adept at casting spells during combat. He gets a +4 bonus on Concentration checks made to cast a spell while on the defensive.
+7级时，法师渐渐熟稔战斗中的法术施展。法师在防御姿态施展法术所进行的专注检定将获得4点加值。
 
-#### Maximize Spell
+#### 极效法术
 
-At 10th level, a Mage learns to cast some of his spells to maximum effect. All variable, numeric effects of a maximized spell automatically achieve their maximum values. A maximized spell deals the most possible points of damage, affects the maximum number of targets, and so forth, as appropriate. Saving throws and opposed checks are not affected. Spells without random variables are not affected.
+10级，法师已经懂得施展极效的法术。极效法术即此法术的所有变数都取最大值。极效法术按伤害上限造成伤害，按目标数的上限影响最多的目标，触及法术所能触及的最远距离。极效无法用于豁免和对抗检定。不含随机数值的法术也用不上极效。
 
-When a maximized spell is prepared, it is treated as a spell of three levels higher than the spell’s actual level. Therefore, a Mage can only maximize 0-, 1st-, or 2nd-level spells—a maximized 1st-level spell is treated as a 4th-level spell when you decide what spells the Mage will have available for the coming day, so it limits the number of other 4th-level spells the Mage can prepare. Likewise, a maximized 2nd-level spell is treated as a 5th-level spell.
+准备极效的法术时，此法术的等级被视为比法术原等级高3。此外，法师只能极效0到2级的法术，1级的法术极效后被视为一个4级法术，准备此极效法术将占用一个4级法术的准备空间而非1级。同理，极效的2级法术被视为一个5级法术。
 
-## ACOLYTE
+## 侍僧
 
 ### 要求
 
-To qualify to become an Acolyte, a character must fulfill the following criteria.
+要达到成为侍僧的资格，角色必须满足以下要求。
 
 **基础攻击加值：** +2
 
-**Skills:** Knowledge (theology and philosophy) 6 ranks, Listen 6 ranks, Sense Motive 6 ranks.
+**技能：** 知识（神学与哲学）6级、聆听6级、察言观色6级。
 
-**Allegiance:** At the time that the character receives her first level in the Acolyte advanced class, she must decide if her faith leans toward the positive energy or negative energy of the universe. This choice adds either the good (positive) or evil (negative) allegiance to the character, and determines how the Acolyte uses certain aspects of her faith.
+**立场：**角色获得第一个侍僧等级时，必须决定其信仰导向正能量或是负能量。此选择将为角色增加善良（正能量）或邪恶（负能量）立场，侍僧将在各方面受其信仰左右。
 
-**Holy Symbol:** When the character declares her allegiance, she must designate one of her personal possessions as a symbol of her dedication to her allegiance. This possession can be either an actual religious object or some other item of personal significance. This object is referred to as the Acolyte’s holy symbol. It is typically of Tiny or Diminutive size, so that it can be easily held and manipulated in one hand, and its weight is negligible, so that it does not affect the Acolyte’s carrying capacity.
+**神符：**当角色宣示立场时，必须指定一件随身财产，作为献身于其立场的象征。财产可以是宗教器物或者一些个人珍藏。此物品即侍僧的`神符`。它一般是超小型或微型的，可以轻松地用单手握住使用，它的重量也应很小，小到不会影响侍僧的负重。
 
-An Acolyte needs her holy symbol in order to cast certain divine spells. It is also necessary for the Acolyte to be able to turn or rebuke undead (see below).
+侍僧需要用`神符`来施展`神术法术`。神符也是侍僧用来驱散或者斥喝不死生物的道具（见下文）。
 
 ### 职业信息
 
-The following information pertains to the Acolyte advanced class.
+以下是有关侍僧职业的信息。
 
 #### 生命骰
 
-The Acolyte gains 1d8 hit points per level. 与角色的体质调整值共同作用。
+侍僧每级获得1d8点生命。与角色的体质调整值共同作用。
 
 #### 行动点
 
-The Acolyte gains a number of action points equal to 6 + one-half her character level, rounded down, every time she attains a new level in this class.
+侍僧在该职业升级时，获得6+角色等级一半数值的行动点，向下取整。
 
 ### 本职技能
 
-The Acolyte’s class skills are as follows.
+侍僧的本职技能如下：
 
-Concentration (Con), Craft (structural, visual arts, writing) (Int), Diplomacy (Cha), Knowledge (behavioral sciences, earth and life sciences, theology and philosophy) (Int), Listen (Wis), Profession (Wis), Read/Write Language (none), Sense Motive, Speak Language (none), Spellcraft (Int), Treat Injury (Wis).
+专注（体）、制造（结构、视觉艺术、写作）（智）、交涉（魅）、知识（行为科学、地球与生命科学、神学与哲学）（智）、聆听（感）、专业（感）、读写语言（无）、察言观色（感）、口头语言（无）、辨识法术（智）、医疗（感）。
 
 **升级技能点数：** 5+智力调整值
 
-###Table: The Acolyte
+### 职业列表
 
-|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation bonus|
+|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
-|1st|+0|+2|+0|+2|Divine skills, divine spells|+1|+2|
-|2nd|+1|+3|+0|+3|Turn or rebuke undead, divine spells|+1|+2|
-|3rd|+2|+3|+1|+3|Bonus feat, divine spells|+2|+2|
-|4th|+3|+4|+1|+4|Spontaneous cast, divine spells|+2|+3|
-|5th|+3|+4|+1|+4|Combat casting, divine spells|+3|+3|
-|6th|+4|+5|+2|+5|Bonus feat, divine spells|+3|+3|
-|7th|+5|+5|+2|+5|Turn or rebuke magical beast, divine spells|+4|+4|
-|8th|+6|+6|+2|+6|Turn or rebuke outsider, divine spells|+4|+4|
-|9th|+6|+6|+3|+6|Bonus feat, divine spells|+5|+4|
-|10th|+7|+7|+3|+7|Maximize spell, divine spells|+5|+5|
+|1st|+0|+2|+0|+2|神术技能、神术法术|+1|+2|
+|2nd|+1|+3|+0|+3|驱散或斥喝不死生物、神术法术|+1|+2|
+|3rd|+2|+3|+1|+3|奖励专长、神术法术|+2|+2|
+|4th|+3|+4|+1|+4|自发施法、神术法术|+2|+3|
+|5th|+3|+4|+1|+4|战斗施法、神术法术|+3|+3|
+|6th|+4|+5|+2|+5|奖励专长、神术法术|+3|+3|
+|7th|+5|+5|+2|+5|驱散或斥喝魔法兽类、神术法术|+4|+4|
+|8th|+6|+6|+2|+6|驱散或斥喝异界生物、神术法术|+4|+4|
+|9th|+6|+6|+3|+6|奖励专长、神术法术|+5|+4|
+|10th|+7|+7|+3|+7|极效法术、神术法术|+5|+5|
 
 ### 职业专长
 
-All of the following features pertain to the Acolyte advanced class.
+以下是有关侍僧职业的专长。
 
-#### Divine Skills
+#### 神术技能
 
-An Acolyte has access to the following divine skills. These skills are considered class skills for the Acolyte, and she can use her skill points to buy ranks in them, just like other skills in the game.
+侍僧能使用以下神术技能。这些技能视为侍僧的本职技能，遵循本职技能加点规则。
 
-##### Concentration (Con)
+##### 专注（体）
 
-The normal Concentration skill expands to include divine applications, as defined below.
+一般的专注技能应用于神术时，使用以下规则。
 
-**Check:** You must make a Concentration check whenever you may potentially be distracted while engaged in an activity, including casting a spell or concentrating on an active spell, that requires your full attention.
+**检定：** 进行任何行为时，只要有可能分心，就要做一次专注检定，这些动作包括施法或者其他需要全神贯注维持法术启动状态的活动。
 
-If the check succeeds, you may continue with the action as normal. If the check fails, the action automatically fails and is wasted. If you were in the process of casting a spell, the spell is lost. If you were concentrating on an active spell, the spell ends.
+检定成功则如常继续该动作。检定失败，该动作自动失败并浪费掉。如果是在施法途中，该法术丧失。如果正在维持对一个已启动法术的专注，如同你停止对其专注一样，该法术停止。
 
-The table in the Concentration skill description summarizes the various types of distractions. In situations where the distraction occurs while you are casting a spell, you add the level of the spell to the DC.
+专注技能描述里的列表总结了各种不同类型的分心。当施法时发生分心的情况，专注检定DC要加上法术等级。
 
-**Try Again?:** You can try again, but doing so doesn’t cancel the effects of a previous failure. If you lost a spell, the spell is lost.
+**重试：** 可以，但成功不能抵消之前的失败后果。丧失了正在施展的法术，就真的丧失了。
 
-**Special:** By making a check (DC 15 + spell level), you can use Concentration to cast a spell defensively, thus avoiding attacks of opportunity. If the check succeeds, you can attempt the casting without incurring any attacks of opportunity.
+**特别：** 经过检定（DC为15+法术等级），你可以用专注技能来以防御姿态施法，避免触发借机攻击。若检定成功，就可以如此施法，避免所有的借机攻击。
 
-##### Spellcraft (Int)
+##### 辨识法术（智）
 
-Trained only. Use this skill to identify spells as they are cast or spells already in place.
+需受训。使用此技能来辨识他人正在施展的法术，或者辨识现场的法术效果。
 
-**Check:** You can identify spells and magic effects.
+**检定：** 你可以辨识法术和魔法的效果。
 
-Additionally, certain spells allow you to gain information about magic provided that you make a Spellcraft check as detailed in the spell description.
+除此之外，有的法术还提供下述允许辨识出的信息。
 
-**Try Again?:** See above.
+**重试：** 见上文。
 
-**Time:** Unless otherwise indicated, Spellcraft is a move action.
+**时间：** 除非特别说明，辨识法术是一个移动动作。
 
-|DC|Task|
+|DC|能做|
 |--|----|
-|15 + spell level|Identify a spell being cast. (You must see or hear the spell’s verbal or somatic components.) You can’t try again.|
-|15 + spell level|When casting detect magical aura, determine the school of magic involved in the aura of a single item or creature you can see. (If the aura isn’t a spell effect, the DC is 15 + one-half caster level.)|
-|20 + spell level|Identify a spell that’s already in place and in effect. (You must be able to see or detect the effects of the spell.) You can’t try again.|
-|20 + spell level|Identify materials created or shaped by magic, such as noting that an iron wall is the result of a wall of iron spell. You can’t try again.|
-|20 + spell level|Decipher a written spell (such as a  scroll) without using read magic. One try per day.|
-|25 + spell level|After rolling a saving throw against a spell targeted at you, determine what spell was cast upon you. This is a reaction.|
-|25|Identify a potion. This takes 1 minute.|
-|30 or higher|Understand a strange or unique magical effect. You can’t try again.|
+|15 + 法术等级|辨识正在施展的法术（你必须能看见或听见法术的姿态或声音成分。）不可重试。|
+|15 + 法术等级|当施展`侦测魔法气场`时，通过单一物品或你能看见的生物所发出的气场来判断魔法学派。（如果这气场不是法术效果，那么DC是15+施法者等级的一半）|
+|20 + 法术等级|鉴别已经存在并生效的法术。（你必须能看见或侦测到法术的效果。）不可重试。|
+|20 + 法术等级|鉴别由魔法创造或变形的物质，例如注意到一堵铁墙是`铁墙术`的产物。不可重试|
+|20 + 法术等级|不通过`阅读魔法`来解读写下来的法术（例如卷轴）。每天试一次。|
+|25 + 法术等级|在对抗针对你的法术时投掷完豁免后，判断那是什么法术。这是个反应，不需要动作。|
+|25|鉴定药水。需要一分钟|
+|30及以上|理解一个陌生的或独一无二的魔法效果。不可重试。|
 
-#### Divine Spells
+#### 神术法术
 
-The Acolyte’s key characteristic is the ability to cast divine spells. (See Chapter Ten: FX Abilities for a list and descriptions of divine spells.)
+侍僧的最重要的特点就是施展神术法术。（有关神术法术的更多内容见第十章：超自然能力。）
 
-The Acolyte is limited to a certain number of spells of each spell level per day, according to her Acolyte class level. In addition, the Acolyte receives bonus spells based on her Wisdom score. Determine the Acolyte’s total number of spells per day by consulting the two tables below.
+根据侍僧等级，侍僧每天每个等级的法术只能施展一定次数。而且，这个次数根据侍僧的感知有所增加。侍僧每日施法总数由以下两表综合决定。
 
-|Acolyte Level|0\*|1\*|2\*|3\*|4\*|5\*|
+|侍僧等级|0\*|1\*|2\*|3\*|4\*|5\*|
 |-------------|:-:|:-:|:-:|:-:|:-:|:-:|
 |1st|3|2|—|—|—|—|
 |2nd|4|3|—|—|—|—|
@@ -1057,9 +1057,9 @@ The Acolyte is limited to a certain number of spells of each spell level per day
 |9th|6|5|5|4|3|2|
 |10th|6|5|5|4|4|3|
 
-\* Spells per Day by Spell Level
+\* 每个法术等级每日可用施法数
 
-|Wis Score|0\*|1\*|2\*|3\*|4\*|5\*|
+|感知值|0\*|1\*|2\*|3\*|4\*|5\*|
 |---------|:-:|:-:|:-:|:-:|:-:|:-:|
 |12–13|—|1|—|—|—|—|
 |14–15|—|1|1|—|—|—|
@@ -1068,86 +1068,86 @@ The Acolyte is limited to a certain number of spells of each spell level per day
 |20–21|—|2|1|1|1|1|
 |22–23|—|2|2|1|1|1|
 
-\* Bonus Spells by Spell Level
+\* 每个法术等级奖励的施法次数。
 
-The Acolyte meditates or prays for her spells, receiving them through her own strength of faith or as divine inspiration. The Acolyte must spend 1 hour each day in quiet contemplation or supplication to regain her daily allotment of spells. Time spent resting has no effect on the Acolyte’s spell preparation. To learn, prepare, or cast a spell, an Acolyte must have a Wisdom score of at least 10 + the spell’s level.
+侍僧的法术是靠冥想或祈祷产生的信念之力或神之启示获得的。侍僧必须每天花费1小时的时间来安静地沉思或祈祷来获得每日施法配额。只花时间休息无法让侍僧准备法术。要学习、准备、施展一个法术，侍僧必须具备至少10+此法术等级的感知。
 
-An Acolyte can prepare a lower-level spell in place of a higher-level one if she desires.
+如果极缺空间，侍僧可以占用高级法术的位置来准备低级法术。
 
-An Acolyte may prepare and cast any spell on the divine spell list, provided she can cast spells of that level.
+侍僧可以准备和施展任何神术法术列表中的法术，只要相应等级的法术有配额。
 
-The Difficulty Class of a saving throw to resist the effects of an Acolyte’s spell is 10 + the spell’s level + the Acolyte’s Wisdom modifier.
+抵抗一个法术的豁免DC为10+法术等级+侍僧的感知调整值。
 
-#### Turn or Rebuke Undead
+#### 驱散或斥喝不死生物
 
-Starting at 2nd level, an Acolyte gains the supernatural ability to affect undead creatures, such as zombies, skeletons, ghosts, and vampires. The Acolyte’s allegiance (good or evil) determines the effect she can have on these unholy abominations. A character of the good allegiance can turn undead, driving them away or perhaps destroying them. One of the evil allegiance can use negative energy to rebuke undead, causing the creatures to cower in her presence. (In the text that follows, up to the section on Effect and Duration of Turning, “turning” refers to turning or rebuking, whichever is appropriate for a particular Acolyte.)
+2级时，侍僧获得影响不死生物的超自然能力，比如影响丧尸、骷髅、幽灵和吸血鬼。侍僧的立场（善良或邪恶）决定了其对这些恶心的秽物施加何种影响。善良立场的角色可以驱散不死生物，赶走甚至摧毁它们。邪恶立场的角色可以用负能量斥喝不死生物，使不死生物遇到角色便`畏缩`。（从下文开始直到`驱散效果与持续时间`一节，“”驱散“包括了驱散或者斥喝，根据侍僧的立场指代对应的行为，不再赘述。）
 
-**How Turning Works:** An Acolyte can turn undead (or other types of creatures at higher level) as an attack action. Doing so does not provoke an attack of opportunity. An Acolyte must present her holy symbol to make a turning attempt, holding it in one hand in such a way that it is visible to the creatures she wants to affect.
+**驱散过程：**侍僧通过一个攻击动作驱散不死生物（以及在高级时可驱散的其他生物）。驱散不会引发借机攻击。侍僧必须展示其神符以进行驱散，握在手中并让欲驱散的生物看见。
 
-**Times per Day:** An Acolyte may attempt to turn a number of times per day equal to 3 + her Charisma modifier.
+**每日驱散次数：**侍僧每天可以尝试驱散的次数为3+魅力调整值。
 
-**Range:** The Acolyte turns the closest turnable creature first. She can’t turn creatures that are more than 60 feet away or that have total cover.
+**距离：**侍僧首先驱散最靠近自己的可驱散生物。不可驱散60尺以外或者对你处于完全掩蔽的生物。
 
-**Turning Check:** First, roll a turning check to determine how powerful a creature you can turn. This is a Charisma check (1d20 + Charisma modifier). The table below shows the Hit Dice of the most powerful creature you can affect, relative to your Acolyte level. With a given turning attempt, you can’t turn any creature whose Hit Dice exceeds the result of your turning check.
+**驱散检定：** 首先掷一次驱散检定以决定你能驱散多强大的生物。这是一次魅力检定（1d20+魅力调整值）。下表列出了根据你的侍僧等级你所能驱散的最强生物的生命骰。在这次驱散尝试中，你无法驱散那些HD值超过驱散检定结果的生物。
 
-|Turning Check Result|Most Powerful Creature Affected (Maximum Hit Dice)|
+|驱散检定结果|最强可影响生物（最高HD值）|
 |:------------------:|:------------------------------------------------:|
-|0 or lower|Acolyte level –4|
-|1–3|Acolyte level –3|
-|4–6|Acolyte level –2|
-|7–9|Acolyte level –1|
-|10–12|Acolyte level|
-|13–15|Acolyte level +1|
-|16–18|Acolyte level +2|
-|19–21|Acolyte level +3|
-|22 or higher|Acolyte level +4|
+|0及以下|侍僧等级 –4|
+|1–3|侍僧等级 –3|
+|4–6|侍僧等级 –2|
+|7–9|侍僧等级 –1|
+|10–12|侍僧等级|
+|13–15|侍僧等级 +1|
+|16–18|侍僧等级 +2|
+|19–21|侍僧等级 +3|
+|22及以上|侍僧等级 +4|
 
-**Turning Damage:** If your turning check result is high enough to let you turn at least some of the undead (or other appropriate) creatures within 60 feet, roll 2d6 and add your Acolyte level and your Charisma modifier to the result to determine turning damage. That’s how many total Hit Dice of undead (or other) creatures you can turn on this attempt.
+**驱散伤害：** 如果你的驱散检定结果高到可以驱散60尺内的一些不死生物（或者其他），掷2d6再加上你的侍僧等级和你的魅力调整值来决定驱散伤害。所得结果即是你所能驱散的不死生物（或者其他）的HD总值上限。
 
-You may skip over already turned creatures that are still within range so that you don’t waste your turning capacity on them.
+你可以跳过驱散距离内那些已经被驱散过的不死生物，不需要再在它们身上浪费你的驱散能量。
 
-**Effect and Duration of Turning:** Turned creatures flee from the Acolyte by the best and fastest means available to them. A turned creature flees for 10 rounds (1 minute). If it can’t flee, it cowers (can take no actions, –2 penalty to Defense).
+**驱散效果与持续时间：** 被驱散的生物会以它们所能使用的最好同时也是最快的方式从你面前逃离。它们会持续逃跑10轮（1分钟）。如果它们无法逃跑，就会处于畏缩状态（无法做任何动作且防御有2点减值）。
 
-If the Acolyte moves to within 10 feet of a cowering turned creature, it overcomes the turning and can act normally. (The Acolyte can be standing within 10 feet of the creature without breaking the turning effect; she just can’t approach any closer to the creature.) The Acolyte can attack a turned and cowering creature with ranged attacks from more than 10 feet away, and others can attack in any fashion, without breaking the turning effect.
+如果侍僧移动到被驱散而畏缩的生物10尺内，它会克服驱散并恢复行动。（侍僧在生物10尺内，只要站在原地就不会打破驱散效果，只是不能继续靠近此生物。）侍僧可以在10尺外远程攻击被驱散而畏缩的生物，而其他人可以以任何方式攻击而不打破驱散效果。
 
-**Destroying Undead:** If the Acolyte has twice as many Acolyte levels (or more) as the undead has Hit Dice, she destroys any creature that she would normally turn.
+**摧毁不死生物：**如果侍僧的侍僧等级大于等于不死生物的生命骰的两倍，将摧毁而不是驱散此生物。
 
-**Evil Acolytes and Undead:** An Acolyte with the evil allegiance channels negative energy to rebuke (awe) or command (control) undead, instead of turning or destroying them. An evil Acolyte makes the equivalent of a turning check. Creatures that would be turned are rebuked instead, and those that would be destroyed are commanded.
+**邪恶侍僧与不死生物：**邪恶立场的侍僧可以引导负能量来斥喝（rebuke）（威慑）或是命令（command）（控制）不死生物，而不是驱散或者摧毁之。邪恶侍僧进行完全相同的驱散检定。本是驱散的效果改为斥喝，本是摧毁的效果改为命令。
 
-**Rebuked:** A rebuked creature cowers as if in awe (can take no actions, –2 penalty to Defense) for 10 rounds.
+**斥喝：** 被斥喝的生物畏缩（无法行动，防御有2点减值）10轮，如同受到了威慑一样。
 
-**Commanded:** A commanded creature falls under the mental control of the Acolyte. The Acolyte can give mental orders to a commanded creature as an attack action. The Acolyte can command any number of creatures whose total Hit Dice don’t exceed her Acolyte level. She may voluntarily relinquish command in order to establish command on different creatures.
+**命令：** 被命令的生物将受到侍僧的心灵控制。侍僧可以用一个攻击动作下达心灵指令。侍僧可以控制任何数量的、总HD不超过侍僧职业等级的生物。侍僧可自行放弃控制一个或多个生物以控制新的生物。
 
-**Dispel Turning:** An evil Acolyte may dispel the turning effect of a good Acolyte. To do so, the evil Acolyte makes a turning check as if attempting to rebuke. If the turning check result is equal to or greater than the turning check result that the good Acolyte scored when turning them, then the creatures are no longer turned. The evil Acolyte rolls turning damage to see how many Hit Dice worth of creatures she can affect in this way.
+**解除驱散：** 邪恶侍僧可以解除善良侍僧的驱散效果。侍僧要像进行斥喝检定那样做一次`驱散检定`。如果检定结果大于等于善良侍僧的驱散检定结果，被驱散生物将脱离被驱散状态。邪恶侍僧进行`驱散伤害检定`以决定能为总共多少HD的生物解除驱散。
 
-**Bolster Undead:** An evil Acolyte may bolster creatures against turning effects in advance. She makes a turning check as if attempting to rebuke them, but the Hit Dice result becomes the creatures’ effective Hit Dice as far as turning is concerned (provided the result is higher than the creatures’ normal Hit Dice). This bolstering lasts for 10 rounds.
+**鼓舞不死生物：** 邪恶侍僧可以鼓舞生物以预防驱散效果。侍僧像斥喝那样进行一次驱散检定，但HD结果表示生物被驱散时的有效HD，代替原HD结算（如果结果比原HD高）。鼓舞效果将持续10轮。
 
 #### 奖励专长
 
-At 3rd, 6th, and 9th level, the Acolyte gets a bonus feat. The bonus feat must be selected from the following list, and the Acolyte must meet all the prerequisites of the feat to select it.
+3、6、9级时，侍僧获得一个奖励专长。奖励专长必须从下表中选择，在选择时必须满足该专长的要求。
 
-Animal Affinity, Archaic Weapons Proficiency, Armor Proficiency (light), Attentive, Combat Expertise, Educated, Frightful Presence, Iron Will, Medical Expert, Studious, Trustworthy.
+动物亲和、擅长古典武器、擅长盔甲（轻型）、听者有心、寓守于攻、良好教育、气势雄猛、钢铁意志、医药专家、好学、值得信赖。
 
-#### Spontaneous Casting
+#### 自发施法
 
-An Acolyte of 4th level or higher can channel stored energy into spells she has not prepared ahead of time. The Acolyte “loses” a prepared spell to cast another spell of the same level or lower.
+4级时，侍僧可以引导储存的能量到未事先准备的法术上，施展未准备的法术。侍僧“失去”一个已准备的法术，来施展同等级或更低等级的另一个法术。
 
-An Acolyte with a good allegiance can spontaneously cast cure spells (spells with “cure” in their name). An Acolyte with an evil allegiance can spontaneously convert prepared spells into inflict spells (spells with “inflict” in their name).
+善良立场的侍僧可以自发施展`治疗法术`（名字带“治疗”的法术）。邪恶阵营的侍僧可以自发用已准备法术施展`造成伤害法术`（名字带“造成某伤”的法术）。
 
-#### Combat Casting
+#### 战斗施法
 
-At 5th level, the Acolyte becomes adept at casting spells during combat. She gets a +4 bonus on Concentration checks made to cast a spell while on the defensive.
+5级时，侍僧渐渐熟稔战斗中的法术施展。侍僧在防御姿态施展法术所进行的专注检定将获得4点加值。
 
-#### Turn or Rebuke Magical Beast
+#### 驱散或斥喝魔法兽类
 
-At 7th level, the Acolyte gains the supernatural ability to affect magical beasts. This ability works just like turning undead, except the creature type is magical beast. Magical beasts, unlike undead creatures, can’t be destroyed or commanded. All other rules pertaining to turning apply. The number of times per day the Acolyte can make a turning attempt (3 + Cha modifier) does not increase.
+7级时，侍僧获得影响魔法兽类的超自然能力。此能力机制与驱散不死生物相同，只是驱散的生物类型为魔法兽类。魔法兽类与不死生物不同的是不能被摧毁或命令。其他所有规则如常实行。侍僧每天可尝试的驱散次数（3+魅力调整值）不会增加。
 
-#### Turn or Rebuke Outsider
+#### 驱散或斥喝异界生物
 
-At 8th level, the Acolyte gains the supernatural ability to affect outsiders. This ability works just like turning undead and magical beasts, except the creature type is outsider. Outsiders, unlike undead creatures, can’t be destroyed or commanded. All other rules pertaining to turning apply. The number of times per day the Acolyte can make a turning attempt (3 + Cha modifier) does not increase.
+8级时，侍僧获得影响异界生物的超自然能力。此能力机制与驱散不死生物相同，只是驱散的生物类型为异界生物。异界生物与不死生物不同的是不能被摧毁或命令。其他所有规则如常实行。侍僧每天可尝试的驱散次数（3+魅力调整值）不会增加。
 
-#### Maximize Spell
+#### 极效法术
 
-At 10th level, an Acolyte learns to cast some of her spells to maximum effect. All variable, numeric effects of a maximized spell automatically achieve their maximum values. A maximized spell deals the most possible points of damage, affects the maximum number of targets, and so forth, as appropriate. Saving throws and opposed checks are not affected. Spells without random variables are not affected.
+10级，侍僧已经懂得施展极效的法术。极效法术即此法术的所有变数都取最大值。极效法术按伤害上限造成伤害，按目标数的上限影响最多的目标，触及法术所能触及的最远距离。极效无法用于豁免和对抗检定。不含随机数值的法术也用不上极效。
 
-When a maximized spell is prepared, it is treated as a spell of three levels higher than the spell’s actual level.
+准备极效的法术时，此法术的等级被视为比法术原等级高3。

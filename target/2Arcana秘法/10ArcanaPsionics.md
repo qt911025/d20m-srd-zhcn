@@ -40,7 +40,7 @@ Psionic Skills
 At 1st level, the Psionic Agent gains access to the Autohypnosis and Concentration skills, as described for the Battle Mind.
 Psionic Powers
 The Psionic Agent’s key talent is the ability to manifest psionics powers related to movement and detection.
-A psionic power is a one-time psionic effect. Psionic powers require power points to use. Unlike arcane spellcasters, psionicists don’t have spellbooks and they don’t prepare powers ahead of time. A psionicist’s level limits the number of power points available for manifesting powers. In addition, a psionicist must have a key ability score equal to at least 10 + the power’s level to manifest a particular power.  The Psionic Agent’s selection of psionic powers is extremely limited and tied both to detection and avoiding being detected. The Psionic Agent knows two 0-level powers (called talents) of your choice. At each level, the Psionic Agent discovers one or more previously latent powers, as indicated on the table below.
+一个灵力是一个一次性的灵能效果。灵力需要消耗灵力点数才能使用。Unlike arcane spellcasters, psionicists don’t have spellbooks and they don’t prepare powers ahead of time. A psionicist’s level limits the number of power points available for manifesting powers. In addition, a psionicist must have a key ability score equal to at least 10 + the power’s level to manifest a particular power.  The Psionic Agent’s selection of psionic powers is extremely limited and tied both to detection and avoiding being detected. The Psionic Agent knows two 0-level powers (called talents) of your choice. At each level, the Psionic Agent discovers one or more previously latent powers, as indicated on the table below.
 The DC for saving throws to resist a psionic power is 10 + the power’s level + the Psionic Agent’s key ability modifier.
 
 |Psionic Agent Level|Pts/Day|0\*|1\*|2\*|3\*|4\*|
@@ -56,7 +56,7 @@ The DC for saving throws to resist a psionic power is 10 + the power’s level +
 |9|26|3|3|3|2|—|
 |10|33|3|3|3|2|1|
 
-\* Powers Discovered by Level
+\* 发现的各等级的灵力
 
 A Psionic Agent can manifest a certain number of powers per day based on her available power points. (0-level powers have a special cost.) She just pays the power point cost of a power to manifest it, no preparation necessary. The base number of power points available per day is shown above.
 Psionic Focus
@@ -69,7 +69,7 @@ At 4th level, a Psionic Agent can spend an action point to regain a number of po
 Charged Shot
 At 5th level, a Psionic Agent may do additional damage with a ranged attack. Before making any single ranged attack, the Psionic Agent, as a free action, spends a power point to “charge” a weapon. The next attack deals an extra 1d4 points of damage if it hits (if it misses, it deals no damage, and the power point is still spent). The Psionic Agent may spend multiple free actions and power points in a single round if she has multiple attacks, but may only “charge” each attack once. A shot remains “charged” for a number of rounds equal to her levels in this class.
 Combat Manifestation
-At 7th level, a Psionic Agent becomes adept at manifesting psionic powers in combat. She gets a +4 bonus on Concentration checks to manifest a power while on the defensive.
+At 7th level, a Psionic Agent becomes adept at manifesting psionic powers in combat. 灵战士在防御姿态释放灵力所进行的专注检定将获得4点加值。
 Power Penetration
 At 8th level, the Psionic Agent’s powers are more potent at breaking through power resistance (and spell resistance) of opponents. The Psionic Agent gains a +2 on manifester level checks to beat a creature’s power resistance. For those campaigns where spell resistance and power resistance are equal, it applies to spell resistance as well.
 Deadly Aim
