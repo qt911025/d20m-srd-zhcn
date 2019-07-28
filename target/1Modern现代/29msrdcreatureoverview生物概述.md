@@ -186,7 +186,7 @@ This section lists alphabetically all the creature’s skills by name along with
 
 **Automatic Languages:** Some creatures read, write, or speak unique languages that heroes don’t know anything about. The GM determines whether a hero is capable of learning one of these unique languages and the method by which that language can be learned.
 
-## Feats
+## 专长列表
 
 This section lists alphabetically all the creature’s feats.
 

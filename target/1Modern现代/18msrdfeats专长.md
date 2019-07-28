@@ -1,97 +1,97 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
 
-# FEATS
+# 专长
 
-## Feat Descriptions
+## 专长描述
 
-Here is the format for feat descriptions.
+以下是专长的格式描述。
 
-**Feat Name:** The name of the feat.
+**专长名：** 专长的名字。
 
-****Prerequisite:**** A minimum ability score, another feat or feats, a minimum base attack bonus, and/or the minimum ranks in a skill that a character must have to acquire this feat. This entry is absent if a feat has no prerequisite.
+**要求：** 角色要拥有此专长所必需的最低属性值、其他专长、最低基础攻击加值以及最低技能等级。如果专长无要求，则可直接拥有。
 
-A character can gain a feat at the same level at which he or she gains all the prerequisites.
+角色满足所有要求并满足专长要求的职业等级即可拥有此专长。
 
-A character can’t use a feat if the character has lost a prerequisite.
+若角色不再满足专长所要求的条件，角色将不可使用此专长。
 
-**Benefit:** What the feat enables a character to do.
+**效果：** 专长赋予角色的能力。
 
-**Normal:** What a character who does not have this feat is limited to or restricted from doing. If there is no particular drawback to not possessing the feat, this entry is absent.
+**正常：** 不具有此专长的人物的能力限制。如果不具有此专长的人物不会有特定的劣势，则本项缺省。
 
-**Special:** Additional facts about the feat.
+**特别：** 此专长额外的事项。
 
-## Feats
+## 专长列表
 
-### Acrobatic
+### 杂技
 
-**Benefit:** The character gets a +2 bonus on all Jump checks and Tumble checks.
+**效果：** 角色在跳跃和翻滚检定上获得2点加值。
 
-**Special:** Remember that the Tumble skill can’t be used untrained.
+**特别：** 注意翻滚技能是需受训的。
 
-### Advanced Combat Martial Arts
+### 高级实战武术
 
-**Prerequisites:** Combat Martial Arts, Improved Combat Martial Arts, base attack bonus +8.
+**要求：** 实战武术、精通实战武术、基础攻击加值+8。
 
-**Benefit:** When the character scores a critical hit on an opponent with an unarmed strike, the character deals triple damage.
+**效果：**角色用徒手击打对对手造成重击将产生3倍伤害。
 
-**Normal:** An unarmed strike critical hit deals double damage.
+**正常：** 徒手击打的重击产生两倍伤害。
 
-### Advanced Firearms Proficiency
+### 高级擅长火器
 
-****Prerequisite:**** Personal Firearms Proficiency.
+**要求：** 擅长火器。
 
-**Benefit:** The character can fire any personal firearm on autofire without penalty (provided, of course, that it has an auto-fire setting).
+**效果：** 角色可以发射任何自动模式的单兵火器而不受任何减值（当然，这个武器得有自动模式）。
 
-**Normal:** Characters without this feat take a –4 penalty on attack rolls made with personal firearms set on auto-fire.
+**正常：** 无此专长的角色使用自动模式的火器攻击骰会有4点减值。
 
-### Advanced Two-Weapon Fighting
+### 高级双持
 
-**Prerequisites:** Dexterity 13, Two-Weapon Fighting, Im-proved Two-Weapon Fighting, base attack bonus +11.
+**要求：** 敏捷13、双持、精通双持、基础攻击加值+11。
 
-**Benefit:** The character gets a third attack with his or her offhand weapon, albeit at a –10 penalty.  This feat also allows the character to use a melee weapon in one hand and a ranged weapon in the other.
+**效果：** 角色可以用副手的武器进行第三次攻击，但有10点减值。此专长也允许角色可以一手用近战武器一手用远程武器。
 
-### Agile Riposte
+### 借机反击
 
-**Prerequisites:** Dexterity 13, Dodge.
+**要求：** 敏捷13、闪避。
 
-**Benefit:** Once per round, if the opponent the character has designated as his or her dodge target (see the Dodge feat) makes a melee attack or melee touch attack against the character and misses, the character may make an attack of opportunity against that opponent. Resolve and apply the effects from both attacks simultaneously.
+**效果：**每轮一次，如果对手是自己的闪避目标（见`闪避`专长），尝试近战攻击或者接触攻击自己而失手了，自己将可以引发对对手的借机攻击。两个攻击的效果同时结算而非先后。
 
-Even a character with the Combat Reflexes feat can’t use the Agile Riposte feat more than once per round. This feat does not grant more attacks of opportunity than the character is normally allowed in a round.
+即使角色拥有`战斗反射`专长，也不能在一轮内使用借机反击超过一次。此专长并不会赋予角色额外的借机攻击次数，发动此专长消耗的是原有的借机攻击机会。
 
-### Aircraft Operation
+### 飞行器操作
 
-Select a class of aircraft (heavy aircraft, helicopters, jet fighters, or spacecraft). The character is proficient at operating that class of aircraft.
+选择一类飞行器（重型飞行器、直升机、喷气战斗机或者太空飞船）。角色将能专业地操控这类飞行器。
 
-The heavy aircraft class includes jumbo passenger airplanes, large cargo planes, heavy bombers, and any other aircraft with three or more engines. Helicopters include transport and combat helicopters of all types. Jet fighters include military fighter and ground attack jets. Spacecraft are vehicles such as the space shuttle and the lunar lander.
+重型飞行器包括巨型客机、大型货运飞机、重型轰炸机、以及其他大于等于三个引擎的飞机。直升机包括所有类型的运输直升机和武装直升机。喷气战斗机包括歼击机和攻击机。太空飞船是诸如航天飞机和登月舱一类的载具。
 
 
-**Prerequisite:** Pilot 4 ranks.
+**要求：** 驾机4级。
 
-**Benefit:** The character takes no penalty on Pilot checks or attack rolls made when operating an aircraft of the selected class.
+**效果：** 角色操纵指定类型的飞行器在驾机检定或攻击骰时不会承受减值。
 
-**Normal:** Characters without this feat take a –4 penalty on Pilot checks made to operate an aircraft that falls in any of these classes, and on attacks made with aircraft weapons. There is no penalty when the character operates a general-purpose aircraft.
+**正常：**无此专长的角色将在使用这几类飞行器进行驾机检定，以及使用机载武器掷攻击骰时受到4点减值。角色操作通用的飞行器则无此减值。
 
-**Special:** The character can gain this feat multiple times. Each time the character takes the feat, the character selects a different class of aircraft.
+**特殊：**角色可以多次获得此专长。每次角色获得此专长将选择不同的飞行器类型。
 
-### Alertness
+### 警觉
 
-**Benefit:** The character gets a +2 bonus on all Listen checks and Spot checks.
+**效果：** 角色在聆听和侦察检定上获得2点加值。
 
-### Animal Affinity
+### 动物亲和
 
-**Benefit:** The character gets a +2 bonus on all Handle Animal checks and Ride checks.
+**效果：** 角色在驯养动物和骑术检定上获得2点加值。
 
-**Special:** Remember that the Handle Animal skill can’t be used untrained.
+**特别：** 注意驯养动物技能是需受训的。
 
-### Archaic Weapons Proficiency
+### 擅长古典武器
 
-**Benefit:** The character takes no penalty on attack rolls when using any kind of archaic weapon.
+**效果：** 角色使用任何类型的古典武器掷攻击骰时不会承受减值。
 
-**Normal:** A character without this feat takes the –4 non-proficient penalty when making attacks with archaic weapons.
+**正常：**无此专长的角色将在使用古典武器掷攻击骰时受到4点`不擅长减值`。
 
-### Armor Proficiency (heavy)
+### 擅长护甲（重型）
 
-**Prerequisites:** Armor Proficiency (light), Armor Profi-ciency (medium).
+**要求：**擅长护甲（轻型）、擅长护甲（中型）
 
 **Benefit:** See Armor Proficiency (light).
 

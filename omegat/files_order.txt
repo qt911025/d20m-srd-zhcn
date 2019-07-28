@@ -1,7 +1,7 @@
 1msrdlegal法律信息.md
 1Modern现代/2msrdbasics基本.md
 1Modern现代/3msrdabilityscores属性值.md
-1Modern现代/4msrdallegiances立场.md
+1Modern现代/4msrdallegiances阵营.md
 1Modern现代/5msrdoccupation背景.md
 1Modern现代/6msrdreputation声望.md
 1Modern现代/7msrdwealth财富.md

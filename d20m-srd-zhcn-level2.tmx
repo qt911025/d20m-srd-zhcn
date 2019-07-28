@@ -32,8 +32,8 @@
       <tuv xml:lang="EN-US">
         <seg># ALLEGIANCES</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181103T141628Z" creationid="QuenTine" creationdate="20181103T141628Z">
-        <seg># 立场</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181103T141628Z">
+        <seg># 阵营</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,8 +48,8 @@
       <tuv xml:lang="EN-US">
         <seg># Allegiances and Influence</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T081824Z" creationid="QuenTine" creationdate="20181104T081824Z">
-        <seg># 立场及其影响</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181104T081824Z">
+        <seg># 阵营及其影响</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg># FEATS</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T125008Z" creationid="quentine" creationdate="20190703T125008Z">
+        <seg># 专长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg># LEGAL INFORMATION</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181022T021550Z" creationid="QuenTine" creationdate="20181022T021550Z">
@@ -128,8 +136,8 @@
       <tuv xml:lang="EN-US">
         <seg># Pledging Allegiance</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181103T142826Z" creationid="QuenTine" creationdate="20181103T142826Z">
-        <seg># 选择立场</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181103T142826Z">
+        <seg># 选择阵营</seg>
       </tuv>
     </tu>
     <tu>
@@ -602,6 +610,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T122554Z" creationid="quentine" creationdate="20190115T122554Z">
         <seg>## 疲乏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>## Feat Descriptions</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T125015Z" creationid="quentine" creationdate="20190703T125015Z">
+        <seg>## 专长描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>## Feats</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T123551Z" creationid="quentine" creationdate="20190704T123551Z">
+        <seg>## 专长列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,6 +1238,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>### Acrobatic</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T123557Z" creationid="quentine" creationdate="20190704T123557Z">
+        <seg>### 杂技</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>### Action Points</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190116T114609Z" creationid="quentine" creationdate="20190116T114609Z">
@@ -1230,6 +1262,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>### Advanced Combat Martial Arts</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T123946Z" creationid="quentine" creationdate="20190704T123946Z">
+        <seg>### 高级实战武术</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Advanced Firearms Proficiency</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T124410Z" creationid="quentine" creationdate="20190704T124410Z">
+        <seg>### 高级擅长火器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Advanced Two-Weapon Fighting</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T124759Z" creationid="quentine" creationdate="20190704T124759Z">
+        <seg>### 高级双持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>### Advancing a Level</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T093214Z" creationid="quentine" creationdate="20190216T093214Z">
@@ -1242,6 +1298,54 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T094446Z" creationid="quentine" creationdate="20190216T094419Z">
         <seg>### 年龄的增长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Agile Riposte</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T125059Z" creationid="quentine" creationdate="20190704T125059Z">
+        <seg>### 借机反击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Aircraft Operation</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T130220Z" creationid="quentine" creationdate="20190704T130220Z">
+        <seg>### 飞行器操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Alertness</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131540Z" creationid="quentine" creationdate="20190704T131540Z">
+        <seg>### 警觉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Animal Affinity</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131618Z" creationid="quentine" creationdate="20190704T131618Z">
+        <seg>### 动物亲和</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Archaic Weapons Proficiency</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131802Z" creationid="quentine" creationdate="20190704T131802Z">
+        <seg>### 擅长古典武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Armor Proficiency (heavy)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132126Z" creationid="quentine" creationdate="20190704T132126Z">
+        <seg>### 擅长护甲（重型）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2842,8 +2946,8 @@
       <tuv xml:lang="EN-US">
         <seg>(In the text that follows, up to the section on Effect and Duration of Turning, “turning” refers to turning or rebuking, whichever is appropriate for a particular Acolyte.)</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T104529Z" creationid="quentine" creationdate="20190703T104529Z">
-        <seg>（从下文开始直到`驱散效果与持续时间`一节，“”驱散“包括了驱散或者斥喝，根据侍僧的立场指代对应的行为，不再赘述。）</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190703T104529Z">
+        <seg>（从下文开始直到`驱散效果与持续时间`一节，“”驱散“包括了驱散或者斥喝，根据侍僧的阵营指代对应的行为，不再赘述。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3385,8 +3489,8 @@
       <tuv xml:lang="EN-US">
         <seg>**Allegiance:** At the time that the character receives her first level in the Acolyte advanced class, she must decide if her faith leans toward the positive energy or negative energy of the universe.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190627T131442Z" creationid="quentine" creationdate="20190627T131442Z">
-        <seg>**立场：**角色获得第一个侍僧等级时，必须决定其信仰导向正能量或是负能量。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190627T131442Z">
+        <seg>**阵营：**角色获得第一个侍僧等级时，必须决定其信仰导向正能量或是负能量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3431,6 +3535,86 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Benefit:** Once per round, if the opponent the character has designated as his or her dodge target (see the Dodge feat) makes a melee attack or melee touch attack against the character and misses, the character may make an attack of opportunity against that opponent.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T125456Z" creationid="quentine" creationdate="20190704T125456Z">
+        <seg>**效果：**每轮一次，如果对手是自己的闪避目标（见`闪避`专长），尝试近战攻击或者接触攻击自己而失手了，自己将可以引发对对手的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character can fire any personal firearm on autofire without penalty (provided, of course, that it has an auto-fire setting).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T124606Z" creationid="quentine" creationdate="20190704T124606Z">
+        <seg>**效果：** 角色可以发射任何自动模式的单兵火器而不受任何减值（当然，这个武器得有自动模式）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Handle Animal checks and Ride checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131658Z" creationid="quentine" creationdate="20190704T131658Z">
+        <seg>**效果：** 角色在驯养动物和骑术检定上获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Jump checks and Tumble checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T123707Z" creationid="quentine" creationdate="20190704T123707Z">
+        <seg>**效果：** 角色在跳跃和翻滚检定上获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Listen checks and Spot checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131613Z" creationid="quentine" creationdate="20190704T131613Z">
+        <seg>**效果：** 角色在聆听和侦察检定上获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a third attack with his or her offhand weapon, albeit at a –10 penalty.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T124941Z" creationid="quentine" creationdate="20190704T124941Z">
+        <seg>**效果：** 角色可以用副手的武器进行第三次攻击，但有10点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character takes no penalty on Pilot checks or attack rolls made when operating an aircraft of the selected class.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131203Z" creationid="quentine" creationdate="20190704T131203Z">
+        <seg>**效果：** 角色操纵指定类型的飞行器在驾机检定或攻击骰时不会承受减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character takes no penalty on attack rolls when using any kind of archaic weapon.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131912Z" creationid="quentine" creationdate="20190704T131912Z">
+        <seg>**效果：** 角色使用任何类型的古典武器掷攻击骰时不会承受减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** What the feat enables a character to do.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T122805Z" creationid="quentine" creationdate="20190704T122805Z">
+        <seg>**效果：** 专长赋予角色的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When the character scores a critical hit on an opponent with an unarmed strike, the character deals triple damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T124400Z" creationid="quentine" creationdate="20190704T124052Z">
+        <seg>**效果：**角色用徒手击打对对手造成重击将产生3倍伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Bolster Undead:** An evil Acolyte may bolster creatures against turning effects in advance.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T114203Z" creationid="quentine" creationdate="20190703T114203Z">
@@ -3465,16 +3649,16 @@
       <tuv xml:lang="EN-US">
         <seg>**Bonus Feat:** Select one of the following: Brawl, Combat Martial Arts, Armor Proficiency (light), or Personal Firearms Proficiency.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190116T133106Z" creationid="QuenTine" creationdate="20181104T141539Z">
-        <seg>**奖励专长：** 选其一：拳法、实战武术、擅长盔甲（轻型）、擅长个人火器。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132345Z" creationid="QuenTine" creationdate="20181104T141539Z">
+        <seg>**奖励专长：** 选其一：拳法、实战武术、擅长护甲（轻型）、擅长个人火器。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>**Bonus Feat:** Select one of the following: Combat Martial Arts, Armor Proficiency (light), or Personal Firearms Proficiency.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190116T133119Z" creationid="QuenTine" creationdate="20181104T141140Z">
-        <seg>**奖励专长：** 选其一：实战武术、擅长盔甲（轻型）、擅长个人火器。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132345Z" creationid="QuenTine" creationdate="20181104T141140Z">
+        <seg>**奖励专长：** 选其一：实战武术、擅长护甲（轻型）、擅长个人火器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3713,8 +3897,8 @@
       <tuv xml:lang="EN-US">
         <seg>**Evil Acolytes and Undead:** An Acolyte with the evil allegiance channels negative energy to rebuke (awe) or command (control) undead, instead of turning or destroying them.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T112355Z" creationid="quentine" creationdate="20190703T112355Z">
-        <seg>**邪恶侍僧与不死生物：**邪恶立场的侍僧可以引导负能量来斥喝（rebuke）（威慑）或是命令（command）（控制）不死生物，而不是驱散或者摧毁之。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190703T112355Z">
+        <seg>**邪恶侍僧与不死生物：**邪恶阵营的侍僧可以引导负能量来斥喝（rebuke）（威慑）或是命令（command）（控制）不死生物，而不是驱散或者摧毁之。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3771,6 +3955,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190203T041125Z" creationid="quentine" creationdate="20190202T122139Z">
         <seg>**求援：**魅力型英雄能够请任何所遇之人帮忙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Feat Name:** The name of the feat.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T125052Z" creationid="quentine" creationdate="20190703T125052Z">
+        <seg>**专长名：** 专长的名字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3961,8 +4153,8 @@
       <tuv xml:lang="EN-US">
         <seg>**Holy Symbol:** When the character declares her allegiance, she must designate one of her personal possessions as a symbol of her dedication to her allegiance.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190627T132451Z" creationid="quentine" creationdate="20190627T132451Z">
-        <seg>**神符：**当角色宣示立场时，必须指定一件随身财产，作为献身于其立场的象征。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190627T132451Z">
+        <seg>**神符：**当角色宣示阵营时，必须指定一件随身财产，作为献身于其阵营的象征。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4103,6 +4295,46 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Normal:** A character without this feat takes the –4 non-proficient penalty when making attacks with archaic weapons.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132113Z" creationid="quentine" creationdate="20190704T132113Z">
+        <seg>**正常：**无此专长的角色将在使用古典武器掷攻击骰时受到4点`不擅长减值`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** An unarmed strike critical hit deals double damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T124353Z" creationid="quentine" creationdate="20190704T124353Z">
+        <seg>**正常：** 徒手击打的重击产生两倍伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** Characters without this feat take a –4 penalty on Pilot checks made to operate an aircraft that falls in any of these classes, and on attacks made with aircraft weapons.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131406Z" creationid="quentine" creationdate="20190704T131406Z">
+        <seg>**正常：**无此专长的角色将在使用这几类飞行器进行驾机检定，以及使用机载武器掷攻击骰时受到4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** Characters without this feat take a –4 penalty on attack rolls made with personal firearms set on auto-fire.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T124708Z" creationid="quentine" creationdate="20190704T124708Z">
+        <seg>**正常：** 无此专长的角色使用自动模式的火器攻击骰会有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** What a character who does not have this feat is limited to or restricted from doing.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T122909Z" creationid="quentine" creationdate="20190704T122909Z">
+        <seg>**正常：** 不具有此专长的人物的能力限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Opportunist:** The Fast hero can spend 1 action point to use this talent.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190117T130331Z" creationid="quentine" creationdate="20190117T130331Z">
@@ -4115,6 +4347,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190201T144657Z" creationid="quentine" creationdate="20190201T144657Z">
         <seg>**计划：**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisite:** A minimum ability score, another feat or feats, a minimum base attack bonus, and/or the minimum ranks in a skill that a character must have to acquire this feat.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T122123Z" creationid="quentine" creationdate="20190704T122123Z">
+        <seg>**要求：** 角色要拥有此专长所必需的最低属性值、其他专长、最低基础攻击加值以及最低技能等级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4159,10 +4399,58 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Prerequisite:** Personal Firearms Proficiency.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T124425Z" creationid="quentine" creationdate="20190704T124425Z">
+        <seg>**要求：** 擅长火器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisite:** Pilot 4 ranks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131039Z" creationid="quentine" creationdate="20190704T131039Z">
+        <seg>**要求：** 驾机4级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Prerequisite:** Strength 13 or Dexterity 13.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T122531Z" creationid="QuenTine" creationdate="20181104T122531Z">
         <seg>**要求：** 13力量或13敏捷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Armor Proficiency (light), Armor Profi-ciency (medium).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132343Z" creationid="quentine" creationdate="20190704T132343Z">
+        <seg>**要求：**擅长护甲（轻型）、擅长护甲（中型）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Combat Martial Arts, Improved Combat Martial Arts, base attack bonus +8.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T124019Z" creationid="quentine" creationdate="20190704T124019Z">
+        <seg>**要求：** 实战武术、精通实战武术、基础攻击加值+8。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Dexterity 13, Dodge.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T125120Z" creationid="quentine" creationdate="20190704T125120Z">
+        <seg>**要求：** 敏捷13、闪避。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Dexterity 13, Two-Weapon Fighting, Im-proved Two-Weapon Fighting, base attack bonus +11.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T124833Z" creationid="quentine" creationdate="20190704T124833Z">
+        <seg>**要求：** 敏捷13、双持、精通双持、基础攻击加值+11。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4584,6 +4872,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Special:** Additional facts about the feat.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T123740Z" creationid="quentine" creationdate="20190704T123044Z">
+        <seg>**特别：** 此专长额外的事项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Special:** By making a check (DC 15 + power level), you can use Concentration to manifest a power defensively, thus avoiding attacks of opportunity.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190619T131907Z" creationid="quentine" creationdate="20190619T131907Z">
@@ -4596,6 +4892,30 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190612T122612Z" creationid="quentine" creationdate="20190612T122612Z">
         <seg>**特别：** 经过检定（DC为15+法术等级），你可以用专注技能来以防御姿态施法，避免触发借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** Remember that the Handle Animal skill can’t be used untrained.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131734Z" creationid="quentine" creationdate="20190704T131734Z">
+        <seg>**特别：** 注意驯养动物技能是需受训的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** Remember that the Tumble skill can’t be used untrained.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T123932Z" creationid="quentine" creationdate="20190704T123731Z">
+        <seg>**特别：** 注意翻滚技能是需受训的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** The character can gain this feat multiple times.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131511Z" creationid="quentine" creationdate="20190704T131511Z">
+        <seg>**特殊：**角色可以多次获得此专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4987,11 +5307,11 @@
 &gt;
 &gt;Some magic items have positive or negative effects based on your allegiance.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190612T135537Z" creationid="quentine" creationdate="20190612T135537Z">
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190612T135537Z">
         <seg>&gt;
-&gt;**模仿立场**
+&gt;**模仿阵营**
 &gt;
-&gt;有的魔法物品会根据你的立场产生正面或负面效果。</seg>
+&gt;有的魔法物品会根据你的阵营产生正面或负面效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5141,9 +5461,9 @@
         <seg>&gt;
 &gt;If the class whose feature you are emulating has an allegiance requirement, you must meet it.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190612T134211Z" creationid="quentine" creationdate="20190612T134211Z">
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190612T134211Z">
         <seg>&gt;
-&gt;如果职业专长有立场要求，你也必须满足。</seg>
+&gt;如果职业专长有阵营要求，你也必须满足。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5630,6 +5950,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A character can gain a feat at the same level at which he or she gains all the prerequisites.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T122603Z" creationid="quentine" creationdate="20190704T122529Z">
+        <seg>角色满足所有要求并满足专长要求的职业等级即可拥有此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A character can go without food for three days, in growing discomfort.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T132948Z" creationid="quentine" creationdate="20190115T132948Z">
@@ -5710,6 +6038,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A character can’t use a feat if the character has lost a prerequisite.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T122706Z" creationid="quentine" creationdate="20190704T122706Z">
+        <seg>若角色不再满足专长所要求的条件，角色将不可使用此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A character can’t use an action point on a skill check or ability check when he or she is taking 10 or taking 20.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T134945Z" creationid="quentine" creationdate="20190114T134828Z">
@@ -5776,16 +6112,16 @@
       <tuv xml:lang="EN-US">
         <seg>A character may have no allegiances (being either a free spirit or a lone wolf) or may change allegiances as he or she goes through life.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181106T135206Z" creationid="QuenTine" creationdate="20181103T142450Z">
-        <seg>角色也可以没有特定立场（信仰自由或者独来独往的人），也可以在游戏过程中改变立场。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181103T142450Z">
+        <seg>角色也可以没有特定阵营（信仰自由或者独来独往的人），也可以在游戏过程中改变阵营。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>A character may have up to three allegiances, listed in order from most important to least important.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181103T141715Z" creationid="QuenTine" creationdate="20181103T141715Z">
-        <seg>每个角色最多可以有三个立场，按重要程度从高到低排列。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181103T141715Z">
+        <seg>每个角色最多可以有三个阵营，按重要程度从高到低排列。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5800,8 +6136,8 @@
       <tuv xml:lang="EN-US">
         <seg>A character of the good allegiance can turn undead, driving them away or perhaps destroying them.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T111924Z" creationid="quentine" creationdate="20190703T103841Z">
-        <seg>善良立场的角色可以驱散不死生物，赶走甚至摧毁它们。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190703T103841Z">
+        <seg>善良阵营的角色可以驱散不死生物，赶走甚至摧毁它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6168,8 +6504,8 @@
       <tuv xml:lang="EN-US">
         <seg>A hero’s allegiance can take the form of loyalty to a person, to an organization, to a belief system, to a nation, or to an ethical or moral philosophy.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T073831Z" creationid="QuenTine" creationdate="20181104T073831Z">
-        <seg>一个角色的立场可以由向某人、某组织、某信仰体系、某句话、某个国家、或者是某种道德观念示忠来决定。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181104T073831Z">
+        <seg>一个角色的阵营可以由向某人、某组织、某信仰体系、某句话、某个国家、或者是某种道德观念示忠来决定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6608,16 +6944,16 @@
       <tuv xml:lang="EN-US">
         <seg>Acrobatic, Alertness, Armor Proficiency (light), Athletic, Attentive, Brawl, Cautious, Defensive Martial Arts, Dodge, Elusive Target, Meticulous, Mobility, Nimble, Renown, Run, Stealthy.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190417T142916Z" creationid="quentine" creationdate="20190417T142315Z">
-        <seg>杂技、警觉、擅长盔甲（轻型）、竞技、听者有心、拳法、谨慎、防御武术、闪避、凌波微步、一丝不苟、灵活移动、灵巧、闻名、奔跑、隐秘。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190417T142315Z">
+        <seg>杂技、警觉、擅长护甲（轻型）、竞技、听者有心、拳法、谨慎、防御武术、闪避、凌波微步、一丝不苟、灵活移动、灵巧、闻名、奔跑、隐秘。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>Acrobatic, Armor Proficiency (light), Armor Proficiency (me-di-um), Athletic, Brawl, Cautious, Dodge, Force Stop, Im-proved Brawl, Improved Damage Threshold, Improved Knockout Punch, Knockout Punch, Mobility, Nimble, Spring Attack, Streetfighting, Surface Vehicle Operation, Toughness, Vehicle Dodge, Vehicle Expert.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190421T121325Z" creationid="quentine" creationdate="20190421T115612Z">
-        <seg>杂技、擅长盔甲（轻型）、擅长盔甲（中型）、竞技、拳法、谨慎、闪避、逼停、精通拳法、巨创阈值增强、精通终结之拳、终结之拳、灵活移动、灵巧、跳跃攻击、街头战斗、地面载具操作、健壮、载具闪避、载具专家。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190421T115612Z">
+        <seg>杂技、擅长护甲（轻型）、擅长护甲（中型）、竞技、拳法、谨慎、闪避、逼停、精通拳法、巨创阈值增强、精通终结之拳、终结之拳、灵活移动、灵巧、跳跃攻击、街头战斗、地面载具操作、健壮、载具闪避、载具专家。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6768,32 +7104,32 @@
       <tuv xml:lang="EN-US">
         <seg>Advanced Firearms Proficiency, Archaic Weapons Proficiency, Armor Proficiency (light), Armor Proficiency (medium), Armor Proficiency (heavy), Brawl, Burst Fire, Cleave, Combat Reflexes, Exotic Firearms Proficiency, Exotic Melee Weapon Proficiency, Far Shot, Great Cleave, Im-proved Brawl, Improved Knockout Punch, Knockout Punch, Power Attack.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190611T135016Z" creationid="quentine" creationdate="20190226T125336Z">
-        <seg>高级擅长火器、擅长古典武器、擅长盔甲（轻型）、擅长盔甲（中型）、擅长盔甲（重型）、拳法、点射、顺势斩、战斗反射、擅长异种火器、擅长异种近战武器、远程射击、强力顺势斩、精通拳法、精通终结之拳、终结之拳、猛力攻击。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190226T125336Z">
+        <seg>高级擅长火器、擅长古典武器、擅长护甲（轻型）、擅长护甲（中型）、擅长护甲（重型）、拳法、点射、顺势斩、战斗反射、擅长异种火器、擅长异种近战武器、远程射击、强力顺势斩、精通拳法、精通终结之拳、终结之拳、猛力攻击。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>Advanced Firearms Proficiency, Armor Proficiency (light), Armor Proficiency (medium), Attentive, Combat Expertise, Combat Reflexes, Double Tap, Improved Brawl, Improved Feint, Improved Knockout Punch, Knockout Punch, Precise Shot, Quick Draw, Quick Reload, Streetfighting, Vehicle Expert.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190421T132505Z" creationid="quentine" creationdate="20190421T132505Z">
-        <seg>高级擅长火器、擅长盔甲（轻型）、擅长盔甲（中型）、听者有心、寓守于攻、战斗反射、双发快射、精通拳法、精通虚招、精通终结之拳、终结之拳、精准射击、快速拔出、快速装填、街头战斗、载具专家。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190421T132505Z">
+        <seg>高级擅长火器、擅长护甲（轻型）、擅长护甲（中型）、听者有心、寓守于攻、战斗反射、双发快射、精通拳法、精通虚招、精通终结之拳、终结之拳、精准射击、快速拔出、快速装填、街头战斗、载具专家。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>Advanced Firearms Proficiency, Armor Proficiency (light), Armor Proficiency (medium), Attentive, Confident, Dead Aim, Deceptive, Educated, Far Shot, Iron Will, Personal Firearms Proficiency, Trustworthy.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190526T130926Z" creationid="quentine" creationdate="20190526T130809Z">
-        <seg>高级擅长火器、擅长盔甲（轻型）、擅长盔甲（中型）、听着有心、自信、屏息瞄准、欺诈、良好教育、远程射击、钢铁意志、擅长单兵火器、值得信赖。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190526T130809Z">
+        <seg>高级擅长火器、擅长护甲（轻型）、擅长护甲（中型）、听着有心、自信、屏息瞄准、欺诈、良好教育、远程射击、钢铁意志、擅长单兵火器、值得信赖。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>Advanced Firearms Proficiency, Armor Proficiency (light), Armor Proficiency (medium), Brawl, Defensive Martial Arts, Dodge, Double Tap, Educated, Knockout Punch, Personal Firearms Proficiency, Point Blank Shot.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190526T084706Z" creationid="quentine" creationdate="20190526T084706Z">
-        <seg>高级擅长火器、擅长盔甲（轻型）、擅长盔甲（中型）、拳法、防御武术、闪避、双发快射、良好教育、终结之拳、擅长单兵火器、近程射击。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190526T084706Z">
+        <seg>高级擅长火器、擅长护甲（轻型）、擅长护甲（中型）、拳法、防御武术、闪避、双发快射、良好教育、终结之拳、擅长单兵火器、近程射击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7112,8 +7448,8 @@
       <tuv xml:lang="EN-US">
         <seg>Allegiances include, but are not limited to, the following examples.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T074133Z" creationid="QuenTine" creationdate="20181104T074133Z">
-        <seg>立场包含但不限于以下例子。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181104T074133Z">
+        <seg>阵营包含但不限于以下例子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7144,8 +7480,8 @@
       <tuv xml:lang="EN-US">
         <seg>Also, just because the character fits into a certain category of people doesn’t mean the character has to have that category as an allegiance.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181103T142730Z" creationid="QuenTine" creationdate="20181103T142606Z">
-        <seg>此外，角色只是身为某一类人并不意味着该角色与这类人立场相同。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181103T142606Z">
+        <seg>此外，角色只是身为某一类人并不意味着该角色与这类人阵营相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7256,8 +7592,8 @@
       <tuv xml:lang="EN-US">
         <seg>An Acolyte with a good allegiance can spontaneously cast cure spells (spells with “cure” in their name).</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T115231Z" creationid="quentine" creationdate="20190703T115231Z">
-        <seg>善良立场的侍僧可以自发施展`治疗法术`（名字带“治疗”的法术）。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190703T115231Z">
+        <seg>善良阵营的侍僧可以自发施展`治疗法术`（名字带“治疗”的法术）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7312,8 +7648,8 @@
       <tuv xml:lang="EN-US">
         <seg>An allegiance can create an empathic bond with others of the same allegiance.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T082353Z" creationid="QuenTine" creationdate="20181104T082147Z">
-        <seg>相同立场的角色能互相感同身受，建立这种联系。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181104T082147Z">
+        <seg>相同阵营的角色能互相感同身受，建立这种联系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7384,8 +7720,8 @@
       <tuv xml:lang="EN-US">
         <seg>An evil allegiance shows a willingness to hurt, oppress, and kill others, and to debase or destroy innocent life.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T081806Z" creationid="QuenTine" creationdate="20181104T081806Z">
-        <seg>而邪恶立场的人则趋向于伤害、压迫甚至杀害他人，并且贬低甚至危害无辜。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181104T081806Z">
+        <seg>而邪恶阵营的人则趋向于伤害、压迫甚至杀害他人，并且贬低甚至危害无辜。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7400,16 +7736,16 @@
       <tuv xml:lang="EN-US">
         <seg>An individual with a chaotic outlook tends to follow his or her instincts and whims, favor new ideas and experiences, and behave in a subjective and open manner in dealings with others.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T081334Z" creationid="QuenTine" creationdate="20181104T081334Z">
-        <seg>而立场混乱的人则更喜欢按自己的套路行事，他们喜欢新奇的思想和体验，并且对他人的做法持开放态度。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181104T081334Z">
+        <seg>而阵营混乱的人则更喜欢按自己的套路行事，他们喜欢新奇的思想和体验，并且对他人的做法持开放态度。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>An individual with a good allegiance tends to protect innocent life.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T081545Z" creationid="QuenTine" creationdate="20181104T081545Z">
-        <seg>善良立场的人会倾向于保护无辜的生命，</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181104T081545Z">
+        <seg>善良阵营的人会倾向于保护无辜的生命，</seg>
       </tuv>
     </tu>
     <tu>
@@ -7480,8 +7816,8 @@
       <tuv xml:lang="EN-US">
         <seg>Animal Affinity, Archaic Weapons Proficiency, Armor Proficiency (light), Attentive, Combat Expertise, Educated, Frightful Presence, Iron Will, Medical Expert, Studious, Trustworthy.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T114807Z" creationid="quentine" creationdate="20190703T114643Z">
-        <seg>动物亲和、擅长古典武器、擅长盔甲（轻型）、听者有心、寓守于攻、良好教育、气势雄猛、钢铁意志、医药专家、好学、值得信赖。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190703T114643Z">
+        <seg>动物亲和、擅长古典武器、擅长护甲（轻型）、听者有心、寓守于攻、良好教育、气势雄猛、钢铁意志、医药专家、好学、值得信赖。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7688,8 +8024,8 @@
       <tuv xml:lang="EN-US">
         <seg>Armor Proficiency (light), Armor Proficiency (medium), Cautious, Defensive Martial Arts, Dodge, Educated, Im-proved Initiative, Medical Expert, Personal Firearms Proficiency, Surface Vehicle Operation, Vehicle Expert.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190524T131135Z" creationid="quentine" creationdate="20190524T131035Z">
-        <seg>擅长盔甲（轻型）、擅长盔甲（中型）、谨慎、防御武术、闪避、良好教育、精通先攻、医药专家、擅长单兵火器、地面载具操作、载具专家。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190524T131035Z">
+        <seg>擅长护甲（轻型）、擅长护甲（中型）、谨慎、防御武术、闪避、良好教育、精通先攻、医药专家、擅长单兵火器、地面载具操作、载具专家。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7736,8 +8072,8 @@
       <tuv xml:lang="EN-US">
         <seg>As a result, a character must have Intelligence and Wisdom scores of 3 or higher in order to select allegiances.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T074106Z" creationid="QuenTine" creationdate="20181104T074106Z">
-        <seg>所以，具备选择立场能力的角色至少需要3点智力及感知。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181104T074106Z">
+        <seg>所以，具备选择阵营能力的角色至少需要3点智力及感知。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9611,6 +9947,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Each time the character takes the feat, the character selects a different class of aircraft.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131536Z" creationid="quentine" creationdate="20190704T131536Z">
+        <seg>每次角色获得此专长将选择不同的飞行器类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Each time, the Mage chooses a number of spells that he already knows equal to his Intelligence modifier.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190624T142403Z" creationid="quentine" creationdate="20190624T142403Z">
@@ -9671,6 +10015,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190117T131047Z" creationid="quentine" creationdate="20190117T131047Z">
         <seg>即便该英雄具有战斗反射专长，该天赋每回合最多也只能发动一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Even a character with the Combat Reflexes feat can’t use the Agile Riposte feat more than once per round.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T125949Z" creationid="quentine" creationdate="20190704T125949Z">
+        <seg>即使角色拥有`战斗反射`专长，也不能在一轮内使用借机反击超过一次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10061,8 +10413,8 @@
       <tuv xml:lang="EN-US">
         <seg>Having an allegiance implies having sufficient intelligence and wisdom to make a moral or ethical choice.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T074029Z" creationid="QuenTine" creationdate="20181104T074029Z">
-        <seg>具有立场的前提是必须有足够的智力和感知来评判和选择道德观念。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181104T074029Z">
+        <seg>具有阵营的前提是必须有足够的智力和感知来评判和选择道德观念。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10135,6 +10487,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T131851Z" creationid="quentine" creationdate="20190115T131851Z">
         <seg>笨重的衣物或护甲对于炎热的豁免检定有4点减值，对于寒冷则有4点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Helicopters include transport and combat helicopters of all types.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T130742Z" creationid="quentine" creationdate="20190704T130742Z">
+        <seg>直升机包括所有类型的运输直升机和武装直升机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Here is the format for feat descriptions.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T125035Z" creationid="quentine" creationdate="20190703T125035Z">
+        <seg>以下是专长的格式描述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10573,8 +10941,8 @@
       <tuv xml:lang="EN-US">
         <seg>If the character acts in a way that is detrimental to his or her allegiance, the GM may choose to strip the character of that allegiance (and all its benefits) and assign an allegiance more suitable to those actions.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181106T135227Z" creationid="QuenTine" creationdate="20181103T142810Z">
-        <seg>如果角色行为同其立场的精神相左，那么GM可以考虑剥夺该角色的立场（及其带来的好处）并且为其选择更为适合的立场。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181103T142810Z">
+        <seg>如果角色行为同其阵营的精神相左，那么GM可以考虑剥夺该角色的阵营（及其带来的好处）并且为其选择更为适合的阵营。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11043,6 +11411,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If there is no particular drawback to not possessing the feat, this entry is absent.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T122926Z" creationid="quentine" creationdate="20190704T122926Z">
+        <seg>如果不具有此专长的人物不会有特定的劣势，则本项缺省。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If you already have a high enough score in the ability, you don’t need to make this check.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190612T135429Z" creationid="quentine" creationdate="20190612T135429Z">
@@ -11309,8 +11685,8 @@
       <tuv xml:lang="EN-US">
         <seg>In any case, a character can’t regain hit points past his or her full normal total.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T113327Z" creationid="quentine" creationdate="20190115T113327Z">
-        <seg>在任何情况下，角色不能恢复到超过生命上限。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T123300Z" creationid="quentine" creationdate="20190115T113327Z">
+        <seg>在任何情况下，角色不能恢复到超过正常情形下的生命上限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11333,8 +11709,8 @@
       <tuv xml:lang="EN-US">
         <seg>In general, a character can discard an allegiance at any time, but may only gain a new allegiance after attaining a new level.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T073910Z" creationid="QuenTine" creationdate="20181104T073910Z">
-        <seg>通常，角色可以在任何时候放弃自己的立场，但必须在升级的时候才能够选择新的立场。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181104T073910Z">
+        <seg>通常，角色可以在任何时候放弃自己的阵营，但必须在升级的时候才能够选择新的阵营。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11779,6 +12155,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Jet fighters include military fighter and ground attack jets.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T130852Z" creationid="quentine" creationdate="20190704T130852Z">
+        <seg>喷气战斗机包括歼击机和攻击机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Keeping track of negative ability score points is never necessary.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181103T132250Z" creationid="QuenTine" creationdate="20181103T132250Z">
@@ -12197,8 +12581,8 @@
       <tuv xml:lang="EN-US">
         <seg>One of the evil allegiance can use negative energy to rebuke undead, causing the creatures to cower in her presence.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T104054Z" creationid="quentine" creationdate="20190703T104038Z">
-        <seg>邪恶立场的角色可以用负能量斥喝不死生物，使不死生物遇到角色便`畏缩`。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190703T104038Z">
+        <seg>邪恶阵营的角色可以用负能量斥喝不死生物，使不死生物遇到角色便`畏缩`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12711,6 +13095,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Resolve and apply the effects from both attacks simultaneously.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T125823Z" creationid="quentine" creationdate="20190704T125823Z">
+        <seg>两个攻击的效果同时结算而非先后。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Saving throws and opposed checks are not affected.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190620T141250Z" creationid="quentine" creationdate="20190620T140356Z">
@@ -12763,6 +13155,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190518T140142Z" creationid="quentine" creationdate="20190518T140142Z">
         <seg>详见修理技能的应急维修条目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Select a class of aircraft (heavy aircraft, helicopters, jet fighters, or spacecraft).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T130327Z" creationid="quentine" creationdate="20190704T130327Z">
+        <seg>选择一类飞行器（重型飞行器、直升机、喷气战斗机或者太空飞船）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13039,6 +13439,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Spacecraft are vehicles such as the space shuttle and the lunar lander.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131010Z" creationid="quentine" creationdate="20190704T131010Z">
+        <seg>太空飞船是诸如航天飞机和登月舱一类的载具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Spells without random variables are not affected.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190624T143045Z" creationid="quentine" creationdate="20190624T143045Z">
@@ -13225,8 +13633,8 @@
       <tuv xml:lang="EN-US">
         <seg>Taking 20 requires 20 times as long as normal.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181106T140547Z" creationid="QuenTine" creationdate="20181106T140349Z">
-        <seg>取20消耗的时间是对应的普通交易所花时间的20倍。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T123202Z" creationid="QuenTine" creationdate="20181106T140349Z">
+        <seg>取20消耗的时间是对应的正常情况交易所花时间的20倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13369,8 +13777,8 @@
       <tuv xml:lang="EN-US">
         <seg>The Acolyte’s allegiance (good or evil) determines the effect she can have on these unholy abominations.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190627T141803Z" creationid="quentine" creationdate="20190627T141803Z">
-        <seg>侍僧的立场（善良或邪恶）决定了其对这些恶心的秽物施加何种影响。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190627T141803Z">
+        <seg>侍僧的阵营（善良或邪恶）决定了其对这些恶心的秽物施加何种影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14065,8 +14473,8 @@
       <tuv xml:lang="EN-US">
         <seg>The Mage can become proficient in the use of armor, but he still has a difficult time casting most arcane spells while wearing it.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190623T121011Z" creationid="quentine" creationdate="20190623T121011Z">
-        <seg>法师可以擅长使用盔甲，但法师穿着护甲施展绝大多数法术还是有些困难。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190623T121011Z">
+        <seg>法师可以擅长使用护甲，但法师穿着护甲施展绝大多数法术还是有些困难。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14665,8 +15073,8 @@
       <tuv xml:lang="EN-US">
         <seg>The allegiances system is optional.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181103T141647Z" creationid="QuenTine" creationdate="20181103T141638Z">
-        <seg>立场机制为可选机制。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181103T141638Z">
+        <seg>阵营机制为可选机制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15043,6 +15451,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T145643Z" creationid="quentine" creationdate="20190114T145643Z">
         <seg>角色不会昏迷但也差不多了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character is proficient at operating that class of aircraft.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T130459Z" creationid="quentine" creationdate="20190704T130342Z">
+        <seg>角色将能专业地操控这类飞行器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15611,6 +16027,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190413T131523Z" creationid="quentine" creationdate="20190413T131523Z">
         <seg>用选定的单兵火器掷攻击骰都可以获得1点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The heavy aircraft class includes jumbo passenger airplanes, large cargo planes, heavy bombers, and any other aircraft with three or more engines.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T130702Z" creationid="quentine" creationdate="20190704T130702Z">
+        <seg>重型飞行器包括巨型客机、大型货运飞机、重型轰炸机、以及其他大于等于三个引擎的飞机。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16321,6 +16745,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>There is no penalty when the character operates a general-purpose aircraft.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131448Z" creationid="quentine" creationdate="20190704T131448Z">
+        <seg>角色操作通用的飞行器则无此减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>There is no purchase DC or XP cost for the magic items the Occultist gains with each new level attained in this class.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190613T141234Z" creationid="quentine" creationdate="20190613T141234Z">
@@ -16363,8 +16795,8 @@
       <tuv xml:lang="EN-US">
         <seg>These allegiances are indications of what the character values in life, and may encompass people, organizations, or ideals.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181103T142245Z" creationid="QuenTine" creationdate="20181103T142245Z">
-        <seg>这些立场反映着角色如何看待人生，围绕着周遭人与组织以及自身理想而建立。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181103T142245Z">
+        <seg>这些阵营反映着角色如何看待人生，围绕着周遭人与组织以及自身理想而建立。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16740,8 +17172,8 @@
       <tuv xml:lang="EN-US">
         <seg>This choice adds either the good (positive) or evil (negative) allegiance to the character, and determines how the Acolyte uses certain aspects of her faith.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190627T131940Z" creationid="quentine" creationdate="20190627T131940Z">
-        <seg>此选择将为角色增加善良（正能量）或邪恶（负能量）立场，侍僧将在各方面受其信仰左右。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190627T131940Z">
+        <seg>此选择将为角色增加善良（正能量）或邪恶（负能量）阵营，侍僧将在各方面受其信仰左右。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16818,10 +17250,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>This entry is absent if a feat has no prerequisite.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T122335Z" creationid="quentine" creationdate="20190704T122335Z">
+        <seg>如果专长无要求，则可直接拥有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>This entry tells which ability is typically associated with that class.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190116T114340Z" creationid="quentine" creationdate="20190116T114340Z">
         <seg>这里将阐述与职业关联的属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This feat also allows the character to use a melee weapon in one hand and a ranged weapon in the other.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T125051Z" creationid="quentine" creationdate="20190704T125051Z">
+        <seg>此专长也允许角色可以一手用近战武器一手用远程武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This feat does not grant more attacks of opportunity than the character is normally allowed in a round.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T130147Z" creationid="quentine" creationdate="20190704T130147Z">
+        <seg>此专长并不会赋予角色额外的借机攻击次数，发动此专长消耗的是原有的借机攻击机会。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17126,8 +17582,8 @@
       <tuv xml:lang="EN-US">
         <seg>This skill lets you use a magic item as if you had the spell ability or class features of another class or a different allegiance.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190612T123915Z" creationid="quentine" creationdate="20190612T123625Z">
-        <seg>启动这些魔法物品就如同你拥有对应的施法能力或者职业专长或者属于对应的立场。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190612T123625Z">
+        <seg>启动这些魔法物品就如同你拥有对应的施法能力或者职业专长或者属于对应的阵营。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18248,8 +18704,8 @@
       <tuv xml:lang="EN-US">
         <seg>With the GM’s permission, the character gains a +2 circumstance bonus on Charisma-based skill checks when dealing with someone of the same allegiance—as long as the character has had some interaction with the other character to discover the connections and bring the bonus into play.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T100000Z" creationid="QuenTine" creationdate="20181104T082156Z">
-        <seg>在GM的允许下，角色可以在与同立场角色进行魅力检定时获得+2的情景加值。这一加值必须是目角色间通过交流发现这种联系才有。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181104T082156Z">
+        <seg>在GM的允许下，角色可以在与同阵营角色进行魅力检定时获得+2的情景加值。这一加值必须是目角色间通过交流发现这种联系才有。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18312,16 +18768,16 @@
       <tuv xml:lang="EN-US">
         <seg>You can only emulate one allegiance at a time.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190612T135731Z" creationid="quentine" creationdate="20190612T135731Z">
-        <seg>你一次只能模仿一个立场。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190612T135731Z">
+        <seg>你一次只能模仿一个阵营。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>You can use these items as if you were of an allegiance of your choice.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190612T135655Z" creationid="quentine" creationdate="20190612T135655Z">
-        <seg>你可以模仿需要模仿的立场来使用物品。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190612T135655Z">
+        <seg>你可以模仿需要模仿的阵营来使用物品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20018,14 +20474,14 @@
 |Use a scroll|20 + caster level|
 |Use a wand|20|</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190612T133836Z" creationid="quentine" creationdate="20190612T125232Z">
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190612T125232Z">
         <seg>|任务|DC|
 |----|--|
 |盲目启用|25|
 |解读写好了的法术|25 + 法术等级|
 |模仿职业专长|20|
 |模仿属性值|见下文|
-|模仿立场|30|
+|模仿阵营|30|
 |使用卷轴|20 + 施法者等级|
 |使用魔杖|20|</seg>
       </tuv>

@@ -27,7 +27,7 @@ charms	魅惑
 compulsions	胁迫
 phantasms	魅影幻觉	只有施者和受者才能看到的幻象
 patterns	心灵幻觉	心智上感受的幻觉
-allegiance	立场
+allegiance	阵营
 law	守序
 chaos	混乱
 good	善良
@@ -635,3 +635,15 @@ Challenge Rating	挑战等级
 allies	盟友
 antagonists	对手
 Heroic supporting character	英雄非玩家角色
+Benefit	效果	专长的效果
+Normal	正常
+melee weapon	近战武器
+ranged weapon	远程武器
+Aircraft Operation	飞行器操作
+heavy aircraft	重型飞行器
+helicopters	直升机
+jet fighters	喷气战斗机
+spacecraft	太空飞船
+jumbo passenger airplanes	巨型客机
+large cargo planes	大型货运飞机
+non-proficient penalty	不擅长减值
