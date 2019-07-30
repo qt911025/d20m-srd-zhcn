@@ -98,7 +98,7 @@ Law Enforcement	执法人员
 tactics	策略
 Listen	聆听
 Combat Martial Arts	实战武术
-Armor Proficiency (light)	擅长盔甲（轻型）
+Armor Proficiency (light)	擅长护甲（轻型）
 Navigate	寻路
 Religious	宗教人士
 Military	军人
@@ -214,7 +214,7 @@ Melee Smash	近战强击
 Animal Affinity	动物亲和
 Archaic Weapons Proficiency	擅长古典武器
 Athletic	竞技
-Blind-Fight	盲战
+Blind-Fight	盲斗
 Cleave	顺势斩
 Combat Reflexes	战斗反射
 Great Cleave	强力顺势斩
@@ -647,3 +647,8 @@ spacecraft	太空飞船
 jumbo passenger airplanes	巨型客机
 large cargo planes	大型货运飞机
 non-proficient penalty	不擅长减值
+concealment	隐蔽
+miss chance roll	失手几率骰
+Unarmed	徒手
+drop	倒下
+5-foot step	五尺快步

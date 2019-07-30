@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1382,6 +1382,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Armor Proficiency (light)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T131215Z" creationid="quentine" creationdate="20190730T131215Z">
+        <seg>### 擅长护甲（轻型）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Armor Proficiency (medium)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T131927Z" creationid="quentine" creationdate="20190730T131927Z">
+        <seg>### 擅长护甲（中型）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Athletic</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T132005Z" creationid="quentine" creationdate="20190730T132005Z">
+        <seg>### 竞技</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Attentive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T132101Z" creationid="quentine" creationdate="20190730T132101Z">
+        <seg>### 听者有心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### BASIC TASK RESOLUTION SYSTEM</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T045803Z" creationid="QuenTine" creationdate="20181024T044605Z">
@@ -1394,6 +1426,46 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T082645Z" creationid="quentine" creationdate="20190216T082645Z">
         <seg>### 基础攻击加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Blind-Fight</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T142250Z" creationid="quentine" creationdate="20190730T132225Z">
+        <seg>### 盲斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Brawl</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T133704Z" creationid="quentine" creationdate="20190730T133704Z">
+        <seg>### 拳法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Builder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T134058Z" creationid="quentine" creationdate="20190730T134058Z">
+        <seg>### 构造师</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Burst Fire</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T134630Z" creationid="quentine" creationdate="20190730T134630Z">
+        <seg>### 点射</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Cautious</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T135844Z" creationid="quentine" creationdate="20190730T135844Z">
+        <seg>### 谨慎</seg>
       </tuv>
     </tu>
     <tu>
@@ -1434,6 +1506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T081953Z" creationid="quentine" creationdate="20190216T081953Z">
         <seg>### 职业与等级专长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Cleave</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T140054Z" creationid="quentine" creationdate="20190730T140054Z">
+        <seg>### 顺势斩</seg>
       </tuv>
     </tu>
     <tu>
@@ -3577,10 +3657,42 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Benefit:** If the character deals an opponent enough damage to make the opponent drop (either by knocking the opponent out due to massive damage or by reducing the opponent’s hit points to less than 0), the character gets an immediate extra melee attack against another opponent adjacent to the character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T141856Z" creationid="quentine" creationdate="20190730T140214Z">
+        <seg>**效果：** 如果角色对目标的伤害很大，足以让对方倒下（成功对目标造成巨创并击倒，或者使目标生命值减至0以下），角色可以立即对与目标相邻的对手实施一次额外的近战攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Benefit:** In melee combat, every time the character misses because of concealment, the character can reroll the miss chance roll one time to see if the character actually hits.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T141607Z" creationid="quentine" creationdate="20190730T132624Z">
+        <seg>**效果：** 近战时，每次角色若因目标隐蔽而失手，可以重掷一次失手几率以查看自己是否真的命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Benefit:** Once per round, if the opponent the character has designated as his or her dodge target (see the Dodge feat) makes a melee attack or melee touch attack against the character and misses, the character may make an attack of opportunity against that opponent.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T125456Z" creationid="quentine" creationdate="20190704T125456Z">
         <seg>**效果：**每轮一次，如果对手是自己的闪避目标（见`闪避`专长），尝试近战攻击或者接触攻击自己而失手了，自己将可以引发对对手的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Benefit:** Pick two of the following skills: Craft (chemical), Craft (electronic), Craft (mechanical), and Craft (structural).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T134313Z" creationid="quentine" creationdate="20190730T134218Z">
+        <seg>**效果：** 从以下技能选择两个：制造（化学）、制造（电力）、制造（机械）、制造（结构）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Benefit:** See Armor Proficiency (light).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T131136Z" creationid="quentine" creationdate="20190730T131136Z">
+        <seg>**效果：** 见擅长护甲（轻型）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3593,10 +3705,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Climb checks and Swim checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T132053Z" creationid="quentine" creationdate="20190730T132053Z">
+        <seg>**效果：** 角色的所有攀爬和游泳检定获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Demolitions checks and Disable Device checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T140012Z" creationid="quentine" creationdate="20190730T140012Z">
+        <seg>**效果：** 角色的所有爆破和解除装置检定获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Benefit:** The character gets a +2 bonus on all Handle Animal checks and Ride checks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T131658Z" creationid="quentine" creationdate="20190704T131658Z">
         <seg>**效果：** 角色在驯养动物和骑术检定上获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Investigate checks and Sense Motive checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T132138Z" creationid="quentine" creationdate="20190730T132138Z">
+        <seg>**效果：** 角色的所有调查和察言观色检定获得2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3649,10 +3785,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Benefit:** When a character wears a type of armor with which he or she is proficient, the character gets to add the armor’s equipment bonus to his or her Defense.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T131429Z" creationid="quentine" creationdate="20190730T131429Z">
+        <seg>**效果：** 当角色穿戴擅长类型的护甲时，防御将获得护甲提供的装备加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Benefit:** When making an unarmed attack, the character receives a +1 competence bonus on attack rolls, and the character deals nonlethal damage equal to 1d6 + his or her Strength modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T133919Z" creationid="quentine" creationdate="20190730T133919Z">
+        <seg>**效果：** 当进行徒手攻击时，角色的攻击骰获得1点表现加值，角色施加的非致命伤害等于1d6+力量调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Benefit:** When the character scores a critical hit on an opponent with an unarmed strike, the character deals triple damage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T124400Z" creationid="quentine" creationdate="20190704T124052Z">
         <seg>**效果：**角色用徒手击打对对手造成重击将产生3倍伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Benefit:** When using an automatic firearm with at least five bullets loaded, the character may fire a short burst as a single attack against a single target.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T134942Z" creationid="quentine" creationdate="20190730T134942Z">
+        <seg>**效果：** 当使用至少装载了5颗子弹的全自动火器时，角色可以用一个攻击动作对单个目标进行短点射。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4337,6 +4497,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Normal:** A character who wears armor with which he or she is not proficient adds only the armor’s nonproficient equipment bonus to his or her Defense.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T131759Z" creationid="quentine" creationdate="20190730T131759Z">
+        <seg>**正常：** 穿戴非擅长类型护甲的角色，防御只能获得护甲提供的非擅长装备加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Normal:** A character without this feat takes the –4 non-proficient penalty when making attacks with archaic weapons.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T132113Z" creationid="quentine" creationdate="20190704T132113Z">
@@ -4353,6 +4521,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Normal:** Autofire uses ten bullets, targets a 10-foot-by-10-foot area, and can’t be aimed at a specific target.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T135442Z" creationid="quentine" creationdate="20190730T135220Z">
+        <seg>**正常：** 自动武器消耗10发子弹，攻击10×10尺的区域，不能瞄准单个目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Normal:** Characters without this feat take a –4 penalty on Pilot checks made to operate an aircraft that falls in any of these classes, and on attacks made with aircraft weapons.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T131406Z" creationid="quentine" creationdate="20190704T131406Z">
@@ -4365,6 +4541,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T124708Z" creationid="quentine" creationdate="20190704T124708Z">
         <seg>**正常：** 无此专长的角色使用自动模式的火器攻击骰会有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Normal:** See Armor Proficiency (light).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T131201Z" creationid="quentine" creationdate="20190730T131201Z">
+        <seg>**正常：** 见擅长护甲（轻型）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Normal:** Unarmed attacks normally deal nonlethal damage equal to 1d3 + Strength modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T134047Z" creationid="quentine" creationdate="20190730T134047Z">
+        <seg>**正常：** 徒手攻击一般情况下施加的非致命伤害等于1d3+力量调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4441,6 +4633,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Prerequisite:** Armor Proficiency (light).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T131948Z" creationid="quentine" creationdate="20190730T131948Z">
+        <seg>**要求：** 擅长护甲（轻型）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Prerequisite:** Personal Firearms Proficiency.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T124425Z" creationid="quentine" creationdate="20190704T124425Z">
@@ -4467,8 +4667,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>**Prerequisites:** Armor Proficiency (light), Armor Profi-ciency (medium).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T132343Z" creationid="quentine" creationdate="20190704T132343Z">
-        <seg>**要求：**擅长护甲（轻型）、擅长护甲（中型）</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T131059Z" creationid="quentine" creationdate="20190704T132343Z">
+        <seg>**要求：**擅长护甲（轻型）、擅长护甲（中型）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4493,6 +4693,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T124833Z" creationid="quentine" creationdate="20190704T124833Z">
         <seg>**要求：** 敏捷13、双持、精通双持、基础攻击加值+11。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Prerequisites:** Strength 13, Power Attack.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T140135Z" creationid="quentine" creationdate="20190730T140113Z">
+        <seg>**要求：** 13力量、猛力攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Prerequisites:** Wisdom 13, Personal Firearms Proficiency, Advanced Firearms Proficiency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T140121Z" creationid="quentine" creationdate="20190730T134729Z">
+        <seg>**要求：** 13感知、擅长单兵火器、高级擅长火器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4938,10 +5154,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Special:** If the firearm has a three-round burst setting, firing a burst expends three bullets instead of five and can be used if the weapon has only three bullets in it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T135830Z" creationid="quentine" creationdate="20190730T135830Z">
+        <seg>**特别：** 如果火器有三发点射模式，短点射只消耗三发子弹而非5发，只要还剩3发子弹就能发动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** Remember that the Demolitions skill and the Disable Device skill can’t be used untrained.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T140040Z" creationid="quentine" creationdate="20190730T140040Z">
+        <seg>**特别：** 注意爆破和解除装置技能是需受训的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Special:** Remember that the Handle Animal skill can’t be used untrained.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T131734Z" creationid="quentine" creationdate="20190704T131734Z">
         <seg>**特别：** 注意驯养动物技能是需受训的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** Remember that the Investigate skill can’t be used untrained.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T132213Z" creationid="quentine" creationdate="20190730T132213Z">
+        <seg>**特别：** 注意调查技能是需受训的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4958,6 +5198,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T131511Z" creationid="quentine" creationdate="20190704T131511Z">
         <seg>**特殊：**角色可以多次获得此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** The character can select this feat twice.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T134439Z" creationid="quentine" creationdate="20190730T134439Z">
+        <seg>**特别：** 角色可以选择此专长两次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7154,8 +7402,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>Advanced Firearms Proficiency, Alertness, Archaic Weapons Proficiency, Attentive, Blind-Fight, Deceptive, Educated, Far Shot, Iron Will, Medical Expert, Meticulous, Surgery, Track, Weapon Focus.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T141205Z" creationid="quentine" creationdate="20190202T110016Z">
-        <seg>高级擅长火器、警觉、擅长古典武器、听者有心、盲战、欺诈、良好教育、远程射击、钢铁意志、医药专家、一丝不苟、手术、追踪、专攻武器。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T142250Z" creationid="quentine" creationdate="20190202T110016Z">
+        <seg>高级擅长火器、警觉、擅长古典武器、听者有心、盲斗、欺诈、良好教育、远程射击、钢铁意志、医药专家、一丝不苟、手术、追踪、专攻武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7322,8 +7570,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>Alertness, Animal Affinity, Attentive, Blind-Fight, Combat Expertise, Confident, Creative, Deceptive, Educated, Focused, Frightful Presence, Iron Will, Renown, Stealthy, Studious.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190620T132952Z" creationid="quentine" creationdate="20190620T132952Z">
-        <seg>警觉、动物亲和、听着有心、盲战、寓守于攻、自信、富有创意、欺诈、良好教育、全神贯注、气势凶猛、钢铁意志、闻名、隐秘、好学。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T142250Z" creationid="quentine" creationdate="20190620T132952Z">
+        <seg>警觉、动物亲和、听着有心、盲斗、寓守于攻、自信、富有创意、欺诈、良好教育、全神贯注、气势凶猛、钢铁意志、闻名、隐秘、好学。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7528,6 +7776,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, he or she suffers its armor check penalty on attack rolls and on all skill checks that involve moving.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T131911Z" creationid="quentine" creationdate="20190730T131911Z">
+        <seg>而且护甲的检定减值适用于攻击骰和所有涉及移动的技能检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, it always takes a number of hours equal to the purchase DC of the object or service.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063421Z" creationid="quentine" creationdate="20190112T063421Z">
@@ -7548,6 +7804,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T141920Z" creationid="quentine" creationdate="20190417T141920Z">
         <seg>同样，渗透者在缺乏适当工具使用攀爬和解除装置技能不再受到4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Also, the armor check penalty applies only to Balance, Climb, Escape Artist, Hide, Jump, Move Silently, and Tumble checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T131629Z" creationid="quentine" creationdate="20190730T131629Z">
+        <seg>而且护甲的检定减值只应用于平衡、攀爬、脱逃、躲藏、跳跃、潜行以及翻滚检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7882,8 +8146,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>Animal Affinity, Archaic Weapons Proficiency, Athletic, Blind-Fight, Brawl, Cleave, Combat Martial Arts, Combat Reflexes, Great Cleave, Improved Brawl, Improved Combat Martial Arts, Power Attack, Weapon Focus.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T141135Z" creationid="quentine" creationdate="20190116T132255Z">
-        <seg>动物亲和、擅长古典武器、竞技、盲战、拳法、顺势斩、实战武术、战斗反射、强力顺势斩、精通拳法、精通实战武术、猛力攻击、专攻武器。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T142250Z" creationid="quentine" creationdate="20190116T132255Z">
+        <seg>动物亲和、擅长古典武器、竞技、盲斗、拳法、顺势斩、实战武术、战斗反射、强力顺势斩、精通拳法、精通实战武术、猛力攻击、专攻武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8018,8 +8282,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>Anything not concealed can be spotted in a sweep with a successful check (DC 10).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T141248Z" creationid="quentine" creationdate="20190417T141144Z">
-        <seg>若检定成功（DC10），任何非隐藏的目标都会被侦察到。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T141618Z" creationid="quentine" creationdate="20190417T141144Z">
+        <seg>若检定成功（DC10），任何非隐蔽的目标都会被侦察到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8066,8 +8330,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>Archaic Weapons Proficiency, Athletic, Blind-Fight, Cleave, Combat Martial Arts, Combat Reflexes, Exotic Melee Weapon Proficiency, Focused, Improved Combat Martial Arts, Power Attack, Weapon Finesse, Weapon Focus.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190621T134620Z" creationid="quentine" creationdate="20190621T134620Z">
-        <seg>擅长古典武器、竞技、盲战、顺势斩、实战武术、战斗反射、擅长异种近战武器、全神贯注、精通实战武术、猛力攻击、武器娴熟、专攻武器。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T142250Z" creationid="quentine" creationdate="20190621T134620Z">
+        <seg>擅长古典武器、竞技、盲斗、顺势斩、实战武术、战斗反射、擅长异种近战武器、全神贯注、精通实战武术、猛力攻击、武器娴熟、专攻武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9784,6 +10048,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Darkness and poor visibility in general reduces the character’s speed to three-quarters of normal, instead of one-half.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T141251Z" creationid="quentine" creationdate="20190730T133603Z">
+        <seg>黑暗以及低能见度使角色的速度降低为原来的3/4，而非减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Decide how many ranks of the appropriate skill to program into the robot, up to the number of ranks the Techie has in the skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190523T132311Z" creationid="quentine" creationdate="20190523T131724Z">
@@ -10297,6 +10569,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190624T134746Z" creationid="quentine" creationdate="20190624T134746Z">
         <seg>最后，法师还要做一次`制造（写作）`检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Firing a burst expends five bullets and can only be done if the weapon has five bullets in it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T135316Z" creationid="quentine" creationdate="20190730T135153Z">
+        <seg>短点射消耗5发子弹，且只能在武器里有5发子弹时才能发动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13155,6 +13435,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember that Craft (chemical), Craft (electronic), and Craft (mechanical) cannot be used untrained.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T134625Z" creationid="quentine" creationdate="20190730T134625Z">
+        <seg>注意制造（化学）、制造（电力）、制造（结构）是需受训的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T112029Z" creationid="QuenTine" creationdate="20181022T112029Z">
@@ -13397,8 +13685,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>Smoke also obscures vision, giving one-half concealment (20% miss chance) to characters within it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134140Z" creationid="quentine" creationdate="20190115T134140Z">
-        <seg>烟雾同样影响可见度，烟雾中的角色处于半隐藏状态，并有20%失手率。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T141611Z" creationid="quentine" creationdate="20190115T134140Z">
+        <seg>烟雾同样影响可见度，烟雾中的角色处于半隐蔽状态，并有20%失手率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14077,8 +14365,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>The DC for concealed or less obvious threats is equal to their Hide check result.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T141504Z" creationid="quentine" creationdate="20190417T141504Z">
-        <seg>隐藏或极不明显的目标，其侦察DC等于他们的躲藏检定结果。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T141623Z" creationid="quentine" creationdate="20190417T141504Z">
+        <seg>隐蔽或极不明显的目标，其侦察DC等于他们的躲藏检定结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15443,6 +15731,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character can use this ability once per round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T142102Z" creationid="quentine" creationdate="20190730T142102Z">
+        <seg>角色每轮只能使用一次本专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character can’t make Listen checks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121738Z" creationid="quentine" creationdate="20190115T121738Z">
@@ -15455,6 +15751,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T120858Z" creationid="quentine" creationdate="20190115T120858Z">
         <seg>角色不能侦查或采取任何需要视力的动作（比如阅读）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character can’t take a 5-foot step before making this extra attack.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T141933Z" creationid="quentine" creationdate="20190730T140939Z">
+        <seg>施加额外攻击前不可以做五尺快步。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15479,6 +15783,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T092745Z" creationid="quentine" creationdate="20190216T092745Z">
         <seg>角色获得1级的基础攻击加值、基础豁免加值、角色技能、新职业的职业专长、按正确掷骰获得的生命值以及新职业升1级所获的技能点（不是角色1级时获得的4倍技能点）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character gets a +2 bonus on all checks with those skills.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T134402Z" creationid="quentine" creationdate="20190730T134402Z">
+        <seg>角色选择的技能的检定获得2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15555,10 +15867,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character receives a –4 penalty on the attack roll, but deal +2 dice of damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T135038Z" creationid="quentine" creationdate="20190730T135038Z">
+        <seg>角色的攻击骰获得4点减值而伤害骰获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character takes a –4 penalty to Defense against melee attacks and loses his or her Dexterity bonus to Defense.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T124834Z" creationid="quentine" creationdate="20190115T124834Z">
         <seg>角色对近战攻击防御值会有4点减值，对于所有的攻击，防御时的敏捷加值无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character takes only half the usual penalty to speed for being unable to see.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T133322Z" creationid="quentine" creationdate="20190730T133322Z">
+        <seg>角色因无法目视所造成的速度减值减半。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15807,6 +16135,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T114309Z" creationid="quentine" creationdate="20190703T113820Z">
         <seg>邪恶侍僧进行`驱散伤害检定`以决定能为总共多少HD的生物解除驱散。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The extra attack is with the same weapon and at the same bonus as the attack that dropped the previous opponent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T142037Z" creationid="quentine" creationdate="20190730T142037Z">
+        <seg>额外攻击使用的武器，获得的加值都与前一次攻击相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16165,7 +16501,7 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>The hero can’t see at all, and thus everything has total concealment to him or her.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T120417Z" creationid="quentine" creationdate="20190115T120417Z">
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T141610Z" creationid="quentine" creationdate="20190115T120417Z">
         <seg>英雄看不见任何东西，即任何事物对其来说都是隐蔽的。</seg>
       </tuv>
     </tu>
@@ -16480,6 +16816,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190522T141114Z" creationid="quentine" creationdate="20190522T141114Z">
         <seg>检定结果决定设备是否需要修理才能再度使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The second time, the character applies it to the two skills he or she didn’t pick originally.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T134540Z" creationid="quentine" creationdate="20190730T134540Z">
+        <seg>第二次使原来未选的两个技能获得加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18814,6 +19158,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T134644Z" creationid="quentine" creationdate="20190215T134644Z">
         <seg>拥有此天赋的英雄在为说谎、欺诈或者其他歪曲事实的行为作唬骗、交涉、赌博鉴定时，获得一个等于其魅力等级的加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without this feat, if a character attempts an autofire attack at a specific target, it simply counts as a normal attack and all the extra bullets are wasted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T135627Z" creationid="quentine" creationdate="20190730T135627Z">
+        <seg>角色若没有这个专长， 用自动武器攻击特定目标只能算作正常情况下的范围攻击，浪费更多子弹。</seg>
       </tuv>
     </tu>
     <tu>
