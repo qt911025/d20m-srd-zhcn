@@ -459,7 +459,7 @@ If the character trips an opponent in melee combat, the character immediately ge
 
 ### Mobility
 
-### **Prerequisites:** Dexterity 13, Dodge.
+**Prerequisites:** Dexterity 13, Dodge.
 
 **Benefit:** The character gets a +4 dodge bonus to Defense against attacks of opportunity provoked when the character moves out of a threatened square.
 

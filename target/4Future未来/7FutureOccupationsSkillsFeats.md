@@ -175,7 +175,7 @@ Normal: Characters without this feat take a –8 penalty on Treat Injury checks 
 CYBERTAKER
 You can have more cybernetic attachments than normal without suffering ill effects.
 Benefit: The maximum number of cybernetic attachments you can have without suffering negative levels increases by 1.
-Special: You can gain this feat multiple times. Its effects stack.
+Special: You can gain this feat multiple times. 效果叠加。
 
 DEDICATED PLUS
 Advancements in science coupled with your drive to excel enable you to progress faster toward becoming a truly dedicated hero.

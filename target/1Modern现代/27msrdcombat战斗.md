@@ -436,7 +436,7 @@ Double Weapons: A character can use a double weapon to make an extra attack as i
 |Two-Weapon Fighting feat|–4|–4|
 |Off-hand weapon is light and Two-Weapon Fighting feat|–2|–2|
 
-### Run
+### 奔跑
 
 A character can run all out as a full-round action. When a character runs, he or she can move up to four times his or her speed in a straight line. (The character does not get a 5-foot step.) The character loses any Dexterity bonus to Defense since he or she can’t avoid attacks. However, the character gets a +2 bonus to Defense against ranged attacks while running.
 

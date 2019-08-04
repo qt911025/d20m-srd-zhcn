@@ -40,7 +40,7 @@
 
 **要求：** 擅长火器。
 
-**效果：** 角色可以发射任何自动模式的单兵火器而不受任何减值（当然，这个武器得有自动模式）。
+**效果：** 角色发射任何自动模式的单兵火器不再受到减值惩罚（当然，这个武器得有自动模式）。
 
 **正常：** 无此专长的角色使用自动模式的火器攻击骰会有4点减值。
 
@@ -71,7 +71,7 @@
 
 **正常：**无此专长的角色将在使用这几类飞行器进行驾机检定，以及使用机载武器掷攻击骰时受到4点减值。角色操作通用的飞行器则无此减值。
 
-**特殊：**角色可以多次获得此专长。每次角色获得此专长将选择不同的飞行器类型。
+**特别：**角色可以多次获得此专长。每次角色获得此专长将选择不同的飞行器类型。
 
 ### 警觉
 
@@ -91,255 +91,255 @@
 
 ### 擅长护甲（重型）
 
-**要求：**擅长护甲（轻型）、擅长护甲（中型）
+**要求：**擅长护甲（轻型）、擅长护甲（中型）。
 
-**Benefit:** See Armor Proficiency (light).
+**效果：** 见擅长护甲（轻型）。
 
-**Normal:** See Armor Proficiency (light).
+**正常：** 见擅长护甲（轻型）。
 
-### Armor Proficiency (light)
+### 擅长护甲（轻型）
 
-**Benefit:** When a character wears a type of armor with which he or she is proficient, the character gets to add the armor’s equipment bonus to his or her Defense. Also, the armor check penalty applies only to Balance, Climb, Escape Artist, Hide, Jump, Move Silently, and Tumble checks.
+**效果：** 当角色穿戴擅长类型的护甲时，防御将获得护甲提供的装备加值。而且护甲的检定减值只应用于平衡、攀爬、脱逃、躲藏、跳跃、潜行以及翻滚检定。
 
-**Normal:** A character who wears armor with which he or she is not proficient adds only the armor’s nonproficient equipment bonus to his or her Defense. Also, he or she suffers its armor check penalty on attack rolls and on all skill checks that involve moving.
+**正常：** 穿戴非擅长类型护甲的角色，防御只能获得护甲提供的非擅长装备加值。而且护甲的检定减值适用于攻击骰和所有涉及移动的技能检定。
 
-### Armor Proficiency (medium)
+### 擅长护甲（中型）
 
-**Prerequisite:** Armor Proficiency (light).
+**要求：** 擅长护甲（轻型）。
 
-**Benefit:** See Armor Proficiency (light).
+**效果：** 见擅长护甲（轻型）。
 
-**Normal:** See Armor Proficiency (light).
+**正常：** 见擅长护甲（轻型）。
 
-### Athletic
+### 竞技
 
-**Benefit:** The character gets a +2 bonus on all Climb checks and Swim checks.
+**效果：** 角色的所有攀爬和游泳检定获得2点加值。
 
-### Attentive
+### 听者有心
 
-**Benefit:** The character gets a +2 bonus on all Investigate checks and Sense Motive checks.
+**效果：** 角色的所有调查和察言观色检定获得2点加值。
 
-**Special:** Remember that the Investigate skill can’t be used untrained.
+**特别：** 注意调查技能是需受训的。
 
-### Blind-Fight
+### 盲斗
 
-**Benefit:** In melee combat, every time the character misses because of concealment, the character can reroll the miss chance roll one time to see if the character actually hits.
+**效果：** 近战时，每次角色若因目标隐蔽而失手，可以重掷一次失手几率以查看自己是否真的命中。
 
-The character takes only half the usual penalty to speed for being unable to see. Darkness and poor visibility in general reduces the character’s speed to three-quarters of normal, instead of one-half.
+角色因无法目视所造成的速度减值减半。黑暗以及低能见度使角色的速度降低为原来的3/4，而非减半。
 
-### Brawl
+### 拳法
 
-**Benefit:** When making an unarmed attack, the character receives a +1 competence bonus on attack rolls, and the character deals nonlethal damage equal to 1d6 + his or her Strength modifier.
+**效果：** 当进行徒手攻击时，角色的攻击骰获得1点表现加值，角色施加的非致命伤害等于1d6+力量调整值。
 
-**Normal:** Unarmed attacks normally deal nonlethal damage equal to 1d3 + Strength modifier.
+**正常：** 徒手攻击一般情况下施加的非致命伤害等于1d3+力量调整值。
 
-### Builder
+### 构造师
 
-**Benefit:** Pick two of the following skills: Craft (chemical), Craft (electronic), Craft (mechanical), and Craft (structural). The character gets a +2 bonus on all checks with those skills.
+**效果：** 从以下技能选择两个：制造（化学）、制造（电力）、制造（机械）、制造（结构）。角色选择的技能的检定获得2点加值。
 
-**Special:** The character can select this feat twice. The second time, the character applies it to the two skills he or she didn’t pick originally. Remember that Craft (chemical), Craft (electronic), and Craft (mechanical) cannot be used untrained.
+**特别：** 角色可以选择此专长两次。第二次使原来未选的两个技能获得加值。注意制造（化学）、制造（电力）、制造（结构）是需受训的。
 
-### Burst Fire
+### 点射
 
-**Prerequisites:** Wisdom 13, Personal Firearms Proficiency, Advanced Firearms Proficiency.
+**要求：** 13感知、擅长单兵火器、高级擅长火器。
 
-**Benefit:** When using an automatic firearm with at least five bullets loaded, the character may fire a short burst as a single attack against a single target. The character receives a –4 penalty on the attack roll, but deal +2 dice of damage.
+**效果：** 当使用至少装填了5颗子弹的全自动火器时，角色可以用一个攻击动作对单个目标进行短点射。角色的攻击骰获得4点减值而伤害骰获得2点加值。
 
-Firing a burst expends five bullets and can only be done if the weapon has five bullets in it.
+短点射消耗5发子弹，且只能在武器里有5发子弹时才能发动。
 
-**Normal:** Autofire uses ten bullets, targets a 10-foot-by-10-foot area, and can’t be aimed at a specific target. Without this feat, if a character attempts an autofire attack at a specific target, it simply counts as a normal attack and all the extra bullets are wasted.
+**正常：** 自动武器消耗10发子弹，攻击10×10尺的区域，不能瞄准单个目标。角色若没有这个专长， 用自动武器攻击特定目标只能算作正常情况下的范围攻击，浪费更多子弹。
 
-**Special:** If the firearm has a three-round burst setting, firing a burst expends three bullets instead of five and can be used if the weapon has only three bullets in it.
+**特别：** 如果火器有三发点射模式，短点射只消耗三发子弹而非5发，只要还剩3发子弹就能发动。
 
-### Cautious
+### 谨慎
 
-**Benefit:** The character gets a +2 bonus on all Demolitions checks and Disable Device checks.
+**效果：** 角色的所有爆破和解除装置检定获得2点加值。
 
-**Special:** Remember that the Demolitions skill and the Disable Device skill can’t be used untrained.
+**特别：** 注意爆破和解除装置技能是需受训的。
 
-### Cleave
+### 顺势斩
 
-**Prerequisites:** Strength 13, Power Attack.
+**要求：** 13力量、猛力攻击。
 
-**Benefit:** If the character deals an opponent enough damage to make the opponent drop (either by knocking the opponent out due to massive damage or by reducing the opponent’s hit points to less than 0), the character gets an immediate extra melee attack against another opponent adjacent to the character. The character can’t take a 5-foot step before making this extra attack. The extra attack is with the same weapon and at the same bonus as the attack that dropped the previous opponent. The character can use this ability once per round.
+**效果：** 如果角色对目标的伤害很大，足以让对方倒下（成功对目标造成巨创并击倒，或者使目标生命值减至0以下），角色可以立即对与目标相邻的对手实施一次额外的近战攻击。施加额外攻击前不可以做五尺快步。额外攻击使用的武器，获得的加值都与前一次攻击相同。角色每轮只能使用一次本专长。
 
-### Combat Expertise
+### 寓守于攻
 
-**Prerequisite:** Intelligence 13.
+**要求：** 13智力。
 
-**Benefit:** When the character uses the attack action or the full attack action in melee, the character can take a penalty of up to –5 on his or her attack roll and add the same number (up to +5) to the character’s Defense. This number may not exceed the character’s base attack bonus. The changes to attack rolls and Defense last until the character’s next action. The bonus to the character’s Defense is a dodge bonus (and as such it stacks with other dodge bonuses the character may have).
+**效果：** 当角色近战时使用攻击动作或整轮攻击动作时，角色可以以受到至多5点攻击骰减值为代价，让防御检定获得等值的加值（也是至多5点）。此值不能高于角色的基础攻击加值。转移效果持续到角色的下一次行动。此防御加值类型为闪避加值（可以与其他闪避加值叠加）。
 
-**Normal:** A character without the Combat Expertise feat can fight defensively while using the attack or full attack action to take a –4 penalty on attacks and gain a +2 dodge bonus to Defense.
+**正常：** 没有寓守于攻专长的角色可以在攻击动作或整轮攻击动作时采取防御式战斗，以受到4点攻击骰减值为代价在防御时获得2点闪避加值。
 
-### Combat Martial Arts
+### 实战武术
 
-**Prerequisite:** Base attack bonus +1.
+**要求：** 基础攻击加值至少为1。
 
-**Benefit:** With an unarmed strike, the character deals lethal or nonlethal damage (the character’s choice) equal to 1d4 + the character’s Strength modifier. The character’s unarmed attacks count as armed, which means that opponents do not get attacks of opportunity when the character attacks them unarmed. The character may make attacks of opportunity against opponents who provoke such attacks.
+**效果：** 徒手击打时，角色可造成致命或非致命伤害（由玩家选择），伤害值为1d4+角色的力量调整值。角色的徒手攻击视为装备了武器，意味着对手不会在此时获得借机攻击的机会。角色可以抓住对手引发的借机攻击的机会，进行借机攻击。
 
-**Normal:** Without this feat, a character deals only 1d3 points of nonlethal damage. Unarmed attacks normally provoke attacks of opportunity, and unarmed combatants cannot normally make attacks of opportunity.
+**正常：** 角色若无此专长，只能造成1d3点非致命伤害。徒手攻击一般都会引发对手借机攻击，且不能进行借机攻击。
 
-### Combat Reflexes
+### 战斗反射
 
-**Benefit:** The maximum number of attacks of opportunity the character may make each round is equal to the character’s Dexterity modifier + 1.  The character can still only make one attack of opportunity on a single opponent.
+**效果：** 角色每轮至多可进行的借机攻击次数等于角色的敏捷调整值+1。但角色仍然至多对单个对手进行一次借机攻击。
 
-With this feat, the character may also make attacks of opportunity when flat-footed.
+角色拥有此专长可以在自己措手不及时进行借机攻击。
 
-**Normal:** A character without the Combat Reflexes feat can make only one attack of opportunity per round and can’t make attacks of opportunity when flat-footed.
+**正常：** 没有战斗反射的角色每轮只能进行一次借机攻击，且不能在措手不及时进行。
 
-**Special:** The Combat Reflexes feat doesn’t allow a Fast hero with the opportunist talent to use that talent more than once per round.
+**特别：** 战斗反射专长不能让拥有`乘势攻击`天赋的敏捷型英雄每轮使用多次此天赋。
 
-### Combat Throw
+### 摔投技巧
 
-**Prerequisite:** Defensive Martial Arts.
+**要求：** 防御武术。
 
-**Benefit:** The character gains a +2 bonus on opposed Strength and Dexterity checks any time the character attempts trip or grapple attacks, or when the character trys to avoid a trip or grapple attack made against him or her.
+**效果：** 角色在绊摔或防止绊摔时、擒抱或防止擒抱时的力量和敏捷对抗检定上获得2点加值。
 
-### Confident
+### 自信
 
-**Benefit:** The character gets a +2 bonus on all Gamble checks and Intimidate checks, and on level checks to resist intimidation.
+**效果：** 角色在赌博和威吓检定以及对抗威吓的等级检定上获得2点加值。
 
-### Creative
+### 富有创意
 
-**Benefit:** Pick two of the following skills: Craft (visual art), Craft (writing), Perform (act), Perform (dance), Perform (keyboards), Perform (percussion instruments), Perform (sing), Perform (stand-up), Perform (string instruments), and Perform (wind instruments). The character gets a +2 bonus on all checks with those two skills.
+**效果：** 从以下技能中选择两个：制造（视觉艺术、写作）、表演（演戏、舞蹈、键盘乐器、打击乐器、唱歌、单口相声、弦乐器、管乐器）。角色在这两个技能检定上获得2点加值。
 
-**Special:** A character can select this feat as many as five times. Each time, the character selects two new skills from the choices given above.
+**特别：** 角色可以选择此专长5次。每次角色从上述技能中选择两个未选择过的技能。
 
-### Dead Aim
+### 屏息瞄准
 
-**Prerequisites:** Wisdom 13, Far Shot.
+**要求：** 13感知、远程射击。
 
-**Benefit:** Before making a ranged attack, the character may take a full-round action to line up your shot. This grants the character a +2 circumstance bonus on his or her next attack roll. Once the character begins aiming, he or she can’t move, even to take a 5-foot step, until after the character makes his or her next attack, or the benefit of the feat is lost. Likewise, if the character’s concentration is disrupted or the character is attacked before his or her next action, the character loses the benefit of aiming.
+**效果：** 在进行远程攻击前，角色可以用一个整轮动作来精确瞄准。这可让角色下一个攻击骰获得2点情景加值。一旦角色开始瞄准，就不能移动，五尺快步也不行，直到角色下一次攻击行动的发生，或者专长效果消失。同样，如果角色的注意力被扰乱，或者角色在下一次行动前就被攻击，角色将失去瞄准效果。
 
-### Deceptive
+### 欺诈
 
-**Benefit:** The character gets a +2 bonus on all Bluff checks and Disguise checks.
+**效果：** 角色在唬骗和易容检定上获得2点加值。
 
-### Defensive Martial Arts
+### 防御武术
 
-**Benefit:** The character gains a +1 dodge bonus to Defense against melee attacks.
+**效果：** 角色在防御近战攻击时获得1点闪避加值。
 
-**Special:** A condition that makes the character lose his or her Dexterity bonus to Defense also makes the character lose dodge bonuses. Also, dodge bonuses stack, unlike most other types of bonuses.
+**特别：** 让角色失去敏捷加值的状态也会让角色失去这个闪避加值。而且，不像其他加值，闪避加值可叠加。
 
-### Dodge
+### 闪避
 
-**Prerequisite:** Dexterity 13.
+**要求：** 13敏捷
 
-**Benefit:** During the character’s action, the character designates an opponent and receives a +1 dodge bonus to Defense against any subsequent attacks from that opponent. The character can select a new opponent on any action.
+**效果：** 角色行动时，可指定一个对手，防御这个对手之后造成的任何攻击都获得1点闪避加值。角色可在进行任何动作时指定新的对手。
 
-**Special:** A condition that makes the character lose his or her Dexterity bonus to Defense also makes the character lose dodge bonuses. Also, dodge bonuses stack with each other, unlike most other types of bonuses.
+**特别：** 让角色失去敏捷加值的状态也会让角色失去这个闪避加值。而且，不像其他加值，闪避加值可叠加。
 
-### Double Tap
+### 双发快射
 
-**Prerequisites:** Dexterity 13, Point Blank Shot.
+**要求：** 13敏捷、近程射击。
 
-**Benefit:** When using a semiautomatic firearm with at least two bullets loaded, the character may fire two bullets as a single attack against a single target. The character receives a –2 penalty on this attack, but deals +1 die of damage with a successful hit. Using this feat fires two bullets and can only be done if the weapon has two bullets in it.
+**效果：** 当使用至少装填了两发子弹半自动火器时，角色可以用一次攻击发射两发子弹射击单个目标。角色攻击骰获得2点减值，若攻击成功，伤害骰将获得1点加值。此专长消耗两发子弹，且只能在武器里有两发子弹时才能发动。
 
-### Drive-By Attack
+### 驾驶攻击
 
-**Benefit:** The character takes no vehicle speed penalty when making an attack while in a moving vehicle. Also, if the character is the driver, he or she can take his or her attack action to make an attack at any point along the vehicle’s movement.
+**效果：** 角色在移动的载具中攻击时，不会受到载具速度带来的减值。同样，如果角色是驾驶员，角色将可以在载具移动的任何阶段进行攻击。
 
-**Normal:** When attacking from a moving vehicle, a character takes a penalty based on the vehicle’s speed. Passengers can ready an action to make an attack when their vehicle reaches a particular location, but the driver must make his or her attack action either before or after the vehicle’s movement.
+**正常：** 角色在从移动的载具中发动攻击会根据载具速度获得减值。乘客在载具抵达特定地点时，可以准备一个攻击动作，但驾驶员只能在载具移动的前后发动攻击。
 
-### Educated
+### 良好教育
 
-**Benefit:** Pick two Knowledge skills. The character gets a +2 bonus on all checks with those skills.
+**效果：** 选择两个知识技能。角色选择的技能的检定获得2点加值。
 
-**Special:** A character can select this feat as many as seven times. Each time, the character selects two new Knowledge skills.
+**特别：** 角色可以选择此专长7次。每次角色选择两个未选择过的知识技能。
 
-### Elusive Target
+### 凌波微步
 
-**Prerequisites:** Dexterity 13, Defensive Martial Arts.
+**要求：** 13敏捷、防御武术。
 
-**Benefit:** When fighting an opponent or multiple opponents in melee, other opponents attempting to target the character with ranged attacks take a –4 penalty. This penalty is in addition to the normal –4 penalty for firing into melee, making the penalty to target to character –8.
+**效果：** 当角色与一个或多个对手近战时，其他对手以此角色为目标的远程攻击将获得4点减值。此减值是叠加在正常情况下已有的4点减值上，总共有8点减值。
 
-**Special:** An opponent with the Precise Shot feat has the penalty lessened to –4 when targeting the character.
+**特别：** 若对手拥有`精准射击`专长，对此角色的攻击减值又降为4点。
 
-### Endurance
+### 坚忍
 
-**Benefit:** The character gains a +4 bonus on the following checks and saves: hourly Swim checks to avoid becoming fatigued, Constitution checks to continue running, Constitution checks to hold the character’s breath, Constitution checks to avoid damage from starvation or thirst, Fortitude saves to avoid damage from hot or cold environments, and Fortitude saves to resist suffocation or drowning.
+**效果：** 角色在以下检定和豁免时获得4点加值：游泳时每小时对抗疲乏的检定、坚持奔跑的体质检定、闭气的体质检定、避免饥饿或口渴造成伤害的体质检定、避免炎热或寒冷环境造成的伤害的强韧豁免、抵抗窒息和溺水的强韧豁免。
 
-Also, the character may sleep in medium or light armor without becoming fatigued.
+而且，角色穿着中型或轻型护甲睡觉不会疲乏。
 
-**Normal:** A character without this feat who sleeps in armor is automatically fatigued the following day.
+**正常：** 无此专长的角色穿着护甲睡觉，第二天会自动疲乏。
 
-### Exotic Firearms Proficiency
+### 擅长异种火器
 
-Choose a weapon type from the following list: cannons, heavy machine guns, grenade launchers, and rocket launchers.
+从下列武器类型选择一种：加农炮、重机枪、榴弹发射器和火箭筒。
 
-**Prerequisites:** Personal Firearms Proficiency, Advanced Firearms Proficiency.
+**要求：** 擅长单兵火器、高级擅长火器。
 
-**Benefit:** The character makes attack rolls with the weapon normally.
+**效果：** 角色像使用普通武器一样使用这些武器。
 
-**Normal:** A character who uses a weapon without being proficient with it takes a –4 penalty on attack rolls.
+**正常：** 无此专长的角色使用这些武器，攻击骰将受到4点减值。
 
-**Special:** A character can gain this feat as many as four times. Each time a character takes the feat, he or she selects a different weapon group.
+**特别：** 角色可以选择此专长4次。每次角色获得此专长将选择不同的武器类型。
 
-### Exotic Melee Weapon Proficiency
+### 擅长异种近战武器
 
-Choose one exotic melee weapon from. The character is proficient with that melee weapon in combat.
+选择一种异种近战武器。角色在战斗中将擅长使用这种武器。
 
-**Prerequisite:** Base attack bonus +1.
+**要求：** 基础攻击加值至少为1。
 
-**Benefit:** The character makes attack rolls with the weapon normally.
+**效果：** 角色像使用普通武器一样使用这些武器。
 
-**Normal:** A character who uses a weapon without being proficient with it takes a –4 penalty on attack rolls.
+**正常：** 无此专长的角色使用这些武器，攻击骰将受到4点减值。
 
-**Special:** A character can gain this feat multiple times. Each time the character takes the feat, he or she selects a different exotic melee weapon.
+**特别：**角色可以多次获得此专长。每次角色获得此专长将选择不同的异种近战武器。
 
-### Far Shot
+### 远程射击
 
-**Benefit:** When the character uses a firearm or archaic ranged weapon, its range increment increases by one-half (multiply by 1.5). When the character throws a weapon, its range increment is doubled.
+**效果：** 角色使用火器或古典远程武器时，射程将提高50%（即乘以1.5）。角色投掷武器，投掷射程将提高1倍。
 
-### Focused
+### 全神贯注
 
-**Benefit:** The character gets get a +2 bonus on all Balance checks and Concentration checks.
+**效果：** 角色在平衡和专注检定上获得2点加值。
 
-### Force Stop
+### 逼停
 
-**Prerequisites:** Drive 4 ranks, Vehicle Expert.
+**要求：** 驾驶4级、载具专家。
 
-**Benefit:** When the character at-tempts a sideswipe stunt with a surface vehicle, the character can force the other vehicle to a stop by nudging it into a controlled side-ways skid. In addition to the nor-mal requirements for attempting a sideswipe stunt, the character must have sufficient movement re-maining to move a number of squares equal to the character’s turn number.
+**效果：** 当角色试图发动`侧击`特技撞击地面或水面载具时，可以将载具撞得侧滑，强制目标载具停下。除了要满足侧击特技的一般要求外，角色必须保持移动等于`转向距离`的格子数。
 
-After succeeding on the check to attempt the sideswipe, the character makes a Drive check opposed by the other driver. If the character succeeds, turn the other vehicle 90 degrees across the front of the character’s, so that they form a tee. Move them forward a distance equal to the character’s turn number. The vehicles end their movement at that location, at stationary speed, and take their normal sideswipe damage.
+若`侧击`检定成功，角色和目标进行驾驶检定对抗。如果角色胜，则将目标载具旋转90度，横置在角色的载具前，两个载具形成一个T字。将它们向前移动等同于角色的`转向距离`的距离。然后目标载具将以静止速度停在目的地，承受正常的侧击伤害。
 
-If the character fails the check, resolve the sideswipe normally.
+若角色检定失败，则按正常的侧击来结算。
 
-### Frightful Presence
+### 气势凶猛
 
-**Prerequisites:** Charisma 15, Intimidate 9 ranks.
+**要求：** 15魅力，威吓9级。
 
-**Benefit:** When the character uses this feat, all opponents within 10 feet who have fewer levels than the character must make a Will saving throw (DC 10 + ½ the character’s level + the character’s Charisma modifier). An opponent who fails his or her save is shaken, taking a –2 penalty on attack rolls, saves, and skill checks for a number of rounds equal to 1d6 + the character’s Charisma modifier. The character can use the feat once per round as a free action.
+**效果：** 当角色使用此专长时，10尺内所有等级低于角色的对手必须进行一次意志豁免（DC为10+角色等级的一半+角色的魅力调整值）。豁免失败的对手将陷入`战栗`，所有攻击骰、豁免和技能检定有2点减值，持续轮数为1d6+角色魅力调整值。角色每轮可以以一个即使动作使用此专长。
 
-A successful save indicates that the opponent is immune to the character’s use of this feat for 24 hours. This feat does not affect creatures with an Intelligence of 3 or lower.
+豁免成功将使此对手在24小时内免疫此角色发动的此专长。此专长无法作用余智力小于等于3点的生物。
 
-If the character has the Renown feat, the Will saving throw’s DC increases by 5.
+若角色有`闻名`专长，意志豁免的DC将提高5点。
 
-### Gearhead
+### 技术宅
 
-**Benefit:** The character gets a +2 bonus on all Computer Use checks and Repair checks.
+**效果：** 角色在计算机使用和修理检定上获得2点加值。
 
-**Special:** Remember that the Computer Use skill and the Repair skill can only be used untrained in certain situations.
+**特别：** 注意计算机使用和修理技能在特定情境下是需受训的。
 
-### Great Cleave
+### 强力顺势斩
 
-**Prerequisites:** Strength 13, Power Attack, Cleave, base attack bonus +4.
+**要求：** 力量13、猛力攻击、顺势斩、基础攻击加值4点。
 
-**Benefit:** As Cleave, except that the character has no limit to the number of times he or she can use it per round.
+**效果：** 与顺势斩相同，但强力顺势斩每轮使用次数不限。
 
-### Great Fortitude
+### 强韧加强
 
-**Benefit:** The character gets a +2 bonus on all Fortitude sav-ing throws.
+**效果：** 角色的所有强韧豁免都获得2点加值。
 
-### Guide
+### 向导
 
-**Benefit:** The character gets a +2 bonus on all Navigate checks and Survival checks.
+**效果：** 角色在所有寻路和生存检定上获得2点加值。
 
-### Heroic Surge
+### 英勇
 
-**Benefit:** The character may take an extra move action or attack action in a round, either before or after the character’s regular actions. The character may use Heroic Surge a number of times per day depending on his or her character level (as shown below), but never more than once per round.
+**效果：** 角色在每轮正常的行动之前或之后可以进行额外的一次移动动作或攻击动作。角色每天可发动英勇的次数取决于角色的等级（见下表），但每轮只能发动一次。
 
-|Character Level|Times per Day|
+|角色等级|每日次数|
 |:-------------:|:-----------:|
 |1st–4th|1|
 |5th–8th|2|
@@ -347,387 +347,388 @@ If the character has the Renown feat, the Will saving throw’s DC increases by 
 |13th–16th|4|
 |17th–20th|5|
 
-### Improved Brawl
+### 精通拳法
 
-**Prerequisites:** Brawl, base attack bonus +3.
+**要求：** 拳法、基础攻击加值3点。
 
-**Benefit:** When making an unarmed attack, the character receives a +2 competence bonus on his or her attack roll, and the character deals nonlethal damage equal to 1d8 + the character’s Strength modifier.
+**效果：** 当进行徒手攻击时，角色攻击骰获得2点表现加值，并造成1d8+角色力量调整值的非致命伤害。
 
-**Normal:** Unarmed attacks normally deal nonlethal damage equal to 1d3 + Strength modifier.
+**正常：** 徒手攻击一般情况下施加的非致命伤害等于1d3+力量调整值。
 
-### Improved Bull Rush
+### 精通冲撞
 
-**Prerequisites:** Strength 13, Power Attack.
+**要求：** 13力量、猛力攻击。
 
-**Benefit:** When the character performs a bull rush, the character does not provoke an attack of opportunity from the defender.
+**效果：** 当角色发动`冲撞`时，角色不会引发防御方的借机攻击。
 
-### Improved Combat Martial Arts
+### 精通实战武术
 
-**Prerequisites:** Combat Martial Arts, base attack bonus +4.
+**要求：** 实战武术、基础攻击加值4点。
 
-**Benefit:** The character’s threat range on an unarmed strike im-proves to 19–20.
+**效果：** 角色徒手击打的重击威胁区间提升至19-20。
 
-**Normal:** A character without this feat threatens a critical hit with an unarmed strike only on a 20.
+**正常：** 无此专长的角色徒手击打的重击威胁区间仅为20。
 
-### Improved Combat Throw
+### 精通摔投技巧
 
-**Prerequisites:** Defensive Martial Arts, Combat Throw, base attack bonus +3.
+**要求：** 防御武术、摔投技巧、基础攻击加值3点。
 
-**Benefit:** In melee combat, if an opponent attacks and misses the character, the character may immediately make a trip attack against the opponent. This counts as an attack of opportunity, which the character can make even if he or she is unarmed. Attacking unarmed in this way does not provoke an attack of opportunity.
+**效果：** 近战时，若对手攻击角色失守，角色可以立即对此对手进行绊摔攻击。这算作一次借机攻击，角色徒手也能进行的借机攻击。这种绊摔攻击即使是徒手发动的，也不会引发借机攻击。
 
-**Special:** This feat doesn’t grant the character more attacks of opportunity than he or she is normally allowed in a round.
+**特别：** 此专长并不会赋予角色额外的借机攻击次数，发动此专长消耗的是原有的借机攻击机会。
 
-### Improved Damage Threshold
+### 巨创阈值增强
 
-**Benefit:** The character increases his or her massive damage threshold by 3 points.
+**效果：** 角色提高巨创阈值3点。
 
-**Normal:** A character without this feat has a massive damage threshold equal to his or her current Constitution score. With this feat, the character’s massive damage threshold is current Con +3.
+**正常：** 无此专长的角色拥有的巨创阈值等于角色当前的体质值。有了此专长，角色的巨创阈值为当前体质值+3。
 
-**Special:** A character may gain this feat multiple times. Its effects stack.
+**特别：**角色可以多次获得此专长。效果叠加。
 
-### Improved Disarm
+### 精通卸除武器
 
-**Prerequisites:** Intelligence 13, Combat Expertise.
+**要求：** 13智力、寓守于攻。
 
-**Benefit:** The character does not provoke an attack of opportunity when the character attempts to disarm an opponent, nor does the opponent get a chance to disarm the character.
+**效果：** 角色卸除对手武器时，不会引发借机攻击，也不会给对方机会卸除角色的武器。
 
-### Improved Feint
+### 精通虚招
 
-**Prerequisites:** Intelligence 13, Brawl, Streetfighting.
+**要求：** 13智力、拳法、街头战斗。
 
-**Benefit:** The character can make a Bluff check in combat as a move action. The character receives a +2 bonus on Bluff checks made to feint in melee combat.
+**效果：** 角色在战斗中可以使用一个移动动作做一个唬骗检定。角色在近战中使用虚招所进行的唬骗检定有2点加值。
 
-**Normal:** Feinting in combat requires an attack action.
+**正常：** 战斗中的虚招消耗一个攻击动作。
 
-### Improved Initiative
+### 精通先攻
 
-**Benefit:** The character gets a +4 circumstance bonus on initiative checks.
+**效果：** 角色的先攻检定获得4点情景加值。
 
-### Improved Knockout Punch
+### 精通终结之拳
 
-**Prerequisites:** Brawl, Knockout Punch, base attack bonus +6.
+**要求：** 拳法、终结之拳、基础攻击加值6点。
 
-**Benefit:** When making the character’s first unarmed attack against a flat-footed opponent, treat a successful attack as a critical hit. This critical hit deals triple damage. The damage is nonlethal damage.
+**效果：** 角色第一次用徒手攻击一个措手不及的对手时，若成功，必为重击。此重击造成3倍伤害。此伤害为非致命伤害。
 
-**Special:** Even if the character has the ability to treat unarmed damage as lethal damage, the damage from a knockout punch is always nonlethal.
+**特别：** 即使角色能够徒手造成致命伤害，终结之拳的伤害永远是非致命的。
 
-### Improved Trip
+### 精通绊摔
 
-**Prerequisites:** Intelligence 13, Combat Expertise.
+**要求：** 13智力、寓守于攻。
 
-**Benefit:** The character does not provoke an attack of opportunity when the character tries to trip an opponent while the character is unarmed.
+**效果：** 当角色试图徒手绊摔对手时，不会引发借机攻击。
 
-If the character trips an opponent in melee combat, the character immediately gets to make a melee attack against that opponent as if the character had not used his or her attack action for the trip attempt.
+如果角色在近战中成功绊摔对手，角色可立即对对手进行一次额外的近战攻击，就如同你没有使用过这次攻击来绊摔一样。
 
-### Improved Two-Weapon Fighting
+### 精通双持
 
-**Prerequisites:** Dexterity 13, Two-Weapon Fighting, base attack bonus +6.
+**要求：** 13敏捷、双持、基础攻击加值6点。
 
-**Benefit:** The character gets a second attack with his or her offhand weapon, albeit at a –5 penalty.  Also, this feat allows the character to use a melee weapon in one hand and a ranged weapon in the other.
+**效果：** 角色可以用副手的武器进行第二次攻击，但有5点减值。此专长也允许角色可以一手用近战武器一手用远程武器。
 
-**Normal:** Without this feat, a character can only get a single extra attack with an off-hand weapon, and both weapons must be of the same type (either both ranged weapons or both melee weapons).
+**正常：** 角色若无此专长只能得到单个用副手武器的额外攻击机会，两个武器必须是相同类型的（要么都是远程要么都是近战）。
 
-### Iron Will
+### 钢铁意志
 
-**Benefit:** The character gets a +2 bonus on all Will saving throws.
+**效果：** 角色所有的意志豁免都获得2点加值。
 
-### Knockout Punch
+### 终结之拳
 
-**Prerequisites:** Brawl, base attack bonus +3.
+**要求：** 拳法、基础攻击加值3点。
 
-**Benefit:** When making the character’s first unarmed attack against a flat-footed opponent, treat a successful attack as a critical hit. This damage is nonlethal damage.
+**效果：** 角色第一次用徒手攻击一个措手不及的对手时，若成功，必为重击。此伤害为非致命伤害。
 
-**Special:** Even if the character has the ability to treat unarmed damage as lethal damage, the damage from a knockout punch is always nonlethal.
+**特别：** 即使角色能够徒手造成致命伤害，终结之拳的伤害永远是非致命的。
 
-### Lightning Reflexes
+### 闪电反射
 
-**Benefit:** The character gets a +2 bonus on all Reflex saving throws.
+**效果：** 角色所有的反射豁免都获得2点加值。
 
-### Low Profile
+### 低调
 
-**Benefit:** Reduce the character’s Reputation bonus by 3 points.
+**效果：** 角色的声望加值减少3点。
 
-### Medical Expert
+### 医药专家
 
-**Benefit:** The character gets a +2 bonus on all Craft (pharmaceutical) checks and Treat Injury checks.
+**效果：** 角色在制造（配药）和医疗检定上获得2点加值。
 
-**Special:** Remember that the Craft (pharmaceutical) skill can’t be used untrained.
+**特别：** 注意制造（配药）技能是需受训的。
 
-### Meticulous
+### 一丝不苟
 
-**Benefit:** The character gets a +2 bonus on all Forgery checks and Search checks.
+**效果：** 角色在伪造文书和搜索检定上获得2点加值。
 
-### Mobility
+### 灵活移动
 
-### **Prerequisites:** Dexterity 13, Dodge.
+**要求：** 敏捷13、闪避。
 
-**Benefit:** The character gets a +4 dodge bonus to Defense against attacks of opportunity provoked when the character moves out of a threatened square.
+**效果：** 角色若因移出威胁范围而引发借机攻击，对此借机攻击的防御将获得4点闪避加值。
 
-**Special:** A condition that makes a character lose his or her Dexterity bonus to Defense also makes the character lose dodge bonuses. Also, dodge bonuses stack with each other, unlike most other types of bonuses.
+**特别：** 让角色失去敏捷加值的状态也会让角色失去这个闪避加值。而且，不像其他加值，闪避加值可叠加。
 
-### Nimble
+### 灵巧
 
-**Benefit:** The character gets a +2 bonus on all Escape Artist checks and Sleight of Hand checks.
+**效果：** 角色在脱逃和手上功夫检定上获得2点加值。
 
-**Special:** Remember that the Sleight of Hand skill can’t be used untrained.
+**特别：** 注意手上功夫技能是需受训的。
 
-### Personal Firearms Proficiency
+### 擅长单兵火器
 
-**Benefit:** The character can fire any personal firearm without penalty.
+**效果：** 角色发射任何单兵火器不再受到惩罚。
+> 译者注：其他专长的缺乏带来的惩罚仍然算数，如高级擅长火器。
 
-**Normal:** Characters without this feat take a –4 penalty on attack rolls made with personal firearms.
+**正常：** 无此专长的角色使用单兵火器攻击骰会有4点减值。
 
-### Point Blank Shot
+### 近程射击
 
-**Benefit:** The character gets a +1 bonus on attack and damage rolls with ranged weapons against opponents within 30 feet.
+**效果：** 角色使用远程武器对三十尺内的对手的攻击和伤害骰都有1点加值。
 
-### Power Attack
+### 猛力攻击
 
-**Prerequisite:** Strength 13.
+**要求：** 13力量。
 
-**Benefit:** On the character’s action, before making attack rolls for a round, the character may choose to subtract a number from all melee attack rolls and add the same number to all melee damage rolls. This number may not exceed the character’s base attack bonus. The penalty on attacks and bonus on damage applies until the character’s next action.
+**效果：** 角色行动时，在这轮的攻击骰掷出前，角色可以选择一个减值作用于所有的攻击骰，并使所有的伤害骰获得等量的加值。此值不能高于角色的基础攻击加值。减攻击加伤害的效果持续到角色的下一次行动。
 
-### Precise Shot
+### 精准射击
 
-**Prerequisite:** Point Blank Shot.
+**要求：** 近程射击。
 
-**Benefit:** The character can shoot or throw ranged weapons at an opponent engaged in melee without penalty.
+**效果：** 角色可以无减值惩罚地向陷入近战的对手射击或投掷远程武器。
 
-**Normal:** A character takes a –4 penalty when using a ranged weapon to attack an opponent who is engaged in melee combat.
+**正常：** 角色向陷入近战的对手射击或投掷远程武器，攻击骰会受到4点减值。
 
-### Quick Draw
+### 快速拔出
 
-**Prerequisite:** Base attack bonus +1.
+**要求：** 基础攻击加值至少为1。
 
-**Benefit:** The character can draw a weapon as a free action.
+**效果：** 角色可以用一个即时动作拔出一把武器。
 
-A character with this feat may throw weapons at his or her full normal rate of attacks.
+有此专长的角色可以以正常攻击速度掷出武器。
 
-**Normal:** A character can draw a weapon as a move action. If a character has a base attack bonus of +1 or higher, the character can draw a weapon as a free action when moving.
+**正常：** 角色需用一个移动动作拔出武器。如果角色的基础攻击加值至少有1点，则可以在移动的同时以一个即时动作拔出武器。
 
-### Quick Reload
+### 快速装填
 
-**Prerequisite:** Base attack bonus +1.
+**要求：** 基础攻击加值至少为1。
 
-**Benefit:** Reloading a firearm with an already filled box magazine or speed loader is a free action. Reloading a revolver without a speed loader, or reloading any firearm with an internal magazine, is a move action.
+**效果：** 将一个已装弹的弹匣或快速装填器装填至火器里，是一个即时动作。不用快速装填器装填左轮手枪，或将弹药装填至火器的内置弹匣里，是一个移动动作。
 
-**Normal:** Reloading a firearm with an already filled box magazine or speed loader is a move action. Reloading a revolver without a speed loader, or reloading any firearm with an internal magazine, is a full-round action.
+**正常：** 将一个已装弹的弹匣或快速装填器装填至火器里，是一个即时动作。不用快速装填器装填左轮手枪，或将弹药装填至火器的内置弹匣里，是一个整轮动作。
 
-### Renown
+### 闻名
 
-**Benefit:** The character’s Reputation bonus increases by +3.
+**效果：** 角色的声望加值增加3点。
 
-### Run
+### 奔跑
 
-**Benefit:** When running, the character moves a maximum of five times his or her normal speed instead of four times. If the character is in heavy armor, the character can move four times his or her speed rather than three times. If the character makes a long jump, the character gains a +2 competence bonus on his or her Jump check.
+**效果：** 奔跑时，角色的最大移动速度是正常速度的5倍而不是4倍。如果角色穿着重甲，最大移动速度是正常速度的4倍而不是3倍。角色跳远所进行的跳跃检定将获得2点表现加值。
 
-### Shot on the Run
+### 移动射击
 
-**Prerequisites:** Dexterity 13, Point Blank Shot, Dodge, Mobility.
+**要求：** 13敏捷、近程射击、闪避、灵活移动。
 
-**Benefit:** When using an attack action with a ranged weap-on, the character can move both before and after the attack, provided that the character’s total distance moved is not greater than his or her speed.
+**效果：** 当使用远程武器进行攻击动作时，角色攻击前后皆可移动，移动总距离不大于角色的速度。
 
-### Simple Weapons Proficiency
+### 擅长简易武器
 
-**Benefit:** The character makes attack rolls with simple weapons normally.
+**效果：** 角色可以正常地用简易武器掷攻击骰。
 
-**Normal:** A character without this feat takes the –4 nonproficient penalty when making attacks with simple weapons.
+**正常：**无此专长的角色将在使用简易武器掷攻击骰时受到4点`不擅长减值`。
 
-### Skip Shot
+### 跳弹射击
 
-**Prerequisites:** Point Blank Shot, Precise Shot.
+**要求：** 近程射击、精准射击。
 
-**Benefit:** If the character has a solid, relatively smooth surface on which to skip a bullet (such as a street or a concrete wall), and a target within 10 feet of that surface, the character may ignore cover between the character and the target. However, the character receives a –2 penalty on his or her attack roll, and the character’s attack deals –1 die of damage.
+**效果：** 如果有一个可以反弹子弹的、固态的相对平滑的表面（比如街道或混凝土墙）供角色射击，而这个表面与目标距离在10尺内，角色可以无视角色与目标间的掩体射击目标。但是，角色的攻击骰有2点减值，伤害骰有1点减值。
 
-**Special:** The surface doesn’t have to be perfectly smooth and level; a brick wall or an asphalt road can be used. The target can have no more than nine-tenths cover for A character to attempt a skip shot.
+**特别：** 表面不需要非常光滑平坦，一堵砖墙或者柏油路也是可以的。目标的掩护不超过9/10，角色都可以进行跳弹射击。
 
-### Spring Attack
+### 跳跃攻击
 
-**Prerequisites:** Dexterity 13, Dodge, Mobility, base attack bonus +4.
+**要求：** 13敏捷、闪避、灵活移动、基础攻击加值4点。
 
-**Benefit:** When using an attack action with a melee weapon, the character can move both before and after the attack, provided that the total distance moved is not greater than the charater’s speed.
+**效果：** 当使用近战武器进行攻击动作时，角色攻击前后皆可移动，移动总距离不大于角色的速度。
 
-Moving in this way does not provoke an attack of opportunity from the defender the character is attacking (though it can provoke attacks of opportunity from others, as normal).
+以这种方式移动不会引发防御者的借机攻击（但如常引发其他对手的借机攻击）。
 
-A character can’t use this feat if he or she is carrying a heavy load or wearing heavy armor.
+角色不能在重度负载或穿着重甲时使用此专长。
 
-### Stealthy
+### 隐秘
 
-**Benefit:** The character gets a +2 bonus on all Hide checks and Move Silently checks.
+**效果：** 角色的所有躲藏和潜行检定获得2点加值。
 
-### Strafe
+### 扫射
 
-**Prerequisites:** Personal Firearms Proficiency, Advanced Firearms Proficiency.
+**要求：** 擅长单兵火器、高级擅长火器。
 
-**Benefit:** When using a firearm on autofire, the character can affect an area four 5-foot squares long and one square wide (that is, any four squares in a straight line).
+**效果：** 当使用自动模式的火器时，角色范围攻击4个5尺格子长、1格子宽（也就是4个格子的直线）的区域。
 
-**Normal:** A firearm on autofire normally affects a 10-foot-by-10-foot area.
+**正常：** 自动模式火器一般攻击的范围是10尺×10尺的区域。
 
-### Streetfighting
+### 街头战斗
 
-**Prerequisites:** Brawl, base attack bonus +2.
+**要求：** 拳法、基础攻击加值2点。
 
-**Benefit:** Once per round, if the character makes a successful melee attack with an unarmed strike or a light weapon, the character deals an extra 1d4 points of damage.
+**效果：** 每一轮，如果角色进行了一次成功的徒手或轻武器近战攻击，角色可额外造成1d4点伤害。
 
-### Studious
+### 好学
 
-**Benefit:** The character gets a +2 bonus on all Decipher Script checks and Research checks.
+**效果：** 角色在文件解读和研究检定上获得2点加值。
 
-### Sunder
+### 击碎
 
-**Prerequisites:** Strength 13, Power Attack.
+**要求：** 13力量、猛力攻击。
 
-**Benefit:** When the character strikes an object held or carried by an opponent, such as a weapon, the character does not provoke an attack of opportunity.
+**效果：** 当角色攻击对手握持或携带的物体（如武器）时，不会引发借机攻击。
 
-The character gains a +4 bonus on any attack roll made to attack an object held or carried by another character. The character deals double normal damage to objects, whether they are held or carried or not.
+角色在攻击他人握持或携带的物体的攻击骰获得4点加值。角色对物体的伤害是正常的两倍，不管这个物体被握持、携带还是两者皆非。
 
-**Normal:** A character without this feat incurs an attack of opportunity when he or she strikes at an object held or carried by another character.
+**正常：** 无此专长的角色攻击他人握持或携带的物体会引发借机攻击。
 
-### Surface Vehicle Operation
+### 地表载具操作
 
-Select a class of surface vehicle (heavy wheeled, powerboat, sailboat, ship, or tracked). The character is proficient at operating that class of vehicle.
+选择一类表面载具（重型轮式载具、汽艇、帆船、舰、以及履带式载具）。角色将能专业地操控这类载具。
 
-The heavy wheeled class includes all kinds of semi-trucks and tractor-trailers, as well as wheeled construction ve-hicles (such as earth movers) and wheeled armored vehicles (such as some armored personnel carriers). Powerboats are engine-powered water vessels designed for operation by a single person and usually no more than 100 feet in length. Sailboats are wind-powered water vessels. Ships are large, multicrewed water vessels. Tracked vehicles include bulldozers and tanks and other military vehicles.
+重型轮式载具类包括各种半挂牵引车及其挂车、轮式重机（如铲运机）、轮式装甲车（如一些装甲输送车）。汽艇是由引擎驱动的水上舰艇，由单人操作，航程通常至多100尺。帆船是风帆驱动的水上舰艇。舰是大型的、由多船员操控的舰艇。履带式载具包括推土机和坦克以及其他军用载具。
 
-**Prerequisite:** Drive 4 ranks.
+**要求：** 驾驶4级。
 
-**Benefit:** The character takes no penalty on Drive checks or attack rolls made when operating a surface vehicle of the selected class.
+**效果：** 角色操纵指定类型的地表载具在驾驶检定或攻击骰时不会承受减值。
 
-**Normal:** Characters without this feat take a –4 penalty on Drive checks made to operate a surface vehicle that falls under any of these classes, and to attacks made with vehicle weapons. There is no penalty when you operate a general-purpose surface vehicle.
+**正常：**无此专长的角色将在使用这几类地表载具进行驾驶检定，以及使用车载武器掷攻击骰时受到4点减值。角色操作通用的地表载具则无此减值。
 
-**Special:** A character can gain this feat as many as five times. Each time the character takes the feat, he or she selects a different class of surface vehicle.
+**特别：** 角色可以选择此专长5次。每次角色获得此专长将选择不同的地表载具类型。
 
-### Surgery
+### 手术
 
-**Prerequisite:** Treat Injury 4 ranks.
+**要求：** 医疗4级。
 
-**Benefit:** The character can use the Treat Injury skill to perform surgery without penalty.  See the Treat Injury skill description.
+**效果：** 角色使用医疗技能进行手术不再受到惩罚。见医疗技能描述。
 
-**Normal:** Characters without this feat take a –4 penalty on Treat Injury checks made to perform surgery.
+**正常：** 无此专长的角色使用医疗技能进行手术，检定会有4点减值。
 
-### Toughness
+### 健壮
 
-**Benefit:** The character gains +3 hit points.
+**效果：** 角色获得3点生命上限。
 
-**Special:** A character may gain this feat multiple times. Its effects stack.
+**特别：**角色可以多次获得此专长。效果叠加。
 
-### Track
+### 追踪
 
-**Benefit:** To find tracks or follow them for one mile requires a Survival check. The character must make another Survival check every time the tracks become difficult to follow.
+**效果：** 使用`生存`检定，沿着踪迹追踪1里内的目标。每次踪迹变得更难追踪时，角色都需要再做一次生存检定。
 
-The character moves at half his or her normal speed (or at the character’s normal speed with a –5 penalty on the check, or at up to twice the character’s speed with a –20 penalty on the check). The DC depends on the surface and the prevailing conditions.
+角色将以正常速度的一半移动（角色以常速移动，检定有5点减值；角色以二倍速移动，检定则有20点减值。）DC取决于地面和目前状况。
 
-|Surface|Track DC|
+|地面|追踪DC|
 |-------|:------:|
-|Very soft|5|
-|Soft|10|
-|Firm|15|
-|Hard|20|
+|异常松软|5|
+|松软|10|
+|坚实|15|
+|坚硬|20|
 
-**Very Soft:** Any surface (fresh snow, thick dust, wet mud) that holds deep, clear impressions of footprints.
+**异常松软：** 任何可以留下深而清晰足迹的地面（新雪、厚尘、软泥等）。
 
-**Soft:** Any surface soft enough to yield to pressure, but firmer than wet mud or fresh snow, in which the quarry leaves frequent but shallow footprints.
+**松软：** 任何足以显示出施压痕迹，但比软泥或新雪坚实的地面，生物在此地面留下连续但浅显的足迹。
 
-**Firm:** Most normal outdoor or exceptionally soft or dirty indoor surfaces. The quarry might leave some traces of its passage, but only occasional or partial footprints can be found.
+**坚实：** 大部分的普通户外地面或者特别柔软或肮脏的室内地面。生物只会留下一些轻微的踪迹，但很少留下足迹，即使有也不完整。
 
-**Hard:** Any surface that doesn’t hold footprints at all, such as bare rock, concrete, metal deckings, or indoor floors. The quarry leaves only traces, such as scuff marks.
+**坚硬：** 任何完全不会留下足迹的地面，比如光秃秃的石头、混凝土、金属平台或者室内地板。生物只会留下细微的痕迹，比如擦痕。
 
-If the character fails a Survival check, he or she can retry after 1 hour (out-doors) or 10 minutes (indoors) of searching.
+如果角色生存检定失败，可以在进行1小时（室外）或十分钟（室内）的搜索后重试。
 
-**Normal:** A character without this feat can use the Survival skill to find tracks, but can only follow tracks if the DC is 10 or less. A character can use the Search skill to find individual footprints, but cannot follow tracks using Search.
+**正常：** 无此专长的角色可以用生存检定寻找踪迹，但只能跟踪DC不大于10的踪迹。角色可以使用搜索技能寻找单个脚印，但不能使用搜索来追踪。
 
-|Condition|DC Modifier|
+|目前状况|DC调整值|
 |---------|:---------:|
-|Every three targets in the group being tracked|–1|
+|被追踪的生物每多三个|–1|
 |--------------------------------------|----------|
-|Size of targets being tracked\*:||
-|Fine|+8|
-|Diminutive|+4|
-|Tiny|+2|
-|Small|+1|
-|Medium-size|+0|
-|Large|–1|
-|Huge|–2|
-|Gargantuan|–4|
-|Colossal|-8|
+|被追踪生物的体型\*：||
+|超微型|+8|
+|微型|+4|
+|超小型|+2|
+|小型|+1|
+|普通|+0|
+|大型|–1|
+|超大型|–2|
+|巨型|–4|
+|超巨型|-8|
 |--------------------------------------|----------|
-|Every 24 hours since the trail was made|+1|
-|Every hour of rain since the trail was made|+1|
-|Fresh snow cover since the trail was made|+10|
+|留下痕迹之后每隔24小时|+1|
+|留下痕迹之后每下一小时雨|+1|
+|留下痕迹之后被新雪覆盖|+10|
 |--------------------------------------|----------|
-|Poor visibility\*\*:||
-|Overcast or moonless night|+6|
-|Moonlight|+3|
-|Fog or precipitation|+3|
-|Tracked target hides trail (and moves at half speed)|+5|
+|视线不佳\*\*：||
+|乌云密布或无月光的夜晚|+6|
+|月光下|+3|
+|起雾或降雨（雪）|+3|
+|被追踪目标刻意掩盖痕迹（并以一半的速度移动）|+5|
 
-\* For a group of mixed sizes, apply only the modifier for the largest size category represented.
-\*\* Apply only the largest modifier from this category.
+\* 若生物群体的体型不一，只以最大体型生物的调整值为准。
+\*\* 此类状况以最大的调整值为准。
 
-### Trustworthy
+### 值得信赖
 
-**Benefit:** The character gets a +2 bonus on all Diplomacy checks and Gather Information checks.
+**效果：** 角色的所有交涉和收集信息检定获得2点加值。
 
-### Two-Weapon Fighting
+### 双持
 
-**Prerequisite:** Dexterity 13.
+**要求：** 13敏捷
 
-**Benefit:** The character’s penalties for fighting with two weapons are lessened by 2 for the primary hand and 6 for the off hand.
+**效果：** 角色双持武器的所受减值降低，主手减值减少2，副手减值减少6。
 
-The weapons used must both be melee weapons or both be ranged weapons (the character can’t mix the types).
+所使用的武器必须同为近战或同为远程，不可混用。
 
-### Unbalance Opponent
+### 晃倒对手
 
-**Prerequisites:** Defensive Martial Arts, base attack bonus +6.
+**要求：** 防御武术、基础攻击加值6点。
 
-**Benefit:** During the character’s action, the character designates an opponent no more than one size category larger or smaller than the character. That opponent doesn’t get to add his or her Strength modifier to attack rolls when targeting the character. (If the opponent has a Strength penalty, he or hse still takes that penalty.)
+**效果：** 角色行动时，角色指定一个体型与自己相差不超过1级的对手。该对手以角色为目标攻击时，攻击骰不会加上力量调整值。（除非力量调整值是负的。）
 
-The opponent’s Strength modifier applies to damage, as usual.
+对手的伤害骰则如常应用力量调整值。
 
-The character can select a new opponent on any action.
+角色可在进行任何动作时指定新的对手。
 
-### Vehicle Dodge
+### 载具闪避
 
-**Prerequisites:** Dexterity 13, Drive 6 ranks or Pilot 6 ranks, Vehicle Expert.
+**要求：** 13敏捷、驾驶6级或驾机6级、载具专家。
 
-**Benefit:** When driving a vehicle, during the character’s action the character designates an opposing vehicle or a single opponent. The character’s vehicle and everyone aboard it receive a +1 dodge bonus to Defense against attacks from that vehicle or opponent. The character can select a new vehicle or opponent on any action.
+**效果：** 驾驶载具的时候，在角色行动时，角色可指定一个对手载具或单个对手。角色的载具和载具上所有人，对该对手载具或对手的防御获得1点闪避加值。角色可在进行任何动作时指定新的载具或对手。
 
-### Vehicle Expert
+### 载具专家
 
-**Benefit:** The character gets a +2 bonus on all Drive checks and Pilot checks.
+**效果：** 角色在驾驶或驾机检定上获得2点加值。
 
-### Weapon Finesse
+### 武器娴熟
 
-Choose one light melee weapon, a rapier (if the character can use it with one hand), or a chain.  A character can choose unarmed strike or grapple as a weapon for the purposes of this feat.
+选择一个轻型近战武器、长剑（角色需单手就能使用）或者锁链。徒手击打和擒抱也可当作武器选择。
 
-**Prerequisites:** Proficient with weapon, base attack bonus +1.
+**要求：** 擅长该武器、基础攻击加值1点。
 
-**Benefit:** With the selected melee weapon, the character may use his or her Dexterity modifier instead of his or her Strength modifier on attack rolls.
+**效果：** 角色使用选择的近战武器攻击时，可用敏捷调整值代替力量调整值应用于攻击骰。
 
-**Special:** A character can gain this feat multiple times. Each time the character takes the feat, the character selects a -different weapon.
+**特别：**角色可以多次获得此专长。每次角色获得此专长将选择不同的武器。
 
-### Weapon Focus
+### 专攻武器
 
-Choose a specific weapon. A character can choose unarmed strike or grapple for your weapon for purposes of this feat.
+选定一种武器。徒手击打和擒抱也可当作武器选择。
 
-**Prerequisites:** Proficient with weapon, base attack bonus +1.
+**要求：** 擅长该武器、基础攻击加值1点。
 
-**Benefit:** The character gains a +1 bonus on all attack rolls he or she makes using the selected weapon.
+**效果：** 角色用选定的武器掷攻击骰都可以获得1点加值。
 
-**Special:** A character can gain this feat multiple times. Each time the character takes the feat, the character must select a different weapon.
+**特别：**角色可以多次获得此专长。每次角色获得此专长必须选择不同的武器。
 
-### Whirlwind Attack
+### 旋风攻击
 
-**Prerequisites:** Dexterity 13, Intelligence 13, Dodge, Mobility, Spring Attack, Combat Expertise, base attack bonus +4.
+**要求：** 13敏捷、13智力、闪避、灵活移动、跳跃攻击、寓守于攻、基础攻击加值4点。
 
-**Benefit:** When the character performs a full-round action, the character can give up his or her regular attacks and instead make one melee attack at the character’s highest base attack bonus against each adjacent opponent.
+**效果：** 当发动整轮攻击时，角色可以放弃常规攻击，代之以用最高基本攻击加值对每个相邻对手作一次近战攻击。
 
-### Wild Talent
+### 特异功能
 
-**Benefit:** Select one 0-level psionic power. The character can manifest this power up to three times in a 24-hour period. There is no power point cost for using this power. For effects that depends on manifester level the character is considered 1st level or his or her manifester level, whichever is higher.
+**效果：** 选择一个0级的灵力。角色可以在24小时周期内释放3次该灵力。释放此灵力无需消耗灵力点数。释放者等级与1级之间取最大值，决定灵力产生多少等级的效果。
 
-### Windfall
+### 横财
 
-**Benefit:** The character’s Wealth bonus increases by +3. Also, this feat provides a +1 bonus on all Profession checks.
+**效果：** 角色的财富加值增加3点。而且，此专长为所有专业检定提供1点加值。
 
-**Special:** A character can select this feat multiple times. Each time, both of its effects stack.
+**特别：**角色可以多次选择此专长。每次各效果叠加。

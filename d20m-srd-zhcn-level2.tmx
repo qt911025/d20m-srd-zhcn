@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx14.dtd">
 <tmx version="1.4">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.0_0_e0e1b4cc" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1350,6 +1350,38 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>### Armor Proficiency (light)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T131215Z" creationid="quentine" creationdate="20190730T131215Z">
+        <seg>### 擅长护甲（轻型）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Armor Proficiency (medium)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T131927Z" creationid="quentine" creationdate="20190730T131927Z">
+        <seg>### 擅长护甲（中型）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Athletic</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T132005Z" creationid="quentine" creationdate="20190730T132005Z">
+        <seg>### 竞技</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Attentive</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T132101Z" creationid="quentine" creationdate="20190730T132101Z">
+        <seg>### 听者有心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>### BASIC TASK RESOLUTION SYSTEM</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181024T045803Z" creationid="QuenTine" creationdate="20181024T044605Z">
@@ -1362,6 +1394,46 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T082645Z" creationid="quentine" creationdate="20190216T082645Z">
         <seg>### 基础攻击加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Blind-Fight</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T142250Z" creationid="quentine" creationdate="20190730T132225Z">
+        <seg>### 盲斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Brawl</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T133704Z" creationid="quentine" creationdate="20190730T133704Z">
+        <seg>### 拳法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Builder</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T134058Z" creationid="quentine" creationdate="20190730T134058Z">
+        <seg>### 构造师</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Burst Fire</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T134630Z" creationid="quentine" creationdate="20190730T134630Z">
+        <seg>### 点射</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Cautious</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T135844Z" creationid="quentine" creationdate="20190730T135844Z">
+        <seg>### 谨慎</seg>
       </tuv>
     </tu>
     <tu>
@@ -1406,6 +1478,62 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>### Cleave</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T140054Z" creationid="quentine" creationdate="20190730T140054Z">
+        <seg>### 顺势斩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Combat Expertise</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T113728Z" creationid="quentine" creationdate="20190731T112938Z">
+        <seg>### 寓守于攻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Combat Martial Arts</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T114251Z" creationid="quentine" creationdate="20190731T114251Z">
+        <seg>### 实战武术</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Combat Reflexes</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T115446Z" creationid="quentine" creationdate="20190731T115446Z">
+        <seg>### 战斗反射</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Combat Throw</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T120431Z" creationid="quentine" creationdate="20190731T120431Z">
+        <seg>### 摔投技巧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Confident</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T121056Z" creationid="quentine" creationdate="20190731T121056Z">
+        <seg>### 自信</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Creative</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T121227Z" creationid="quentine" creationdate="20190731T121227Z">
+        <seg>### 富有创意</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>### Dead (–10 hit points or lower)</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T111208Z" creationid="quentine" creationdate="20190115T111208Z">
@@ -1414,10 +1542,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>### Dead Aim</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T121716Z" creationid="quentine" creationdate="20190731T121716Z">
+        <seg>### 屏息瞄准</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Deceptive</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T122522Z" creationid="quentine" creationdate="20190731T122522Z">
+        <seg>### 欺诈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>### Defense Bonus</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T084007Z" creationid="quentine" creationdate="20190216T084007Z">
         <seg>### 防御加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Defensive Martial Arts</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T122621Z" creationid="quentine" creationdate="20190731T122621Z">
+        <seg>### 防御武术</seg>
       </tuv>
     </tu>
     <tu>
@@ -1438,10 +1590,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>### Dodge</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T123027Z" creationid="quentine" creationdate="20190731T123027Z">
+        <seg>### 闪避</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Double Tap</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T123449Z" creationid="quentine" creationdate="20190731T123449Z">
+        <seg>### 双发快射</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Drive-By Attack</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T125101Z" creationid="quentine" creationdate="20190731T125101Z">
+        <seg>### 驾驶攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>### Dying (–1 to –9 Hit Points)</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T110542Z" creationid="quentine" creationdate="20190115T110542Z">
         <seg>### 濒死（-1到-9生命）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Educated</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T125809Z" creationid="quentine" creationdate="20190731T125809Z">
+        <seg>### 良好教育</seg>
       </tuv>
     </tu>
     <tu>
@@ -1454,10 +1638,106 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>### Elusive Target</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T130017Z" creationid="quentine" creationdate="20190731T130017Z">
+        <seg>### 凌波微步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Endurance</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T131904Z" creationid="quentine" creationdate="20190731T131904Z">
+        <seg>### 坚忍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Exotic Firearms Proficiency</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T132815Z" creationid="quentine" creationdate="20190731T132815Z">
+        <seg>### 擅长异种火器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Exotic Melee Weapon Proficiency</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T133354Z" creationid="quentine" creationdate="20190731T133354Z">
+        <seg>### 擅长异种近战武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Far Shot</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T133529Z" creationid="quentine" creationdate="20190731T133529Z">
+        <seg>### 远程射击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>### Feats</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T090652Z" creationid="quentine" creationdate="20190216T090652Z">
         <seg>### 专长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Focused</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T133745Z" creationid="quentine" creationdate="20190731T133745Z">
+        <seg>### 全神贯注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Force Stop</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T133822Z" creationid="quentine" creationdate="20190731T133822Z">
+        <seg>### 逼停</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Frightful Presence</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T131014Z" creationid="quentine" creationdate="20190802T131014Z">
+        <seg>### 气势凶猛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Gearhead</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T131803Z" creationid="quentine" creationdate="20190802T131803Z">
+        <seg>### 技术宅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Great Cleave</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T131945Z" creationid="quentine" creationdate="20190802T131945Z">
+        <seg>### 强力顺势斩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Great Fortitude</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T132230Z" creationid="quentine" creationdate="20190802T132230Z">
+        <seg>### 强韧加强</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Guide</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T132342Z" creationid="quentine" creationdate="20190802T132342Z">
+        <seg>### 向导</seg>
       </tuv>
     </tu>
     <tu>
@@ -1478,6 +1758,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>### Heroic Surge</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T132939Z" creationid="quentine" creationdate="20190802T132939Z">
+        <seg>### 英勇</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>### Hit Die</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190116T114347Z" creationid="quentine" creationdate="20190116T114347Z">
@@ -1494,6 +1782,94 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>### Improved Brawl</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T133236Z" creationid="quentine" creationdate="20190802T133236Z">
+        <seg>### 精通拳法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Improved Bull Rush</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T133420Z" creationid="quentine" creationdate="20190802T133420Z">
+        <seg>### 精通冲撞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Improved Combat Martial Arts</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T133659Z" creationid="quentine" creationdate="20190802T133659Z">
+        <seg>### 精通实战武术</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Improved Combat Throw</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T140746Z" creationid="quentine" creationdate="20190802T140737Z">
+        <seg>### 精通摔投技巧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Improved Damage Threshold</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T141953Z" creationid="quentine" creationdate="20190802T141953Z">
+        <seg>### 巨创阈值增强</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Improved Disarm</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T142317Z" creationid="quentine" creationdate="20190802T142317Z">
+        <seg>### 精通卸除武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Improved Feint</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T142714Z" creationid="quentine" creationdate="20190802T142714Z">
+        <seg>### 精通虚招</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Improved Initiative</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T144506Z" creationid="quentine" creationdate="20190802T144506Z">
+        <seg>### 精通先攻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Improved Knockout Punch</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T144549Z" creationid="quentine" creationdate="20190802T144549Z">
+        <seg>### 精通终结之拳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Improved Trip</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T145104Z" creationid="quentine" creationdate="20190802T145104Z">
+        <seg>### 精通绊摔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Improved Two-Weapon Fighting</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T150246Z" creationid="quentine" creationdate="20190802T150246Z">
+        <seg>### 精通双持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>### Increases in Constitution Score and Current Hit Points</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T114046Z" creationid="quentine" creationdate="20190115T114046Z">
@@ -1502,10 +1878,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>### Iron Will</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T150709Z" creationid="quentine" creationdate="20190802T150709Z">
+        <seg>### 钢铁意志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Knockout Punch</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T150851Z" creationid="quentine" creationdate="20190802T150851Z">
+        <seg>### 终结之拳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>### Level</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T082157Z" creationid="quentine" creationdate="20190216T082157Z">
         <seg>### 等级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Lightning Reflexes</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T134035Z" creationid="quentine" creationdate="20190803T134035Z">
+        <seg>### 闪电反射</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Low Profile</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T134109Z" creationid="quentine" creationdate="20190803T134109Z">
+        <seg>### 低调</seg>
       </tuv>
     </tu>
     <tu>
@@ -1526,10 +1934,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>### Medical Expert</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T134149Z" creationid="quentine" creationdate="20190803T134149Z">
+        <seg>### 医药专家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Meticulous</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T134334Z" creationid="quentine" creationdate="20190803T134334Z">
+        <seg>### 一丝不苟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Mobility</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T134355Z" creationid="quentine" creationdate="20190803T134355Z">
+        <seg>### 灵活移动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>### Natural Healing</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T113341Z" creationid="quentine" creationdate="20190115T113341Z">
         <seg>### 自然治疗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Nimble</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T134921Z" creationid="quentine" creationdate="20190803T134921Z">
+        <seg>### 灵巧</seg>
       </tuv>
     </tu>
     <tu>
@@ -1550,10 +1990,58 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>### Personal Firearms Proficiency</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T135031Z" creationid="quentine" creationdate="20190803T135031Z">
+        <seg>### 擅长单兵火器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Point Blank Shot</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T135537Z" creationid="quentine" creationdate="20190803T135537Z">
+        <seg>### 近程射击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>### Poison Immunity</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T141639Z" creationid="quentine" creationdate="20190115T141639Z">
         <seg>### 毒性免疫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Power Attack</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T135807Z" creationid="quentine" creationdate="20190803T135807Z">
+        <seg>### 猛力攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Precise Shot</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T140219Z" creationid="quentine" creationdate="20190803T140219Z">
+        <seg>### 精准射击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Quick Draw</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T140509Z" creationid="quentine" creationdate="20190803T140509Z">
+        <seg>### 快速拔出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Quick Reload</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T141512Z" creationid="quentine" creationdate="20190803T141512Z">
+        <seg>### 快速装填</seg>
       </tuv>
     </tu>
     <tu>
@@ -1582,6 +2070,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>### Renown</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T142303Z" creationid="quentine" creationdate="20190803T142303Z">
+        <seg>### 闻名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>### Reputation Bonus</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T084036Z" creationid="quentine" creationdate="20190216T084036Z">
@@ -1598,10 +2094,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>### Run</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T142327Z" creationid="quentine" creationdate="20190803T142327Z">
+        <seg>### 奔跑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>### Saving Throws</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T083924Z" creationid="quentine" creationdate="20190216T083924Z">
         <seg>### 豁免</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Shot on the Run</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T142714Z" creationid="quentine" creationdate="20190803T142714Z">
+        <seg>### 移动射击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Simple Weapons Proficiency</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T143101Z" creationid="quentine" creationdate="20190803T143101Z">
+        <seg>### 擅长简易武器</seg>
       </tuv>
     </tu>
     <tu>
@@ -1614,10 +2134,82 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>### Skip Shot</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T121620Z" creationid="quentine" creationdate="20190804T121620Z">
+        <seg>### 跳弹射击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Spring Attack</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T122756Z" creationid="quentine" creationdate="20190804T122756Z">
+        <seg>### 跳跃攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>### Starting Feats</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190116T115355Z" creationid="quentine" creationdate="20190116T115355Z">
         <seg>### 起始专长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Stealthy</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T123413Z" creationid="quentine" creationdate="20190804T123413Z">
+        <seg>### 隐秘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Strafe</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T123444Z" creationid="quentine" creationdate="20190804T123444Z">
+        <seg>### 扫射</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Streetfighting</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T123916Z" creationid="quentine" creationdate="20190804T123916Z">
+        <seg>### 街头战斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Studious</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T124112Z" creationid="quentine" creationdate="20190804T124112Z">
+        <seg>### 好学</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Sunder</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T125547Z" creationid="quentine" creationdate="20190804T124503Z">
+        <seg>### 击碎</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Surface Vehicle Operation</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T125913Z" creationid="quentine" creationdate="20190804T125913Z">
+        <seg>### 地表载具操作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Surgery</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T134901Z" creationid="quentine" creationdate="20190804T134901Z">
+        <seg>### 手术</seg>
       </tuv>
     </tu>
     <tu>
@@ -1706,6 +2298,102 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181024T041303Z" creationid="QuenTine" creationdate="20181024T041303Z">
         <seg>### 本规则书中将使用以下骰子记法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Toughness</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T135100Z" creationid="quentine" creationdate="20190804T135100Z">
+        <seg>### 健壮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Track</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T135148Z" creationid="quentine" creationdate="20190804T135148Z">
+        <seg>### 追踪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Trustworthy</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T142243Z" creationid="quentine" creationdate="20190804T142243Z">
+        <seg>### 值得信赖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Two-Weapon Fighting</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T142317Z" creationid="quentine" creationdate="20190804T142317Z">
+        <seg>### 双持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Unbalance Opponent</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T143330Z" creationid="quentine" creationdate="20190804T143330Z">
+        <seg>### 晃倒对手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Vehicle Dodge</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T144033Z" creationid="quentine" creationdate="20190804T144033Z">
+        <seg>### 载具闪避</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Vehicle Expert</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T144505Z" creationid="quentine" creationdate="20190804T144505Z">
+        <seg>### 载具专家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Weapon Finesse</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T145002Z" creationid="quentine" creationdate="20190804T144534Z">
+        <seg>### 武器娴熟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Weapon Focus</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T145348Z" creationid="quentine" creationdate="20190804T145348Z">
+        <seg>### 专攻武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Whirlwind Attack</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T145656Z" creationid="quentine" creationdate="20190804T145656Z">
+        <seg>### 旋风攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Wild Talent</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T150210Z" creationid="quentine" creationdate="20190804T150210Z">
+        <seg>### 特异功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Windfall</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T150920Z" creationid="quentine" creationdate="20190804T150920Z">
+        <seg>### 横财</seg>
       </tuv>
     </tu>
     <tu>
@@ -2936,6 +3624,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>(If the opponent has a Strength penalty, he or hse still takes that penalty.)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T143919Z" creationid="quentine" creationdate="20190804T143919Z">
+        <seg>（除非力量调整值是负的。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>(If the target is currently being threatened or attacked by the Personality or his or her allies, this ability won’t work.)</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190526T112703Z" creationid="quentine" creationdate="20190526T112703Z">
@@ -3535,6 +4231,86 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Benefit:** As Cleave, except that the character has no limit to the number of times he or she can use it per round.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T132215Z" creationid="quentine" creationdate="20190802T132215Z">
+        <seg>**效果：** 与顺势斩相同，但强力顺势斩每轮使用次数不限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** Before making a ranged attack, the character may take a full-round action to line up your shot.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T121911Z" creationid="quentine" creationdate="20190731T121911Z">
+        <seg>**效果：** 在进行远程攻击前，角色可以用一个整轮动作来精确瞄准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** During the character’s action, the character designates an opponent and receives a +1 dodge bonus to Defense against any subsequent attacks from that opponent.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T123313Z" creationid="quentine" creationdate="20190731T123313Z">
+        <seg>**效果：** 角色行动时，可指定一个对手，防御这个对手之后造成的任何攻击都获得1点闪避加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** During the character’s action, the character designates an opponent no more than one size category larger or smaller than the character.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T143530Z" creationid="quentine" creationdate="20190804T143530Z">
+        <seg>**效果：** 角色行动时，角色指定一个体型与自己相差不超过1级的对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** If the character deals an opponent enough damage to make the opponent drop (either by knocking the opponent out due to massive damage or by reducing the opponent’s hit points to less than 0), the character gets an immediate extra melee attack against another opponent adjacent to the character.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T141856Z" creationid="quentine" creationdate="20190730T140214Z">
+        <seg>**效果：** 如果角色对目标的伤害很大，足以让对方倒下（成功对目标造成巨创并击倒，或者使目标生命值减至0以下），角色可以立即对与目标相邻的对手实施一次额外的近战攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** If the character has a solid, relatively smooth surface on which to skip a bullet (such as a street or a concrete wall), and a target within 10 feet of that surface, the character may ignore cover between the character and the target.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T122300Z" creationid="quentine" creationdate="20190804T122158Z">
+        <seg>**效果：** 如果有一个可以反弹子弹的、固态的相对平滑的表面（比如街道或混凝土墙）供角色射击，而这个表面与目标距离在10尺内，角色可以无视角色与目标间的掩体射击目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** In melee combat, every time the character misses because of concealment, the character can reroll the miss chance roll one time to see if the character actually hits.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T141607Z" creationid="quentine" creationdate="20190730T132624Z">
+        <seg>**效果：** 近战时，每次角色若因目标隐蔽而失手，可以重掷一次失手几率以查看自己是否真的命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** In melee combat, if an opponent attacks and misses the character, the character may immediately make a trip attack against the opponent.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T145106Z" creationid="quentine" creationdate="20190802T140936Z">
+        <seg>**效果：** 近战时，若对手攻击角色失守，角色可以立即对此对手进行绊摔攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** On the character’s action, before making attack rolls for a round, the character may choose to subtract a number from all melee attack rolls and add the same number to all melee damage rolls.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T140052Z" creationid="quentine" creationdate="20190803T140052Z">
+        <seg>**效果：** 角色行动时，在这轮的攻击骰掷出前，角色可以选择一个减值作用于所有的攻击骰，并使所有的伤害骰获得等量的加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** Once per round, if the character makes a successful melee attack with an unarmed strike or a light weapon, the character deals an extra 1d4 points of damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T124107Z" creationid="quentine" creationdate="20190804T124107Z">
+        <seg>**效果：** 每一轮，如果角色进行了一次成功的徒手或轻武器近战攻击，角色可额外造成1d4点伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Benefit:** Once per round, if the opponent the character has designated as his or her dodge target (see the Dodge feat) makes a melee attack or melee touch attack against the character and misses, the character may make an attack of opportunity against that opponent.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T125456Z" creationid="quentine" creationdate="20190704T125456Z">
@@ -3543,10 +4319,267 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Benefit:** Pick two Knowledge skills.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T125913Z" creationid="quentine" creationdate="20190731T125913Z">
+        <seg>**效果：** 选择两个知识技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** Pick two of the following skills: Craft (chemical), Craft (electronic), Craft (mechanical), and Craft (structural).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T134313Z" creationid="quentine" creationdate="20190730T134218Z">
+        <seg>**效果：** 从以下技能选择两个：制造（化学）、制造（电力）、制造（机械）、制造（结构）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** Pick two of the following skills: Craft (visual art), Craft (writing), Perform (act), Perform (dance), Perform (keyboards), Perform (percussion instruments), Perform (sing), Perform (stand-up), Perform (string instruments), and Perform (wind instruments).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T121448Z" creationid="quentine" creationdate="20190731T121448Z">
+        <seg>**效果：** 从以下技能中选择两个：制造（视觉艺术、写作）、表演（演戏、舞蹈、键盘乐器、打击乐器、唱歌、单口相声、弦乐器、管乐器）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** Reduce the character’s Reputation bonus by 3 points.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T134142Z" creationid="quentine" creationdate="20190803T134142Z">
+        <seg>**效果：** 角色的声望加值减少3点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** Reloading a firearm with an already filled box magazine or speed loader is a free action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T142214Z" creationid="quentine" creationdate="20190803T141710Z">
+        <seg>**效果：** 将一个已装弹的弹匣或快速装填器装填至火器里，是一个即时动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** See Armor Proficiency (light).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T131136Z" creationid="quentine" creationdate="20190730T131136Z">
+        <seg>**效果：** 见擅长护甲（轻型）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** Select one 0-level psionic power.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T150245Z" creationid="quentine" creationdate="20190804T150245Z">
+        <seg>**效果：** 选择一个0级的灵力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character can draw a weapon as a free action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T140607Z" creationid="quentine" creationdate="20190803T140607Z">
+        <seg>**效果：** 角色可以用一个即时动作拔出一把武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Benefit:** The character can fire any personal firearm on autofire without penalty (provided, of course, that it has an auto-fire setting).</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T124606Z" creationid="quentine" creationdate="20190704T124606Z">
-        <seg>**效果：** 角色可以发射任何自动模式的单兵火器而不受任何减值（当然，这个武器得有自动模式）。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T135245Z" creationid="quentine" creationdate="20190704T124606Z">
+        <seg>**效果：** 角色发射任何自动模式的单兵火器不再受到减值惩罚（当然，这个武器得有自动模式）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character can fire any personal firearm without penalty.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T135527Z" creationid="quentine" creationdate="20190803T135115Z">
+        <seg>**效果：** 角色发射任何单兵火器不再受到惩罚。
+&gt; 译者注：其他专长的缺乏带来的惩罚仍然算数，如高级擅长火器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character can make a Bluff check in combat as a move action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T142854Z" creationid="quentine" creationdate="20190802T142753Z">
+        <seg>**效果：** 角色在战斗中可以使用一个移动动作做一个唬骗检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character can shoot or throw ranged weapons at an opponent engaged in melee without penalty.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T140358Z" creationid="quentine" creationdate="20190803T140358Z">
+        <seg>**效果：** 角色可以无减值惩罚地向陷入近战的对手射击或投掷远程武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character can use the Treat Injury skill to perform surgery without penalty.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T135005Z" creationid="quentine" creationdate="20190804T135005Z">
+        <seg>**效果：** 角色使用医疗技能进行手术不再受到惩罚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character does not provoke an attack of opportunity when the character attempts to disarm an opponent, nor does the opponent get a chance to disarm the character.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T142522Z" creationid="quentine" creationdate="20190802T142522Z">
+        <seg>**效果：** 角色卸除对手武器时，不会引发借机攻击，也不会给对方机会卸除角色的武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character does not provoke an attack of opportunity when the character tries to trip an opponent while the character is unarmed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T145210Z" creationid="quentine" creationdate="20190802T145210Z">
+        <seg>**效果：** 当角色试图徒手绊摔对手时，不会引发借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gains +3 hit points.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T135142Z" creationid="quentine" creationdate="20190804T135142Z">
+        <seg>**效果：** 角色获得3点生命上限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gains a +1 bonus on all attack rolls he or she makes using the selected weapon.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T145541Z" creationid="quentine" creationdate="20190804T145431Z">
+        <seg>**效果：** 角色用选定的武器掷攻击骰都可以获得1点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gains a +1 dodge bonus to Defense against melee attacks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T122719Z" creationid="quentine" creationdate="20190731T122719Z">
+        <seg>**效果：** 角色在防御近战攻击时获得1点闪避加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gains a +2 bonus on opposed Strength and Dexterity checks any time the character attempts trip or grapple attacks, or when the character trys to avoid a trip or grapple attack made against him or her.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T145106Z" creationid="quentine" creationdate="20190731T121050Z">
+        <seg>**效果：** 角色在绊摔或防止绊摔时、擒抱或防止擒抱时的力量和敏捷对抗检定上获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gains a +4 bonus on the following checks and saves: hourly Swim checks to avoid becoming fatigued, Constitution checks to continue running, Constitution checks to hold the character’s breath, Constitution checks to avoid damage from starvation or thirst, Fortitude saves to avoid damage from hot or cold environments, and Fortitude saves to resist suffocation or drowning.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T132615Z" creationid="quentine" creationdate="20190731T132401Z">
+        <seg>**效果：** 角色在以下检定和豁免时获得4点加值：游泳时每小时对抗疲乏的检定、坚持奔跑的体质检定、闭气的体质检定、避免饥饿或口渴造成伤害的体质检定、避免炎热或寒冷环境造成的伤害的强韧豁免、抵抗窒息和溺水的强韧豁免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +1 bonus on attack and damage rolls with ranged weapons against opponents within 30 feet.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T135801Z" creationid="quentine" creationdate="20190803T135801Z">
+        <seg>**效果：** 角色使用远程武器对三十尺内的对手的攻击和伤害骰都有1点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Bluff checks and Disguise checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T122615Z" creationid="quentine" creationdate="20190731T122615Z">
+        <seg>**效果：** 角色在唬骗和易容检定上获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Climb checks and Swim checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T132053Z" creationid="quentine" creationdate="20190730T132053Z">
+        <seg>**效果：** 角色的所有攀爬和游泳检定获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Computer Use checks and Repair checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T131833Z" creationid="quentine" creationdate="20190802T131833Z">
+        <seg>**效果：** 角色在计算机使用和修理检定上获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Craft (pharmaceutical) checks and Treat Injury checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T134309Z" creationid="quentine" creationdate="20190803T134200Z">
+        <seg>**效果：** 角色在制造（配药）和医疗检定上获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Decipher Script checks and Research checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T124127Z" creationid="quentine" creationdate="20190804T124127Z">
+        <seg>**效果：** 角色在文件解读和研究检定上获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Demolitions checks and Disable Device checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T140012Z" creationid="quentine" creationdate="20190730T140012Z">
+        <seg>**效果：** 角色的所有爆破和解除装置检定获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Diplomacy checks and Gather Information checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T142304Z" creationid="quentine" creationdate="20190804T142304Z">
+        <seg>**效果：** 角色的所有交涉和收集信息检定获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Drive checks and Pilot checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T144527Z" creationid="quentine" creationdate="20190804T144527Z">
+        <seg>**效果：** 角色在驾驶或驾机检定上获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Escape Artist checks and Sleight of Hand checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T134947Z" creationid="quentine" creationdate="20190803T134947Z">
+        <seg>**效果：** 角色在脱逃和手上功夫检定上获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Forgery checks and Search checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T134349Z" creationid="quentine" creationdate="20190803T134349Z">
+        <seg>**效果：** 角色在伪造文书和搜索检定上获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Fortitude sav-ing throws.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T150835Z" creationid="quentine" creationdate="20190802T132259Z">
+        <seg>**效果：** 角色的所有强韧豁免都获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Gamble checks and Intimidate checks, and on level checks to resist intimidation.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T121221Z" creationid="quentine" creationdate="20190731T121221Z">
+        <seg>**效果：** 角色在赌博和威吓检定以及对抗威吓的等级检定上获得2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3555,6 +4588,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131658Z" creationid="quentine" creationdate="20190704T131658Z">
         <seg>**效果：** 角色在驯养动物和骑术检定上获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Hide checks and Move Silently checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T123439Z" creationid="quentine" creationdate="20190804T123439Z">
+        <seg>**效果：** 角色的所有躲藏和潜行检定获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Investigate checks and Sense Motive checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T132138Z" creationid="quentine" creationdate="20190730T132138Z">
+        <seg>**效果：** 角色的所有调查和察言观色检定获得2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3575,10 +4624,106 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Navigate checks and Survival checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T132418Z" creationid="quentine" creationdate="20190802T132418Z">
+        <seg>**效果：** 角色在所有寻路和生存检定上获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Reflex saving throws.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T134058Z" creationid="quentine" creationdate="20190803T134058Z">
+        <seg>**效果：** 角色所有的反射豁免都获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +2 bonus on all Will saving throws.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T150800Z" creationid="quentine" creationdate="20190802T150800Z">
+        <seg>**效果：** 角色所有的意志豁免都获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +4 circumstance bonus on initiative checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T144535Z" creationid="quentine" creationdate="20190802T144535Z">
+        <seg>**效果：** 角色的先攻检定获得4点情景加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a +4 dodge bonus to Defense against attacks of opportunity provoked when the character moves out of a threatened square.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T134811Z" creationid="quentine" creationdate="20190803T134811Z">
+        <seg>**效果：** 角色若因移出威胁范围而引发借机攻击，对此借机攻击的防御将获得4点闪避加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets a second attack with his or her offhand weapon, albeit at a –5 penalty.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T150416Z" creationid="quentine" creationdate="20190802T150416Z">
+        <seg>**效果：** 角色可以用副手的武器进行第二次攻击，但有5点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Benefit:** The character gets a third attack with his or her offhand weapon, albeit at a –10 penalty.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T124941Z" creationid="quentine" creationdate="20190704T124941Z">
         <seg>**效果：** 角色可以用副手的武器进行第三次攻击，但有10点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character gets get a +2 bonus on all Balance checks and Concentration checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T133808Z" creationid="quentine" creationdate="20190731T133808Z">
+        <seg>**效果：** 角色在平衡和专注检定上获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character increases his or her massive damage threshold by 3 points.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T142028Z" creationid="quentine" creationdate="20190802T142028Z">
+        <seg>**效果：** 角色提高巨创阈值3点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character makes attack rolls with simple weapons normally.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T143237Z" creationid="quentine" creationdate="20190803T143237Z">
+        <seg>**效果：** 角色可以正常地用简易武器掷攻击骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character makes attack rolls with the weapon normally.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T133210Z" creationid="quentine" creationdate="20190731T133210Z">
+        <seg>**效果：** 角色像使用普通武器一样使用这些武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character may take an extra move action or attack action in a round, either before or after the character’s regular actions.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T133100Z" creationid="quentine" creationdate="20190802T133100Z">
+        <seg>**效果：** 角色在每轮正常的行动之前或之后可以进行额外的一次移动动作或攻击动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character takes no penalty on Drive checks or attack rolls made when operating a surface vehicle of the selected class.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T133854Z" creationid="quentine" creationdate="20190804T133736Z">
+        <seg>**效果：** 角色操纵指定类型的地表载具在驾驶检定或攻击骰时不会承受减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3599,6 +4744,62 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character takes no vehicle speed penalty when making an attack while in a moving vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T125543Z" creationid="quentine" creationdate="20190731T125215Z">
+        <seg>**效果：** 角色在移动的载具中攻击时，不会受到载具速度带来的减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character’s Reputation bonus increases by +3.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T142324Z" creationid="quentine" creationdate="20190803T142324Z">
+        <seg>**效果：** 角色的声望加值增加3点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character’s Wealth bonus increases by +3.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T150947Z" creationid="quentine" creationdate="20190804T150947Z">
+        <seg>**效果：** 角色的财富加值增加3点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character’s penalties for fighting with two weapons are lessened by 2 for the primary hand and 6 for the off hand.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T143215Z" creationid="quentine" creationdate="20190804T143215Z">
+        <seg>**效果：** 角色双持武器的所受减值降低，主手减值减少2，副手减值减少6。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The character’s threat range on an unarmed strike im-proves to 19–20.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T140456Z" creationid="quentine" creationdate="20190802T133837Z">
+        <seg>**效果：** 角色徒手击打的重击威胁区间提升至19-20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** The maximum number of attacks of opportunity the character may make each round is equal to the character’s Dexterity modifier + 1.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T141439Z" creationid="quentine" creationdate="20190731T115544Z">
+        <seg>**效果：** 角色每轮至多可进行的借机攻击次数等于角色的敏捷调整值+1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** To find tracks or follow them for one mile requires a Survival check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T135357Z" creationid="quentine" creationdate="20190804T135357Z">
+        <seg>**效果：** 使用`生存`检定，沿着踪迹追踪1里内的目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Benefit:** What the feat enables a character to do.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T122805Z" creationid="quentine" creationdate="20190704T122805Z">
@@ -3607,10 +4808,178 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When a character wears a type of armor with which he or she is proficient, the character gets to add the armor’s equipment bonus to his or her Defense.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T131429Z" creationid="quentine" creationdate="20190730T131429Z">
+        <seg>**效果：** 当角色穿戴擅长类型的护甲时，防御将获得护甲提供的装备加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When driving a vehicle, during the character’s action the character designates an opposing vehicle or a single opponent.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T144303Z" creationid="quentine" creationdate="20190804T144303Z">
+        <seg>**效果：** 驾驶载具的时候，在角色行动时，角色可指定一个对手载具或单个对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When fighting an opponent or multiple opponents in melee, other opponents attempting to target the character with ranged attacks take a –4 penalty.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T131610Z" creationid="quentine" creationdate="20190731T131416Z">
+        <seg>**效果：** 当角色与一个或多个对手近战时，其他对手以此角色为目标的远程攻击将获得4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When making an unarmed attack, the character receives a +1 competence bonus on attack rolls, and the character deals nonlethal damage equal to 1d6 + his or her Strength modifier.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T133919Z" creationid="quentine" creationdate="20190730T133919Z">
+        <seg>**效果：** 当进行徒手攻击时，角色的攻击骰获得1点表现加值，角色施加的非致命伤害等于1d6+力量调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When making an unarmed attack, the character receives a +2 competence bonus on his or her attack roll, and the character deals nonlethal damage equal to 1d8 + the character’s Strength modifier.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T133406Z" creationid="quentine" creationdate="20190802T133406Z">
+        <seg>**效果：** 当进行徒手攻击时，角色攻击骰获得2点表现加值，并造成1d8+角色力量调整值的非致命伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When making the character’s first unarmed attack against a flat-footed opponent, treat a successful attack as a critical hit.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T144830Z" creationid="quentine" creationdate="20190802T144830Z">
+        <seg>**效果：** 角色第一次用徒手攻击一个措手不及的对手时，若成功，必为重击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When running, the character moves a maximum of five times his or her normal speed instead of four times.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T142410Z" creationid="quentine" creationdate="20190803T142410Z">
+        <seg>**效果：** 奔跑时，角色的最大移动速度是正常速度的5倍而不是4倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When the character at-tempts a sideswipe stunt with a surface vehicle, the character can force the other vehicle to a stop by nudging it into a controlled side-ways skid.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190801T141309Z" creationid="quentine" creationdate="20190731T134409Z">
+        <seg>**效果：** 当角色试图发动`侧击`特技撞击地面或水面载具时，可以将载具撞得侧滑，强制目标载具停下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When the character performs a bull rush, the character does not provoke an attack of opportunity from the defender.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T133647Z" creationid="quentine" creationdate="20190802T133647Z">
+        <seg>**效果：** 当角色发动`冲撞`时，角色不会引发防御方的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When the character performs a full-round action, the character can give up his or her regular attacks and instead make one melee attack at the character’s highest base attack bonus against each adjacent opponent.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T150159Z" creationid="quentine" creationdate="20190804T150159Z">
+        <seg>**效果：** 当发动整轮攻击时，角色可以放弃常规攻击，代之以用最高基本攻击加值对每个相邻对手作一次近战攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Benefit:** When the character scores a critical hit on an opponent with an unarmed strike, the character deals triple damage.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T124400Z" creationid="quentine" creationdate="20190704T124052Z">
         <seg>**效果：**角色用徒手击打对对手造成重击将产生3倍伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When the character strikes an object held or carried by an opponent, such as a weapon, the character does not provoke an attack of opportunity.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T125633Z" creationid="quentine" creationdate="20190804T124614Z">
+        <seg>**效果：** 当角色攻击对手握持或携带的物体（如武器）时，不会引发借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When the character uses a firearm or archaic ranged weapon, its range increment increases by one-half (multiply by 1.5).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T133637Z" creationid="quentine" creationdate="20190731T133637Z">
+        <seg>**效果：** 角色使用火器或古典远程武器时，射程将提高50%（即乘以1.5）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When the character uses the attack action or the full attack action in melee, the character can take a penalty of up to –5 on his or her attack roll and add the same number (up to +5) to the character’s Defense.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T113405Z" creationid="quentine" creationdate="20190731T113405Z">
+        <seg>**效果：** 当角色近战时使用攻击动作或整轮攻击动作时，角色可以以受到至多5点攻击骰减值为代价，让防御检定获得等值的加值（也是至多5点）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When the character uses this feat, all opponents within 10 feet who have fewer levels than the character must make a Will saving throw (DC 10 + ½ the character’s level + the character’s Charisma modifier).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T131246Z" creationid="quentine" creationdate="20190802T131246Z">
+        <seg>**效果：** 当角色使用此专长时，10尺内所有等级低于角色的对手必须进行一次意志豁免（DC为10+角色等级的一半+角色的魅力调整值）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When using a firearm on autofire, the character can affect an area four 5-foot squares long and one square wide (that is, any four squares in a straight line).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T123805Z" creationid="quentine" creationdate="20190804T123805Z">
+        <seg>**效果：** 当使用自动模式的火器时，角色范围攻击4个5尺格子长、1格子宽（也就是4个格子的直线）的区域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When using a semiautomatic firearm with at least two bullets loaded, the character may fire two bullets as a single attack against a single target.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T124747Z" creationid="quentine" creationdate="20190731T124507Z">
+        <seg>**效果：** 当使用至少装填了两发子弹半自动火器时，角色可以用一次攻击发射两发子弹射击单个目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When using an attack action with a melee weapon, the character can move both before and after the attack, provided that the total distance moved is not greater than the charater’s speed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T122912Z" creationid="quentine" creationdate="20190804T122912Z">
+        <seg>**效果：** 当使用近战武器进行攻击动作时，角色攻击前后皆可移动，移动总距离不大于角色的速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When using an attack action with a ranged weap-on, the character can move both before and after the attack, provided that the character’s total distance moved is not greater than his or her speed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T143009Z" creationid="quentine" creationdate="20190803T143009Z">
+        <seg>**效果：** 当使用远程武器进行攻击动作时，角色攻击前后皆可移动，移动总距离不大于角色的速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** When using an automatic firearm with at least five bullets loaded, the character may fire a short burst as a single attack against a single target.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T124633Z" creationid="quentine" creationdate="20190730T134942Z">
+        <seg>**效果：** 当使用至少装填了5颗子弹的全自动火器时，角色可以用一个攻击动作对单个目标进行短点射。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** With an unarmed strike, the character deals lethal or nonlethal damage (the character’s choice) equal to 1d4 + the character’s Strength modifier.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T114456Z" creationid="quentine" creationdate="20190731T114456Z">
+        <seg>**效果：** 徒手击打时，角色可造成致命或非致命伤害（由玩家选择），伤害值为1d4+角色的力量调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Benefit:** With the selected melee weapon, the character may use his or her Dexterity modifier instead of his or her Strength modifier on attack rolls.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T145309Z" creationid="quentine" creationdate="20190804T145309Z">
+        <seg>**效果：** 角色使用选择的近战武器攻击时，可用敏捷调整值代替力量调整值应用于攻击骰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4047,6 +5416,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Firm:** Most normal outdoor or exceptionally soft or dirty indoor surfaces.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T140836Z" creationid="quentine" creationdate="20190804T140836Z">
+        <seg>**坚实：** 大部分的普通户外地面或者特别柔软或肮脏的室内地面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Fort Save:** The base save bonus for Fortitude saving throws.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190116T115616Z" creationid="quentine" creationdate="20190116T115616Z">
@@ -4067,6 +5444,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T075150Z" creationid="quentine" creationdate="20190216T075150Z">
         <seg>**高级激励：** 魅力型英雄可以更有效地激励友方，在背后支持他们，提高他们的成功机会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Hard:** Any surface that doesn’t hold footprints at all, such as bare rock, concrete, metal deckings, or indoor floors.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T141109Z" creationid="quentine" creationdate="20190804T141109Z">
+        <seg>**坚硬：** 任何完全不会留下足迹的地面，比如光秃秃的石头、混凝土、金属平台或者室内地板。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4295,10 +5680,114 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Normal:** A character can draw a weapon as a move action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T141351Z" creationid="quentine" creationdate="20190803T141351Z">
+        <seg>**正常：** 角色需用一个移动动作拔出武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** A character takes a –4 penalty when using a ranged weapon to attack an opponent who is engaged in melee combat.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T140503Z" creationid="quentine" creationdate="20190803T140503Z">
+        <seg>**正常：** 角色向陷入近战的对手射击或投掷远程武器，攻击骰会受到4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** A character who uses a weapon without being proficient with it takes a –4 penalty on attack rolls.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T133258Z" creationid="quentine" creationdate="20190731T133258Z">
+        <seg>**正常：** 无此专长的角色使用这些武器，攻击骰将受到4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** A character who wears armor with which he or she is not proficient adds only the armor’s nonproficient equipment bonus to his or her Defense.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T131759Z" creationid="quentine" creationdate="20190730T131759Z">
+        <seg>**正常：** 穿戴非擅长类型护甲的角色，防御只能获得护甲提供的非擅长装备加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** A character without the Combat Expertise feat can fight defensively while using the attack or full attack action to take a –4 penalty on attacks and gain a +2 dodge bonus to Defense.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T114240Z" creationid="quentine" creationdate="20190731T114240Z">
+        <seg>**正常：** 没有寓守于攻专长的角色可以在攻击动作或整轮攻击动作时采取防御式战斗，以受到4点攻击骰减值为代价在防御时获得2点闪避加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** A character without the Combat Reflexes feat can make only one attack of opportunity per round and can’t make attacks of opportunity when flat-footed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T141531Z" creationid="quentine" creationdate="20190731T115852Z">
+        <seg>**正常：** 没有战斗反射的角色每轮只能进行一次借机攻击，且不能在措手不及时进行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** A character without this feat can use the Survival skill to find tracks, but can only follow tracks if the DC is 10 or less.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T141517Z" creationid="quentine" creationdate="20190804T141430Z">
+        <seg>**正常：** 无此专长的角色可以用生存检定寻找踪迹，但只能跟踪DC不大于10的踪迹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** A character without this feat has a massive damage threshold equal to his or her current Constitution score.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T142210Z" creationid="quentine" creationdate="20190802T142135Z">
+        <seg>**正常：** 无此专长的角色拥有的巨创阈值等于角色当前的体质值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** A character without this feat incurs an attack of opportunity when he or she strikes at an object held or carried by another character.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T125659Z" creationid="quentine" creationdate="20190804T125429Z">
+        <seg>**正常：** 无此专长的角色攻击他人握持或携带的物体会引发借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Normal:** A character without this feat takes the –4 non-proficient penalty when making attacks with archaic weapons.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132113Z" creationid="quentine" creationdate="20190704T132113Z">
         <seg>**正常：**无此专长的角色将在使用古典武器掷攻击骰时受到4点`不擅长减值`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** A character without this feat takes the –4 nonproficient penalty when making attacks with simple weapons.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T143334Z" creationid="quentine" creationdate="20190803T143334Z">
+        <seg>**正常：**无此专长的角色将在使用简易武器掷攻击骰时受到4点`不擅长减值`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** A character without this feat threatens a critical hit with an unarmed strike only on a 20.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T140642Z" creationid="quentine" creationdate="20190802T134049Z">
+        <seg>**正常：** 无此专长的角色徒手击打的重击威胁区间仅为20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** A character without this feat who sleeps in armor is automatically fatigued the following day.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T132800Z" creationid="quentine" creationdate="20190731T132800Z">
+        <seg>**正常：** 无此专长的角色穿着护甲睡觉，第二天会自动疲乏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** A firearm on autofire normally affects a 10-foot-by-10-foot area.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T123912Z" creationid="quentine" creationdate="20190804T123912Z">
+        <seg>**正常：** 自动模式火器一般攻击的范围是10尺×10尺的区域。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4311,10 +5800,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Normal:** Autofire uses ten bullets, targets a 10-foot-by-10-foot area, and can’t be aimed at a specific target.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T135442Z" creationid="quentine" creationdate="20190730T135220Z">
+        <seg>**正常：** 自动武器消耗10发子弹，攻击10×10尺的区域，不能瞄准单个目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** Characters without this feat take a –4 penalty on Drive checks made to operate a surface vehicle that falls under any of these classes, and to attacks made with vehicle weapons.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T133951Z" creationid="quentine" creationdate="20190804T133951Z">
+        <seg>**正常：**无此专长的角色将在使用这几类地表载具进行驾驶检定，以及使用车载武器掷攻击骰时受到4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Normal:** Characters without this feat take a –4 penalty on Pilot checks made to operate an aircraft that falls in any of these classes, and on attacks made with aircraft weapons.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131406Z" creationid="quentine" creationdate="20190704T131406Z">
         <seg>**正常：**无此专长的角色将在使用这几类飞行器进行驾机检定，以及使用机载武器掷攻击骰时受到4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** Characters without this feat take a –4 penalty on Treat Injury checks made to perform surgery.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T135056Z" creationid="quentine" creationdate="20190804T135056Z">
+        <seg>**正常：** 无此专长的角色使用医疗技能进行手术，检定会有4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4327,10 +5840,74 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Normal:** Characters without this feat take a –4 penalty on attack rolls made with personal firearms.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T135401Z" creationid="quentine" creationdate="20190803T135401Z">
+        <seg>**正常：** 无此专长的角色使用单兵火器攻击骰会有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** Feinting in combat requires an attack action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T144453Z" creationid="quentine" creationdate="20190802T144453Z">
+        <seg>**正常：** 战斗中的虚招消耗一个攻击动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** Reloading a firearm with an already filled box magazine or speed loader is a move action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T142222Z" creationid="quentine" creationdate="20190803T142154Z">
+        <seg>**正常：** 将一个已装弹的弹匣或快速装填器装填至火器里，是一个即时动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** See Armor Proficiency (light).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T131201Z" creationid="quentine" creationdate="20190730T131201Z">
+        <seg>**正常：** 见擅长护甲（轻型）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** Unarmed attacks normally deal nonlethal damage equal to 1d3 + Strength modifier.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T134047Z" creationid="quentine" creationdate="20190730T134047Z">
+        <seg>**正常：** 徒手攻击一般情况下施加的非致命伤害等于1d3+力量调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Normal:** What a character who does not have this feat is limited to or restricted from doing.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T122909Z" creationid="quentine" creationdate="20190704T122909Z">
         <seg>**正常：** 不具有此专长的人物的能力限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** When attacking from a moving vehicle, a character takes a penalty based on the vehicle’s speed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T125516Z" creationid="quentine" creationdate="20190731T125516Z">
+        <seg>**正常：** 角色在从移动的载具中发动攻击会根据载具速度获得减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** Without this feat, a character can only get a single extra attack with an off-hand weapon, and both weapons must be of the same type (either both ranged weapons or both melee weapons).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T150650Z" creationid="quentine" creationdate="20190802T150650Z">
+        <seg>**正常：** 角色若无此专长只能得到单个用副手武器的额外攻击机会，两个武器必须是相同类型的（要么都是远程要么都是近战）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Normal:** Without this feat, a character deals only 1d3 points of nonlethal damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T115055Z" creationid="quentine" creationdate="20190731T115055Z">
+        <seg>**正常：** 角色若无此专长，只能造成1d3点非致命伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4399,6 +5976,54 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Prerequisite:** Armor Proficiency (light).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T131948Z" creationid="quentine" creationdate="20190730T131948Z">
+        <seg>**要求：** 擅长护甲（轻型）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisite:** Base attack bonus +1.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T114319Z" creationid="quentine" creationdate="20190731T114319Z">
+        <seg>**要求：** 基础攻击加值至少为1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisite:** Defensive Martial Arts.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T120446Z" creationid="quentine" creationdate="20190731T120446Z">
+        <seg>**要求：** 防御武术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisite:** Dexterity 13.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T123042Z" creationid="quentine" creationdate="20190731T123042Z">
+        <seg>**要求：** 13敏捷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisite:** Drive 4 ranks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T132515Z" creationid="quentine" creationdate="20190804T132515Z">
+        <seg>**要求：** 驾驶4级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisite:** Intelligence 13.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T113006Z" creationid="quentine" creationdate="20190731T112959Z">
+        <seg>**要求：** 13智力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Prerequisite:** Personal Firearms Proficiency.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T124425Z" creationid="quentine" creationdate="20190704T124425Z">
@@ -4415,6 +6040,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Prerequisite:** Point Blank Shot.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T140233Z" creationid="quentine" creationdate="20190803T140233Z">
+        <seg>**要求：** 近程射击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Prerequisite:** Strength 13 or Dexterity 13.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T122531Z" creationid="QuenTine" creationdate="20181104T122531Z">
@@ -4423,10 +6056,58 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Prerequisite:** Strength 13.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T135821Z" creationid="quentine" creationdate="20190803T135821Z">
+        <seg>**要求：** 13力量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisite:** Treat Injury 4 ranks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T134914Z" creationid="quentine" creationdate="20190804T134914Z">
+        <seg>**要求：** 医疗4级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Prerequisites:** Armor Proficiency (light), Armor Profi-ciency (medium).</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132343Z" creationid="quentine" creationdate="20190704T132343Z">
-        <seg>**要求：**擅长护甲（轻型）、擅长护甲（中型）</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T131059Z" creationid="quentine" creationdate="20190704T132343Z">
+        <seg>**要求：**擅长护甲（轻型）、擅长护甲（中型）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Brawl, Knockout Punch, base attack bonus +6.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T144611Z" creationid="quentine" creationdate="20190802T144611Z">
+        <seg>**要求：** 拳法、终结之拳、基础攻击加值6点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Brawl, base attack bonus +2.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T123932Z" creationid="quentine" creationdate="20190804T123932Z">
+        <seg>**要求：** 拳法、基础攻击加值2点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Brawl, base attack bonus +3.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T145124Z" creationid="quentine" creationdate="20190802T133254Z">
+        <seg>**要求：** 拳法、基础攻击加值3点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Charisma 15, Intimidate 9 ranks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T131050Z" creationid="quentine" creationdate="20190802T131050Z">
+        <seg>**要求：** 15魅力，威吓9级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4439,6 +6120,46 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Combat Martial Arts, base attack bonus +4.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T133725Z" creationid="quentine" creationdate="20190802T133725Z">
+        <seg>**要求：** 实战武术、基础攻击加值4点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Defensive Martial Arts, Combat Throw, base attack bonus +3.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T140817Z" creationid="quentine" creationdate="20190802T140817Z">
+        <seg>**要求：** 防御武术、摔投技巧、基础攻击加值3点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Defensive Martial Arts, base attack bonus +6.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T143352Z" creationid="quentine" creationdate="20190804T143352Z">
+        <seg>**要求：** 防御武术、基础攻击加值6点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Dexterity 13, Defensive Martial Arts.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T131202Z" creationid="quentine" creationdate="20190731T131202Z">
+        <seg>**要求：** 13敏捷、防御武术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Dexterity 13, Dodge, Mobility, base attack bonus +4.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T122839Z" creationid="quentine" creationdate="20190804T122830Z">
+        <seg>**要求：** 13敏捷、闪避、灵活移动、基础攻击加值4点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Prerequisites:** Dexterity 13, Dodge.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T125120Z" creationid="quentine" creationdate="20190704T125120Z">
@@ -4447,10 +6168,130 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Dexterity 13, Drive 6 ranks or Pilot 6 ranks, Vehicle Expert.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T144142Z" creationid="quentine" creationdate="20190804T144142Z">
+        <seg>**要求：** 13敏捷、驾驶6级或驾机6级、载具专家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Dexterity 13, Intelligence 13, Dodge, Mobility, Spring Attack, Combat Expertise, base attack bonus +4.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T145804Z" creationid="quentine" creationdate="20190804T145804Z">
+        <seg>**要求：** 13敏捷、13智力、闪避、灵活移动、跳跃攻击、寓守于攻、基础攻击加值4点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Dexterity 13, Point Blank Shot, Dodge, Mobility.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T142737Z" creationid="quentine" creationdate="20190803T142737Z">
+        <seg>**要求：** 13敏捷、近程射击、闪避、灵活移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Dexterity 13, Point Blank Shot.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T124458Z" creationid="quentine" creationdate="20190731T124458Z">
+        <seg>**要求：** 13敏捷、近程射击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Prerequisites:** Dexterity 13, Two-Weapon Fighting, Im-proved Two-Weapon Fighting, base attack bonus +11.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T124833Z" creationid="quentine" creationdate="20190704T124833Z">
         <seg>**要求：** 敏捷13、双持、精通双持、基础攻击加值+11。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Dexterity 13, Two-Weapon Fighting, base attack bonus +6.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T150313Z" creationid="quentine" creationdate="20190802T150313Z">
+        <seg>**要求：** 13敏捷、双持、基础攻击加值6点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Drive 4 ranks, Vehicle Expert.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T133856Z" creationid="quentine" creationdate="20190731T133856Z">
+        <seg>**要求：** 驾驶4级、载具专家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Intelligence 13, Brawl, Streetfighting.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T142806Z" creationid="quentine" creationdate="20190802T142736Z">
+        <seg>**要求：** 13智力、拳法、街头战斗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Intelligence 13, Combat Expertise.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T142757Z" creationid="quentine" creationdate="20190802T142344Z">
+        <seg>**要求：** 13智力、寓守于攻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Personal Firearms Proficiency, Advanced Firearms Proficiency.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T133101Z" creationid="quentine" creationdate="20190731T133101Z">
+        <seg>**要求：** 擅长单兵火器、高级擅长火器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Point Blank Shot, Precise Shot.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T121636Z" creationid="quentine" creationdate="20190804T121636Z">
+        <seg>**要求：** 近程射击、精准射击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Proficient with weapon, base attack bonus +1.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T145113Z" creationid="quentine" creationdate="20190804T145113Z">
+        <seg>**要求：** 擅长该武器、基础攻击加值1点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Strength 13, Power Attack, Cleave, base attack bonus +4.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T132022Z" creationid="quentine" creationdate="20190802T132022Z">
+        <seg>**要求：** 力量13、猛力攻击、顺势斩、基础攻击加值4点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Strength 13, Power Attack.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T140135Z" creationid="quentine" creationdate="20190730T140113Z">
+        <seg>**要求：** 13力量、猛力攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Wisdom 13, Far Shot.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T121738Z" creationid="quentine" creationdate="20190731T121738Z">
+        <seg>**要求：** 13感知、远程射击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Prerequisites:** Wisdom 13, Personal Firearms Proficiency, Advanced Firearms Proficiency.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T140121Z" creationid="quentine" creationdate="20190730T134729Z">
+        <seg>**要求：** 13感知、擅长单兵火器、高级擅长火器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4864,10 +6705,90 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Soft:** Any surface soft enough to yield to pressure, but firmer than wet mud or fresh snow, in which the quarry leaves frequent but shallow footprints.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T140700Z" creationid="quentine" creationdate="20190804T140700Z">
+        <seg>**松软：** 任何足以显示出施压痕迹，但比软泥或新雪坚实的地面，生物在此地面留下连续但浅显的足迹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Sonic/Concussion Resistance:** The Tough hero ignores an amount of sonic or concussion damage equal to his or her Constitution modifier.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190117T144620Z" creationid="quentine" creationdate="20190117T144620Z">
         <seg>**音波/震荡抗力：** 体质型英雄忽略等于自身体质调整值的音波或震荡伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** A character can gain this feat as many as five times.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T134210Z" creationid="quentine" creationdate="20190804T134156Z">
+        <seg>**特别：** 角色可以选择此专长5次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** A character can gain this feat as many as four times.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T134519Z" creationid="quentine" creationdate="20190731T133318Z">
+        <seg>**特别：** 角色可以选择此专长4次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** A character can gain this feat multiple times.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T134436Z" creationid="quentine" creationdate="20190731T133459Z">
+        <seg>**特别：**角色可以多次获得此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** A character can select this feat as many as five times.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T134634Z" creationid="quentine" creationdate="20190731T121552Z">
+        <seg>**特别：** 角色可以选择此专长5次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** A character can select this feat as many as seven times.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T134716Z" creationid="quentine" creationdate="20190731T125929Z">
+        <seg>**特别：** 角色可以选择此专长7次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** A character can select this feat multiple times.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T151047Z" creationid="quentine" creationdate="20190804T151047Z">
+        <seg>**特别：**角色可以多次选择此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** A character may gain this feat multiple times.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T134437Z" creationid="quentine" creationdate="20190802T142240Z">
+        <seg>**特别：**角色可以多次获得此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** A condition that makes a character lose his or her Dexterity bonus to Defense also makes the character lose dodge bonuses.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T134843Z" creationid="quentine" creationdate="20190803T134843Z">
+        <seg>**特别：** 让角色失去敏捷加值的状态也会让角色失去这个闪避加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** A condition that makes the character lose his or her Dexterity bonus to Defense also makes the character lose dodge bonuses.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T134857Z" creationid="quentine" creationdate="20190731T122906Z">
+        <seg>**特别：** 让角色失去敏捷加值的状态也会让角色失去这个闪避加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4880,18 +6801,66 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Special:** An opponent with the Precise Shot feat has the penalty lessened to –4 when targeting the character.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T131857Z" creationid="quentine" creationdate="20190731T131857Z">
+        <seg>**特别：** 若对手拥有`精准射击`专长，对此角色的攻击减值又降为4点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Special:** By making a check (DC 15 + power level), you can use Concentration to manifest a power defensively, thus avoiding attacks of opportunity.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190619T131907Z" creationid="quentine" creationdate="20190619T131907Z">
-        <seg>**特别：** 经过检定（DC为15+灵力等级），你可以用专注技能来以防御姿态释放灵力，避免触发借机攻击。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T141127Z" creationid="quentine" creationdate="20190619T131907Z">
+        <seg>**特别：** 经过检定（DC为15+灵力等级），你可以用专注技能来以防御姿态释放灵力，避免引发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>**Special:** By making a check (DC 15 + spell level), you can use Concentration to cast a spell defensively, thus avoiding attacks of opportunity.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190612T122612Z" creationid="quentine" creationdate="20190612T122612Z">
-        <seg>**特别：** 经过检定（DC为15+法术等级），你可以用专注技能来以防御姿态施法，避免触发借机攻击。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T141127Z" creationid="quentine" creationdate="20190612T122612Z">
+        <seg>**特别：** 经过检定（DC为15+法术等级），你可以用专注技能来以防御姿态施法，避免引发借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** Even if the character has the ability to treat unarmed damage as lethal damage, the damage from a knockout punch is always nonlethal.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T145017Z" creationid="quentine" creationdate="20190802T145017Z">
+        <seg>**特别：** 即使角色能够徒手造成致命伤害，终结之拳的伤害永远是非致命的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** If the firearm has a three-round burst setting, firing a burst expends three bullets instead of five and can be used if the weapon has only three bullets in it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T135830Z" creationid="quentine" creationdate="20190730T135830Z">
+        <seg>**特别：** 如果火器有三发点射模式，短点射只消耗三发子弹而非5发，只要还剩3发子弹就能发动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** Remember that the Computer Use skill and the Repair skill can only be used untrained in certain situations.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T131932Z" creationid="quentine" creationdate="20190802T131932Z">
+        <seg>**特别：** 注意计算机使用和修理技能在特定情境下是需受训的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** Remember that the Craft (pharmaceutical) skill can’t be used untrained.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T134330Z" creationid="quentine" creationdate="20190803T134330Z">
+        <seg>**特别：** 注意制造（配药）技能是需受训的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** Remember that the Demolitions skill and the Disable Device skill can’t be used untrained.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T140040Z" creationid="quentine" creationdate="20190730T140040Z">
+        <seg>**特别：** 注意爆破和解除装置技能是需受训的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4904,6 +6873,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Special:** Remember that the Investigate skill can’t be used untrained.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T132213Z" creationid="quentine" creationdate="20190730T132213Z">
+        <seg>**特别：** 注意调查技能是需受训的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** Remember that the Sleight of Hand skill can’t be used untrained.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T135011Z" creationid="quentine" creationdate="20190803T135011Z">
+        <seg>**特别：** 注意手上功夫技能是需受训的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Special:** Remember that the Tumble skill can’t be used untrained.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T123932Z" creationid="quentine" creationdate="20190704T123731Z">
@@ -4912,10 +6897,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Special:** The Combat Reflexes feat doesn’t allow a Fast hero with the opportunist talent to use that talent more than once per round.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T120059Z" creationid="quentine" creationdate="20190731T120059Z">
+        <seg>**特别：** 战斗反射专长不能让拥有`乘势攻击`天赋的敏捷型英雄每轮使用多次此天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Special:** The character can gain this feat multiple times.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131511Z" creationid="quentine" creationdate="20190704T131511Z">
-        <seg>**特殊：**角色可以多次获得此专长。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T134435Z" creationid="quentine" creationdate="20190704T131511Z">
+        <seg>**特别：**角色可以多次获得此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** The character can select this feat twice.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T134439Z" creationid="quentine" creationdate="20190730T134439Z">
+        <seg>**特别：** 角色可以选择此专长两次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** The surface doesn’t have to be perfectly smooth and level; a brick wall or an asphalt road can be used.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T122516Z" creationid="quentine" creationdate="20190804T122516Z">
+        <seg>**特别：** 表面不需要非常光滑平坦，一堵砖墙或者柏油路也是可以的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** This feat doesn’t grant the character more attacks of opportunity than he or she is normally allowed in a round.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T141906Z" creationid="quentine" creationdate="20190802T141906Z">
+        <seg>**特别：** 此专长并不会赋予角色额外的借机攻击次数，发动此专长消耗的是原有的借机攻击机会。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5060,6 +7077,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190117T123532Z" creationid="quentine" creationdate="20190117T123532Z">
         <seg>**二级直觉闪避：** 敏捷型英雄不受夹击影响；英雄能像应对单个敌人一样应对多个不同方向进攻的敌人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Very Soft:** Any surface (fresh snow, thick dust, wet mud) that holds deep, clear impressions of footprints.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T140455Z" creationid="quentine" creationdate="20190804T140455Z">
+        <seg>**异常松软：** 任何可以留下深而清晰足迹的地面（新雪、厚尘、软泥等）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5680,8 +7705,8 @@
       <tuv xml:lang="EN-US">
         <seg>A Daredevil of 2nd level or higher can stand up from a prone position as a free action that does not provoke an attack of opportunity.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190421T115523Z" creationid="quentine" creationdate="20190421T115523Z">
-        <seg>2级时，勇士从俯卧状态到站立状态的动作视为即时动作，且不会触发借机攻击。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T141127Z" creationid="quentine" creationdate="20190421T115523Z">
+        <seg>2级时，勇士从俯卧状态到站立状态的动作视为即时动作，且不会引发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5942,6 +7967,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A character can choose unarmed strike or grapple as a weapon for the purposes of this feat.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T144903Z" creationid="quentine" creationdate="20190804T144903Z">
+        <seg>徒手击打和擒抱也可当作武器选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A character can choose unarmed strike or grapple for your weapon for purposes of this feat.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T145414Z" creationid="quentine" creationdate="20190804T145414Z">
+        <seg>徒手击打和擒抱也可当作武器选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A character can declare the use of 1 action point to alter a d20 roll after the roll is made—but only before the GM reveals the result of that roll (whether the attack or check or saving throw suc-ceeded or failed).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T134456Z" creationid="quentine" creationdate="20190114T134456Z">
@@ -6022,6 +8063,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A character can use the Search skill to find individual footprints, but cannot follow tracks using Search.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T141600Z" creationid="quentine" creationdate="20190804T141600Z">
+        <seg>角色可以使用搜索技能寻找单个脚印，但不能使用搜索来追踪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A character can usually take 10 or take 20 when making a Wealth check.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181106T140230Z" creationid="QuenTine" creationdate="20181106T140230Z">
@@ -6050,6 +8099,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T134945Z" creationid="quentine" creationdate="20190114T134828Z">
         <seg>角色不能在技能检定或属性检定中取10取20时，使用行动点改变投掷结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A character can’t use this feat if he or she is carrying a heavy load or wearing heavy armor.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T123408Z" creationid="quentine" creationdate="20190804T123408Z">
+        <seg>角色不能在重度负载或穿着重甲时使用此专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6222,6 +8279,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A character with this feat may throw weapons at his or her full normal rate of attacks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T141255Z" creationid="quentine" creationdate="20190803T141255Z">
+        <seg>有此专长的角色可以以正常攻击速度掷出武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A character’s Intelligence modifier is applied to determine the total skill points gained each level (but always at least 1 point per level, even for a character with an Intelligence penalty).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190116T115101Z" creationid="quentine" creationdate="20190116T115101Z">
@@ -6376,8 +8441,8 @@
       <tuv xml:lang="EN-US">
         <seg>A dying character (one with –1 to –9 hit points) is un-conscious and loses 1 hit point every round until he or she becomes stable or dies.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T111412Z" creationid="quentine" creationdate="20190115T111412Z">
-        <seg>濒死的角色（-1至-9生命值）是昏迷的，每回合损失1点生命值直到角色进入稳定状态或死亡。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T120318Z" creationid="quentine" creationdate="20190115T111412Z">
+        <seg>濒死的角色（-1至-9生命值）是昏迷的，每轮损失1点生命值直到角色进入稳定状态或死亡。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6456,8 +8521,8 @@
       <tuv xml:lang="EN-US">
         <seg>A flat-footed character loses his or her Dexterity bonus to Defense and cannot make attacks of opportunity.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T122836Z" creationid="quentine" creationdate="20190115T122836Z">
-        <seg>措手不及的角色在防御时，敏捷加值不会生效，且无法借机攻击。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T140942Z" creationid="quentine" creationdate="20190115T122836Z">
+        <seg>措手不及的角色在防御时，敏捷加值不会生效，且无法进行借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6846,6 +8911,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A successful save indicates that the opponent is immune to the character’s use of this feat for 24 hours.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T131644Z" creationid="quentine" creationdate="20190802T131644Z">
+        <seg>豁免成功将使此对手在24小时内免疫此角色发动的此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A tattoo is a single-use item that duplicates the effect of a particular power.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190621T133702Z" creationid="quentine" creationdate="20190621T133329Z">
@@ -7096,8 +9169,8 @@
       <tuv xml:lang="EN-US">
         <seg>Advanced Firearms Proficiency, Alertness, Archaic Weapons Proficiency, Attentive, Blind-Fight, Deceptive, Educated, Far Shot, Iron Will, Medical Expert, Meticulous, Surgery, Track, Weapon Focus.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190221T141205Z" creationid="quentine" creationdate="20190202T110016Z">
-        <seg>高级擅长火器、警觉、擅长古典武器、听者有心、盲战、欺诈、良好教育、远程射击、钢铁意志、医药专家、一丝不苟、手术、追踪、专攻武器。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T142250Z" creationid="quentine" creationdate="20190202T110016Z">
+        <seg>高级擅长火器、警觉、擅长古典武器、听者有心、盲斗、欺诈、良好教育、远程射击、钢铁意志、医药专家、一丝不苟、手术、追踪、专攻武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7178,6 +9251,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190201T152645Z" creationid="quentine" creationdate="20190201T145050Z">
         <seg>制定计划后，智力型英雄需进行一次带智力等级加值的智力检定(DC10)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>After succeeding on the check to attempt the sideswipe, the character makes a Drive check opposed by the other driver.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190801T141906Z" creationid="quentine" creationdate="20190731T135947Z">
+        <seg>若`侧击`检定成功，角色和目标进行驾驶检定对抗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7264,8 +9345,8 @@
       <tuv xml:lang="EN-US">
         <seg>Alertness, Animal Affinity, Attentive, Blind-Fight, Combat Expertise, Confident, Creative, Deceptive, Educated, Focused, Frightful Presence, Iron Will, Renown, Stealthy, Studious.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190620T132952Z" creationid="quentine" creationdate="20190620T132952Z">
-        <seg>警觉、动物亲和、听着有心、盲战、寓守于攻、自信、富有创意、欺诈、良好教育、全神贯注、气势凶猛、钢铁意志、闻名、隐秘、好学。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T142250Z" creationid="quentine" creationdate="20190620T132952Z">
+        <seg>警觉、动物亲和、听着有心、盲斗、寓守于攻、自信、富有创意、欺诈、良好教育、全神贯注、气势凶猛、钢铁意志、闻名、隐秘、好学。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7464,8 +9545,40 @@
       <tuv xml:lang="EN-US">
         <seg>Also, at the GM’s option, a hero might be considered infamous in certain situations due to events that have transpired in the campaign.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T124439Z">
-        <seg>同样，GM判定英雄是否在特定情况下背负骂名取决于该回合发生的事件。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T120204Z" creationid="QuenTine" creationdate="20181106T124439Z">
+        <seg>同样，GM判定英雄是否在特定情况下背负骂名取决于该场游戏发生的事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Also, dodge bonuses stack with each other, unlike most other types of bonuses.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T123425Z" creationid="quentine" creationdate="20190731T123425Z">
+        <seg>而且，不像其他加值，闪避加值可叠加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Also, dodge bonuses stack, unlike most other types of bonuses.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T123020Z" creationid="quentine" creationdate="20190731T123020Z">
+        <seg>而且，不像其他加值，闪避加值可叠加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Also, he or she suffers its armor check penalty on attack rolls and on all skill checks that involve moving.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T131911Z" creationid="quentine" creationdate="20190730T131911Z">
+        <seg>而且护甲的检定减值适用于攻击骰和所有涉及移动的技能检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Also, if the character is the driver, he or she can take his or her attack action to make an attack at any point along the vehicle’s movement.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190801T141101Z" creationid="quentine" creationdate="20190731T125331Z">
+        <seg>同样，如果角色是驾驶员，角色将可以在载具移动的任何阶段进行攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7490,6 +9603,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190417T141920Z" creationid="quentine" creationdate="20190417T141920Z">
         <seg>同样，渗透者在缺乏适当工具使用攀爬和解除装置技能不再受到4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Also, the armor check penalty applies only to Balance, Climb, Escape Artist, Hide, Jump, Move Silently, and Tumble checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T131629Z" creationid="quentine" creationdate="20190730T131629Z">
+        <seg>而且护甲的检定减值只应用于平衡、攀爬、脱逃、躲藏、跳跃、潜行以及翻滚检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Also, the character may sleep in medium or light armor without becoming fatigued.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T132710Z" creationid="quentine" creationdate="20190731T132710Z">
+        <seg>而且，角色穿着中型或轻型护甲睡觉不会疲乏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7522,6 +9651,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181106T140642Z" creationid="QuenTine" creationdate="20181106T140642Z">
         <seg>花费要是超过角色的余额，也会有所惩罚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Also, this feat allows the character to use a melee weapon in one hand and a ranged weapon in the other.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T150428Z" creationid="quentine" creationdate="20190802T150428Z">
+        <seg>此专长也允许角色可以一手用近战武器一手用远程武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Also, this feat provides a +1 bonus on all Profession checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T151018Z" creationid="quentine" creationdate="20190804T151018Z">
+        <seg>而且，此专长为所有专业检定提供1点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7782,6 +9927,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>An opponent who fails his or her save is shaken, taking a –2 penalty on attack rolls, saves, and skill checks for a number of rounds equal to 1d6 + the character’s Charisma modifier.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T131439Z" creationid="quentine" creationdate="20190802T131439Z">
+        <seg>豁免失败的对手将陷入`战栗`，所有攻击骰、豁免和技能检定有2点减值，持续轮数为1d6+角色魅力调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>An ordinary character has a Challenge Rating equal to his or her character level –1.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T123413Z" creationid="quentine" creationdate="20190703T123413Z">
@@ -7824,8 +9977,8 @@
       <tuv xml:lang="EN-US">
         <seg>Animal Affinity, Archaic Weapons Proficiency, Athletic, Blind-Fight, Brawl, Cleave, Combat Martial Arts, Combat Reflexes, Great Cleave, Improved Brawl, Improved Combat Martial Arts, Power Attack, Weapon Focus.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190221T141135Z" creationid="quentine" creationdate="20190116T132255Z">
-        <seg>动物亲和、擅长古典武器、竞技、盲战、拳法、顺势斩、实战武术、战斗反射、强力顺势斩、精通拳法、精通实战武术、猛力攻击、专攻武器。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T142250Z" creationid="quentine" creationdate="20190116T132255Z">
+        <seg>动物亲和、擅长古典武器、竞技、盲斗、拳法、顺势斩、实战武术、战斗反射、强力顺势斩、精通拳法、精通实战武术、猛力攻击、专攻武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7960,8 +10113,8 @@
       <tuv xml:lang="EN-US">
         <seg>Anything not concealed can be spotted in a sweep with a successful check (DC 10).</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190417T141248Z" creationid="quentine" creationdate="20190417T141144Z">
-        <seg>若检定成功（DC10），任何非隐藏的目标都会被侦察到。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T141618Z" creationid="quentine" creationdate="20190417T141144Z">
+        <seg>若检定成功（DC10），任何非隐蔽的目标都会被侦察到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8008,8 +10161,8 @@
       <tuv xml:lang="EN-US">
         <seg>Archaic Weapons Proficiency, Athletic, Blind-Fight, Cleave, Combat Martial Arts, Combat Reflexes, Exotic Melee Weapon Proficiency, Focused, Improved Combat Martial Arts, Power Attack, Weapon Finesse, Weapon Focus.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190621T134620Z" creationid="quentine" creationdate="20190621T134620Z">
-        <seg>擅长古典武器、竞技、盲战、顺势斩、实战武术、战斗反射、擅长异种近战武器、全神贯注、精通实战武术、猛力攻击、武器娴熟、专攻武器。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T142250Z" creationid="quentine" creationdate="20190621T134620Z">
+        <seg>擅长古典武器、竞技、盲斗、顺势斩、实战武术、战斗反射、擅长异种近战武器、全神贯注、精通实战武术、猛力攻击、武器娴熟、专攻武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8304,8 +10457,8 @@
       <tuv xml:lang="EN-US">
         <seg>At 1st level, a Gunslinger gains the ability to make a ranged attack with a Medium-size or smaller firearm while in a threatened area without provoking an attack of opportunity.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190413T130859Z" creationid="quentine" creationdate="20190413T130712Z">
-        <seg>1级时，枪手在威胁区域内用普通大小以及更小的火器进行远程攻击时，不会触发借机攻击。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T141127Z" creationid="quentine" creationdate="20190413T130712Z">
+        <seg>1级时，枪手在威胁区域内用普通大小以及更小的火器进行远程攻击时，不会引发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9150,6 +11303,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Attacking unarmed in this way does not provoke an attack of opportunity.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T145106Z" creationid="quentine" creationdate="20190802T141756Z">
+        <seg>这种绊摔攻击即使是徒手发动的，也不会引发借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Attentive, Archaic Weapons Proficiency, Combat Expertise, Educated, Frightful Presence, Low Profile, Nimble, Studious.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190624T135827Z" creationid="quentine" creationdate="20190624T135827Z">
@@ -9470,6 +11631,38 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Choose a specific weapon.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T145358Z" creationid="quentine" creationdate="20190804T145358Z">
+        <seg>选定一种武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Choose a weapon type from the following list: cannons, heavy machine guns, grenade launchers, and rocket launchers.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T133029Z" creationid="quentine" creationdate="20190731T133029Z">
+        <seg>从下列武器类型选择一种：加农炮、重机枪、榴弹发射器和火箭筒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Choose one exotic melee weapon from.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T133424Z" creationid="quentine" creationdate="20190731T133424Z">
+        <seg>选择一种异种近战武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Choose one light melee weapon, a rapier (if the character can use it with one hand), or a chain.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T144808Z" creationid="quentine" creationdate="20190804T144808Z">
+        <seg>选择一个轻型近战武器、长剑（角色需单手就能使用）或者锁链。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Choose one occupation from the available selections and apply the benefits to the character as noted in the occupation’s description.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T095050Z" creationid="QuenTine" creationdate="20181104T095050Z">
@@ -9718,6 +11911,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Darkness and poor visibility in general reduces the character’s speed to three-quarters of normal, instead of one-half.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T141251Z" creationid="quentine" creationdate="20190730T133603Z">
+        <seg>黑暗以及低能见度使角色的速度降低为原来的3/4，而非减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Decide how many ranks of the appropriate skill to program into the robot, up to the number of ranks the Techie has in the skill.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190523T132311Z" creationid="quentine" creationdate="20190523T131724Z">
@@ -9837,8 +12038,8 @@
       <tuv xml:lang="EN-US">
         <seg>Doing this provides the Bodyguard’s allies with a +1 insight bonus to Defense for 3 rounds.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190421T135020Z" creationid="quentine" creationdate="20190421T135020Z">
-        <seg>友方的防御增加1点洞察加值，持续3回合。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T120402Z" creationid="quentine" creationdate="20190421T135020Z">
+        <seg>友方的防御增加1点洞察加值，持续3轮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9923,6 +12124,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Each time a character takes the feat, he or she selects a different weapon group.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T133337Z" creationid="quentine" creationdate="20190731T133337Z">
+        <seg>每次角色获得此专长将选择不同的武器类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Each time a multiclass character attains a new level, the hero either increases one of his or her current class levels by one or picks up a new class at 1st level.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T093330Z" creationid="quentine" creationdate="20190216T093330Z">
@@ -9947,6 +12156,38 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Each time the character takes the feat, he or she selects a different class of surface vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T134855Z" creationid="quentine" creationdate="20190804T134855Z">
+        <seg>每次角色获得此专长将选择不同的地表载具类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Each time the character takes the feat, he or she selects a different exotic melee weapon.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T133521Z" creationid="quentine" creationdate="20190731T133521Z">
+        <seg>每次角色获得此专长将选择不同的异种近战武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Each time the character takes the feat, the character must select a different weapon.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T145611Z" creationid="quentine" creationdate="20190804T145611Z">
+        <seg>每次角色获得此专长必须选择不同的武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Each time the character takes the feat, the character selects a -different weapon.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T145337Z" creationid="quentine" creationdate="20190804T145337Z">
+        <seg>每次角色获得此专长将选择不同的武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Each time the character takes the feat, the character selects a different class of aircraft.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131536Z" creationid="quentine" creationdate="20190704T131536Z">
@@ -9955,10 +12196,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Each time, both of its effects stack.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T151100Z" creationid="quentine" creationdate="20190804T151100Z">
+        <seg>每次各效果叠加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Each time, the Mage chooses a number of spells that he already knows equal to his Intelligence modifier.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190624T142403Z" creationid="quentine" creationdate="20190624T142403Z">
         <seg>每次法师都可以选择数量等同于他的智力调整值的的法术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Each time, the character selects two new Knowledge skills.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T125950Z" creationid="quentine" creationdate="20190731T125950Z">
+        <seg>每次角色选择两个未选择过的知识技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Each time, the character selects two new skills from the choices given above.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T121706Z" creationid="quentine" creationdate="20190731T121600Z">
+        <seg>每次角色从上述技能中选择两个未选择过的技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10013,8 +12278,8 @@
       <tuv xml:lang="EN-US">
         <seg>Even a Fast hero with the Combat Reflexes feat can’t use this talent more than once per round.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190117T131047Z" creationid="quentine" creationdate="20190117T131047Z">
-        <seg>即便该英雄具有战斗反射专长，该天赋每回合最多也只能发动一次。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T120133Z" creationid="quentine" creationdate="20190117T131047Z">
+        <seg>即便该英雄具有战斗反射专长，该天赋每轮最多也只能发动一次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10235,6 +12500,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Firing a burst expends five bullets and can only be done if the weapon has five bullets in it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T135316Z" creationid="quentine" creationdate="20190730T135153Z">
+        <seg>短点射消耗5发子弹，且只能在武器里有5发子弹时才能发动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Follow these steps to build a robot.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190522T142435Z" creationid="quentine" creationdate="20190522T142435Z">
@@ -10299,6 +12572,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>For effects that depends on manifester level the character is considered 1st level or his or her manifester level, whichever is higher.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T150914Z" creationid="quentine" creationdate="20190804T150914Z">
+        <seg>释放者等级与1级之间取最大值，决定灵力产生多少等级的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>For every 5 points by which the character exceeds the DC, he or she gains an additional +1 to his or her Wealth bonus.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190112T064004Z" creationid="quentine" creationdate="20190112T064004Z">
@@ -10317,8 +12598,8 @@
       <tuv xml:lang="EN-US">
         <seg>For the weapon the Soldier has applied weapon specialization to the Soldier’s threat range increases by one.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190226T133210Z" creationid="quentine" creationdate="20190226T131115Z">
-        <seg>士兵所有拥有`专精武器`专长的武器，其威胁范围+1。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T140414Z" creationid="quentine" creationdate="20190226T131115Z">
+        <seg>士兵所有拥有`专精武器`专长的武器，其重击威胁区间+1。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10611,6 +12892,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>However, the character receives a –2 penalty on his or her attack roll, and the character’s attack deals –1 die of damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T122320Z" creationid="quentine" creationdate="20190804T122249Z">
+        <seg>但是，角色的攻击骰有2点减值，伤害骰有1点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>However, the checks you make to determine whether you are successful at activating the item take no time by themselves and are included in the activate magic item attack action.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190612T124313Z" creationid="quentine" creationdate="20190612T124313Z">
@@ -10631,6 +12920,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190112T071729Z" creationid="quentine" creationdate="20190112T071729Z">
         <seg>如果角色出售了售价小于等于角色当前财富加值的物品，且售价小于等于14，角色不会增加任何财富值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If a character has a base attack bonus of +1 or higher, the character can draw a weapon as a free action when moving.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T141505Z" creationid="quentine" creationdate="20190803T141505Z">
+        <seg>如果角色的基础攻击加值至少有1点，则可以在移动的同时以一个即时动作拔出武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10971,6 +13268,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the character fails a Survival check, he or she can retry after 1 hour (out-doors) or 10 minutes (indoors) of searching.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T141407Z" creationid="quentine" creationdate="20190804T141407Z">
+        <seg>如果角色生存检定失败，可以在进行1小时（室外）或十分钟（室内）的搜索后重试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the character fails the check, resolve the sideswipe normally.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190801T142629Z" creationid="quentine" creationdate="20190801T142629Z">
+        <seg>若角色检定失败，则按正常的侧击来结算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the character fails the save, he or she takes damage after an incubation period; once per day thereafter, the character must succeed at a Fortitude saving throw to avoid secondary damage.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T142031Z" creationid="quentine" creationdate="20190115T142031Z">
@@ -10999,6 +13312,30 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T141137Z" creationid="quentine" creationdate="20190115T141137Z">
         <seg>如果失败，角色受到毒物的初始伤害（通常是属性伤害）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the character has the Renown feat, the Will saving throw’s DC increases by 5.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T131758Z" creationid="quentine" creationdate="20190802T131758Z">
+        <seg>若角色有`闻名`专长，意志豁免的DC将提高5点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the character is in heavy armor, the character can move four times his or her speed rather than three times.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T142459Z" creationid="quentine" creationdate="20190803T142459Z">
+        <seg>如果角色穿着重甲，最大移动速度是正常速度的4倍而不是3倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the character makes a long jump, the character gains a +2 competence bonus on his or her Jump check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T142707Z" creationid="quentine" creationdate="20190803T142707Z">
+        <seg>角色跳远所进行的跳跃检定将获得2点表现加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11043,10 +13380,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the character succeeds, turn the other vehicle 90 degrees across the front of the character’s, so that they form a tee.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190801T141948Z" creationid="quentine" creationdate="20190731T140105Z">
+        <seg>如果角色胜，则将目标载具旋转90度，横置在角色的载具前，两个载具形成一个T字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the character successfully purchases an object or service with a purchase DC that’s higher than his or her current Wealth bonus, the character’s Wealth bonus decreases.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181106T134519Z" creationid="QuenTine" creationdate="20181106T134519Z">
         <seg>如果角色成功购买一件物品或服务，但物品或服务的购买DC大于角色的财富加值，角色的财富加值会降低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the character trips an opponent in melee combat, the character immediately gets to make a melee attack against that opponent as if the character had not used his or her attack action for the trip attempt.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T150231Z" creationid="quentine" creationdate="20190802T150119Z">
+        <seg>如果角色在近战中成功绊摔对手，角色可立即对对手进行一次额外的近战攻击，就如同你没有使用过这次攻击来绊摔一样。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11373,8 +13726,8 @@
       <tuv xml:lang="EN-US">
         <seg>If the target fails, he or she is knocked unconscious for 1d4+1 rounds.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T145525Z" creationid="quentine" creationdate="20190114T145525Z">
-        <seg>如果检定失败，目标会昏迷1d4+1回合。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T120249Z" creationid="quentine" creationdate="20190114T145525Z">
+        <seg>如果检定失败，目标会昏迷1d4+1轮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11397,8 +13750,8 @@
       <tuv xml:lang="EN-US">
         <seg>If the target succeeds on the save, the target is dazed for 1 round.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T145453Z" creationid="quentine" creationdate="20190114T145453Z">
-        <seg>如果目标豁免成功，目标晕眩一回合。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T120230Z" creationid="quentine" creationdate="20190114T145453Z">
+        <seg>如果目标豁免成功，目标晕眩一轮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11551,6 +13904,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190624T135542Z" creationid="quentine" creationdate="20190624T135542Z">
         <seg>除了基本价格的支出外，抄录卷轴必须额外花费法术所需的材料费用以及经验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In addition to the nor-mal requirements for attempting a sideswipe stunt, the character must have sufficient movement re-maining to move a number of squares equal to the character’s turn number.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190801T141836Z" creationid="quentine" creationdate="20190731T135738Z">
+        <seg>除了要满足侧击特技的一般要求外，角色必须保持移动等于`转向距离`的格子数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12139,6 +14500,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Its effects stack.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T142255Z" creationid="quentine" creationdate="20190802T142255Z">
+        <seg>效果叠加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>It’s a rare mission that doesn’t end up in the dark somewhere, and heroes need a way to see.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T131251Z" creationid="quentine" creationdate="20190115T131251Z">
@@ -12191,6 +14560,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190624T143611Z" creationid="quentine" creationdate="20190624T143611Z">
         <seg>同理，极效的2级法术被视为一个5级法术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Likewise, if the character’s concentration is disrupted or the character is attacked before his or her next action, the character loses the benefit of aiming.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T122514Z" creationid="quentine" creationdate="20190731T122514Z">
+        <seg>同样，如果角色的注意力被扰乱，或者角色在下一次行动前就被攻击，角色将失去瞄准效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12319,6 +14696,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190619T131154Z" creationid="quentine" creationdate="20190619T131145Z">
         <seg>大多数自我催眠都是攻击动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Move them forward a distance equal to the character’s turn number.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190801T142302Z" creationid="quentine" creationdate="20190731T140422Z">
+        <seg>将它们向前移动等同于角色的`转向距离`的距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Moving in this way does not provoke an attack of opportunity from the defender the character is attacking (though it can provoke attacks of opportunity from others, as normal).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T123016Z" creationid="quentine" creationdate="20190804T123016Z">
+        <seg>以这种方式移动不会引发防御者的借机攻击（但如常引发其他对手的借机攻击）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12539,6 +14932,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Once the character begins aiming, he or she can’t move, even to take a 5-foot step, until after the character makes his or her next attack, or the benefit of the feat is lost.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T122317Z" creationid="quentine" creationdate="20190731T122317Z">
+        <seg>一旦角色开始瞄准，就不能移动，五尺快步也不行，直到角色下一次攻击行动的发生，或者专长效果消失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Once the crystal is depleted, the Telepath must refill it using up to 5 power points from his own reserves.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190620T134444Z" creationid="quentine" creationdate="20190620T134431Z">
@@ -12549,8 +14950,8 @@
       <tuv xml:lang="EN-US">
         <seg>Once the point is spent, the hero can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190117T130714Z" creationid="quentine" creationdate="20190117T130714Z">
-        <seg>这时英雄可以对刚被他人近战伤害到的对手发起一次借机攻击。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T141009Z" creationid="quentine" creationdate="20190117T130714Z">
+        <seg>这时英雄可以对刚被他人近战伤害到的对手进行一次借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12751,6 +15152,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Passengers can ready an action to make an attack when their vehicle reaches a particular location, but the driver must make his or her attack action either before or after the vehicle’s movement.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190801T141131Z" creationid="quentine" creationdate="20190731T125737Z">
+        <seg>乘客在载具抵达特定地点时，可以准备一个攻击动作，但驾驶员只能在载具移动的前后发动攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Permission to copy, modify and distribute this document is granted solely through the use of the Open Gaming License, Version 1.0a.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181022T032835Z" creationid="QuenTine" creationdate="20181022T032835Z">
@@ -12803,6 +15212,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181103T140654Z" creationid="QuenTine" creationdate="20181103T140654Z">
         <seg>毒素、疾病以及其他效果都有可能造成暂时性属性损伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Powerboats are engine-powered water vessels designed for operation by a single person and usually no more than 100 feet in length.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T132157Z" creationid="quentine" creationdate="20190804T132157Z">
+        <seg>汽艇是由引擎驱动的水上舰艇，由单人操作，航程通常至多100尺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13071,6 +15488,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Reloading a revolver without a speed loader, or reloading any firearm with an internal magazine, is a full-round action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T142252Z" creationid="quentine" creationdate="20190803T142252Z">
+        <seg>不用快速装填器装填左轮手枪，或将弹药装填至火器的内置弹匣里，是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Reloading a revolver without a speed loader, or reloading any firearm with an internal magazine, is a move action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T142118Z" creationid="quentine" creationdate="20190803T142118Z">
+        <seg>不用快速装填器装填左轮手枪，或将弹药装填至火器的内置弹匣里，是一个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Remember that Craft (chemical), Craft (electronic), and Craft (mechanical) cannot be used untrained.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T134625Z" creationid="quentine" creationdate="20190730T134625Z">
+        <seg>注意制造（化学）、制造（电力）、制造（结构）是需受训的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181022T112029Z" creationid="QuenTine" creationdate="20181022T112029Z">
@@ -13099,6 +15540,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T125823Z" creationid="quentine" creationdate="20190704T125823Z">
         <seg>两个攻击的效果同时结算而非先后。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sailboats are wind-powered water vessels.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T132220Z" creationid="quentine" creationdate="20190804T132220Z">
+        <seg>帆船是风帆驱动的水上舰艇。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13159,10 +15608,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>See the Treat Injury skill description.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T135019Z" creationid="quentine" creationdate="20190804T135019Z">
+        <seg>见医疗技能描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Select a class of aircraft (heavy aircraft, helicopters, jet fighters, or spacecraft).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T130327Z" creationid="quentine" creationdate="20190704T130327Z">
         <seg>选择一类飞行器（重型飞行器、直升机、喷气战斗机或者太空飞船）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Select a class of surface vehicle (heavy wheeled, powerboat, sailboat, ship, or tracked).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T130436Z" creationid="quentine" creationdate="20190804T130204Z">
+        <seg>选择一类表面载具（重型轮式载具、汽艇、帆船、舰、以及履带式载具）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13271,6 +15736,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Ships are large, multicrewed water vessels.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T132405Z" creationid="quentine" creationdate="20190804T132405Z">
+        <seg>舰是大型的、由多船员操控的舰艇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Since Wealth is an abstract concept, it’s sometimes difficult to determine how financially well off a character is.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181106T133915Z" creationid="QuenTine" creationdate="20181106T133915Z">
@@ -13313,8 +15786,8 @@
       <tuv xml:lang="EN-US">
         <seg>Smoke also obscures vision, giving one-half concealment (20% miss chance) to characters within it.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T134140Z" creationid="quentine" creationdate="20190115T134140Z">
-        <seg>烟雾同样影响可见度，烟雾中的角色处于半隐藏状态，并有20%失手率。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T141611Z" creationid="quentine" creationdate="20190115T134140Z">
+        <seg>烟雾同样影响可见度，烟雾中的角色处于半隐蔽状态，并有20%失手率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13671,6 +16144,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>That opponent doesn’t get to add his or her Strength modifier to attack rolls when targeting the character.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T143659Z" creationid="quentine" creationdate="20190804T143659Z">
+        <seg>该对手以角色为目标攻击时，攻击骰不会加上力量调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>That opponent immediately stops fighting and reverts to an indifferent attitude regarding the Negotiator and the situation in general.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190526T133819Z" creationid="quentine" creationdate="20190526T131531Z">
@@ -13983,6 +16464,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The DC depends on the surface and the prevailing conditions.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T135938Z" creationid="quentine" creationdate="20190804T135938Z">
+        <seg>DC取决于地面和目前状况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The DC equals 20 + the caster level of the spell you are trying to cast from the scroll.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190612T141245Z" creationid="quentine" creationdate="20190612T141245Z">
@@ -13993,8 +16482,8 @@
       <tuv xml:lang="EN-US">
         <seg>The DC for concealed or less obvious threats is equal to their Hide check result.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190417T141504Z" creationid="quentine" creationdate="20190417T141504Z">
-        <seg>隐藏或极不明显的目标，其侦察DC等于他们的躲藏检定结果。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T141623Z" creationid="quentine" creationdate="20190417T141504Z">
+        <seg>隐蔽或极不明显的目标，其侦察DC等于他们的躲藏检定结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15303,6 +17792,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The bonus to the character’s Defense is a dodge bonus (and as such it stacks with other dodge bonuses the character may have).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T113927Z" creationid="quentine" creationdate="20190731T113927Z">
+        <seg>此防御加值类型为闪避加值（可以与其他闪避加值叠加）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The caster level has an effect on the purchase DC of the raw materials to brew the potion, the skill check to create the potion, the experience point cost to brew the potion, and the DC of a saving throw (if applicable) to resist the effect of the potion.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190624T140704Z" creationid="quentine" creationdate="20190624T140704Z">
@@ -15319,6 +17816,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The changes to attack rolls and Defense last until the character’s next action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T113539Z" creationid="quentine" creationdate="20190731T113539Z">
+        <seg>转移效果持续到角色的下一次行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The character can make a Strength check to lift the object off him or herself or an Escape Artist check (DC 20) to get out from underneath.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T140542Z" creationid="quentine" creationdate="20190115T140542Z">
@@ -15327,10 +17832,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The character can manifest this power up to three times in a 24-hour period.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T150337Z" creationid="quentine" creationdate="20190804T150337Z">
+        <seg>角色可以在24小时周期内释放3次该灵力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The character can only take a single move or attack action each turn (but not both, nor can the character take full-round actions).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T145829Z" creationid="quentine" creationdate="20190114T145829Z">
         <seg>每回合角色只能做单个移动或攻击动作（但不能都做，也不能用整轮动作）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character can select a new opponent on any action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T123402Z" creationid="quentine" creationdate="20190731T123402Z">
+        <seg>角色可在进行任何动作时指定新的对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character can select a new vehicle or opponent on any action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T144500Z" creationid="quentine" creationdate="20190804T144500Z">
+        <seg>角色可在进行任何动作时指定新的载具或对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character can still only make one attack of opportunity on a single opponent.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T141421Z" creationid="quentine" creationdate="20190731T115715Z">
+        <seg>但角色仍然至多对单个对手进行一次借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15359,6 +17896,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The character can use the feat once per round as a free action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T131508Z" creationid="quentine" creationdate="20190802T131508Z">
+        <seg>角色每轮可以以一个即使动作使用此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character can use this ability once per round.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T142102Z" creationid="quentine" creationdate="20190730T142102Z">
+        <seg>角色每轮只能使用一次本专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The character can’t make Listen checks.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T121738Z" creationid="quentine" creationdate="20190115T121738Z">
@@ -15375,10 +17928,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The character can’t take a 5-foot step before making this extra attack.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T141933Z" creationid="quentine" creationdate="20190730T140939Z">
+        <seg>施加额外攻击前不可以做五尺快步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character deals double normal damage to objects, whether they are held or carried or not.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T125725Z" creationid="quentine" creationdate="20190804T125249Z">
+        <seg>角色对物体的伤害是正常的两倍，不管这个物体被握持、携带还是两者皆非。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The character defends normally but cannot attack.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T123930Z" creationid="quentine" creationdate="20190115T123930Z">
         <seg>角色可以正常防御但无法攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character gains a +4 bonus on any attack roll made to attack an object held or carried by another character.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T125014Z" creationid="quentine" creationdate="20190804T125014Z">
+        <seg>角色在攻击他人握持或携带的物体的攻击骰获得4点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15395,6 +17972,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T092745Z" creationid="quentine" creationdate="20190216T092745Z">
         <seg>角色获得1级的基础攻击加值、基础豁免加值、角色技能、新职业的职业专长、按正确掷骰获得的生命值以及新职业升1级所获的技能点（不是角色1级时获得的4倍技能点）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character gets a +2 bonus on all checks with those skills.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T134402Z" creationid="quentine" creationdate="20190730T134402Z">
+        <seg>角色选择的技能的检定获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character gets a +2 bonus on all checks with those two skills.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T121521Z" creationid="quentine" creationdate="20190731T121521Z">
+        <seg>角色在这两个技能检定上获得2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15463,6 +18056,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The character is proficient at operating that class of vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T130451Z" creationid="quentine" creationdate="20190804T130451Z">
+        <seg>角色将能专业地操控这类载具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character is proficient with that melee weapon in combat.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T133445Z" creationid="quentine" creationdate="20190731T133445Z">
+        <seg>角色在战斗中将擅长使用这种武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The character loses his or her Dexterity bonus to Defense, except on attacks from characters with whom he or she is grappling.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T124625Z" creationid="quentine" creationdate="20190115T123109Z">
@@ -15471,10 +18080,74 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The character may make attacks of opportunity against opponents who provoke such attacks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T141333Z" creationid="quentine" creationdate="20190731T115016Z">
+        <seg>角色可以抓住对手引发的借机攻击的机会，进行借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character may use Heroic Surge a number of times per day depending on his or her character level (as shown below), but never more than once per round.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T133158Z" creationid="quentine" creationdate="20190802T133158Z">
+        <seg>角色每天可发动英勇的次数取决于角色的等级（见下表），但每轮只能发动一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character moves at half his or her normal speed (or at the character’s normal speed with a –5 penalty on the check, or at up to twice the character’s speed with a –20 penalty on the check).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T135733Z" creationid="quentine" creationdate="20190804T135733Z">
+        <seg>角色将以正常速度的一半移动（角色以常速移动，检定有5点减值；角色以二倍速移动，检定则有20点减值。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character must make another Survival check every time the tracks become difficult to follow.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T135536Z" creationid="quentine" creationdate="20190804T135514Z">
+        <seg>每次踪迹变得更难追踪时，角色都需要再做一次生存检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character receives a +2 bonus on Bluff checks made to feint in melee combat.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T144408Z" creationid="quentine" creationdate="20190802T144312Z">
+        <seg>角色在近战中使用虚招所进行的唬骗检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character receives a –2 penalty on this attack, but deals +1 die of damage with a successful hit.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T124916Z" creationid="quentine" creationdate="20190731T124916Z">
+        <seg>角色攻击骰获得2点减值，若攻击成功，伤害骰将获得1点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character receives a –4 penalty on the attack roll, but deal +2 dice of damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T135038Z" creationid="quentine" creationdate="20190730T135038Z">
+        <seg>角色的攻击骰获得4点减值而伤害骰获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The character takes a –4 penalty to Defense against melee attacks and loses his or her Dexterity bonus to Defense.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T124834Z" creationid="quentine" creationdate="20190115T124834Z">
         <seg>角色对近战攻击防御值会有4点减值，对于所有的攻击，防御时的敏捷加值无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character takes only half the usual penalty to speed for being unable to see.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T133322Z" creationid="quentine" creationdate="20190730T133322Z">
+        <seg>角色因无法目视所造成的速度减值减半。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15547,6 +18220,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T112206Z" creationid="quentine" creationdate="20190115T112206Z">
         <seg>角色当前的生命值会维持原状，即使生命值为负数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character’s unarmed attacks count as armed, which means that opponents do not get attacks of opportunity when the character attacks them unarmed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T114634Z" creationid="quentine" creationdate="20190731T114634Z">
+        <seg>角色的徒手攻击视为装备了武器，意味着对手不会在此时获得借机攻击的机会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character’s vehicle and everyone aboard it receive a +1 dodge bonus to Defense against attacks from that vehicle or opponent.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T144436Z" creationid="quentine" creationdate="20190804T144436Z">
+        <seg>角色的载具和载具上所有人，对该对手载具或对手的防御获得1点闪避加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15639,6 +18328,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The damage is nonlethal damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T144857Z" creationid="quentine" creationdate="20190802T144857Z">
+        <seg>此伤害为非致命伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The damage reduction is equal to one-half of the Slayer’s level in this advanced class, rounded down.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190611T134538Z" creationid="quentine" creationdate="20190611T134538Z">
@@ -15723,6 +18420,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T114309Z" creationid="quentine" creationdate="20190703T113820Z">
         <seg>邪恶侍僧进行`驱散伤害检定`以决定能为总共多少HD的生物解除驱散。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The extra attack is with the same weapon and at the same bonus as the attack that dropped the previous opponent.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T142037Z" creationid="quentine" creationdate="20190730T142037Z">
+        <seg>额外攻击使用的武器，获得的加值都与前一次攻击相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16039,6 +18744,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The heavy wheeled class includes all kinds of semi-trucks and tractor-trailers, as well as wheeled construction ve-hicles (such as earth movers) and wheeled armored vehicles (such as some armored personnel carriers).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T133749Z" creationid="quentine" creationdate="20190804T131943Z">
+        <seg>重型轮式载具类包括各种半挂牵引车及其挂车、轮式重机（如铲运机）、轮式装甲车（如一些装甲输送车）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The hero adds his or her base Will saving throw bonus to Listen or Spot checks to avoid surprise.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190526T130036Z" creationid="quentine" creationdate="20190202T103304Z">
@@ -16081,7 +18794,7 @@
       <tuv xml:lang="EN-US">
         <seg>The hero can’t see at all, and thus everything has total concealment to him or her.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T120417Z" creationid="quentine" creationdate="20190115T120417Z">
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T141610Z" creationid="quentine" creationdate="20190115T120417Z">
         <seg>英雄看不见任何东西，即任何事物对其来说都是隐蔽的。</seg>
       </tuv>
     </tu>
@@ -16296,6 +19009,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The opponent’s Strength modifier applies to damage, as usual.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T144023Z" creationid="quentine" creationdate="20190804T144023Z">
+        <seg>对手的伤害骰则如常应用力量调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The other is the ones digit.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181024T041528Z" creationid="QuenTine" creationdate="20181024T041528Z">
@@ -16316,6 +19037,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190226T145807Z" creationid="quentine" creationdate="20190226T145807Z">
         <seg>这个减值将应用于本轮的所有攻击，包括借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The penalty on attacks and bonus on damage applies until the character’s next action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T140213Z" creationid="quentine" creationdate="20190803T140213Z">
+        <seg>减攻击加伤害的效果持续到角色的下一次行动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16376,6 +19105,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The quarry leaves only traces, such as scuff marks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T141247Z" creationid="quentine" creationdate="20190804T141247Z">
+        <seg>生物只会留下细微的痕迹，比如擦痕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The quarry might leave some traces of its passage, but only occasional or partial footprints can be found.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T140937Z" creationid="quentine" creationdate="20190804T140937Z">
+        <seg>生物只会留下一些轻微的踪迹，但很少留下足迹，即使有也不完整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The result of the action point roll is added to the damage roll for that attack.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190226T144733Z" creationid="quentine" creationdate="20190226T144250Z">
@@ -16396,6 +19141,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190522T141114Z" creationid="quentine" creationdate="20190522T141114Z">
         <seg>检定结果决定设备是否需要修理才能再度使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The second time, the character applies it to the two skills he or she didn’t pick originally.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T134540Z" creationid="quentine" creationdate="20190730T134540Z">
+        <seg>第二次使原来未选的两个技能获得加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16529,10 +19282,18 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The target can have no more than nine-tenths cover for A character to attempt a skip shot.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T122747Z" creationid="quentine" creationdate="20190804T122747Z">
+        <seg>目标的掩护不超过9/10，角色都可以进行跳弹射击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The target can hold his of her breath for a number of rounds equal to his or her Constitution score.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T134651Z" creationid="quentine" creationdate="20190115T134651Z">
-        <seg>目标可以闭气等同于其体质值的回合数。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T120333Z" creationid="quentine" creationdate="20190115T134651Z">
+        <seg>目标可以闭气等同于其体质值的轮数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16705,10 +19466,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The vehicles end their movement at that location, at stationary speed, and take their normal sideswipe damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190801T142605Z" creationid="quentine" creationdate="20190801T142605Z">
+        <seg>然后目标载具将以静止速度停在目的地，承受正常的侧击伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The victim must make this roll when he or she comes into contact with an infectious carrier, touches an item smeared with diseased matter, consumes food or drink tainted with a disease, or suffers damage from a contaminated attack.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T141909Z" creationid="quentine" creationdate="20190115T141909Z">
         <seg>角色必须在接触带病体、触碰沾有病原的物体、摄入病原污染的饮食或受到带污染的攻击时，进行这样的检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The weapons used must both be melee weapons or both be ranged weapons (the character can’t mix the types).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T143317Z" creationid="quentine" creationdate="20190804T143317Z">
+        <seg>所使用的武器必须同为近战或同为远程，不可混用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16749,6 +19526,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T131448Z" creationid="quentine" creationdate="20190704T131448Z">
         <seg>角色操作通用的飞行器则无此减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There is no penalty when you operate a general-purpose surface vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T134011Z" creationid="quentine" creationdate="20190804T134011Z">
+        <seg>角色操作通用的地表载具则无此减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There is no power point cost for using this power.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T150405Z" creationid="quentine" creationdate="20190804T150405Z">
+        <seg>释放此灵力无需消耗灵力点数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17202,6 +19995,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>This counts as an attack of opportunity, which the character can make even if he or she is unarmed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T141642Z" creationid="quentine" creationdate="20190802T141642Z">
+        <seg>这算作一次借机攻击，角色徒手也能进行的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This critical hit deals triple damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T144846Z" creationid="quentine" creationdate="20190802T144846Z">
+        <seg>此重击造成3倍伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This damage is nonlethal damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T150923Z" creationid="quentine" creationdate="20190802T150923Z">
+        <seg>此伤害为非致命伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>This damage is taken each day the saving throw fails.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T142526Z" creationid="quentine" creationdate="20190115T142526Z">
@@ -17274,6 +20091,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>This feat does not affect creatures with an Intelligence of 3 or lower.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T131715Z" creationid="quentine" creationdate="20190802T131715Z">
+        <seg>此专长无法作用余智力小于等于3点的生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>This feat does not grant more attacks of opportunity than the character is normally allowed in a round.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T130147Z" creationid="quentine" creationdate="20190704T130147Z">
@@ -17334,6 +20159,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190215T132412Z" creationid="quentine" creationdate="20190215T132412Z">
         <seg>吸引目标的注意力可以让其他角色做动作，而不被目标发现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This grants the character a +2 circumstance bonus on his or her next attack roll.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T122113Z" creationid="quentine" creationdate="20190731T122113Z">
+        <seg>这可让角色下一个攻击骰获得2点情景加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17516,6 +20349,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>This number may not exceed the character’s base attack bonus.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T113503Z" creationid="quentine" creationdate="20190731T113503Z">
+        <seg>此值不能高于角色的基础攻击加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>This object is referred to as the Acolyte’s holy symbol.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190627T132933Z" creationid="quentine" creationdate="20190627T132933Z">
@@ -17532,6 +20373,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>This penalty is in addition to the normal –4 penalty for firing into melee, making the penalty to target to character –8.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T131657Z" creationid="quentine" creationdate="20190731T131519Z">
+        <seg>此减值是叠加在正常情况下已有的4点减值上，总共有8点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>This possession can be either an actual religious object or some other item of personal significance.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190627T132733Z" creationid="quentine" creationdate="20190627T132733Z">
@@ -17542,8 +20391,8 @@
       <tuv xml:lang="EN-US">
         <seg>This provides a +2 circumstance bonus on any skill checks made to uncover additional evidence or otherwise locate and capture the suspect.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190526T080545Z" creationid="quentine" creationdate="20190526T080545Z">
-        <seg>这将使调查员在发现其他线索、锁定嫌疑犯位置和抓捕嫌疑犯时获得2点表现加值。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T122019Z" creationid="quentine" creationdate="20190526T080545Z">
+        <seg>这将使调查员在发现其他线索、锁定嫌疑犯位置和抓捕嫌疑犯时获得2点情景加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18022,6 +20871,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Tracked vehicles include bulldozers and tanks and other military vehicles.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T132458Z" creationid="quentine" creationdate="20190804T132458Z">
+        <seg>履带式载具包括推土机和坦克以及其他军用载具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Trained only.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190612T122750Z" creationid="quentine" creationdate="20190612T122750Z">
@@ -18050,6 +20907,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T121431Z" creationid="quentine" creationdate="20190115T121431Z">
         <seg>眩晕的角色无法行动，但仍能获得正常防御的增益。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unarmed attacks normally provoke attacks of opportunity, and unarmed combatants cannot normally make attacks of opportunity.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T141333Z" creationid="quentine" creationdate="20190731T115127Z">
+        <seg>徒手攻击一般都会引发对手借机攻击，且不能进行借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18170,6 +21035,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190623T112308Z" creationid="quentine" creationdate="20190623T112308Z">
         <seg>使用此技能来辨识他人正在施展的法术，或者辨识现场的法术效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Using this feat fires two bullets and can only be done if the weapon has two bullets in it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T125013Z" creationid="quentine" creationdate="20190731T125013Z">
+        <seg>此专长消耗两发子弹，且只能在武器里有两发子弹时才能发动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18510,6 +21383,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>When the character throws a weapon, its range increment is doubled.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T133738Z" creationid="quentine" creationdate="20190731T133738Z">
+        <seg>角色投掷武器，投掷射程将提高1倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>When the hero can spend a full round directing his or her allies and makes a Charisma check (DC 10), the hero provides any of his or her allies within 30 feet a +1 bonus on their attack rolls and skill checks.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T073630Z" creationid="quentine" creationdate="20190216T073630Z">
@@ -18718,6 +21599,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>With this feat, the character may also make attacks of opportunity when flat-footed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T141333Z" creationid="quentine" creationdate="20190731T115755Z">
+        <seg>角色拥有此专长可以在自己措手不及时进行借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With this feat, the character’s massive damage threshold is current Con +3.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T142221Z" creationid="quentine" creationdate="20190802T142202Z">
+        <seg>有了此专长，角色的巨创阈值为当前体质值+3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>With this special ability, a Smart hero can glean enough meaning from a conversation or document to ascertain the basic message, but this ability in no way simulates actually being able to converse or fluently read and write in a given language.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190201T142614Z" creationid="quentine" creationdate="20190201T142614Z">
@@ -18730,6 +21627,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190215T134644Z" creationid="quentine" creationdate="20190215T134644Z">
         <seg>拥有此天赋的英雄在为说谎、欺诈或者其他歪曲事实的行为作唬骗、交涉、赌博鉴定时，获得一个等于其魅力等级的加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Without this feat, if a character attempts an autofire attack at a specific target, it simply counts as a normal attack and all the extra bullets are wasted.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T135627Z" creationid="quentine" creationdate="20190730T135627Z">
+        <seg>角色若没有这个专长， 用自动武器攻击特定目标只能算作正常情况下的范围攻击，浪费更多子弹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18940,6 +21845,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>\* For a group of mixed sizes, apply only the modifier for the largest size category represented.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T142233Z" creationid="quentine" creationdate="20190804T142208Z">
+        <seg>\* 若生物群体的体型不一，只以最大体型生物的调整值为准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>\* Powers Discovered by Level</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190619T141109Z" creationid="quentine" creationdate="20190619T141109Z">
@@ -18984,6 +21897,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T143149Z" creationid="quentine" creationdate="20190115T143149Z">
         <seg>\* 若伤害已造成，再进行一次豁免以避免1点永久性的属性流失（而不是伤害）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>\*\* Apply only the largest modifier from this category.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T142230Z" creationid="quentine" creationdate="20190804T142230Z">
+        <seg>\*\* 此类状况以最大的调整值为准。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19272,6 +22193,26 @@
 |1st–7th|1d6|
 |8th–14th|2d6|
 |15th–20th|3d6|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>|Character Level|Times per Day|
+|:-------------:|:-----------:|
+|1st–4th|1|
+|5th–8th|2|
+|9th–12th|3|
+|13th–16th|4|
+|17th–20th|5|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T133230Z" creationid="quentine" creationdate="20190802T133230Z">
+        <seg>|角色等级|每日次数|
+|:-------------:|:-----------:|
+|1st–4th|1|
+|5th–8th|2|
+|9th–12th|3|
+|13th–16th|4|
+|17th–20th|5|</seg>
       </tuv>
     </tu>
     <tu>
@@ -20048,6 +22989,60 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>|Condition|DC Modifier|
+|---------|:---------:|
+|Every three targets in the group being tracked|–1|
+|--------------------------------------|----------|
+|Size of targets being tracked\*:||
+|Fine|+8|
+|Diminutive|+4|
+|Tiny|+2|
+|Small|+1|
+|Medium-size|+0|
+|Large|–1|
+|Huge|–2|
+|Gargantuan|–4|
+|Colossal|-8|
+|--------------------------------------|----------|
+|Every 24 hours since the trail was made|+1|
+|Every hour of rain since the trail was made|+1|
+|Fresh snow cover since the trail was made|+10|
+|--------------------------------------|----------|
+|Poor visibility\*\*:||
+|Overcast or moonless night|+6|
+|Moonlight|+3|
+|Fog or precipitation|+3|
+|Tracked target hides trail (and moves at half speed)|+5|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T142140Z" creationid="quentine" creationdate="20190804T142140Z">
+        <seg>|目前状况|DC调整值|
+|---------|:---------:|
+|被追踪的生物每多三个|–1|
+|--------------------------------------|----------|
+|被追踪生物的体型\*：||
+|超微型|+8|
+|微型|+4|
+|超小型|+2|
+|小型|+1|
+|普通|+0|
+|大型|–1|
+|超大型|–2|
+|巨型|–4|
+|超巨型|-8|
+|--------------------------------------|----------|
+|留下痕迹之后每隔24小时|+1|
+|留下痕迹之后每下一小时雨|+1|
+|留下痕迹之后被新雪覆盖|+10|
+|--------------------------------------|----------|
+|视线不佳\*\*：||
+|乌云密布或无月光的夜晚|+6|
+|月光下|+3|
+|起雾或降雨（雪）|+3|
+|被追踪目标刻意掩盖痕迹（并以一半的速度移动）|+5|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>|Creature/Object|Rating|
 |---------------|------|
 |Outsider|HD|
@@ -20460,6 +23455,24 @@
 |超小型|+2|
 |微型|+4|
 |超微型|+8|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>|Surface|Track DC|
+|-------|:------:|
+|Very soft|5|
+|Soft|10|
+|Firm|15|
+|Hard|20|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T140302Z" creationid="quentine" creationdate="20190804T140302Z">
+        <seg>|地面|追踪DC|
+|-------|:------:|
+|异常松软|5|
+|松软|10|
+|坚实|15|
+|坚硬|20|</seg>
       </tuv>
     </tu>
     <tu>

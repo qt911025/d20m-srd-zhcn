@@ -369,7 +369,7 @@ unarmed strike	徒手击打
 grapple	擒抱
 Burst Fire	点射
 Exotic Melee Weapon	异种近战武器
-threat range	威胁范围
+threat range	重击威胁区间	要触发重击，攻击骰所必须触及的骰点区间，默认为20，若增加则向下变宽
 Living weapon	人间兵器
 Flying kick	飞踢
 Flurry of blows	疾风连击
@@ -407,7 +407,7 @@ fear	恐惧
 free action	即时动作
 Force Stop	逼停
 Spring Attack	跳跃攻击
-Surface Vehicle Operation	地面载具操作
+Surface Vehicle Operation	地表载具操作
 Vehicle Dodge	载具闪避
 Harm’s way	护卫
 Combat sense	战斗直觉
@@ -652,3 +652,42 @@ miss chance roll	失手几率骰
 Unarmed	徒手
 drop	倒下
 5-foot step	五尺快步
+fight defensively	防御式战斗
+Drive-By Attack	驾驶攻击
+cannon	加农炮
+heavy machine gun	重机枪
+grenade launcher	榴弹发射器
+rocket launcher	火箭筒
+Scale	尺度	不同情景适用不同的距离单位
+Stunt	特技	驾驶特技
+Bootleg Turn	甩尾
+driver	驾驶员
+sideswipe	侧击
+turn number	转向距离	车辆转向之前必须径直移动的距离。
+stationary speed	静止速度
+Guide	向导
+Heroic Surge	英勇
+provoke	引发	引发借机攻击指的都是给对方借机攻击的机会，自己利用借机攻击机会的是“进行借机攻击”
+threatened squares	威胁范围	借机攻击的威胁方格区域
+full normal rate of attacks	正常攻击速度
+long jump	跳远
+heavy load	重度负载
+Sunder	击碎
+heavy wheeled	重型轮式载具
+powerboat	汽艇
+sailboat	帆船
+ship	舰
+tracked	履带式载具
+semi-trucks	半挂牵引车
+armored personnel carrier	装甲输送车
+wheeled armored vehicle	轮式装甲车
+wheeled construction vehicle	轮式重机
+military vehicle	军用载具
+surface vehicle	地表载具
+Very soft	异常松软	地面情况
+Soft	松软	地面情况
+Firm	坚实	地面情况
+Hard	坚硬	地面情况
+rapier	长剑
+chain	锁链
+Whirlwind Attack	旋风攻击

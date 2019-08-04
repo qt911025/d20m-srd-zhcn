@@ -94,7 +94,7 @@ Table: Drawbacks
 |96–100|Weak Immune System |1|
 
 
-\* You may take this drawback multiple times. Its effects stack.
+\* You may take this drawback multiple times. 效果叠加。
 
 Hiding Physical Deformities
 Many mutations come with physical deformities. Some mutations are easy to hide, while others are harder to conceal.
@@ -111,7 +111,7 @@ ABILITY DECAY \[DRAWBACK\]
 Your body or mind suffers from some marked deformity or deterioration.
 MP Value: 4.
 Drawback: One of your ability scores (your choice) permanently decreases by 2. You cannot apply this drawback to an ability score of 3 or less.
-Special: You may take this drawback multiple times. Its effects stack.
+Special: You may take this drawback multiple times. 效果叠加。
 ACIDIC SALIVA \[MINOR\]
 Your saliva can burn other creatures like acid.
 MP Cost: 1.
@@ -302,7 +302,7 @@ REDUCED SPEED \[DRAWBACK\]
 You are unable to move as quickly as normal due to various mutations and deformities.
 MP Value: 3.
 Drawback: Reduce your speed by 5 feet. This speed decrease also applies to any natural burrow, climb, fly, or swim speed you might have.
-Special: You may take this drawback multiple times. Its effects stack.
+Special: You may take this drawback multiple times. 效果叠加。
 SCALY ARMOR \[MINOR\]
 Thick, overlapping scales cover your body. The scales are hard but dry to the touch.
 MP Cost: 3.
