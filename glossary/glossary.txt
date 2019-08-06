@@ -116,7 +116,7 @@ hero	英雄	PC，玩家的角色，统一译英雄了
 Profession	专业
 take 10	取10
 take 20	取20
-Aid Another	救急	帮人付钱
+Aid Another	协助他人
 sale value	售价
 defense	防御
 attack roll	攻击骰
@@ -194,7 +194,7 @@ Tiny	超小型
 Diminutive	微型
 Fine	超微型
 chemical	化学
-rank	级	技能的等级
+rank	级数	技能的等级
 cross-class skill	跨职技能
 Fort Save	强韧豁免	fortitude save的缩写
 Ref Save	反射豁免	reflex save 的缩写
@@ -691,3 +691,30 @@ Hard	坚硬	地面情况
 rapier	长剑
 chain	锁链
 Whirlwind Attack	旋风攻击
+Skill	技能
+skill point	技能点
+buy	提升	buy a skill不翻“购买技能”而是“提升技能”
+miscellaneous	其他
+Very easy	非常容易
+Easy	容易
+Average	一般
+Tough	棘手
+Challenging	有挑战性
+Formidable	难以克服
+Heroic	英雄壮举
+Superheroic	天降大任
+Nearly impossible	难于登天
+commando	突击队
+Skill Synergy	技能共效
+synergy	共效
+Stack	叠加
+cover	掩体
+competence	表现
+enlargement	巨化
+haste	加速术
+inherent	固有
+haste bonus	加速加值
+insight bonus	洞见加值
+profane	亵渎
+sacred	神圣
+descriptor	学名

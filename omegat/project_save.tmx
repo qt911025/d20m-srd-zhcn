@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># SKILL BASICS</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125139Z" creationid="quentine" creationdate="20190805T125139Z">
+        <seg># 技能概述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># STARTING OCCUPATION</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T084106Z" creationid="QuenTine" creationdate="20181104T084106Z">
@@ -198,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Ability Checks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T135617Z" creationid="quentine" creationdate="20190806T135617Z">
+        <seg>## 属性检定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Ability Damaged</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T115618Z" creationid="quentine" creationdate="20190115T115618Z">
@@ -230,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Acquiring Skill Ranks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T133357Z" creationid="quentine" creationdate="20190805T133357Z">
+        <seg>## 提升技能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Action Points</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T122051Z" creationid="quentine" creationdate="20190703T122051Z">
@@ -256,8 +280,16 @@
       <tuv lang="EN-US">
         <seg>## Aid Another</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T141446Z" creationid="QuenTine" creationdate="20181106T141446Z">
-        <seg>## 临时救急</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T134107Z" creationid="QuenTine" creationdate="20181106T141446Z">
+        <seg>## 协助他人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Aiding Another</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T134303Z" creationid="quentine" creationdate="20190806T133553Z">
+        <seg>## 协助他人</seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +378,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140400Z" creationid="QuenTine" creationdate="20181103T140400Z">
         <seg>## 魅力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Checks without Rolls</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T131032Z" creationid="quentine" creationdate="20190806T131032Z">
+        <seg>## 无需掷骰的检定</seg>
       </tuv>
     </tu>
     <tu>
@@ -466,6 +506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T114340Z" creationid="quentine" creationdate="20190114T114340Z">
         <seg>## 敏捷调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Difficulty Class</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T134842Z" creationid="quentine" creationdate="20190805T134842Z">
+        <seg>## 难度等级</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Favorable and Unfavorable Conditions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T123155Z" creationid="quentine" creationdate="20190806T123155Z">
+        <seg>## 有利和不利情况</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Feat Descriptions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T125015Z" creationid="quentine" creationdate="20190703T125015Z">
@@ -658,6 +714,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190227T042218Z" creationid="quentine" creationdate="20190227T042218Z">
         <seg>## 枪手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Getting Skills</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125226Z" creationid="quentine" creationdate="20190805T125226Z">
+        <seg>## 获取技能</seg>
       </tuv>
     </tu>
     <tu>
@@ -790,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Modifier Types and Stacking</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T140612Z" creationid="quentine" creationdate="20190806T140612Z">
+        <seg>## 调整值类型与叠加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Moral Philosophy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T081355Z" creationid="QuenTine" creationdate="20181104T081355Z">
@@ -850,6 +922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033332Z" creationid="QuenTine" creationdate="20181022T033332Z">
         <seg>## 开放游戏许可证1.0a版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Opposed Checks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T141242Z" creationid="quentine" creationdate="20190805T141242Z">
+        <seg>## 对抗检定</seg>
       </tuv>
     </tu>
     <tu>
@@ -1006,6 +1086,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Skill Checks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T134605Z" creationid="quentine" creationdate="20190805T134605Z">
+        <seg>## 技能检定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Skill Synergy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T134907Z" creationid="quentine" creationdate="20190806T134907Z">
+        <seg>## 技能共效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Smoke</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133714Z" creationid="quentine" creationdate="20190115T133714Z">
@@ -1150,10 +1246,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Taking 10</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T131400Z" creationid="quentine" creationdate="20190806T131400Z">
+        <seg>## 取10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Taking 10 and Taking 20</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T140218Z" creationid="QuenTine" creationdate="20181106T140218Z">
         <seg>## 取10和取20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Taking 20</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T132806Z" creationid="quentine" creationdate="20190806T132806Z">
+        <seg>## 取20</seg>
       </tuv>
     </tu>
     <tu>
@@ -1174,6 +1286,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Time and Skill Checks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T125521Z" creationid="quentine" creationdate="20190806T125521Z">
+        <seg>## 时间和技能检定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Tools</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T130419Z" creationid="quentine" creationdate="20190806T130419Z">
+        <seg>## 工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Touch Attacks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T124714Z" creationid="quentine" creationdate="20190114T124714Z">
@@ -1190,10 +1318,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Trying Again</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T142427Z" creationid="quentine" creationdate="20190805T142427Z">
+        <seg>## 重试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Unconscious</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T125425Z" creationid="quentine" creationdate="20190115T125425Z">
         <seg>## 昏迷</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Untrained Skill Checks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T122613Z" creationid="quentine" creationdate="20190806T122613Z">
+        <seg>## 未受训技能检定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Using Skills</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T131601Z" creationid="quentine" creationdate="20190805T131601Z">
+        <seg>## 使用技能</seg>
       </tuv>
     </tu>
     <tu>
@@ -3718,6 +3870,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Skill modifier = skill ranks + ability modifier + miscellaneous modifiers)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T131907Z" creationid="quentine" creationdate="20190805T131907Z">
+        <seg>（技能调整值 = 技能级数 + 属性调整值 + 其他调整值）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Some Knowledge skill modifiers might apply instead of the Int modifier, if the hero would be well known in the field covered by the Knowledge skill.) Modifiers to the Reputation check depend on the hero and the GM character in question, as shown below.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135640Z" creationid="QuenTine" creationdate="20181106T125535Z">
@@ -3760,8 +3920,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>(The maximum rank for a class skill is 3 + character level.)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T084716Z" creationid="quentine" creationdate="20190216T084716Z">
-        <seg>（职业技能等级上限=3+角色等级）</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125745Z" creationid="quentine" creationdate="20190216T084716Z">
+        <seg>（职业技能级数上限=3+角色等级）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3845,8 +4005,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>* +1 for having 1 to 4 ranks in the Profession skill.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063647Z" creationid="QuenTine" creationdate="20181106T135920Z">
-        <seg>* `专业`技能等级为1到4，则再加1</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125740Z" creationid="QuenTine" creationdate="20181106T135920Z">
+        <seg>* `专业`技能级数为1到4，则再加1</seg>
       </tuv>
     </tu>
     <tu>
@@ -3965,6 +4125,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T143206Z" creationid="quentine" creationdate="20190527T143021Z">
         <seg>**第3轮：** 范围内每个气场的气场强度清晰可辨。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Ability Modifier:** The ability modifier used in the skill check is the modifier for the skill’s key ability (the ability associated with the skill’s use).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T132858Z" creationid="quentine" creationdate="20190805T132858Z">
+        <seg>**属性调整值：** 用于技能检定的属性调整值指的是技能的`关键属性`（关系到技能使用的属性）的调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5612,8 +5780,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>**Improved Aid Another:** The Dedicated hero’s bonus on attempts to aid another increases by +1 on a successful aid another check.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T034817Z" creationid="quentine" creationdate="20190202T034817Z">
-        <seg>**精通救急：**感知型英雄在进行救急检定时额外获得一点加值。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T134323Z" creationid="quentine" creationdate="20190202T034817Z">
+        <seg>**精通协助他人：**感知型英雄在进行协助他人检定时额外获得一点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5718,6 +5886,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T130511Z" creationid="quentine" creationdate="20190116T130511Z">
         <seg>**近战强击：** 力量型英雄在近战攻击时获得1点伤害加成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Miscellaneous Modifiers:** Miscellaneous modifiers include bonuses provided by feats and class features, and penalties such as the ones associated with the nonproficient use of armor, among others.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T133223Z" creationid="quentine" creationdate="20190805T133223Z">
+        <seg>**其他调整值：** 其他调整值包括专长和职业专长提供的调整值，以及减值，如不擅长防具带来的减值等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5972,8 +6148,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>**Prerequisite:** A minimum ability score, another feat or feats, a minimum base attack bonus, and/or the minimum ranks in a skill that a character must have to acquire this feat.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T122123Z" creationid="quentine" creationdate="20190704T122123Z">
-        <seg>**要求：** 角色要拥有此专长所必需的最低属性值、其他专长、最低基础攻击加值以及最低技能等级。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125745Z" creationid="quentine" creationdate="20190704T122123Z">
+        <seg>**要求：** 角色要拥有此专长所必需的最低属性值、其他专长、最低基础攻击加值以及最低技能级数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6579,6 +6755,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Skill Ranks:** A character’s ranks in a skill is based on the number of skill points the character has invested in the skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T132011Z" creationid="quentine" creationdate="20190805T132011Z">
+        <seg>**技能级数：** 角色的技能级数取决于角色在该技能上投入了多少技能点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Skill:** Jump 3 ranks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T134715Z" creationid="quentine" creationdate="20190226T134715Z">
@@ -6701,8 +6885,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>**Skills:** For each skill, use either the normal skill ranks for a creature of its type or the Mage’s skill ranks, whichever is better.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190623T125636Z" creationid="quentine" creationdate="20190623T125636Z">
-        <seg>**技能：** 每个技能取魔宠一般技能等级与法师技能等级的最高者。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125745Z" creationid="quentine" creationdate="20190623T125636Z">
+        <seg>**技能：** 每个技能取魔宠一般技能级数与法师技能级数的最高者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7003,6 +7187,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Table: Difficulty Class Examples**</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T135122Z" creationid="quentine" creationdate="20190805T135122Z">
+        <seg>**表：难度等级示例**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Table: Example Opposed Checks**</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T141825Z" creationid="quentine" creationdate="20190805T141825Z">
+        <seg>**表：对抗检定示例**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Table: Skill Points per Level**</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T134146Z" creationid="quentine" creationdate="20190805T134146Z">
+        <seg>**表：每级技能点**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Table:** The Soldier</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T135943Z" creationid="quentine" creationdate="20190221T135943Z">
@@ -7271,6 +7479,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033847Z" creationid="QuenTine" creationdate="20181022T033847Z">
         <seg>1、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>1d20 + skill modifier</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T131646Z" creationid="quentine" creationdate="20190805T131646Z">
+        <seg>1d20 + 技能调整值</seg>
       </tuv>
     </tu>
     <tu>
@@ -7923,8 +8139,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>A Techie’s robot can only contain programming for one skill.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190523T131803Z" creationid="quentine" creationdate="20190523T131803Z">
-        <seg>技师机器人只能习得一种技能。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T132628Z" creationid="quentine" creationdate="20190523T131803Z">
+        <seg>技师机器人只能拥有一个技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7977,6 +8193,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A bonus on a character’s skill modifier or a reduction in the DC of the check have the same result—they create a better chance for success.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T125450Z" creationid="quentine" creationdate="20190806T125450Z">
+        <seg>角色技能调整值的增加和DC的降低结果是相同的——都是让成功机会更大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A celebrity is anyone who, for whatever reason, has been thrust into the spotlight of the public eye.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T124206Z" creationid="QuenTine" creationdate="20181104T124206Z">
@@ -7985,10 +8209,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character aids another by making a skill check (DC 10).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T134355Z" creationid="quentine" creationdate="20190806T134049Z">
+        <seg>角色通过做一个技能检定（DC10）来给予协助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character also cannot legally sell objects that have been reported as stolen.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T073134Z" creationid="quentine" creationdate="20190112T073134Z">
         <seg>角色也不能合法的出售被通报失窃的赃物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character also can’t take 10 when using a skill untrained, though the GM may allow exceptions for truly routine activities.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T132757Z" creationid="quentine" creationdate="20190806T132757Z">
+        <seg>角色使用未受训的技能也不能取10，但是GM可能会破例允许。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8221,6 +8461,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T081702Z" creationid="quentine" creationdate="20190216T081702Z">
         <seg>角色在另一个职业中获得等级，就成了一个跨职角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character may be able to put together some impromptu tools to make the check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T130742Z" creationid="quentine" creationdate="20190806T130742Z">
+        <seg>角色可能会收集一些临时工具来替代，进行技能检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8689,6 +8937,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A modifier provides a bonus (a positive modifier) or a penalty (a negative modifier) to a die roll.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T140710Z" creationid="quentine" creationdate="20190806T140710Z">
+        <seg>调整值为骰点提供一个加值（正调整值）或者一个减值（负调整值）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A multiclass character increases one ability score by +1 every four character levels, regardless of individual class level.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T091219Z" creationid="quentine" creationdate="20190216T091219Z">
@@ -8707,8 +8963,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>A multiclass hero uses his or her character level to determine the maximum ranks the hero can have in a skill.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T084416Z" creationid="quentine" creationdate="20190216T084236Z">
-        <seg>跨职英雄的技能等级上限由角色等级决定。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125745Z" creationid="quentine" creationdate="20190216T084236Z">
+        <seg>跨职英雄的技能级数上限由角色等级决定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8877,6 +9133,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T142652Z" creationid="quentine" creationdate="20190201T142652Z">
         <seg>一次检定能解决一分钟的口头语言和一页书面语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A skill check represents an attempt to accomplish some goal, usually in the face of time pressure or distraction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T131418Z" creationid="quentine" creationdate="20190806T131252Z">
+        <seg>一个技能检定代表角色尝试完成一些目标，通常这些活动都是在各种时间压力或分心的情况下完成的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9547,8 +9811,16 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>All other skills, including skills for another class the hero has levels in, are considered cross-class skills when ranks in those skills are purchased at this level.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T090236Z" creationid="quentine" creationdate="20190216T090013Z">
-        <seg>所有其他技能，包括角色拥有这个职业的职业技能，将被视为跨职技能来加点。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T130329Z" creationid="quentine" creationdate="20190216T090013Z">
+        <seg>所有其他技能，包括角色拥有这个职业的职业技能，将被视为跨职技能来提升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All penalties stack, regardless of their descriptors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T143104Z" creationid="quentine" creationdate="20190806T143104Z">
+        <seg>所有减值完全叠加，不管学名是什么。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10041,6 +10313,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any bonus without a descriptor (such as simply a “+1 bonus”) stacks with other bonuses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T143020Z" creationid="quentine" creationdate="20190806T143020Z">
+        <seg>任何没有学名的加值（比如简单的“1点加值”）可与其他加值叠加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any creature capable of telling the difference between itself and things that are not itself has at least 1 point of Charisma.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140439Z" creationid="QuenTine" creationdate="20181103T140439Z">
@@ -10475,8 +10755,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>At 10th level, the Field Scientist gains a +2 bonus on Reputation checks when dealing with individuals who have at least 1 rank in any of the following Knowledge skills: behavioral sciences, earth and life sciences, physical sciences, or technology.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190518T133051Z" creationid="quentine" creationdate="20190518T133051Z">
-        <seg>10级时，战地科学家与在行为科学、地球与生命科学、物理科学或技术这四个知识技能中，任一技能拥有等级的人，进行声望检定时有2点加值。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125846Z" creationid="quentine" creationdate="20190518T133051Z">
+        <seg>10级时，战地科学家与在行为科学、地球与生命科学、物理科学或技术这四个知识技能中，任一技能拥有级数的人，进行声望检定时有2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11281,6 +11561,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At each level, a character gets skill points that are used to buy skills.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T130858Z" creationid="quentine" creationdate="20190805T125407Z">
+        <seg>每一级，角色获得技能点来提升技能级数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At each level, the Battle Mind discovers one or more previously latent powers, as indicated on the table below.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190621T131354Z" creationid="quentine" creationdate="20190621T131354Z">
@@ -11513,6 +11801,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bonuses with specific descriptors, such as “equipment bonus,” generally don’t stack (combine for cumulative effect) with others of the same type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T140937Z" creationid="quentine" creationdate="20190806T140937Z">
+        <seg>带有特定学名的加值，比如“装备加值”，一般无法与其他同类型加值堆叠（效果相加）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brewing a potion takes 24 hours.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190624T140233Z" creationid="quentine" creationdate="20190624T140233Z">
@@ -11533,6 +11829,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190522T141404Z" creationid="quentine" creationdate="20190522T141404Z">
         <seg>构造师、谨慎、寓守于攻、良好教育、技术宅、擅长单兵火器、近程射击、好学。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But they represent different circumstances, and sometimes that difference is important.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T125511Z" creationid="quentine" creationdate="20190806T125511Z">
+        <seg>但它们代表了不同的情景，有时这种区别很重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11649,6 +11953,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Check the skill description to find out if, and under what circumstances, a character can try again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T142558Z" creationid="quentine" creationdate="20190805T142558Z">
+        <seg>检查技能描述看是否可以，以及何种情况允许重试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check with your GM before selecting an advanced class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T133519Z" creationid="quentine" creationdate="20190221T133519Z">
@@ -11733,6 +12045,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T095050Z" creationid="QuenTine" creationdate="20181104T095050Z">
         <seg>从以下职业背景中选择自己角色的职业背景，获得相应的奖励。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Circumstance bonuses stack only if they’re provided by differing circumstances; if two circumstance bonuses caused by similar circumstances apply, they don’t stack.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T141410Z" creationid="quentine" creationdate="20190806T141410Z">
+        <seg>不同的情景提供的加值可叠加；两个情景加值若由相似的情景提供，则不可叠加。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11845,6 +12165,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190627T134242Z" creationid="quentine" creationdate="20190627T134242Z">
         <seg>专注（体）、制造（结构、视觉艺术、写作）（智）、交涉（魅）、知识（行为科学、地球与生命科学、神学与哲学）（智）、聆听（感）、专业（感）、读写语言（无）、察言观色（感）、口头语言（无）、辨识法术（智）、医疗（感）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conditions that affect a character’s ability to perform the skill change the character’s skill modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T125214Z" creationid="quentine" creationdate="20190806T125214Z">
+        <seg>影响角色使用技能能力的情况改变的是角色的技能调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conditions that modify how well the character must perform the skill to succeed change the DC.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T125329Z" creationid="quentine" creationdate="20190806T125329Z">
+        <seg>影响角色的技能使用成功标准的情况改变的是DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11987,8 +12323,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>Decide how many ranks of the appropriate skill to program into the robot, up to the number of ranks the Techie has in the skill.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190523T132311Z" creationid="quentine" creationdate="20190523T131724Z">
-        <seg>这一步由技师决定要为机器人赋予多少等级的技能，最高不能超过技师自己的技能等级。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125745Z" creationid="quentine" creationdate="20190523T131724Z">
+        <seg>这一步由技师决定要为机器人赋予多少等级的技能，最高不能超过技师自己的技能级数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12086,6 +12422,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distractions and threats make it impossible for a character to take 10.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T131945Z" creationid="quentine" creationdate="20190806T131945Z">
+        <seg>分心和威胁会让角色无法取10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dodge Bonuses: Some other Defense bonuses represent actively avoiding blows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T124144Z" creationid="quentine" creationdate="20190114T124144Z">
@@ -12112,8 +12456,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>Doing this requires 1 hour of work and a Computer Use check (DC 20 + the number of ranks programmed into the robot).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190523T132246Z" creationid="quentine" creationdate="20190523T132246Z">
-        <seg>重新编程需要再花费一小时进行计算机使用技能检定，（DC20+要编程赋予技能的等级）</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T130529Z" creationid="quentine" creationdate="20190523T132246Z">
+        <seg>重新编程需要再花费一小时进行计算机使用技能检定，（DC20+要编程赋予技能的级数）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12174,10 +12518,18 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each skill has a number of ranks, from 0 (for a skill in which a character has no training at all) to 23 (for a 20th-level character who has increased a class skill to its maximum rank).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T133705Z" creationid="quentine" creationdate="20190805T133705Z">
+        <seg>每个技能都有级数，从0（角色完全未训练此技能）到23（20级的角色将本职技能级数升至最高）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each skill point buys a half rank in these cross-class skills, and a character can only buy up to half the maximum ranks of a class skill.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115345Z" creationid="quentine" creationdate="20190116T115345Z">
-        <seg>每点技能点能加半级跨职技能，跨职技能等级上限为本职技能等级上限的一半。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125745Z" creationid="quentine" creationdate="20190116T115345Z">
+        <seg>每点技能点能加半级跨职技能，跨职技能级数上限为本职技能级数上限的一半。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12654,10 +13006,18 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For many relatively routine tasks, taking 10 results in a success.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T131920Z" creationid="quentine" creationdate="20190806T131920Z">
+        <seg>很多日常工作，取10就能成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For skilled experts, the purchase DC is 10 + the ranks the expert has in the appropriate skill.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190526T084441Z" creationid="quentine" creationdate="20190526T084441Z">
-        <seg>求助专家的购买DC = 10 + 专家提供技能帮助的技能等级。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125745Z" creationid="quentine" creationdate="20190526T084441Z">
+        <seg>求助专家的购买DC = 10 + 专家提供技能帮助的技能级数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12666,6 +13026,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190802T140414Z" creationid="quentine" creationdate="20190226T131115Z">
         <seg>士兵所有拥有`专精武器`专长的武器，其重击威胁区间+1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For ties on opposed checks, the character with the higher key ability score wins.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T141751Z" creationid="quentine" creationdate="20190805T141505Z">
+        <seg>在对抗检定中，结果较高者胜，结果平则关键属性高者胜。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12734,6 +13102,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Generally, if a character attempts to use a skill he or she doesn’t have any ranks in, the character makes a skill check as described.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T122814Z" creationid="quentine" creationdate="20190806T122814Z">
+        <seg>一般情况下，如果角色试图使用一个零级数的技能，角色还是可以按技能的描述做技能检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generally, when a hero is subject to an unusual or magical attack, he or she gets a saving throw to avoid or reduce the effect.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T130033Z" creationid="quentine" creationdate="20190114T130033Z">
@@ -12746,6 +13122,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T061122Z" creationid="QuenTine" creationdate="20181106T140141Z">
         <seg>获得许可证或购买管制物品会增加购买所花费的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Give the skill user a +2 circumstance bonus to represent conditions that improve performance, such as having the perfect tool for the job, getting help from another character, or working under conditions that are significantly better than normal.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T124124Z" creationid="quentine" creationdate="20190806T123904Z">
+        <seg>给技能使用者2点情景加值代表优异表现，例如有很好的工具，从其他人那里获得帮助，或者以超常状态完成工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Give the skill user a –2 circumstance penalty to represent conditions that hamper performance, such as being forced to use improvised tools or possessing misleading information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T124231Z" creationid="quentine" creationdate="20190806T123951Z">
+        <seg>给使用者2点情景减值代表不佳表现，例如被迫使用临时工具或者被错误信息误导。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12958,6 +13350,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the GM can impose limits depending on circumstances and a given situation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T134114Z" creationid="quentine" creationdate="20190805T134046Z">
+        <seg>然而，GM可以根据实际情况强行限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the character receives a –2 penalty on his or her attack roll, and the character’s attack deals –1 die of damage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190804T122320Z" creationid="quentine" creationdate="20190804T122249Z">
@@ -12986,6 +13386,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T071729Z" creationid="quentine" creationdate="20190112T071729Z">
         <seg>如果角色出售了售价小于等于角色当前财富加值的物品，且售价小于等于14，角色不会增加任何财富值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If a character fails on a skill check, he or she can sometimes try again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T142515Z" creationid="quentine" creationdate="20190805T142515Z">
+        <seg>如果角色技能检定失败，有时可以再试一次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13032,8 +13440,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>If a skill is a class skill for any of a multiclass hero’s classes, then use character level to determine a skill’s maximum rank.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T084619Z" creationid="quentine" creationdate="20190216T084342Z">
-        <seg>若技能是一个职业技能，且跨职英雄有这个职业，则可用角色等级决定该技能的上限。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T130114Z" creationid="quentine" creationdate="20190216T084342Z">
+        <seg>若技能是一个职业技能，且跨职英雄有这个职业，则可用角色等级决定该技能的级数上限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13238,6 +13646,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the GM allows it, reduce the penalty to –2 (instead of –4) for using impromptu tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T130837Z" creationid="quentine" creationdate="20190806T130823Z">
+        <seg>如果GM允许这么做，使用临时工具使技能检定受2点减值（而非4点）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the GM character succeeds at the Reputation check, he or she recognizes the hero.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T125744Z">
@@ -13296,8 +13712,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>If the attempt is successful, that character provides the purchaser with a +2 bonus on his or her Wealth check.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T141532Z" creationid="QuenTine" creationdate="20181106T141532Z">
-        <seg>如果尝试成功，救急者会为购买者的财富检定额外+2。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T134201Z" creationid="QuenTine" creationdate="20181106T141532Z">
+        <seg>如果尝试成功，协助者会为购买者的财富检定额外+2。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13318,6 +13734,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character buys a class skill, he or she gets 1 rank in the skill for each skill point spent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T131320Z" creationid="quentine" creationdate="20190805T131320Z">
+        <seg>如果角色提升的是本职技能，每花费1点技能点可提升一个级数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character buys a cross-class skill, he or she gets ½ rank per skill point.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T131403Z" creationid="quentine" creationdate="20190805T131403Z">
+        <seg>如果角色提升的是跨职技能，每花费1点技能点可提升1/2个级数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character can’t react to a blow, he or she can’t use his or her Dexterity bonus to Defense.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T115445Z" creationid="quentine" creationdate="20190114T115148Z">
@@ -13330,6 +13762,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T135950Z" creationid="quentine" creationdate="20190114T135950Z">
         <seg>结果取数次投骰结果的最高值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character doesn’t have the appropriate tools, he or she can still attempt to use the skill, but the character takes a –4 penalty on his or her check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T130603Z" creationid="quentine" creationdate="20190806T130603Z">
+        <seg>如果角色没有合适的工具，还是可以使用这个技能，但检定时要受4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13542,6 +13982,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the check succeeds, the character’s ally gains a +2 circumstance bonus to apply to his or her skill check to complete the task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T134505Z" creationid="quentine" creationdate="20190806T134505Z">
+        <seg>如果检定成功，角色的盟友完成此任务的技能检定获得2点情景加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the check succeeds, the dead character can make a Fortitude save (DC 15) to stabilize and be restored to 0 hit points.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T142938Z" creationid="quentine" creationdate="20190524T132045Z">
@@ -13618,6 +14066,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190523T140728Z" creationid="quentine" creationdate="20190523T135146Z">
         <seg>如果消耗的经验值让剩余经验不足以满足技师当前职业等级所需，则无法消耗经验值，此制造过程不可进行，只有消耗经验而不降级才可制造大师级工艺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the game setting includes magic or other supernatural effects, there can also be deflection, enhancement, enlargement, haste, inherent, insight, luck, profane, resistance, and sacred bonus descriptors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T142832Z" creationid="quentine" creationdate="20190806T142002Z">
+        <seg>如果游戏设定包括了魔法或者其他超自然效果，还将包括偏斜、增强、巨化、加速、固有、洞见、运气、亵渎、抗力、神圣这些加值学名。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13830,10 +14286,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the use of a skill carries no penalty for failure, a character can take 20 and assume that he or she keeps trying until he or she eventually succeeds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T143038Z" creationid="quentine" creationdate="20190805T143038Z">
+        <seg>如果一些技能的使用没有失败惩罚，角色可以`取20`，表示不断尝试直到成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is no particular drawback to not possessing the feat, this entry is absent.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T122926Z" creationid="quentine" creationdate="20190704T122926Z">
         <seg>如果不具有此专长的人物不会有特定的劣势，则本项缺省。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If those scores are the same, roll again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T141811Z" creationid="quentine" creationdate="20190805T141537Z">
+        <seg>如果仍相同，则再投掷一遍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If tools are needed, the specific items required are mentioned in the skill description.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T130518Z" creationid="quentine" creationdate="20190806T130518Z">
+        <seg>如果技能需要工具，技能描述会提到需要哪些物品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14166,6 +14646,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In general, using a skill that requires concentration while in close combat is dangerous.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T130202Z" creationid="quentine" creationdate="20190806T130202Z">
+        <seg>一般来说，在靠近战斗的地方使用一个需要专注的技能是很危险的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In many cases, a character’s help won’t be beneficial, or only a lim-ited number of characters can help at the same time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T134728Z" creationid="quentine" creationdate="20190806T134728Z">
+        <seg>在很多情况下，角色的协助没什么用，或者只有有限数量的角色能同时给予协助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In most campaigns any creatures other than humans, animals, and vermin are considered denizens of Shadow.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190613T134848Z" creationid="quentine" creationdate="20190527T135850Z">
@@ -14214,6 +14710,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In some cases, a test of one’s ability doesn’t involve luck.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T135919Z" creationid="quentine" creationdate="20190806T135919Z">
+        <seg>有些情况下，对角色能力的考验与运气无关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In some sense, the familiar and the Mage who controls it are practically one being.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190623T122906Z" creationid="quentine" creationdate="20190623T122906Z">
@@ -14222,10 +14726,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In some situations, characters can cooperate to accomplish a given task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T133634Z" creationid="quentine" creationdate="20190806T133634Z">
+        <seg>在一些情况下，多个角色可以合作来完成任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In such cases, the benefit translates into a Wealth award.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064113Z" creationid="quentine" creationdate="20190112T064113Z">
         <seg>在这种情况下，这样的财宝会转为财富的奖励。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In such cases, the character receives a +2 synergy bonus on the skill check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T135612Z" creationid="quentine" creationdate="20190806T135612Z">
+        <seg>在这些情况下，角色进行技能检定时将获得2点共效加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the case of identical scores, make opposed Strength checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T140141Z" creationid="quentine" creationdate="20190806T140141Z">
+        <seg>如果对抗结果相同，力量大的一方胜。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14262,6 +14790,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In these cases, the character makes an ability check: Roll 1d20 and apply the appropriate ability modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T135741Z" creationid="quentine" creationdate="20190806T135741Z">
+        <seg>在这些情况下，角色进行属性检定：掷1d20+合适的属性调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this case, it’s a step up along the road to recovery, and the character can have fewer than 0 hit points (see Stable Characters and Recovery).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T150517Z" creationid="quentine" creationdate="20190114T150517Z">
@@ -14274,6 +14810,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T135422Z" creationid="quentine" creationdate="20190114T135422Z">
         <seg>花掉的这个行动点不是用来增强d20的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In those cases, only the best bonus of that type applies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T140958Z" creationid="quentine" creationdate="20190806T140958Z">
+        <seg>这些情况下，该类型的加值取最大值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14294,6 +14838,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increase the DC by 2 to represent circumstances that make the task harder, such as making a Perform check in front of a hostile audience or searching for information on a very poorly documented topic with a Computer Use check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T125050Z" creationid="quentine" creationdate="20190806T124814Z">
+        <seg>增加2点DC 代表让任务变得困难的情景，例如做表演检定时遇到不友好的观众，或者做计算机使用检定时，在一团乱麻般的文件中检索信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indeed, the only way for an Occultist to cast an arcane spell is by using a scroll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190613T122809Z" creationid="quentine" creationdate="20190613T122809Z">
@@ -14306,6 +14858,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T124547Z">
         <seg>骂名会让英雄被认出时进行魅力相关技能检定会获得减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead of rolling 1d20 for the skill check, calculate the result as if the character had rolled a 10 (an average roll on a d20).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T133223Z" creationid="quentine" creationdate="20190806T131844Z">
+        <seg>取10，而非掷1d20来进行技能检定，就当作是角色直接掷出了10（d20的平均结果）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead of rolling 1d20 for the skill check, calculate the result as if the character had rolled a 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T133203Z" creationid="quentine" creationdate="20190806T133203Z">
+        <seg>取20，而非掷1d20来进行技能检定，就当作是角色直接掷出了20。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14470,6 +15038,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It might take no time at all.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T125608Z" creationid="quentine" creationdate="20190806T125608Z">
+        <seg>也可能完全不花时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It never interferes with her own spells, and she can voluntarily lower her spell resistance at any time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190613T122436Z" creationid="quentine" creationdate="20190613T122324Z">
@@ -14562,6 +15138,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190518T125900Z" creationid="quentine" creationdate="20190518T125900Z">
         <seg>使用此专长需要耗费一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It usually takes some time (several minutes to an hour or more) to collect or create a set of impromptu tools, and it may require a skill check as well.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T130958Z" creationid="quentine" creationdate="20190806T130958Z">
+        <seg>收集或制造临时工具通常也需要花时间（几分钟到一小时甚至更多），这个过程也需要技能检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14704,6 +15288,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many skills, however, have natural consequences for failing that must be accounted for.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T142829Z" creationid="quentine" creationdate="20190805T142829Z">
+        <seg>然而许多技能的成功率受实际情况影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many starting occupations have a prerequisite that the character must meet to qualify for the occupation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T084844Z" creationid="QuenTine" creationdate="20181104T084844Z">
@@ -14794,8 +15386,16 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>Natural Armor: Some creatures have natural armor, which usually consists of scales, fur, or layers of thick muscle.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T124052Z" creationid="quentine" creationdate="20190114T124026Z">
-        <seg>天然护甲：有的生物具有天然护甲，通常为鳞片、毛皮或厚肉。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T141809Z" creationid="quentine" creationdate="20190114T124026Z">
+        <seg>天生护甲：有的生物具有天生护甲，通常为鳞片、毛皮或厚肉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nearby op-ponents can make attacks of opportunity against a character when he or she lets his or her guard down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T130414Z" creationid="quentine" creationdate="20190806T130414Z">
+        <seg>附近的对手可以对无防备的自己发动借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14820,6 +15420,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T111824Z" creationid="QuenTine" creationdate="20181022T111824Z">
         <seg>许可证的任何条款都不能增删，除非许可证有特殊说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>None of these bonuses stack.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T142848Z" creationid="quentine" creationdate="20190806T142848Z">
+        <seg>这些加值都不能叠加。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15048,6 +15656,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One character is designated as the leader in the effort, while the others try to aid the character in his or her efforts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T133848Z" creationid="quentine" creationdate="20190806T133848Z">
+        <seg>制定一个角色为主力，其他人帮助主力完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>One hour after a tended, dying character becomes stable, he or she makes a Fortitude save (DC 20) to regain consciousness.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112800Z" creationid="quentine" creationdate="20190115T112800Z">
@@ -15074,8 +15690,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>One other character can make an aid another attempt to help a character purchase an object or service.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T141504Z" creationid="QuenTine" creationdate="20181106T141504Z">
-        <seg>一个角色可以在别的角色购买的时候尝试救急。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T134154Z" creationid="QuenTine" creationdate="20181106T141504Z">
+        <seg>一个角色可以在别的角色购买的时候尝试协助。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15110,8 +15726,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>Only that class’s class skills may be purchased as class skills.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T090215Z" creationid="quentine" creationdate="20190216T085139Z">
-        <seg>只有这个职业的技能被当作本职技能来加点。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T130640Z" creationid="quentine" creationdate="20190216T085139Z">
+        <seg>只有这个职业的技能被当作本职技能来提升。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15318,8 +15934,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>Prerequisite: At least 1 rank in either Read/Write Language or Speak Language for each of three different languages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T144604Z" creationid="quentine" creationdate="20190201T142753Z">
-        <seg>要求：至少有三门不同的语言在读写或口头上拥有等级。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125846Z" creationid="quentine" creationdate="20190201T142753Z">
+        <seg>要求：至少有三门不同的语言在读写或口头上拥有级数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15548,6 +16164,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ranks indicate how much training or experience a character has with a given skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T133450Z" creationid="quentine" creationdate="20190805T133450Z">
+        <seg>级数代表角色此技能的训练程度和经验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduce the DC by 2 to represent circumstances that make the task easier, such as having a friendly audience when making a Perform check or searching for information on an extremely well documented topic with a Computer Use check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T124824Z" creationid="quentine" creationdate="20190806T124736Z">
+        <seg>降低2点DC代表让任务变得容易的情景，例如做表演检定时遇到友好的观众，或者做计算机使用检定时，检索一组编排得井井有条的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reformation: If any provision of this License is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T113353Z" creationid="QuenTine" creationdate="20181022T113353Z">
@@ -15696,6 +16328,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190804T135019Z" creationid="quentine" creationdate="20190804T135019Z">
         <seg>见医疗技能描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the skill description for specifies on how long a skill takes to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T130035Z" creationid="quentine" creationdate="20190806T130035Z">
+        <seg>一个技能的使用要花多长时间详见各个技能的描述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15908,10 +16548,18 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some checks are made against a Difficulty Class (DC).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T134912Z" creationid="quentine" creationdate="20190805T134912Z">
+        <seg>有些检定用来对抗一个难度等级（DC）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some combination of base attack bonus, feats, and skill ranks determines whether a character is eligible to gain a level in an advanced class.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T134327Z" creationid="quentine" creationdate="20190221T134327Z">
-        <seg>基础攻击加值、专长和技能等级的要求一起决定了角色是否能提升这个高级职业的等级。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125745Z" creationid="quentine" creationdate="20190221T134327Z">
+        <seg>基础攻击加值、专长和技能级数的要求一起决定了角色是否能提升这个高级职业的等级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15940,6 +16588,54 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some situations may make a skill easier or harder to use, resulting in a bonus or penalty to the skill modifier or a change to the skill check’s DC.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T123356Z" creationid="quentine" creationdate="20190806T123356Z">
+        <seg>有些情况会让技能的使用变得更容易或更难，体现为额外的技能检定加值或减值，或者是改变检定DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some skill applications require the use of tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T130443Z" creationid="quentine" creationdate="20190806T130443Z">
+        <seg>一些技能的应用需要使用工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some skill checks are opposed checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T141316Z" creationid="quentine" creationdate="20190805T141255Z">
+        <seg>一些技能检定是对抗检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some skills can be used even if the character has no ranks in the skill; doing this is known as making an untrained skill check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T132150Z" creationid="quentine" creationdate="20190805T132150Z">
+        <seg>一些技能可在角色没有级数的情况下使用，称为“做一次未受训技能检定”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some skills can be used only if the character is trained in the skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T123130Z" creationid="quentine" creationdate="20190806T123130Z">
+        <seg>一些技能只能在角色受训过后才能使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some skills can’t be tried again once a check has failed for a particular task.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T142917Z" creationid="quentine" creationdate="20190805T142917Z">
+        <seg>一些技能在特定任务中一旦失败便不能重试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some starting occupations provide a Reputation bonus or a bonus feat (in addition to the two feats a 1st-level character already receives).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T091840Z" creationid="QuenTine" creationdate="20181104T091840Z">
@@ -15960,6 +16656,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T123335Z" creationid="quentine" creationdate="20190116T123008Z">
         <seg>在点选部分天赋时需遵循该天赋树的点选顺序，其他天赋则可任意选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes a character tries to do something to which no specific skill applies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T135657Z" creationid="quentine" creationdate="20190806T135657Z">
+        <seg>有时角色做的事情没有技能可以对应。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15996,10 +16700,34 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sometimes, the GM may decide that having one skill provides a bonus when a character uses another skill in certain situations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T135146Z" creationid="quentine" creationdate="20190806T135146Z">
+        <seg>有时候，GM在特定情况下可决定，角色掌握某个技能可以给另一个技能的使用带来加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Sometimes, though, a character can use a skill under more favorable conditions and eliminate the luck factor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T131348Z" creationid="quentine" creationdate="20190806T131348Z">
+        <seg>但有时候，角色可以在更有利的情况下排除运气因素来使用技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spacecraft are vehicles such as the space shuttle and the lunar lander.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T131010Z" creationid="quentine" creationdate="20190704T131010Z">
         <seg>太空飞船是诸如航天飞机和登月舱一类的载具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Specific bonuses that don’t stack include competence, cover, equipment, morale, natural armor, and size.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T141750Z" creationid="quentine" creationdate="20190806T141750Z">
+        <seg>还有一些不可叠加的加值，包括表现加值、掩体加值、装备加值、士气加值、天生护甲加值、体型加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16188,10 +16916,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Taking 20 is the equivalent of attempting the check over and over again until the character gets it right.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T133317Z" creationid="quentine" creationdate="20190806T133317Z">
+        <seg>取20等价于角色不断地尝试检定直到成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Taking 20 requires 20 times as long as normal.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T123202Z" creationid="QuenTine" creationdate="20181106T140349Z">
         <seg>取20消耗的时间是对应的正常情况交易所花时间的20倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Taking 20 takes twenty times as long as making a single check (2 minutes for a skill that can normally be checked in 1 round).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T133546Z" creationid="quentine" creationdate="20190806T133546Z">
+        <seg>取20要花费单次技能检定时间的20倍（1轮的检定时间，取20就要花2分钟）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16590,8 +17334,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>The DC for the Computer Use check is 20, modified by the number of ranks the Techie wants to program into the robot (+1 to the DC for each rank).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190523T132043Z" creationid="quentine" creationdate="20190523T131842Z">
-        <seg>基准DC为20，每一级要赋予的技能使DC+1。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T130452Z" creationid="quentine" creationdate="20190523T131842Z">
+        <seg>基准DC为20，每一级数要赋予的技能使DC+1。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16664,6 +17408,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190526T112841Z" creationid="quentine" creationdate="20190526T112841Z">
         <seg>DC = 10 + 明星职业技能 + 明星的魅力加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DC is a number set by the GM (using the skill rules as a guideline) that a character must attain to succeed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T135059Z" creationid="quentine" creationdate="20190805T135059Z">
+        <seg>DC是由GM所设置的（以该技能的规则为参考），检定结果必须不小于DC才能成功。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16844,6 +17596,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The GM assigns a DC, or sets up an opposed check when two characters are engaged in a contest using one ability against another.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T135833Z" creationid="quentine" creationdate="20190806T135833Z">
+        <seg>GM给定DC，如果时两个角色相互对抗则设置一个对抗检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM can alter the odds of success in four ways to take into account exceptional circumstances:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T123525Z" creationid="quentine" creationdate="20190806T123525Z">
+        <seg>在某些特殊情况下，GM可以以四种方式调整成功的概率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The GM can assign the scores as he or she sees fit.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T121523Z" creationid="quentine" creationdate="20190703T121523Z">
@@ -16872,6 +17640,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190612T131211Z" creationid="quentine" creationdate="20190612T131211Z">
         <seg>GM决定严重失误的后果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM limits aid another attempts as he or she sees fit for the conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T134809Z" creationid="quentine" creationdate="20190806T134809Z">
+        <seg>GM酌情限制协助者的人数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17494,8 +18270,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>The Techie must have at least 1 rank in the skill that he wants to program into the robot.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190522T142131Z" creationid="quentine" creationdate="20190522T142131Z">
-        <seg>前提是技师得习得需要操作机器人去使用的技能。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T132600Z" creationid="quentine" creationdate="20190522T142131Z">
+        <seg>前提是技师至少得拥有1级需要操作机器人去使用的技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18036,6 +18812,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character does get other modifiers, though, such as the ability modifier for the skill’s key ability.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T123034Z" creationid="quentine" creationdate="20190806T123034Z">
+        <seg>但角色仍可受益于其他调整值，比如技能的关键属性调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character gains a +4 bonus on any attack roll made to attack an object held or carried by another character.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190804T125014Z" creationid="quentine" creationdate="20190804T125014Z">
@@ -18188,6 +18972,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character must have at least 5 ranks in the related skill to gain this synergy bonus, and the GM must agree that the two skills can complement each other in the given situation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T135515Z" creationid="quentine" creationdate="20190806T135515Z">
+        <seg>角色相关技能必须至少为5级才能提供共效加值，而且必须征得GM认同在使用的情景两个技能能相互增益。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character must make another Survival check every time the tracks become difficult to follow.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190804T135536Z" creationid="quentine" creationdate="20190804T135514Z">
@@ -18238,8 +19030,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>The character who provides the aid reduces his or her Wealth bonus by +1.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T141606Z" creationid="QuenTine" creationdate="20181106T141606Z">
-        <seg>救急者的财富加值会减少一点。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T134246Z" creationid="QuenTine" creationdate="20181106T141606Z">
+        <seg>协助者的财富加值会减少一点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18300,10 +19092,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character’s class and Intelligence modifier determine the number of points received.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T131002Z" creationid="quentine" creationdate="20190805T131002Z">
+        <seg>角色的职业和智力调整值决定该获得多少技能点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character’s current hit point total remains where it is, however, even though it’s negative.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112206Z" creationid="quentine" creationdate="20190115T112206Z">
         <seg>角色当前的生命值会维持原状，即使生命值为负数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character’s skill modifier don’t include skill ranks because the character doesn’t have any.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T122859Z" creationid="quentine" creationdate="20190806T122859Z">
+        <seg>角色的技能调整值不包括技能级数，因为没有。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18894,9 +19702,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>The hero must have ranks in the skill if it is Trained Only.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T102623Z" creationid="quentine" creationdate="20190201T134851Z">
-        <seg>需受训的技能必须习得这个技能才可选。
-&gt; 译者注：`习得`即在这个技能上拥有等级，需受训的技能必须习得才能使用，不需受训的技能可以以0级的效果参与检定。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T132356Z" creationid="quentine" creationdate="20190201T134851Z">
+        <seg>需受训的技能必须在此技能上拥有级数才可选。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18941,6 +19748,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The key ability of a skill is noted in its description.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T132944Z" creationid="quentine" creationdate="20190805T132944Z">
+        <seg>关键属性在技能描述中列出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The loss is permanent.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T120255Z" creationid="quentine" creationdate="20190115T120255Z">
@@ -18965,10 +19780,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The maximum rank in a class skill is equal to character level + 3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T131521Z" creationid="quentine" creationdate="20190805T131521Z">
+        <seg>本职技能最高级数为角色等级+3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The maximum rank in a cross-class skill is one-half of this number.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T131557Z" creationid="quentine" creationdate="20190805T131557Z">
+        <seg>跨职技能最高级数为该值的一半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The maximum ranks a character can have in a class skill is the character’s level +3.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115148Z" creationid="quentine" creationdate="20190116T115148Z">
-        <seg>本职技能等级最高能升到角色等级+3。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125745Z" creationid="quentine" creationdate="20190116T115148Z">
+        <seg>本职技能级数最高能升到角色等级+3。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19081,6 +19912,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123848Z" creationid="quentine" creationdate="20190115T123848Z">
         <seg>每回合，反胃的角色只能做单个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The only specific bonuses that stack are dodge bonuses, synergy bonuses, and sometimes circumstance bonuses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T141138Z" creationid="quentine" creationdate="20190806T141138Z">
+        <seg>只有一些特别的加值可叠加，闪避加值、共效加值、一些情况下情景加值也可以。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19225,6 +20064,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190522T141114Z" creationid="quentine" creationdate="20190522T141114Z">
         <seg>检定结果决定设备是否需要修理才能再度使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The rules assume that a character can always find a way to learn any skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T134006Z" creationid="quentine" creationdate="20190805T134006Z">
+        <seg>规则默认角色总是能找到学习任何技能的方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19720,40 +20567,40 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>These skills are considered class skills for the Acolyte, and she can use her skill points to buy ranks in them, just like other skills in the game.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190627T135002Z" creationid="quentine" creationdate="20190627T135002Z">
-        <seg>这些技能视为侍僧的本职技能，遵循本职技能加点规则。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T130640Z" creationid="quentine" creationdate="20190627T135002Z">
+        <seg>这些技能视为侍僧的本职技能，遵循本职技能提升规则。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>These skills are considered class skills for the Battle Mind, and she can use her skill points to buy ranks in them, just like other skills in the game.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190621T130946Z" creationid="quentine" creationdate="20190621T130946Z">
-        <seg>这些技能视为灵战士的本职技能，遵循本职技能加点规则。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T130640Z" creationid="quentine" creationdate="20190621T130946Z">
+        <seg>这些技能视为灵战士的本职技能，遵循本职技能提升规则。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>These skills are considered class skills for the Mage, and he can use his skill points to buy ranks in them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190623T112046Z" creationid="quentine" creationdate="20190623T112046Z">
-        <seg>这些技能视为法师的本职技能，遵循本职技能加点规则。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T130640Z" creationid="quentine" creationdate="20190623T112046Z">
+        <seg>这些技能视为法师的本职技能，遵循本职技能提升规则。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>These skills are considered class skills for the Occultist, and she can use her skill points to buy ranks in them, just like other skills in the game.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190612T120215Z" creationid="quentine" creationdate="20190612T120215Z">
-        <seg>这些技能视为术士的本职技能，遵循本职技能加点规则。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T130637Z" creationid="quentine" creationdate="20190612T120215Z">
+        <seg>这些技能视为术士的本职技能，遵循本职技能提升规则。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>These skills are considered class skills for the Telepath, and he can use his skill points to buy ranks in them, just like other skills in the game.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190614T142452Z" creationid="quentine" creationdate="20190614T142452Z">
-        <seg>这些技能视为异能者的本职技能，遵循本职技能加点规则。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T130640Z" creationid="quentine" creationdate="20190614T142452Z">
+        <seg>这些技能视为异能者的本职技能，遵循本职技能提升规则。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19786,6 +20633,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T124102Z" creationid="quentine" creationdate="20190115T124102Z">
         <seg>麻痹的同时也会无助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are made against a randomized number, usually another character’s skill check result.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T141346Z" creationid="quentine" creationdate="20190805T141311Z">
+        <seg>这些检定用来对抗一个随机值，通常是另一个角色的技能检定结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20009,8 +20864,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>This bonus does not allow the hero to make checks for a trained-only skill if the hero has no ranks in the skill.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T102037Z" creationid="quentine" creationdate="20190202T102037Z">
-        <seg>这个加值不能用于未习得的需受训技能。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T132434Z" creationid="quentine" creationdate="20190202T102037Z">
+        <seg>这个加值不能用于未获级数的需受训技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20325,6 +21180,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190623T114840Z" creationid="quentine" creationdate="20190623T114802Z">
         <seg>这是个反应，不需要动作。|
 |25|鉴定药水。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is an attack action, and the character can’t take 10 on this check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T134418Z" creationid="quentine" creationdate="20190806T134418Z">
+        <seg>这是一个攻击动作，角色这个检定不能取10。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20701,8 +21564,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>To determine a character’s starting Wealth bonus, roll 2d4 and add the wealth bonus for the character’s starting occupation, plus (if appropriate) the bonus from the Windfall feat, plus 1 if the character has ranks in Profession.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063616Z" creationid="QuenTine" creationdate="20181106T133258Z">
-        <seg>要决定一个角色的初始财富加值，掷2d4加上角色职业背景的财富加值，再加上（如果有的话）横财专长的加值，如果角色在`专业`上拥有等级则还要再加1。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125657Z" creationid="QuenTine" creationdate="20181106T133258Z">
+        <seg>要决定一个角色的初始财富加值，掷2d4加上角色职业背景的财富加值，再加上（如果有的话）横财专长的加值，如果角色在`专业`上拥有级数则还要再加1。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20751,6 +21614,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190203T041040Z" creationid="quentine" creationdate="20190202T123114Z">
         <seg>进行求援检定，就是d20+魅力等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To make a skill check, roll:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T131632Z" creationid="quentine" creationdate="20190805T131632Z">
+        <seg>要做一次技能检定，需要掷骰：</seg>
       </tuv>
     </tu>
     <tu>
@@ -20987,6 +21858,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Types of actions define how long activities take to perform within the framework of a combat round (6 seconds) and how movement is treated with respect to the activity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T125918Z" creationid="quentine" creationdate="20190806T125918Z">
+        <seg>动作的类型定义了在战斗轮（6秒）的框架内要花多长时间来做，以及该动作视为多少移动距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to act, a dazed character can take no actions, but still gets the benefit of his or her normal Defense.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121431Z" creationid="quentine" creationdate="20190115T121431Z">
@@ -21047,6 +21926,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T124345Z" creationid="quentine" creationdate="20190114T124345Z">
         <seg>同大多数加值不同，闪避加值可以相互叠加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unlike with attack rolls and saving throws, a natural roll of 20 on the d20 is not an automatic success when making a skill check, and a natural roll of 1 is not an automatic failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T134813Z" creationid="quentine" creationdate="20190805T134813Z">
+        <seg>不像攻击骰或豁免骰，技能检定投20不会直接判定为成功，投1也不会直接判定为失败。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21123,6 +22010,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using a skill might take a round, several rounds, or even longer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T125557Z" creationid="quentine" creationdate="20190806T125557Z">
+        <seg>使用一个技能可能需要一轮、几轮或更长的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using this feat fires two bullets and can only be done if the weapon has two bullets in it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190731T125013Z" creationid="quentine" creationdate="20190731T125013Z">
@@ -21195,10 +22090,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a character has plenty of time, is faced with no threats or distractions, and the skill being attempted carries no penalty for failure, a character can take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T132949Z" creationid="quentine" creationdate="20190806T132949Z">
+        <seg>如果角色有大量时间，也没被威胁或分心，技能也没有失败惩罚，角色就可以取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a character is exposed to a treatable disease, the character must make an immediate Fortitude saving throw.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141839Z" creationid="quentine" creationdate="20190115T141839Z">
         <seg>如果角色得了可治愈的疾病，角色必须立即进行一次强韧豁免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When a character is not being threatened or distracted, he or she may choose to take 10.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T131441Z" creationid="quentine" creationdate="20190806T131441Z">
+        <seg>当角色未被威胁或分心，可以选择取10。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21387,6 +22298,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When making a skill check, a character adds his or her skill ranks to the roll as part of the skill modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T133902Z" creationid="quentine" creationdate="20190805T133902Z">
+        <seg>当进行一次技能检定时，角色将技能级数与骰点相加，作为技能的调整值的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When others would normally make a Diplomacy check or Bluff check to smooth-talk or trick their way into a private party or invitation-only event, the Personality adds a bonus equal to his or her Personality level.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190526T110019Z" creationid="quentine" creationdate="20190526T110019Z">
@@ -21511,6 +22430,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113902Z" creationid="quentine" creationdate="20190115T113902Z">
         <seg>当临时生命值消失，角色的生命值将减至那个值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When two characters arm wrestle, for example, the stronger character simply wins.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T140009Z" creationid="quentine" creationdate="20190806T140009Z">
+        <seg>比如两个角色在掰手腕，当然是力量大的角色胜。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23069,6 +23996,28 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Class|1st Level Skill Points|Higher Level Skill Points|
+|-----|----------------------|-------------------------|
+|Strong|(3 + Int modifier) x4|3 + Int modifier|
+|Fast|(5 + Int modifier) x4|5 + Int modifier|
+|Tough|(3 + Int modifier) x4|3 + Int modifier|
+|Smart|(9 + Int modifier) x4|9 + Int modifier|
+|Dedicated|(5 + Int modifier) x4|5 + Int modifier|
+|Charismatic|(7 + Int modifier) x4|7 + Int modifier|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T134544Z" creationid="quentine" creationdate="20190805T134544Z">
+        <seg>|职业|1级时的技能点|升级时的技能点|
+|-----|----------------------|-------------------------|
+|力量型|（3 + 智力调整值） × 4|3 + 智力调整值|
+|敏捷型|（5 + 智力调整值） × 4|5 + 智力调整值|
+|体质型|（3 + 智力调整值） × 4|3 + 智力调整值|
+|智力型|（9 + 智力调整值） × 4|9 + 智力调整值|
+|感知型|（5 + 智力调整值） × 4|5 + 智力调整值|
+|魅力型|（7 + 智力调整值） × 4|7 + 智力调整值|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Components|DC Modifier|
 |----------|-----------|
 |Frame Shape and Locomotion\*|
@@ -23199,6 +24148,34 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Difficulty (DC)|Example (Skill Used)|
+|---------------|--------------------|
+|Very easy (0)|Notice something large in plain sight (Spot)|
+|Easy (5)|Climb a knotted rope (Climb)|
+|Average (10)|Hear an approaching security guard (Listen)|
+|Tough (15)|Disarm an explosive (Demolitions)|
+|Challenging (20)|Swim against a strong current (Swim)|
+|Formidable (25)|Break into a secure computer system (Computer Use)|
+|Heroic (30)|Leap across a 30-foot chasm (Jump)|
+|Superheroic (35)|Convince the guards that even though you’re not wearing an ID badge and aren’t on their list, they should let you into the building (Bluff)|
+|Nearly impossible (40)|Track a trained commando  through the forests of Brazil on a moonless night after 12 days of rainfall (Survival)|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T141216Z" creationid="quentine" creationdate="20190805T141216Z">
+        <seg>|难度等级（DC）|示例（使用的技能）|
+|---------------|--------------------|
+|非常容易（0）|注意到视野中一件大物品（侦察）|
+|容易（5）|爬上打结的绳索（攀爬）|
+|一般（10）|听到正在靠近的警卫（聆听）|
+|棘手（15）|解除爆炸物（爆破）|
+|有挑战性（20）|在湍急的水中游泳（游泳）|
+|难以克服（25）|黑进安保系统（计算机使用）|
+|英雄壮举（30）|跳过30尺宽的裂隙（跳跃）|
+|天降大任（35）|在未携带任何身份标识也未在对方名单的情况下说服警卫放行，让自己进入建筑物（唬骗）|
+|难于登天（40）|在没有月光的晚上且下了12天雨的巴西雨林里，追踪一支训练有素的突击队（生存）|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Disease|Type|Incubation Period|Initial Damage|Secondary Damage|
 |-----------|---------|----------------------|----------------------|------------------------|
 |Anthrax|Inhaled/Injury DC 16|1d2 days|1 Con|1d4 Con\*|
@@ -23219,6 +24196,28 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |坏死性筋膜炎|接触性 DC13|1d6天|1体质|1d3体质\*|
 |西尼罗病毒|伤口性 DC12|1d4天|1敏捷1体质|1d2敏捷1d2体质\*|
 |沙门氏菌病|摄入性 DC13|1天|1力量1敏捷|1力量1d3敏捷|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Example Ability Check|Key Ability|
+|---------------------|-----------|
+|Forcing open a jammed or locked door|Strength|
+|Tying a rope|Dexterity|
+|Holding one’s breath|Constitution|
+|Navigating a maze|Intelligence|
+|Recognize a stranger you’ve seen before|Wisdom|
+|Getting yourself noticed in a crowd|Charisma|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T140535Z" creationid="quentine" creationdate="20190806T140535Z">
+        <seg>|示例属性检定|关键属性|
+|---------------------|-----------|
+|强行打开顶住的或锁住的门|力量|
+|系一根绳子|敏捷|
+|屏住呼吸|体质|
+|迷宫寻路|智力|
+|认出曾经见过的陌生人|感知|
+|在人群中吸引他人注意|魅力|</seg>
       </tuv>
     </tu>
     <tu>
@@ -23629,6 +24628,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |记忆|15|
 |忍耐毒素|毒素的DC|
 |坚定意志|20|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Task|Skill|Opposing Skill|
+|----|-----|--------------|
+|Sneak up on someone|Move Silently|Listen|
+|Con someone|Bluff|Sense Motive|
+|Hide from someone|Hide|Spot|
+|Win a car race|Drive|Drive|
+|Pretend to be someone else|Disguise|Spot|
+|Steal a key chain|Sleight of Hand|Spot|
+|Create a fake ID|Forgery|Forgery|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T142418Z" creationid="quentine" creationdate="20190805T142418Z">
+        <seg>|任务|技能|对抗技能|
+|----|-----|--------------|
+|悄悄靠近他人|潜行|聆听|
+|欺骗他人|唬骗|察言观色|
+|对他人躲藏|躲藏|侦察|
+|赛车|驾驶|驾驶|
+|假扮他人|易容|侦察|
+|偷钥匙串|手上功夫|侦察|
+|制作假身份|伪造文书|伪造文书|</seg>
       </tuv>
     </tu>
     <tu>
