@@ -34,9 +34,9 @@ The skill name line and the line beneath it include the following information:
 
 |Narrow Surface|DC\*|Difficult Surface|DC|
 |--------------|:-:|-----------------|:-:|
-|7–12 in. wide|10|Uneven or angled|10|
-|2–6 in. wide|15|Slippery surface|10|
-|Less than 2 in. wide|20|||
+|7–12 in wide|10|Uneven or angled|10|
+|2–6 in wide|15|Slippery surface|10|
+|Less than 2 in wide|20|||
 
 \* Add +5 to the DC if the narrow surface is slippery or angled; add +10 if it is both slippery and angled.
 
@@ -291,8 +291,8 @@ This skill allows a character to mix chemicals to create acids, bases, explosive
 
 |Type of Acid|Purchase DC|Acid\*|Base\*|Time\*|
 |------------|:---------:|:----:|:----:|------|
-|Mild (1d6/1d10)\*\*|8|15|10|1 min.|
-|Potent (2d6/2d10)|12|20|15|30 min.|
+|Mild (1d6/1d10)\*\*|8|15|10|1 min|
+|Potent (2d6/2d10)|12|20|15|30 min|
 |Concentrated (3d6/3d10)|16|30|20|1 hr.|
 
 \*Craft DCs
@@ -306,7 +306,7 @@ If the check succeeds, the final product is a solid material, about the size of 
 |Type of Scratch-Built Explosive|Purchase DC|Craft DC|Reflex DC (save for half damage)|Time|
 |-------------------------------|:---------:|:------:|:------------------------------:|:--:|
 |Improvised (1d6/5 feet)\*|6|10|10|1 round|
-|Simple (2d6/5 feet)|12|15|12|10 min.|
+|Simple (2d6/5 feet)|12|15|12|10 min|
 |Moderate (4d6/10 feet)|16|20|12|1 hr.|
 |Complex (6d6/15 feet)|20|25|15|3 hr.|
 |Powerful (8d6/20 feet)|25|30|15|12 hr.|
@@ -690,8 +690,8 @@ A character with the Nimble feat gets a +2 bonus on all Escape Artist checks.
 |Factor|Check Modifier|Time|
 |------|:------------:|----|
 |Document Type|||
-|Simple (typed letter, business card)|+0|10 min.|
-|Moderate (letterhead, business form)|–2|20 min.|
+|Simple (typed letter, business card)|+0|10 min|
+|Moderate (letterhead, business form)|–2|20 min|
 |Complex (stock certificate, driver’s license)|–4|1 hr.|
 |Difficult (passport)|–8|4 hr.|
 |Extreme (military/law enforcement ID)|–16|24 hr.|

@@ -718,3 +718,20 @@ insight bonus	洞见加值
 profane	亵渎
 sacred	神圣
 descriptor	学名
+Skill Description	技能描述
+Untrained	未受训
+Time	时间
+fall	坠落
+full speed	常速	全速就是常速
+precarious surface	不稳定的表面
+Favorable	有利
+unfavorable	不利
+Handholds	把手点
+Footholds	脚踏点
+piton	岩钉
+rope	绳索
+load	负载
+discretion	自由裁量
+chain-link fence	铁丝网围栏
+air duct	通风管
+slippery	光滑的

@@ -130,7 +130,7 @@ Other factors can add to a character’s Defense.
 
 Feats: Some feats give a bonus to a character’s Defense.
 
-天然护甲：有的生物具有天然护甲，通常为鳞片、毛皮或厚肉。
+天生护甲：有的生物具有天生护甲，通常为鳞片、毛皮或厚肉。
 
 闪避加值：主动闪避攻击同样会为防御提供加值。这类加值被称为闪避加值。Any situation that denies a character his or her Dexterity bonus also denies his or her dodge bonuses. 同大多数加值不同，闪避加值可以相互叠加。
 
@@ -703,7 +703,7 @@ If the character comes to his or her next action and has not yet performed the r
 
 This section covers firearms, grappling, explosives, attacking objects, and an assortment of other special attacks.
 
-## 临时救急
+## 协助他人
 
 In combat, a character can help a friend attack or defend by distracting or interfering with an opponent. If the character is in position to attack an opponent with which a friend of the character is engaged in melee combat, the character can attempt to aid the friend as an attack action. The character makes an attack roll against Defense 10. If the character succeeds, he or she doesn’t actually damage the opponent—but the character’s friend gains either a +2 circumstance bonus against that opponent or a +2 circumstance bonus to Defense against that opponent (aiding character’s choice) on the friend’s next turn.
 

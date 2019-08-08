@@ -1,173 +1,173 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
 
-# SKILL BASICS
+# 技能概述
 
-## Getting Skills
+## 获取技能
 
-At each level, a character gets skill points that are used to buy skills. The character’s class and Intelligence modifier determine the number of points received.
+每一级，角色获得技能点来提升技能级数。角色的职业和智力调整值决定该获得多少技能点。
 
-If the character buys a class skill, he or she gets 1 rank in the skill for each skill point spent. If the character buys a cross-class skill, he or she gets ½ rank per skill point. The maximum rank in a class skill is equal to character level + 3. The maximum rank in a cross-class skill is one-half of this number.
+如果角色提升的是本职技能，每花费1点技能点可提升一个级数。如果角色提升的是跨职技能，每花费1点技能点可提升1/2个级数。本职技能最高级数为角色等级+3。跨职技能最高级数为该值的一半。
 
-## Using Skills
+## 使用技能
 
-To make a skill check, roll:
+要做一次技能检定，需要掷骰：
 
-1d20 + skill modifier
+1d20 + 技能调整值
 
-(Skill modifier = skill ranks + ability modifier + miscellaneous modifiers)
+（技能调整值 = 技能级数 + 属性调整值 + 其他调整值）
 
-**Skill Ranks:** A character’s ranks in a skill is based on the number of skill points the character has invested in the skill. Some skills can be used even if the character has no ranks in the skill; doing this is known as making an untrained skill check.
+**技能级数：** 角色的技能级数取决于角色在该技能上投入了多少技能点。一些技能可在角色没有级数的情况下使用，称为“做一次未受训技能检定”。
 
-**Ability Modifier:** The ability modifier used in the skill check is the modifier for the skill’s key ability (the ability associated with the skill’s use). The key ability of a skill is noted in its description.
+**属性调整值：** 用于技能检定的属性调整值指的是技能的`关键属性`（关系到技能使用的属性）的调整值。关键属性在技能描述中列出。
 
-**Miscellaneous Modifiers:** Miscellaneous modifiers include bonuses provided by feats and class features, and penalties such as the ones associated with the nonproficient use of armor, among others.
+**其他调整值：** 其他调整值包括专长和职业专长提供的调整值，以及减值，如不擅长防具带来的减值等等。
 
-## Acquiring Skill Ranks
+## 提升技能
 
-Ranks indicate how much training or experience a character has with a given skill. Each skill has a number of ranks, from 0 (for a skill in which a character has no training at all) to 23 (for a 20th-level character who has increased a class skill to its maximum rank). When making a skill check, a character adds his or her skill ranks to the roll as part of the skill modifier.
+级数代表角色此技能的训练程度和经验。每个技能都有级数，从0（角色完全未训练此技能）到23（20级的角色将本职技能级数升至最高）。当进行一次技能检定时，角色将技能级数与骰点相加，作为技能的调整值的一部分。
 
-The rules assume that a character can always find a way to learn any skill. However, the GM can impose limits depending on circumstances and a given situation.
+规则默认角色总是能找到学习任何技能的方法。然而，GM可以根据实际情况强行限制。
 
-**Table: Skill Points per Level**
+**表：每级技能点**
 
-|Class|1st Level Skill Points|Higher Level Skill Points|
+|职业|1级时的技能点|升级时的技能点|
 |-----|----------------------|-------------------------|
-|Strong|(3 + Int modifier) x4|3 + Int modifier|
-|Fast|(5 + Int modifier) x4|5 + Int modifier|
-|Tough|(3 + Int modifier) x4|3 + Int modifier|
-|Smart|(9 + Int modifier) x4|9 + Int modifier|
-|Dedicated|(5 + Int modifier) x4|5 + Int modifier|
-|Charismatic|(7 + Int modifier) x4|7 + Int modifier|
+|力量型|（3 + 智力调整值） × 4|3 + 智力调整值|
+|敏捷型|（5 + 智力调整值） × 4|5 + 智力调整值|
+|体质型|（3 + 智力调整值） × 4|3 + 智力调整值|
+|智力型|（9 + 智力调整值） × 4|9 + 智力调整值|
+|感知型|（5 + 智力调整值） × 4|5 + 智力调整值|
+|魅力型|（7 + 智力调整值） × 4|7 + 智力调整值|
 
-## Skill Checks
+## 技能检定
 
-Unlike with attack rolls and saving throws, a natural roll of 20 on the d20 is not an automatic success when making a skill check, and a natural roll of 1 is not an automatic failure.
+不像攻击骰或豁免骰，技能检定投20不会直接判定为成功，投1也不会直接判定为失败。
 
-## Difficulty Class
+## 难度等级
 
-Some checks are made against a Difficulty Class (DC). The DC is a number set by the GM (using the skill rules as a guideline) that a character must attain to succeed.
+有些检定用来对抗一个难度等级（DC）。DC是由GM所设置的（以该技能的规则为参考），检定结果必须不小于DC才能成功。
 
-**Table: Difficulty Class Examples**
+**表：难度等级示例**
 
-|Difficulty (DC)|Example (Skill Used)|
+|难度等级（DC）|示例（使用的技能）|
 |---------------|--------------------|
-|Very easy (0)|Notice something large in plain sight (Spot)|
-|Easy (5)|Climb a knotted rope (Climb)|
-|Average (10)|Hear an approaching security guard (Listen)|
-|Tough (15)|Disarm an explosive (Demolitions)|
-|Challenging (20)|Swim against a strong current (Swim)|
-|Formidable (25)|Break into a secure computer system (Computer Use)|
-|Heroic (30)|Leap across a 30-foot chasm (Jump)|
-|Superheroic (35)|Convince the guards that even though you’re not wearing an ID badge and aren’t on their list, they should let you into the building (Bluff)|
-|Nearly impossible (40)|Track a trained commando  through the forests of Brazil on a moonless night after 12 days of rainfall (Survival)|
+|非常容易（0）|注意到视野中一件大物品（侦察）|
+|容易（5）|爬上打结的绳索（攀爬）|
+|一般（10）|听到正在靠近的警卫（聆听）|
+|棘手（15）|解除爆炸物（爆破）|
+|有挑战性（20）|在湍急的水中游泳（游泳）|
+|难以克服（25）|黑进安保系统（计算机使用）|
+|英雄壮举（30）|跳过30尺宽的裂隙（跳跃）|
+|天降大任（35）|在未携带任何身份标识也未在对方名单的情况下说服警卫放行，让自己进入建筑物（唬骗）|
+|难于登天（40）|在没有月光的晚上且下了12天雨的巴西雨林里，追踪一支训练有素的突击队（生存）|
 
-## Opposed Checks
+## 对抗检定
 
-Some skill checks are opposed checks. They are made against a randomized number, usually another character’s skill check result.
+一些技能检定是对抗检定。这些检定用来对抗一个随机值，通常是另一个角色的技能检定结果。
 
-For ties on opposed checks, the character with the higher key ability score wins.  If those scores are the same, roll again.
+在对抗检定中，结果较高者胜，结果平则关键属性高者胜。如果仍相同，则再投掷一遍。
 
-**Table: Example Opposed Checks**
+**表：对抗检定示例**
 
-|Task|Skill|Opposing Skill|
+|任务|技能|对抗技能|
 |----|-----|--------------|
-|Sneak up on someone|Move Silently|Listen|
-|Con someone|Bluff|Sense Motive|
-|Hide from someone|Hide|Spot|
-|Win a car race|Drive|Drive|
-|Pretend to be someone else|Disguise|Spot|
-|Steal a key chain|Sleight of Hand|Spot|
-|Create a fake ID|Forgery|Forgery|
+|悄悄靠近他人|潜行|聆听|
+|欺骗他人|唬骗|察言观色|
+|对他人躲藏|躲藏|侦察|
+|赛车|驾驶|驾驶|
+|假扮他人|易容|侦察|
+|偷钥匙串|手上功夫|侦察|
+|制作假身份|伪造文书|伪造文书|
 
-## Trying Again
+## 重试
 
-If a character fails on a skill check, he or she can sometimes try again. Check the skill description to find out if, and under what circumstances, a character can try again. Many skills, however, have natural consequences for failing that must be accounted for. Some skills can’t be tried again once a check has failed for a particular task.
+如果角色技能检定失败，有时可以再试一次。检查技能描述看是否可以，以及何种情况允许重试。然而许多技能的成功率受实际情况影响。一些技能在特定任务中一旦失败便不能重试。
 
-If the use of a skill carries no penalty for failure, a character can take 20 and assume that he or she keeps trying until he or she eventually succeeds.
+如果一些技能的使用没有失败惩罚，角色可以`取20`，表示不断尝试直到成功。
 
-## Untrained Skill Checks
+## 未受训技能检定
 
-Generally, if a character attempts to use a skill he or she doesn’t have any ranks in, the character makes a skill check as described. The character’s skill modifier don’t include skill ranks because the character doesn’t have any. The character does get other modifiers, though, such as the ability modifier for the skill’s key ability.
+一般情况下，如果角色试图使用一个零级数的技能，角色还是可以按技能的描述做技能检定。角色的技能调整值不包括技能级数，因为没有。但角色仍可受益于其他调整值，比如技能的关键属性调整值。
 
-Some skills can be used only if the character is trained in the skill.
+一些技能只能在角色受训过后才能使用。
 
-## Favorable and Unfavorable Conditions
+## 有利和不利情况
 
-Some situations may make a skill easier or harder to use, resulting in a bonus or penalty to the skill modifier or a change to the skill check’s DC.
+有些情况会让技能的使用变得更容易或更难，体现为额外的技能检定加值或减值，或者是改变检定DC。
 
-The GM can alter the odds of success in four ways to take into account exceptional circumstances:
+在某些特殊情况下，GM可以以四种方式调整成功的概率。
 
-1. Give the skill user a +2 circumstance bonus to represent conditions that improve performance, such as having the perfect tool for the job, getting help from another character, or working under conditions that are significantly better than normal.
-2. Give the skill user a –2 circumstance penalty to represent conditions that hamper performance, such as being forced to use improvised tools or possessing misleading information.
-3. Reduce the DC by 2 to represent circumstances that make the task easier, such as having a friendly audience when making a Perform check or searching for information on an extremely well documented topic with a Computer Use check.
-4. Increase the DC by 2 to represent circumstances that make the task harder, such as making a Perform check in front of a hostile audience or searching for information on a very poorly documented topic with a Computer Use check.
+1. 给技能使用者2点情景加值代表优异表现，例如有很好的工具，从其他人那里获得帮助，或者以超常状态完成工作。
+2. 给使用者2点情景减值代表不佳表现，例如被迫使用临时工具或者被错误信息误导。
+3. 降低2点DC代表让任务变得容易的情景，例如做表演检定时遇到友好的观众，或者做计算机使用检定时，检索一组编排得井井有条的文件。
+4. 增加2点DC 代表让任务变得困难的情景，例如做表演检定时遇到不友好的观众，或者做计算机使用检定时，在一团乱麻般的文件中检索信息。
 
-Conditions that affect a character’s ability to perform the skill change the character’s skill modifier. Conditions that modify how well the character must perform the skill to succeed change the DC. A bonus on a character’s skill modifier or a reduction in the DC of the check have the same result—they create a better chance for success. But they represent different circumstances, and sometimes that difference is important.
+影响角色使用技能能力的情况改变的是角色的技能调整值。影响角色的技能使用成功标准的情况改变的是DC。角色技能调整值的增加和DC的降低结果是相同的——都是让成功机会更大。但它们代表了不同的情景，有时这种区别很重要。
 
-## Time and Skill Checks
+## 时间和技能检定
 
-Using a skill might take a round, several rounds, or even longer. It might take no time at all. Types of actions define how long activities take to perform within the framework of a combat round (6 seconds) and how movement is treated with respect to the activity.  See the skill description for specifies on how long a skill takes to use.
+使用一个技能可能需要一轮、几轮或更长的时间。也可能完全不花时间。动作的类型定义了在战斗轮（6秒）的框架内要花多长时间来做，以及该动作视为多少移动距离。一个技能的使用要花多长时间详见各个技能的描述。
 
-In general, using a skill that requires concentration while in close combat is dangerous. Nearby op-ponents can make attacks of opportunity against a character when he or she lets his or her guard down.
+一般来说，在靠近战斗的地方使用一个需要专注的技能是很危险的。附近的对手可以对无防备的自己发动借机攻击。
 
-## Tools
+## 工具
 
-Some skill applications require the use of tools. If tools are needed, the specific items required are mentioned in the skill description. If the character doesn’t have the appropriate tools, he or she can still attempt to use the skill, but the character takes a –4 penalty on his or her check.
+一些技能的应用需要使用工具。如果技能需要工具，技能描述会提到需要哪些物品。如果角色没有合适的工具，还是可以使用这个技能，但检定时要受4点减值。
 
-A character may be able to put together some impromptu tools to make the check. If the GM allows it, reduce the penalty to –2 (instead of –4) for using impromptu tools. It usually takes some time (several minutes to an hour or more) to collect or create a set of impromptu tools, and it may require a skill check as well.
+角色可能会收集一些临时工具来替代，进行技能检定。如果GM允许这么做，使用临时工具使技能检定受2点减值（而非4点）。收集或制造临时工具通常也需要花时间（几分钟到一小时甚至更多），这个过程也需要技能检定。
 
-## Checks without Rolls
+## 无需掷骰的检定
 
-A skill check represents an attempt to accomplish some goal, usually in the face of time pressure or distraction. Sometimes, though, a character can use a skill under more favorable conditions and eliminate the luck factor.
+一个技能检定代表角色尝试完成一些目标，通常这些活动都是在各种时间压力或分心的情况下完成的。但有时候，角色可以在更有利的情况下排除运气因素来使用技能。
 
-## Taking 10
+## 取10
 
-When a character is not being threatened or distracted, he or she may choose to take 10. Instead of rolling 1d20 for the skill check, calculate the result as if the character had rolled a 10 (an average roll on a d20). For many relatively routine tasks, taking 10 results in a success.
+当角色未被威胁或分心，可以选择取10。取10，而非掷1d20来进行技能检定，就当作是角色直接掷出了10（d20的平均结果）。很多日常工作，取10就能成功。
 
-Distractions and threats make it impossible for a character to take 10. A character also can’t take 10 when using a skill untrained, though the GM may allow exceptions for truly routine activities.
+分心和威胁会让角色无法取10。角色使用未受训的技能也不能取10，但是GM可能会破例允许。
 
-## Taking 20
+## 取20
 
-When a character has plenty of time, is faced with no threats or distractions, and the skill being attempted carries no penalty for failure, a character can take 20. Instead of rolling 1d20 for the skill check, calculate the result as if the character had rolled a 20.
+如果角色有大量时间，也没被威胁或分心，技能也没有失败惩罚，角色就可以取20。取20，而非掷1d20来进行技能检定，就当作是角色直接掷出了20。
 
-Taking 20 is the equivalent of attempting the check over and over again until the character gets it right. Taking 20 takes twenty times as long as making a single check (2 minutes for a skill that can normally be checked in 1 round).
+取20等价于角色不断地尝试检定直到成功。取20要花费单次技能检定时间的20倍（1轮的检定时间，取20就要花2分钟）。
 
-## Aiding Another
+## 协助他人
 
-In some situations, characters can cooperate to accomplish a given task. One character is designated as the leader in the effort, while the others try to aid the character in his or her efforts. A character aids another by making a skill check (DC 10). This is an attack action, and the character can’t take 10 on this check. If the check succeeds, the character’s ally gains a +2 circumstance bonus to apply to his or her skill check to complete the task.
+在一些情况下，多个角色可以合作来完成任务。制定一个角色为主力，其他人帮助主力完成。角色通过做一个技能检定（DC10）来给予协助。这是一个攻击动作，角色这个检定不能取10。如果检定成功，角色的盟友完成此任务的技能检定获得2点情景加值。
 
-In many cases, a character’s help won’t be beneficial, or only a lim-ited number of characters can help at the same time. The GM limits aid another attempts as he or she sees fit for the conditions.
+在很多情况下，角色的协助没什么用，或者只有有限数量的角色能同时给予协助。GM酌情限制协助者的人数。
 
-## Skill Synergy
+## 技能共效
 
-Sometimes, the GM may decide that having one skill provides a bonus when a character uses another skill in certain situations. The character must have at least 5 ranks in the related skill to gain this synergy bonus, and the GM must agree that the two skills can complement each other in the given situation. In such cases, the character receives a +2 synergy bonus on the skill check.
+有时候，GM在特定情况下可决定，角色掌握某个技能可以给另一个技能的使用带来加值。角色相关技能必须至少为5级才能提供共效加值，而且必须征得GM认同在使用的情景两个技能能相互增益。在这些情况下，角色进行技能检定时将获得2点共效加值。
 
-## Ability Checks
+## 属性检定
 
-Sometimes a character tries to do something to which no specific skill applies. In these cases, the character makes an ability check: Roll 1d20 and apply the appropriate ability modifier. The GM assigns a DC, or sets up an opposed check when two characters are engaged in a contest using one ability against another. In some cases, a test of one’s ability doesn’t involve luck.  When two characters arm wrestle, for example, the stronger character simply wins. In the case of identical scores, make opposed Strength checks.
+有时角色做的事情没有技能可以对应。在这些情况下，角色进行属性检定：掷1d20+合适的属性调整值。GM给定DC，如果时两个角色相互对抗则设置一个对抗检定。有些情况下，对角色能力的考验与运气无关。比如两个角色在掰手腕，当然是力量大的角色胜。如果对抗结果相同，力量大的一方胜。
 
-|Example Ability Check|Key Ability|
+|示例属性检定|关键属性|
 |---------------------|-----------|
-|Forcing open a jammed or locked door|Strength|
-|Tying a rope|Dexterity|
-|Holding one’s breath|Constitution|
-|Navigating a maze|Intelligence|
-|Recognize a stranger you’ve seen before|Wisdom|
-|Getting yourself noticed in a crowd|Charisma|
+|强行打开顶住的或锁住的门|力量|
+|系一根绳索|敏捷|
+|屏住呼吸|体质|
+|迷宫寻路|智力|
+|认出曾经见过的陌生人|感知|
+|在人群中吸引他人注意|魅力|
 
 
-## Modifier Types and Stacking
+## 调整值类型与叠加
 
-A modifier provides a bonus (a positive modifier) or a penalty (a negative modifier) to a die roll.
+调整值为骰点提供一个加值（正调整值）或者一个减值（负调整值）。
 
-Bonuses with specific descriptors, such as “equipment bonus,” generally don’t stack (combine for cumulative effect) with others of the same type. In those cases, only the best bonus of that type applies.
+带有特定学名的加值，比如“装备加值”，一般无法与其他同类型加值堆叠（效果相加）。这些情况下，该类型的加值取最大值。
 
-The only specific bonuses that stack are dodge bonuses, synergy bonuses, and sometimes circumstance bonuses. Circumstance bonuses stack only if they’re provided by differing circumstances; if two circumstance bonuses caused by similar circumstances apply, they don’t stack.
+只有一些特别的加值可叠加，闪避加值、共效加值、一些情况下情景加值也可以。不同的情景提供的加值可叠加；两个情景加值若由相似的情景提供，则不可叠加。
 
-Specific bonuses that don’t stack include competence, cover, equipment, morale, natural armor, and size.
+还有一些不可叠加的加值，包括表现加值、掩体加值、装备加值、士气加值、天生护甲加值、体型加值。
 
-If the game setting includes magic or other supernatural effects, there can also be deflection, enhancement, enlargement, haste, inherent, insight, luck, profane, resistance, and sacred bonus descriptors. None of these bonuses stack.
+如果游戏设定包括了魔法或者其他超自然效果，还将包括偏斜、增强、巨化、加速、固有、洞见、运气、亵渎、抗力、神圣这些加值学名。这些加值都不能叠加。
 
-Any bonus without a descriptor (such as simply a “+1 bonus”) stacks with other bonuses.
+任何没有学名的加值（比如简单的“1点加值”）可与其他加值叠加。
 
-All penalties stack, regardless of their descriptors.
+所有减值完全叠加，不管学名是什么。

@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># SKILLS I</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T113511Z" creationid="quentine" creationdate="20190807T113511Z">
+        <seg># 技能 I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># STARTING OCCUPATION</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T084106Z" creationid="QuenTine" creationdate="20181104T084106Z">
@@ -318,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Balance (Dex) Armor Penalty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T120751Z" creationid="quentine" creationdate="20190807T120751Z">
+        <seg>## 平衡（敏） 护甲减值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Basic Class Descriptions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114318Z" creationid="quentine" creationdate="20190116T114318Z">
@@ -346,6 +362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T122911Z" creationid="QuenTine" creationdate="20181104T122911Z">
         <seg>## 蓝领</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Bluff (Cha)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T124316Z" creationid="quentine" creationdate="20190807T124316Z">
+        <seg>## 唬骗（魅）</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +434,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T122137Z" creationid="quentine" creationdate="20190703T122137Z">
         <seg>## 职业专长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Climb (Str) Armor Penalty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T140925Z" creationid="quentine" creationdate="20190808T140925Z">
+        <seg>## 攀爬（力） 护甲减值</seg>
       </tuv>
     </tu>
     <tu>
@@ -1090,6 +1122,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T134605Z" creationid="quentine" creationdate="20190805T134605Z">
         <seg>## 技能检定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Skill Description Format</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T114153Z" creationid="quentine" creationdate="20190807T114153Z">
+        <seg>## 技能描述格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Skill Descriptions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T113653Z" creationid="quentine" creationdate="20190807T113653Z">
+        <seg>## 技能描述</seg>
       </tuv>
     </tu>
     <tu>
@@ -2316,6 +2364,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190803T143101Z" creationid="quentine" creationdate="20190803T143101Z">
         <seg>### 擅长简易武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Skill Name (Key Ability) Trained Only; Armor Penalty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T114422Z" creationid="quentine" creationdate="20190807T114422Z">
+        <seg>### 技能名（关键属性）需受训；护甲减值</seg>
       </tuv>
     </tu>
     <tu>
@@ -3842,6 +3898,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Moving twice the character’s speed in a round requires two checks, one for each move action.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T123218Z" creationid="quentine" creationdate="20190807T123218Z">
+        <seg>（角色一轮内移动两倍于常速的距离需要检定两次，每个移动动作各一次。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(Normal creatures of its type have a much lower Intelligence score.)
 &gt;
 &gt;**Alertness (Ex):** The presence of a familiar sharpens its master’s senses.</seg>
@@ -3866,6 +3930,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190627T135451Z" creationid="quentine" creationdate="20190627T135451Z">
         <seg>（有关神术法术的更多内容见第十章：超自然能力。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(See the Hide skill)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T134540Z" creationid="quentine" creationdate="20190808T134540Z">
+        <seg>（见躲藏技能）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4185,6 +4257,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Accelerated Climbing:** A character can try to climb more quickly than normal.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T142029Z" creationid="quentine" creationdate="20190808T142029Z">
+        <seg>**加速攀爬：** 角色可以试着以快于平常的速度攀爬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Accelerated Movement:** The character can try to cross a precarious surface more quickly than normal.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T122840Z" creationid="quentine" creationdate="20190807T122840Z">
+        <seg>**加速移动：** 角色可以尝试以比平常更快的速度穿过不稳定的表面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Access to Advanced Classes:** Supporting characters with levels in one or more heroic basic classes can take levels in an advanced class, provided they meet the prerequisites for that class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T124738Z" creationid="quentine" creationdate="20190703T124738Z">
@@ -4401,6 +4489,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Armor Penalty:** If “Armor Penalty” appears on the line beneath the skill name, apply the armor penalty for the armor the character is wearing to checks involving this skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T115556Z" creationid="quentine" creationdate="20190807T115556Z">
+        <seg>**护甲减值：** 如果“护甲减值”出现在技能名旁边，技能检定要受到护甲的护甲减值影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Attacks:** Use the Mage’s base attack bonus.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190623T125002Z" creationid="quentine" creationdate="20190623T125002Z">
@@ -4437,6 +4533,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T083808Z" creationid="quentine" creationdate="20190116T115550Z">
         <seg>**基础攻击加值：** 角色的基本攻击加值与攻击次数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Being Attacked While Balancing:** While balancing, the character is flat-footed (the character loses his or her Dexterity bonus to Defense, if the character has one), unless the character has 5 or more ranks in Balance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T122622Z" creationid="quentine" creationdate="20190807T122622Z">
+        <seg>**平衡时被攻击：** 平衡时，角色处于`措手不及`状态（角色防御将失去敏捷加值），除非角色的平衡不小于5级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5250,6 +5354,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Catching Yourself When Falling:** It’s practically impossible for a character to catch him or herself on a wall while falling.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T142851Z" creationid="quentine" creationdate="20190808T142851Z">
+        <seg>**抓稳以停止坠落：** 角色在墙上坠落时几乎不可能抓住自己。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Charm:** The Charismatic hero gets a competence bonus on all Charisma-based skill checks made to influence members of his chosen gender.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T071157Z" creationid="quentine" creationdate="20190202T115745Z">
@@ -5258,10 +5370,42 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Check:** A Bluff check is opposed by the target’s Sense Motive check when trying to con or mislead.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T124446Z" creationid="quentine" creationdate="20190807T124446Z">
+        <seg>**检定：** 试图欺骗或误导所需进行的唬骗检定，是要与目标的察言观色检定对抗的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Check:** The DC and effect depend on the task you attempt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190614T142740Z" creationid="quentine" creationdate="20190614T142740Z">
         <seg>**检定：** DC与效果取决于你要催眠的目的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Check:** The character can walk on a precarious surface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T120854Z" creationid="quentine" creationdate="20190807T120854Z">
+        <seg>**检定：** 角色可以在不稳定的表面行走。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Check:** What a character can do with a successful skill check, and the check’s DC.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T115645Z" creationid="quentine" creationdate="20190807T115645Z">
+        <seg>**检定：** 角色要成功使用技能该执行的检定，以及检定DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Check:** With each successful Climb check, the character can advance up, down, or across a slope or a wall or other steep incline (or even a ceiling with handholds).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T141236Z" creationid="quentine" creationdate="20190808T141236Z">
+        <seg>**检定：** 每次成功的攀爬检定，角色可向上、下移动，或者翻越斜坡或者墙面或者其他陡峭的斜面（甚至是有把手点的天花板）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5366,6 +5510,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T073200Z" creationid="quentine" creationdate="20190216T073200Z">
         <seg>**协调：** 魅力型英雄在组织工作上很有一套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Creating a Diversion to Hide:** A character can use Bluff to help him or her hide.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T134247Z" creationid="quentine" creationdate="20190808T134247Z">
+        <seg>**转移注意力以躲藏：** 角色可以使用唬骗帮助自己躲藏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5618,6 +5770,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Feinting in Combat:** A character can also use Bluff to mislead an opponent in combat so that the opponent can’t dodge the character’s attack effectively.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T133811Z" creationid="quentine" creationdate="20190808T133811Z">
+        <seg>**战斗中的虚招：** 角色也可以在战斗中用唬骗来误导对手，让对手无法有效地闪避角色的攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Fire Resistance:** The Tough hero ignores an amount of fire damage equal to his or her Constitution modifier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144443Z" creationid="quentine" creationdate="20190117T144443Z">
@@ -5858,6 +6018,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Key Ability:** The abbreviation for the ability whose modifier applies to the skill check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T114825Z" creationid="quentine" creationdate="20190807T114825Z">
+        <seg>**关键属性：** 应用于技能检定的关键属性的缩写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Length Aura Lingers:** How long a Shadow aura lingers after the creature or object has vacated the location depends on the aura’s original strength.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T132955Z" creationid="quentine" creationdate="20190611T132916Z">
@@ -5878,6 +6046,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T135531Z" creationid="quentine" creationdate="20190201T135531Z">
         <seg>**语言专家：**拥有该天赋的智力型英雄是个语言大师。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Making Handholds and Footholds:** A character can make handholds and footholds by pounding pitons into a wall.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T142316Z" creationid="quentine" creationdate="20190808T142316Z">
+        <seg>**制造把手点和脚踏点：** 角色可以将岩钉打入墙中，制造把手点和脚踏点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6643,6 +6819,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Sending a Secret Message:** A character can use Bluff to send and understand secret messages while appearing to be speaking about other things.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T134819Z" creationid="quentine" creationdate="20190808T134819Z">
+        <seg>**传递密信：** 角色可以在谈论其他事情时，用一次唬骗传递和理解秘密信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Shadow Aura:** A creature of Shadow emanates an aura that links it to the supernatural dimension.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190527T143521Z" creationid="quentine" creationdate="20190527T143344Z">
@@ -6995,6 +7179,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Special:** A character can take 10 when making a Balance check, but can’t take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T124003Z" creationid="quentine" creationdate="20190807T124003Z">
+        <seg>**特殊：** 角色可以在平衡检定中取10， 但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character can take 10 when making a bluff (except for feinting in combat), but can’t take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T140356Z" creationid="quentine" creationdate="20190808T140356Z">
+        <seg>**特别：** 角色可以在唬骗时取10（战斗中虚招除外），但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Special:** A character may gain this feat multiple times.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190804T134437Z" creationid="quentine" creationdate="20190802T142240Z">
@@ -7031,6 +7231,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190731T131857Z" creationid="quentine" creationdate="20190731T131857Z">
         <seg>**特别：** 若对手拥有`精准射击`专长，对此角色的攻击减值又降为4点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** Any particular notes that apply, such as whether a character can take 10 or take 20 when using the skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T120323Z" creationid="quentine" creationdate="20190807T120323Z">
+        <seg>**特别：** 其他任何特别的事项，比如角色使用此技能是否能取10取20。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7119,6 +7327,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T123932Z" creationid="quentine" creationdate="20190704T123731Z">
         <seg>**特别：** 注意翻滚技能是需受训的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** Someone using a rope can haul a character upward (or lower the character) by means of sheer strength.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T143303Z" creationid="quentine" creationdate="20190808T143134Z">
+        <seg>**特别：** 使用绳索的人可以纯粹用力量将人往上（或往下）拉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7227,6 +7443,38 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Time:** A bluff takes at least 1 round (and is at least a full-round action) but can take much longer if the character tries something elaborate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T140604Z" creationid="quentine" creationdate="20190808T140604Z">
+        <seg>**时间：** 唬骗至少花费1轮的时间（至少是一个整轮动作），唬骗内容越复杂花的时间越多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** Balancing while moving one-half the character’s speed is a move action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T124131Z" creationid="quentine" creationdate="20190807T124131Z">
+        <seg>**时间：** 半速移动时的平衡是一个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** Climbing at one-half your speed is a full-round action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T150520Z" creationid="quentine" creationdate="20190808T150520Z">
+        <seg>**时间：** 以半速攀爬是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** How much time it takes to make a check with this skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T120729Z" creationid="quentine" creationdate="20190807T120729Z">
+        <seg>**时间：** 一次此技能的检定要花的时长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Time:** Unless otherwise indicated, Psicraft is a move action.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190619T135207Z" creationid="quentine" creationdate="20190619T135207Z">
@@ -7259,6 +7507,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Trained Only:** If “Trained Only” appears on the line beneath the skill name, a character must have at least 1 rank in the skill to use it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T115120Z" creationid="quentine" creationdate="20190807T115120Z">
+        <seg>**需受训：** 如果“需受训”出现在技能名旁边，角色的技能必须至少为1级才能使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Trick:**</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T151736Z" creationid="quentine" creationdate="20190201T151736Z">
@@ -7267,10 +7523,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Try Again?:** Any conditions that apply to repeated attempts to use the skill for a particular purpose.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T115957Z" creationid="quentine" creationdate="20190807T115957Z">
+        <seg>**重试：** 要再次尝试使用技能所要满足的条件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Try Again?:** For resist fear and memorize, you can make a check once per round.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190619T130927Z" creationid="quentine" creationdate="20190619T130927Z">
         <seg>**重试：** 对于抵御恐惧和记忆，你可以每轮做一次检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Try Again?:** Generally, a failed Bluff check makes the target too suspicious for the character to try another bluff in the same circumstances.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T140255Z" creationid="quentine" creationdate="20190808T140050Z">
+        <seg>**重试：** 通常，失败的唬骗检定让目标提高警惕，对相同情景下同一角色的唬骗行为戒心更重。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7335,6 +7607,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T123532Z" creationid="quentine" creationdate="20190117T123532Z">
         <seg>**二级直觉闪避：** 敏捷型英雄不受夹击影响；英雄能像应对单个敌人一样应对多个不同方向进攻的敌人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Untrained:** Any details about using a skill untrained.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T120438Z" creationid="quentine" creationdate="20190807T120351Z">
+        <seg>**未受训：** 在未受训情况下使用此技能的说明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8193,6 +8473,38 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A bluff is a quick prevarication intended to distract, confuse, or mislead, generally only for the short term.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T132520Z" creationid="quentine" creationdate="20190808T132520Z">
+        <seg>唬骗是用含糊其辞的方式分心、迷惑、误导，是短时间的行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A bluff is not intended to withstand long-term or careful scrutiny, but rather to momentarily deter an action or decision.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T132903Z" creationid="quentine" creationdate="20190808T132903Z">
+        <seg>唬骗并不是瞒天过海、精心设计，更多的是猝然地打断行为或者决定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A bluff is not the same thing as a lie.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T132301Z" creationid="quentine" creationdate="20190808T132301Z">
+        <seg>唬骗跟说谎是两码事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A bluff requires interaction between the character and the target.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T131753Z" creationid="quentine" creationdate="20190808T131753Z">
+        <seg>一次唬骗需要角色与目标之间可以交流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A bonus on a character’s skill modifier or a reduction in the DC of the check have the same result—they create a better chance for success.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T125450Z" creationid="quentine" creationdate="20190806T125450Z">
@@ -8329,6 +8641,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character can move half that far (one-half his or her speed) as a move action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T150755Z" creationid="quentine" creationdate="20190808T150755Z">
+        <seg>角色可以用一个移动动作只移动一半距离（角色常速的一半）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character can only spend 1 action point in a round.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T135516Z" creationid="quentine" creationdate="20190114T135516Z">
@@ -8349,6 +8669,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134701Z" creationid="quentine" creationdate="20190115T134357Z">
         <seg>角色能够对同样体型或者比自己大一级或小一级的目标扼喉或使其窒息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can take 10 while climbing, but can’t take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T143512Z" creationid="quentine" creationdate="20190808T143512Z">
+        <seg>角色攀爬可取10，但不能取20。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8513,6 +8841,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character should not make a Bluff check every time he or she utters a lie.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T133702Z" creationid="quentine" creationdate="20190808T133702Z">
+        <seg>角色不需要每次说谎都做唬骗检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character still must meet any prerequisites for these bonus feats.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T094725Z" creationid="QuenTine" creationdate="20181104T094725Z">
@@ -8585,10 +8921,42 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character with the Athletic feat gets a +2 bonus on all Climb checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T143851Z" creationid="quentine" creationdate="20190808T143851Z">
+        <seg>有竞技专长的角色的攀爬检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Deceptive feat gets a +2 bonus on all Bluff checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T140441Z" creationid="quentine" creationdate="20190808T140441Z">
+        <seg>有欺诈专长的角色的唬骗检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Focused feat gets a +2 bonus on all Balance checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T124047Z" creationid="quentine" creationdate="20190807T124047Z">
+        <seg>有全神贯注专长的角色的平衡检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character with this feat may throw weapons at his or her full normal rate of attacks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190803T141255Z" creationid="quentine" creationdate="20190803T141255Z">
         <seg>有此专长的角色可以以正常攻击速度掷出武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character without climbing gear takes a –4 penalty on Climb checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T143538Z" creationid="quentine" creationdate="20190808T143538Z">
+        <seg>无攀爬装备的角色的攀爬检定将有4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8785,6 +9153,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A failed Climb check indicates that the character makes no progress, and a check that fails by 5 or more means that the character falls from whatever height he or she had already attained (unless the character is secured with some kind of harness or other equipment).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T141608Z" creationid="quentine" creationdate="20190808T141608Z">
+        <seg>一个失败的攀爬检定意味着角色没有任何进展，失败大于等于5点则意味着角色坠落，不管角色达到了多少高度（除非角色有登山索或其他装备保障安全）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A failed Research check indicates that the Occultist instead discovers all random spells.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190613T132004Z" creationid="quentine" creationdate="20190613T125037Z">
@@ -8797,6 +9173,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190619T130748Z" creationid="quentine" creationdate="20190619T130748Z">
         <seg>若检定失败，也不会受到额外的惩罚——你可以不做费力动作避免受伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A failure by 5 or more indicates that the character falls.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T121436Z" creationid="quentine" creationdate="20190807T121436Z">
+        <seg>检定结果低于DC5点或者更多，角色会`坠落`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A failure indicates that the character spends his or her move action keeping his or her balance and does not move.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T121132Z" creationid="quentine" creationdate="20190807T121132Z">
+        <seg>检定失败则表示角色要花费一个移动动作保持平衡，无法移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8893,6 +9285,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T144208Z" creationid="quentine" creationdate="20190611T144208Z">
         <seg>击杀生物将死亡（如果生物有生命）或摧毁（如果是构装体类或不死生物类）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A knotted rope.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T144324Z" creationid="quentine" creationdate="20190808T144324Z">
+        <seg>单条带绳结的绳索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A lie, on the other hand, is a simple misrepresentation of the facts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T133234Z" creationid="quentine" creationdate="20190808T133234Z">
+        <seg>而一个谎言只是捏造事实而已。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9145,6 +9553,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A slope is considered to be any incline of less than 60 degrees; a wall is any incline of 60 degrees or steeper.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T141348Z" creationid="quentine" creationdate="20190808T141348Z">
+        <seg>斜坡指的是任何坡度小于60度的坡道；墙指的是任何坡度大于等于60度的坡道。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A slope is relatively easier to catch on (DC equal to slope’s DC + 10).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T142956Z" creationid="quentine" creationdate="20190808T142956Z">
+        <seg>斜坡则相对容易抓住（DC为斜坡DC+10）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A special ability granted by a familiar only applies when the Mage and the familiar are within 1 mile of each other.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190623T123440Z" creationid="quentine" creationdate="20190623T123440Z">
@@ -9193,6 +9617,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A successful Bluff check gives the character the momentary diversion needed to attempt a Hide check while people are aware of the character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T134529Z" creationid="quentine" creationdate="20190808T134529Z">
+        <seg>一次成功的唬骗检定可让角色分散搜捕者的注意力一小会，让自己此时可以做一次躲藏检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A successful Bluff check indicates that the target reacts as the character wishes, at least for a short time (usually 1 round or less), or the target believes something that the character wants him or her to believe.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T131735Z" creationid="quentine" creationdate="20190808T131735Z">
+        <seg>一个成功的唬骗检定意味着目标按照角色希望的样子做出反应，至少短时间如此（通常1轮或更短），或者意味着目标相信了角色希望目标相信的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A successful Reflex save indicates that the target takes half damage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140136Z" creationid="quentine" creationdate="20190115T140136Z">
@@ -9225,6 +9665,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A successful check lets the character move at half his or her speed along the surface as a move action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T121016Z" creationid="quentine" creationdate="20190807T121016Z">
+        <seg>一次成功的检定可以使角色以半速在这种表面上用一个移动动作行走。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A successful check relates the danger’s strength compared to the Infiltrator: stronger (higher level or Hit Dice), on par (same level or HD), or weaker (lower level or HD).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190418T010132Z" creationid="quentine" creationdate="20190418T005822Z">
@@ -9237,6 +9685,16 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190802T131644Z" creationid="quentine" creationdate="20190802T131644Z">
         <seg>豁免成功将使此对手在24小时内免疫此角色发动的此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A surface with sizable ledges to hold on to and stand on, such as a rugged cliff face.|
+|15|Any surface with adequate handholds and footholds (natural or artificial), such as a rough natural rock surface, a tree, or a chain-link fence.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T144811Z" creationid="quentine" creationdate="20190808T144811Z">
+        <seg>有足够抱住和站立的突出部的表面，比如崎岖的峭壁表面。|
+|15|有足够抓住的把手点和脚踏点（天然或人工）的表面，比如粗糙的天然岩石表面、一棵树、或者铁丝网围栏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9309,6 +9767,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T095200Z" creationid="QuenTine" creationdate="20181104T095200Z">
         <seg>学者包括图书管理员、考古学家、专家、教授、教师以及其他与教育相关的职业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accelerated climbing, allowing the character to climb at his or her full speed, is a full-round action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T150647Z" creationid="quentine" creationdate="20190808T150647Z">
+        <seg>能让角色以常速攀爬的加速攀爬，是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Accelerated movement, allowing the character to balance while moving his or her full speed, is also a move action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T124256Z" creationid="quentine" creationdate="20190807T124256Z">
+        <seg>常速移动时的平衡也是一个移动动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9653,6 +10127,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132930Z" creationid="quentine" creationdate="20190115T132930Z">
         <seg>此后角色必须每小时进行一次体质检定（DC10，每次检定后+1），失败则损失1d6点生命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Against a nonintelligent creature, feinting is impossible.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T134141Z" creationid="quentine" creationdate="20190808T134141Z">
+        <seg>对付非智能生物，虚招永远是无效的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10297,6 +10779,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An unknotted rope.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T144853Z" creationid="quentine" creationdate="20190808T144831Z">
+        <seg>单条没绳结的绳索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Animal Affinity, Archaic Weapons Proficiency, Armor Proficiency (light), Attentive, Combat Expertise, Educated, Frightful Presence, Iron Will, Medical Expert, Studious, Trustworthy.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190703T114643Z">
@@ -10445,6 +10935,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T142037Z" creationid="quentine" creationdate="20190114T142037Z">
         <seg>只要角色受到的单次攻击伤害超过了角色的巨创阈值，此伤害视为巨创。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any time the character takes damage while climbing, make a Climb check against the DC of the slope or wall.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T141902Z" creationid="quentine" creationdate="20190808T141902Z">
+        <seg>只要角色在攀爬时承受伤害，都要进行一次攀爬检定，对抗斜坡或墙的DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Anyone listening in on a secret message can attempt a Sense Motive check (DC equal to the sender’s Bluff check result).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T135451Z" creationid="quentine" creationdate="20190808T135451Z">
+        <seg>任何听到密信的人都可以做一次察言观色检定（DC等于传递者的唬骗检定结果）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10629,6 +11135,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T120821Z" creationid="quentine" creationdate="20190703T120821Z">
         <seg>路人升级时也增加技能点、基础攻击加值、豁免加值、防御加值，以及声望加值——这些和英雄一样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As with any surface with handholds and footholds, a wall with pitons in it has a DC of 15.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T142513Z" creationid="quentine" creationdate="20190808T142447Z">
+        <seg>在任何有把手点和脚踏点的表面，有岩钉的墙攀爬DC为15。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11609,6 +12123,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the GM’s discretion, certain kinds of climbing attempts might require only a rope or some other implement, or even just one’s hands and feet, rather than a full set of climbing gear to avoid the penalty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T143831Z" creationid="quentine" creationdate="20190808T143831Z">
+        <seg>由GM自由裁量具体的情况要求何种装备，只需要一根绳索还是其他工具，或者仅仅只需手脚而不是整套攀爬装备就可以避免减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the end of the duration, the Daredevil is fatigued for 1d4+1 rounds.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T123446Z" creationid="quentine" creationdate="20190421T123446Z">
@@ -11801,10 +12323,42 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bluffs involve attitude and body language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T133005Z" creationid="quentine" creationdate="20190808T132939Z">
+        <seg>唬骗更多用到神态和肢体语言，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bluffs often include lies, but they usually aren’t very sophisticated and aren’t intended to deceive the target for more than a few moments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T133603Z" creationid="quentine" creationdate="20190808T133001Z">
+        <seg>也经常包括了谎言，但不是精心编造的，也别指望能让目标相信太久；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Body language and attitude aren’t a big part of communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T133613Z" creationid="quentine" creationdate="20190808T133310Z">
+        <seg>肢体语言和神态并不是交流的重心，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bonuses with specific descriptors, such as “equipment bonus,” generally don’t stack (combine for cumulative effect) with others of the same type.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T140937Z" creationid="quentine" creationdate="20190806T140937Z">
         <seg>带有特定学名的加值，比如“装备加值”，一般无法与其他同类型加值堆叠（效果相加）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Both the sender and the receiver must make the check for the secret message to be successfully relayed and understood.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T135345Z" creationid="quentine" creationdate="20190808T135345Z">
+        <seg>传递者和接受者各需要做一次检定以示阐明和理解。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11953,6 +12507,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Charging requires one Balance check at a –5 penalty for each multiple of the character’s speed (or fraction thereof) that the character charges.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T123937Z" creationid="quentine" creationdate="20190807T123937Z">
+        <seg>冲锋时，每一倍于常速（超而未满向上取整）都要进行一次带5点减值的平衡检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Check the skill description to find out if, and under what circumstances, a character can try again.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T142558Z" creationid="quentine" creationdate="20190805T142558Z">
@@ -12093,6 +12655,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113723Z" creationid="quentine" creationdate="20190115T113723Z">
         <seg>全天休养（24小时）每天恢复2点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Complex messages or messages trying to communicate new information have DCs of 15 or 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T135608Z" creationid="quentine" creationdate="20190808T135134Z">
+        <seg>复杂的信息或者试图交流新的信息将会有15或20的DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12446,6 +13016,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Doing so takes 1 minute per piton, and one piton is needed per 3 feet.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T142405Z" creationid="quentine" creationdate="20190808T142405Z">
+        <seg>每打一个岩钉需要1分钟，每3尺需要一个岩钉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Doing this provides the Bodyguard’s allies with a +1 insight bonus to Defense for 3 rounds.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190731T120402Z" creationid="quentine" creationdate="20190421T135020Z">
@@ -12686,6 +13264,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Entries that do not apply to a particular skill are omitted in that skill’s description.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T120026Z" creationid="quentine" creationdate="20190807T114145Z">
+        <seg>技能中无效的项将省略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evasion can only be used when wearing light armor or no armor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T124505Z" creationid="quentine" creationdate="20190117T122324Z">
@@ -12822,6 +13408,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Exceptions: Speak Language and Read/Write Language have “None” given as their key ability because the use of these skills never requires a check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T114918Z" creationid="quentine" creationdate="20190807T114918Z">
+        <seg>例外：口头语言和读写语言的关键属性是“无”，因为这些技能的使用不需要检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failure means he or she takes another 1d6 points of damage that round.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132410Z" creationid="quentine" creationdate="20190115T132410Z">
@@ -12846,6 +13440,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failure means the character falls from his or her current height and sustains the appropriate falling damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T141952Z" creationid="quentine" creationdate="20190808T141952Z">
+        <seg>失败则意味着角色从当前的高度在坠落，并承受相应的坠落伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fame, when recognized, provides a bonus to certain Charisma-based skill checks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T124103Z">
@@ -12858,6 +13460,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T142242Z" creationid="QuenTine" creationdate="20181104T142242Z">
         <seg>农民、猎户以及各类在农村生活的人都归为此类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Favorable and unfavorable circumstances weigh heavily on the outcome of a bluff.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T124646Z" creationid="quentine" creationdate="20190807T124646Z">
+        <seg>有利和不利的情况对唬骗结果的影响占了很大比重。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13002,6 +13612,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T064004Z" creationid="quentine" creationdate="20190112T064004Z">
         <seg>检定点超过DC的部分，每5点额外加1点财富值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For feinting in combat, the character may try again freely.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T140315Z" creationid="quentine" creationdate="20190808T140315Z">
+        <seg>而战斗中的虚招则可以随便重试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For instance, if the target gets a +10 bonus because the bluff demands something risky of the target, and the target’s Sense Motive check succeeds by 10 or less, then the target didn’t so much see through the bluff as prove reluctant to go along with it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T131247Z" creationid="quentine" creationdate="20190808T131247Z">
+        <seg>举个例子，如果目标因为唬骗要求目标冒一定风险而获得10点加值，而目标的察言观色检定结果高于唬骗10点以及更低，则视为目标并未识破唬骗而是因为太难而拒绝。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13486,6 +14112,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If any particular notes apply to trained or untrained use, they are covered in the Special section (see below).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T115420Z" creationid="quentine" creationdate="20190807T115420Z">
+        <seg>如果技能的使用针对受训与未受训有特别的规则，将会在`特别`一项里阐明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If at any time the target breaks free or slips free of the grapple, the stranglehold is broken (although any damage that was dealt remains).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T135103Z" creationid="quentine" creationdate="20190115T135103Z">
@@ -13534,6 +14168,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it’s important, the GM can distinguish between a bluff that fails because the target doesn’t believe it and one that fails because it asks too much of the target.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T130941Z" creationid="quentine" creationdate="20190808T130941Z">
+        <seg>如果有必要，GM可以区分唬骗失败的原因到底是目标不相信还是要求太多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If more than one condition affects a character, apply both if possible.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T115532Z" creationid="quentine" creationdate="20190115T115532Z">
@@ -13578,6 +14220,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T112812Z" creationid="quentine" creationdate="20190115T112812Z">
         <seg>如果成功，角色变为瘫痪（见上文）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If successful, the eavesdropper realizes that a secret message is contained in the communication.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T135621Z" creationid="quentine" creationdate="20190808T135552Z">
+        <seg>如果成功，偷听者会意识到交流中包含的密信。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13886,6 +14536,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character succeeds, the next attack the character makes against the target ignores his or her Dexterity bonus to Defense (if the opponent has one), thus lowering his or her Defense score.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T133950Z" creationid="quentine" creationdate="20190808T133950Z">
+        <seg>如果角色成功，角色对对手的下一次攻击无视其敏捷加值（如果对手有），以此降低对手的防御值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character succeeds, turn the other vehicle 90 degrees across the front of the character’s, so that they form a tee.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190801T141948Z" creationid="quentine" creationdate="20190731T140105Z">
@@ -13898,6 +14556,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134519Z" creationid="QuenTine" creationdate="20181106T134519Z">
         <seg>如果角色成功购买一件物品或服务，但物品或服务的购买DC大于角色的财富加值，角色的财富加值会降低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character takes damage, he or she must make a Balance check again to remain standing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T122703Z" creationid="quentine" creationdate="20190807T122703Z">
+        <seg>如果角色承受伤害，角色必须再做一次平衡检定以保持站立。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14038,6 +14704,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the climb is less than 10 feet, reduce the DC by 5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T141711Z" creationid="quentine" creationdate="20190808T141711Z">
+        <seg>如果攀爬低于10尺，DC-5。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the creature can attack, it applies its Dexterity modifier to its base attack instead of a Strength modifier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T133452Z" creationid="QuenTine" creationdate="20181103T133452Z">
@@ -14050,6 +14724,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145420Z" creationid="quentine" creationdate="20190114T145420Z">
         <seg>如果伤害大于等于目标的巨创阈值，目标必须进行强韧豁免判定（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the eavesdropper beats the DC by 5 or more, he or she understands the secret message.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T135707Z" creationid="quentine" creationdate="20190808T135707Z">
+        <seg>如果成功结果超过DC大于等于5点，偷听者将会破译密信。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14278,6 +14960,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the target’s Sense Motive check succeeds by 11 or more, he has seen through the bluff, and would have succeeded in doing so even if it had not placed any demand on him (that is, even without the +10 bonus).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T131554Z" creationid="quentine" creationdate="20190808T131554Z">
+        <seg>如果目标察言观色检定结果高于唬骗11以及更多，目标则是看穿了唬骗，唬骗者还未提任何要求就被拒绝了（也就是没有那10点加值，目标也成功了）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the turning check result is equal to or greater than the turning check result that the good Acolyte scored when turning them, then the creatures are no longer turned.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T114040Z" creationid="quentine" creationdate="20190703T113519Z">
@@ -14298,6 +14988,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T122926Z" creationid="quentine" creationdate="20190704T122926Z">
         <seg>如果不具有此专长的人物不会有特定的劣势，则本项缺省。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this entry doesn’t appear, it means the skill works the same even when used untrained, or that an untrained character can’t make checks with this skill (true for skills that are designated “Trained Only”).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T120642Z" creationid="quentine" creationdate="20190807T120642Z">
+        <seg>如果没有这一项，即表示技能是否受训效果都是一样的，或者是不允许未受训就使用（如果技能标明了“需受训”）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this entry is omitted, the skill check can be tried again without any inherent penalty other than taking additional time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T120200Z" creationid="quentine" creationdate="20190807T120020Z">
+        <seg>如果没有这一项，重试技能检定除了需要再花时间外没有任何固有惩罚。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14402,6 +15108,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190619T132652Z" creationid="quentine" creationdate="20190619T131441Z">
         <seg>如果是在释放灵力途中，该灵力丧失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If “Trained Only” is omitted, the skill can be used untrained.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T115153Z" creationid="quentine" creationdate="20190807T115153Z">
+        <seg>如果没有“需受训”，这个技能就可以直接使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14682,6 +15396,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132754Z" creationid="quentine" creationdate="20190115T132754Z">
         <seg>在正常气候下，主角每天需要至少半加仑的饮料以及大约四分之一磅的主食以避免饥饿的威胁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In similar fashion, a climber with an ice axe or other proper implement can cut handholds or footholds in an ice wall.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T142653Z" creationid="quentine" creationdate="20190808T142653Z">
+        <seg>类似的方法，有冰斧或类似工具的攀爬者可以在冰墙中凿出把手点和脚踏点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15256,6 +15978,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make a Climb check (DC equal to wall’s DC + 20) to do so.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T142925Z" creationid="quentine" creationdate="20190808T142925Z">
+        <seg>要这么做需要做一个攀爬检定（DC为墙的DC再加20）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make the Computer Use check to program the robot.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190523T131847Z" creationid="quentine" creationdate="20190523T131830Z">
@@ -15372,6 +16102,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190801T142302Z" creationid="quentine" creationdate="20190731T140422Z">
         <seg>将它们向前移动等同于角色的`转向距离`的距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Moving half that far (one-fourth the character’s speed) is a move action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T150606Z" creationid="quentine" creationdate="20190808T150606Z">
+        <seg>按此速度只移动一般距离（角色常速的1/4）是一个移动动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16164,6 +16902,28 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Pulling yourself up when dangling by your hands.|
+|20|An uneven surface with just a few narrow handholds and footholds, such as a coarse masonry wall or a sheer cliff face with a few crevices and small toeholds.|
+|25|A rough surface with no real handholds or footholds, such as a brick wall.|
+|25|Overhang or ceiling with handholds but no footholds.|
+|—|A perfectly smooth, flat, vertical surface can’t be climbed.|
+|–10\*|Climbing inside an air duct or other location where one can brace against two opposite walls (reduces normal DC by 10).|
+|–5\*|Climbing a corner where a character can brace against perpendicular walls (reduces normal DC by 5).|
+|+5\*|Surface is slippery (increases normal DC by 5).|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T150336Z" creationid="quentine" creationdate="20190808T150336Z">
+        <seg>仅靠手悬挂着引体向上。|
+|20|不平的表面上只有少量狭窄的把手点和脚踏点，比如粗糙的石墙或只有少量裂隙和落脚点的峻峭的峭壁。|
+|25|没有真正的把手点和脚踏点的粗糙表面，比如砖墙。|
+|25|只有把手点没有脚踏点的岩崖或天花板。|
+|—|极度光滑、平整、垂直的墙，不可攀爬。|
+|–10\*|在通风管或者其他可以踩着两面相对的墙的地方攀爬（正常DC-10）。|
+|–5\*|在可以踩着相互垂直的墙面的墙脚的地方攀爬（正常DC-5）。|
+|+5\*|光滑的表面（正常DC+5）。|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ranks indicate how much training or experience a character has with a given skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T133450Z" creationid="quentine" creationdate="20190805T133450Z">
@@ -16476,6 +17236,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since the character can’t move to avoid an attack, he or she is flat-footed while climbing (the character loses any Dexterity bonus to Defense).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T141809Z" creationid="quentine" creationdate="20190808T141809Z">
+        <seg>既然角色不能移动以回避攻击，角色在攀爬时是措手不及的（角色的防御失去任何敏捷加值）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since this effect would not normally allow a character to make a Reflex save for half damage, the Fast hero’s evasion talent doesn’t apply to the defensive roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T125942Z" creationid="quentine" creationdate="20190117T125942Z">
@@ -16496,6 +17264,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T094023Z" creationid="quentine" creationdate="20190216T094023Z">
         <seg>获得的技能点数取决于所升级的职业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skills are presented in alphabetical order, in the following format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T113814Z" creationid="quentine" creationdate="20190807T113814Z">
+        <seg>技能按字母顺序列出，按照以下格式描述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16956,6 +17732,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Targets unaware of the character can’t be bluffed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T131824Z" creationid="quentine" creationdate="20190808T131824Z">
+        <seg>目标不懂角色在表达什么则不会被唬骗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tattoos function similarly to scrolls, and are created in the same way (see the scribe scroll ability), except that the pertinent skill is Craft (visual arts).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190624T141940Z" creationid="quentine" creationdate="20190624T141940Z">
@@ -17308,6 +18092,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DC for a basic message is 10.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T134830Z" creationid="quentine" creationdate="20190808T134830Z">
+        <seg>基本信息的DC是10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DC for concealed or less obvious threats is equal to their Hide check result.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T141623Z" creationid="quentine" creationdate="20190417T141504Z">
@@ -17440,6 +18232,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190522T143244Z" creationid="quentine" creationdate="20190522T143027Z">
         <seg>制造（机械）的检定DC由体型决定基准DC，运动方式决定DC调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DC of the check depends on the conditions of the climb.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T141636Z" creationid="quentine" creationdate="20190808T141636Z">
+        <seg>检定DC取决于攀爬情况。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18684,6 +19484,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character can attempt to charge across a precarious surface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T123256Z" creationid="quentine" creationdate="20190807T123256Z">
+        <seg>角色可以试图冲过不稳定的表面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character can make a Strength check to lift the object off him or herself or an Escape Artist check (DC 20) to get out from underneath.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140542Z" creationid="quentine" creationdate="20190115T140542Z">
@@ -18696,6 +19504,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190804T150337Z" creationid="quentine" creationdate="20190804T150337Z">
         <seg>角色可以在24小时周期内释放3次该灵力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character can move his or her full speed, but the character takes a –5 penalty on his or her Balance check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T123114Z" creationid="quentine" creationdate="20190807T123114Z">
+        <seg>角色可以以常速移动，但角色的平衡检定要受5点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character can move his or her full speed, but the character takes a –5 penalty on his or her Climb check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T142054Z" creationid="quentine" creationdate="20190808T142054Z">
+        <seg>角色可以常速移动，但攀爬检定要再承受5点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19252,6 +20076,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The difficulty varies with the conditions of the surface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T121519Z" creationid="quentine" creationdate="20190807T121519Z">
+        <seg>不同的表面的难度值见下表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The effect ends immediately if the target is attacked or threatened.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T132901Z" creationid="quentine" creationdate="20190215T132825Z">
@@ -19756,6 +20588,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The lie may be very sophisticated and well thought-out, and is intended to deceive a character at least until he or she discovers evidence to the contrary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T133557Z" creationid="quentine" creationdate="20190808T133538Z">
+        <seg>而谎言则可以经过精心编排，滴水不漏，目的是欺骗角色一段时间，至少直到角色发现相反的证据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The loss is permanent.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T120255Z" creationid="quentine" creationdate="20190115T120255Z">
@@ -20096,6 +20936,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140147Z" creationid="quentine" creationdate="20190115T140147Z">
         <seg>坠落物的尺寸决定了豁免DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The skill name line and the line beneath it include the following information:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T114641Z" creationid="quentine" creationdate="20190807T114641Z">
+        <seg>技能名一行以及以下各行包括了以下信息：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21850,6 +22698,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Two circumstances can work against the character: The bluff is hard to believe, or the action that the bluff requires the target to take goes against the target’s self-interest, nature, personality, or orders.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T130636Z" creationid="quentine" creationdate="20190808T130636Z">
+        <seg>以下两种情景对唬骗不利：唬骗本身可信度低，或者唬骗行为要求目标做违背自己的利益、天性、个性或者命令的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Two successful saving throws in a row indicate that the character has fought off the disease and recovers, taking no more damage.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142052Z" creationid="quentine" creationdate="20190115T142052Z">
@@ -22006,6 +22862,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190623T112308Z" creationid="quentine" creationdate="20190623T112308Z">
         <seg>使用此技能来辨识他人正在施展的法术，或者辨识现场的法术效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use two times a character’s maximum load to determine how much weight he or she can lift.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T143448Z" creationid="quentine" creationdate="20190808T143448Z">
+        <seg>角色最多能拉动两倍于自身最大负载的重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using Bluff as a feint in combat is an attack action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T140639Z" creationid="quentine" creationdate="20190808T140639Z">
+        <seg>在战斗中用唬骗使出虚招是一个攻击动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using Bluff in this way against a creature of animal intelligence (Int 1 or 2) requires a –8 penalty on the check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T134103Z" creationid="quentine" creationdate="20190808T134103Z">
+        <seg>用这种方法唬骗只有动物智力（智力1或2）的生物，唬骗检定会有8点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22498,6 +23378,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Whether trying to send or intercept a message, a failure by 5 or more points means that one side or the other misinterprets the message in some fashion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T140121Z" creationid="quentine" creationdate="20190808T140028Z">
+        <seg>无论是发送还是接收密信，失败5点或更多将意味着其中一方表达错误或另一方曲解了密信的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>While studying, the Mage decides which spells to prepare.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190623T120044Z" creationid="quentine" creationdate="20190623T120044Z">
@@ -22840,6 +23728,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>\* Add +5 to the DC if the narrow surface is slippery or angled; add +10 if it is both slippery and angled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T122422Z" creationid="quentine" creationdate="20190807T122422Z">
+        <seg>\* 狭窄表面若是光滑或有棱角则+5DC；光滑且有棱角则+10DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>\* Bonus Spells by Spell Level</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190623T115903Z" creationid="quentine" creationdate="20190623T115903Z">
@@ -22908,6 +23804,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143149Z" creationid="quentine" creationdate="20190115T143149Z">
         <seg>\* 若伤害已造成，再进行一次豁免以避免1点永久性的属性流失（而不是伤害）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\*These modifiers are cumulative; use any that apply.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T150456Z" creationid="quentine" creationdate="20190808T150456Z">
+        <seg>\*此调整值是累加的，满足即应用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24124,6 +25028,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|DC|Example Wall or Surface or Task|
+|:-:|------------------------------|
+|0|A slope too steep to walk up.|
+|5|A knotted rope with a wall to brace against.|
+|10|A rope with a wall to brace against.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T144256Z" creationid="quentine" creationdate="20190808T144256Z">
+        <seg>|DC|示例墙或者表面或者目的|
+|:-:|------------------------------|
+|0|陡到不能走的斜坡。|
+|5|带绳结的绳索和可以踩着爬的墙。|
+|10|没绳结的绳索和可以踩着爬的墙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|DC|Task|
 |--|----|
 |15 + power level|Identify a psionic power as it manifests.</seg>
@@ -24209,15 +25129,27 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |Recognize a stranger you’ve seen before|Wisdom|
 |Getting yourself noticed in a crowd|Charisma|</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T140535Z" creationid="quentine" creationdate="20190806T140535Z">
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T143143Z" creationid="quentine" creationdate="20190806T140535Z">
         <seg>|示例属性检定|关键属性|
 |---------------------|-----------|
 |强行打开顶住的或锁住的门|力量|
-|系一根绳子|敏捷|
+|系一根绳索|敏捷|
 |屏住呼吸|体质|
 |迷宫寻路|智力|
 |认出曾经见过的陌生人|感知|
 |在人群中吸引他人注意|魅力|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Example Circumstances|Sense Motive Modifier|
+|---------------------|:-------------------:|
+|The target wants to believe the character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T131923Z" creationid="quentine" creationdate="20190808T131923Z">
+        <seg>|示例情景|察言观色调整值|
+|---------------------|:-------------------:|
+|目标希望相信角色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24380,6 +25312,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |8th|4|4|3|3|2|—|
 |9th|4|4|4|3|2|1|
 |10th|4|4|4|3|3|2|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Narrow Surface|DC\*|Difficult Surface|DC|
+|--------------|:-:|-----------------|:-:|
+|7–12 in wide|10|Uneven or angled|10|
+|2–6 in wide|15|Slippery surface|10|
+|Less than 2 in wide|20|||</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T122130Z" creationid="quentine" creationdate="20190807T122130Z">
+        <seg>|狭窄表面|DC\*|困难表面|DC|
+|--------------|:-:|-----------------|:-:|
+|7–12寸宽|10|不平坦或者有棱角的|10|
+|2–6寸宽|15|光滑的表面|10|
+|低于2寸宽|20|||</seg>
       </tuv>
     </tu>
     <tu>
@@ -24792,6 +25740,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |18–19|—|1|1|1|1|—|
 |20–21|—|2|1|1|1|1|
 |22–23|—|2|2|1|1|1|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|–5|
+|The bluff is believable and doesn’t affect the target much one way or the other.|+0|
+|The bluff is a little hard to believe or puts the target at some kind of risk.|+5|
+|The bluff is hard to believe or entails a large risk for the target.|+10|
+|The bluff is way out there; it’s almost too incredible to consider.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T132239Z" creationid="quentine" creationdate="20190808T132239Z">
+        <seg>|–5|
+|唬骗内容是可信的且对目标影响不大。|+0|
+|唬骗内容有点难以置信或者会让目标冒一定风险。|+5|
+|唬骗内容难以置信或者会让目标冒很大的风险。|+10|
+|唬骗内容非常荒谬，太难以置信了。</seg>
       </tuv>
     </tu>
     <tu>

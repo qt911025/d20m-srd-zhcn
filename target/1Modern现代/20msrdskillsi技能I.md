@@ -1,146 +1,146 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
 
-# SKILLS I
+# 技能 I
 
-## Skill Descriptions
+## 技能描述
 
-Skills are presented in alphabetical order, in the following format. Entries that do not apply to a particular skill are omitted in that skill’s description.
+技能按字母顺序列出，按照以下格式描述。技能中无效的项将省略。
 
-## Skill Description Format
+## 技能描述格式
 
-### Skill Name (Key Ability) Trained Only; Armor Penalty
+### 技能名（关键属性）需受训；护甲减值
 
-The skill name line and the line beneath it include the following information:
+技能名一行以及以下各行包括了以下信息：
 
-**Key Ability:** The abbreviation for the ability whose modifier applies to the skill check. Exceptions: Speak Language and Read/Write Language have “None” given as their key ability because the use of these skills never requires a check.
+**关键属性：** 应用于技能检定的关键属性的缩写。例外：口头语言和读写语言的关键属性是“无”，因为这些技能的使用不需要检定。
 
-**Trained Only:** If “Trained Only” appears on the line beneath the skill name, a character must have at least 1 rank in the skill to use it. If “Trained Only” is omitted, the skill can be used untrained. If any particular notes apply to trained or untrained use, they are covered in the Special section (see below).
+**需受训：** 如果“需受训”出现在技能名旁边，角色的技能必须至少为1级才能使用。如果没有“需受训”，这个技能就可以直接使用。如果技能的使用针对受训与未受训有特别的规则，将会在`特别`一项里阐明。
 
-**Armor Penalty:** If “Armor Penalty” appears on the line beneath the skill name, apply the armor penalty for the armor the character is wearing to checks involving this skill.
+**护甲减值：** 如果“护甲减值”出现在技能名旁边，技能检定要受到护甲的护甲减值影响。
 
-**Check:** What a character can do with a successful skill check, and the check’s DC.
+**检定：** 角色要成功使用技能该执行的检定，以及检定DC。
 
-**Try Again?:** Any conditions that apply to repeated attempts to use the skill for a particular purpose. If this entry is omitted, the skill check can be tried again without any inherent penalty other than taking additional time.
+**重试：** 要再次尝试使用技能所要满足的条件。如果没有这一项，重试技能检定除了需要再花时间外没有任何固有惩罚。
 
-**Special:** Any particular notes that apply, such as whether a character can take 10 or take 20 when using the skill.
+**特别：** 其他任何特别的事项，比如角色使用此技能是否能取10取20。
 
-**Untrained:** Any details about using a skill untrained. If this entry doesn’t appear, it means the skill works the same even when used untrained, or that an untrained character can’t make checks with this skill (true for skills that are designated “Trained Only”).
+**未受训：** 在未受训情况下使用此技能的说明。如果没有这一项，即表示技能是否受训效果都是一样的，或者是不允许未受训就使用（如果技能标明了“需受训”）。
 
-**Time:** How much time it takes to make a check with this skill.
+**时间：** 一次此技能的检定要花的时长。
 
-## Balance (Dex) Armor Penalty
+## 平衡（敏） 护甲减值
 
-**Check:** The character can walk on a precarious surface. A successful check lets the character move at half his or her speed along the surface as a move action. A failure indicates that the character spends his or her move action keeping his or her balance and does not move. A failure by 5 or more indicates that the character falls. The difficulty varies with the conditions of the surface.
+**检定：** 角色可以在不稳定的表面行走。一次成功的检定可以使角色以半速在这种表面上用一个移动动作行走。检定失败则表示角色要花费一个移动动作保持平衡，无法移动。检定结果低于DC5点或者更多，角色会`坠落`。不同的表面的难度值见下表。
 
-|Narrow Surface|DC\*|Difficult Surface|DC|
+|狭窄表面|DC\*|困难表面|DC|
 |--------------|:-:|-----------------|:-:|
-|7–12 in. wide|10|Uneven or angled|10|
-|2–6 in. wide|15|Slippery surface|10|
-|Less than 2 in. wide|20|||
+|7–12寸宽|10|不平坦或者有棱角的|10|
+|2–6寸宽|15|光滑的表面|10|
+|低于2寸宽|20|||
 
-\* Add +5 to the DC if the narrow surface is slippery or angled; add +10 if it is both slippery and angled.
+\* 狭窄表面若是光滑或有棱角则+5DC；光滑且有棱角则+10DC。
 
-**Being Attacked While Balancing:** While balancing, the character is flat-footed (the character loses his or her Dexterity bonus to Defense, if the character has one), unless the character has 5 or more ranks in Balance. If the character takes damage, he or she must make a Balance check again to remain standing.
+**平衡时被攻击：** 平衡时，角色处于`措手不及`状态（角色防御将失去敏捷加值），除非角色的平衡不小于5级。如果角色承受伤害，角色必须再做一次平衡检定以保持站立。
 
-**Accelerated Movement:** The character can try to cross a precarious surface more quickly than normal. The character can move his or her full speed, but the character takes a –5 penalty on his or her Balance check. (Moving twice the character’s speed in a round requires two checks, one for each move action.)
+**加速移动：** 角色可以尝试以比平常更快的速度穿过不稳定的表面。角色可以以常速移动，但角色的平衡检定要受5点减值。（角色一轮内移动两倍于常速的距离需要检定两次，每个移动动作各一次。）
 
-The character can attempt to charge across a precarious surface. Charging requires one Balance check at a –5 penalty for each multiple of the character’s speed (or fraction thereof) that the character charges.
+角色可以试图冲过不稳定的表面。冲锋时，每一倍于常速（超而未满向上取整）都要进行一次带5点减值的平衡检定。
 
-**Special:** A character can take 10 when making a Balance check, but can’t take 20.
+**特殊：** 角色可以在平衡检定中取10， 但不能取20。
 
-A character with the Focused feat gets a +2 bonus on all Balance checks.
+有全神贯注专长的角色的平衡检定有2点加值。
 
-**Time:** Balancing while moving one-half the character’s speed is a move action.
+**时间：** 半速移动时的平衡是一个移动动作。
 
-Accelerated movement, allowing the character to balance while moving his or her full speed, is also a move action.
+常速移动时的平衡也是一个移动动作。
 
-## Bluff (Cha)
+## 唬骗（魅）
 
-**Check:** A Bluff check is opposed by the target’s Sense Motive check when trying to con or mislead. Favorable and unfavorable circumstances weigh heavily on the outcome of a bluff. Two circumstances can work against the character: The bluff is hard to believe, or the action that the bluff requires the target to take goes against the target’s self-interest, nature, personality, or orders.
+**检定：** 试图欺骗或误导所需进行的唬骗检定，是要与目标的察言观色检定对抗的。有利和不利的情况对唬骗结果的影响占了很大比重。以下两种情景对唬骗不利：唬骗本身可信度低，或者唬骗行为要求目标做违背自己的利益、天性、个性或者命令的事。
 
-If it’s important, the GM can distinguish between a bluff that fails because the target doesn’t believe it and one that fails because it asks too much of the target. For instance, if the target gets a +10 bonus because the bluff demands something risky of the target, and the target’s Sense Motive check succeeds by 10 or less, then the target didn’t so much see through the bluff as prove reluctant to go along with it. If the target’s Sense Motive check succeeds by 11 or more, he has seen through the bluff, and would have succeeded in doing so even if it had not placed any demand on him (that is, even without the +10 bonus).
+如果有必要，GM可以区分唬骗失败的原因到底是目标不相信还是要求太多。举个例子，如果目标因为唬骗要求目标冒一定风险而获得10点加值，而目标的察言观色检定结果高于唬骗10点以及更低，则视为目标并未识破唬骗而是因为太难而拒绝。如果目标察言观色检定结果高于唬骗11以及更多，目标则是看穿了唬骗，唬骗者还未提任何要求就被拒绝了（也就是没有那10点加值，目标也成功了）。
 
-A successful Bluff check indicates that the target reacts as the character wishes, at least for a short time (usually 1 round or less), or the target believes something that the character wants him or her to believe.
+一个成功的唬骗检定意味着目标按照角色希望的样子做出反应，至少短时间如此（通常1轮或更短），或者意味着目标相信了角色希望目标相信的事。
 
-A bluff requires interaction between the character and the target. Targets unaware of the character can’t be bluffed.
+一次唬骗需要角色与目标之间可以交流。目标不懂角色在表达什么则不会被唬骗。
 
-|Example Circumstances|Sense Motive Modifier|
+|示例情景|察言观色调整值|
 |---------------------|:-------------------:|
-|The target wants to believe the character. |–5|
-|The bluff is believable and doesn’t affect the target much one way or the other.|+0|
-|The bluff is a little hard to believe or puts the target at some kind of risk.|+5|
-|The bluff is hard to believe or entails a large risk for the target.|+10|
-|The bluff is way out there; it’s almost too incredible to consider. |+20|
+|目标希望相信角色。|–5|
+|唬骗内容是可信的且对目标影响不大。|+0|
+|唬骗内容有点难以置信或者会让目标冒一定风险。|+5|
+|唬骗内容难以置信或者会让目标冒很大的风险。|+10|
+|唬骗内容非常荒谬，太难以置信了。|+20|
 
-A bluff is not the same thing as a lie. A bluff is a quick prevarication intended to distract, confuse, or mislead, generally only for the short term. A bluff is not intended to withstand long-term or careful scrutiny, but rather to momentarily deter an action or decision. Bluffs involve attitude and body language. Bluffs often include lies, but they usually aren’t very sophisticated and aren’t intended to deceive the target for more than a few moments.
+唬骗跟说谎是两码事。唬骗是用含糊其辞的方式分心、迷惑、误导，是短时间的行为。唬骗并不是瞒天过海、精心设计，更多的是猝然地打断行为或者决定。唬骗更多用到神态和肢体语言，也经常包括了谎言，但不是精心编造的，也别指望能让目标相信太久；
 
-A lie, on the other hand, is a simple misrepresentation of the facts. Body language and attitude aren’t a big part of communication. The lie may be very sophisticated and well thought-out, and is intended to deceive a character at least until he or she discovers evidence to the contrary. A character should not make a Bluff check every time he or she utters a lie.
+而一个谎言只是捏造事实而已。肢体语言和神态并不是交流的重心，而谎言则可以经过精心编排，滴水不漏，目的是欺骗角色一段时间，至少直到角色发现相反的证据。角色不需要每次说谎都做唬骗检定。
 
-**Feinting in Combat:** A character can also use Bluff to mislead an opponent in combat so that the opponent can’t dodge the character’s attack effectively. If the character succeeds, the next attack the character makes against the target ignores his or her Dexterity bonus to Defense (if the opponent has one), thus lowering his or her Defense score. Using Bluff in this way against a creature of animal intelligence (Int 1 or 2) requires a –8 penalty on the check. Against a nonintelligent creature, feinting is impossible.
+**战斗中的虚招：** 角色也可以在战斗中用唬骗来误导对手，让对手无法有效地闪避角色的攻击。如果角色成功，角色对对手的下一次攻击无视其敏捷加值（如果对手有），以此降低对手的防御值。用这种方法唬骗只有动物智力（智力1或2）的生物，唬骗检定会有8点减值。对付非智能生物，虚招永远是无效的。
 
-**Creating a Diversion to Hide:** A character can use Bluff to help him or her hide. A successful Bluff check gives the character the momentary diversion needed to attempt a Hide check while people are aware of the character. (See the Hide skill)
+**转移注意力以躲藏：** 角色可以使用唬骗帮助自己躲藏。一次成功的唬骗检定可让角色分散搜捕者的注意力一小会，让自己此时可以做一次躲藏检定。（见躲藏技能）
 
-**Sending a Secret Message:** A character can use Bluff to send and understand secret messages while appearing to be speaking about other things.  The DC for a basic message is 10. Complex messages or messages trying to communicate new information have DCs of 15 or 20. Both the sender and the receiver must make the check for the secret message to be successfully relayed and understood.
+**传递密信：** 角色可以在谈论其他事情时，用一次唬骗传递和理解秘密信息。基本信息的DC是10。复杂的信息或者试图交流新的信息将会有15或20的DC。传递者和接受者各需要做一次检定以示阐明和理解。
 
-Anyone listening in on a secret message can attempt a Sense Motive check (DC equal to the sender’s Bluff check result). If successful, the eavesdropper realizes that a secret message is contained in the communication. If the eavesdropper beats the DC by 5 or more, he or she understands the secret message.
+任何听到密信的人都可以做一次察言观色检定（DC等于传递者的唬骗检定结果）。如果成功，偷听者会意识到交流中包含的密信。如果成功结果超过DC大于等于5点，偷听者将会破译密信。
 
-Whether trying to send or intercept a message, a failure by 5 or more points means that one side or the other misinterprets the message in some fashion.
+无论是发送还是接收密信，失败5点或更多将意味着其中一方表达错误或另一方曲解了密信的内容。
 
-**Try Again?:** Generally, a failed Bluff check makes the target too suspicious for the character to try another bluff in the same circumstances. For feinting in combat, the character may try again freely.
+**重试：** 通常，失败的唬骗检定让目标提高警惕，对相同情景下同一角色的唬骗行为戒心更重。而战斗中的虚招则可以随便重试。
 
-**Special:** A character can take 10 when making a bluff (except for feinting in combat), but can’t take 20.
+**特别：** 角色可以在唬骗时取10（战斗中虚招除外），但不能取20。
 
-A character with the Deceptive feat gets a +2 bonus on all Bluff checks.
+有欺诈专长的角色的唬骗检定有2点加值。
 
-**Time:** A bluff takes at least 1 round (and is at least a full-round action) but can take much longer if the character tries something elaborate. Using Bluff as a feint in combat is an attack action.
+**时间：** 唬骗至少花费1轮的时间（至少是一个整轮动作），唬骗内容越复杂花的时间越多。在战斗中用唬骗使出虚招是一个攻击动作。
 
-## Climb (Str) Armor Penalty
+## 攀爬（力） 护甲减值
 
-**Check:** With each successful Climb check, the character can advance up, down, or across a slope or a wall or other steep incline (or even a ceiling with handholds).
+**检定：** 每次成功的攀爬检定，角色可向上、下移动，或者翻越斜坡或者墙面或者其他陡峭的斜面（甚至是有把手点的天花板）。
 
-A slope is considered to be any incline of less than 60 degrees; a wall is any incline of 60 degrees or steeper.
+斜坡指的是任何坡度小于60度的坡道；墙指的是任何坡度大于等于60度的坡道。
 
-A failed Climb check indicates that the character makes no progress, and a check that fails by 5 or more means that the character falls from whatever height he or she had already attained (unless the character is secured with some kind of harness or other equipment).
+一个失败的攀爬检定意味着角色没有任何进展，失败大于等于5点则意味着角色坠落，不管角色达到了多少高度（除非角色有登山索或其他装备保障安全）。
 
-The DC of the check depends on the conditions of the climb. If the climb is less than 10 feet, reduce the DC by 5.
+检定DC取决于攀爬情况。如果攀爬低于10尺，DC-5。
 
-Since the character can’t move to avoid an attack, he or she is flat-footed while climbing (the character loses any Dexterity bonus to Defense).
+既然角色不能移动以回避攻击，角色在攀爬时是措手不及的（角色的防御失去任何敏捷加值）。
 
-Any time the character takes damage while climbing, make a Climb check against the DC of the slope or wall. Failure means the character falls from his or her current height and sustains the appropriate falling damage.
+只要角色在攀爬时承受伤害，都要进行一次攀爬检定，对抗斜坡或墙的DC。失败则意味着角色从当前的高度在坠落，并承受相应的坠落伤害。
 
-**Accelerated Climbing:** A character can try to climb more quickly than normal. The character can move his or her full speed, but the character takes a –5 penalty on his or her Climb check. (Moving twice the character’s speed in a round requires two checks, one for each move action.)
+**加速攀爬：** 角色可以试着以快于平常的速度攀爬。角色可以常速移动，但攀爬检定要再承受5点减值。（角色一轮内移动两倍于常速的距离需要检定两次，每个移动动作各一次。）
 
-**Making Handholds and Footholds:** A character can make handholds and footholds by pounding pitons into a wall. Doing so takes 1 minute per piton, and one piton is needed per 3 feet. As with any surface with handholds and footholds, a wall with pitons in it has a DC of 15. In similar fashion, a climber with an ice axe or other proper implement can cut handholds or footholds in an ice wall.
+**制造把手点和脚踏点：** 角色可以将岩钉打入墙中，制造把手点和脚踏点。每打一个岩钉需要1分钟，每3尺需要一个岩钉。在任何有把手点和脚踏点的表面，有岩钉的墙攀爬DC为15。类似的方法，有冰斧或类似工具的攀爬者可以在冰墙中凿出把手点和脚踏点。
 
-**Catching Yourself When Falling:** It’s practically impossible for a character to catch him or herself on a wall while falling. Make a Climb check (DC equal to wall’s DC + 20) to do so. A slope is relatively easier to catch on (DC equal to slope’s DC + 10).
+**抓稳以停止坠落：** 角色在墙上坠落时几乎不可能抓住自己。要这么做需要做一个攀爬检定（DC为墙的DC再加20）。斜坡则相对容易抓住（DC为斜坡DC+10）。
 
-**Special:** Someone using a rope can haul a character upward (or lower the character) by means of sheer strength. Use two times a character’s maximum load to determine how much weight he or she can lift.
+**特别：** 使用绳索的人可以纯粹用力量将人往上（或往下）拉。角色最多能拉动两倍于自身最大负载的重量。
 
-A character can take 10 while climbing, but can’t take 20.
+角色攀爬可取10，但不能取20。
 
-A character without climbing gear takes a –4 penalty on Climb checks. At the GM’s discretion, certain kinds of climbing attempts might require only a rope or some other implement, or even just one’s hands and feet, rather than a full set of climbing gear to avoid the penalty.
+无攀爬装备的角色的攀爬检定将有4点减值。由GM自由裁量具体的情况要求何种装备，只需要一根绳索还是其他工具，或者仅仅只需手脚而不是整套攀爬装备就可以避免减值。
 
-A character with the Athletic feat gets a +2 bonus on all Climb checks.
+有竞技专长的角色的攀爬检定有2点加值。
 
-|DC|Example Wall or Surface or Task|
+|DC|示例墙或者表面或者目的|
 |:-:|------------------------------|
-|0|A slope too steep to walk up.|
-|5|A knotted rope with a wall to brace against.|
-|10|A rope with a wall to brace against. A knotted rope. A surface with sizable ledges to hold on to and stand on, such as a rugged cliff face.|
-|15|Any surface with adequate handholds and footholds (natural or artificial), such as a rough natural rock surface, a tree, or a chain-link fence. An unknotted rope. Pulling yourself up when dangling by your hands.|
-|20|An uneven surface with just a few narrow handholds and footholds, such as a coarse masonry wall or a sheer cliff face with a few crevices and small toeholds.|
-|25|A rough surface with no real handholds or footholds, such as a brick wall.|
-|25|Overhang or ceiling with handholds but no footholds.|
-|—|A perfectly smooth, flat, vertical surface can’t be climbed.|
-|–10\*|Climbing inside an air duct or other location where one can brace against two opposite walls (reduces normal DC by 10).|
-|–5\*|Climbing a corner where a character can brace against perpendicular walls (reduces normal DC by 5).|
-|+5\*|Surface is slippery (increases normal DC by 5).|
+|0|陡到不能走的斜坡。|
+|5|带绳结的绳索和可以踩着爬的墙。|
+|10|没绳结的绳索和可以踩着爬的墙。单条带绳结的绳索。有足够抱住和站立的突出部的表面，比如崎岖的峭壁表面。|
+|15|有足够抓住的把手点和脚踏点（天然或人工）的表面，比如粗糙的天然岩石表面、一棵树、或者铁丝网围栏。单条没绳结的绳索。仅靠手悬挂着引体向上。|
+|20|不平的表面上只有少量狭窄的把手点和脚踏点，比如粗糙的石墙或只有少量裂隙和落脚点的峻峭的峭壁。|
+|25|没有真正的把手点和脚踏点的粗糙表面，比如砖墙。|
+|25|只有把手点没有脚踏点的岩崖或天花板。|
+|—|极度光滑、平整、垂直的墙，不可攀爬。|
+|–10\*|在通风管或者其他可以踩着两面相对的墙的地方攀爬（正常DC-10）。|
+|–5\*|在可以踩着相互垂直的墙面的墙脚的地方攀爬（正常DC-5）。|
+|+5\*|光滑的表面（正常DC+5）。|
 
-\*These modifiers are cumulative; use any that apply.
+\*此调整值是累加的，满足即应用。
 
-**Time:** Climbing at one-half your speed is a full-round action. Moving half that far (one-fourth the character’s speed) is a move action.
+**时间：** 以半速攀爬是一个整轮动作。按此速度只移动一般距离（角色常速的1/4）是一个移动动作。
 
-Accelerated climbing, allowing the character to climb at his or her full speed, is a full-round action. A character can move half that far (one-half his or her speed) as a move action.
+能让角色以常速攀爬的加速攀爬，是一个整轮动作。角色可以用一个移动动作只移动一半距离（角色常速的一半）。
 
 ## Computer Use (Int)
 
@@ -291,8 +291,8 @@ This skill allows a character to mix chemicals to create acids, bases, explosive
 
 |Type of Acid|Purchase DC|Acid\*|Base\*|Time\*|
 |------------|:---------:|:----:|:----:|------|
-|Mild (1d6/1d10)\*\*|8|15|10|1 min.|
-|Potent (2d6/2d10)|12|20|15|30 min.|
+|Mild (1d6/1d10)\*\*|8|15|10|1 min|
+|Potent (2d6/2d10)|12|20|15|30 min|
 |Concentrated (3d6/3d10)|16|30|20|1 hr.|
 
 \*Craft DCs
@@ -306,7 +306,7 @@ If the check succeeds, the final product is a solid material, about the size of 
 |Type of Scratch-Built Explosive|Purchase DC|Craft DC|Reflex DC (save for half damage)|Time|
 |-------------------------------|:---------:|:------:|:------------------------------:|:--:|
 |Improvised (1d6/5 feet)\*|6|10|10|1 round|
-|Simple (2d6/5 feet)|12|15|12|10 min.|
+|Simple (2d6/5 feet)|12|15|12|10 min|
 |Moderate (4d6/10 feet)|16|20|12|1 hr.|
 |Complex (6d6/15 feet)|20|25|15|3 hr.|
 |Powerful (8d6/20 feet)|25|30|15|12 hr.|
@@ -690,8 +690,8 @@ A character with the Nimble feat gets a +2 bonus on all Escape Artist checks.
 |Factor|Check Modifier|Time|
 |------|:------------:|----|
 |Document Type|||
-|Simple (typed letter, business card)|+0|10 min.|
-|Moderate (letterhead, business form)|–2|20 min.|
+|Simple (typed letter, business card)|+0|10 min|
+|Moderate (letterhead, business form)|–2|20 min|
 |Complex (stock certificate, driver’s license)|–4|1 hr.|
 |Difficult (passport)|–8|4 hr.|
 |Extreme (military/law enforcement ID)|–16|24 hr.|
