@@ -446,6 +446,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>## Computer Use (Int)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T131233Z" creationid="quentine" creationdate="20190916T131233Z">
+        <seg>## 计算机使用（智）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>## Concentration (Con)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T125844Z" creationid="quentine" creationdate="20190917T125844Z">
+        <seg>## 专注（体）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>## Constitution</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181103T134253Z" creationid="QuenTine" creationdate="20181103T134253Z">
@@ -1714,6 +1730,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T120431Z" creationid="quentine" creationdate="20190731T120431Z">
         <seg>### 摔投技巧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Computer Hacking</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T135552Z" creationid="quentine" creationdate="20190916T135552Z">
+        <seg>### 黑入计算机</seg>
       </tuv>
     </tu>
     <tu>
@@ -3230,6 +3254,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>#### Several steps are required to hack into a site:</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T142214Z" creationid="quentine" creationdate="20190916T142214Z">
+        <seg>#### 黑入一个站点所需的几个步骤：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>#### Shadow Contact</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190613T132951Z" creationid="quentine" creationdate="20190613T132754Z">
@@ -3798,6 +3830,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>(A character can also download data, although that often takes several rounds—or even several minutes, for especially large amounts of information—to complete.) Altering or deleting records sometimes requires yet another check to defeat computer security.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T145019Z" creationid="quentine" creationdate="20190916T145019Z">
+        <seg>（角色也可以下载数据，但这通常要花上好几轮的时间来完成，如果是大量数据甚至需要几分钟的时间。）修改或删除记录有时需要再做一次技能检定以破解防御。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(A character cannot take 20 to defeat computer security or defend security.)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T125536Z" creationid="quentine" creationdate="20190917T125536Z">
+        <seg>（角色不能在破解计算机防御以及主动防御时取20。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>(At 4th level, the enhancement bonus is +2.) This bonus allows the weapon to deal extra damage and to hurt creatures with damage reduction.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190611T140317Z" creationid="quentine" creationdate="20190611T140027Z">
@@ -4227,6 +4275,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190807T122840Z" creationid="quentine" creationdate="20190807T122840Z">
         <seg>**加速移动：** 角色可以尝试以比平常更快的速度穿过不稳定的表面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Access the Site:** There are two ways to do this: physically or over the Internet.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T143645Z" creationid="quentine" creationdate="20190916T142737Z">
+        <seg>**访问站点：** 有两种方式访问：物理访问和网络访问。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5336,6 +5392,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Check:** A character makes a Concentration check whenever he or she may potentially be distracted while engaged in some action that requires his or her full attention (such as making a Disable Device or Treat Injury check).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T130142Z" creationid="quentine" creationdate="20190917T130142Z">
+        <seg>**检定：** 角色进行任何需要全神贯注的行为时，只要有可能分心，就要做一次专注检定（比如进行解除装置检定或医疗检定时）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Check:** Most normal computer operations don’t require a Computer Use check (though a character might have to make a Research check; see the Research skill description).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T131424Z" creationid="quentine" creationdate="20190916T131424Z">
+        <seg>**检定：** 大多数计算机操作并不需要检定此技能（但角色可能要做一个研究检定，详见`研究`技能检定的描述）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Check:** The DC and effect depend on the task you attempt.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190614T142740Z" creationid="quentine" creationdate="20190614T142740Z">
@@ -5472,6 +5544,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Covering Tracks:** This step is optional.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T142420Z" creationid="quentine" creationdate="20190916T142420Z">
+        <seg>**掩盖踪迹：** 此步骤是可选的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Creating a Diversion to Hide:** A character can use Bluff to help him or her hide.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190808T134247Z" creationid="quentine" creationdate="20190808T134247Z">
@@ -5512,6 +5592,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Defeat Computer Security:** This application of Computer Use can’t be used untrained.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T233555Z" creationid="quentine" creationdate="20190916T133440Z">
+        <seg>**破解计算机防御：** 当计算机使用用于此用途时，技能需受训。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Defeat File Security:** Many networks have additional file security.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T144431Z" creationid="quentine" creationdate="20190916T144431Z">
+        <seg>**破解文件锁：** 许多网络都有额外的文件保护机制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Defend Security:** If the character is the system administrator for a site (which may be as simple as being the owner of a laptop), he or she can defend the site against intruders.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T233534Z" creationid="quentine" creationdate="20190916T145422Z">
+        <seg>**主动防御：** 如果角色是站点的系统管理员（哪怕是一台笔记本的物主），则可以防御入侵者的进攻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Defense Bonus:** The character’s bonus to Defense.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190116T120012Z" creationid="quentine" creationdate="20190116T120012Z">
@@ -5524,6 +5628,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190117T124922Z" creationid="quentine" creationdate="20190117T124922Z">
         <seg>**防御翻滚：** 敏捷型英雄可以翻滚以降低潜在的致命攻击造成的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Degrade Programming:** A character can destroy or alter applications on a computer to make use of that computer harder or impossible.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T121949Z" creationid="quentine" creationdate="20190917T121925Z">
+        <seg>**破坏性编程：** 角色可摧毁或修改计算机上的应用，使计算机难以使用甚至报废。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5548,6 +5660,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T114000Z" creationid="quentine" creationdate="20190703T113359Z">
         <seg>**解除驱散：** 邪恶侍僧可以解除善良侍僧的驱散效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Do Your Stuff:** Finally, the character can actually do what he or she came to do.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T144711Z" creationid="quentine" creationdate="20190916T144711Z">
+        <seg>**进行操作：** 最后，角色终于可以做想做的事了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5732,6 +5852,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190808T133811Z" creationid="quentine" creationdate="20190808T133811Z">
         <seg>**战斗中的虚招：** 角色也可以在战斗中用唬骗来误导对手，让对手无法有效地闪避角色的攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Find File:** This skill can be used for finding files or data on an unfamiliar system.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T132245Z" creationid="quentine" creationdate="20190916T132245Z">
+        <seg>**查找文件：** 此技能可用于在陌生的系统里查找文件或数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5968,6 +6096,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Internet Access:** Reaching a site over the net requires two Computer Use checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T143831Z" creationid="quentine" creationdate="20190916T143534Z">
+        <seg>**网络访问：** 通过网络访问站点需要进行两次计算机使用检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Intuition:** The Dedicated hero has an innate ability to sense trouble in the air.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190202T035840Z" creationid="quentine" creationdate="20190202T035840Z">
@@ -6004,6 +6140,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190201T135531Z" creationid="quentine" creationdate="20190201T135531Z">
         <seg>**语言专家：**拥有该天赋的智力型英雄是个语言大师。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Locate What You’re Looking For:** To find the data (or application, or remote device) the character wants, make a Computer Use check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T144204Z" creationid="quentine" creationdate="20190916T144204Z">
+        <seg>**锁定目标位置：** 要找到目标数据（或者应用程序、远程设备）的位置，需要进行一次计算机使用检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6264,10 +6408,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Operate Remote Device:** Many devices are computer-operated via remote links.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T124423Z" creationid="quentine" creationdate="20190917T124423Z">
+        <seg>**操作远程设备：** 许多设备是通过计算机远程操作的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Opportunist:** The Fast hero can spend 1 action point to use this talent.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190117T130331Z" creationid="quentine" creationdate="20190117T130331Z">
         <seg>**乘势攻击：** 敏捷型英雄可以使用1点行动点来使用这一天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Physical Access:** A character gains physical access to the computer, or a computer connected to the site.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T143721Z" creationid="quentine" creationdate="20190916T143202Z">
+        <seg>**物理访问：** 角色物理访问电脑，或者通过与站点相连的电脑物理访问站点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7153,6 +7313,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Special:** A character can take 10 when using the Computer Use skill.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T125347Z" creationid="quentine" creationdate="20190917T125347Z">
+        <seg>**特别：** 角色可以在计算机使用检定中取10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** A character can use Concentration to avoid attacks of opportunity when attempting a skill check that normally provokes attacks of opportunity.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T131250Z" creationid="quentine" creationdate="20190917T131250Z">
+        <seg>**特别：** 角色可以在使用会引发借机攻击的技能时进行专注检定来避免引发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Special:** A character may gain this feat multiple times.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T134437Z" creationid="quentine" creationdate="20190802T142240Z">
@@ -7417,10 +7593,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Time:** Computer Use requires at least a full-round action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T125730Z" creationid="quentine" creationdate="20190917T125637Z">
+        <seg>**时间：** 计算机使用花费至少1个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Time:** How much time it takes to make a check with this skill.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190807T120729Z" creationid="quentine" creationdate="20190807T120729Z">
         <seg>**时间：** 一次此技能的检定要花的时长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Time:** Making a Concentration check doesn’t require an action; it is either a reaction (when attempted in response to a distraction) or part of another action (when at-tempted actively).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T132157Z" creationid="quentine" creationdate="20190917T132157Z">
+        <seg>**时间：** 进行专注检定不需要动作，而是一个`反应`（对分心的反应）或是另一个动作的一部分（当在进行动作时使用专注检定）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7509,6 +7701,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190612T142415Z" creationid="quentine" creationdate="20190612T142415Z">
         <seg>**重试：** 可以，但如果你在尝试启动物品时`投1`了，而且还失败了，24小时内你将不能再启动该物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Try Again?:** Yes, though a success doesn’t cancel the effects of a previous failure, such as the disruption of an action that was being concentrated on.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T131059Z" creationid="quentine" creationdate="20190917T131059Z">
+        <seg>**重试：** 可以，但成功了也不能弥补上一次失败造成的结果，比如成功专注的动作已经被扰乱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7637,6 +7837,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T132525Z" creationid="quentine" creationdate="20190114T132525Z">
         <seg>**意志豁免：** 这一豁免反映了角色对精神上的影响和控制和许多魔法效果的抵抗能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Write Program:** A character can create a program to help with a specific task.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T124058Z" creationid="quentine" creationdate="20190917T124058Z">
+        <seg>**编写程序：** 角色可编写一个程序帮助完成特定的任务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8543,6 +8751,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A character can degrade the programming of multiple computers at a single site; doing so adds +2 to the DC for each additional computer.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T123541Z" creationid="quentine" creationdate="20190917T123541Z">
+        <seg>角色可以编程破坏一个站点的多台电脑，每多一台电脑DC+2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A character can gain a feat at the same level at which he or she gains all the prerequisites.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T122603Z" creationid="quentine" creationdate="20190704T122529Z">
@@ -8619,6 +8835,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190808T143512Z" creationid="quentine" creationdate="20190808T143512Z">
         <seg>角色攀爬可取10，但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A character can take 20 in some cases, but not in those that involve a penalty for failure.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T125438Z" creationid="quentine" creationdate="20190917T125438Z">
+        <seg>角色在某些情况下可以取20，但有失败惩罚的不可取20。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8723,6 +8947,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T133405Z" creationid="quentine" creationdate="20190115T133405Z">
         <seg>角色在无空气的环境下（水下、真空）能够闭气，持续等同于其体质的轮数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A character is the system administrator of his or her personal computer.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T141848Z" creationid="quentine" creationdate="20190916T141848Z">
+        <seg>角色是其所拥有的个人电脑的系统管理员。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8883,6 +9115,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190807T124047Z" creationid="quentine" creationdate="20190807T124047Z">
         <seg>有全神贯注专长的角色的平衡检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A character with the Focused feat gets a +2 bonus on all Concentration checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T131857Z" creationid="quentine" creationdate="20190917T131857Z">
+        <seg>有全神贯注专长的角色的专注检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A character with the Gearhead feat gets a +2 bonus on all Computer Use checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T125616Z" creationid="quentine" creationdate="20190917T125616Z">
+        <seg>有`技术宅`专长的角色计算机使用检定有2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9487,6 +9735,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A site can be as small as a single computer, or as large as a corporate network connecting computers and data archives all over the world—the important thing is that access to the site connects the user to everything within it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T143543Z" creationid="quentine" creationdate="20190916T135926Z">
+        <seg>站点小到一台电脑，大到连接了大量电脑并向全世界传输数据的企业网络——它们都有一个共同点，用户访问了就能与里面的一切相连接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A site can have more than one system administrator; large sites have a system administrator on duty at all times.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T141759Z" creationid="quentine" creationdate="20190916T141759Z">
+        <seg>一个站点可以有多个系统管理员，大型站点的系统管理员轮班不间断地管理系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A site is a virtual location containing files, data, or applications.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T141941Z" creationid="quentine" creationdate="20190916T135913Z">
+        <seg>`站点`则是一个保存了文件、数据、或者应用程序的虚拟地点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A skill check represents an attempt to accomplish some goal, usually in the face of time pressure or distraction.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190806T131418Z" creationid="quentine" creationdate="20190806T131252Z">
@@ -9515,6 +9787,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190623T123440Z" creationid="quentine" creationdate="20190623T123440Z">
         <seg>赋予的特殊能力只有在魔宠与主人相距不到1里时生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A specific task, in this case, is one type of operation with one target.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T124317Z" creationid="quentine" creationdate="20190917T124317Z">
+        <seg>特定的任务在这里仅限于针对一个目标的一个操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9571,6 +9851,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190808T131735Z" creationid="quentine" creationdate="20190808T131735Z">
         <seg>一个成功的唬骗检定意味着目标按照角色希望的样子做出反应，至少短时间如此（通常1轮或更短），或者意味着目标相信了角色希望目标相信的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A successful Concentration check still doesn’t allow a character to take 10 when in a stressful situation; he or she must roll the check as normal.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T130734Z" creationid="quentine" creationdate="20190917T130734Z">
+        <seg>成功的专注检定并不能允许角色在紧张的情况下取10，角色必须如常掷骰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9669,6 +9957,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T110712Z" creationid="quentine" creationdate="20190703T110712Z">
         <seg>它们会持续逃跑10轮（1分钟）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A variety of skill checks may be required, depending on the method used to gain access.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T143755Z" creationid="quentine" creationdate="20190916T143430Z">
+        <seg>根据访问方式的不同，访问将会需要各种技能检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10297,6 +10593,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Also from an attack of opportunity or readied attack made in response to the action being taken (for activities requiring no more than a full-round action).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T134703Z" creationid="quentine" creationdate="20190917T134703Z">
+        <seg>还有引发了借机攻击或准备攻击的活动（这些活动并不需要整轮动作）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Also, at the GM’s option, a hero might be considered infamous in certain situations due to events that have transpired in the campaign.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T120204Z" creationid="QuenTine" creationdate="20181106T124439Z">
@@ -10541,6 +10845,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T115426Z" creationid="quentine" creationdate="20190216T115426Z">
         <seg>高级职业就是一些有经验的冒险者用的职业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An alerted administrator may attempt to identify the character or cut off his or her access to the system.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T124713Z" creationid="quentine" creationdate="20190917T124713Z">
+        <seg>被警报的管理员会试图识别入侵的角色或者切断角色对系统的访问。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An alerted administrator may attempt to identify the character or cut off the character’s access to the system.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T134630Z" creationid="quentine" creationdate="20190916T134410Z">
+        <seg>被警报的管理员会试图识别入侵的角色或者切断角色对系统的访问。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12121,6 +12441,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Attempting to cut off access takes a full round.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T145929Z" creationid="quentine" creationdate="20190916T145929Z">
+        <seg>切断访问是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Attentive, Archaic Weapons Proficiency, Combat Expertise, Educated, Frightful Presence, Low Profile, Nimble, Studious.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190624T135827Z" creationid="quentine" creationdate="20190624T135827Z">
@@ -12297,6 +12625,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Breaking into a secure computer or network is often called hacking.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T141931Z" creationid="quentine" creationdate="20190916T135747Z">
+        <seg>破解进入安全防卫的电脑或网络俗称`黑入`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Brewing a potion takes 24 hours.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190624T140233Z" creationid="quentine" creationdate="20190624T140233Z">
@@ -12333,6 +12669,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181106T140013Z" creationid="QuenTine" creationdate="20181106T140013Z">
         <seg>购买稀有物品大概要花掉与物品或服务的购买DC相等的小时数，这反映了查找所需的材料和结束交易所需要的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>By making a Computer Use check (DC 20), a character can alter his or her identifying information.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T142535Z" creationid="quentine" creationdate="20190916T142535Z">
+        <seg>通过一次计算机使用检定（DC20），角色可以修改自己的访问者信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12753,6 +13097,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Crashing a computer simply shuts it down.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T122328Z" creationid="quentine" creationdate="20190917T122146Z">
+        <seg>`使电脑崩溃`就是单单关掉电脑而已。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Creating a plan requires 1 minute.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190201T145009Z" creationid="quentine" creationdate="20190201T145009Z">
@@ -12813,6 +13165,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T133115Z" creationid="quentine" creationdate="20190115T133115Z">
         <seg>饥饿与口渴造成的伤害无法恢复，直到主角获得水或食物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Damaging programming imposes a –4 penalty on all Computer Use checks made with the computer (sometimes this is preferable to destroying the programming, since the user might not know that anything is wrong, and won’t simply decide to use a different computer).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T123451Z" creationid="quentine" creationdate="20190917T123113Z">
+        <seg>`损伤性编程`将使利用此电脑做出的所有计算机使用检定都受到4点减值（有时这比`损毁性编程`更好，在这种情况下用户可能不知道哪里出错了，也不会因为无法使用而考虑换台电脑）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12886,6 +13246,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Destroying programming makes the computer unusable until the programming is repaired.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T123412Z" creationid="quentine" creationdate="20190917T122450Z">
+        <seg>`损毁性编程`使电脑变得不可用，直到程序被修复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Determine the Acolyte’s total number of spells per day by consulting the two tables below.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190627T135615Z" creationid="quentine" creationdate="20190627T135615Z">
@@ -12946,6 +13314,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T104841Z" creationid="quentine" creationdate="20190703T104841Z">
         <seg>驱散不会引发借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Doing so grants the character a +2 circumstance bonus to the task.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T124148Z" creationid="quentine" creationdate="20190917T124148Z">
+        <seg>这可以让角色完成此任务时获得2点情景加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13318,6 +13694,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Every site is overseen by a system administrator—the person in charge of the site, and who maintains its security.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T141539Z" creationid="quentine" creationdate="20190916T141539Z">
+        <seg>每个站点都有监视着整个系统的管理员——掌管这个站点，负责其安全的人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Every time a character gains a new level, make a Profession check.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190112T063703Z" creationid="quentine" creationdate="20190112T063519Z">
@@ -13462,10 +13846,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Finding public information on the Internet does not fall under this category; usually, such a task requires a Research check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T132508Z" creationid="quentine" creationdate="20190916T132508Z">
+        <seg>在互联网上寻找公开的信息不在此范畴，这类行为通常需要做研究检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Firing a burst expends five bullets and can only be done if the weapon has five bullets in it.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T135316Z" creationid="quentine" creationdate="20190730T135153Z">
         <seg>短点射消耗5发子弹，且只能在武器里有5发子弹时才能发动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fixing the degraded programming requires 1 hour and a Computer Use check against a DC equal to the DC for degrading it + 5.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T124005Z" creationid="quentine" creationdate="20190917T123903Z">
+        <seg>修复破坏性编程造成的破坏需要1小时的时间来做一次计算机使用检定，检定DC等于造成此破坏所需的DC+5。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13910,6 +14310,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>However, searching an unfamiliar network for a particular file, writing computer programs, altering existing programs to perform differently (better or worse), and breaking through computer security are all relatively difficult and require skill checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T132105Z" creationid="quentine" creationdate="20190916T132105Z">
+        <seg>然而，在一个不熟悉的网络环境里搜索特定的文件、编写计算机程序、修改现存的程序以改变其性能（优化或者劣化）、以及攻破计算机的安全系统等等相对困难的计算机操作需要此技能检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>However, the GM can impose limits depending on circumstances and a given situation.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190805T134114Z" creationid="quentine" creationdate="20190805T134046Z">
@@ -13938,6 +14346,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181022T113004Z" creationid="QuenTine" creationdate="20181022T113004Z">
         <seg>标识：如果你分发了OGC你必须清楚地指出你正在分发的这部分工作成果是OGC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Identifying the intruder requires 1 minute and is a separate check from cutting off access.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T111724Z" creationid="quentine" creationdate="20190917T111724Z">
+        <seg>识别入侵者需要1分钟的时间，对抗检定与切断访问的对抗检定不是同一个。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14182,6 +14598,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If that’s the case, the character needs to make another check to defeat computer security.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T144538Z" creationid="quentine" creationdate="20190916T144538Z">
+        <seg>如果有这个情况，角色需要再进行一次计算机使用检定破解文件的安全锁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the Acolyte moves to within 10 feet of a cowering turned creature, it overcomes the turning and can act normally.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T111401Z" creationid="quentine" creationdate="20190703T110919Z">
@@ -14194,6 +14618,38 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190215T131710Z" creationid="quentine" creationdate="20190215T131710Z">
         <seg>检定成功后，目标可尝试抗拒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the Concentration check fails, the action automatically fails (with the appropriate ramifications, if any), and the action is wasted.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T130527Z" creationid="quentine" creationdate="20190917T130527Z">
+        <seg>若检定失败，该动作自动失败（产生相应的失败后果）并浪费掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the Concentration check fails, the related check automatically fails just as if the character’s concentration had been disrupted by a distraction.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T131600Z" creationid="quentine" creationdate="20190917T131600Z">
+        <seg>如果专注检定失败，该行为的检定也会自动失败，视为角色的行为因分心而被干扰了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the Concentration check succeeds, the character may attempt the action normally without incurring any attacks of opportunity.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T131339Z" creationid="quentine" creationdate="20190917T131339Z">
+        <seg>如果专注检定成功，角色能如常进行该动作而不会引发任何借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the Concentration check succeeds, the character may continue with the action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T130351Z" creationid="quentine" creationdate="20190917T130351Z">
+        <seg>如果专注检定成功，角色如常继续该动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14318,6 +14774,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the character beats the DC by 10 or more when attempting to defeat computer security, the character automatically succeeds at all subsequent security checks at that site until the end of the character’s session (see Computer Hacking below).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T142327Z" creationid="quentine" creationdate="20190916T135333Z">
+        <seg>如果角色检定结果成功大于等于DC+10，在这次会话内，将自动成功完成破解此系统的所有步骤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the character buys a class skill, he or she gets 1 rank in the skill for each skill point spent.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190805T131320Z" creationid="quentine" creationdate="20190805T131320Z">
@@ -14366,6 +14830,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the character fails the check by 5 or more, the system immediately alerts its administrator that there has been an unauthorized use of the equipment.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T124647Z" creationid="quentine" creationdate="20190917T124647Z">
+        <seg>如果检定失败，低于DC5点甚至更多，系统会立即警报通知管理员有人非法使用这些设施。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the character fails the check, resolve the sideswipe normally.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190801T142629Z" creationid="quentine" creationdate="20190801T142629Z">
@@ -14406,6 +14878,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the character has access to the computer that controls such systems, the character can either shut them off or change their operating parameters.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T124534Z" creationid="quentine" creationdate="20190917T124534Z">
+        <seg>如果角色成功访问控制该系统的电脑，角色可以选择关掉它们或者修改它们的运行程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the character has the Renown feat, the Will saving throw’s DC increases by 5.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T131758Z" creationid="quentine" creationdate="20190802T131758Z">
@@ -14418,6 +14898,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T142459Z" creationid="quentine" creationdate="20190803T142459Z">
         <seg>如果角色穿着重甲，最大移动速度是正常速度的4倍而不是3倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the character just wants to look at records, no additional check is needed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T144742Z" creationid="quentine" creationdate="20190916T144742Z">
+        <seg>如果角色只是想看看记录，则无需做额外的检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14462,10 +14950,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the character succeeds, the character learns the site from which the intruder is operating (if it’s a single computer, the character learns the name of the computer’s owner).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T111500Z" creationid="quentine" creationdate="20190917T111500Z">
+        <seg>如果角色对抗成功，角色将知晓入侵者自身所处的站点（如果是单个电脑，角色将知晓电脑所有者的名字）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the character succeeds, the disease has no effect on him or her—the character’s immune system fights off the infection.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T141936Z" creationid="quentine" creationdate="20190115T141936Z">
         <seg>如果角色成功，就不会感染——即角色的免疫系统抵御了疾病。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the character succeeds, the intruder’s session is ended.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T145651Z" creationid="quentine" creationdate="20190916T145651Z">
+        <seg>如果角色成功，入侵者的会话结束。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14570,6 +15074,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190620T132546Z" creationid="quentine" creationdate="20190620T132546Z">
         <seg>若检定失败，则照常消耗灵力点释放此灵力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the check is failed by 5 or more, the security system immediately alerts its administrator that there has been an unauthorized entry.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T134418Z" creationid="quentine" creationdate="20190916T134327Z">
+        <seg>如果检定失败，低于DC5点甚至更多，安全系统会立即警报通知管理员有非法入侵。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14834,6 +15346,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190201T153653Z" creationid="quentine" creationdate="20190201T153653Z">
         <seg>如果豁免失败，目标会陷入眩晕1轮（无法行动，但可保护自己）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the site alerts the character to an intruder, the character can attempt to cut off the intruder’s access (end the intruder’s session), or even to identify the intruder.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T145547Z" creationid="quentine" creationdate="20190916T145547Z">
+        <seg>如果站点警告有人入侵，角色可以试图切断入侵者的访问（结束入侵者的会话），甚至可以识别入侵者的身份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the site being hacked is not connected to the Internet, this is probably the only way a character can access it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T143735Z" creationid="quentine" creationdate="20190916T143259Z">
+        <seg>如果要黑入的站点不与互联网相连，这可能就是角色访问此站点的唯一办法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15582,6 +16110,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>It does not apply to other actions that normally provoke attacks of opportunity, such as movement or making unarmed attacks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T131839Z" creationid="quentine" creationdate="20190917T131801Z">
+        <seg>而不适用于其他会引发借机攻击的动作，比如移动或徒手攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>It has a range of 30 feet and lasts as long as the Slayer concentrates, up to a number of rounds equal to the Slayer’s level in this advanced class.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190527T140246Z" creationid="quentine" creationdate="20190527T140246Z">
@@ -15810,6 +16346,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T142255Z" creationid="quentine" creationdate="20190802T142255Z">
         <seg>效果叠加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Its user can restart it without making a skill check (however, restarting takes 1 minute).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T122235Z" creationid="quentine" creationdate="20190917T122235Z">
+        <seg>电脑的用户不需做技能检定即可重启电脑（但要花1分钟的时间）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16198,6 +16742,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Often, the system administrator is the only person with access to all of a site’s functions and data.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T141641Z" creationid="quentine" creationdate="20190916T141641Z">
+        <seg>通常，系统管理员是唯一有权访问系统所有程序和数据的人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>On a successful save, the hero gets a hunch that everything is all right, or the hero gets a bad feeling about a specific situation, based on the GM’s best guess relating to the circumstances.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190202T042127Z" creationid="quentine" creationdate="20190202T040700Z">
@@ -16210,6 +16762,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190523T133312Z" creationid="quentine" creationdate="20190523T133312Z">
         <seg>制造一件大师级工艺的物品平均耗费的时间是制造原版物品的两倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Once a character has succeeded in both checks, the character has accessed the site.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T144014Z" creationid="quentine" creationdate="20190916T144014Z">
+        <seg>若角色两次检定都成功，角色将成功访问此站点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Once a character stops accessing the site, the session is over.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T142119Z" creationid="quentine" creationdate="20190916T142119Z">
+        <seg>一旦角色退出访问，会话结束。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16358,6 +16926,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>One surefire way to prevent further access is to simply shut the site down.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T234127Z" creationid="quentine" creationdate="20190916T234127Z">
+        <seg>还有一个绝对能阻止访问的办法，就是关掉站点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>One try per day.|
 |15 + spell level|When casting detect magical aura, determine the school of magic involved in the aura of a single item or creature you can see.</seg>
       </tuv>
@@ -16462,6 +17038,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T123957Z" creationid="quentine" creationdate="20190114T123957Z">
         <seg>其他要素也可影响防御值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Other operations can be carried out according to the Computer Use skill description.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T145129Z" creationid="quentine" creationdate="20190916T145129Z">
+        <seg>其他操作也是根据计算机使用的技能描述来执行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16984,6 +17568,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>See Find File under the skill description.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T144303Z" creationid="quentine" creationdate="20190916T144303Z">
+        <seg>详见此技能描述的`查找文件`一条。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>See Table: Light Sources for the radius that a light source illuminates and how long it lasts.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T131320Z" creationid="quentine" creationdate="20190115T131320Z">
@@ -17168,6 +17760,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Situations such as taking damage, working in a bouncing vehicle, or dealing with severe weather can require a character to make a Concentration check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T130328Z" creationid="quentine" creationdate="20190917T130328Z">
+        <seg>诸如受到伤害、在颠簸的载具上工作、或者应对极端天气等情形都需要角色做一次专注检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Size modifiers are shown on the Table below.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T123839Z" creationid="quentine" creationdate="20190114T123839Z">
@@ -17276,6 +17876,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T124657Z" creationid="quentine" creationdate="20190114T124657Z">
         <seg>部分魔法效果能够为护甲提供加成，或是提供偏斜加值以使对方的攻击失效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some sites can be accessed via the Internet; others are not connected to any outside network and can only be tapped into by a user who physically accesses a computer connected to the site.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T143559Z" creationid="quentine" creationdate="20190916T141417Z">
+        <seg>一些站点能通过互联网访问，其他不与互联网相连的孤立站点则只能通过物理的方式访问。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17404,6 +18012,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190806T131348Z" creationid="quentine" creationdate="20190806T131348Z">
         <seg>但有时候，角色可以在更有利的情况下排除运气因素来使用技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Sometimes, when accessing a difficult site, the character has to defeat security at more than one stage of the operation.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T134851Z" creationid="quentine" creationdate="20190916T134815Z">
+        <seg>有时候，角色要访问一个难以登入的站点，需要分多个步骤破解防御。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17992,6 +18608,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The DC depends on the nature of the operation.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T124559Z" creationid="quentine" creationdate="20190917T124559Z">
+        <seg>DC取决于操作的性质。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The DC depends on the surface and the prevailing conditions.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T135938Z" creationid="quentine" creationdate="20190804T135938Z">
@@ -18060,6 +18684,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190518T125447Z" creationid="quentine" creationdate="20190518T125137Z">
         <seg>制造检定的DC为5+与成品功能上最近似的物品的购买DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The DC for the attempt depends on what the character tries to do.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T122010Z" creationid="quentine" creationdate="20190917T122010Z">
+        <seg>所需的DC取决于角色的目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The DC for the check and the time required are determined by the size of the site on which the character is searching.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T132351Z" creationid="quentine" creationdate="20190916T132351Z">
+        <seg>检定DC和消耗时间取决于角色检索的站点有多大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18136,6 +18776,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The DC is determined by the quality of the security program installed to defend the system.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T134005Z" creationid="quentine" creationdate="20190916T134005Z">
+        <seg>检定DC取决于系统安装的安全软件的质量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The DC is equal to 10 + Negotiator’s class level + Negotiator’s Charisma bonus.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190526T132006Z" creationid="quentine" creationdate="20190526T132006Z">
@@ -18164,6 +18812,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190202T123433Z" creationid="quentine" creationdate="20190202T123433Z">
         <seg>DC下限是10，表示简单的小忙，上限是30，表示艰难、高危、昂贵或者违法的忙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The DC to do so is 15.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T131300Z" creationid="quentine" creationdate="20190917T131300Z">
+        <seg>这么做的DC是15。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The DC to write a program is 20; the time required is 1 hour.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T124339Z" creationid="quentine" creationdate="20190917T124339Z">
+        <seg>编写程序的DC是20，需要1小时的时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18364,6 +19028,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190806T134809Z" creationid="quentine" creationdate="20190806T134809Z">
         <seg>GM酌情限制协助者的人数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The GM may determine that some tasks require several rounds, a few minutes, or longer, as described above.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T125837Z" creationid="quentine" creationdate="20190917T125837Z">
+        <seg>GM可以按上述规则酌情决定，一些任务需要几轮、几分钟或更长的时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19408,6 +20080,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The character can go back to the site in the future; when he or she does, it’s a new session.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T142153Z" creationid="quentine" creationdate="20190916T142153Z">
+        <seg>角色未来可再次回到站点，这算是一次新会话。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The character can make a Strength check to lift the object off him or herself or an Escape Artist check (DC 20) to get out from underneath.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T140542Z" creationid="quentine" creationdate="20190115T140542Z">
@@ -19556,6 +20236,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190806T123034Z" creationid="quentine" creationdate="20190806T123034Z">
         <seg>但角色仍可受益于其他调整值，比如技能的关键属性调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character does not provoke attacks of opportunity, however.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T131633Z" creationid="quentine" creationdate="20190917T131633Z">
+        <seg>但角色仍然不会引发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19880,6 +20568,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The check DC depends on the nature of the distraction.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T130759Z" creationid="quentine" creationdate="20190917T130759Z">
+        <seg>检定DC取决于分心的性质。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The check is made with a bonus equal to the hero’s Smart level.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190201T135801Z" creationid="quentine" creationdate="20190201T135801Z">
@@ -19900,6 +20596,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190624T133143Z" creationid="quentine" creationdate="20190624T133143Z">
         <seg>它们之间的交流受对象生物智力的限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The concentration skill has further uses for characters using magic or psionics.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T131934Z" creationid="quentine" creationdate="20190917T131934Z">
+        <seg>专注检定在角色使用魔法或灵能时有更多用处。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20108,6 +20812,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190116T115404Z" creationid="quentine" creationdate="20190116T115404Z">
         <seg>该职业1级获得的专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The first check (DC 10) is needed to find the site on the net.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T143854Z" creationid="quentine" creationdate="20190916T143854Z">
+        <seg>第一次检定（DC10）用于找到此站点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20488,6 +21200,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The intruder might be able to defeat the character’s security and access his or her site again, but the intruder will have to start the hacking process all over.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T145857Z" creationid="quentine" creationdate="20190916T145857Z">
+        <seg>入侵者可以再次击败角色的防御，访问站点，但必须从头完成黑入步骤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The item must be a wondrous item, a wand, a magic weapon, or a set of magic armor.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190613T141848Z" creationid="quentine" creationdate="20190613T141848Z">
@@ -20828,6 +21548,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190805T134006Z" creationid="quentine" creationdate="20190805T134006Z">
         <seg>规则默认角色总是能找到学习任何技能的方法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The second is a check to defeat computer security (see the Computer Use skill description).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T143935Z" creationid="quentine" creationdate="20190916T143935Z">
+        <seg>第二次检定用于破解计算机的防御（详见计算机使用的技能描述）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21586,6 +22314,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>This application of the Computer Use skill only pertains to finding files on private systems with which the character is not familiar.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T133021Z" creationid="quentine" creationdate="20190916T133021Z">
+        <seg>`计算机使用`技能只适用于在角色不熟悉的私密的系统里查找文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>This attack and each other attack made in the round take a –2 penalty.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190226T145613Z" creationid="quentine" creationdate="20190226T145538Z">
@@ -21662,6 +22398,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190413T140041Z" creationid="quentine" creationdate="20190413T140041Z">
         <seg>加值与前置的加值叠加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This check can only be made if the intruder is accessing the character’s site for the entire length of the check—if the intruder’s session ends before the character finishes the check, the character automatically fails.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T112046Z" creationid="quentine" creationdate="20190917T112046Z">
+        <seg>此检定必须要入侵者一直在线才能做出，如果入侵者在角色完成检定前就结束会话，检定自动失败。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21878,6 +22622,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T130353Z" creationid="QuenTine" creationdate="20181104T130353Z">
         <seg>不法之徒游走在法律边缘之外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This imposes a –5 penalty on any attempt made to identify the character if his or her activity is detected.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T142703Z" creationid="quentine" creationdate="20190916T142703Z">
+        <seg>如果行踪暴露，任何试图识别此角色的身份的检定将受到5点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22230,6 +22982,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>This use of Concentration applies only to skill checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T131805Z" creationid="quentine" creationdate="20190917T131659Z">
+        <seg>这种专注检定的用法只适用于技能检定，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>This use of tactical aid requires an action point.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190226T130432Z" creationid="quentine" creationdate="20190226T130432Z">
@@ -22318,6 +23078,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>To cut off access, make an opposed Computer Use check against the intruder.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T145636Z" creationid="quentine" creationdate="20190916T145636Z">
+        <seg>要切断访问，需要与入侵者做一次计算机使用对抗检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>To dazzle a target, the hero must use an attack action and make a Charisma check (DC 15), adding his or her Charismatic level as a bonus.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T025908Z" creationid="quentine" creationdate="20190216T025908Z">
@@ -22346,6 +23114,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181106T133934Z" creationid="QuenTine" creationdate="20181106T133934Z">
         <seg>任何时候，想要了解一个角色的大体经济状况，参考下表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To identify the intruder, make an opposed Computer Use check against the intruder.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T111310Z" creationid="quentine" creationdate="20190917T111310Z">
+        <seg>要识别入侵者，需要与入侵者做一次计算机使用对抗检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22870,6 +23646,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>When a character hacks into a site, the visit is called a session.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T142055Z" creationid="quentine" creationdate="20190916T142055Z">
+        <seg>当角色黑入一个站点，整个访问过程称为一次`会话`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When a character hacks, he or she attempts to invade a site.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T135825Z" creationid="quentine" creationdate="20190916T135825Z">
+        <seg>黑入就是角色试图入侵一个站点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>When a character has a negative opinion of a hero’s reputation, the hero is considered to be infamous by that character.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T124149Z">
@@ -23382,6 +24174,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>With a single computer, that’s often no big deal—but on a large site with many computers (or computers controlling functions that can’t be interrupted), it may be time-consuming or even impossible.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T111222Z" creationid="quentine" creationdate="20190917T111222Z">
+        <seg>关掉一台电脑没什么问题，但是要关掉一个由许多电脑组成的大站点（或者正在完成不可干扰的重要任务的电脑）将是一个耗时甚至不可能做到的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>With a successful Sense Motive check opposed by the subject’s Bluff check result or against DC 10 (whichever is greater), the Investigator can tell whether the subject is deliberately and knowingly speaking a lie.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190526T090637Z" creationid="quentine" creationdate="20190526T090459Z">
@@ -23700,6 +24500,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>\* Such as an activity that requires more than a single full-round action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T133728Z" creationid="quentine" creationdate="20190917T133728Z">
+        <seg>\* 比如一些需要花费超过一个整轮动作的活动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>\* The given basic class provides the fastest path to both of the associated advanced classes, though not the only path.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190221T133205Z" creationid="quentine" creationdate="20190221T133205Z">
@@ -23744,6 +24552,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190522T144533Z" creationid="quentine" creationdate="20190522T144533Z">
         <seg>\*\* 多选</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>\*\* Such as from catching on fire.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T134714Z" creationid="quentine" creationdate="20190917T134714Z">
+        <seg>\*\* 比如着火。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25006,6 +25822,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>|Distraction|DC|
+|-----------|--|
+|Damaged during the action\*|10 + damage dealt|
+|Taking continuous damage during the action\*\*|10 + half of continuous damage last dealt|
+|Vigorous motion (bouncy vehicle ride, small boat in rough water, belowdecks in a storm-tossed ship, riding a horse)|10|
+|Violent motion (very rough vehicle ride, small boat in rapids, on deck of storm-tossed ship, galloping horse)|15|
+|Extraordinarily violent motion (earthquake)|20|
+|Entangled in net or snare|15|
+|Grappling or pinned|20|
+|Weather is a high wind carrying blinding rain or sleet|5|
+|Weather is wind-driven hail, dust, or debris|10|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T135647Z" creationid="quentine" creationdate="20190917T133638Z">
+        <seg>|分心情形|DC|
+|-----------|--|
+|进行动作时受到伤害\*|10 + 承受的伤害量|
+|进行动作时持续受伤\*\*|10 + 已承受的持续伤害的一半|
+|剧烈运动（颠簸的载具上、澎湃水面的小船上、风暴中的舰船内部、骑着马）|10|
+|激烈运动（非常颠簸的载具上、激流中的小船上、风暴中的舰船甲板上、疾驰的马上）|15|
+|极其激烈的运动（地震）|20|
+|被缠在网上或陷阱中|15|
+|被擒抱或压制|20|
+|疾风、茫茫大雨或雨夹雪|5|
+|狂风卷集着冰雹、沙尘暴或碎片|10|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>|Example Ability Check|Key Ability|
 |---------------------|-----------|
 |Forcing open a jammed or locked door|Strength|
@@ -25140,6 +25984,24 @@
 |火把|20尺|2小时|
 |提灯|40尺|24小时|
 |手电筒|20尺\*|6小时|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>|Level of Security|DC|
+|----------------|:-:|
+|Minimum|20|
+|Average|25|
+|Exceptional|35|
+|Maximum|40|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T135519Z" creationid="quentine" creationdate="20190916T135519Z">
+        <seg>|安全等级|DC|
+|----------------|:-:|
+|最小|20|
+|中等|25|
+|加强|35|
+|最大|40|</seg>
       </tuv>
     </tu>
     <tu>
@@ -25300,6 +26162,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>|Scope of Alteration|DC|Time|
+|------------------|:-:|----|
+|Crash computer|10|1 minute|
+|Destroy programming|15|10 minutes|
+|Damage programming|20|10 minutes|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T123659Z" creationid="quentine" creationdate="20190917T123659Z">
+        <seg>|修改程度|DC|耗时|
+|------------------|:-:|----|
+|使电脑崩溃|10|1分钟|
+|损毁性编程|15|10分钟|
+|损伤性编程|20|10分钟|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>|Shadow Enemy Type|
 |-----------------|
 |Aberration|
@@ -25346,6 +26224,24 @@
 |该英雄威名或者骂名远扬|+10|
 |GM 角色是该英雄行业领域或社交圈内部的人|+5|
 |该英雄小有名声|+2|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>|Size of Site|DC|Time|
+|------------|:-:|---|
+|Personal computer|10|1 round|
+|Small office network|15|2 rounds|
+|Large office network|20|1 minute|
+|Massive corporate network|25|10 minutes|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T133313Z" creationid="quentine" creationdate="20190916T133313Z">
+        <seg>|站点大小|DC|时间|
+|------------|:-:|---|
+|个人电脑|10|1轮|
+|小型办公室网络|15|2轮|
+|大型办公室网络|20|1分钟|
+|巨大的企业网络|25|10分钟|</seg>
       </tuv>
     </tu>
     <tu>
@@ -25544,6 +26440,32 @@
 |16–18|侍僧等级 +2|
 |19–21|侍僧等级 +3|
 |22及以上|侍僧等级 +4|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>|Type of Operation|DC|Time|
+|----------------|:-:|:--:|
+|Shut down passive remote (including cameras and door locks)|20|1 round per remote|
+|Shut down active remote (including motion detectors and alarms)|25|1 round per remote|
+|Reset parameters|30|1 minute per remote|
+|Change passcodes|25|1 minute|
+|Hide evidence of alteration|+10|1 minute|
+|Minimum security|–5|—|
+|Exceptional security|+10|—|
+|Maximum security|+15|—|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T125319Z" creationid="quentine" creationdate="20190917T125319Z">
+        <seg>|操作类型|DC|耗时|
+|----------------|:-:|:--:|
+|关闭被动遥感设施（包括摄像头和门锁）|20|每个设施1轮|
+|关闭主动遥感设施（包括运动探测器和警报器）|25|每个设施1轮|
+|复位参数|30|每个设施1分钟|
+|修改口令|25|1分钟|
+|隐藏改动痕迹|+10|1分钟|
+|最小安全等级|–5|—|
+|加强安全等级|+10|—|
+|最大安全等级|+15|—|</seg>
       </tuv>
     </tu>
     <tu>

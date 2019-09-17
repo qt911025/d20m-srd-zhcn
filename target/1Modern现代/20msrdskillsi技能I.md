@@ -142,151 +142,157 @@
 
 能让角色以常速攀爬的加速攀爬，是一个整轮动作。角色可以用一个移动动作只移动一半距离（角色常速的一半）。
 
-## Computer Use (Int)
+## 计算机使用（智）
 
-**Check:** Most normal computer operations don’t require a Computer Use check (though a character might have to make a Research check; see the Research skill description). However, searching an unfamiliar network for a particular file, writing computer programs, altering existing programs to perform differently (better or worse), and breaking through computer security are all relatively difficult and require skill checks.
+**检定：** 大多数计算机操作并不需要检定此技能（但角色可能要做一个研究检定，详见`研究`技能检定的描述）。然而，在一个不熟悉的网络环境里搜索特定的文件、编写计算机程序、修改现存的程序以改变其性能（优化或者劣化）、以及攻破计算机的安全系统等等相对困难的计算机操作需要此技能检定。
 
-**Find File:** This skill can be used for finding files or data on an unfamiliar system. The DC for the check and the time required are determined by the size of the site on which the character is searching.
+**查找文件：** 此技能可用于在陌生的系统里查找文件或数据。检定DC和消耗时间取决于角色检索的站点有多大。
 
-Finding public information on the Internet does not fall under this category; usually, such a task requires a Research check. This application of the Computer Use skill only pertains to finding files on private systems with which the character is not familiar.
+在互联网上寻找公开的信息不在此范畴，这类行为通常需要做研究检定。`计算机使用`技能只适用于在角色不熟悉的私密的系统里查找文件。
 
-|Size of Site|DC|Time|
+|站点大小|DC|时间|
 |------------|:-:|---|
-|Personal computer|10|1 round|
-|Small office network|15|2 rounds|
-|Large office network|20|1 minute|
-|Massive corporate network|25|10 minutes|
+|个人电脑|10|1轮|
+|小型办公室网络|15|2轮|
+|大型办公室网络|20|1分钟|
+|巨大的企业网络|25|10分钟|
 
-**Defeat Computer Security:** This application of Computer Use can’t be used untrained. The DC is determined by the quality of the security program installed to defend the system. If the check is failed by 5 or more, the security system immediately alerts its administrator that there has been an unauthorized entry. An alerted administrator may attempt to identify the character or cut off the character’s access to the system.
+**破解计算机防御：** 当计算机使用用于此用途时，技能需受训。检定DC取决于系统安装的安全软件的质量。如果检定失败，低于DC5点甚至更多，安全系统会立即警报通知管理员有非法入侵。被警报的管理员会试图识别入侵的角色或者切断角色对系统的访问。
 
-Sometimes, when accessing a difficult site, the character has to defeat security at more than one stage of the operation. If the character beats the DC by 10 or more when attempting to defeat computer security, the character automatically succeeds at all subsequent security checks at that site until the end of the character’s session (see Computer Hacking below).
+有时候，角色要访问一个难以登入的站点，需要分多个步骤破解防御。如果角色检定结果成功大于等于DC+10，在这次会话内，将自动成功完成破解此系统的所有步骤。
 
-|Level of Security|DC|
+|安全等级|DC|
 |----------------|:-:|
-|Minimum|20|
-|Average|25|
-|Exceptional|35|
-|Maximum|40|
+|最小|20|
+|中等|25|
+|加强|35|
+|最大|40|
 
-### Computer Hacking
+### 黑入计算机
 
-Breaking into a secure computer or network is often called hacking.
+破解进入安全防卫的电脑或网络俗称`黑入`。
 
-When a character hacks, he or she attempts to invade a site. A site is a virtual location containing files, data, or applications. A site can be as small as a single computer, or as large as a corporate network connecting computers and data archives all over the world—the important thing is that access to the site connects the user to everything within it. Some sites can be accessed via the Internet; others are not connected to any outside network and can only be tapped into by a user who physically accesses a computer connected to the site.
+黑入就是角色试图入侵一个站点。`站点`则是一个保存了文件、数据、或者应用程序的虚拟地点。站点小到一台电脑，大到连接了大量电脑并向全世界传输数据的企业网络——它们都有一个共同点，用户访问了就能与里面的一切相连接。一些站点能通过互联网访问，其他不与互联网相连的孤立站点则只能通过物理的方式访问。
 
-Every site is overseen by a system administrator—the person in charge of the site, and who maintains its security. Often, the system administrator is the only person with access to all of a site’s functions and data. A site can have more than one system administrator; large sites have a system administrator on duty at all times. A character is the system administrator of his or her personal computer.
+每个站点都有监视着整个系统的管理员——掌管这个站点，负责其安全的人。通常，系统管理员是唯一有权访问系统所有程序和数据的人。一个站点可以有多个系统管理员，大型站点的系统管理员轮班不间断地管理系统。角色是其所拥有的个人电脑的系统管理员。
 
-When a character hacks into a site, the visit is called a session. Once a character stops accessing the site, the session is over. The character can go back to the site in the future; when he or she does, it’s a new session.
+当角色黑入一个站点，整个访问过程称为一次`会话`。一旦角色退出访问，会话结束。角色未来可再次回到站点，这算是一次新会话。
 
-#### Several steps are required to hack into a site:
+#### 黑入一个站点所需的几个步骤：
 
-**Covering Tracks:** This step is optional. By making a Computer Use check (DC 20), a character can alter his or her identifying information. This imposes a –5 penalty on any attempt made to identify the character if his or her activity is detected.
+**掩盖踪迹：** 此步骤是可选的。通过一次计算机使用检定（DC20），角色可以修改自己的访问者信息。如果行踪暴露，任何试图识别此角色的身份的检定将受到5点减值。
 
-**Access the Site:** There are two ways to do this: physically or over the Internet.
+**访问站点：** 有两种方式访问：物理访问和网络访问。
 
-**Physical Access:** A character gains physical access to the computer, or a computer connected to the site.  If the site being hacked is not connected to the Internet, this is probably the only way a character can access it. A variety of skill checks may be required, depending on the method used to gain access.
+**物理访问：** 角色物理访问电脑，或者通过与站点相连的电脑物理访问站点。如果要黑入的站点不与互联网相连，这可能就是角色访问此站点的唯一办法。根据访问方式的不同，访问将会需要各种技能检定。
 
-**Internet Access:** Reaching a site over the net requires two Computer Use checks. The first check (DC 10) is needed to find the site on the net. The second is a check to defeat computer security (see the Computer Use skill description). Once a character has succeeded in both checks, the character has accessed the site.
+**网络访问：** 通过网络访问站点需要进行两次计算机使用检定。第一次检定（DC10）用于找到此站点。第二次检定用于破解计算机的防御（详见计算机使用的技能描述）。若角色两次检定都成功，角色将成功访问此站点。
 
-**Locate What You’re Looking For:** To find the data (or application, or remote device) the character wants, make a Computer Use check. See Find File under the skill description.
+**锁定目标位置：** 要找到目标数据（或者应用程序、远程设备）的位置，需要进行一次计算机使用检定。详见此技能描述的`查找文件`一条。
 
-**Defeat File Security:** Many networks have additional file security.  If that’s the case, the character needs to make another check to defeat computer security.
+**破解文件锁：** 许多网络都有额外的文件保护机制。如果有这个情况，角色需要再进行一次计算机使用检定破解文件的安全锁。
 
-**Do Your Stuff:** Finally, the character can actually do what he or she came to do. If the character just wants to look at records, no additional check is needed. (A character can also download data, although that often takes several rounds—or even several minutes, for especially large amounts of information—to complete.) Altering or deleting records sometimes requires yet another check to defeat computer security. Other operations can be carried out according to the Computer Use skill description.
+**进行操作：** 最后，角色终于可以做想做的事了。如果角色只是想看看记录，则无需做额外的检定。（角色也可以下载数据，但这通常要花上好几轮的时间来完成，如果是大量数据甚至需要几分钟的时间。）修改或删除记录有时需要再做一次技能检定以破解防御。其他操作也是根据计算机使用的技能描述来执行。
 
-**Defend Security:** If the character is the system administrator for a site (which may be as simple as being the owner of a laptop), he or she can defend the site against intruders. If the site alerts the character to an intruder, the character can attempt to cut off the intruder’s access (end the intruder’s session), or even to identify the intruder.
+**主动防御：** 如果角色是站点的系统管理员（哪怕是一台笔记本的物主），则可以防御入侵者的进攻。如果站点警告有人入侵，角色可以试图切断入侵者的访问（结束入侵者的会话），甚至可以识别入侵者的身份。
 
-To cut off access, make an opposed Computer Use check against the intruder. If the character succeeds, the intruder’s session is ended. The intruder might be able to defeat the character’s security and access his or her site again, but the intruder will have to start the hacking process all over. Attempting to cut off access takes a full round.
+要切断访问，需要与入侵者做一次计算机使用对抗检定。如果角色成功，入侵者的会话结束。入侵者可以再次击败角色的防御，访问站点，但必须从头完成黑入步骤。切断访问是一个整轮动作。
 
-One surefire way to prevent further access is to simply shut the site down. With a single computer, that’s often no big deal—but on a large site with many computers (or computers controlling functions that can’t be interrupted), it may be time-consuming or even impossible.
+还有一个绝对能阻止访问的办法，就是关掉站点。关掉一台电脑没什么问题，但是要关掉一个由许多电脑组成的大站点（或者正在完成不可干扰的重要任务的电脑）将是一个耗时甚至不可能做到的事。
 
-To identify the intruder, make an opposed Computer Use check against the intruder. If the character succeeds, the character learns the site from which the intruder is operating (if it’s a single computer, the character learns the name of the computer’s owner). Identifying the intruder requires 1 minute and is a separate check from cutting off access. This check can only be made if the intruder is accessing the character’s site for the entire length of the check—if the intruder’s session ends before the character finishes the check, the character automatically fails.
+要识别入侵者，需要与入侵者做一次计算机使用对抗检定。如果角色对抗成功，角色将知晓入侵者自身所处的站点（如果是单个电脑，角色将知晓电脑所有者的名字）。识别入侵者需要1分钟的时间，对抗检定与切断访问的对抗检定不是同一个。此检定必须要入侵者一直在线才能做出，如果入侵者在角色完成检定前就结束会话，检定自动失败。
 
-**Degrade Programming:** A character can destroy or alter applications on a computer to make use of that computer harder or impossible. The DC for the attempt depends on what the character tries to do. Crashing a computer simply shuts it down. Its user can restart it without making a skill check (however, restarting takes 1 minute). Destroying programming makes the computer unusable until the programming is repaired. Damaging programming imposes a –4 penalty on all Computer Use checks made with the computer (sometimes this is preferable to destroying the programming, since the user might not know that anything is wrong, and won’t simply decide to use a different computer).
+**破坏性编程：** 角色可摧毁或修改计算机上的应用，使计算机难以使用甚至报废。所需的DC取决于角色的目标。`使电脑崩溃`就是单单关掉电脑而已。电脑的用户不需做技能检定即可重启电脑（但要花1分钟的时间）。`损毁性编程`使电脑变得不可用，直到程序被修复。`损伤性编程`将使利用此电脑做出的所有计算机使用检定都受到4点减值（有时这比`损毁性编程`更好，在这种情况下用户可能不知道哪里出错了，也不会因为无法使用而考虑换台电脑）。
 
-A character can degrade the programming of multiple computers at a single site; doing so adds +2 to the DC for each additional computer.
+角色可以编程破坏一个站点的多台电脑，每多一台电脑DC+2。
 
-|Scope of Alteration|DC|Time|
+|修改程度|DC|耗时|
 |------------------|:-:|----|
-|Crash computer|10|1 minute|
-|Destroy programming|15|10 minutes|
-|Damage programming|20|10 minutes|
+|使电脑崩溃|10|1分钟|
+|损毁性编程|15|10分钟|
+|损伤性编程|20|10分钟|
 
-Fixing the degraded programming requires 1 hour and a Computer Use check against a DC equal to the DC for degrading it + 5.
+修复破坏性编程造成的破坏需要1小时的时间来做一次计算机使用检定，检定DC等于造成此破坏所需的DC+5。
 
-**Write Program:** A character can create a program to help with a specific task. Doing so grants the character a +2 circumstance bonus to the task.
+**编写程序：** 角色可编写一个程序帮助完成特定的任务。这可以让角色完成此任务时获得2点情景加值。
 
-A specific task, in this case, is one type of operation with one target.
+特定的任务在这里仅限于针对一个目标的一个操作。
 
-The DC to write a program is 20; the time required is 1 hour.
+编写程序的DC是20，需要1小时的时间。
 
-**Operate Remote Device:** Many devices are computer-operated via remote links. If the character has access to the computer that controls such systems, the character can either shut them off or change their operating parameters. The DC depends on the nature of the operation. If the character fails the check by 5 or more, the system immediately alerts its administrator that there has been an unauthorized use of the equipment. An alerted administrator may attempt to identify the character or cut off his or her access to the system.
+**操作远程设备：** 许多设备是通过计算机远程操作的。如果角色成功访问控制该系统的电脑，角色可以选择关掉它们或者修改它们的运行程序。DC取决于操作的性质。如果检定失败，低于DC5点甚至更多，系统会立即警报通知管理员有人非法使用这些设施。被警报的管理员会试图识别入侵的角色或者切断角色对系统的访问。
 
-|Type of Operation|DC|Time|
+|操作类型|DC|耗时|
 |----------------|:-:|:--:|
-|Shut down passive remote (including cameras and door locks)|20|1 round per remote|
-|Shut down active remote (including motion detectors and alarms)|25|1 round per remote|
-|Reset parameters|30|1 minute per remote|
-|Change passcodes|25|1 minute|
-|Hide evidence of alteration|+10|1 minute|
-|Minimum security|–5|—|
-|Exceptional security|+10|—|
-|Maximum security|+15|—|
+|关闭被动遥感设施（包括摄像头和门锁）|20|每个设施1轮|
+|关闭主动遥感设施（包括运动探测器和警报器）|25|每个设施1轮|
+|复位参数|30|每个设施1分钟|
+|修改口令|25|1分钟|
+|隐藏改动痕迹|+10|1分钟|
+|最小安全等级|–5|—|
+|加强安全等级|+10|—|
+|最大安全等级|+15|—|
 
-**Special:** A character can take 10 when using the Computer Use skill. A character can take 20 in some cases, but not in those that involve a penalty for failure. (A character cannot take 20 to defeat computer security or defend security.)
+**特别：** 角色可以在计算机使用检定中取10。角色在某些情况下可以取20，但有失败惩罚的不可取20。（角色不能在破解计算机防御以及主动防御时取20。）
 
-A character with the Gearhead feat gets a +2 bonus on all Computer Use checks.
+有`技术宅`专长的角色计算机使用检定有2点加值。
 
-**Time:** Computer Use requires at least a full-round action. The GM may determine that some tasks require several rounds, a few minutes, or longer, as described above.
+**时间：** 计算机使用花费至少1个整轮动作。GM可以按上述规则酌情决定，一些任务需要几轮、几分钟或更长的时间。
 
-## Concentration (Con)
+## 专注（体）
 
-**Check:** A character makes a Concentration check whenever he or she may potentially be distracted while engaged in some action that requires his or her full attention (such as making a Disable Device or Treat Injury check). Situations such as taking damage, working in a bouncing vehicle, or dealing with severe weather can require a character to make a Concentration check.
+**检定：** 角色进行任何需要全神贯注的行为时，只要有可能分心，就要做一次专注检定（比如进行解除装置检定或医疗检定时）。诸如受到伤害、在颠簸的载具上工作、或者应对极端天气等情形都需要角色做一次专注检定。
 
-If the Concentration check succeeds, the character may continue with the action. If the Concentration check fails, the action automatically fails (with the appropriate ramifications, if any), and the action is wasted.
+如果专注检定成功，角色如常继续该动作。若检定失败，该动作自动失败（产生相应的失败后果）并浪费掉。
 
-A successful Concentration check still doesn’t allow a character to take 10 when in a stressful situation; he or she must roll the check as normal.
+成功的专注检定并不能允许角色在紧张的情况下取10，角色必须如常掷骰。
 
-The check DC depends on the nature of the distraction.
+检定DC取决于分心的性质。
 
-**Try Again?:** Yes, though a success doesn’t cancel the effects of a previous failure, such as the disruption of an action that was being concentrated on.
+**重试：** 可以，但成功了也不能弥补上一次失败造成的结果，比如成功专注的动作已经被扰乱。
 
-**Special:** A character can use Concentration to avoid attacks of opportunity when attempting a skill check that normally provokes attacks of opportunity. The DC to do so is 15.
+**特别：** 角色可以在使用会引发借机攻击的技能时进行专注检定来避免引发。这么做的DC是15。
 
-If the Concentration check succeeds, the character may attempt the action normally without incurring any attacks of opportunity. If the Concentration check fails, the related check automatically fails just as if the character’s concentration had been disrupted by a distraction. The character does not provoke attacks of opportunity, however.
+如果专注检定成功，角色能如常进行该动作而不会引发任何借机攻击。如果专注检定失败，该行为的检定也会自动失败，视为角色的行为因分心而被干扰了。但角色仍然不会引发借机攻击。
 
-This use of Concentration applies only to skill checks. It does not apply to other actions that normally provoke attacks of opportunity, such as movement or making unarmed attacks.
+这种专注检定的用法只适用于技能检定，而不适用于其他会引发借机攻击的动作，比如移动或徒手攻击。
 
-A character with the Focused feat gets a +2 bonus on all Concentration checks.
+有全神贯注专长的角色的专注检定有2点加值。
 
-The concentration skill has further uses for characters using magic or psionics.
+专注检定在角色使用魔法或灵能时有更多用处。
 
-**Time:** Making a Concentration check doesn’t require an action; it is either a reaction (when attempted in response to a distraction) or part of another action (when at-tempted actively).
+**时间：** 进行专注检定不需要动作，而是一个`反应`（对分心的反应）或是另一个动作的一部分（当在进行动作时使用专注检定）。
 
-|Distraction|DC|
+|分心情形|DC|
 |-----------|--|
-|Damaged during the action\*|10 + damage dealt|
-|Taking continuous damage during the action\*\*|10 + half of continuous damage last dealt|
-|Vigorous motion (bouncy vehicle ride, small boat in rough water, belowdecks in a storm-tossed ship, riding a horse)|10|
-|Violent motion (very rough vehicle ride, small boat in rapids, on deck of storm-tossed ship, galloping horse)|15|
-|Extraordinarily violent motion (earthquake)|20|
-|Entangled in net or snare|15|
-|Grappling or pinned|20|
-|Weather is a high wind carrying blinding rain or sleet|5|
-|Weather is wind-driven hail, dust, or debris|10|
+|进行动作时受到伤害\*|10 + 承受的伤害量|
+|进行动作时持续受伤\*\*|10 + 已承受的持续伤害的一半|
+|剧烈运动（颠簸的载具上、澎湃水面的小船上、风暴中的舰船内部、骑着马）|10|
+|激烈运动（非常颠簸的载具上、激流中的小船上、风暴中的舰船甲板上、疾驰的马上）|15|
+|极其激烈的运动（地震）|20|
+|被缠在网上或陷阱中|15|
+|被擒抱或压制|20|
+|疾风、茫茫大雨或雨夹雪|5|
+|狂风卷集着冰雹、沙尘暴或碎片|10|
 
-\* Such as an activity that requires more than a single full-round action. Also from an attack of opportunity or readied attack made in response to the action being taken (for activities requiring no more than a full-round action).
+\* 比如一些需要花费超过一个整轮动作的活动。还有引发了借机攻击或准备攻击的活动（这些活动并不需要整轮动作）。
 
-\*\* Such as from catching on fire.
+\*\* 比如着火。
 
-Craft (Int)
+## Craft (Int)
+
 **This skill encompasses several categories, each of them treated as a separate skill:** Craft (chemical), Craft (electronic), Craft (mechanical), Craft (pharmaceutical), Craft (structural), Craft (visual arts), and Craft (writing).
+
 Craft skills are specifically focused on creating objects. To use a Craft skill effectively, a character must have a kit or some other set of basic tools. The purchase DC of this equipment varies according to the particular Craft skill.
+
 To use Craft, first decide what the character is trying to make and consult the category descriptions below. Make a Wealth check against the given purchase DC for the object to see if the character succeeds in acquiring the raw materials. If the character succeeds at that check, make the Craft check against the given DC for the object in question. If the character fails the check, he or she does not make the object, and the raw materials are wasted (unless otherwise noted).
+
 Generally, a character can take 10 when using a Craft skill to construct an object, but can’t take 20 (since doing so represents multiple attempts, and the character uses up the raw materials after the first attempt). The exception is Craft (writing); a character can take 20 because the character does not use up any raw materials (and thus no Wealth check is required to use the skill).
 
-Craft (chemical) (Int) Trained Only
+### Craft (chemical) (Int) Trained Only
+
 This skill allows a character to mix chemicals to create acids, bases, explosives, and poisonous substances.
+
 **Acids and Bases:** Acids are corrosives substances. Bases neutralize acids but do not deal damage. A base of a certain type counteracts an acid of the same type or a less potent type.
 
 |Type of Acid|Purchase DC|Acid\*|Base\*|Time\*|
@@ -371,7 +377,7 @@ n/a: Certain poisons can’t be made with the Craft skill. Instead, such a poiso
 
 A character with the Builder feat gets a +2 bonus on all Craft (chemical) checks.
 
-## Craft (electronic) (Int) Trained Only
+### Craft (electronic) (Int) Trained Only
 
 This skill allows a character to build electronic equipment from scratch, such as audio and video equipment, timers and listening devices, or radios and communication devices.
 
@@ -388,7 +394,7 @@ When building an electronic device from scratch, the character describes the kin
 
 A character with the Builder feat gets a +2 bonus on all Craft (electronic) checks.
 
-## Craft (mechanical) (Int) Trained Only
+### Craft (mechanical) (Int) Trained Only
 
 This skill allows a character to build mechanical devices from scratch, including engines and engine parts, weapons, armor, and other gadgets. When building a mechanical device from scratch, the character describes the kind of device he or she wants to construct; then the Gamemaster decides if the device is simple, moderate, complex, or advanced compared to current technology.
 
@@ -403,7 +409,7 @@ This skill allows a character to build mechanical devices from scratch, includin
 
 A character with the Builder feat gets a +2 bonus on all Craft (mechanical) checks.
 
-## Craft (pharmaceutical) (Int) Trained Only
+### Craft (pharmaceutical) (Int) Trained Only
 
 This skill allows a character to compound medicinal drugs to aid in recovery from treatable illnesses. A medicinal drug gives a +2 circumstance bonus on Fortitude saves made to resist the effects of a disease.
 
@@ -420,7 +426,7 @@ The Craft (pharmaceutical) check is based on the severity of the disease to be c
 
 A character with the Medical Expert feat gets a +2 bonus on all Craft (pharmaceutical) checks.
 
-## Craft (structural) (Int)
+### Craft (structural) (Int)
 
 This skill allows a character to build wooden, concrete, or metal structures from scratch, including bookcases, desks, walls, houses, and so forth, and includes such handyman skills as plumbing, house painting, drywall, laying cement, and building cabinets.
 
@@ -437,7 +443,7 @@ When building a structure from scratch, the character describes the kind of stru
 
 A character with the Builder feat gets a +2 bonus on all Craft (structural) checks.
 
-## Craft (visual art) (Int)
+### Craft (visual art) (Int)
 
 This skill allows a character to create paintings or drawings, take photographs, use a video camera, or in some other way create a work of visual art.
 
@@ -457,7 +463,7 @@ Creating a work of visual art requires at least a full-round action, but usually
 
 **Special:** A character with the Creative feat gets a +2 bonus on all Craft (visual art) checks.
 
-## Craft (writing) (Int)
+### Craft (writing) (Int)
 
 This skill allows a character to create short stories, novels, scripts and screenplays, newspaper articles and columns, and similar works of writing.
 

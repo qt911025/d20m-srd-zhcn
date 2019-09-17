@@ -735,3 +735,24 @@ discretion	自由裁量
 chain-link fence	铁丝网围栏
 air duct	通风管
 slippery	光滑的
+Find File	查找文件
+Find File	查找文件
+Defeat Computer Security	破解计算机防御
+Hack	黑入
+site	站点
+session	会话
+Covering Tracks	掩盖踪迹
+Access	访问
+Internet Access	网络访问
+Physical Access	物理访问
+Locate What You’re Looking For	锁定目标位置
+Defeat File Security	破解文件锁
+Do Your Stuff	进行操作
+Defend Security	主动防御
+Degrade Programming	破坏性编程
+Crashing	使崩溃
+Destroying programming	损毁性编程
+Damaging programming	损伤性编程
+Write Program	编写程序
+Operate Remote Device	操作远程设备
+remote	遥感

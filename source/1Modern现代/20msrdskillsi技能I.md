@@ -279,14 +279,20 @@ The concentration skill has further uses for characters using magic or psionics.
 
 \*\* Such as from catching on fire.
 
-Craft (Int)
+## Craft (Int)
+
 **This skill encompasses several categories, each of them treated as a separate skill:** Craft (chemical), Craft (electronic), Craft (mechanical), Craft (pharmaceutical), Craft (structural), Craft (visual arts), and Craft (writing).
+
 Craft skills are specifically focused on creating objects. To use a Craft skill effectively, a character must have a kit or some other set of basic tools. The purchase DC of this equipment varies according to the particular Craft skill.
+
 To use Craft, first decide what the character is trying to make and consult the category descriptions below. Make a Wealth check against the given purchase DC for the object to see if the character succeeds in acquiring the raw materials. If the character succeeds at that check, make the Craft check against the given DC for the object in question. If the character fails the check, he or she does not make the object, and the raw materials are wasted (unless otherwise noted).
+
 Generally, a character can take 10 when using a Craft skill to construct an object, but can’t take 20 (since doing so represents multiple attempts, and the character uses up the raw materials after the first attempt). The exception is Craft (writing); a character can take 20 because the character does not use up any raw materials (and thus no Wealth check is required to use the skill).
 
-Craft (chemical) (Int) Trained Only
+### Craft (chemical) (Int) Trained Only
+
 This skill allows a character to mix chemicals to create acids, bases, explosives, and poisonous substances.
+
 **Acids and Bases:** Acids are corrosives substances. Bases neutralize acids but do not deal damage. A base of a certain type counteracts an acid of the same type or a less potent type.
 
 |Type of Acid|Purchase DC|Acid\*|Base\*|Time\*|
@@ -371,7 +377,7 @@ n/a: Certain poisons can’t be made with the Craft skill. Instead, such a poiso
 
 A character with the Builder feat gets a +2 bonus on all Craft (chemical) checks.
 
-## Craft (electronic) (Int) Trained Only
+### Craft (electronic) (Int) Trained Only
 
 This skill allows a character to build electronic equipment from scratch, such as audio and video equipment, timers and listening devices, or radios and communication devices.
 
@@ -388,7 +394,7 @@ When building an electronic device from scratch, the character describes the kin
 
 A character with the Builder feat gets a +2 bonus on all Craft (electronic) checks.
 
-## Craft (mechanical) (Int) Trained Only
+### Craft (mechanical) (Int) Trained Only
 
 This skill allows a character to build mechanical devices from scratch, including engines and engine parts, weapons, armor, and other gadgets. When building a mechanical device from scratch, the character describes the kind of device he or she wants to construct; then the Gamemaster decides if the device is simple, moderate, complex, or advanced compared to current technology.
 
@@ -403,7 +409,7 @@ This skill allows a character to build mechanical devices from scratch, includin
 
 A character with the Builder feat gets a +2 bonus on all Craft (mechanical) checks.
 
-## Craft (pharmaceutical) (Int) Trained Only
+### Craft (pharmaceutical) (Int) Trained Only
 
 This skill allows a character to compound medicinal drugs to aid in recovery from treatable illnesses. A medicinal drug gives a +2 circumstance bonus on Fortitude saves made to resist the effects of a disease.
 
@@ -420,7 +426,7 @@ The Craft (pharmaceutical) check is based on the severity of the disease to be c
 
 A character with the Medical Expert feat gets a +2 bonus on all Craft (pharmaceutical) checks.
 
-## Craft (structural) (Int)
+### Craft (structural) (Int)
 
 This skill allows a character to build wooden, concrete, or metal structures from scratch, including bookcases, desks, walls, houses, and so forth, and includes such handyman skills as plumbing, house painting, drywall, laying cement, and building cabinets.
 
@@ -437,7 +443,7 @@ When building a structure from scratch, the character describes the kind of stru
 
 A character with the Builder feat gets a +2 bonus on all Craft (structural) checks.
 
-## Craft (visual art) (Int)
+### Craft (visual art) (Int)
 
 This skill allows a character to create paintings or drawings, take photographs, use a video camera, or in some other way create a work of visual art.
 
@@ -457,7 +463,7 @@ Creating a work of visual art requires at least a full-round action, but usually
 
 **Special:** A character with the Creative feat gets a +2 bonus on all Craft (visual art) checks.
 
-## Craft (writing) (Int)
+### Craft (writing) (Int)
 
 This skill allows a character to create short stories, novels, scripts and screenplays, newspaper articles and columns, and similar works of writing.
 
