@@ -756,3 +756,41 @@ Damaging programming	损伤性编程
 Write Program	编写程序
 Operate Remote Device	操作远程设备
 remote	遥感
+acid	酸
+base	盐基
+explosive	爆炸物
+substance	物质
+from scratch	从零开始，土法制造
+Improvised	简易的
+Powerful	大威力的	爆炸物
+Devastating	毁灭性的	爆炸物
+concussion	震荡
+Scratch-Built Explosive	土制爆炸物
+Poisonous Substances	有毒物质
+Solid poison	固体毒物
+Liquid poison	毒液
+Initial Damage	初始伤害
+Restriction	限制级
+ingest	摄取
+Arsenic	砒霜
+license	执照
+Atropine	阿托品
+Injury	创伤
+Belladonna	颠茄
+Blue vitriol	蓝矾
+Blue-ringed octopus venom	蓝环章鱼毒液
+Chloral hydrate	水合氯醛
+Chloroform	氯仿
+Inhaled	吸入
+Curare	箭毒
+Cyanide	氯化物
+Cyanogen	氯气
+DDT	滴滴涕
+Knockout gas	窒息性毒气
+Lead arsenate	砷酸铅
+Mustard	芥末
+Paris green	巴黎绿
+Rattlesnake	响尾蛇
+Sarin nerve gas	沙林神经毒气
+Strychnine	番木鳖碱
+unwilling	不情愿的

@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Craft (Int)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T124927Z" creationid="quentine" creationdate="20190918T124927Z">
+        <seg>## 制造（智）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Creative</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125240Z" creationid="QuenTine" creationdate="20181104T125240Z">
@@ -1778,6 +1786,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190731T121056Z" creationid="quentine" creationdate="20190731T121056Z">
         <seg>### 自信</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Craft (chemical) (Int) Trained Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T133509Z" creationid="quentine" creationdate="20190918T133509Z">
+        <seg>### 制造（化学）（智） 需受训</seg>
       </tuv>
     </tu>
     <tu>
@@ -4345,6 +4361,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Acids and Bases:** Acids are corrosives substances.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T140115Z" creationid="quentine" creationdate="20190918T135715Z">
+        <seg>**酸和盐基：** 酸是有腐蚀性的物质。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Action Points:** 6 + one-half character level, rounded down, every time he or she attains a new level in this class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T095411Z" creationid="quentine" creationdate="20190421T095411Z">
@@ -5594,6 +5618,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Craft DC:** The DC of the Craft check to create a quantity of the poison.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T130153Z" creationid="quentine" creationdate="20190921T130153Z">
+        <seg>**制造DC：** 制造一单位的毒素所需的制造检定的DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Creating a Diversion to Hide:** A character can use Bluff to help him or her hide.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T134247Z" creationid="quentine" creationdate="20190808T134247Z">
@@ -5758,6 +5790,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T144028Z" creationid="quentine" creationdate="20190201T144028Z">
         <seg>**寻找破绽：**一轮战斗后，智力型英雄可以指定一个对手用智力取得战斗优势。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Explosives:** Building an explosive from scratch is dangerous.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T123135Z" creationid="quentine" creationdate="20190918T140830Z">
+        <seg>**爆炸物：** 土制爆炸物是危险的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6122,6 +6162,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Initial Damage:** The damage a character takes immediately upon failing his or her Fortitude save.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T124737Z" creationid="quentine" creationdate="20190921T124737Z">
+        <seg>**初始伤害：** 角色强韧豁免失败时所立即受到的毒素伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Initial Damage:** The damage the victim takes after the incubation period.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142255Z" creationid="quentine" creationdate="20190115T142255Z">
@@ -6478,6 +6526,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T144657Z" creationid="quentine" creationdate="20190201T144657Z">
         <seg>**计划：**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Poisonous Substances:** Solid poisons are usually ingested.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T123911Z" creationid="quentine" creationdate="20190921T123613Z">
+        <seg>**有毒物质：** 固体毒物通常需要摄取才能生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6858,6 +6914,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Purchase DC:** The DC for the Wealth check necessary to obtain the raw materials to craft the poison, or to purchase one bottle of solid or liquid poison or one high-pressure cylinder of gaseous poison.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T125452Z" creationid="quentine" creationdate="20190921T125452Z">
+        <seg>**购买DC：** 制造毒素所需购置原材料的购买DC，或者是购买一瓶固态、液态毒素或是一罐高压毒气的购买DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Qualifying for an Advanced Class**</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T133729Z" creationid="quentine" creationdate="20190221T133729Z">
@@ -6938,6 +7002,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Restriction:** The restriction rating for the poison, if any, and the appropriate black market purchase DC modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T125950Z" creationid="quentine" creationdate="20190921T125950Z">
+        <seg>**限制级：** 毒素的限制级，在黑市的购买DC调整值（如果有的话）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Robust:** The Tough hero becomes especially robust, gaining a number of hit points equal to his or her Tough level as soon as he or she selects this talent.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T153601Z" creationid="quentine" creationdate="20190130T144029Z">
@@ -6951,6 +7023,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T134658Z" creationid="quentine" creationdate="20190201T134658Z">
         <seg>**学者：**从下列技能中选择一个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Save DC:** The Difficulty Class of the Fortitude save to negate the effects of the poison.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T124523Z" creationid="quentine" creationdate="20190921T124442Z">
+        <seg>**豁免DC：** 使毒素失效所需的强韧豁免DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6975,6 +7055,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142511Z" creationid="quentine" creationdate="20190115T142351Z">
         <seg>**再次伤害：** 第二次豁免失败，英雄受到初次伤害第二天受到的伤害数目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Secondary Damage:** The damage a character takes after 1 minute of exposure to the poison if the character fails a second saving throw.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T124917Z" creationid="quentine" creationdate="20190921T124917Z">
+        <seg>**再次伤害：** 第二次豁免失败，角色暴露在毒素下一分钟后所受伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7379,6 +7467,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Special:** A character without a chemical kit takes a –4 penalty on Craft (chemical) checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T091356Z" creationid="quentine" creationdate="20190922T091356Z">
+        <seg>**特别：** 无化学工具箱的角色进行制造（化学）检定将受到4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Special:** A condition that makes a character lose his or her Dexterity bonus to Defense also makes the character lose dodge bonuses.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190803T134843Z" creationid="quentine" creationdate="20190803T134843Z">
@@ -7603,6 +7699,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Table:** Poisons</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T130603Z" creationid="quentine" creationdate="20190921T130603Z">
+        <seg>**表：** 毒素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Table:** The Soldier</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T135943Z" creationid="quentine" creationdate="20190221T135943Z">
@@ -7615,6 +7719,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T072106Z" creationid="quentine" creationdate="20190216T072106Z">
         <seg>**嘲讽：** 魅力型英雄可以辱骂和刺激目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**This skill encompasses several categories, each of them treated as a separate skill:** Craft (chemical), Craft (electronic), Craft (mechanical), Craft (pharmaceutical), Craft (structural), Craft (visual arts), and Craft (writing).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T131945Z" creationid="quentine" creationdate="20190918T131945Z">
+        <seg>**此技能包括几个领域，每个领域被视为独立的技能：** 制造（化学）、制造（电学）、制造（机械）、制造（配药）、制造（结构）、制造（视觉艺术）、制造（写作）/</seg>
       </tuv>
     </tu>
     <tu>
@@ -7663,6 +7775,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T132157Z" creationid="quentine" creationdate="20190917T132157Z">
         <seg>**时间：** 进行专注检定不需要动作，而是一个`反应`（对分心的反应）或是另一个动作的一部分（当在进行动作时使用专注检定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** The amount of time required for the Craft check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T130302Z" creationid="quentine" creationdate="20190921T130302Z">
+        <seg>**时间：** 制造检定所需时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8681,6 +8801,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A base of a certain type counteracts an acid of the same type or a less potent type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T140138Z" creationid="quentine" creationdate="20190918T140059Z">
+        <seg>一个特定类型的盐基能中和相同类型的酸或者腐蚀性更低的酸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A bluff is a quick prevarication intended to distract, confuse, or mislead, generally only for the short term.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T132520Z" creationid="quentine" creationdate="20190808T132520Z">
@@ -8717,6 +8845,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T125450Z" creationid="quentine" creationdate="20190806T125450Z">
         <seg>角色技能调整值的增加和DC的降低结果是相同的——都是让成功机会更大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A bottle holds four doses, while a cylinder holds enough gas to fill a 10-foot-radius area.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T125807Z" creationid="quentine" creationdate="20190921T125807Z">
+        <seg>一瓶毒素包含四服的量，而一罐毒气的量可以充满10尺半径的区域。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8931,8 +9067,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>A character cannot legally sell restricted objects unless the character is licensed to own them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T073115Z" creationid="quentine" creationdate="20190112T073115Z">
-        <seg>角色不能合法地出售管制物品，除非角色有资格持有它。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T081902Z" creationid="quentine" creationdate="20190112T073115Z">
+        <seg>角色不能合法地出售管制物品，除非角色有合法持有它的执照。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9157,6 +9293,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T143851Z" creationid="quentine" creationdate="20190808T143851Z">
         <seg>有竞技专长的角色的攀爬检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Builder feat gets a +2 bonus on all Craft (chemical) checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T091441Z" creationid="quentine" creationdate="20190922T091441Z">
+        <seg>有`构造师`专长的角色制造（化学）检定有2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10047,6 +10191,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140733Z" creationid="QuenTine" creationdate="20181103T140733Z">
         <seg>这些损失的属性点会自然恢复，通常速率为每天恢复1点受影响属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ability score damage is temporary, unless marked with an asterisk, in which case the damage is permanent ability drain.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T125143Z" creationid="quentine" creationdate="20190921T125143Z">
+        <seg>属性伤害是暂时的，除非标了星号，标星号的伤害是永久的`属性流失`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11003,6 +11155,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An explosive compound does not include a fuse or detonator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T141649Z" creationid="quentine" creationdate="20190918T141649Z">
+        <seg>爆炸化合物不包括保险丝和导火索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An increase in a character’s Constitution score—even a temporary one—can give the character more hit points (an effective hit point increase), but these are not temporary hit points.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T114126Z" creationid="quentine" creationdate="20190115T114126Z">
@@ -11311,6 +11471,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T132616Z" creationid="quentine" creationdate="20190114T132616Z">
         <seg>计算意志豁免骰需要加上角色的感知调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Applying chloroform to an unwilling subject requires a successful grapple check and pin.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T090947Z" creationid="quentine" creationdate="20190922T090947Z">
+        <seg>要成功擒抱住并压制目标，才能让不情愿的目标吸入氯仿。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12587,6 +12755,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bases neutralize acids but do not deal damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T140121Z" creationid="quentine" creationdate="20190918T135747Z">
+        <seg>盐基中和酸但不造成伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before the hero can select a talent from this tree the hero must have previously selected at least one talent from the Energy Resistance or Unbreakable Talent Tree.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T143331Z" creationid="quentine" creationdate="20190117T143331Z">
@@ -13099,6 +13275,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connecting a fuse or detonator requires a Demolitions check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T141739Z" creationid="quentine" creationdate="20190918T141739Z">
+        <seg>连接保险丝和导火索需要爆破检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contacts with underworld or street connections usually demand monetary compensation for the services they render, and experts in the use of skills normally want to be paid for the services they provide.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190526T084235Z" creationid="quentine" creationdate="20190526T083452Z">
@@ -13159,6 +13343,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190612T114752Z" creationid="quentine" creationdate="20190612T114752Z">
         <seg>制造（视觉艺术、写作）（智）、文件解读（智）、驾驶（敏）、脱逃（敏）、伪造文书（智）、调查（智）、知识（秘法学识、历史、神学与哲学）（智）、专业（感）、读写语言（无）、研究（智）、手上功夫（敏）、口头语言（无）、使用魔法装置（魅）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Craft skills are specifically focused on creating objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T132029Z" creationid="quentine" creationdate="20190918T132029Z">
+        <seg>制造技能着重于创造物品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14128,6 +14320,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gaseous poisons must be inhaled to be effective.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T124038Z" creationid="quentine" creationdate="20190921T124038Z">
+        <seg>毒气必须吸入才生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generally, a character can take 10 when using a Craft skill to construct an object, but can’t take 20 (since doing so represents multiple attempts, and the character uses up the raw materials after the first attempt).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T133253Z" creationid="quentine" creationdate="20190918T133253Z">
+        <seg>一般来说，角色可以制造一件物品时可以取10，但不能取20（毕竟取20意味着多次尝试，但原材料只能用于第一次尝试）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generally, if a character attempts to use a skill he or she doesn’t have any ranks in, the character makes a skill check as described.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T122814Z" creationid="quentine" creationdate="20190806T122814Z">
@@ -14146,8 +14354,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>Getting a license or buying an object with a restriction rating increases the time needed to make purchases.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T061122Z" creationid="QuenTine" creationdate="20181106T140141Z">
-        <seg>获得许可证或购买管制物品会增加购买所花费的时间。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T081839Z" creationid="QuenTine" creationdate="20181106T140141Z">
+        <seg>获得执照或购买管制物品会增加购买所花费的时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14720,6 +14928,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the Craft (chemical) check fails, the raw materials are wasted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T141028Z" creationid="quentine" creationdate="20190918T141028Z">
+        <seg>如果制造（化学）检定失败，原材料就会被浪费掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Craft check succeeds, the final product is a synthesized solid or liquid poison stored in a bottle (containing 4 doses) or a gas stored in a pressurized cylinder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T130502Z" creationid="quentine" creationdate="20190921T130502Z">
+        <seg>如果制造检定成功，成品则是一瓶（四服）已合成的固体或液体毒物，或储存在高压气瓶中的毒气。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the Field Medic fails the skill check or the patient fails the Fortitude save, the dead character can’t be restored.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190524T132839Z" creationid="quentine" creationdate="20190524T132839Z">
@@ -14904,6 +15128,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character fails the check, he or she does not make the object, and the raw materials are wasted (unless otherwise noted).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T133110Z" creationid="quentine" creationdate="20190918T133040Z">
+        <seg>若财富检定失败，角色不能制造物品，原材料也不会返还（除非另有说明）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character fails the check, resolve the sideswipe normally.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190801T142629Z" creationid="quentine" creationdate="20190801T142629Z">
@@ -14988,6 +15220,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113011Z" creationid="quentine" creationdate="20190115T113011Z">
         <seg>如果角色仍旧昏迷，角色每小时都会进行强韧豁免直到恢复意识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character succeeds at that check, make the Craft check against the given DC for the object in question.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T133049Z" creationid="quentine" creationdate="20190918T133019Z">
+        <seg>若财富检定成功，再进行制造检定对抗制造物品所要求的DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15120,6 +15360,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the check fails by 5 or more, the explosive compound detonates as it is being made, dealing half of its intended damage to the builder and anyone else in the burst radius.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T123254Z" creationid="quentine" creationdate="20190918T141513Z">
+        <seg>如果检定失败，结果低于DC5点及以上，爆炸化合物将会视为成品爆炸物爆炸，对制造者和爆炸半径内的其他人产生成品爆炸物一半的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the check fails, the action automatically fails and is wasted.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190612T121531Z" creationid="quentine" creationdate="20190612T121531Z">
@@ -15188,6 +15436,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190522T140645Z" creationid="quentine" creationdate="20190522T140645Z">
         <seg>若检定成功，提升效果从提升后第一次使用开始计算，持续等同于技师等级的分钟数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the check succeeds, the final product is a solid material, about the size of a brick.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T141712Z" creationid="quentine" creationdate="20190918T141611Z">
+        <seg>若检定成功，最终产品是一个固态的，砖头大小的爆炸化合物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16144,6 +16400,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, such a poison must be obtained by extracting it from the creature in question.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T091158Z" creationid="quentine" creationdate="20190922T091158Z">
+        <seg>而是只能从来源生物身上提取出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instructions on using the License are provided within the License itself.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033201Z" creationid="QuenTine" creationdate="20181022T033201Z">
@@ -16488,6 +16752,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Liquid poisons are most effective when injected directly into the bloodstream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T124017Z" creationid="quentine" creationdate="20190921T123700Z">
+        <seg>毒液直接注射入血液中最为有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>MULTIPLYING
 Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
@@ -16526,6 +16798,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T142925Z" creationid="quentine" creationdate="20190808T142925Z">
         <seg>要这么做需要做一个攀爬检定（DC为墙的DC再加20）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make a Wealth check against the given purchase DC for the object to see if the character succeeds in acquiring the raw materials.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T132743Z" creationid="quentine" creationdate="20190918T132743Z">
+        <seg>然后进行一次财富检定对抗购置所需原材料的购买DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17572,6 +17852,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the poison on the black market.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T130101Z" creationid="quentine" creationdate="20190921T130101Z">
+        <seg>记住一定要在黑市购买进行财富检定时加上这些调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T112029Z" creationid="QuenTine" creationdate="20181022T112029Z">
@@ -17624,6 +17912,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T143541Z" creationid="QuenTine" creationdate="20181104T143541Z">
         <seg>各类科学家及工程师均属于此类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Scratch built explosives deal concussion damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T123417Z" creationid="quentine" creationdate="20190921T123417Z">
+        <seg>土制爆炸物会造成震荡伤害</seg>
       </tuv>
     </tu>
     <tu>
@@ -20852,6 +21148,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The exception is Craft (writing); a character can take 20 because the character does not use up any raw materials (and thus no Wealth check is required to use the skill).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T133449Z" creationid="quentine" creationdate="20190918T133449Z">
+        <seg>但制造（写作）是个例外，角色在这里可以取20，因为角色不会用掉任何原材料（同理也不需要进行财富检定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The extra attack is with the same weapon and at the same bonus as the attack that dropped the previous opponent.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T142037Z" creationid="quentine" creationdate="20190730T142037Z">
@@ -21588,6 +21892,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The purchase DC of this equipment varies according to the particular Craft skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T132352Z" creationid="quentine" creationdate="20190918T132352Z">
+        <seg>不同的制造技能，不同的制造装备的购买DC大小各异。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The quarry leaves only traces, such as scuff marks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190804T141247Z" creationid="quentine" creationdate="20190804T141247Z">
@@ -21769,6 +22081,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T105647Z" creationid="quentine" creationdate="20190703T105647Z">
         <seg>下表列出了根据你的侍僧等级你所能驱散的最强生物的生命骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The table below summarizes the characteristics of various poisons.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T124235Z" creationid="quentine" creationdate="20190921T124235Z">
+        <seg>下表总结了各种毒素的特性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22968,6 +23288,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This skill allows a character to mix chemicals to create acids, bases, explosives, and poisonous substances.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T140107Z" creationid="quentine" creationdate="20190918T135632Z">
+        <seg>此技能让角色可以混合化学品以制造酸、盐基、爆炸物、以及有毒物质。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This skill expands to include alchemy, which can be used to create potions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190623T112227Z" creationid="quentine" creationdate="20190623T112227Z">
@@ -23434,6 +23762,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To use Craft, first decide what the character is trying to make and consult the category descriptions below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T132617Z" creationid="quentine" creationdate="20190918T132617Z">
+        <seg>要使用制造技能，首先决定角色要制造什么，根据以下描述查询其所属类别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To use a Craft skill effectively, a character must have a kit or some other set of basic tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T132142Z" creationid="quentine" creationdate="20190918T132142Z">
+        <seg>要有效地制造物品，角色必须有必备的工具箱或其他类型的基本工具集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To use multiple attacks in the same round, a character must use a full attack, which is a full-round action.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T083246Z" creationid="quentine" creationdate="20190216T083246Z">
@@ -23510,6 +23854,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190802T141333Z" creationid="quentine" creationdate="20190731T115127Z">
         <seg>徒手攻击一般都会引发对手借机攻击，且不能进行借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unconsciousness lasts for 1d3 hours, and paralysis lasts 2d6 minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T125221Z" creationid="quentine" creationdate="20190921T125221Z">
+        <seg>昏迷持续1d3小时，麻痹持续2d6分钟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23990,6 +24342,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T093128Z" creationid="quentine" creationdate="20190216T093128Z">
         <seg>获得新的职业，英雄获得的生命值不是取最大值而是应掷生命骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When released, the gas is sufficient to fill a 10-foot-radius area and takes 1 round to fill the area.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T130552Z" creationid="quentine" creationdate="20190921T130552Z">
+        <seg>毒气释放出来将用一整轮的时间填满半径为10尺的区域。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24544,6 +24904,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>\* Chloroform gives off vapor that causes unconsciousness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T090532Z" creationid="quentine" creationdate="20190922T090532Z">
+        <seg>\* 氯仿的蒸汽会造成昏迷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>\* Creates a beam 30 feet long and 5 feet high.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131455Z" creationid="quentine" creationdate="20190115T131455Z">
@@ -24592,10 +24960,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>\* The figures in parentheses are typical damage/burst radius for each type of explosive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T122731Z" creationid="quentine" creationdate="20190921T122731Z">
+        <seg>\* 括号内指每种爆炸物的`一般伤害/爆炸半径`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>\* The given basic class provides the fastest path to both of the associated advanced classes, though not the only path.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T133205Z" creationid="quentine" creationdate="20190221T133205Z">
         <seg>\* 所示的基本职业并不是对应高级职业的必要条件，而是通往高级职业的捷径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\*Craft DCs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T140442Z" creationid="quentine" creationdate="20190918T140442Z">
+        <seg>\*制造DC</seg>
       </tuv>
     </tu>
     <tu>
@@ -24648,6 +25032,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>\*\*The dice rolls in parentheses are typical contact damage/immersion damage caused per round of immersion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T140741Z" creationid="quentine" creationdate="20190918T140732Z">
+        <seg>\*\*括号内所示的骰点是`一般接触伤害/浸泡所致的每轮浸泡伤害`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>\*\*\* Necessary for a robot built to use any skill except Listen or Spot.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190522T144627Z" creationid="quentine" creationdate="20190522T144627Z">
@@ -24676,6 +25068,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T045310Z" creationid="QuenTine" creationdate="20181024T045310Z">
         <seg>d20 + 调整值（Modifiers） vs. 目标数值（Target Number）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>n/a: Certain poisons can’t be made with the Craft skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T091012Z" creationid="quentine" creationdate="20190922T091012Z">
+        <seg>n/a: 这种毒素不能用制造技能制造。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26258,6 +26658,64 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Poison|Type|Save DC|Initial Damage|Secondary Damage|Purchase DC|Restriction|Craft DC|Time|
+|------|:--:|:-----:|--------------|----------------|:---------:|-----------|:------:|:--:|
+|Arsenic|Ingested|15|1d4 Str|2d4 Con|9|Res (+2)|24|4 hr.|
+|Atropine|Injury|13|1d6 Dex|1d6 Str|3|Res (+2)|14|1 hr.|
+|Belladonna (plant)|Injury|18|1d6 Str|2d6 Str|14|Lic (+1) |n/a|n/a|
+|Blue vitriol|Injury|12|1d2 Con|1d2 Con|3|Res (+2)|9|1 hr.|
+|Blue-ringed octopus venom|Injury|15|1d4 Con|1d4 Con|14|Lic (+1) |n/a|n/a|
+|Chloral hydrate|Ingested|18|1d6 Dex|Unconsciousness 1d3 hours|12|Res (+2)|28|8 hr.|
+|Chloroform\*|Inhaled|17|Unconsciousness 1d3 hours|—|9|Res (+2)|24|4 hr.|
+|Curare (plant)|Injury|18|2d4 Dex|2d4 Wis|15|Res (+2) |n/a|n/a|
+|Cyanide|Injury|16|1d6 Con|2d6 Con|15|Mil (+3)|31|15 hr.|
+|Cyanogen|Inhaled|19|1d4 Dex|2d4 Con|12|Mil (+3)|28|8 hr.|
+|DDT|Inhaled|17|1d2 Str|1d4 Str|9|Lic (+1)|20|4 hr.|
+|Knockout gas|Inhaled|18|1d3 Dex|Unconsciousness 1d3 hours|12|Res (+2)|26|8 hr.|
+|Lead arsenate (gas)|Inhaled|12|1d2 Str|1d4 Con|6|Res (+2)|17|2 hr.|
+|Lead arsenate (solid) |Ingested|12|1d2 Con|1d4 Con|6|Res (+2)|18|2 hr.|
+|Mustard gas|Inhaled|17|1d4 Con|2d4 Con|12|Mil (+3)|26|8 hr.|
+|Paris green (gas)|Inhaled|14|1d2 Con|1d4 Con|9|Res (+2)|20|4 hr.|
+|Paris green (solid)|Ingested|14|1d4 Con|1d4 Con|9|Res (+2)|24|4 hr.|
+|Puffer poison (fish)|Injury|13|1d6 Str|Paralysis 2d6 minutes|13|Lic (+1) |n/a|n/a|
+|Rattlesnake venom|Injury|12|1d6 Con|1d6 Con|12|Lic (+1)|n/a|n/a|
+|Sarin nerve gas|Inhaled|18|1d4 Con|2d4 Con|15|Illegal (+4)|30|15 hr.|
+|Scorpion/tarantula venom|Injury|11|1d2 Str|1d2 Str|12|Lic (+1) |n/a|n/a|
+|Strychnine|Injury|19|1d3 Dex|2d4 Con|9|Res (+2)|23|4 hr.|
+|Tear gas|Inhaled|15|Nauseated 1d6 rounds|—|9|Res (+2)|21|4 hr.|
+|VX nerve gas|Inhaled|22|1d6 Con|2d6 Con|21|Illegal (+4)|42|48 hr.|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T091745Z" creationid="quentine" creationdate="20190921T141244Z">
+        <seg>|毒素|种类|豁免DC|初始伤害|再次伤害|购买DC|限制级|制造DC|时间|
+|------|:--:|:-----:|--------------|----------------|:---------:|-----------|:------:|:--:|
+|砒霜|摄取|15|1d4 力|2d4 体|9|管制（+2）|24|4 小时|
+|阿托品|创伤|13|1d6 敏|1d6 力|3|管制（+2）|14|1 小时|
+|颠茄（草）|创伤|18|1d6 力|2d6 力|14|执照（+1） |n/a|n/a|
+|蓝矾|创伤|12|1d2 体|1d2 体|3|管制（+2）|9|1 小时|
+|蓝环章鱼毒液|创伤|15|1d4 体|1d4 体|14|执照（+1）|n/a|n/a|
+|水合氯醛|摄取|18|1d6 敏|昏迷 1d3 小时|12|管制（+2）|28|8 小时|
+|氯仿\*|吸入|17|昏迷 1d3 小时|—|9|管制（+2）|24|4 小时|
+|箭毒（草）|创伤|18|2d4 敏|2d4 感|15|管制（+2）|n/a|n/a|
+|氯化物|创伤|16|1d6 体|2d6 体|15|军用（+3）|31|15 小时|
+|氯气|吸入|19|1d4 敏|2d4 体|12|军用（+3）|28|8 小时|
+|滴滴涕|吸入|17|1d2 力|1d4 力|9|执照（+1）|20|4 小时|
+|窒息性毒气|吸入|18|1d3 敏|昏迷 1d3 小时|12|管制（+2）|26|8 小时|
+|砷酸铅（气体）|吸入|12|1d2 力|1d4 体|6|管制（+2）|17|2 小时|
+|砷酸铅（固体）|摄取|12|1d2 体|1d4 体|6|管制（+2）|18|2 小时|
+|芥末喷雾|吸入|17|1d4 体|2d4 体|12|军用（+3）|26|8 小时|
+|巴黎绿（气体）|吸入|14|1d2 体质|1d4 体质|9|管制（+2）|20|4 小时|
+|巴黎绿（固体）|摄取|14|1d4 体质|1d4 体质|9|管制（+2）|24|4 小时|
+|河豚毒（鱼）|创伤|13|1d6 力|麻痹 2d6 分钟|13|执照（+1）|n/a|n/a|
+|响尾蛇毒|创伤|12|1d6 体|1d6 体|12|执照（+1）|n/a|n/a|
+|沙林神经毒气|吸入|18|1d4 体|2d4 体|15|非法（+4）|30|15 小时|
+|蝎毒/蛛毒|创伤|11|1d2 力|1d2 力|12|执照（+1）|n/a|n/a|
+|番木鳖碱|创伤|19|1d3 敏|2d4 体|9|管制（+2）|23|4 小时|
+|催泪瓦斯|吸入|15|反胃 1d6 轮|—|9|管制（+2）|21|4 小时|
+|VX神经毒气|吸入|22|1d6 体|2d6 体|21|非法（+4）|42|48 小时|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Rating|Aura Power|
 |------|----------|
 |1 or lower|Faint|
@@ -26558,6 +27016,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Type of Acid|Purchase DC|Acid\*|Base\*|Time\*|
+|------------|:---------:|:----:|:----:|------|
+|Mild (1d6/1d10)\*\*|8|15|10|1 min|
+|Potent (2d6/2d10)|12|20|15|30 min|
+|Concentrated (3d6/3d10)|16|30|20|1 hr.|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T140412Z" creationid="quentine" creationdate="20190918T140412Z">
+        <seg>|酸的种类|购买DC|酸\*|盐基\*|时间\*|
+|------------|:---------:|:----:|:----:|------|
+|弱酸（1d6/1d10）\*\*|8|15|10|1分钟|
+|强酸（2d6/2d10）|12|20|15|30分钟|
+|浓酸（3d6/3d10）|16|30|20|1小时|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Type of Operation|DC|Time|
 |----------------|:-:|:--:|
 |Shut down passive remote (including cameras and door locks)|20|1 round per remote|
@@ -26580,6 +27054,28 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |最小安全等级|–5|—|
 |加强安全等级|+10|—|
 |最大安全等级|+15|—|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Type of Scratch-Built Explosive|Purchase DC|Craft DC|Reflex DC (save for half damage)|Time|
+|-------------------------------|:---------:|:------:|:------------------------------:|:--:|
+|Improvised (1d6/5 feet)\*|6|10|10|1 round|
+|Simple (2d6/5 feet)|12|15|12|10 min|
+|Moderate (4d6/10 feet)|16|20|12|1 hr.|
+|Complex (6d6/15 feet)|20|25|15|3 hr.|
+|Powerful (8d6/20 feet)|25|30|15|12 hr.|
+|Devastating (10d6/25 feet)|30|35|18|24 hr.|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T123327Z" creationid="quentine" creationdate="20190918T142353Z">
+        <seg>|土制爆炸物类型|购买DC|制造DC|反射DC（半伤豁免所需）|时间|
+|-------------------------------|:---------:|:------:|:------------------------------:|:--:|
+|简易（1d6/5尺）\*|6|10|10|1 round|
+|简单（2d6/5尺）|12|15|12|10 min|
+|中等（4d6/10尺）|16|20|12|1 hr.|
+|复杂（6d6/15尺）|20|25|15|3 hr.|
+|大威力（8d6/20尺）|25|30|15|12 hr.|
+|毁灭性（10d6/25尺）|30|35|18|24 hr.|</seg>
       </tuv>
     </tu>
     <tu>
