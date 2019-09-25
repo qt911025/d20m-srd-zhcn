@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Craft (Int)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T124927Z" creationid="quentine" creationdate="20190918T124927Z">
+        <seg>## 制造（智）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Creative</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T125240Z" creationid="QuenTine" creationdate="20181104T125240Z">
@@ -542,6 +550,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Decipher Script (Int) Trained Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T130411Z" creationid="quentine" creationdate="20190923T130401Z">
+        <seg>## 文件解读（智） 需受训</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Demolitions (Int) Trained Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T132053Z" creationid="quentine" creationdate="20190923T132053Z">
+        <seg>## 爆破（智） 需受训</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Dexterity</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T133510Z" creationid="QuenTine" creationdate="20181103T133510Z">
@@ -570,6 +594,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T132608Z" creationid="QuenTine" creationdate="20181104T131049Z">
         <seg>## 富二代</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Diplomacy (Cha)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T130715Z" creationid="quentine" creationdate="20190924T130715Z">
+        <seg>## 交涉（魅）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Disable Device (Int) Trained Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T112225Z" creationid="quentine" creationdate="20190925T112225Z">
+        <seg>## 解除装置（智） 需受训</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,6 +1670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>### Bribery and Diplomacy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T134550Z" creationid="quentine" creationdate="20190924T134550Z">
+        <seg>### 贿赂与交涉</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>### Builder</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T134058Z" creationid="quentine" creationdate="20190730T134058Z">
@@ -1746,6 +1794,62 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190731T121056Z" creationid="quentine" creationdate="20190731T121056Z">
         <seg>### 自信</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Craft (chemical) (Int) Trained Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T133509Z" creationid="quentine" creationdate="20190918T133509Z">
+        <seg>### 制造（化学）（智） 需受训</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Craft (electronic) (Int) Trained Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T132752Z" creationid="quentine" creationdate="20190922T132752Z">
+        <seg>### 制造（电力）（智） 需受训</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Craft (mechanical) (Int) Trained Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T134044Z" creationid="quentine" creationdate="20190922T134044Z">
+        <seg>### 制造（机械）（智） 需受训</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Craft (pharmaceutical) (Int) Trained Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T135212Z" creationid="quentine" creationdate="20190922T135212Z">
+        <seg>### 制造（配药）（智） 需受训</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Craft (structural) (Int)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T140939Z" creationid="quentine" creationdate="20190922T140939Z">
+        <seg>##### 制造（结构）（智）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Craft (visual art) (Int)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T124521Z" creationid="quentine" creationdate="20190923T124521Z">
+        <seg>### 制造（视觉艺术）（智）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>### Craft (writing) (Int)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T125831Z" creationid="quentine" creationdate="20190923T125831Z">
+        <seg>### 制造（写作）（智）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2208,8 +2312,8 @@
       <tuv lang="EN-US">
         <seg>### Perils of Using Poison</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141518Z" creationid="quentine" creationdate="20190115T141518Z">
-        <seg>### 使用毒物的危险</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T132559Z" creationid="quentine" creationdate="20190115T141518Z">
+        <seg>### 使用毒素的危险</seg>
       </tuv>
     </tu>
     <tu>
@@ -3972,6 +4076,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(Success means that the character does not draw a false conclusion; failure means that the character does.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T131650Z" creationid="quentine" creationdate="20190923T131633Z">
+        <seg>（检定成功角色则不会得出错误结论，反之则会。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(That is, once the character succeeds at the saving throw, he or she is no longer on fire.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132436Z" creationid="quentine" creationdate="20190115T132436Z">
@@ -4299,6 +4411,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144252Z" creationid="quentine" creationdate="20190117T144252Z">
         <seg>**酸系抗力：** 体质型英雄忽略等于自身体质调整值的酸性伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Acids and Bases:** Acids are corrosives substances.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T140115Z" creationid="quentine" creationdate="20190918T135715Z">
+        <seg>**酸和盐基：** 酸是有腐蚀性的物质。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5392,6 +5512,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Check:** A character can change others’ attitudes with a successful check (see the table below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T130817Z" creationid="quentine" creationdate="20190924T130817Z">
+        <seg>**检定：** 角色可以改变他人的态度，只要检定成功（见下表）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Check:** A character can decipher writing in an ancient language or in code, or interpret the meaning of an incomplete text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T130614Z" creationid="quentine" creationdate="20190923T130614Z">
+        <seg>**检定：** 角色可以解读用古代语言或密码编写的文档，或者推测未完成文稿的含义。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Check:** A character makes a Concentration check whenever he or she may potentially be distracted while engaged in some action that requires his or her full attention (such as making a Disable Device or Treat Injury check).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T130142Z" creationid="quentine" creationdate="20190917T130142Z">
@@ -5408,10 +5544,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Check:** Setting a simple explosive to blow up at a certain spot doesn’t require a check, but connecting and setting a detonator does.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T132201Z" creationid="quentine" creationdate="20190923T132201Z">
+        <seg>**检定：** 安装简单爆炸物爆破指定的位置不需要检定，但连接和安装导火索需要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Check:** The DC and effect depend on the task you attempt.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190614T142740Z" creationid="quentine" creationdate="20190614T142740Z">
         <seg>**检定：** DC与效果取决于你要催眠的目的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Check:** The GM makes the Disable Device check so that the character doesn’t necessarily know whether he or she has succeeded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T112328Z" creationid="quentine" creationdate="20190925T112328Z">
+        <seg>由GM进行检定，因为角色不能知道自己是否成功。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5552,6 +5704,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Craft DC:** The DC of the Craft check to create a quantity of the poison.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T130153Z" creationid="quentine" creationdate="20190921T130153Z">
+        <seg>**制造DC：** 制造一单位的毒素所需的制造检定的DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Creating a Diversion to Hide:** A character can use Bluff to help him or her hide.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T134247Z" creationid="quentine" creationdate="20190808T134247Z">
@@ -5656,6 +5816,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Disable Security Device:** A character can disable a security device, such as an electric fence, motion sensor, or security camera.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T113438Z" creationid="quentine" creationdate="20190925T113438Z">
+        <seg>**解除安全装置：** 角色可以解除安全装置，比如电栅栏、运动感应器、安全摄像头。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Disarm Explosive Device:** Disarming an explosive that has been set to go off requires a Demolitions check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134310Z" creationid="quentine" creationdate="20190923T134310Z">
+        <seg>**拆除爆炸装置：** 拆除一个已安装并即将爆炸的爆炸物需要进行爆破检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Dispel Turning:** An evil Acolyte may dispel the turning effect of a good Acolyte.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T114000Z" creationid="quentine" creationdate="20190703T113359Z">
@@ -5716,6 +5892,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T144028Z" creationid="quentine" creationdate="20190201T144028Z">
         <seg>**寻找破绽：**一轮战斗后，智力型英雄可以指定一个对手用智力取得战斗优势。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Explosives:** Building an explosive from scratch is dangerous.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T123135Z" creationid="quentine" creationdate="20190918T140830Z">
+        <seg>**爆炸物：** 土制爆炸物是危险的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6080,6 +6264,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Initial Damage:** The damage a character takes immediately upon failing his or her Fortitude save.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T124737Z" creationid="quentine" creationdate="20190921T124737Z">
+        <seg>**初始伤害：** 角色强韧豁免失败时所立即受到的毒素伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Initial Damage:** The damage the victim takes after the incubation period.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T142255Z" creationid="quentine" creationdate="20190115T142255Z">
@@ -6408,6 +6600,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Open Lock:** A character can pick conventional locks, finesse combination locks, and bypass electronic locks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T112617Z" creationid="quentine" creationdate="20190925T112617Z">
+        <seg>**开锁：** 角色可以撬开传统的锁、巧妙地解开复合的锁、绕过电子锁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Operate Remote Device:** Many devices are computer-operated via remote links.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T124423Z" creationid="quentine" creationdate="20190917T124423Z">
@@ -6432,10 +6632,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Place Explosive Device:** Carefully placing an explosive against a fixed structure (a stationary, unattended inanimate object) can maximize the damage dealt by exploiting vulnerabilities in the structure’s construction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T133716Z" creationid="quentine" creationdate="20190923T133716Z">
+        <seg>**安放爆炸装置：** 在固定的结构（固定的、无人看管且不会动的物体）小心安放爆炸物可以利用结构上的弱点造成最大伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Plan:**</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T144657Z" creationid="quentine" creationdate="20190201T144657Z">
         <seg>**计划：**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Poisonous Substances:** Solid poisons are usually ingested.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T132638Z" creationid="quentine" creationdate="20190921T123613Z">
+        <seg>**毒素：** 固体毒素通常需要摄取才能生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6816,6 +7032,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Purchase DC:** The DC for the Wealth check necessary to obtain the raw materials to craft the poison, or to purchase one bottle of solid or liquid poison or one high-pressure cylinder of gaseous poison.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T125452Z" creationid="quentine" creationdate="20190921T125452Z">
+        <seg>**购买DC：** 制造毒素所需购置原材料的购买DC，或者是购买一瓶固态、液态毒素或是一罐高压毒气的购买DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Qualifying for an Advanced Class**</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T133729Z" creationid="quentine" creationdate="20190221T133729Z">
@@ -6896,6 +7120,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Restriction:** The restriction rating for the poison, if any, and the appropriate black market purchase DC modifier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T125950Z" creationid="quentine" creationdate="20190921T125950Z">
+        <seg>**限制级：** 毒素的限制级，在黑市的购买DC调整值（如果有的话）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Robust:** The Tough hero becomes especially robust, gaining a number of hit points equal to his or her Tough level as soon as he or she selects this talent.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T153601Z" creationid="quentine" creationdate="20190130T144029Z">
@@ -6909,6 +7141,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T134658Z" creationid="quentine" creationdate="20190201T134658Z">
         <seg>**学者：**从下列技能中选择一个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Save DC:** The Difficulty Class of the Fortitude save to negate the effects of the poison.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T124523Z" creationid="quentine" creationdate="20190921T124442Z">
+        <seg>**豁免DC：** 使毒素失效所需的强韧豁免DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6937,10 +7177,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Secondary Damage:** The damage a character takes after 1 minute of exposure to the poison if the character fails a second saving throw.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T124917Z" creationid="quentine" creationdate="20190921T124917Z">
+        <seg>**再次伤害：** 第二次豁免失败，角色暴露在毒素下一分钟后所受伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Sending a Secret Message:** A character can use Bluff to send and understand secret messages while appearing to be speaking about other things.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T134819Z" creationid="quentine" creationdate="20190808T134819Z">
         <seg>**传递密信：** 角色可以在谈论其他事情时，用一次唬骗传递和理解秘密信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Set Detonator:** Most explosives require a detonator to go off.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T132521Z" creationid="quentine" creationdate="20190923T132521Z">
+        <seg>**安装导火索：** 大多数爆炸物都需要一根导火索来引爆。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7299,8 +7555,32 @@
       <tuv lang="EN-US">
         <seg>**Special:** A character can take 10 when making a Balance check, but can’t take 20.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T124003Z" creationid="quentine" creationdate="20190807T124003Z">
-        <seg>**特殊：** 角色可以在平衡检定中取10， 但不能取20。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T132810Z" creationid="quentine" creationdate="20190807T124003Z">
+        <seg>**特别：** 角色可以在平衡检定中取10， 但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character can take 10 when making a Decipher Script check, but can’t take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T132826Z" creationid="quentine" creationdate="20190923T131941Z">
+        <seg>**特别：** 角色可以在文件解读检定中取10， 但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character can take 10 when making a Diplomacy check, but can’t take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T132900Z" creationid="quentine" creationdate="20190924T132755Z">
+        <seg>**特别：** 角色可以在交涉检定中取10， 但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character can take 10 when making a Disable Device check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T120151Z" creationid="quentine" creationdate="20190925T120151Z">
+        <seg>**特别：** 角色可以在解除装置检定中取10。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7321,6 +7601,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Special:** A character can take 10 when using the Demolitions skill, but can’t take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T132838Z" creationid="quentine" creationdate="20190923T134504Z">
+        <seg>**特别：** 角色可以在爆破检定中取10， 但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Special:** A character can use Concentration to avoid attacks of opportunity when attempting a skill check that normally provokes attacks of opportunity.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T131250Z" creationid="quentine" creationdate="20190917T131250Z">
@@ -7333,6 +7621,62 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190804T134437Z" creationid="quentine" creationdate="20190802T142240Z">
         <seg>**特别：**角色可以多次获得此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character with the Creative feat gets a +2 bonus on all Craft (visual art) checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T125811Z" creationid="quentine" creationdate="20190923T125811Z">
+        <seg>**特别：** 有`富有创意`专长的角色制造（视觉艺术）检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character with the Creative feat gets a +2 bonus on all Craft (writing) checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T130341Z" creationid="quentine" creationdate="20190923T130341Z">
+        <seg>**特别：** 有`富有创意`专长的角色制造（写作）检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character without a chemical kit takes a –4 penalty on Craft (chemical) checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T091356Z" creationid="quentine" creationdate="20190922T091356Z">
+        <seg>**特别：** 无化学工具箱的角色进行制造（化学）检定将受到4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character without a mechanical tool kit takes a –4 penalty on Craft (mechanical) checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T135119Z" creationid="quentine" creationdate="20190922T135119Z">
+        <seg>**特别：** 无机械工具箱的角色进行制造（机械）检定将受到4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character without a mechanical tool kit takes a –4 penalty on Craft (structural) checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T040524Z" creationid="quentine" creationdate="20190923T040524Z">
+        <seg>**特别：** 无机械工具箱的角色进行制造（结构）检定将受到4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character without a pharmacist kit takes a –4 penalty on Craft (pharmaceutical) checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T140745Z" creationid="quentine" creationdate="20190922T140745Z">
+        <seg>**特别：** 无配药箱的角色进行制造（配药）检定将受到4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character without an electrical tool kit takes a –4 penalty on Craft (electronic) checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T134011Z" creationid="quentine" creationdate="20190922T134011Z">
+        <seg>**特别：** 无电气工具箱的角色进行制造（电力）检定将受到4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7561,10 +7905,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Table:** Poisons</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T130603Z" creationid="quentine" creationdate="20190921T130603Z">
+        <seg>**表：** 毒素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Taunt:** The Charismatic hero has the ability to temporarily rattle a target through the use of insults and goading.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T072106Z" creationid="quentine" creationdate="20190216T072106Z">
         <seg>**嘲讽：** 魅力型英雄可以辱骂和刺激目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**This skill encompasses several categories, each of them treated as a separate skill:** Craft (chemical), Craft (electronic), Craft (mechanical), Craft (pharmaceutical), Craft (structural), Craft (visual arts), and Craft (writing).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T131945Z" creationid="quentine" creationdate="20190918T131945Z">
+        <seg>**此技能包括几个领域，每个领域被视为独立的技能：** 制造（化学）、制造（电学）、制造（机械）、制造（配药）、制造（结构）、制造（视觉艺术）、制造（写作）/</seg>
       </tuv>
     </tu>
     <tu>
@@ -7601,6 +7961,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Time:** Decipher Script takes 1 minute or more, depending on the complexity of the code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T132041Z" creationid="quentine" creationdate="20190923T132041Z">
+        <seg>**时间：** 文件解读至少要1分钟及以上，取决于密码的复杂度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** Diplomacy is at least a full-round action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T132940Z" creationid="quentine" creationdate="20190924T132940Z">
+        <seg>**时间：** 交涉至少是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** Disabling a simple mechanical device is a full-round action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T121147Z" creationid="quentine" creationdate="20190925T121147Z">
+        <seg>**时间：** 解除简单机械装置是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Time:** How much time it takes to make a check with this skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T120729Z" creationid="quentine" creationdate="20190807T120729Z">
@@ -7613,6 +7997,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T132157Z" creationid="quentine" creationdate="20190917T132157Z">
         <seg>**时间：** 进行专注检定不需要动作，而是一个`反应`（对分心的反应）或是另一个动作的一部分（当在进行动作时使用专注检定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** Setting a detonator is usually a full-round action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134815Z" creationid="quentine" creationdate="20190923T134815Z">
+        <seg>**时间：** 安装爆炸物通常是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** The amount of time required for the Craft check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T130302Z" creationid="quentine" creationdate="20190921T130302Z">
+        <seg>**时间：** 制造检定所需时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7657,6 +8057,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Traps and Sabotage:** Disabling (or rigging or jamming) a simple mechanical device has a DC of 10.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T115404Z" creationid="quentine" creationdate="20190925T114427Z">
+        <seg>**设陷与破坏** 解除（或者是装配或者是弄坏）一个简单机械设备需要10点DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Trick:**</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T151736Z" creationid="quentine" creationdate="20190201T151736Z">
@@ -7689,6 +8097,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Try Again?:** Generally, trying again doesn’t work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T132455Z" creationid="quentine" creationdate="20190924T132455Z">
+        <seg>**重试：** 一般来说，重试是没用的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Try Again?:** No, unless conditions change or new information is uncovered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T131920Z" creationid="quentine" creationdate="20190923T131920Z">
+        <seg>**重试：** 不行，除非情况有变或者发现了新线索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Try Again?:** See above.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190619T134856Z" creationid="quentine" creationdate="20190619T134856Z">
@@ -7709,6 +8133,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T131059Z" creationid="quentine" creationdate="20190917T131059Z">
         <seg>**重试：** 可以，但成功了也不能弥补上一次失败造成的结果，比如成功专注的动作已经被扰乱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Try Again?:** Yes, though the character must be aware that he or she has failed in order to try again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T120042Z" creationid="quentine" creationdate="20190925T120042Z">
+        <seg>**重试：** 可以，但角色必须知道自己已经失败才行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8623,6 +9055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A base of a certain type counteracts an acid of the same type or a less potent type.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T140138Z" creationid="quentine" creationdate="20190918T140059Z">
+        <seg>一个特定类型的盐基能中和相同类型的酸或者腐蚀性更低的酸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A bluff is a quick prevarication intended to distract, confuse, or mislead, generally only for the short term.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T132520Z" creationid="quentine" creationdate="20190808T132520Z">
@@ -8659,6 +9099,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T125450Z" creationid="quentine" creationdate="20190806T125450Z">
         <seg>角色技能调整值的增加和DC的降低结果是相同的——都是让成功机会更大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A bottle holds four doses, while a cylinder holds enough gas to fill a 10-foot-radius area.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T125807Z" creationid="quentine" creationdate="20190921T125807Z">
+        <seg>一瓶毒素包含四服的量，而一罐毒气的量可以充满10尺半径的区域。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8799,6 +9247,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character can make an explosive difficult to disarm.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T133043Z" creationid="quentine" creationdate="20190923T132803Z">
+        <seg>角色可以让爆炸物难以拆除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character can move half that far (one-half his or her speed) as a move action.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T150755Z" creationid="quentine" creationdate="20190808T150755Z">
@@ -8811,6 +9267,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T135516Z" creationid="quentine" creationdate="20190114T135516Z">
         <seg>角色在一轮内只能用掉1点行动点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can rig simple devices to work normally for a while and then fail some time later (usually after 1d4 rounds or minutes of use).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T115953Z" creationid="quentine" creationdate="20190925T115953Z">
+        <seg>角色可以装配设备，让简单设备正常工作一段时间，在一段时间后停转（通常在使用后1d4轮）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8847,6 +9311,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character can take 20 to open a lock or to disable a security device, unless the character is trying to prevent his or her tampering from being noticed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T120405Z" creationid="quentine" creationdate="20190925T120405Z">
+        <seg>角色开锁或者解除安全设备时，可以取20，若角色试图防止自己的解除行为被注意到则不可取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character can try again if he or she fails a Wealth check, but not until the character has spent an additional number of hours shopping equal to the purchase DC of the object or service.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T141427Z" creationid="QuenTine" creationdate="20181106T141248Z">
@@ -8873,8 +9345,8 @@
       <tuv lang="EN-US">
         <seg>A character cannot legally sell restricted objects unless the character is licensed to own them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T073115Z" creationid="quentine" creationdate="20190112T073115Z">
-        <seg>角色不能合法地出售管制物品，除非角色有资格持有它。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T081902Z" creationid="quentine" creationdate="20190112T073115Z">
+        <seg>角色不能合法地出售管制物品，除非角色有合法持有它的执照。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8937,8 +9409,8 @@
       <tuv lang="EN-US">
         <seg>A character has a 5% chance (roll of 1 on 1d20) to expose him or herself to a poison whenever the character applies it to a weapon or otherwise readies it for use.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141538Z" creationid="quentine" creationdate="20190115T141538Z">
-        <seg>角色涂毒或执行其他准备使用毒物的动作时会有5%的几率让自己中毒（D20投出1）。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T132559Z" creationid="quentine" creationdate="20190115T141538Z">
+        <seg>角色涂毒或执行其他准备使用毒素的动作时会有5%的几率让自己中毒（D20投出1）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9103,6 +9575,54 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character with the Builder feat gets a +2 bonus on all Craft (chemical) checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T091441Z" creationid="quentine" creationdate="20190922T091441Z">
+        <seg>有`构造师`专长的角色制造（化学）检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Builder feat gets a +2 bonus on all Craft (electronic) checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T134034Z" creationid="quentine" creationdate="20190922T134034Z">
+        <seg>有`构造师`专长的角色制造（电力）检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Builder feat gets a +2 bonus on all Craft (mechanical) checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T135201Z" creationid="quentine" creationdate="20190922T135201Z">
+        <seg>有`构造师`专长的角色制造（机械）检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Builder feat gets a +2 bonus on all Craft (structural) checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T040543Z" creationid="quentine" creationdate="20190923T040543Z">
+        <seg>有`构造师`专长的角色制造（结构）检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Cautious feat and at least 1 rank in this skill gets a +2 bonus on all Demolitions checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134609Z" creationid="quentine" creationdate="20190923T134609Z">
+        <seg>有`谨慎`专长且爆破至少1级的角色，爆破检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Cautious feat and at least 1 rank in this skill gets a +2 bonus on all Disable Device checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T121050Z" creationid="quentine" creationdate="20190925T121050Z">
+        <seg>有`谨慎`专长且爆破至少1级的角色，解除装置检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character with the Deceptive feat gets a +2 bonus on all Bluff checks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T140441Z" creationid="quentine" creationdate="20190808T140441Z">
@@ -9135,10 +9655,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character with the Medical Expert feat gets a +2 bonus on all Craft (pharmaceutical) checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T140922Z" creationid="quentine" creationdate="20190922T140922Z">
+        <seg>有`医药专家`专长的角色制造（配药）检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Studious feat gets a +2 bonus on all Decipher Script checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T132005Z" creationid="quentine" creationdate="20190923T132005Z">
+        <seg>有`好学`专长的角色文件解读检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Trustworthy feat gets a +2 bonus on all Diplomacy checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T132919Z" creationid="quentine" creationdate="20190924T132919Z">
+        <seg>有`值得信赖`专长的角色的交涉检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character with this feat may throw weapons at his or her full normal rate of attacks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190803T141255Z" creationid="quentine" creationdate="20190803T141255Z">
         <seg>有此专长的角色可以以正常攻击速度掷出武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character without a demolitions kit takes a –4 penalty on Demolitions checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134645Z" creationid="quentine" creationdate="20190923T134645Z">
+        <seg>无爆破工具的角色的爆破检定将有4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9503,6 +10055,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A lock release gun can open a mechanical lock of cheap or average quality without a Disable Device check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T120926Z" creationid="quentine" creationdate="20190925T120926Z">
+        <seg>破锁枪可以打开廉价或一般品质的机械锁，无需解除装备检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A maximized power costs a number of power points equal to its normal cost +6.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190620T141617Z" creationid="quentine" creationdate="20190620T141617Z">
@@ -9523,6 +10083,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190624T143030Z" creationid="quentine" creationdate="20190624T143030Z">
         <seg>极效法术按伤害上限造成伤害，按目标数的上限影响最多的目标，触及法术所能触及的最远距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A medicinal drug gives a +2 circumstance bonus on Fortitude saves made to resist the effects of a disease.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T135541Z" creationid="quentine" creationdate="20190922T135541Z">
+        <seg>药物会为抵抗疾病效果的强韧豁免检定提供2点情景加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9989,6 +10557,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140733Z" creationid="QuenTine" creationdate="20181103T140733Z">
         <seg>这些损失的属性点会自然恢复，通常速率为每天恢复1点受影响属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ability score damage is temporary, unless marked with an asterisk, in which case the damage is permanent ability drain.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T125143Z" creationid="quentine" creationdate="20190921T125143Z">
+        <seg>属性伤害是暂时的，除非标了星号，标星号的伤害是永久的`属性流失`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10657,6 +11233,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, placing an explosive for maximum effect against a structure calls for a check, as does disarming an explosive device.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T133035Z" creationid="quentine" creationdate="20190923T132452Z">
+        <seg>而且，将爆炸物放置在结构的最佳的破坏位置需要此检定，拆除爆破装置也需要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Also, the Infiltrator is able to make do without proper equipment in certain circumstances: the Infiltrator no longer takes a –4 penalty when using the Climb and Disable Device skills without the proper tools.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190417T141920Z" creationid="quentine" creationdate="20190417T141920Z">
@@ -10941,6 +11525,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181104T081806Z">
         <seg>而邪恶阵营的人则趋向于伤害、压迫甚至杀害他人，并且贬低甚至危害无辜。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An explosive compound does not include a fuse or detonator.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T141649Z" creationid="quentine" creationdate="20190918T141649Z">
+        <seg>爆炸化合物不包括保险丝和导火索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An illegal act, bribery requires two willing participants—one to offer a bribe and the other to accept it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T135237Z" creationid="quentine" creationdate="20190924T135237Z">
+        <seg>作为一个不法的行为，贿赂需要双方都有意向，无论是行贿方还是受贿方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11253,6 +11853,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T132616Z" creationid="quentine" creationdate="20190114T132616Z">
         <seg>计算意志豁免骰需要加上角色的感知调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Applying chloroform to an unwilling subject requires a successful grapple check and pin.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T090947Z" creationid="quentine" creationdate="20190922T090947Z">
+        <seg>要成功擒抱住并压制目标，才能让不情愿的目标吸入氯仿。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12521,6 +13129,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bases neutralize acids but do not deal damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T140121Z" creationid="quentine" creationdate="20190918T135747Z">
+        <seg>盐基中和酸但不造成伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Before the hero can select a talent from this tree the hero must have previously selected at least one talent from the Energy Resistance or Unbreakable Talent Tree.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T143331Z" creationid="quentine" creationdate="20190117T143331Z">
@@ -12637,6 +13253,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190624T140233Z" creationid="quentine" creationdate="20190624T140233Z">
         <seg>调制药水需要24小时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bribery allows a character to circumvent various official obstacles when a person in a position of trust or authority is willing to accept such an offering.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T135049Z" creationid="quentine" creationdate="20190924T135049Z">
+        <seg>角色可以用贿赂绕开各种官方的阻碍，只要受贿的人信任你或者有权限的人有意愿收受贿赂。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13033,6 +13657,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connecting a detonator to an explosive requires a Demolitions check (DC 10).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T132551Z" creationid="quentine" creationdate="20190923T132551Z">
+        <seg>连接导火索到爆炸物需要一次爆破检定（DC10）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Connecting a fuse or detonator requires a Demolitions check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T141739Z" creationid="quentine" creationdate="20190918T141739Z">
+        <seg>连接保险丝和导火索需要爆破检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contacts with underworld or street connections usually demand monetary compensation for the services they render, and experts in the use of skills normally want to be paid for the services they provide.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190526T084235Z" creationid="quentine" creationdate="20190526T083452Z">
@@ -13097,6 +13737,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Craft skills are specifically focused on creating objects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T132029Z" creationid="quentine" creationdate="20190918T132029Z">
+        <seg>制造技能着重于创造物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crashing a computer simply shuts it down.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T122328Z" creationid="quentine" creationdate="20190917T122146Z">
@@ -13109,6 +13757,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T145009Z" creationid="quentine" creationdate="20190201T145009Z">
         <seg>制定计划需要一分钟的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a work of visual art requires at least a full-round action, but usually takes an hour, a day, or more, depending on the scope of the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T125709Z" creationid="quentine" creationdate="20190923T125709Z">
+        <seg>创作一件视觉艺术需要至少一个整轮动作，但通常需要花费一小时、一天甚至更多，取决于项目的工程量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a work of writing requires at least 1 hour, but usually takes a day, a week, or more, depending on the scope of the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T130323Z" creationid="quentine" creationdate="20190923T130323Z">
+        <seg>创作一篇文字需要至少一小时，但通常需要花费一天、一周甚至更多，取决于项目的工作量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13278,6 +13942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Diplomacy can be used to influence a GM character’s attitude.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T131300Z" creationid="quentine" creationdate="20190924T131300Z">
+        <seg>交涉可以用于影响GM角色的态度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Diplomacy, Drive, Gather Information, Intimidate, Knowledge (civics, earth and life sciences, streetwise, or tactics), Listen.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T140442Z" creationid="QuenTine" creationdate="20181104T140442Z">
@@ -13290,6 +13962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T130704Z" creationid="QuenTine" creationdate="20181104T130704Z">
         <seg>解除装置、易容、伪造文书、赌博、躲藏、知识（街头智慧）、潜行、手上功夫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Disabling a security device requires either a mechanical tool kit or an electronic toll kit, depending on the nature of the device.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T120729Z" creationid="quentine" creationdate="20190925T120729Z">
+        <seg>解除一个安全设备需要一个机械工具箱或一个电子工具箱，取决于设备的性质。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13322,6 +14002,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T124148Z" creationid="quentine" creationdate="20190917T124148Z">
         <seg>这可以让角色完成此任务时获得2点情景加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Doing so requires 10 minutes and an electrical tool kit, and increases the DC of the check by +10.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T113821Z" creationid="quentine" creationdate="20190925T113821Z">
+        <seg>这么做需要10分钟和电气工具箱，并会增加10点DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13614,6 +14302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even if the initial check succeeds, the other character can only be persuaded so far.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T132605Z" creationid="quentine" creationdate="20190924T132605Z">
+        <seg>即使首次检定成功了，对方也只能被说服到这种程度了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even if the result is 0 or lower, the character always gains at least 1 hit point.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114532Z" creationid="quentine" creationdate="20190116T114532Z">
@@ -13734,6 +14430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Failure by 10 or more means the explosive goes off as the detonator is being installed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T132728Z" creationid="quentine" creationdate="20190923T132728Z">
+        <seg>失败10点或更多则意味着爆炸物在安装导火索的瞬间爆炸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Failure means he or she takes another 1d6 points of damage that round.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132410Z" creationid="quentine" creationdate="20190115T132410Z">
@@ -13754,6 +14458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132100Z" creationid="quentine" creationdate="20190115T132100Z">
         <seg>失败角色损失1d6点生命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Failure means that the explosive fails to go off as planned.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T132639Z" creationid="quentine" creationdate="20190923T132639Z">
+        <seg>失败则意味着爆炸物无法按计划爆炸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13950,6 +14662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For every point by which the hero beats the DC, increase the bonus by +1 (to a total maximum bonus of +10).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T135948Z" creationid="quentine" creationdate="20190924T135948Z">
+        <seg>英雄每超DC1点，加值提高1点（最高可提高至10）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For feinting in combat, the character may try again freely.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T140315Z" creationid="quentine" creationdate="20190808T140315Z">
@@ -14062,6 +14782,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gaseous poisons must be inhaled to be effective.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T124038Z" creationid="quentine" creationdate="20190921T124038Z">
+        <seg>毒气必须吸入才生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generally, a character can take 10 when using a Craft skill to construct an object, but can’t take 20 (since doing so represents multiple attempts, and the character uses up the raw materials after the first attempt).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T133253Z" creationid="quentine" creationdate="20190918T133253Z">
+        <seg>一般来说，角色可以制造一件物品时可以取10，但不能取20（毕竟取20意味着多次尝试，但原材料只能用于第一次尝试）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generally, if a character attempts to use a skill he or she doesn’t have any ranks in, the character makes a skill check as described.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T122814Z" creationid="quentine" creationdate="20190806T122814Z">
@@ -14080,8 +14816,8 @@
       <tuv lang="EN-US">
         <seg>Getting a license or buying an object with a restriction rating increases the time needed to make purchases.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T061122Z" creationid="QuenTine" creationdate="20181106T140141Z">
-        <seg>获得许可证或购买管制物品会增加购买所花费的时间。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T081839Z" creationid="QuenTine" creationdate="20181106T140141Z">
+        <seg>获得执照或购买管制物品会增加购买所花费的时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14194,6 +14930,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T130742Z" creationid="quentine" creationdate="20190704T130742Z">
         <seg>直升机包括所有类型的运输直升机和武装直升机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Helpful texts or computer programs can provide a bonus (usually a +2 circumstance bonus) on the check, provided they are applicable to the script in question.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T131210Z" creationid="quentine" creationdate="20190923T131139Z">
+        <seg>帮助文档或计算机程序可以为检定提供加值（通常是+2情景加值），只要这些帮助有助于理解要解读的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14366,6 +15110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a bribe isn’t requires, a hero can add a bribe to get a bonus on his or her skill check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T135515Z" creationid="quentine" creationdate="20190924T135515Z">
+        <seg>如果不需要贿赂，英雄可以附加贿赂来为交涉技能检定提供加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a character fails on a skill check, he or she can sometimes try again.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T142515Z" creationid="quentine" creationdate="20190805T142515Z">
@@ -14518,10 +15270,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If it’s a trap, the character springs it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T115746Z" creationid="quentine" creationdate="20190925T114636Z">
+        <seg>如果是设陷，角色会被设备弹开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it’s important, the GM can distinguish between a bluff that fails because the target doesn’t believe it and one that fails because it asks too much of the target.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T130941Z" creationid="quentine" creationdate="20190808T130941Z">
         <seg>如果有必要，GM可以区分唬骗失败的原因到底是目标不相信还是要求太多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If it’s some sort of sabotage, the character thinks the device is disabled, but it still works normally.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T115840Z" creationid="quentine" creationdate="20190925T115159Z">
+        <seg>如果是某种破坏，角色会认为设备已经瘫痪，但设备实际上仍然正常运转。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14650,6 +15418,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T130351Z" creationid="quentine" creationdate="20190917T130351Z">
         <seg>如果专注检定成功，角色如常继续该动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Craft (chemical) check fails, the raw materials are wasted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T141028Z" creationid="quentine" creationdate="20190918T141028Z">
+        <seg>如果制造（化学）检定失败，原材料就会被浪费掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the Craft check succeeds, the final product is a synthesized solid or liquid poison stored in a bottle (containing 4 doses) or a gas stored in a pressurized cylinder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T132559Z" creationid="quentine" creationdate="20190921T130502Z">
+        <seg>如果制造检定成功，成品则是一瓶（四服）已合成的固体或液体毒素，或储存在高压气瓶中的毒气。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14806,6 +15590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character does not have the appropriate tools, he or she takes a –4 penalty on your check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T120751Z" creationid="quentine" creationdate="20190925T120751Z">
+        <seg>如果角色没有合适的工具，检定时要受4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character does so, apply the highest result and disregard the other rolls.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T135950Z" creationid="quentine" creationdate="20190114T135950Z">
@@ -14830,10 +15622,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character fails by 5 or more, something goes wrong.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T114615Z" creationid="quentine" creationdate="20190925T114615Z">
+        <seg>若检定失败5点及以上，会有麻烦发生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character fails by more than 5, the explosive goes off.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134442Z" creationid="quentine" creationdate="20190923T134442Z">
+        <seg>若角色失败5点以上，爆炸物立即爆炸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character fails the check by 5 or more, the system immediately alerts its administrator that there has been an unauthorized use of the equipment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T124647Z" creationid="quentine" creationdate="20190917T124647Z">
         <seg>如果检定失败，低于DC5点甚至更多，系统会立即警报通知管理员有人非法使用这些设施。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character fails the check, he or she does not disarm the explosive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134417Z" creationid="quentine" creationdate="20190923T134417Z">
+        <seg>若角色检定失败，将不能拆除爆炸物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character fails the check, he or she does not make the object, and the raw materials are wasted (unless otherwise noted).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T133110Z" creationid="quentine" creationdate="20190918T133040Z">
+        <seg>若财富检定失败，角色不能制造物品，原材料也不会返还（除非另有说明）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14872,8 +15696,8 @@
       <tuv lang="EN-US">
         <seg>If the character fails, he or she takes the poison’s initial damage (usually ability damage).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141137Z" creationid="quentine" creationdate="20190115T141137Z">
-        <seg>如果失败，角色受到毒物的初始伤害（通常是属性伤害）。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T132559Z" creationid="quentine" creationdate="20190115T141137Z">
+        <seg>如果失败，角色受到毒素的初始伤害（通常是属性伤害）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14922,6 +15746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113011Z" creationid="quentine" creationdate="20190115T113011Z">
         <seg>如果角色仍旧昏迷，角色每小时都会进行强韧豁免直到恢复意识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character succeeds at that check, make the Craft check against the given DC for the object in question.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T133049Z" creationid="quentine" creationdate="20190918T133019Z">
+        <seg>若财富检定成功，再进行制造检定对抗制造物品所要求的DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15054,6 +15886,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the check fails by 4 or less, the character has failed but can try again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T114552Z" creationid="quentine" creationdate="20190925T114552Z">
+        <seg>若检定失败4点及以下，角色失败但可重试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the check fails by 5 or more, the explosive compound detonates as it is being made, dealing half of its intended damage to the builder and anyone else in the burst radius.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T123254Z" creationid="quentine" creationdate="20190918T141513Z">
+        <seg>如果检定失败，结果低于DC5点及以上，爆炸化合物将会视为成品爆炸物爆炸，对制造者和爆炸半径内的其他人产生成品爆炸物一半的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the check fails, the GM makes a Wisdom check (DC 10) for the character to see if he or she avoids drawing a false conclusion about the text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T131702Z" creationid="quentine" creationdate="20190923T131551Z">
+        <seg>若检定失败，GM将为角色做一次感知检定（DC10），决定角色的解读是否得出了错误的结论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the check fails, the action automatically fails and is wasted.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190612T121531Z" creationid="quentine" creationdate="20190612T121531Z">
@@ -15094,6 +15950,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the check succeeds, the character disables the device.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T114528Z" creationid="quentine" creationdate="20190925T114528Z">
+        <seg>如果检定成功，角色解除此设备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the check succeeds, the character understands the general content of a piece of writing, reading about one page of text or its equivalent in 1 minute.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T131340Z" creationid="quentine" creationdate="20190923T131340Z">
+        <seg>如果检定成功，角色将能理解一页纸或一分钟能读完的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the check succeeds, the character’s ally gains a +2 circumstance bonus to apply to his or her skill check to complete the task.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T134505Z" creationid="quentine" creationdate="20190806T134505Z">
@@ -15122,6 +15994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190522T140645Z" creationid="quentine" creationdate="20190522T140645Z">
         <seg>若检定成功，提升效果从提升后第一次使用开始计算，持续等同于技师等级的分钟数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the check succeeds, the final product is a solid material, about the size of a brick.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T141712Z" creationid="quentine" creationdate="20190918T141611Z">
+        <seg>若检定成功，最终产品是一个固态的，砖头大小的爆炸化合物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15174,6 +16054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the device is monitored, the fact that the character attempted to disable it will probably be noticed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T113608Z" creationid="quentine" creationdate="20190925T113608Z">
+        <seg>如果设备被监控了，角色试图解除装置将可能被发现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the eavesdropper beats the DC by 5 or more, he or she understands the secret message.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T135707Z" creationid="quentine" creationdate="20190808T135707Z">
@@ -15210,6 +16098,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134710Z" creationid="quentine" creationdate="20190115T134615Z">
         <seg>如果擒抱成功，攻击者可以选择空手攻击或者使对方窒息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the hero succeeds in the check, he or she gains a +2 bonus on the Diplomacy check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T135902Z" creationid="quentine" creationdate="20190924T135902Z">
+        <seg>若英雄检定成功，交涉检定将获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the initial check fails, the other character has probably become more firmly committed to his or her position, and trying again is futile.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T132709Z" creationid="quentine" creationdate="20190924T132709Z">
+        <seg>如果首次检定失败，对方可能会更加坚定自己的立场，所以重试是无用的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15766,6 +16670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In all cases, it deals normal damage to all other targets within its burst radius.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134138Z" creationid="quentine" creationdate="20190923T134138Z">
+        <seg>在所有情况下，爆炸物对爆炸半径内的其他目标都只造成一般伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In any case, a character can’t regain hit points past his or her full normal total.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T123300Z" creationid="quentine" creationdate="20190115T113327Z">
@@ -15850,6 +16762,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190613T134413Z" creationid="quentine" creationdate="20190613T134413Z">
         <seg>大多数情况下，术士每周只能联系它一次，每次求助它都会索要各种形式的报酬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In negotiations, participants roll opposed Diplomacy checks to see who gains the advantage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T130911Z" creationid="quentine" creationdate="20190924T130911Z">
+        <seg>谈判中，参与者进行交涉对抗检定来决出优势方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16078,10 +16998,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead, such a poison must be obtained by extracting it from the creature in question.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T091158Z" creationid="quentine" creationdate="20190922T091158Z">
+        <seg>而是只能从来源生物身上提取出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Instructions on using the License are provided within the License itself.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033201Z" creationid="QuenTine" creationdate="20181022T033201Z">
         <seg>许可证的使用方法说明在许可证内提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intricate or complex devices require 2d4 rounds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T121220Z" creationid="quentine" creationdate="20190925T121220Z">
+        <seg>错综复杂的装置需要2d4轮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16422,6 +17358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Liquid poisons are most effective when injected directly into the bloodstream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T124017Z" creationid="quentine" creationdate="20190921T123700Z">
+        <seg>毒液直接注射入血液中最为有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Magic is too unpredictable to make the use of this skill reliable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190612T142737Z" creationid="quentine" creationdate="20190612T142502Z">
@@ -16454,6 +17398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Make a Wealth check against the given purchase DC for the object to see if the character succeeds in acquiring the raw materials.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T132743Z" creationid="quentine" creationdate="20190918T132743Z">
+        <seg>然后进行一次财富检定对抗购置所需原材料的购买DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Make the Computer Use check to program the robot.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190523T131847Z" creationid="quentine" creationdate="20190523T131830Z">
@@ -16482,6 +17434,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190522T142726Z" creationid="quentine" creationdate="20190522T142726Z">
         <seg>进行财富检定以购买收集制造机器人所需要的部件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Making an explosive requires the Craft (chemical) skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134745Z" creationid="quentine" creationdate="20190923T134716Z">
+        <seg>制造爆炸物需要制造（化学）技能，</seg>
       </tuv>
     </tu>
     <tu>
@@ -16534,6 +17494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>More intricate and complex devices have higher DCs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T114458Z" creationid="quentine" creationdate="20190925T114458Z">
+        <seg>更错综复杂的设备需要更高DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Most characters with a high Reputation bonus (+4 or higher) are considered well known within their profession or social circle.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T123401Z" creationid="QuenTine" creationdate="20181106T123401Z">
@@ -16554,6 +17522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135332Z" creationid="QuenTine" creationdate="20181106T122736Z">
         <seg>绝大多数时候，英雄不需要主动使用声望值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most of the time, the people the heroes meet are indifferent toward them, but a specific situation may call for a different initial attitude.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T131508Z" creationid="quentine" creationdate="20190924T131508Z">
+        <seg>大多数情况下，英雄会见的人对英雄的态度没什么不同，但特别情况下会有不同的初始态度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16602,6 +17578,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T130414Z" creationid="quentine" creationdate="20190806T130414Z">
         <seg>附近的对手可以对无防备的自己发动借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No Wealth check is necessary to use this Craft skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T130222Z" creationid="quentine" creationdate="20190923T130222Z">
+        <seg>使用此制造技能无需财富检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16734,6 +17718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Offering money or another form of favor can, in the right situation, improve a character’s chances with a Diplomacy skill check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T134749Z" creationid="quentine" creationdate="20190924T134749Z">
+        <seg>在正确的情境下，提供金钱或者其他形式的帮助可以提高角色的交涉技能效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Office workers and desk jockeys, lawyers, accountants, insurance agents, bank personnel, financial advisors, tax preparers, clerks, sales personnel, real estate agents, and a variety of mid-level managers fall within the scope of this starting occupation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T143902Z" creationid="QuenTine" creationdate="20181104T143902Z">
@@ -16746,6 +17738,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190916T141641Z" creationid="quentine" creationdate="20190916T141641Z">
         <seg>通常，系统管理员是唯一有权访问系统所有程序和数据的人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On a result of 15 or higher, the explosive deals double damage to the structure against which it is placed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134144Z" creationid="quentine" creationdate="20190923T134003Z">
+        <seg>若结果为15或更高，爆炸物对结构造成两倍一般伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On a result of 25 or higher, it deals triple damage to the structure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134150Z" creationid="quentine" creationdate="20190923T134030Z">
+        <seg>若结果为25或更高，爆炸物对结构造成三倍一般伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16986,6 +17994,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Opening a lock requires a lockpick set (for a mechanical lock) or an electrical tool kit (for an electronic lock).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T120552Z" creationid="quentine" creationdate="20190925T120552Z">
+        <seg>撬开锁头需要撬锁工具（用于机械锁）或者电气工具箱（用于电子锁）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opening a locked car calls for a car opening kit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T120647Z" creationid="quentine" creationdate="20190925T120647Z">
+        <seg>撬开上锁的汽车需要撬车工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opposed checks also resolve cases where two advocates or diplomats plead opposing cases before a third party.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T131239Z" creationid="quentine" creationdate="20190924T131239Z">
+        <seg>对抗检定也可用于第三方裁判出辩论双方的胜出者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ordained clergy of all persuasions, as well as theological scholars and experts on religious studies fall within the scope of this starting occupation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T141914Z" creationid="QuenTine" creationdate="20181104T141914Z">
@@ -17114,6 +18146,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Placing an explosive device takes 1 minute or more, depending on the scope of the job.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134854Z" creationid="quentine" creationdate="20190923T134854Z">
+        <seg>安装一个爆炸装置需要一分钟及以上的时间，取决于工程量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Poisonous gases must be inhaled to be effective.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141444Z" creationid="quentine" creationdate="20190115T141444Z">
@@ -17132,16 +18172,16 @@
       <tuv lang="EN-US">
         <seg>Poisonous solids are usually ingested with food or drink.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141507Z" creationid="quentine" creationdate="20190115T141507Z">
-        <seg>固体毒物通常通过混入饮食中摄取。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T132559Z" creationid="quentine" creationdate="20190115T141507Z">
+        <seg>固体毒素通常通过混入饮食中摄取。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>Poisons are detailed in the Craft(chemical) skill description.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141305Z" creationid="quentine" creationdate="20190115T141305Z">
-        <seg>毒物在制造（化学）技能里详述。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T132559Z" creationid="quentine" creationdate="20190115T141305Z">
+        <seg>毒素在制造（化学）技能里详述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17150,6 +18190,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140654Z" creationid="QuenTine" creationdate="20181103T140654Z">
         <seg>毒素、疾病以及其他效果都有可能造成暂时性属性损伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Possessing the proper tools gives a character the best chance of succeeding on a Disable Device check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T120513Z" creationid="quentine" creationdate="20190925T120500Z">
+        <seg>角色拥有合适的工具则可以最大化提升解除装置检定成功率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17488,6 +18536,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the poison on the black market.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T130101Z" creationid="quentine" creationdate="20190921T130101Z">
+        <seg>记住一定要在黑市购买进行财富检定时加上这些调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T112029Z" creationid="QuenTine" creationdate="20181022T112029Z">
@@ -17544,6 +18600,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Scratch built explosives deal concussion damage.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T123417Z" creationid="quentine" creationdate="20190921T123417Z">
+        <seg>土制爆炸物会造成震荡伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Scribing a scroll takes one day.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190624T134353Z" creationid="quentine" creationdate="20190624T134353Z">
@@ -17580,6 +18644,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131320Z" creationid="quentine" creationdate="20190115T131320Z">
         <seg>见下表：光源照亮半径与持续时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See that skill description for details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134732Z" creationid="quentine" creationdate="20190923T134732Z">
+        <seg>详见相关描述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18600,6 +19672,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Craft (pharmaceutical) check is based on the severity of the disease to be countered as measured by the DC of the Fortitude save needed to resist it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T140332Z" creationid="quentine" creationdate="20190922T140332Z">
+        <seg>制造（配药）检定基于疾病的严重性，严重性用强韧豁免要对抗的DC来衡量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Craft DC for a mastercraft object is the same as for a normal object of the same type, as described in the Craft skill, with the following modification: For a +1 object, add +3 to the Craft DC; for a +2 object, add +5 to the Craft DC; and for a +3 object, add +10 to the Craft DC.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190523T141650Z" creationid="quentine" creationdate="20190523T141650Z">
@@ -18612,6 +19692,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T124559Z" creationid="quentine" creationdate="20190917T124559Z">
         <seg>DC取决于操作的性质。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DC depends on the quality of the lock.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T112814Z" creationid="quentine" creationdate="20190925T112814Z">
+        <seg>DC取决于锁的质量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18792,6 +19880,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DC is usually 10, unless the person who set the detonator chose a higher disarm DC.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134353Z" creationid="quentine" creationdate="20190923T134353Z">
+        <seg>DC通常为10，除非安装爆炸物的人设置了更高的拆除DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DC of the Craft (mechanical) check is set by the robot’s size and modified by the form of locomotion selected.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190522T143244Z" creationid="quentine" creationdate="20190522T143027Z">
@@ -18828,6 +19924,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T124339Z" creationid="quentine" creationdate="20190917T124339Z">
         <seg>编写程序的DC是20，需要1小时的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DCs given in the accompanying table show what it takes to change someone’s attitude with the use of the Diplomacy skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T131706Z" creationid="quentine" creationdate="20190924T131706Z">
+        <seg>下表给出的DC是用交涉技能改变某人的态度所需的DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19008,6 +20112,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The GM chooses the character’s initial attitude based on circumstances.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T131330Z" creationid="quentine" creationdate="20190924T131330Z">
+        <seg>GM根据实际情况选择角色的初始态度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The GM decides when a hero’s reputation can be relevant to a scene or encounter.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T135620Z" creationid="QuenTine" creationdate="20181106T122816Z">
@@ -19028,6 +20140,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T134809Z" creationid="quentine" creationdate="20190806T134809Z">
         <seg>GM酌情限制协助者的人数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM makes the check (so that the character doesn’t know exactly how well he or she has done).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T133807Z" creationid="quentine" creationdate="20190923T133807Z">
+        <seg>由GM进行检定（这样角色就不知道自己到底做得怎样了）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM may determine that some negotiations require a longer period of time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T133132Z" creationid="quentine" creationdate="20190924T133132Z">
+        <seg>GM可决定一些谈判需要更长的交涉时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19068,6 +20196,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190613T131739Z" creationid="quentine" creationdate="20190613T123634Z">
         <seg>术士进行研究检定，若成功则可任选一定数量的法术，获得卷轴，而余下的卷轴配额则由GM随机选择并授予。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM rolls the check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T114509Z" creationid="quentine" creationdate="20190925T114509Z">
+        <seg>由GM进行检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM secretly makes both the skill check and the Wisdom check so the character can’t tell whether the conclusion drawn is accurate or not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T131841Z" creationid="quentine" creationdate="20190923T131825Z">
+        <seg>技能检定和感知检定都是GM秘密进行的，因此角色不知道解读的结果是对是错。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19856,6 +21000,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The base DC is 20 for the simplest messages, 25 for standard codes, and 30 or higher for intricate or complex codes or exotic messages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T130843Z" creationid="quentine" creationdate="20190923T130843Z">
+        <seg>解读简单信息的基础DC是20，标准密文是25，错综复杂的密文或者完全陌生的外文则需要30或更高DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The base number of power points available per day is shown on the table above.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190619T141744Z" creationid="quentine" creationdate="20190619T141744Z">
@@ -20248,6 +21400,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character doesn’t declare a specific outcome he or she is trying for; instead, make the check and compare the result to the table on the next page.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T132407Z" creationid="quentine" creationdate="20190924T132407Z">
+        <seg>角色不能挑选自己理想的交涉结果，只能检定并对照第二张表得出结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character gains a +4 bonus on any attack roll made to attack an object held or carried by another character.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190804T125014Z" creationid="quentine" creationdate="20190804T125014Z">
@@ -20400,6 +21560,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character must be able to reach the actual device.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T113500Z" creationid="quentine" creationdate="20190925T113500Z">
+        <seg>角色必须能接触到设备本身。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character must have a lockpick set (for a mechanical lock) or an electrical tool kit (for an electronic lock).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T112804Z" creationid="quentine" creationdate="20190925T112804Z">
+        <seg>角色必须有橇锁工具（用于撬开机械锁）或者电气工具箱（用于电子锁）才能撬锁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character must have at least 5 ranks in the related skill to gain this synergy bonus, and the GM must agree that the two skills can complement each other in the given situation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T135515Z" creationid="quentine" creationdate="20190806T135515Z">
@@ -20492,6 +21668,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114438Z" creationid="quentine" creationdate="20190116T114438Z">
         <seg>所得点数再加上角色的体质调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character’s DC to set the detonator is equal to the disarm DC.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T133310Z" creationid="quentine" creationdate="20190923T133310Z">
+        <seg>角色安装导火索的DC等于拆除的DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20764,6 +21948,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T114309Z" creationid="quentine" creationdate="20190703T113820Z">
         <seg>邪恶侍僧进行`驱散伤害检定`以决定能为总共多少HD的生物解除驱散。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The exception is Craft (writing); a character can take 20 because the character does not use up any raw materials (and thus no Wealth check is required to use the skill).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T133449Z" creationid="quentine" creationdate="20190918T133449Z">
+        <seg>但制造（写作）是个例外，角色在这里可以取20，因为角色不会用掉任何原材料（同理也不需要进行财富检定）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21074,8 +22266,8 @@
       <tuv lang="EN-US">
         <seg>The fumes from most acids are inhaled poisons.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143543Z" creationid="quentine" creationdate="20190115T143543Z">
-        <seg>大多数酸的挥发气也是吸入性毒物。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T132559Z" creationid="quentine" creationdate="20190115T143543Z">
+        <seg>大多数酸的挥发气也是吸入性毒素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21504,6 +22696,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The purchase DC of this equipment varies according to the particular Craft skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T132352Z" creationid="quentine" creationdate="20190918T132352Z">
+        <seg>不同的制造技能，不同的制造装备的购买DC大小各异。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The quarry leaves only traces, such as scuff marks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190804T141247Z" creationid="quentine" creationdate="20190804T141247Z">
@@ -21685,6 +22885,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T105647Z" creationid="quentine" creationdate="20190703T105647Z">
         <seg>下表列出了根据你的侍僧等级你所能驱散的最强生物的生命骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The table below summarizes the characteristics of various poisons.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T124235Z" creationid="quentine" creationdate="20190921T124235Z">
+        <seg>下表总结了各种毒素的特性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22402,6 +23610,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This can backfire, as some characters will be insulted by a bribe offer (their attitude changes one step for the worse) and others will report the hero to the proper authorities.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T135738Z" creationid="quentine" creationdate="20190924T135738Z">
+        <seg>但这可能会起反效果，一些角色会因贿赂而感到受辱（态度下降一级），其他人甚至会向有关部门举报英雄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This check can only be made if the intruder is accessing the character’s site for the entire length of the check—if the intruder’s session ends before the character finishes the check, the character automatically fails.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T112046Z" creationid="quentine" creationdate="20190917T112046Z">
@@ -22884,6 +24100,62 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This skill allows a character to build electronic equipment from scratch, such as audio and video equipment, timers and listening devices, or radios and communication devices.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T133100Z" creationid="quentine" creationdate="20190922T132841Z">
+        <seg>此技能让角色可以制造土制电气设备，比如音视频设备、计时与监听设备、或者收音机及通讯设备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This skill allows a character to build mechanical devices from scratch, including engines and engine parts, weapons, armor, and other gadgets.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T134251Z" creationid="quentine" creationdate="20190922T134251Z">
+        <seg>此技能让角色可以制造土制机械设备，包括引擎和引擎部件、武器、护甲、以及其他配件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This skill allows a character to build wooden, concrete, or metal structures from scratch, including bookcases, desks, walls, houses, and so forth, and includes such handyman skills as plumbing, house painting, drywall, laying cement, and building cabinets.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T141721Z" creationid="quentine" creationdate="20190922T141721Z">
+        <seg>此技能让角色可以从零建造木质、混凝土或金属的结构，包括书架、桌子、墙、房子等等，且包括诸如管道、刷墙、干壁、混水泥、及建造橱柜之类的杂务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This skill allows a character to compound medicinal drugs to aid in recovery from treatable illnesses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T135400Z" creationid="quentine" creationdate="20190922T135400Z">
+        <seg>此技能让角色可以混合药物以治疗正在治愈的可治愈疾病。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This skill allows a character to create paintings or drawings, take photographs, use a video camera, or in some other way create a work of visual art.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T124712Z" creationid="quentine" creationdate="20190923T124712Z">
+        <seg>此技能让角色可以创作涂鸦或绘画、摄影、使用摄像机、或者其他创造视觉艺术的方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This skill allows a character to create short stories, novels, scripts and screenplays, newspaper articles and columns, and similar works of writing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T130037Z" creationid="quentine" creationdate="20190923T130037Z">
+        <seg>此技能让角色可以创作短篇故事、小说、台本和剧本、新闻报道和专栏等等写作工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This skill allows a character to mix chemicals to create acids, bases, explosives, and poisonous substances.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T132644Z" creationid="quentine" creationdate="20190918T135632Z">
+        <seg>此技能让角色可以混合化学品以制造酸、盐基、爆炸物、以及毒素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This skill expands to include alchemy, which can be used to create potions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190623T112227Z" creationid="quentine" creationdate="20190623T112227Z">
@@ -23062,6 +24334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To bribe a character, make a Wealth check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T135757Z" creationid="quentine" creationdate="20190924T135757Z">
+        <seg>要贿赂一个角色，需做一个财富检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To captivate a target, the hero must use an attack action and make a Charisma check (DC 15), adding his or her Charismatic level as a bonus.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190215T131624Z" creationid="quentine" creationdate="20190215T131624Z">
@@ -23098,6 +24378,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125657Z" creationid="QuenTine" creationdate="20181106T133258Z">
         <seg>要决定一个角色的初始财富加值，掷2d4加上角色职业背景的财富加值，再加上（如果有的话）横财专长的加值，如果角色在`专业`上拥有级数则还要再加1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To do so, the character chooses the disarm DC before making his or her check to set the detonator (it must be higher than 10).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T133126Z" creationid="quentine" creationdate="20190923T133027Z">
+        <seg>即让角色在进行安装导火索检定前，选择拆除DC（必须大于10）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23350,6 +24638,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To use Craft, first decide what the character is trying to make and consult the category descriptions below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T132617Z" creationid="quentine" creationdate="20190918T132617Z">
+        <seg>要使用制造技能，首先决定角色要制造什么，根据以下描述查询其所属类别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To use a Craft skill effectively, a character must have a kit or some other set of basic tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T132142Z" creationid="quentine" creationdate="20190918T132142Z">
+        <seg>要有效地制造物品，角色必须有必备的工具箱或其他类型的基本工具集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To use multiple attacks in the same round, a character must use a full attack, which is a full-round action.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T083246Z" creationid="quentine" creationdate="20190216T083246Z">
@@ -23414,6 +24718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Typical DCs are shown on below, but the GM may modify the DC as he or she sees fit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T135839Z" creationid="quentine" creationdate="20190924T135839Z">
+        <seg>标准DC如下所示，但GM会酌情调整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unable to act, a dazed character can take no actions, but still gets the benefit of his or her normal Defense.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121431Z" creationid="quentine" creationdate="20190115T121431Z">
@@ -23430,10 +24742,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unconsciousness lasts for 1d3 hours, and paralysis lasts 2d6 minutes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T125221Z" creationid="quentine" creationdate="20190921T125221Z">
+        <seg>昏迷持续1d3小时，麻痹持续2d6分钟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unless the activity increased the character’s hit points, the character is now at –1 hit points, and is dying.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T150052Z" creationid="quentine" creationdate="20190114T150052Z">
         <seg>除非该动作增加了角色的生命值，角色的生命值将变为-1，是濒死状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unless the effort is particularly elaborate or the character must acquire an expensive piece of equipment, the basic components have a purchase DC of 5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T125135Z" creationid="quentine" creationdate="20190923T125135Z">
+        <seg>除非创作极其耗费心血或者工作需要用昂贵工具完成，基础的创作材料的购买DC只有5。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23710,6 +25038,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a character requires a bribe to render services, then a hero’s Diplomacy check automatically fails if a bribe isn’t attached to it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T135426Z" creationid="quentine" creationdate="20190924T135426Z">
+        <seg>当角色需要贿赂才提供服务时，英雄若无法满足，交涉检定自动失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a character spends 1 action point to improve a d20 roll, add 1d6 to the d20 roll to help meet or exceed the target number.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T134121Z" creationid="quentine" creationdate="20190114T134054Z">
@@ -23728,8 +25064,8 @@
       <tuv lang="EN-US">
         <seg>When a character takes damage from an attack with a poisoned weapon, touches an item smeared with contact poison, consumes a poisonous substance, inhales a poisonous gas, or is otherwise poisoned, the character must make a Fortitude saving throw.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141114Z" creationid="quentine" creationdate="20190115T141114Z">
-        <seg>当角色被有毒武器伤害到、碰到涂上接触性毒素的物品、摄入毒物、吸入毒气或以其他的方式中毒时，角色必须进行一次强韧豁免。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T132559Z" creationid="quentine" creationdate="20190115T141114Z">
+        <seg>当角色被有毒武器伤害到、碰到涂上接触性毒素的物品、摄入毒素、吸入毒气或以其他的方式中毒时，角色必须进行一次强韧豁免。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23822,6 +25158,38 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When attempting to create a work of visual art, the character simply makes a Craft (visual art) check, the result of which determines the quality of the work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T124819Z" creationid="quentine" creationdate="20190923T124819Z">
+        <seg>当角色试图创作视觉艺术时，角色只需做一次制造（视觉艺术）检定，检定结果决定作品的质量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When building a mechanical device from scratch, the character describes the kind of device he or she wants to construct; then the Gamemaster decides if the device is simple, moderate, complex, or advanced compared to current technology.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T134342Z" creationid="quentine" creationdate="20190922T134342Z">
+        <seg>制造土制机械设备时，角色描述要制造的设备的种类，然后GM决定设备相比于当前技术水平是简单、中等、复杂还是高级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When building a structure from scratch, the character describes the kind of structure he or she wants to construct; then the Gamemaster decides if the structure is simple, moderate, complex, or advanced in scope and difficulty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T142916Z" creationid="quentine" creationdate="20190922T142916Z">
+        <seg>从零制造结构时，角色描述要建造的结构的种类，然后GM根据大小和难度决定结构是简单、中等、复杂还是高级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When building an electronic device from scratch, the character describes the kind of device he or she wants to construct; then the Gamemaster decides whether the device is simple, moderate, complex, or advanced com-pared to current technology.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T133340Z" creationid="quentine" creationdate="20190922T133340Z">
+        <seg>制造土制电气设备时，角色描述要制造的设备的种类，然后GM决定设备相比于当前技术水平是简单、中等、复杂还是高级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When casting an arcane spell with a somatic component, the chance of arcane spell failure depends on the type of armor being worn and whether the Mage has the appropriate Armor Proficiency feat, as shown below.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190623T121427Z" creationid="quentine" creationdate="20190623T121427Z">
@@ -23838,10 +25206,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When creating a work of writing, the player simply makes a Craft (writing) check, the result of which determines the quality of the work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T130154Z" creationid="quentine" creationdate="20190923T130154Z">
+        <seg>角色要进行写作时，只需做一次制造（写作）检定，检定结果决定作品的质量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When dealing with others with at least 1 rank in the same Knowledge skill, the Field Scientist gains a +2 bonus on Reputation checks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190518T131539Z" creationid="quentine" creationdate="20190518T131539Z">
         <seg>在与其他有至少1级此知识技能的人打交道时，战地科学家在声望检定时获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When disabling a monitored device, the character can prevent his or her tampering from being noticed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T113715Z" creationid="quentine" creationdate="20190925T113715Z">
+        <seg>当解除被监控的设备时，角色可以防止自己的解除行为被注意到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23906,6 +25290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T093128Z" creationid="quentine" creationdate="20190216T093128Z">
         <seg>获得新的职业，英雄获得的生命值不是取最大值而是应掷生命骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When released, the gas is sufficient to fill a 10-foot-radius area and takes 1 round to fill the area.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T130552Z" creationid="quentine" creationdate="20190921T130552Z">
+        <seg>毒气释放出来将用一整轮的时间填满半径为10尺的区域。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24460,6 +25852,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>\* Chloroform gives off vapor that causes unconsciousness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T090532Z" creationid="quentine" creationdate="20190922T090532Z">
+        <seg>\* 氯仿的蒸汽会造成昏迷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>\* Creates a beam 30 feet long and 5 feet high.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131455Z" creationid="quentine" creationdate="20190115T131455Z">
@@ -24508,10 +25908,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>\* The figures in parentheses are typical damage/burst radius for each type of explosive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T122731Z" creationid="quentine" creationdate="20190921T122731Z">
+        <seg>\* 括号内指每种爆炸物的`一般伤害/爆炸半径`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>\* The given basic class provides the fastest path to both of the associated advanced classes, though not the only path.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T133205Z" creationid="quentine" creationdate="20190221T133205Z">
         <seg>\* 所示的基本职业并不是对应高级职业的必要条件，而是通往高级职业的捷径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\*Craft DCs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T140442Z" creationid="quentine" creationdate="20190918T140442Z">
+        <seg>\*制造DC</seg>
       </tuv>
     </tu>
     <tu>
@@ -24564,6 +25980,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>\*\*The dice rolls in parentheses are typical contact damage/immersion damage caused per round of immersion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T140741Z" creationid="quentine" creationdate="20190918T140732Z">
+        <seg>\*\*括号内所示的骰点是`一般接触伤害/浸泡所致的每轮浸泡伤害`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>\*\*\* Necessary for a robot built to use any skill except Listen or Spot.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190522T144627Z" creationid="quentine" creationdate="20190522T144627Z">
@@ -24592,6 +26016,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T045310Z" creationid="QuenTine" creationdate="20181024T045310Z">
         <seg>d20 + 调整值（Modifiers） vs. 目标数值（Target Number）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>n/a: Certain poisons can’t be made with the Craft skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T091012Z" creationid="quentine" creationdate="20190922T091012Z">
+        <seg>n/a: 这种毒素不能用制造技能制造。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24714,6 +26146,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Attitude|Means|Possible Actions|
+|--------|-----|----------------|
+|Hostile|Will take risks to hurt or avoid you|Attack, interfere, berate, flee|
+|Unfriendly|Wishes you ill|Mislead, gossip, avoid, watch suspiciously, insult|
+|Indifferent|Doesn’t much care|Act as socially expected|
+|Friendly|Wishes you well|Chat, advise, offer limited help, advocate|
+|Helpful|Will take risks to help you|Protect, back up, heal, aid|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T134251Z" creationid="quentine" creationdate="20190924T134251Z">
+        <seg>|态度|意思|可能的行为|
+|--------|-----|----------------|
+|敌对|会冒险伤害或者躲着你|攻击、干涉、怒斥、逃跑|
+|不友善|盼着你倒霉|误导、诽谤、回避、警惕地看着、侮辱|
+|不关心|不怎么关心你|和陌路人一样的行为|
+|友善|希望你好|聊天、建议、提供有限的帮助、为你辩护|
+|提供帮助|会冒险帮你|保护、后援、治疗、协助|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Base Attack Bonus|Additional Attacks at|
 |:----------------|:--------------------|
 |+6|+1|
@@ -24802,6 +26254,24 @@
 |8th|21|3|3|3|1|—|
 |9th|26|3|3|3|2|—|
 |10th|33|3|3|3|2|1|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Bribe Target|Purchase DC|
+|------------|:---------:|
+|Bouncer|6|
+|Bureaucrat|10|
+|Informant|7|
+|Police officer|10|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T140236Z" creationid="quentine" creationdate="20190924T140236Z">
+        <seg>|贿赂对象|购买DC|
+|------------|:---------:|
+|保安|6|
+|官僚|10|
+|告密者|7|
+|警官|10|</seg>
       </tuv>
     </tu>
     <tu>
@@ -25770,6 +27240,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Device Type (Example)|DC|
+|-------------------|:--:|
+|Cheap (home door alarm)|20|
+|Average (store security camera)|25|
+|High quality (art museum motion detector)|30|
+|High security (bank vault alarm)|35|
+|Ultrahigh security (motion detector at Area 51)|40|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T114104Z" creationid="quentine" creationdate="20190925T114104Z">
+        <seg>|设备类型（范例）|DC|
+|-------------------|:--:|
+|廉价（家用门警报器）|20|
+|一般（商场安全摄像头）|25|
+|高质量（艺术馆运动感应器）|30|
+|高度安全（银行金库警报）|35|
+|顶级安全（51区的运动感应器）|40|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Difficulty (DC)|Example (Skill Used)|
 |---------------|--------------------|
 |Very easy (0)|Notice something large in plain sight (Spot)|
@@ -25794,6 +27284,24 @@
 |英雄壮举（30）|跳过30尺宽的裂隙（跳跃）|
 |天降大任（35）|在未携带任何身份标识也未在对方名单的情况下说服警卫放行，让自己进入建筑物（唬骗）|
 |难于登天（40）|在没有月光的晚上且下了12天雨的巴西雨林里，追踪一支训练有素的突击队（生存）|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Disease Fortitude Save DC|Purchase DC|Craft DC|Time|
+|-------------------------|:---------:|:------:|:--:|
+|14 or lower|5|15|1 hr.|
+|15–18|10|20|3 hr.|
+|19–22|15|25|6 hr.|
+|23 or higher|20|30|12 hr.|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T140455Z" creationid="quentine" creationdate="20190922T140455Z">
+        <seg>|疾病的强韧豁免DC|购买DC|制造DC|时间|
+|-------------------------|:---------:|:------:|:--:|
+|14或更低|5|15|1小时|
+|15–18|10|20|3小时|
+|19–22|15|25|6小时|
+|23或更高|20|30|12小时|</seg>
       </tuv>
     </tu>
     <tu>
@@ -25948,6 +27456,24 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Initial Attitude\\New Attitude|Hostile|Unf.|Indif.|Friendly|Helpful|
+|------------------------------|:-----:|:--:|:----:|:------:|:-----:|
+|Hostile|19 or less|20|25|35|45|
+|Unfriendly|4 or less|5|15|25|35|
+|Indifferent|—|0 or less|1|15|25|
+|Friendly|—|—|0 or less|1|15|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T134517Z" creationid="quentine" creationdate="20190924T134517Z">
+        <seg>|初始态度\\新态度|敌对|不友善|不关心|友善|提供帮助|
+|------------------------------|:-----:|:--:|:----:|:------:|:-----:|
+|敌对|19及以下|20|25|35|45|
+|不友善|4及以下|5|15|25|35|
+|不关心|—|0及以下|1|15|25|
+|友善|—|—|0及以下|1|15|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Int Score|0\*|1\*|2\*|3\*|4\*|5\*|
 |---------|:-:|:-:|:-:|:-:|:-:|:-:|
 |12–13|—|1|—|—|—|—|
@@ -26030,6 +27556,26 @@
 |8th|6|5|3|—|7 (DC 35)|
 |9th|6|5|4|—|8 (DC 38)|
 |10th|7|6|5|2|9 (DC 40)|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Lock Type (Example)|DC|
+|-----------------|:--:|
+|Cheap (briefcase lock)|20|
+|Average (home deadbolt)|25|
+|High quality (business deadbolt)|30|
+|High security (branch bank vault)|40|
+|Ultra-high security (bank headquarters vault)|50|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T113148Z" creationid="quentine" creationdate="20190925T113148Z">
+        <seg>|锁类型（范例）|DC|
+|-----------------|:--:|
+|廉价（公文包锁）|20|
+|一般（家庭门闩）|25|
+|高质量（单位门闩）|30|
+|高度安全（银行支行金库）|40|
+|顶级安全（银行总行金库）|50|</seg>
       </tuv>
     </tu>
     <tu>
@@ -26140,6 +27686,64 @@
 |中等|1d6 x 10 分钟|
 |强烈|1d6 小时|
 |凌厉|1d6 天|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Poison|Type|Save DC|Initial Damage|Secondary Damage|Purchase DC|Restriction|Craft DC|Time|
+|------|:--:|:-----:|--------------|----------------|:---------:|-----------|:------:|:--:|
+|Arsenic|Ingested|15|1d4 Str|2d4 Con|9|Res (+2)|24|4 hr.|
+|Atropine|Injury|13|1d6 Dex|1d6 Str|3|Res (+2)|14|1 hr.|
+|Belladonna (plant)|Injury|18|1d6 Str|2d6 Str|14|Lic (+1) |n/a|n/a|
+|Blue vitriol|Injury|12|1d2 Con|1d2 Con|3|Res (+2)|9|1 hr.|
+|Blue-ringed octopus venom|Injury|15|1d4 Con|1d4 Con|14|Lic (+1) |n/a|n/a|
+|Chloral hydrate|Ingested|18|1d6 Dex|Unconsciousness 1d3 hours|12|Res (+2)|28|8 hr.|
+|Chloroform\*|Inhaled|17|Unconsciousness 1d3 hours|—|9|Res (+2)|24|4 hr.|
+|Curare (plant)|Injury|18|2d4 Dex|2d4 Wis|15|Res (+2) |n/a|n/a|
+|Cyanide|Injury|16|1d6 Con|2d6 Con|15|Mil (+3)|31|15 hr.|
+|Cyanogen|Inhaled|19|1d4 Dex|2d4 Con|12|Mil (+3)|28|8 hr.|
+|DDT|Inhaled|17|1d2 Str|1d4 Str|9|Lic (+1)|20|4 hr.|
+|Knockout gas|Inhaled|18|1d3 Dex|Unconsciousness 1d3 hours|12|Res (+2)|26|8 hr.|
+|Lead arsenate (gas)|Inhaled|12|1d2 Str|1d4 Con|6|Res (+2)|17|2 hr.|
+|Lead arsenate (solid) |Ingested|12|1d2 Con|1d4 Con|6|Res (+2)|18|2 hr.|
+|Mustard gas|Inhaled|17|1d4 Con|2d4 Con|12|Mil (+3)|26|8 hr.|
+|Paris green (gas)|Inhaled|14|1d2 Con|1d4 Con|9|Res (+2)|20|4 hr.|
+|Paris green (solid)|Ingested|14|1d4 Con|1d4 Con|9|Res (+2)|24|4 hr.|
+|Puffer poison (fish)|Injury|13|1d6 Str|Paralysis 2d6 minutes|13|Lic (+1) |n/a|n/a|
+|Rattlesnake venom|Injury|12|1d6 Con|1d6 Con|12|Lic (+1)|n/a|n/a|
+|Sarin nerve gas|Inhaled|18|1d4 Con|2d4 Con|15|Illegal (+4)|30|15 hr.|
+|Scorpion/tarantula venom|Injury|11|1d2 Str|1d2 Str|12|Lic (+1) |n/a|n/a|
+|Strychnine|Injury|19|1d3 Dex|2d4 Con|9|Res (+2)|23|4 hr.|
+|Tear gas|Inhaled|15|Nauseated 1d6 rounds|—|9|Res (+2)|21|4 hr.|
+|VX nerve gas|Inhaled|22|1d6 Con|2d6 Con|21|Illegal (+4)|42|48 hr.|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T091745Z" creationid="quentine" creationdate="20190921T141244Z">
+        <seg>|毒素|种类|豁免DC|初始伤害|再次伤害|购买DC|限制级|制造DC|时间|
+|------|:--:|:-----:|--------------|----------------|:---------:|-----------|:------:|:--:|
+|砒霜|摄取|15|1d4 力|2d4 体|9|管制（+2）|24|4 小时|
+|阿托品|创伤|13|1d6 敏|1d6 力|3|管制（+2）|14|1 小时|
+|颠茄（草）|创伤|18|1d6 力|2d6 力|14|执照（+1） |n/a|n/a|
+|蓝矾|创伤|12|1d2 体|1d2 体|3|管制（+2）|9|1 小时|
+|蓝环章鱼毒液|创伤|15|1d4 体|1d4 体|14|执照（+1）|n/a|n/a|
+|水合氯醛|摄取|18|1d6 敏|昏迷 1d3 小时|12|管制（+2）|28|8 小时|
+|氯仿\*|吸入|17|昏迷 1d3 小时|—|9|管制（+2）|24|4 小时|
+|箭毒（草）|创伤|18|2d4 敏|2d4 感|15|管制（+2）|n/a|n/a|
+|氯化物|创伤|16|1d6 体|2d6 体|15|军用（+3）|31|15 小时|
+|氯气|吸入|19|1d4 敏|2d4 体|12|军用（+3）|28|8 小时|
+|滴滴涕|吸入|17|1d2 力|1d4 力|9|执照（+1）|20|4 小时|
+|窒息性毒气|吸入|18|1d3 敏|昏迷 1d3 小时|12|管制（+2）|26|8 小时|
+|砷酸铅（气体）|吸入|12|1d2 力|1d4 体|6|管制（+2）|17|2 小时|
+|砷酸铅（固体）|摄取|12|1d2 体|1d4 体|6|管制（+2）|18|2 小时|
+|芥末喷雾|吸入|17|1d4 体|2d4 体|12|军用（+3）|26|8 小时|
+|巴黎绿（气体）|吸入|14|1d2 体质|1d4 体质|9|管制（+2）|20|4 小时|
+|巴黎绿（固体）|摄取|14|1d4 体质|1d4 体质|9|管制（+2）|24|4 小时|
+|河豚毒（鱼）|创伤|13|1d6 力|麻痹 2d6 分钟|13|执照（+1）|n/a|n/a|
+|响尾蛇毒|创伤|12|1d6 体|1d6 体|12|执照（+1）|n/a|n/a|
+|沙林神经毒气|吸入|18|1d4 体|2d4 体|15|非法（+4）|30|15 小时|
+|蝎毒/蛛毒|创伤|11|1d2 力|1d2 力|12|执照（+1）|n/a|n/a|
+|番木鳖碱|创伤|19|1d3 敏|2d4 体|9|管制（+2）|23|4 小时|
+|催泪瓦斯|吸入|15|反胃 1d6 轮|—|9|管制（+2）|21|4 小时|
+|VX神经毒气|吸入|22|1d6 体|2d6 体|21|非法（+4）|42|48 小时|</seg>
       </tuv>
     </tu>
     <tu>
@@ -26302,6 +27906,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Skill Check Result|Effort Achieved|
+|------------------|---------------|
+|9 or lower|Untalented amateur|
+|10–19|Talented amateur|
+|20–24|Professional|
+|25–30|Expert|
+|31 or higher|Master|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T125533Z" creationid="quentine" creationdate="20190923T125533Z">
+        <seg>|技能检定结果|成果品质|
+|------------------|---------------|
+|9及更低|平平无奇|
+|10–19|可圈可点|
+|20–24|专业|
+|25–30|行家|
+|31及更高|大师|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Surface|Track DC|
 |-------|:------:|
 |Very soft|5|
@@ -26444,6 +28068,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Type of Acid|Purchase DC|Acid\*|Base\*|Time\*|
+|------------|:---------:|:----:|:----:|------|
+|Mild (1d6/1d10)\*\*|8|15|10|1 min|
+|Potent (2d6/2d10)|12|20|15|30 min|
+|Concentrated (3d6/3d10)|16|30|20|1 hr.|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T140412Z" creationid="quentine" creationdate="20190918T140412Z">
+        <seg>|酸的种类|购买DC|酸\*|盐基\*|时间\*|
+|------------|:---------:|:----:|:----:|------|
+|弱酸（1d6/1d10）\*\*|8|15|10|1分钟|
+|强酸（2d6/2d10）|12|20|15|30分钟|
+|浓酸（3d6/3d10）|16|30|20|1小时|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Type of Operation|DC|Time|
 |----------------|:-:|:--:|
 |Shut down passive remote (including cameras and door locks)|20|1 round per remote|
@@ -26466,6 +28106,82 @@
 |最小安全等级|–5|—|
 |加强安全等级|+10|—|
 |最大安全等级|+15|—|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Type of Scratch-Built Electronics (Examples)|Purchase DC|Craft DC|Time|
+|--------------------------------------------|:---------:|:------:|:--:|
+|Simple (timer or detonator)|8|15|1 hr.|
+|Moderate (radio direction finder, electronic lock)|12|20|12 hr.|
+|Complex (cell phone)|16|25|24 hr.|
+|Advanced (computer)|22|30|60 hr.|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T133907Z" creationid="quentine" creationdate="20190922T133907Z">
+        <seg>|土制电器种类（范例）|购买 DC|制造 DC|时间|
+|--------------------------------------------|:---------:|:------:|:--:|
+|简单（计时器或导火索）|8|15|1 小时|
+|中等（无线电测向仪、电子锁）|12|20|12 小时|
+|复杂（手机）|16|25|24 小时|
+|高级（电脑）|22|30|60 小时|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Type of Scratch-Built Explosive|Purchase DC|Craft DC|Reflex DC (save for half damage)|Time|
+|-------------------------------|:---------:|:------:|:------------------------------:|:--:|
+|Improvised (1d6/5 feet)\*|6|10|10|1 round|
+|Simple (2d6/5 feet)|12|15|12|10 min|
+|Moderate (4d6/10 feet)|16|20|12|1 hr.|
+|Complex (6d6/15 feet)|20|25|15|3 hr.|
+|Powerful (8d6/20 feet)|25|30|15|12 hr.|
+|Devastating (10d6/25 feet)|30|35|18|24 hr.|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T123327Z" creationid="quentine" creationdate="20190918T142353Z">
+        <seg>|土制爆炸物类型|购买DC|制造DC|反射DC（半伤豁免所需）|时间|
+|-------------------------------|:---------:|:------:|:------------------------------:|:--:|
+|简易（1d6/5尺）\*|6|10|10|1 round|
+|简单（2d6/5尺）|12|15|12|10 min|
+|中等（4d6/10尺）|16|20|12|1 hr.|
+|复杂（6d6/15尺）|20|25|15|3 hr.|
+|大威力（8d6/20尺）|25|30|15|12 hr.|
+|毁灭性（10d6/25尺）|30|35|18|24 hr.|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Type of Scratch-Built Mechanical Device (Examples)|Purchase DC|Craft DC|Time|
+|--------------------------------------------------|:---------:|:------:|:--:|
+|Simple (tripwire trap)|5|15|1 hr|
+|Moderate (engine component, light armor)|12|20|12 hr.|
+|Complex (automobile engine, 9mm autoloader handgun)|16|25|24 hr.|
+|Advanced (jet engine)|20|30|60 hr.|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T040451Z" creationid="quentine" creationdate="20190922T135018Z">
+        <seg>|土制机械种类（范例）|购买 DC|制造 DC|时间|
+|--------------------------------------------|:---------:|:------:|:--:|
+|简单（绊线陷阱）|5|15|1 小时|
+|中等（引擎部件、轻型护甲）|12|20|12 小时|
+|复杂（汽车引擎、9mm口径手枪）|16|25|24 小时|
+|高级（喷气机引擎）|20|30|60 小时|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Type of Scratch-Built Structure (Examples)|Purchase DC|Craft DC|Time|
+|------------------------------------------|:---------:|:------:|:--:|
+|Simple (bookcase, false wall)|5|15|12 hr.|
+|Moderate (catapult, shed, house deck)|10|20|24 hr.|
+|Complex (bunker, domed ceiling)|15|25|60 hr.|
+|Advanced (house)|20|30|600 hr.|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T142613Z" creationid="quentine" creationdate="20190922T142613Z">
+        <seg>|土制结构种类（范例）|购买 DC|制造 DC|时间|
+|------------------------------------------|:---------:|:------:|:--:|
+|简单（书架、假墙）|5|15|12 小时|
+|中等（投石车、小棚屋、地板）|10|20|24 小时|
+|复杂（仓房、拱形天花板）|15|25|60 小时|
+|高级（房子）|20|30|600 小时|</seg>
       </tuv>
     </tu>
     <tu>

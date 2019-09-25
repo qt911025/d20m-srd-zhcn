@@ -681,7 +681,7 @@ For weapons that use box magazines, a character can purchase extras. Loading the
 
 ### Detonator
 
-A detonator activates an explosive, causing it to explode. The device consists of an electrically activated blasting cap and some sort of device that delivers the electrical charge to set off the blasting cap. Connecting a detonator to an explosive requires a Demolitions check (DC 15). Failure means that the explosive fails to go off as planned. Failure by 10 or more means the explosive goes off as the detonator is being installed.
+A detonator activates an explosive, causing it to explode. The device consists of an electrically activated blasting cap and some sort of device that delivers the electrical charge to set off the blasting cap. Connecting a detonator to an explosive requires a Demolitions check (DC 15). 失败则意味着爆炸物无法按计划爆炸。失败10点或更多则意味着爆炸物在安装导火索的瞬间爆炸。
 
 Blasting Cap: This is a detonator without a built-in controller. It can be wired into any electrical device, such as a light switch or a car’s ignition switch, with a Demolitions check (DC 10). When the electrical device is activated, the detonator goes off.
 
