@@ -609,157 +609,157 @@ n/a: 这种毒素不能用制造技能制造。而是只能从来源生物身上
 
 **时间：** 解除简单机械装置是一个整轮动作。错综复杂的装置需要2d4轮。
 
-## Disguise (Cha)
+## 易容（魅）
 
-**Check:** A character’s Disguise check result determines how good the disguise is. It is opposed by others’ Spot check results. Make one Disguise check even if several people make Spot checks. The GM makes the character’s Disguise check secretly so that the character is not sure how well his or her disguise holds up to scrutiny.
+**检定：** 角色的易容检定结果决定了易容效果。检定是与其他人的侦察检定对抗。即使有好几个人做了侦察检定，也只需要做一次易容来应对。由GM进行秘密检定，角色不知道自己的易容经不经得住细看。
 
-If the character doesn’t draw any attention to him or herself, however, others don’t get to make Spot checks. If the character comes to the attention of people who are suspicious, the suspicious person gets to make a Spot check. (The GM can assume that such observers take 10 on their Spot checks.)
+如果角色并没有引起任何注意，其他人不需要做侦察检定。如果角色引起某人怀疑并注意，怀疑者进行侦察检定。（GM可以假定观察者在侦察检定中取10。）
 
-The effectiveness of the character’s disguise depends in part on how much the character is attempting to change his or her appearance.
+角色的易容效果部分取决于角色试图改变多少样貌。
 
-|Disguise|Modifier|
+|易容|调整值|
 |--------|:------:|
-|Minor details only|+5|
-|Appropriate uniform or costume|+2|
-|Disguised as different sex|–2|
-|Disguised as different age category|–2\*|
+|只改变少量细节|+5|
+|合适的制服或装束|+2|
+|易容成另一性别|–2|
+|易容成不同年龄段|–2\*|
 
-\* Per step of difference between the character’s age category and the disguised age category (child, young adult, adult, middle age, old, or venerable).
+\* 每跨一个年龄段就-2（儿童、青少年、青年、中年、老年、高年）。
 
-If the character is impersonating a particular individual, those who know what that person looks like automatically get to make Spot checks. Furthermore, they get a bonus on their Spot checks.
+若角色扮演特定人物，认识这个人物的人会自动进行侦察检定。而且，侦察检定会有加值。
 
-|Familiarity|Bonus|
+|熟悉度|加值|
 |-----------|:---:|
-|Recognizes on sight|+4|
-|Friend or associate|+6|
-|Close friend|+8|
-|Intimate|+10|
+|一见就认出|+4|
+|朋友或合作伙伴|+6|
+|亲密的朋友|+8|
+|至交|+10|
 
-Usually, an individual makes a Spot check to detect a disguise immediately upon meeting the character and each hour thereafter. If the character casually meets many different people, each for a short time, the GM checks once per day or hour, using an average Spot modifier for the group (assuming they take 10).
+通常，这些人会在一见到角色就会做检定，此后每小时都会做一次。如果角色临时会见很多人，每个人都只会见很短的时间，GM只需要每天或每小时检定一次，应用这群人的平均侦察调整值（假设他们取10）。
 
-**Try Again?:** No, though the character can assume the same disguise again at a later time. If others saw through the previous disguise, they are automatically treated as suspicious if the character assumes the same disguise again.
+**重试：** 不行，因为角色即使重试也是用同一副面容。如果其他角色看穿了前一个易容，而角色仍以这副面容出现，将自动引起怀疑。
 
-**Special:** A character can take 10 or take 20 when establishing a disguise.
+**特别：** 角色着手化妆易容可以取10取20。
 
-A character without a disguise kit takes a –4 penalty on Disguise checks.
+无易容工具的角色的易容检定将有4点减值。
 
-A character with the Deceptive feat gets a +2 bonus on all Disguise checks.
+有欺诈专长的角色的易容检定有2点加值。
 
-A character can help someone else create a disguise for him or her, treating it as an aid another attempt.
+角色可以为其他人易容，视为`协助他人`。
 
-**Time:** A Disguise check requires 1d4 x10 minutes of preparation. The GM makes Spot checks for those who encounter the character immediately upon meeting the character and again each hour or day thereafter, depending on circumstances.
+**时间：** 一次易容检定需要1d4×10分钟的准备时间。GM为一见就立即侦察和此后每小时或每天都侦察易容者的角色做侦察检定。
 
-## Drive (Dex)
+## 驾驶（敏）
 
-**Check:** Routine tasks, such as ordinary driving, don’t require a skill check. Make a check only when some unusual circumstance exists (such as inclement weather or an icy surface), or when the character is driving during a dramatic situation (the character is being chased or attacked, for example, or is trying to reach a destination in a limited amount of time). When driving, the character can attempt simple maneuvers or stunts. See Driving a Vehicle for more details.
+**检定：** 常规的任务，比如一般的驾驶，是不需要技能检定的。只有在不寻常的状况下（比如恶劣的天气或者结冰的表面），或者当角色在一个戏剧化的情节下（比如角色正被追逐或攻击或者在有限的时间内到达地点）驾驶才需要检定。驾驶时，角色可做出简单的机动或者特技。详见`驾驶载具`一节。
 
-**Try Again?:** Most driving checks have consequences for failure that make trying again impossible.
+**重试：** 大多数驾驶检定都有失败的后果，不可能重试。
 
-**Special:** A character can take 10 when driving, but can’t take 20.
+**特别：** 角色可以在驾驶中取10， 但不能取20。
 
-A character with the Vehicle Expert feat gets a +2 bonus on all Drive checks.
+有`载具专家`专长的角色驾驶检定有2点加值。
 
-There is no penalty for operating a general-purpose motor vehicle. Other types of motor vehicles (heavy wheeled, powerboat, sailboat, ship, and tracked) require the corresponding Surface Vehicle Operation feat, or the character takes a –4 penalty on Drive checks.
+操作通用的机动载具无减值。其他类型的机动载具（重型轮式载具、汽艇、帆船、舰、以及履带式载具）需要相应的`地表载具操作`专长，否则角色在驾驶检定中有4点减值。
 
-**Time:** A Drive check is a move action.
+**时间：** 驾驶检定是一个移动动作。
 
-## Escape Artist (Dex) Armor Penalty
+## 脱逃（敏） 护甲减值
 
-**Check:** Make a check to escape from restraints or to squeeze through a tight space.
+**检定：** 进行检定以从束缚中脱离或者挤进狭小的空间中。
 
-|Restraint|DC|
+|束缚|DC|
 |-------|:--:|
-|Ropes|Opponent’s Dex check +20|
-|Net|20|
-|Handcuffs|35|
+|绳索|捆绑者的敏捷检定结果 +20|
+|网|20|
+|手铐|35|
 |Tight space|30|
-|Grappler|Opponent’s grapple check|
+|擒抱者|擒抱者的擒抱检定结果|
 
-For ropes, a character’s Escape Artist check is opposed by the Dexterity check result of the opponent who tied the bonds. Since it’s easier to tie someone up than to escape from being tied up, the opponent gets a +20 bonus on his or her Dexterity check.
+对于绳索而言，角色的脱逃检定与捆绑者的敏捷检定结果对抗。因为捆绑总是比脱逃更容易，捆绑者的敏捷检定会获得20点加值。
 
-For a tight space, a check is only called for if the character’s head fits but his or her shoulders don’t. If the space is long, such as in an airshaft, the GM may call for multiple checks. A character can’t fit through a space that his or her head doesn’t fit through.
+对于狭窄的空间，只有在空间可容纳角色的头而不能容纳肩膀时需要做检定。如果空间狭长，比如在通风竖井内，GM要做多次检定。角色不能进入比头还小的空间。
 
-A character can make an Escape Artist check opposed by his or her opponent’s grapple check to get out of a grapple or out of a pinned condition (so that the character is just being grappled). Doing so is an attack action, so if the character escapes the grapple he or she can move in the same round.
+角色可以用脱逃与对手的擒抱做对抗检定，以从被擒抱或压制状态中脱身（从压制中脱逃只会转为被擒抱状态）。这种脱逃是一个攻击动作，所以如果角色从擒抱中脱逃，则还可以在同一轮中再移动。
 
-**Try Again?:** A character can make another check after a failed check if the character is squeezing through a tight space, making multiple checks. If the situation permits, the character can make additional checks as long as he or she is not being actively opposed.
+**重试：** 角色若在挤进狭小空间中检定失败，可以再做一次检定，可重复多次。如果情况允许，只要角色的脱逃不是在与对手正面对抗，则可重试。
 
-**Special:** A character can take 10 on an Escape Artist check. A character can take 20 if he or she is not being actively opposed (a character can take 20 if he or she is tied up, even though it’s an opposed check, because the opponent isn’t actively opposing the character).
+**特别：** 角色可以在脱逃检定中取10。角色的脱逃只要不是正面对抗，则可取20（角色可在被绑起来的时候取20，虽然这是与捆绑者进行对抗检定，但捆绑者并不是与角色正面对抗）。
 
-A character with the Nimble feat gets a +2 bonus on all Escape Artist checks.
+有`灵巧`专长的角色脱逃检定有2点加值。
 
-**Time:** Making a check to escape from being bound by ropes, handcuffs, or other restraints (except a grappler) requires 1 minute. Escaping a net is a full-round action. Squeezing through a tight space takes at least 1 minute, maybe longer, depending on the distance that must be crossed.
+**时间：** 从绳索捆绑、手铐、或其他束缚（除了擒抱）中脱逃，检定需要1分钟。从网中脱逃是一个整轮动作。挤进狭小空间需要至少1分钟，可能更长，这取决于必须穿过的距离。
 
-## Forgery (Int)
+## 伪造文书（智）
 
-**Check:** Forgery requires ma-terials appropriate to the document being forged, and some time. To forge a document the character needs to have seen a similar document before.  The complexity of the document, the character’s degree of familiarity with it, and whether the character needs to reproduce the signature or handwriting of a specific individual, provide modifiers to the Forgery check, as shown below.
+**检定：** 伪造文书需要伪造的原件相应的材料，还需要时间。角色伪造文件需要此前见过类似的文件。文件的复杂程度、角色对它的熟悉度、以及角色是否需要伪造某人的笔迹，都会提供调整值，如下表所示。
 
-|Factor|Check Modifier|Time|
+|因素|检定调整值|时间|
 |------|:------------:|----|
-|Document Type|||
-|Simple (typed letter, business card)|+0|10 min|
-|Moderate (letterhead, business form)|–2|20 min|
-|Complex (stock certificate, driver’s license)|–4|1 hr.|
-|Difficult (passport)|–8|4 hr.|
-|Extreme (military/law enforcement ID)|–16|24 hr.|
-|Familiarity|||
-|Unfamiliar (seen once for less than a minute)|–4||
-|Fairly familiar (seen for several minutes)|+0||
-|Quite familiar (on hand, or studied at leisure)|+4||
-|Forger has produced other documents of same type|+4||
-|Document includes specific signature|–4||
+|文件类型|||
+|简单（打印的信件、公务名片）|+0|10 分钟|
+|中等（信头、公务表格）|–2|20 分钟|
+|复杂（股票凭证、驾照）|–4|1 小时|
+|困难（护照）|–8|4 小时|
+|极难（军人/执法人员证件）|–16|24小时|
+|熟悉度|||
+|不熟悉（只见过一次且少于一分钟）|–4||
+|比较熟悉（见过几分钟）|+0||
+|很熟悉（在手上端详过、或业余时间研究过）|+4||
+|伪造者此前伪造过同类型的其他文件|+4||
+|文件包含特别的签名|–4||
 
-Some documents require security or authorization codes, whether authentic ones or additional forgeries. The GM makes the character’s check secretly so the character is not sure how good his or her forgery is.
+一些文件需要安全或授权密码，不管是原件或者是伪造的。GM为角色秘密做此检定，让角色不知道自己伪造得有多好。
 
-The Forgery skill is also used to detect someone else’s forgery. The result of the original Forgery check that created the document is opposed by a Forgery check by the person who examines the document to check its authenticity. If the examiner’s check result is equal to or higher than the original Forgery check, the document is determined to be fraudulent. The examiner gains bonuses or penalties on his or her check as given in the table below.
+伪造文书技能同样用于鉴别他人的伪造。原伪造文书检定结果与检查者的伪造文书检定对抗，以鉴别真伪。如果检查者的检定结果大于等于原伪造文书检定结果，伪造将被识破。检查者根据下表所示，检定受到加值或减值。
 
-|Condition|Examiner’s Check Modifier|
+|情况|检查者检定调整值|
 |---------|:-----------------------:|
-|Type of document unknown to examiner|–4|
-|Type of document somewhat known to examiner|–2|
-|Type of document well known to examiner|+0|
-|Document is put through additional tests\*|+4|
-|Examiner only casually reviews the document\*|–2|
+|检查者不了解文件的类型|–4|
+|检查者略了解文件的类型|–2|
+|检查者很了解文件的类型|+0|
+|文件经过了仔细测试\*|+4|
+|检查者只是随便地看了一遍\*|–2|
 
-\* Cumulative with any of the first three conditions on the table. Apply this modifier along with one of the other three whenever appropriate.
+\* 与前三个情况之一叠加。将此调整值应用到另外三个调整值合适的那一个上。
 
-A document that contradicts procedure, orders, or previous knowledge, or one that requires the examiner to relinquish a possession or a piece of information, can increase the examiner’s suspicion (and thus create favorable circumstances for the examiner’s opposed Forgery check).
+有悖程序、命令、或者先前的认知或是要求检查者交出所有物或信息的文件，会加剧检查者的疑心（这还会给检查者的对抗检定创造有利的情况）。
 
-**Try Again?:** No, since the forger isn’t sure of the quality of the original forgery.
+**重试：** 不行，因为伪造者不知道原来伪造的结果如何。
 
-**Special:** To forge documents and detect for-geries, one must be able to read and write the -language in question. (The skill is language--dependent.)
+**特别：** 角色要伪造文件和鉴别伪造，必须能读写伪造内容对应的语言。（此技能依赖语言。）
 
-A character can take 10 when making a Forgery check, but can’t take 20.
+角色可以在伪造文书检定中取10， 但不能取20。
 
-A character with the Meticulous feat gets a +2 bonus on all Forgery checks.
+有`一丝不苟`专长的角色的伪造文书检定有2点加值。
 
-A character without a forgery kit takes a –4 penalty on Forgery checks.
+无伪造工具的角色的伪造检定将有4点减值。
 
-**Time:** Forging a short, simple document takes about 1 minute. Longer or more complex documents take 1d4 minutes per page or longer.
+**时间：** 伪造简短的文件需要1分钟。更长更复杂的文件每页需要1d4分钟或更长。
 
-## Gamble (Wis)
+## 赌博（感）
 
-**Check:** To join or start a game, a character must first pay a stake. The character sets the purchase DC of the stake if he or she starts the game, or the GM sets it if the character joins a game. Stakes run from penny-ante (purchase DC 4) to astronomical (purchase DC 24). A character cannot take 20 when purchasing a stake.
+**检定：** 要加入或开一局游戏，角色必须首先下赌注。角色要开始游戏，先设置赌注的购买DC，若是加入游戏则是让GM设置赌注。赌注最低购买DC为4，最高可达DC24。角色购买赌注不可取20。
 
-If the stake is within the character’s means (it is equal to or less than his or her Wealth bonus), the character stands no chance of winning any significant amount. The character might come out ahead, but the amount is not enough to affect his or her Wealth bonus. Since paying the stake didn’t cost any points of Wealth bonus, the character doesn’t lose anything either.
+若赌注只是角色的九牛一毛（小于等于角色的财富加值），角色是没有机会赢得任何可观的奖励的。角色即使顺风连赢，也不足以让财富加值有所变化。因为赌注小到财富加值一点都没有花费掉，角色没有任何经济损失。
 
-If the stake is higher than the character’s Wealth bonus (before applying any reductions from purchasing the stake), the character gets a +1 bonus on his or her Gamble check for every point the purchase DC is above the character’s Wealth bonus.
+若赌注高于角色的财富加值（购买赌注之前的值），每超过1点，角色的赌博检定就获得1点加值。
 
-The character’s Gamble check is opposed by the Gamble checks of all other participants in the game. (If playing at a casino, assume the house has a Gamble skill modifier equal to the stake purchase DC. Regardless of the stake purchase DC, the house does not get a bonus on its Gamble check for the purchase DC.) If there are many characters participating, the GM can opt to make a single roll for all of them, using the highest Gamble skill modifier among them and adding a +2 bonus to the check.
+角色的赌博检定将与其他参与者的赌博检定对抗。（如果在赌场中，将假设庄家有等于赌注购买DC的赌博技能调整值。但不管赌注的购买DC为多少，庄家不会因购买DC获得赌博检定加值。）如果有众多角色参与，GM可为他们统一掷一次骰，用他们中最高的赌博技能调整值再加上2点加值用于检定。
 
-If the character beats all other participants, he or she wins and gains an increase to his or her Wealth bonus. The amount of the increase depends on the difference between the character’s check result and the next highest result among the other participants.
+如果角色击败了其他所有参与者，角色将赢得财富，财富调整值增加。增加的数量取决于角色检定结果和亚军检定结果的差。
 
-|Check Result Difference|Wealth Bonus Increase|
+|检定结果差|财富加值增加量|
 |-----------------------|:-------------------:|
 |1–9|+1|
 |10–19|+2|
 |20–29|+3|
 |30-–39|+4|
-|40 or more|+5|
+|40及以上|+5|
 
-**Try Again?:** No, unless the character wants to put up another stake.
+**重试：** 不行，除非角色再买赌注。
 
-**Special:** A character can’t take 10 or take 20 when making a Gamble check.
+**特别：** 角色赌博检定不能取10取20。
 
-A character with the Confident feat gets a +2 bonus on all Gamble checks.
+有`自信`专长的角色的赌博检定有2点加值。
 
-**Time:** A Gamble check requires 1 hour.
+**时间：** 赌博检定需要1小时。

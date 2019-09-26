@@ -829,3 +829,20 @@ Average	一般
 High quality	高质量
 High security	高度安全
 Ultrahigh security	顶级安全
+Child	儿童
+Young adult	青少年
+Adult	青年
+Middle age	中年
+Old	老年
+Venerable	高年
+disguise kit	易容工具
+Driving a Vehicle	驾驶载具
+motor vehicle	机动载具
+restraint	束缚
+Handcuffs	手铐
+Tight space	狭小的空间
+airshaft	通风竖井
+forgery kit	伪造工具
+stake	赌注
+penny-ante	小赌
+astronomical	大赌

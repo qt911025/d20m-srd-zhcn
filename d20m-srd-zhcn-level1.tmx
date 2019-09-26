@@ -630,10 +630,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Disguise (Cha)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T125357Z" creationid="quentine" creationdate="20190925T125357Z">
+        <seg>## 易容（魅）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Doctor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T132850Z" creationid="QuenTine" creationdate="20181104T132850Z">
         <seg>## 医生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Drive (Dex)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T125222Z" creationid="quentine" creationdate="20190926T125222Z">
+        <seg>## 驾驶（敏）</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +698,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T120130Z" creationid="quentine" creationdate="20190114T120130Z">
         <seg>## 装备加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Escape Artist (Dex) Armor Penalty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T131014Z" creationid="quentine" creationdate="20190926T131014Z">
+        <seg>## 脱逃（敏） 护甲减值</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,10 +806,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Forgery (Int)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T134155Z" creationid="quentine" creationdate="20190926T134155Z">
+        <seg>## 伪造文书（智）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## GUNSLINGER</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190227T042218Z" creationid="quentine" creationdate="20190227T042218Z">
         <seg>## 枪手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Gamble (Wis)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T142353Z" creationid="quentine" creationdate="20190926T142353Z">
+        <seg>## 赌博（感）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3966,6 +4006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(If playing at a casino, assume the house has a Gamble skill modifier equal to the stake purchase DC.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T144109Z" creationid="quentine" creationdate="20190926T144109Z">
+        <seg>（如果在赌场中，将假设庄家有等于赌注购买DC的赌博技能调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(If the aura isn’t a spell effect, the DC is 15 + one-half caster level.)|
 |20 + spell level|Identify a spell that’s already in place and in effect.</seg>
       </tuv>
@@ -4100,6 +4148,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(The GM can assume that such observers take 10 on their Spot checks.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T125939Z" creationid="quentine" creationdate="20190925T125939Z">
+        <seg>（GM可以假定观察者在侦察检定中取10。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(The hero still loses his or her Dexterity bonus to Defense if the hero is immobilized.)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T123048Z" creationid="quentine" creationdate="20190117T123048Z">
@@ -4112,6 +4168,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125745Z" creationid="quentine" creationdate="20190216T084716Z">
         <seg>（职业技能级数上限=3+角色等级）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(The skill is language--dependent.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T142136Z" creationid="quentine" creationdate="20190926T142136Z">
+        <seg>（此技能依赖语言。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -5536,10 +5600,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Check:** A character’s Disguise check result determines how good the disguise is.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T125442Z" creationid="quentine" creationdate="20190925T125442Z">
+        <seg>**检定：** 角色的易容检定结果决定了易容效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Check:** Forgery requires ma-terials appropriate to the document being forged, and some time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T134448Z" creationid="quentine" creationdate="20190926T134448Z">
+        <seg>**检定：** 伪造文书需要伪造的原件相应的材料，还需要时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Check:** Make a check to escape from restraints or to squeeze through a tight space.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T131423Z" creationid="quentine" creationdate="20190926T131209Z">
+        <seg>**检定：** 进行检定以从束缚中脱离或者挤进狭小的空间中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Check:** Most normal computer operations don’t require a Computer Use check (though a character might have to make a Research check; see the Research skill description).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190916T131424Z" creationid="quentine" creationdate="20190916T131424Z">
         <seg>**检定：** 大多数计算机操作并不需要检定此技能（但角色可能要做一个研究检定，详见`研究`技能检定的描述）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Check:** Routine tasks, such as ordinary driving, don’t require a skill check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T125403Z" creationid="quentine" creationdate="20190926T125403Z">
+        <seg>**检定：** 常规的任务，比如一般的驾驶，是不需要技能检定的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5572,6 +5668,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T120854Z" creationid="quentine" creationdate="20190807T120854Z">
         <seg>**检定：** 角色可以在不稳定的表面行走。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Check:** To join or start a game, a character must first pay a stake.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T142547Z" creationid="quentine" creationdate="20190926T142547Z">
+        <seg>**检定：** 要加入或开一局游戏，角色必须首先下赌注。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7553,6 +7657,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Special:** A character can take 10 on an Escape Artist check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T133111Z" creationid="quentine" creationdate="20190926T133019Z">
+        <seg>**特别：** 角色可以在脱逃检定中取10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character can take 10 or take 20 when establishing a disguise.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T131956Z" creationid="quentine" creationdate="20190925T131956Z">
+        <seg>**特别：** 角色着手化妆易容可以取10取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character can take 10 when driving, but can’t take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T130236Z" creationid="quentine" creationdate="20190926T130236Z">
+        <seg>**特别：** 角色可以在驾驶中取10， 但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Special:** A character can take 10 when making a Balance check, but can’t take 20.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T132810Z" creationid="quentine" creationdate="20190807T124003Z">
@@ -7613,6 +7741,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T131250Z" creationid="quentine" creationdate="20190917T131250Z">
         <seg>**特别：** 角色可以在使用会引发借机攻击的技能时进行专注检定来避免引发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character can’t take 10 or take 20 when making a Gamble check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T145032Z" creationid="quentine" creationdate="20190926T145032Z">
+        <seg>**特别：** 角色赌博检定不能取10取20。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7857,6 +7993,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Special:** To forge documents and detect for-geries, one must be able to read and write the -language in question.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T142019Z" creationid="quentine" creationdate="20190926T142019Z">
+        <seg>**特别：** 角色要伪造文件和鉴别伪造，必须能读写伪造内容对应的语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Special:** You can take 10 on Autohypnosis checks, but you can’t take 20.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190619T131126Z" creationid="quentine" creationdate="20190619T131126Z">
@@ -7929,6 +8073,30 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Time:** A Disguise check requires 1d4 x10 minutes of preparation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T132244Z" creationid="quentine" creationdate="20190925T132244Z">
+        <seg>**时间：** 一次易容检定需要1d4×10分钟的准备时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** A Drive check is a move action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T130954Z" creationid="quentine" creationdate="20190926T130954Z">
+        <seg>**时间：** 驾驶检定是一个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** A Gamble check requires 1 hour.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T145110Z" creationid="quentine" creationdate="20190926T145110Z">
+        <seg>**时间：** 赌博检定需要1小时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Time:** A bluff takes at least 1 round (and is at least a full-round action) but can take much longer if the character tries something elaborate.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T140604Z" creationid="quentine" creationdate="20190808T140604Z">
@@ -7985,6 +8153,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Time:** Forging a short, simple document takes about 1 minute.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T142320Z" creationid="quentine" creationdate="20190926T142320Z">
+        <seg>**时间：** 伪造简短的文件需要1分钟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Time:** How much time it takes to make a check with this skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T120729Z" creationid="quentine" creationdate="20190807T120729Z">
@@ -7997,6 +8173,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T132157Z" creationid="quentine" creationdate="20190917T132157Z">
         <seg>**时间：** 进行专注检定不需要动作，而是一个`反应`（对分心的反应）或是另一个动作的一部分（当在进行动作时使用专注检定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** Making a check to escape from being bound by ropes, handcuffs, or other restraints (except a grappler) requires 1 minute.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T134057Z" creationid="quentine" creationdate="20190926T133929Z">
+        <seg>**时间：** 从绳索捆绑、手铐、或其他束缚（除了擒抱）中脱逃，检定需要1分钟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8073,6 +8257,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Try Again?:** A character can make another check after a failed check if the character is squeezing through a tight space, making multiple checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T132718Z" creationid="quentine" creationdate="20190926T132718Z">
+        <seg>**重试：** 角色若在挤进狭小空间中检定失败，可以再做一次检定，可重复多次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Try Again?:** Any conditions that apply to repeated attempts to use the skill for a particular purpose.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T115957Z" creationid="quentine" creationdate="20190807T115957Z">
@@ -8105,10 +8297,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Try Again?:** Most driving checks have consequences for failure that make trying again impossible.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T130212Z" creationid="quentine" creationdate="20190926T130212Z">
+        <seg>**重试：** 大多数驾驶检定都有失败的后果，不可能重试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Try Again?:** No, since the forger isn’t sure of the quality of the original forgery.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T141849Z" creationid="quentine" creationdate="20190926T141849Z">
+        <seg>**重试：** 不行，因为伪造者不知道原来伪造的结果如何。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Try Again?:** No, though the character can assume the same disguise again at a later time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T131705Z" creationid="quentine" creationdate="20190925T131705Z">
+        <seg>**重试：** 不行，因为角色即使重试也是用同一副面容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Try Again?:** No, unless conditions change or new information is uncovered.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T131920Z" creationid="quentine" creationdate="20190923T131920Z">
         <seg>**重试：** 不行，除非情况有变或者发现了新线索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Try Again?:** No, unless the character wants to put up another stake.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T145005Z" creationid="quentine" creationdate="20190926T145005Z">
+        <seg>**重试：** 不行，除非角色再买赌注。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9231,6 +9455,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character can help someone else create a disguise for him or her, treating it as an aid another attempt.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T132135Z" creationid="quentine" creationdate="20190925T132135Z">
+        <seg>角色可以为其他人易容，视为`协助他人`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character can make a Fortitude saving throw to reduce the damage by half.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T143825Z" creationid="quentine" creationdate="20190115T143825Z">
@@ -9243,6 +9475,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T135600Z" creationid="quentine" creationdate="20190115T135600Z">
         <seg>在反射检定结算伤害时，如果高度低于10尺，角色可以对掉落进行翻滚检定（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can make an Escape Artist check opposed by his or her opponent’s grapple check to get out of a grapple or out of a pinned condition (so that the character is just being grappled).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T132452Z" creationid="quentine" creationdate="20190926T132452Z">
+        <seg>角色可以用脱逃与对手的擒抱做对抗检定，以从被擒抱或压制状态中脱身（从压制中脱逃只会转为被擒抱状态）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9295,10 +9535,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character can take 10 when making a Forgery check, but can’t take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T142153Z" creationid="quentine" creationdate="20190926T142153Z">
+        <seg>角色可以在伪造文书检定中取10， 但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character can take 10 while climbing, but can’t take 20.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T143512Z" creationid="quentine" creationdate="20190808T143512Z">
         <seg>角色攀爬可取10，但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can take 20 if he or she is not being actively opposed (a character can take 20 if he or she is tied up, even though it’s an opposed check, because the opponent isn’t actively opposing the character).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T134402Z" creationid="quentine" creationdate="20190926T133137Z">
+        <seg>角色的脱逃只要不是正面对抗，则可取20（角色可在被绑起来的时候取20，虽然这是与捆绑者进行对抗检定，但捆绑者并不是与角色正面对抗）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9347,6 +9603,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T081902Z" creationid="quentine" creationdate="20190112T073115Z">
         <seg>角色不能合法地出售管制物品，除非角色有合法持有它的执照。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character cannot take 20 when purchasing a stake.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T143050Z" creationid="quentine" creationdate="20190926T143050Z">
+        <seg>角色购买赌注不可取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can’t fit through a space that his or her head doesn’t fit through.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T132214Z" creationid="quentine" creationdate="20190926T132214Z">
+        <seg>角色不能进入比头还小的空间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9623,10 +9895,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character with the Confident feat gets a +2 bonus on all Gamble checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T145056Z" creationid="quentine" creationdate="20190926T145056Z">
+        <seg>有`自信`专长的角色的赌博检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character with the Deceptive feat gets a +2 bonus on all Bluff checks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T140441Z" creationid="quentine" creationdate="20190808T140441Z">
         <seg>有欺诈专长的角色的唬骗检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Deceptive feat gets a +2 bonus on all Disguise checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T132036Z" creationid="quentine" creationdate="20190925T132036Z">
+        <seg>有欺诈专长的角色的易容检定有2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9663,6 +9951,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character with the Meticulous feat gets a +2 bonus on all Forgery checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T142217Z" creationid="quentine" creationdate="20190926T142217Z">
+        <seg>有`一丝不苟`专长的角色的伪造文书检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Nimble feat gets a +2 bonus on all Escape Artist checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T133806Z" creationid="quentine" creationdate="20190926T133806Z">
+        <seg>有`灵巧`专长的角色脱逃检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character with the Studious feat gets a +2 bonus on all Decipher Script checks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T132005Z" creationid="quentine" creationdate="20190923T132005Z">
@@ -9679,6 +9983,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character with the Vehicle Expert feat gets a +2 bonus on all Drive checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T130257Z" creationid="quentine" creationdate="20190926T130257Z">
+        <seg>有`载具专家`专长的角色驾驶检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character with this feat may throw weapons at his or her full normal rate of attacks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190803T141255Z" creationid="quentine" creationdate="20190803T141255Z">
@@ -9691,6 +10003,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134645Z" creationid="quentine" creationdate="20190923T134645Z">
         <seg>无爆破工具的角色的爆破检定将有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character without a disguise kit takes a –4 penalty on Disguise checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T132024Z" creationid="quentine" creationdate="20190925T132024Z">
+        <seg>无易容工具的角色的易容检定将有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character without a forgery kit takes a –4 penalty on Forgery checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T142249Z" creationid="quentine" creationdate="20190926T142249Z">
+        <seg>无伪造工具的角色的伪造检定将有4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9851,6 +10179,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T132951Z" creationid="QuenTine" creationdate="20181104T132951Z">
         <seg>医生包括内科医生（全科医生或专科医生）、外科医生和心理治疗师。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A document that contradicts procedure, orders, or previous knowledge, or one that requires the examiner to relinquish a possession or a piece of information, can increase the examiner’s suspicion (and thus create favorable circumstances for the examiner’s opposed Forgery check).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T141805Z" creationid="quentine" creationdate="20190926T141805Z">
+        <seg>有悖程序、命令、或者先前的认知或是要求检查者交出所有物或信息的文件，会加剧检查者的疑心（这还会给检查者的对抗检定创造有利的情况）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11853,6 +12189,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T132616Z" creationid="quentine" creationdate="20190114T132616Z">
         <seg>计算意志豁免骰需要加上角色的感知调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Apply this modifier along with one of the other three whenever appropriate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T141031Z" creationid="quentine" creationdate="20190926T140920Z">
+        <seg>将此调整值应用到另外三个调整值合适的那一个上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14006,6 +14350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Doing so is an attack action, so if the character escapes the grapple he or she can move in the same round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T132603Z" creationid="quentine" creationdate="20190926T132603Z">
+        <seg>这种脱逃是一个攻击动作，所以如果角色从擒抱中脱逃，则还可以在同一轮中再移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Doing so requires 10 minutes and an electrical tool kit, and increases the DC of the check by +10.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T113821Z" creationid="quentine" creationdate="20190925T113821Z">
@@ -14266,6 +14618,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T120026Z" creationid="quentine" creationdate="20190807T114145Z">
         <seg>技能中无效的项将省略。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Escaping a net is a full-round action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T133950Z" creationid="quentine" creationdate="20190926T133950Z">
+        <seg>从网中脱逃是一个整轮动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14614,6 +14974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For a tight space, a check is only called for if the character’s head fits but his or her shoulders don’t.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T132019Z" creationid="quentine" creationdate="20190926T132019Z">
+        <seg>对于狭窄的空间，只有在空间可容纳角色的头而不能容纳肩膀时需要做检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For a written language, the bonus applies to a Decipher Script check instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T135858Z" creationid="quentine" creationdate="20190201T135858Z">
@@ -14694,6 +15062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For ropes, a character’s Escape Artist check is opposed by the Dexterity check result of the opponent who tied the bonds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T131732Z" creationid="quentine" creationdate="20190926T131732Z">
+        <seg>对于绳索而言，角色的脱逃检定与捆绑者的敏捷检定结果对抗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For skilled experts, the purchase DC is 10 + the ranks the expert has in the appropriate skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125745Z" creationid="quentine" creationdate="20190526T084441Z">
@@ -14762,6 +15138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T120546Z" creationid="quentine" creationdate="20190115T120546Z">
         <seg>此外，目盲的角色的敏捷有效值是3，使用基于力量和敏捷的技能检定有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Furthermore, they get a bonus on their Spot checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T130810Z" creationid="quentine" creationdate="20190925T130810Z">
+        <seg>而且，侦察检定会有加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15326,6 +15710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If others saw through the previous disguise, they are automatically treated as suspicious if the character assumes the same disguise again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T131848Z" creationid="quentine" creationdate="20190925T131848Z">
+        <seg>如果其他角色看穿了前一个易容，而角色仍以这副面容出现，将自动引起怀疑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If successful, the Investigator combines eyewitness accounts with forensic evidence to develop a profile of the suspect’s method of operation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190526T080346Z" creationid="quentine" creationdate="20190526T080346Z">
@@ -15558,6 +15950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character beats all other participants, he or she wins and gains an increase to his or her Wealth bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T144751Z" creationid="quentine" creationdate="20190926T144751Z">
+        <seg>如果角色击败了其他所有参与者，角色将赢得财富，财富调整值增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character beats the DC by 10 or more when attempting to defeat computer security, the character automatically succeeds at all subsequent security checks at that site until the end of the character’s session (see Computer Hacking below).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190916T142327Z" creationid="quentine" creationdate="20190916T135333Z">
@@ -15590,6 +15990,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character casually meets many different people, each for a short time, the GM checks once per day or hour, using an average Spot modifier for the group (assuming they take 10).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T131507Z" creationid="quentine" creationdate="20190925T131507Z">
+        <seg>如果角色临时会见很多人，每个人都只会见很短的时间，GM只需要每天或每小时检定一次，应用这群人的平均侦察调整值（假设他们取10）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character comes to the attention of people who are suspicious, the suspicious person gets to make a Spot check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T125848Z" creationid="quentine" creationdate="20190925T125848Z">
+        <seg>如果角色引起某人怀疑并注意，怀疑者进行侦察检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character does not have the appropriate tools, he or she takes a –4 penalty on your check.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T120751Z" creationid="quentine" creationdate="20190925T120751Z">
@@ -15602,6 +16018,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T135950Z" creationid="quentine" creationdate="20190114T135950Z">
         <seg>结果取数次投骰结果的最高值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character doesn’t draw any attention to him or herself, however, others don’t get to make Spot checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T125755Z" creationid="quentine" creationdate="20190925T125755Z">
+        <seg>如果角色并没有引起任何注意，其他人不需要做侦察检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15714,6 +16138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190802T131758Z" creationid="quentine" creationdate="20190802T131758Z">
         <seg>若角色有`闻名`专长，意志豁免的DC将提高5点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character is impersonating a particular individual, those who know what that person looks like automatically get to make Spot checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T130741Z" creationid="quentine" creationdate="20190925T130741Z">
+        <seg>若角色扮演特定人物，认识这个人物的人会自动进行侦察检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16078,6 +16510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the examiner’s check result is equal to or higher than the original Forgery check, the document is determined to be fraudulent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T140303Z" creationid="quentine" creationdate="20190926T140303Z">
+        <seg>如果检查者的检定结果大于等于原伪造文书检定结果，伪造将被识破。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the expenditure of these XP would drop the Techie to below the minimum needed for his or her current level, then the XP can’t be paid and the Techie can’t use the mastercraft ability until he or she gains enough additional XP to remain at his or her current level after the expenditure is made.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190523T140728Z" creationid="quentine" creationdate="20190523T135146Z">
@@ -16270,6 +16710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the situation permits, the character can make additional checks as long as he or she is not being actively opposed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T134226Z" creationid="quentine" creationdate="20190926T132940Z">
+        <seg>如果情况允许，只要角色的脱逃不是在与对手正面对抗，则可重试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the skill selected is already a class skill for the character, he or she also gains a one-time competence bonus for that skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T100344Z" creationid="QuenTine" creationdate="20181104T091246Z">
@@ -16278,10 +16726,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the space is long, such as in an airshaft, the GM may call for multiple checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T132140Z" creationid="quentine" creationdate="20190926T132140Z">
+        <seg>如果空间狭长，比如在通风竖井内，GM要做多次检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the spell has a duration other than instantaneous, the spell stops affecting the familiar if the creature moves farther than 5 feet away.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190623T131515Z" creationid="quentine" creationdate="20190623T131515Z">
         <seg>如果法术是持续的而非瞬时的，当魔宠处于5尺以外时，作用在魔宠上的法术将失效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the stake is higher than the character’s Wealth bonus (before applying any reductions from purchasing the stake), the character gets a +1 bonus on his or her Gamble check for every point the purchase DC is above the character’s Wealth bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T143851Z" creationid="quentine" creationdate="20190926T143851Z">
+        <seg>若赌注高于角色的财富加值（购买赌注之前的值），每超过1点，角色的赌博检定就获得1点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the stake is within the character’s means (it is equal to or less than his or her Wealth bonus), the character stands no chance of winning any significant amount.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T143243Z" creationid="quentine" creationdate="20190926T143243Z">
+        <seg>若赌注只是角色的九牛一毛（小于等于角色的财富加值），角色是没有机会赢得任何可观的奖励的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17110,6 +17582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is opposed by others’ Spot check results.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T125514Z" creationid="quentine" creationdate="20190925T125514Z">
+        <seg>检定是与其他人的侦察检定对抗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is possible for a creature to have a score of "none".</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T131721Z" creationid="QuenTine" creationdate="20181103T131642Z">
@@ -17366,6 +17846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Longer or more complex documents take 1d4 minutes per page or longer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T142345Z" creationid="quentine" creationdate="20190926T142345Z">
+        <seg>更长更复杂的文件每页需要1d4分钟或更长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Magic is too unpredictable to make the use of this skill reliable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190612T142737Z" creationid="quentine" creationdate="20190612T142502Z">
@@ -17402,6 +17890,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T132743Z" creationid="quentine" creationdate="20190918T132743Z">
         <seg>然后进行一次财富检定对抗购置所需原材料的购买DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make a check only when some unusual circumstance exists (such as inclement weather or an icy surface), or when the character is driving during a dramatic situation (the character is being chased or attacked, for example, or is trying to reach a destination in a limited amount of time).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T125728Z" creationid="quentine" creationdate="20190926T125728Z">
+        <seg>只有在不寻常的状况下（比如恶劣的天气或者结冰的表面），或者当角色在一个戏剧化的情节下（比如角色正被追逐或攻击或者在有限的时间内到达地点）驾驶才需要检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Make one Disguise check even if several people make Spot checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T125551Z" creationid="quentine" creationdate="20190925T125551Z">
+        <seg>即使有好几个人做了侦察检定，也只需要做一次易容来应对。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18082,6 +18586,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Other types of motor vehicles (heavy wheeled, powerboat, sailboat, ship, and tracked) require the corresponding Surface Vehicle Operation feat, or the character takes a –4 penalty on Drive checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T130936Z" creationid="quentine" creationdate="20190926T130936Z">
+        <seg>其他类型的机动载具（重型轮式载具、汽艇、帆船、舰、以及履带式载具）需要相应的`地表载具操作`专长，否则角色在驾驶检定中有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Otherwise, a target remains won over for 1 minute per Personality level.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190526T114412Z" creationid="quentine" creationdate="20190526T114412Z">
@@ -18512,6 +19024,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Regardless of the stake purchase DC, the house does not get a bonus on its Gamble check for the purchase DC.) If there are many characters participating, the GM can opt to make a single roll for all of them, using the highest Gamble skill modifier among them and adding a +2 bonus to the check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T144656Z" creationid="quentine" creationdate="20190926T144656Z">
+        <seg>但不管赌注的购买DC为多少，庄家不会因购买DC获得赌博检定加值。）如果有众多角色参与，GM可为他们统一掷一次骰，用他们中最高的赌博技能调整值再加上2点加值用于检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reloading a revolver without a speed loader, or reloading any firearm with an internal magazine, is a full-round action.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190803T142252Z" creationid="quentine" creationdate="20190803T142252Z">
@@ -18628,6 +19148,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190624T142132Z" creationid="quentine" creationdate="20190624T142132Z">
         <seg>有关文身的更多内容见第十章：超自然能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See Driving a Vehicle for more details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T130106Z" creationid="quentine" creationdate="20190926T125915Z">
+        <seg>详见`驾驶载具`一节。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18816,6 +19344,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Since it’s easier to tie someone up than to escape from being tied up, the opponent gets a +20 bonus on his or her Dexterity check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T131821Z" creationid="quentine" creationdate="20190926T131821Z">
+        <seg>因为捆绑总是比脱逃更容易，捆绑者的敏捷检定会获得20点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Since paying the stake didn’t cost any points of Wealth bonus, the character doesn’t lose anything either.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T143603Z" creationid="quentine" creationdate="20190926T143603Z">
+        <seg>因为赌注小到财富加值一点都没有花费掉，角色没有任何经济损失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since the character can’t move to avoid an attack, he or she is flat-footed while climbing (the character loses any Dexterity bonus to Defense).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T141809Z" creationid="quentine" creationdate="20190808T141809Z">
@@ -18924,6 +19468,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125745Z" creationid="quentine" creationdate="20190221T134327Z">
         <seg>基础攻击加值、专长和技能级数的要求一起决定了角色是否能提升这个高级职业的等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some documents require security or authorization codes, whether authentic ones or additional forgeries.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T135928Z" creationid="quentine" creationdate="20190926T135928Z">
+        <seg>一些文件需要安全或授权密码，不管是原件或者是伪造的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19116,6 +19668,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190624T143045Z" creationid="quentine" creationdate="20190624T143045Z">
         <seg>不含随机数值的法术也用不上极效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Squeezing through a tight space takes at least 1 minute, maybe longer, depending on the distance that must be crossed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T134053Z" creationid="quentine" creationdate="20190926T134053Z">
+        <seg>挤进狭小空间需要至少1分钟，可能更长，这取决于必须穿过的距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stakes run from penny-ante (purchase DC 4) to astronomical (purchase DC 24).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T143038Z" creationid="quentine" creationdate="20190926T143038Z">
+        <seg>赌注最低购买DC为4，最高可达DC24。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20080,6 +20648,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The Forgery skill is also used to detect someone else’s forgery.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T140052Z" creationid="quentine" creationdate="20190926T140038Z">
+        <seg>伪造文书技能同样用于鉴别他人的伪造。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The GM assigns a DC, or sets up an opposed check when two characters are engaged in a contest using one ability against another.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T135833Z" creationid="quentine" creationdate="20190806T135833Z">
@@ -20140,6 +20716,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T134809Z" creationid="quentine" creationdate="20190806T134809Z">
         <seg>GM酌情限制协助者的人数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM makes Spot checks for those who encounter the character immediately upon meeting the character and again each hour or day thereafter, depending on circumstances.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T132554Z" creationid="quentine" creationdate="20190925T132554Z">
+        <seg>GM为一见就立即侦察和此后每小时或每天都侦察易容者的角色做侦察检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM makes the character’s Disguise check secretly so that the character is not sure how well his or her disguise holds up to scrutiny.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T125724Z" creationid="quentine" creationdate="20190925T125724Z">
+        <seg>由GM进行秘密检定，角色不知道自己的易容经不经得住细看。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM makes the character’s check secretly so the character is not sure how good his or her forgery is.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T140008Z" creationid="quentine" creationdate="20190926T140008Z">
+        <seg>GM为角色秘密做此检定，让角色不知道自己伪造得有多好。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20976,6 +21576,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The amount of the increase depends on the difference between the character’s check result and the next highest result among the other participants.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T144848Z" creationid="quentine" creationdate="20190926T144848Z">
+        <seg>增加的数量取决于角色检定结果和亚军检定结果的差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The associations between basic classes and advanced classes are summarized on the following table.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T120301Z" creationid="quentine" creationdate="20190216T120301Z">
@@ -21552,6 +22160,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character might come out ahead, but the amount is not enough to affect his or her Wealth bonus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T143417Z" creationid="quentine" creationdate="20190926T143417Z">
+        <seg>角色即使顺风连赢，也不足以让财富加值有所变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character moves at half his or her normal speed (or at the character’s normal speed with a –5 penalty on the check, or at up to twice the character’s speed with a –20 penalty on the check).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190804T135733Z" creationid="quentine" creationdate="20190804T135733Z">
@@ -21612,6 +22228,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T135038Z" creationid="quentine" creationdate="20190730T135038Z">
         <seg>角色的攻击骰获得4点减值而伤害骰获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character sets the purchase DC of the stake if he or she starts the game, or the GM sets it if the character joins a game.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T142725Z" creationid="quentine" creationdate="20190926T142725Z">
+        <seg>角色要开始游戏，先设置赌注的购买DC，若是加入游戏则是让GM设置赌注。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21692,6 +22316,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120109Z" creationid="quentine" creationdate="20190116T120109Z">
         <seg>与角色的敏捷调整值和装备加值共同作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character’s Gamble check is opposed by the Gamble checks of all other participants in the game.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T143916Z" creationid="quentine" creationdate="20190926T143916Z">
+        <seg>角色的赌博检定将与其他参与者的赌博检定对抗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21780,6 +22412,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190624T133143Z" creationid="quentine" creationdate="20190624T133143Z">
         <seg>它们之间的交流受对象生物智力的限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The complexity of the document, the character’s degree of familiarity with it, and whether the character needs to reproduce the signature or handwriting of a specific individual, provide modifiers to the Forgery check, as shown below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T134729Z" creationid="quentine" creationdate="20190926T134729Z">
+        <seg>文件的复杂程度、角色对它的熟悉度、以及角色是否需要伪造某人的笔迹，都会提供调整值，如下表所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21912,6 +22552,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The effectiveness of the character’s disguise depends in part on how much the character is attempting to change his or her appearance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T130027Z" creationid="quentine" creationdate="20190925T130027Z">
+        <seg>角色的易容效果部分取决于角色试图改变多少样貌。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The effects of each aging step are cumulative.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T094801Z" creationid="quentine" creationdate="20190216T094801Z">
@@ -21948,6 +22596,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T114309Z" creationid="quentine" creationdate="20190703T113820Z">
         <seg>邪恶侍僧进行`驱散伤害检定`以决定能为总共多少HD的生物解除驱散。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The examiner gains bonuses or penalties on his or her check as given in the table below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T140342Z" creationid="quentine" creationdate="20190926T140342Z">
+        <seg>检查者根据下表所示，检定受到加值或减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22736,6 +23392,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result of the original Forgery check that created the document is opposed by a Forgery check by the person who examines the document to check its authenticity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T140217Z" creationid="quentine" creationdate="20190926T140217Z">
+        <seg>原伪造文书检定结果与检查者的伪造文书检定对抗，以鉴别真伪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result of this roll indicates whether the machine re-quires repairs before it can be used again.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190522T141114Z" creationid="quentine" creationdate="20190522T141114Z">
@@ -23149,6 +23813,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T135616Z" creationid="QuenTine" creationdate="20181104T135616Z">
         <seg>大量职业都符合该职业背景，包括记者、摄影记者、私家侦探、警探、犯罪学家、罪犯绘图师、特工以及具备搜集分析信息的职业都属于这类人群。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is no penalty for operating a general-purpose motor vehicle.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T130710Z" creationid="quentine" creationdate="20190926T130710Z">
+        <seg>操作通用的机动载具无减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24398,6 +25070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To forge a document the character needs to have seen a similar document before.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T134530Z" creationid="quentine" creationdate="20190926T134530Z">
+        <seg>角色伪造文件需要此前见过类似的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To get a general sense of how financially solvent a character is at any given time, check the table below.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T133934Z" creationid="QuenTine" creationdate="20181106T133934Z">
@@ -24942,6 +25622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Usually, an individual makes a Spot check to detect a disguise immediately upon meeting the character and each hour thereafter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T131147Z" creationid="quentine" creationdate="20190925T131147Z">
+        <seg>通常，这些人会在一见到角色就会做检定，此后每小时都会做一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Wealth checks are used to determine what characters can afford and what gear they might reasonably have access to.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134208Z" creationid="QuenTine" creationdate="20181106T134208Z">
@@ -25226,6 +25914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T113715Z" creationid="quentine" creationdate="20190925T113715Z">
         <seg>当解除被监控的设备时，角色可以防止自己的解除行为被注意到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When driving, the character can attempt simple maneuvers or stunts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T125851Z" creationid="quentine" creationdate="20190926T125851Z">
+        <seg>驾驶时，角色可做出简单的机动或者特技。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25868,10 +26564,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>\* Cumulative with any of the first three conditions on the table.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T140925Z" creationid="quentine" creationdate="20190926T140842Z">
+        <seg>\* 与前三个情况之一叠加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>\* For a group of mixed sizes, apply only the modifier for the largest size category represented.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190804T142233Z" creationid="quentine" creationdate="20190804T142208Z">
         <seg>\* 若生物群体的体型不一，只以最大体型生物的调整值为准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\* Per step of difference between the character’s age category and the disguised age category (child, young adult, adult, middle age, old, or venerable).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T130611Z" creationid="quentine" creationdate="20190925T130410Z">
+        <seg>\* 每跨一个年龄段就-2（儿童、青少年、青年、中年、老年、高年）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26330,6 +27042,26 @@
 |9th–12th|3|
 |13th–16th|4|
 |17th–20th|5|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Check Result Difference|Wealth Bonus Increase|
+|-----------------------|:-------------------:|
+|1–9|+1|
+|10–19|+2|
+|20–29|+3|
+|30-–39|+4|
+|40 or more|+5|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T144940Z" creationid="quentine" creationdate="20190926T144940Z">
+        <seg>|检定结果差|财富加值增加量|
+|-----------------------|:-------------------:|
+|1–9|+1|
+|10–19|+2|
+|20–29|+3|
+|30-–39|+4|
+|40及以上|+5|</seg>
       </tuv>
     </tu>
     <tu>
@@ -27182,6 +27914,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Condition|Examiner’s Check Modifier|
+|---------|:-----------------------:|
+|Type of document unknown to examiner|–4|
+|Type of document somewhat known to examiner|–2|
+|Type of document well known to examiner|+0|
+|Document is put through additional tests\*|+4|
+|Examiner only casually reviews the document\*|–2|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T140819Z" creationid="quentine" creationdate="20190926T140819Z">
+        <seg>|情况|检查者检定调整值|
+|---------|:-----------------------:|
+|检查者不了解文件的类型|–4|
+|检查者略了解文件的类型|–2|
+|检查者很了解文件的类型|+0|
+|文件经过了仔细测试\*|+4|
+|检查者只是随便地看了一遍\*|–2|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Creature/Object|Rating|
 |---------------|------|
 |Outsider|HD|
@@ -27330,6 +28082,24 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Disguise|Modifier|
+|--------|:------:|
+|Minor details only|+5|
+|Appropriate uniform or costume|+2|
+|Disguised as different sex|–2|
+|Disguised as different age category|–2\*|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T130247Z" creationid="quentine" creationdate="20190925T130247Z">
+        <seg>|易容|调整值|
+|--------|:------:|
+|只改变少量细节|+5|
+|合适的制服或装束|+2|
+|易容成另一性别|–2|
+|易容成不同年龄段|–2\*|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Distraction|DC|
 |-----------|--|
 |Damaged during the action\*|10 + damage dealt|
@@ -27388,6 +28158,58 @@
         <seg>|示例情景|察言观色调整值|
 |---------------------|:-------------------:|
 |目标希望相信角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Factor|Check Modifier|Time|
+|------|:------------:|----|
+|Document Type|||
+|Simple (typed letter, business card)|+0|10 min|
+|Moderate (letterhead, business form)|–2|20 min|
+|Complex (stock certificate, driver’s license)|–4|1 hr.|
+|Difficult (passport)|–8|4 hr.|
+|Extreme (military/law enforcement ID)|–16|24 hr.|
+|Familiarity|||
+|Unfamiliar (seen once for less than a minute)|–4||
+|Fairly familiar (seen for several minutes)|+0||
+|Quite familiar (on hand, or studied at leisure)|+4||
+|Forger has produced other documents of same type|+4||
+|Document includes specific signature|–4||</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T135800Z" creationid="quentine" creationdate="20190926T134800Z">
+        <seg>|因素|检定调整值|时间|
+|------|:------------:|----|
+|文件类型|||
+|简单（打印的信件、公务名片）|+0|10 分钟|
+|中等（信头、公务表格）|–2|20 分钟|
+|复杂（股票凭证、驾照）|–4|1 小时|
+|困难（护照）|–8|4 小时|
+|极难（军人/执法人员证件）|–16|24小时|
+|熟悉度|||
+|不熟悉（只见过一次且少于一分钟）|–4||
+|比较熟悉（见过几分钟）|+0||
+|很熟悉（在手上端详过、或业余时间研究过）|+4||
+|伪造者此前伪造过同类型的其他文件|+4||
+|文件包含特别的签名|–4||</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Familiarity|Bonus|
+|-----------|:---:|
+|Recognizes on sight|+4|
+|Friend or associate|+6|
+|Close friend|+8|
+|Intimate|+10|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T130939Z" creationid="quentine" creationdate="20190925T130939Z">
+        <seg>|熟悉度|加值|
+|-----------|:---:|
+|一见就认出|+4|
+|朋友或合作伙伴|+6|
+|亲密的朋友|+8|
+|至交|+10|</seg>
       </tuv>
     </tu>
     <tu>
@@ -27762,6 +28584,26 @@
 |2–4|中等|
 |5–10|强烈|
 |11或更高|凌厉|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Restraint|DC|
+|-------|:--:|
+|Ropes|Opponent’s Dex check +20|
+|Net|20|
+|Handcuffs|35|
+|Tight space|30|
+|Grappler|Opponent’s grapple check|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T131638Z" creationid="quentine" creationdate="20190926T131216Z">
+        <seg>|束缚|DC|
+|-------|:--:|
+|绳索|捆绑者的敏捷检定结果 +20|
+|网|20|
+|手铐|35|
+|Tight space|30|
+|擒抱者|擒抱者的擒抱检定结果|</seg>
       </tuv>
     </tu>
     <tu>
