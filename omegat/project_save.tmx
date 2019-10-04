@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg># SKILLS II</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T124317Z" creationid="quentine" creationdate="20190927T124317Z">
+        <seg># 技能 II</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg># STARTING OCCUPATION</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T084106Z" creationid="QuenTine" creationdate="20181104T084106Z">
@@ -846,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Gather Information (Cha)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T124332Z" creationid="quentine" creationdate="20190927T124332Z">
+        <seg>## 收集信息（魅）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Getting Skills</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T125226Z" creationid="quentine" creationdate="20190805T125226Z">
@@ -858,6 +874,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T124636Z" creationid="quentine" creationdate="20190115T122851Z">
         <seg>## 擒抱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Handle Animal (Cha) Trained Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T131444Z" creationid="quentine" creationdate="20190927T131444Z">
+        <seg>## 驯养动物（魅） 需受训</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,6 +906,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T123519Z" creationid="quentine" creationdate="20190703T123519Z">
         <seg>## 英雄GM角色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Hide (Dex) Armor Penalty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T133826Z" creationid="quentine" creationdate="20191004T133826Z">
+        <seg>## 躲藏（敏） 护甲减值</seg>
       </tuv>
     </tu>
     <tu>
@@ -4032,6 +4064,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(As a general guideline, the hiding place has to be within 1 foot for every rank the character has in Hide.) This check, however, is at a –10 penalty because the character has to move fast.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T140111Z" creationid="quentine" creationdate="20191004T140111Z">
+        <seg>（通常这么规定，躲藏的位置必须在半径为n尺的范围内，n等于角色躲藏等级。）但这个检定会有10点减值，因为角色必须快速移动到躲藏的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(At 4th level, the enhancement bonus is +2.) This bonus allows the weapon to deal extra damage and to hurt creatures with damage reduction.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T140317Z" creationid="quentine" creationdate="20190611T140027Z">
@@ -4162,6 +4202,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T124915Z" creationid="quentine" creationdate="20190202T120119Z">
         <seg>（有的角色对异性而不是同性同伴有魅力）加值等于角色的魅力等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(Spending more than 3 hours per day does not reduce the number of days required.) The character cannot spread the days out; if the character does not complete the training during a period of consecutive days, the effort is wasted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T142904Z" creationid="quentine" creationdate="20190930T142904Z">
+        <seg>（每天训练超过3小时也不会减少训练所需天数。）训练的日期不能分开，如果训练的日期不能连贯，就前功尽弃了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4733,6 +4781,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T115556Z" creationid="quentine" creationdate="20190807T115556Z">
         <seg>**护甲减值：** 如果“护甲减值”出现在技能名旁边，技能检定要受到护甲的护甲减值影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Attack (DC 20):** The animal attacks apparent enemies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T135005Z" creationid="quentine" creationdate="20190927T135005Z">
+        <seg>**攻击（DC20）：** 动物攻击可见敌人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5650,6 +5706,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Check:** A character’s Hide check is opposed by the Spot check of anyone who might see the character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T134015Z" creationid="quentine" creationdate="20191004T134015Z">
+        <seg>**检定：** 角色用躲藏检定与任何可能看得到角色的人的侦察检定对抗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Check:** By succeeding at a skill check (DC 10) and spending 1d4+1 hours passing out money and buying drinks, a character can get a feel for the major news items in a neighborhood.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T125107Z" creationid="quentine" creationdate="20190927T124652Z">
+        <seg>**检定：** 经过一次成功的技能检定（DC10）并花费1d4+1小时来消费、吃喝，角色将知晓邻里间发生的大多数新闻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Check:** Forgery requires ma-terials appropriate to the document being forged, and some time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T134448Z" creationid="quentine" creationdate="20190926T134448Z">
@@ -5710,6 +5782,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T120854Z" creationid="quentine" creationdate="20190807T120854Z">
         <seg>**检定：** 角色可以在不稳定的表面行走。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Check:** The time required to get an effect and the DC depend on what the character is trying to do.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T131529Z" creationid="quentine" creationdate="20190927T131529Z">
+        <seg>**检定：** 生效所需时间和检定DC取决于角色试图要做到什么。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5802,6 +5882,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Combat Riding (DC 20, 6 weeks):** An animal trained to bear a rider into combat knows Attack, Come, Defend, Down, Guard, and Heel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T140723Z" creationid="quentine" creationdate="20190930T140723Z">
+        <seg>**战斗骑乘（DC20，6周）：** 被训练为战斗中驮骑手的动物懂得攻击、过来、防御、退让、看守、跟随。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Come (DC 15):** The animal comes to the character, even if the animal normally would not do so (such as following the character onto a boat).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T135429Z" creationid="quentine" creationdate="20190927T135429Z">
+        <seg>**过来（DC15）：** 动物会靠近角色，即使动物一般不会这么做（比如跟随角色上船）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Commanded:** A commanded creature falls under the mental control of the Acolyte.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T112849Z" creationid="quentine" creationdate="20190703T112849Z">
@@ -5866,6 +5962,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Creating a Diversion to Hide:** A character can use the Bluff skill to help him or her hide.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T135355Z" creationid="quentine" creationdate="20191004T135355Z">
+        <seg>**转移注意力以躲藏：** 角色可以使用唬骗帮助自己躲藏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Damage Reduction 1/—:** The Tough hero ignores 1 point of damage from melee and ranged weapons.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T143549Z" creationid="quentine" creationdate="20190117T143549Z">
@@ -5910,6 +6014,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190916T144431Z" creationid="quentine" creationdate="20190916T144431Z">
         <seg>**破解文件锁：** 许多网络都有额外的文件保护机制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Defend (DC 20):** The animal defends the character (or is ready to defend the character if no threat is present).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T135548Z" creationid="quentine" creationdate="20190927T135548Z">
+        <seg>**防御（DC20）：** 动物会为角色防御（或者在角色没有威胁时准备防御）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5990,6 +6102,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190916T144711Z" creationid="quentine" creationdate="20190916T144711Z">
         <seg>**进行操作：** 最后，角色终于可以做想做的事了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Down (DC 15):** The animal breaks off from combat or otherwise backs down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T140347Z" creationid="quentine" creationdate="20190927T140347Z">
+        <seg>**退让（DC15）：** 让动物脱离战斗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6186,6 +6306,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Fetch (DC 15):** The animal goes and gets something.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190929T122512Z" creationid="quentine" creationdate="20190929T122512Z">
+        <seg>**取物（DC15）：** 让动物过去拿一些东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Fighting (DC 20, 3 weeks):** An animal trained for combat knows the following tricks: Attack, Down, and Stay.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T141311Z" creationid="quentine" creationdate="20190930T141311Z">
+        <seg>**战斗（DC20，3周）：** 为战斗而训练的动物懂得攻击，退让，还有停留。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Find File:** This skill can be used for finding files or data on an unfamiliar system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190916T132245Z" creationid="quentine" creationdate="20190916T132245Z">
@@ -6234,6 +6370,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Guard (DC 20):** The animal stays in place and prevents others from approaching.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190929T123318Z" creationid="quentine" creationdate="20190929T122838Z">
+        <seg>**看守（DC20）** 让动物待在一个地方阻止其他生物靠近。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Guarding (DC 20, 4 weeks):** An animal trained to guard knows the following tricks: Attack, Defend, Down, and Guard.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T141539Z" creationid="quentine" creationdate="20190930T141333Z">
+        <seg>**守护（DC20，4周）：** 为护卫而训练的动物懂得攻击，防御，退让，还有看守。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Handle an Animal:** This means to command an animal to perform a task or trick that it knows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T133408Z" creationid="quentine" creationdate="20190927T133408Z">
+        <seg>**驾驭动物：** 指的是命令一只动物完成一项它所会的工作或技巧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Hard:** Any surface that doesn’t hold footprints at all, such as bare rock, concrete, metal deckings, or indoor floors.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190804T141109Z" creationid="quentine" creationdate="20190804T141109Z">
@@ -6262,6 +6422,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T044255Z" creationid="quentine" creationdate="20190202T044255Z">
         <seg>**二级救死扶伤：**与一级救死扶伤叠加，额外恢复4点生命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Heel (DC 15):** The animal follows the character closely, even to places where it normally wouldn’t go.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190929T123314Z" creationid="quentine" creationdate="20190929T122954Z">
+        <seg>**跟随（DC15）** 让动物紧跟着角色，即使是跟着去平常不会去的地方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6342,6 +6510,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T105441Z" creationid="quentine" creationdate="20190703T104817Z">
         <seg>**驱散过程：**侍僧通过一个攻击动作驱散不死生物（以及在高级时可驱散的其他生物）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Hunting (DC 20, 6 weeks):** An animal trained for hunting knows Attack, Down, Fetch, Heel, Seek, and Track.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T141817Z" creationid="quentine" creationdate="20190930T141740Z">
+        <seg>**捕猎（DC20，6周）：** 为捕猎而训练的动物懂得攻击，退让，取物，跟随，搜寻，以及追踪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6454,6 +6630,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T114825Z" creationid="quentine" creationdate="20190807T114825Z">
         <seg>**关键属性：** 应用于技能检定的关键属性的缩写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Laboring (DC 15, 2 weeks):** An animal trained for heavy labor knows Come and Work.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T141743Z" creationid="quentine" creationdate="20190930T141701Z">
+        <seg>**干重活（DC15，2周）：** 为重活而训练的动物知道过来和劳作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6766,6 +6950,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T130331Z" creationid="quentine" creationdate="20190117T130331Z">
         <seg>**乘势攻击：** 敏捷型英雄可以使用1点行动点来使用这一天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Perform (DC 15):** The animal does a variety of simple tricks such as sitting up, rolling over, and so on.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190929T123307Z" creationid="quentine" creationdate="20190929T123144Z">
+        <seg>**表演（DC15）：** 让动物表演一些简单的把戏，比如坐下、打滚等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Performing (DC 15, 4 weeks):** An animal trained for per-forming knows Come, Fetch, Heel, Perform, and Stay.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T141928Z" creationid="quentine" creationdate="20190930T141858Z">
+        <seg>**表演（DC15， 4周）：** 为表演而训练的动物懂得过来，取物，跟随，表演，以及停留。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7274,6 +7474,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Riding (DC 15; 3 weeks):** An animal trained to bear a rider knows Come, Heel, and Stay.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T142058Z" creationid="quentine" creationdate="20190930T142058Z">
+        <seg>**骑乘（DC15，3周）：** 为骑乘而训练的动物懂得过来，跟随，以及停留。动物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Robust:** The Tough hero becomes especially robust, gaining a number of hit points equal to his or her Tough level as soon as he or she selects this talent.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T153601Z" creationid="quentine" creationdate="20190130T144029Z">
@@ -7327,6 +7535,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190921T124917Z" creationid="quentine" creationdate="20190921T124917Z">
         <seg>**再次伤害：** 第二次豁免失败，角色暴露在毒素下一分钟后所受伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Seek (DC 15):** The animal moves into an area and searches for something of interest.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190929T123439Z" creationid="quentine" creationdate="20190929T123301Z">
+        <seg>**搜寻（DC15）：** 让动物进入一个区域搜寻它感兴趣的物品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7715,6 +7931,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Special:** A character can take 10 or take 20 when handling animals.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T142136Z" creationid="quentine" creationdate="20190930T142136Z">
+        <seg>**特别：** 角色驯养动物可以取10取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Special:** A character can take 10 when driving, but can’t take 20.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T130236Z" creationid="quentine" creationdate="20190926T130236Z">
@@ -7751,6 +7975,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T120151Z" creationid="quentine" creationdate="20190925T120151Z">
         <seg>**特别：** 角色可以在解除装置检定中取10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character can take 10 when making a Gather Information check, but cannot take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T131357Z" creationid="quentine" creationdate="20190927T131357Z">
+        <seg>**特别：** 角色可以在收集信息检定中取10， 但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character can take 10 when making a Hide check, but can’t take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T141030Z" creationid="quentine" creationdate="20191004T141030Z">
+        <seg>**特别：** 角色可以在躲藏检定中取10， 但不能取20。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8067,6 +8307,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Stay (DC 15):** The animal stays in place waiting for the character to return.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190929T124126Z" creationid="quentine" creationdate="20190929T124029Z">
+        <seg>**停留（DC15）** 让动物待在一个地方等待角色回来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Table: Difficulty Class Examples**</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T135122Z" creationid="quentine" creationdate="20190805T135122Z">
@@ -8107,10 +8355,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Tailing:** A character can use Hide to tail a person in public.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T140231Z" creationid="quentine" creationdate="20191004T140231Z">
+        <seg>**尾随：** 角色可以适用躲藏来在公共场合尾随一个人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Taunt:** The Charismatic hero has the ability to temporarily rattle a target through the use of insults and goading.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T072106Z" creationid="quentine" creationdate="20190216T072106Z">
         <seg>**嘲讽：** 魅力型英雄可以辱骂和刺激目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Teach an Animal a Trick:** The character can teach an animal a specific trick, such as “attack” or “stay,” with one week of work and a successful Handle Animal check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T133809Z" creationid="quentine" creationdate="20190927T133809Z">
+        <seg>**教会动物一个技巧：** 角色可以用一次成功的驯养动物检定和一周的时间教会动物一个特定的技巧，比如“攻击”或者“停留”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**The hide check is also modified by the character’s size:**</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T134323Z" creationid="quentine" creationdate="20191004T134302Z">
+        <seg>**躲藏检定同样受到角色体型调整值影响：**</seg>
       </tuv>
     </tu>
     <tu>
@@ -8143,6 +8415,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T145110Z" creationid="quentine" creationdate="20190926T145110Z">
         <seg>**时间：** 赌博检定需要1小时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** A Gather Information check takes 1d4+1 hours.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T131427Z" creationid="quentine" creationdate="20190927T131427Z">
+        <seg>**时间：** 收集信息检定需要1d4+1小时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** A Hide check is an attack action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T141117Z" creationid="quentine" creationdate="20191004T141117Z">
+        <seg>**时间：** 躲藏检定是一个攻击动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8235,6 +8523,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Time:** See above.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T142400Z" creationid="quentine" creationdate="20190930T142400Z">
+        <seg>**时间：** 见上文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Time:** Setting a detonator is usually a full-round action.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134815Z" creationid="quentine" creationdate="20190923T134815Z">
@@ -8279,6 +8575,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T105053Z" creationid="quentine" creationdate="20190703T105053Z">
         <seg>**每日驱散次数：**侍僧每天可以尝试驱散的次数为3+魅力调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Track (DC 20):** The animal tracks the scent presented to it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190929T124347Z" creationid="quentine" creationdate="20190929T124347Z">
+        <seg>**追踪（DC20）** 让动物追踪让它嗅到的气味。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Train an Animal:** Rather than teaching an animal individual tricks, the character can train an animal for a general purpose.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T141128Z" creationid="quentine" creationdate="20190930T133143Z">
+        <seg>**（为通用工作）训练动物：** 角色可以为训练动物做一些通用的`工作`，而不只是训练一些简单的`技巧`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8403,6 +8715,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Try Again?:** Yes, but it takes 1d4+1 hours for each check, and characters may draw attention to themselves if they repeatedly pursue a certain type of information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T131338Z" creationid="quentine" creationdate="20190927T131338Z">
+        <seg>**重试：** 可以，但每次检定要间隔1d4+1小时，而且如果重复追问某一类特定信息，你也许会引起注意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Try Again?:** Yes, though a success doesn’t cancel the effects of a previous failure, such as the disruption of an action that was being concentrated on.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T131059Z" creationid="quentine" creationdate="20190917T131059Z">
@@ -8415,6 +8735,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T120042Z" creationid="quentine" creationdate="20190925T120042Z">
         <seg>**重试：** 可以，但角色必须知道自己已经失败才行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Try Again?:** Yes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T142113Z" creationid="quentine" creationdate="20190930T142113Z">
+        <seg>**重试：** 可以。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8547,6 +8875,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Work (DC 15):** The animal pulls or pushes a medium or heavy load.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T133117Z" creationid="quentine" creationdate="20190930T133117Z">
+        <seg>**劳作（DC15）：** 让动物拉推中等或重度负载。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Write Program:** A character can create a program to help with a specific task.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T124058Z" creationid="quentine" creationdate="20190917T124058Z">
@@ -8559,6 +8895,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181024T041726Z" creationid="QuenTine" creationdate="20181024T041726Z">
         <seg>**骰种\[+/- 修正值\]**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**“Push” an Animal:** To push an animal means to get it to perform a task or trick that it doesn’t know, but is physically capable of performing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T133637Z" creationid="quentine" creationdate="20190927T133637Z">
+        <seg>**逼迫动物：** 逼迫动物指的是让动物完成它还不会，但有能力办到的工作或技巧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9897,6 +10241,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character with the Animal Affinity feat and at least 1 rank in this skill gets a +2 bonus on all Handle Animal checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T142346Z" creationid="quentine" creationdate="20190930T142346Z">
+        <seg>有`动物亲和`专长且此技能至少1级的角色，驯养动物检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character with the Athletic feat gets a +2 bonus on all Climb checks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T143851Z" creationid="quentine" creationdate="20190808T143851Z">
@@ -10025,6 +10377,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character with the Stealthy feat gets a +2 bonus on all Hide checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T141053Z" creationid="quentine" creationdate="20191004T141053Z">
+        <seg>有`隐秘`专长的角色的躲藏检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character with the Studious feat gets a +2 bonus on all Decipher Script checks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T132005Z" creationid="quentine" creationdate="20190923T132005Z">
@@ -10037,6 +10397,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T132919Z" creationid="quentine" creationdate="20190924T132919Z">
         <seg>有`值得信赖`专长的角色的交涉检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Trustworthy feat gets a +2 bonus on all Gather Information checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T131413Z" creationid="quentine" creationdate="20190927T131413Z">
+        <seg>有`值得信赖`专长的角色的收集信息检定有2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10797,6 +11165,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T144020Z" creationid="quentine" creationdate="20190611T144020Z">
         <seg>震慑的生物将被震慑2d4轮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A successful Bluff check can give the character the momentary diversion needed to attempt a Hide check while people are aware of the character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T135415Z" creationid="quentine" creationdate="20191004T135415Z">
+        <seg>一次成功的唬骗检定可让角色分散搜捕者的注意力一小会，让自己此时可以做一次躲藏检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11707,6 +12083,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alternatively, the character can command the animal to defend a specific other character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T135727Z" creationid="quentine" creationdate="20190927T135727Z">
+        <seg>或者角色可以命令动物为制定的其他角色提供防御。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Although each advanced class naturally builds from a certain basic class, every advanced class is available to all characters who fulfill the prerequisites of the class, regardless of what basic classes they have gained levels in.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T120152Z" creationid="quentine" creationdate="20190216T120152Z">
@@ -11863,6 +12247,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T074620Z" creationid="quentine" creationdate="20190216T074516Z">
         <seg>友方必须整轮不动，用一整轮的时间来听取和观察魅力型英雄的激励，英雄作一次魅力检定（DC10）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An animal can be trained for one general purpose only, though if the animal is capable of learning additional tricks (above and beyond those included in its general purpose) it may do so.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T141153Z" creationid="quentine" creationdate="20190930T140011Z">
+        <seg>一个动物只能学会一种`工作`，但是如果动物还有余力学习其他`技巧`（不在通用工作里的技巧）则仍可以学习。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An animal trained in riding may be “upgraded” to an animal trained in combat riding by spending three weeks and making a Handle Animal check (DC 20).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T140940Z" creationid="quentine" creationdate="20190930T140940Z">
+        <seg>可将已训练`骑乘`的动物“升级”至战斗骑乘，这需要3周时间进行驯养动物检定（DC20）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An animal with an Intelligence of 1 can learn a maximum of three tricks, while an animal with an Intelligence of 2 can learn a maximum of six tricks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T133902Z" creationid="quentine" creationdate="20190927T133902Z">
+        <seg>有1点智力的动物可以学习至多3个技巧，而有2点智力的动物可以学习至多6个技巧</seg>
       </tuv>
     </tu>
     <tu>
@@ -12043,6 +12451,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An untrained character uses Charisma checks to handle and push animals, but he or she can’t teach or train animals.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T142245Z" creationid="quentine" creationdate="20190930T142245Z">
+        <seg>未受训角色使用魅力检定来驾驭和逼迫动物，但不能教会动物技巧或工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Animal Affinity, Archaic Weapons Proficiency, Armor Proficiency (light), Attentive, Combat Expertise, Educated, Frightful Presence, Iron Will, Medical Expert, Studious, Trustworthy.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190703T114643Z">
@@ -12055,6 +12471,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T142250Z" creationid="quentine" creationdate="20190116T132255Z">
         <seg>动物亲和、擅长古典武器、竞技、盲斗、拳法、顺势斩、实战武术、战斗反射、强力顺势斩、精通拳法、精通实战武术、猛力攻击、专攻武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Animals almost always find other creatures or characters of interest.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190929T123651Z" creationid="quentine" creationdate="20190929T123651Z">
+        <seg>动物总是优先找感兴趣的人或生物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12135,6 +12559,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T140415Z" creationid="quentine" creationdate="20190611T140415Z">
         <seg>任何近战武器都可以强效化，包括徒手击打。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any other person attempting to make the animal perform a trick takes a –10 penalty on his or her Handle Animal check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T134101Z" creationid="quentine" creationdate="20190927T134101Z">
+        <seg>其他人试图让动物完成技巧所做的驯养动物检定将受到10点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13387,6 +13819,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At more than half and up to the character’s full speed, the character takes a –5 penalty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T134140Z" creationid="quentine" creationdate="20191004T134140Z">
+        <seg>角色的速度大于半速，躲藏检定将受到5点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At that point, the character becomes an ordinary (or hero, in some cases).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T123304Z" creationid="quentine" creationdate="20190703T123304Z">
@@ -14115,6 +14555,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cover and concealment grant circumstance bonuses to Hide checks, as shown below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T134859Z" creationid="quentine" creationdate="20191004T134859Z">
+        <seg>掩体和隐蔽会为躲藏提供情景加值，见下文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Craft (electronic, mechanical, or structural), Climb, Drive, Handle Animal, Intimidate, Repair, Ride.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T123927Z" creationid="QuenTine" creationdate="20181104T123927Z">
@@ -14696,6 +15144,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Essentially, an animal’s purpose represents a preselected set of known tricks that fit into a common scheme.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T141141Z" creationid="quentine" creationdate="20190930T134621Z">
+        <seg>本质上，一项动物的`工作`代表了一系列已知`技巧`的集合，可用于相似的用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evasion can only be used when wearing light armor or no armor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T124505Z" creationid="quentine" creationdate="20190117T122324Z">
@@ -15240,6 +15696,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>General information concerns local happenings, rumors, gossip, and the like.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T130328Z" creationid="quentine" creationdate="20190927T130328Z">
+        <seg>传闻就是当地发生的事、谣言、绯闻等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Generally, a character can take 10 when using a Craft skill to construct an object, but can’t take 20 (since doing so represents multiple attempts, and the character uses up the raw materials after the first attempt).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T133253Z" creationid="quentine" creationdate="20190918T133253Z">
@@ -15688,6 +16152,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If he or she is unsuspecting, he or she generally gets only a Spot check after an hour of tailing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T141014Z" creationid="quentine" creationdate="20191004T141014Z">
+        <seg>若目标没有疑心，则通常只在尾随的1小时后进行一次侦察检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If it can act, it applies its Intelligence modifier to initiative checks instead of a Dexterity modifier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T134040Z" creationid="QuenTine" creationdate="20181103T134040Z">
@@ -15780,6 +16252,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T131848Z" creationid="quentine" creationdate="20190925T131848Z">
         <seg>如果其他角色看穿了前一个易容，而角色仍以这副面容出现，将自动引起怀疑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If people are observing the character, even casually, he or she can’t hide.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T134639Z" creationid="quentine" creationdate="20191004T134639Z">
+        <seg>如果有人注视着角色，即使不是刻意注视，角色就不能躲藏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15980,6 +16460,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145403Z" creationid="quentine" creationdate="20190114T145403Z">
         <seg>如果伤害值比巨创阈值小，目标不会被攻击影响到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the animal already knows any tricks, the character cannot teach it to obey only that character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T134849Z" creationid="quentine" creationdate="20190927T134705Z">
+        <seg>如果动物已经学会任何技巧，角色不能再教会动物只听自己的指令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the animal is wounded or has taken any ability score damage, the DC increases by +5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T133442Z" creationid="quentine" creationdate="20190927T133442Z">
+        <seg>如果动物受伤或者受到任何属性伤害，DC+5。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the animal was trained in other tricks (in addition to those provided by training the animal for riding), those tricks are completely replaced by the combat riding tricks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T141103Z" creationid="quentine" creationdate="20190930T141103Z">
+        <seg>如果动物还训练了其他技巧（骑乘工作之外的技巧），这些技巧将被完全替换为战斗骑乘工作的技巧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16440,6 +16944,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the check is successful, the animal performs the task or trick on its next action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T133519Z" creationid="quentine" creationdate="20190927T133519Z">
+        <seg>如果检定成功，动物的下一个动作就是完成这个工作或技巧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the check succeeds, for the rest of the combat the Smart hero uses his or her Intelligence bonus instead of either Strength or Dexterity bonus on attack rolls as the hero finds ways to outthink his opponent and notices weaknesses in his opponent’s fighting style.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T144525Z" creationid="quentine" creationdate="20190201T144525Z">
@@ -16776,6 +17288,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the situation doesn’t require the expenditure of money, no Wealth check is necessary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T125206Z" creationid="quentine" creationdate="20190927T125206Z">
+        <seg>若信息不需要花钱购买，就没必要进行财富检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the situation permits, the character can make additional checks as long as he or she is not being actively opposed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T134226Z" creationid="quentine" creationdate="20190926T132940Z">
@@ -16820,6 +17340,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T143243Z" creationid="quentine" creationdate="20190926T143243Z">
         <seg>若赌注只是角色的九牛一毛（小于等于角色的财富加值），角色是没有机会赢得任何可观的奖励的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the subject is worried about being followed, he or she can make a Spot check (opposed by the character’s Hide check) every time he or she changes course (goes around a street corner, exits a building, and so on).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T140908Z" creationid="quentine" creationdate="20191004T140908Z">
+        <seg>如果目标担心被跟踪，可以在每次切换地域（转过一个街角、离开建筑等等）时进行一次侦察检定（与角色的躲藏检定对抗）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17488,6 +18016,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increase the Wealth check DC by 2 for each +1 circumstance bonus the character wants to add to his or her skill check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T131218Z" creationid="quentine" creationdate="20190927T131218Z">
+        <seg>角色每为收集信息检定增加1点情景加值，所需的财富检定DC+2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indeed, the only way for an Occultist to cast an arcane spell is by using a scroll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190613T122809Z" creationid="quentine" creationdate="20190613T122809Z">
@@ -17500,6 +18036,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T124547Z">
         <seg>骂名会让英雄被认出时进行魅力相关技能检定会获得减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Information ranges from general to protected, and the cost and DC increases accordingly for the type of information the character seeks to gather, as given in the table below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T125940Z" creationid="quentine" creationdate="20190927T125416Z">
+        <seg>从传闻到受保护的信息，信息的费用和DC也根据信息的类型逐步升高，详见下表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17588,6 +18132,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T131839Z" creationid="quentine" creationdate="20190917T131801Z">
         <seg>而不适用于其他会引发借机攻击的动作，比如移动或徒手攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It does not challenge other creatures that come by, though it still defends itself if it needs to.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190929T124215Z" creationid="quentine" creationdate="20190929T124215Z">
+        <seg>它不会挑战经过的其他生物，但他仍然会在必要时自我防御。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It does not require a check; however, it increases the DC of all tricks the character teaches the animal by +5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T134807Z" creationid="quentine" creationdate="20190927T134615Z">
+        <seg>这不需要检定，但是这会让所有教会动物技巧的DC+5。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17776,6 +18336,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It stops and indicates the first thing of interest it finds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190929T123506Z" creationid="quentine" creationdate="20190929T123506Z">
+        <seg>一旦找到则停止搜寻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It takes 1 hour to program the robot.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190523T132054Z" creationid="quentine" creationdate="20190523T132054Z">
@@ -17844,6 +18412,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131251Z" creationid="quentine" creationdate="20190115T131251Z">
         <seg>只有极少的关卡不在某个暗处告终，英雄总需要想办法去看。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It’s practically impossible (–20 penalty) to hide while attacking, running, or charging.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T134230Z" creationid="quentine" creationdate="20191004T134230Z">
+        <seg>攻击、奔跑或冲锋时躲藏是几乎不可能的（有20减值）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18222,6 +18798,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141727Z" creationid="quentine" creationdate="20190115T141727Z">
         <seg>非生物以及无新陈代谢的生物免疫毒性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Normally, an animal only attacks humans and other animals.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T135132Z" creationid="quentine" creationdate="20190927T135132Z">
+        <seg>一般来说，动物只攻击人类和其他动物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Note that a character can’t hide if he or she has less than one-half cover or concealment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T135243Z" creationid="quentine" creationdate="20191004T135051Z">
+        <seg>注意角色如果处于一半以下的掩体或隐蔽则不可躲藏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18790,6 +19382,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Possible tricks include, but are not limited to, the following.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T134914Z" creationid="quentine" creationdate="20190927T134914Z">
+        <seg>可学的技巧包括但不限于：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Powerboats are engine-powered water vessels designed for operation by a single person and usually no more than 100 feet in length.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190804T132157Z" creationid="quentine" creationdate="20190804T132157Z">
@@ -19038,6 +19638,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Protected information is even harder to come by and might involve some danger, either for the one asking the questions or the one providing the answer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T130708Z" creationid="quentine" creationdate="20190927T130708Z">
+        <seg>受保护的信息更难获得，获得此信息会让问者或答者陷入危险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Psionic powers require power points to use.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190619T135504Z" creationid="quentine" creationdate="20190619T135504Z">
@@ -19176,6 +19784,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T125823Z" creationid="quentine" creationdate="20190704T125823Z">
         <seg>两个攻击的效果同时结算而非先后。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Restricted information includes facts that aren’t generally known and requires that the character locate someone who has access to such information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T130607Z" creationid="quentine" creationdate="20190927T130607Z">
+        <seg>受限的信息包括并非众所周知的信息，需要从能接触到这个信息的人身上获得。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19748,6 +20364,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Specific information usually relates to a particular question.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T130433Z" creationid="quentine" creationdate="20190927T130433Z">
+        <seg>专门的信息通常要带目的地去寻求才能得到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spells without random variables are not affected.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190624T143045Z" creationid="quentine" creationdate="20190624T143045Z">
@@ -20000,6 +20624,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190624T141940Z" creationid="quentine" creationdate="20190624T141940Z">
         <seg>文身的机制与卷轴类似，创造过程也与抄录卷轴相同（详见`抄录卷轴`），但文身相关的技能检定是`制造（视觉艺术）`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Teaching an animal to attack all creatures (including unnatural creatures such as undead and aberrations if they exist in your campaign) counts as two tricks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T135318Z" creationid="quentine" creationdate="20190927T135318Z">
+        <seg>教会动物攻击所有生物（包括超自然生物比如战斗中出现的不死生物类和异怪类）算两个技巧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Teaching an animal to obey only the character counts as a trick (in terms of how many tricks the animal can learn).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T134341Z" creationid="quentine" creationdate="20190927T134341Z">
+        <seg>教会动物只听自己的指令算作一个技巧（算在动物已学技巧数里）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Teaching or training an animal takes a number of days.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T142621Z" creationid="quentine" creationdate="20190930T142520Z">
+        <seg>教会技巧或训练工作都要花费数以天计的时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21932,6 +22580,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character can increase the amount of money used to gather information, gaining a circumstance bonus by effectively offering a bribe (though the process might entail buying more expensive drinks, not necessarily offering a character extra money).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T131113Z" creationid="quentine" creationdate="20190927T131113Z">
+        <seg>角色可以增加收集信息所花费的金钱，以获得等效于贿赂的情景加值（这个过程可以体现为买更贵的饮料，而不是一定要另外给一笔钱）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character can make a Strength check to lift the object off him or herself or an Escape Artist check (DC 20) to get out from underneath.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T140542Z" creationid="quentine" creationdate="20190115T140542Z">
@@ -21964,10 +22620,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character can move up to half his or her normal speed and hide at no penalty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T134112Z" creationid="quentine" creationdate="20191004T134112Z">
+        <seg>角色躲藏时可以以半速移动而不受惩罚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character can only take a single move or attack action each turn (but not both, nor can the character take full-round actions).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T145829Z" creationid="quentine" creationdate="20190114T145829Z">
         <seg>每回合角色只能做单个移动或攻击动作（但不能都做，也不能用整轮动作）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character can run around a corner so that he or she is out of sight and then hide, but the others then know at least where the character went.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T134820Z" creationid="quentine" creationdate="20191004T134820Z">
+        <seg>角色可以绕到角落里脱离视线以便躲藏，但其他人至少还是知道角色的去向的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22016,6 +22688,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121902Z" creationid="quentine" creationdate="20190115T121902Z">
         <seg>角色只能执行一个移动或攻击动作，并在执行动作后受到1点伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character can teach an animal to obey only that character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T133940Z" creationid="quentine" creationdate="20190927T133940Z">
+        <seg>角色可以教会动物只听自己的命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22080,6 +22760,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T123034Z" creationid="quentine" creationdate="20190806T123034Z">
         <seg>但角色仍可受益于其他调整值，比如技能的关键属性调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character does not have to spend the entire time training the animal; 3 hours per day is enough.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T142639Z" creationid="quentine" creationdate="20190930T142552Z">
+        <seg>角色不需要把所有时间都花在驯养动物上面，每天3小时就够了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22236,6 +22924,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character may point to a particular enemy to direct the animal to attack that enemy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T135107Z" creationid="quentine" creationdate="20190927T135107Z">
+        <seg>角色指着一个目标让动物攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character may use Heroic Surge a number of times per day depending on his or her character level (as shown below), but never more than once per round.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190802T133158Z" creationid="quentine" creationdate="20190802T133158Z">
@@ -22288,6 +22984,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190804T135536Z" creationid="quentine" creationdate="20190804T135514Z">
         <seg>每次踪迹变得更难追踪时，角色都需要再做一次生存检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character must point out a specific object, or else the animal fetches some random object.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190929T122714Z" creationid="quentine" creationdate="20190929T122714Z">
+        <seg>角色应该指向特定的物品，否则动物会随机拿些物品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23104,6 +23808,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T042719Z" creationid="quentine" creationdate="20190202T042719Z">
         <seg>英雄在所有的医疗技能检定上都有两点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The higher the check result, the better the information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T125130Z" creationid="quentine" creationdate="20190927T125049Z">
+        <seg>检定结果越高，信息就越准确。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23969,6 +24681,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190624T143531Z" creationid="quentine" creationdate="20190624T143531Z">
         <seg>此外，法师只能极效0到2级的法术，1级的法术极效后被视为一个4级法术，准备此极效法术将占用一个4级法术的准备空间而非1级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There’s a chance that someone will take note of anyone asking about restricted or protected information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T130840Z" creationid="quentine" creationdate="20190927T130840Z">
+        <seg>获取受限或受保护信息的行为有可能会被人记下来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24840,6 +25560,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This result assumes that no obvious reasons exist why information would be withheld.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T125716Z" creationid="quentine" creationdate="20190927T125037Z">
+        <seg>只能收集到那些没有必要藏着掖着的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This secondary damage also requires a Fortitude saving throw to avoid.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141224Z" creationid="quentine" creationdate="20190115T141224Z">
@@ -25402,6 +26130,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>To understand that it’s looking for a specific object, the animal must make an Intelligence check (DC 10).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190929T123959Z" creationid="quentine" creationdate="20190929T123959Z">
+        <seg>要让动物理解这是一个搜寻特定物品的指令，必须让动物做一次智力检定（DC10）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To use Craft, first decide what the character is trying to make and consult the category descriptions below.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T132617Z" creationid="quentine" creationdate="20190918T132617Z">
@@ -25446,6 +26182,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190612T122750Z" creationid="quentine" creationdate="20190612T122750Z">
         <seg>需受训。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Training an animal for a purpose requires fewer checks than teaching individual tricks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T140114Z" creationid="quentine" creationdate="20190930T140114Z">
+        <seg>为通用工作训练动物需要的检定比教会动物单独的技巧少。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25682,6 +26426,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Using the skill in this manner assumes that there are other random people about, among whom the character can mingle to remain unnoticed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T140631Z" creationid="quentine" creationdate="20191004T140631Z">
+        <seg>以这种形式使用此技能的情形是假设附近随机分布着几个人，用躲藏来混入其中而不被注意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Using this feat fires two bullets and can only be done if the weapon has two bullets in it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190731T125013Z" creationid="quentine" creationdate="20190731T125013Z">
@@ -25718,6 +26470,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134208Z" creationid="QuenTine" creationdate="20181106T134208Z">
         <seg>财富检定用于判定角色能够买得起什么和能穿得起什么装备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What constitutes an item of interest to an animal can vary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190929T123601Z" creationid="quentine" creationdate="20190929T123601Z">
+        <seg>让一个动物感兴趣的物品多种多样。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26286,6 +27046,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190623T131135Z" creationid="quentine" creationdate="20190623T131135Z">
         <seg>魔宠在5尺以内时，法师获得`警觉`专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While the others turn their attention from the character, he or she can make a Hide check if the character can get to a hiding place of some kind.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T135614Z" creationid="quentine" creationdate="20191004T135614Z">
+        <seg>当他人的注意力从角色的身上移开，且角色在可以躲藏的位置，角色可以进行一次躲藏检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28048,6 +28816,20 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Cover or Concealment|Circumstance Bonus|
+|--------------------|:----------------:|
+|Three-quarters|+5|
+|Nine-tenths|+10|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T135225Z" creationid="quentine" creationdate="20191004T135107Z">
+        <seg>|掩体或隐蔽|情景加值|
+|--------------------|:----------------:|
+|四分之三|+5|
+|十分之九|+10|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Creature/Object|Rating|
 |---------------|------|
 |Outsider|HD|
@@ -28820,6 +29602,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Size|Modifier|Size|Modifier|
+|----|:------:|----|:------:|
+|Fine|+16|Large|–4|
+|Diminutive|+12|Huge|–8|
+|Tiny|+8|Gargantuan|–12|
+|Small|+4|Colossal|–16|
+|Medium-size|+0|||</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T134511Z" creationid="quentine" creationdate="20191004T134317Z">
+        <seg>|体型|调整值|体型|调整值|
+|----|:------:|----|:------:|
+|超微型|+16|大型|–4|
+|微型|+12|超大型|–8|
+|超小型|+8|巨型|–12|
+|小型|+4|超巨型|–16|
+|普通|+0|||</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Size|Purchase DC|
 |:---|-----------|
 |Diminutive|18|
@@ -28966,6 +29768,24 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Task|Time|DC|
+|----|---|:-:|
+|Handle an animal|Move action|10|
+|“Push” an animal|Full-round action|25|
+|Teach an animal a trick|1 week|See text|
+|Train an animal for a purpose|See text|See text|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T132122Z" creationid="quentine" creationdate="20190927T132122Z">
+        <seg>|任务|时间|DC|
+|----|---|:-:|
+|驾驭动物|移动动作|10|
+|逼迫动物|整轮动作|25|
+|教会动物一个技巧|1周|见下文|
+|为通用工作训练动物|见下文|见下文|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Telepath Level|Pts/Day|0\*|1\*|2\*|3\*|4\*|5\*|
 |--------------|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1st|2|3|1|—|—|—|—|
@@ -29036,6 +29856,24 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |弱酸（1d6/1d10）\*\*|8|15|10|1分钟|
 |强酸（2d6/2d10）|12|20|15|30分钟|
 |浓酸（3d6/3d10）|16|30|20|1小时|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Type of Information|DC|Purchase DC|
+|------------------|:-:|:---------:|
+|General|10|5|
+|Specific|15|10|
+|Restricted|20|15|
+|Protected|25|20|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T130240Z" creationid="quentine" creationdate="20190927T125435Z">
+        <seg>|信息类型|DC|购买DC|
+|------------------|:-:|:---------:|
+|传闻|10|5|
+|专门|15|10|
+|受限|20|15|
+|受保护|25|20|</seg>
       </tuv>
     </tu>
     <tu>

@@ -846,3 +846,32 @@ forgery kit	伪造工具
 stake	赌注
 penny-ante	小赌
 astronomical	大赌
+General	传闻	信息类型
+Specific	专门	信息类型
+Restricted	受限	信息类型
+Protected	受保护	信息类型
+Handle an animal	驾驭动物
+“Push” an animal	逼迫动物
+Teach an animal a trick	教会动物一个技巧
+Train an animal for a purpose	为通用工作训练动物
+trick	技巧	驯养动物
+task	工作	驯养动物
+Come	过来	驯养动物
+Defend	防御	驯养动物
+Down	退让	驯养动物
+Fetch	取物	驯养动物
+Guard	看守	驯养动物
+Heel	跟随	驯养动物
+Seek	搜寻	驯养动物
+Stay	停留	驯养动物
+Track	追踪	驯养动物
+Work	劳作	驯养动物
+medium	中等	负载
+purpose	（动物的）工作	驯养动物
+Combat Riding	战斗骑乘
+Fighting	战斗	驯养动物，工作
+Guarding	守护	驯养动物，工作
+Laboring	干重活	驯养动物，工作
+Hunting	捕猎	驯养动物，工作
+Riding	骑乘	驯养动物，工作
+Tailing	尾随
