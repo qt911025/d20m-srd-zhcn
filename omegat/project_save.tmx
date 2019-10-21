@@ -958,10 +958,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Intimidate (Cha)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T134447Z" creationid="quentine" creationdate="20191016T134447Z">
+        <seg>## 威吓（魅）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Investigate (Int) Trained Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T020436Z" creationid="quentine" creationdate="20191020T020436Z">
+        <seg>## 调查（智） 需受训</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Investigative</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T135357Z" creationid="QuenTine" creationdate="20181104T135357Z">
         <seg>## 调查员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Jump (Str) Armor Penalty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T133751Z" creationid="quentine" creationdate="20191021T133751Z">
+        <seg>## 跳跃（力） 护甲减值</seg>
       </tuv>
     </tu>
     <tu>
@@ -4064,6 +4088,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>(As a Medium-size creature, a typical human can reach 8 feet without jumping.) If the creature is long instead of tall, treat it as one size category smaller.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T141445Z" creationid="quentine" creationdate="20191021T141445Z">
+        <seg>（作为中等体型的生物，普通的人类能不靠跳跃攀上8尺高的地方。）如果生物是长而不是高，等效体型要降低一级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>(As a general guideline, the hiding place has to be within 1 foot for every rank the character has in Hide.) This check, however, is at a –10 penalty because the character has to move fast.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T140111Z" creationid="quentine" creationdate="20191004T140111Z">
@@ -4226,6 +4258,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132436Z" creationid="quentine" creationdate="20190115T132436Z">
         <seg>（也即是说豁免一旦成功，就不再着火。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(That is, the target retains his or her normal attitude, but will chat, advise, offer limited help, or advocate on the character’s behalf while intimidated.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T140352Z" creationid="quentine" creationdate="20191016T140352Z">
+        <seg>（也就是说，目标保留原来的态度，但在威吓下会聊天、建议、提供有限的帮助、或为角色辩护。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4773,6 +4813,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190627T131442Z">
         <seg>**阵营：**角色获得第一个侍僧等级时，必须决定其信仰导向正能量或是负能量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Analyze Clue:** The character can make an Investigate check to apply forensics knowledge to a clue.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T021403Z" creationid="quentine" creationdate="20191020T021403Z">
+        <seg>**分析线索：** 角色可以做一次调查检定来对线索进行法医学鉴定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5690,6 +5738,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Check:** A character generally uses Search to discover clues and Investigate to analyze them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T020535Z" creationid="quentine" creationdate="20191020T020535Z">
+        <seg>**检定：** 角色一般用搜索发现线索，用调査分析线索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Check:** A character makes a Concentration check whenever he or she may potentially be distracted while engaged in some action that requires his or her full attention (such as making a Disable Device or Treat Injury check).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T130142Z" creationid="quentine" creationdate="20190917T130142Z">
@@ -5770,6 +5826,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Check:** The DC and the distance the character can cover vary according to the type of jump the character is attempting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T133911Z" creationid="quentine" creationdate="20191021T133911Z">
+        <seg>**检定：** DC与能跳跃的距离取决于角色以何种方式跳跃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Check:** The GM makes the Disable Device check so that the character doesn’t necessarily know whether he or she has succeeded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T112328Z" creationid="quentine" creationdate="20190925T112328Z">
@@ -5806,6 +5870,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T115645Z" creationid="quentine" creationdate="20190807T115645Z">
         <seg>**检定：** 角色要成功使用技能该执行的检定，以及检定DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Check:** With a successful check, a character can forcibly persuade another character to perform some task or behave in a certain way.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T134701Z" creationid="quentine" creationdate="20191016T134640Z">
+        <seg>**检定：** 检定成功时，角色可以强行说服另一个角色完成一些工作或者做指定的举动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5878,6 +5950,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T144333Z" creationid="quentine" creationdate="20190117T144333Z">
         <seg>**寒系抗力：** 体质型英雄忽略等于自身体质调整值的寒冷伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Collect Evidence:** The character can collect and prepare evidentiary material for a lab.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T022438Z" creationid="quentine" creationdate="20191020T022438Z">
+        <seg>**收集证据：** 角色可以为技术鉴定室收集并提供物证。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6434,6 +6514,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**High Jump:** This is a vertical leap, made to jump up to grasp something overhead, such as a tree limb or ledge.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T140359Z" creationid="quentine" creationdate="20191021T140239Z">
+        <seg>**跳高：** 垂直的跳跃，以抓住高于头顶的攀爬点，比如爬树或岩脊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Hit Dice:** Treat as the Mage’s character level (for effects related to Hit Dice).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190623T124526Z" creationid="quentine" creationdate="20190623T124526Z">
@@ -6494,6 +6582,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190627T132451Z">
         <seg>**神符：**当角色宣示阵营时，必须指定一件随身财产，作为献身于其阵营的象征。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Hop Up:** The character can jump up onto an object as tall as his or her waist with a Jump check (DC 10).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T142248Z" creationid="quentine" creationdate="20191021T142152Z">
+        <seg>**跳台阶：** 角色能用跳跃检定跳上与其腰等高的目标上（DC10）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6626,6 +6722,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Jumping Down:** If the character intentionally jumps from a height, he or she takes less damage than if the character just falls.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T142453Z" creationid="quentine" creationdate="20191021T142453Z">
+        <seg>**跳下：** 角色从高处跳下承受的伤害比单纯的坠落要低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Key Ability:** The abbreviation for the ability whose modifier applies to the skill check.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T114825Z" creationid="quentine" creationdate="20190807T114825Z">
@@ -6670,6 +6774,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190916T144204Z" creationid="quentine" creationdate="20190916T144204Z">
         <seg>**锁定目标位置：** 要找到目标数据（或者应用程序、远程设备）的位置，需要进行一次计算机使用检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Long Jump:** This is a horizontal jump, made across a gap such as a chasm or stream.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T135224Z" creationid="quentine" creationdate="20191021T135224Z">
+        <seg>**跳远：** 水平的跳跃，以跨越峡谷或溪流之类的沟壑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8003,6 +8115,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Special:** A character can take 10 when making an Intimidate check, but can’t take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T141316Z" creationid="quentine" creationdate="20191016T141316Z">
+        <seg>**特别：** 角色可以在威吓检定中取10， 但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character can take 10 when making an Investigate check, but cannot take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T133513Z" creationid="quentine" creationdate="20191021T133513Z">
+        <seg>**特别：** 角色可以在调查检定中取10， 但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Special:** A character can take 10 when using the Computer Use skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T125347Z" creationid="quentine" creationdate="20190917T125347Z">
@@ -8061,24 +8189,24 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>**Special:** A character without a chemical kit takes a –4 penalty on Craft (chemical) checks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T091356Z" creationid="quentine" creationdate="20190922T091356Z">
-        <seg>**特别：** 无化学工具箱的角色进行制造（化学）检定将受到4点减值。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T022712Z" creationid="quentine" creationdate="20190922T091356Z">
+        <seg>**特别：** 无化学工具的角色进行制造（化学）检定将受到4点减值。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>**Special:** A character without a mechanical tool kit takes a –4 penalty on Craft (mechanical) checks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T135119Z" creationid="quentine" creationdate="20190922T135119Z">
-        <seg>**特别：** 无机械工具箱的角色进行制造（机械）检定将受到4点减值。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T022714Z" creationid="quentine" creationdate="20190922T135119Z">
+        <seg>**特别：** 无机械工具的角色进行制造（机械）检定将受到4点减值。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>**Special:** A character without a mechanical tool kit takes a –4 penalty on Craft (structural) checks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T040524Z" creationid="quentine" creationdate="20190923T040524Z">
-        <seg>**特别：** 无机械工具箱的角色进行制造（结构）检定将受到4点减值。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T022714Z" creationid="quentine" creationdate="20190923T040524Z">
+        <seg>**特别：** 无机械工具的角色进行制造（结构）检定将受到4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8093,8 +8221,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>**Special:** A character without an electrical tool kit takes a –4 penalty on Craft (electronic) checks.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T134011Z" creationid="quentine" creationdate="20190922T134011Z">
-        <seg>**特别：** 无电气工具箱的角色进行制造（电力）检定将受到4点减值。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T022714Z" creationid="quentine" creationdate="20190922T134011Z">
+        <seg>**特别：** 无电气工具的角色进行制造（电力）检定将受到4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8151,6 +8279,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190802T141127Z" creationid="quentine" creationdate="20190612T122612Z">
         <seg>**特别：** 经过检定（DC为15+法术等级），你可以用专注技能来以防御姿态施法，避免引发借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** Effects that increase a character’s speed also increase the character’s jumping distance, since the check is modified by the character’s speed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T142859Z" creationid="quentine" creationdate="20191021T142859Z">
+        <seg>**特别：** 增加角色速度的效果同样会增加角色的跳跃距离，因为检定受角色的速度影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8443,6 +8579,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Time:** An Intimidate check is a full-round action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T141701Z" creationid="quentine" creationdate="20191016T141701Z">
+        <seg>**时间：** 威吓检定是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** Analyzing a clue is a full-round action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T133708Z" creationid="quentine" creationdate="20191021T133708Z">
+        <seg>**时间：** 分析线索是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Time:** Balancing while moving one-half the character’s speed is a move action.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T124131Z" creationid="quentine" creationdate="20190807T124131Z">
@@ -8571,6 +8723,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Time:** Using the Jump skill is either a move action or a full-round action, depending on whether the character starts and completes the jump during a single move action or a full-round action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T143659Z" creationid="quentine" creationdate="20191021T143659Z">
+        <seg>**时间：** 使用跳跃技能是移动动作或整轮动作，取决于角色是以一个移动动作还是一个整轮动作完成整个跳跃过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Times per Day:** An Acolyte may attempt to turn a number of times per day equal to 3 + her Charisma modifier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T105053Z" creationid="quentine" creationdate="20190703T105053Z">
@@ -8651,6 +8811,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Try Again?:** Generally, analyzing a clue again doesn’t add new insight unless another clue is introduced.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T133410Z" creationid="quentine" creationdate="20191021T133410Z">
+        <seg>**重试：** 一般来说，再次分析不会得出新结论，除非发现了新的线索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Try Again?:** Generally, trying again doesn’t work.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T132455Z" creationid="quentine" creationdate="20190924T132455Z">
@@ -8695,6 +8863,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T145005Z" creationid="quentine" creationdate="20190926T145005Z">
         <seg>**重试：** 不行，除非角色再买赌注。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Try Again?:** No.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T140938Z" creationid="quentine" creationdate="20191016T140938Z">
+        <seg>**重试：** 不行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9929,6 +10105,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character can start a jump at the end of one turn and complete the jump at the beginning of your next turn.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T135118Z" creationid="quentine" creationdate="20191021T135118Z">
+        <seg>角色可以在回合结束时起跳，在下一回合完成跳跃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character can strangle or choke a target of the same size category or one size category larger or smaller.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T134701Z" creationid="quentine" creationdate="20190115T134357Z">
@@ -9941,6 +10125,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T142153Z" creationid="quentine" creationdate="20190926T142153Z">
         <seg>角色可以在伪造文书检定中取10， 但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can take 10 when making a Jump check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T142910Z" creationid="quentine" creationdate="20191021T142910Z">
+        <seg>跳跃检定可取10。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9997,6 +10189,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T140230Z" creationid="QuenTine" creationdate="20181106T140230Z">
         <seg>角色进行财富检定通常可以取10 或取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character cannot jump a distance greater than his or her normal speed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T135533Z" creationid="quentine" creationdate="20191021T135533Z">
+        <seg>角色不能跳出大于其常速的距离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10089,6 +10289,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character immune to fear effects can’t be intimidated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T141339Z" creationid="quentine" creationdate="20191016T141339Z">
+        <seg>免疫恐惧的角色不会被威吓到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character in an airless environment (underwater, vacuum) can hold his or her breath for a number of rounds equal to his or her Constitution score.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T133405Z" creationid="quentine" creationdate="20190115T133405Z">
@@ -10101,6 +10309,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190916T141848Z" creationid="quentine" creationdate="20190916T141848Z">
         <seg>角色是其所拥有的个人电脑的系统管理员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character may add a +2 bonus to his or her Intimidate check for every size category the character is larger than his or her target.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T141438Z" creationid="quentine" creationdate="20191016T141438Z">
+        <seg>角色的体型每比目标大一级，威吓检定就多2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10241,6 +10457,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character with the Acrobatic feat gets a +2 bonus on all Jump checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T143016Z" creationid="quentine" creationdate="20191021T143016Z">
+        <seg>有`杂技`专长的角色的跳跃检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character with the Animal Affinity feat and at least 1 rank in this skill gets a +2 bonus on all Handle Animal checks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T142346Z" creationid="quentine" creationdate="20190930T142346Z">
@@ -10253,6 +10477,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T143851Z" creationid="quentine" creationdate="20190808T143851Z">
         <seg>有竞技专长的角色的攀爬检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Attentive feat and at least 1 rank in this skill gets a +2 bonus on all Investigate checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T133647Z" creationid="quentine" creationdate="20191021T133647Z">
+        <seg>有`听者有心`专长且此技能至少1级的角色，调查检定有2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10309,6 +10541,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T145056Z" creationid="quentine" creationdate="20190926T145056Z">
         <seg>有`自信`专长的角色的赌博检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Confident feat gets a +2 bonus on all Intimidate checks and on level checks to resist intimidation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T141642Z" creationid="quentine" creationdate="20191016T141642Z">
+        <seg>有`自信`专长的角色在威吓检定以及对抗威吓的等级检定上获得2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10373,6 +10613,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T133806Z" creationid="quentine" creationdate="20190926T133806Z">
         <seg>有`灵巧`专长的角色脱逃检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Run feat gains a +2 competence bonus on Jump checks preceded by a 20-foot move.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T143148Z" creationid="quentine" creationdate="20191021T143148Z">
+        <seg>若有20尺助跑，有奔跑专长的角色还会为跳跃提供2点表现加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10461,6 +10709,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115101Z" creationid="quentine" creationdate="20190116T115101Z">
         <seg>角色的智力调整值决定了每级获得的技能点数（但每级至少1点，角色有智力减值也是如此）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character’s Intimidate check is op-posed by the target’s level check (1d20 + the target’s character level or Hit Dice).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T134808Z" creationid="quentine" creationdate="20191016T134808Z">
+        <seg>角色的威吓检定是与目标的等级检定（1d20+目标的角色等级或生命骰）对抗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11763,6 +12019,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Jump DCs covered here assume that the character can move at least 20 feet in a straight line before attempting the jump.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T135629Z" creationid="quentine" creationdate="20191021T135629Z">
+        <seg>所有跳跃DC假定的前提条件是角色在跳之前至少有20尺的助跑距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All Rights Reserved.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181022T033816Z" creationid="QuenTine" creationdate="20181022T033816Z">
@@ -12559,6 +12823,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T140415Z" creationid="quentine" creationdate="20190611T140415Z">
         <seg>任何近战武器都可以强效化，包括徒手击打。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Any modifiers that a target may have on Will saving throws against fear effects apply to this level check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T135145Z" creationid="quentine" creationdate="20191016T135145Z">
+        <seg>目标所有的任何适用于其意志检定的调整值将应用与此等级检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13867,6 +14139,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the midpoint of the jump, the character attains a vertical height equal to one-quarter the horizontal distance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T135345Z" creationid="quentine" creationdate="20191021T135345Z">
+        <seg>在跳跃的中点，角色达到最高位，高度等于水平距离的四分之一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the moment it becomes relevant, the GM makes a Reputation check for a GM character who might be influenced in some fashion due to the hero’s fame or notoriety, as detailed below.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T123102Z">
@@ -14371,6 +14651,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Circumstances dramatically affect the effectiveness of an Intimidate check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T140638Z" creationid="quentine" creationdate="20191016T140638Z">
+        <seg>DM应根据情境调整威吓检定的效果使其更合理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Climb (Str), Concentration (Con), Craft (mechanical, structural) (Int), Drive (Dex), Intimidate (Cha), Knowledge (current events, popular culture, streetwise) (Int), Profession (Wis), Read/Write Language (none), Ride (Dex), Speak Language (none), Spot (Wis), and Survival (Wis).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T095213Z" creationid="quentine" creationdate="20190117T141903Z">
@@ -14391,6 +14679,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T141524Z" creationid="QuenTine" creationdate="20181104T141524Z">
         <seg>攀爬、爆破、驾驶、躲藏、知识（策略）、潜行、寻路、驾机、生存、游泳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collecting evidence generally takes 1d4 minutes per object.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T133735Z" creationid="quentine" creationdate="20191021T133735Z">
+        <seg>收集证据每一件通常需要1d4分钟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Collecting evidence requires an evidence kit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T133536Z" creationid="quentine" creationdate="20191021T133536Z">
+        <seg>收集证据需要取证工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14535,6 +14839,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T133438Z" creationid="quentine" creationdate="20190221T133438Z">
         <seg>也能决定哪些高级职业禁止选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conversely, the character takes a –2 penalty to his or her check for every size category the character is smaller than his or her target.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T141524Z" creationid="quentine" creationdate="20191016T141524Z">
+        <seg>相反地，角色每比目标小一级，威吓检定就多2点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14826,8 +15138,16 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>Disabling a security device requires either a mechanical tool kit or an electronic toll kit, depending on the nature of the device.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T120729Z" creationid="quentine" creationdate="20190925T120729Z">
-        <seg>解除一个安全设备需要一个机械工具箱或一个电子工具箱，取决于设备的性质。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T022737Z" creationid="quentine" creationdate="20190925T120729Z">
+        <seg>解除一个安全设备需要一个机械工具或一个电气工具，取决于设备的性质。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Distance moved by jumping is counted against maximum movement in a round.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T135008Z" creationid="quentine" creationdate="20191021T135008Z">
+        <seg>一轮内跳跃所移动的距离将受限于最高移动距离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14844,6 +15164,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T124144Z" creationid="quentine" creationdate="20190114T124144Z">
         <seg>闪避加值：主动闪避攻击同样会为防御提供加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Doing so counts as 10 feet of movement.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T142207Z" creationid="quentine" creationdate="20191021T142207Z">
+        <seg>这么做相当于一个10尺的移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14874,8 +15202,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>Doing so requires 10 minutes and an electrical tool kit, and increases the DC of the check by +10.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T113821Z" creationid="quentine" creationdate="20190925T113821Z">
-        <seg>这么做需要10分钟和电气工具箱，并会增加10点DC。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T022714Z" creationid="quentine" creationdate="20190925T113821Z">
+        <seg>这么做需要10分钟和电气工具，并会增加10点DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15184,6 +15512,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even if the initial check succeeds, the other character can only be intimidated so much, and trying again doesn’t help.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T141108Z" creationid="quentine" creationdate="20191016T141108Z">
+        <seg>即使首次检定成功了，对方也只能被威吓到一种程度，重试是没用的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Even if the initial check succeeds, the other character can only be persuaded so far.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T132605Z" creationid="quentine" creationdate="20190924T132605Z">
@@ -15284,6 +15620,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063703Z" creationid="quentine" creationdate="20190112T063519Z">
         <seg>每次角色升级，进行一次`专业`检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Evidence collected cannot be recollected, unless there is more of it to take.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T133447Z" creationid="quentine" creationdate="20191021T133447Z">
+        <seg>收集了的证据不能再收集，除非有多个可供收集。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15716,6 +16060,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T122814Z" creationid="quentine" creationdate="20190806T122814Z">
         <seg>一般情况下，如果角色试图使用一个零级数的技能，角色还是可以按技能的描述做技能检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generally, the maximum height a creature can reach without jumping is given in the table below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T141222Z" creationid="quentine" creationdate="20191021T141222Z">
+        <seg>生物通常无需跳跃就能达到的高度见下表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16304,6 +16656,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If that leaves the character dangling over a chasm or gap, getting up requires a move action and a Climb check (DC 15).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T140147Z" creationid="quentine" creationdate="20191021T140147Z">
+        <seg>如果角色因此悬挂在峡谷或壕沟边缘，爬上来需要一个移动动作来进行一次攀爬检定（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If that’s the case, the character needs to make another check to defeat computer security.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190916T144538Z" creationid="quentine" creationdate="20190916T144538Z">
@@ -16512,6 +16872,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character attempts a Jump check untrained, the character lands prone unless he or she beats the DC by 5 or more.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T134750Z" creationid="quentine" creationdate="20191021T134725Z">
+        <seg>若角色的跳跃是未受训的，检定成功角色将俯卧着地，除非成功5点及以上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character attempts to buy something and the check fails, his or her Wealth bonus is unaffected.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T062744Z" creationid="quentine" creationdate="20190112T062744Z">
@@ -16576,6 +16944,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character does not have the appropriate kit, the character takes a –4 penalty on his or her check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T133551Z" creationid="quentine" creationdate="20191021T133551Z">
+        <seg>如果角色没有合适的工具，检定时要受4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character does not have the appropriate tools, he or she takes a –4 penalty on your check.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T120751Z" creationid="quentine" creationdate="20190925T120751Z">
@@ -16624,6 +17000,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character fails by 5 or more, the lab analysis simply cannot be done.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T132107Z" creationid="quentine" creationdate="20191021T132107Z">
+        <seg>若检定失败5点及以上，则无法分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character fails by more than 5, the explosive goes off.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134442Z" creationid="quentine" creationdate="20190923T134442Z">
@@ -16632,10 +17016,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character fails by more than 5, the target may actually do the opposite of what the character wishes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T140925Z" creationid="quentine" creationdate="20191016T140925Z">
+        <seg>如果角色失败5点以上，目标会做与角色期望正相反的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character fails the Jump check, he or she does not reach the height, and lands on his or her feet in the same square from which the character jumped.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T141038Z" creationid="quentine" creationdate="20191021T141038Z">
+        <seg>若跳跃检定失败，角色无法达到指定高度，将以脚着地落回起跳的方格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character fails the check by 5 or more, the system immediately alerts its administrator that there has been an unauthorized use of the equipment.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T124647Z" creationid="quentine" creationdate="20190917T124647Z">
         <seg>如果检定失败，低于DC5点甚至更多，系统会立即警报通知管理员有人非法使用这些设施。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character fails the check by less than 5, he or she doesn’t clear the distance, but can make a Reflex save (DC 15) to grab the far edge of the gap.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T135936Z" creationid="quentine" creationdate="20191021T135936Z">
+        <seg>若角色检定失败不足5点，将无法跳到目的地，但可以做一个反射检定（DC15）来抓住壕沟的边缘。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16680,6 +17088,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character fails, a crime lab analysis can be done, but the lab takes a –5 penalty on any necessary check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T132228Z" creationid="quentine" creationdate="20191020T023147Z">
+        <seg>若检定失败，技术鉴定室也能分析，但会在任何分析所需的检定上受到5点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character fails, he or she can’t afford the object at the time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T134439Z" creationid="QuenTine" creationdate="20181106T134439Z">
@@ -16696,10 +17112,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character has access to a crime lab, the character uses the Investigate skill to collect and prepare samples for the lab.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T021021Z" creationid="quentine" creationdate="20191020T021021Z">
+        <seg>角色在技术鉴定室里，应使用调查技能来收集和准备实验样本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character has access to the computer that controls such systems, the character can either shut them off or change their operating parameters.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T124534Z" creationid="quentine" creationdate="20190917T124534Z">
         <seg>如果角色成功访问控制该系统的电脑，角色可以选择关掉它们或者修改它们的运行程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character has ranks in the Jump skill and succeeds on a check, the character lands on his or her feet (when appropriate) and can move as far as the character’s remaining movement allows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T134545Z" creationid="quentine" creationdate="20191021T134545Z">
+        <seg>若角色跳跃至少1级并成功跳跃，角色可以脚着地（如果合适），并且可以以剩下可移动距离继续移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16776,6 +17208,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character succeeds on the check, he or she can reach the height.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T140708Z" creationid="quentine" creationdate="20191021T140708Z">
+        <seg>若角色检定成功，则可到达指定高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character succeeds on the check, he or she takes falling damage as if the character had dropped 10 fewer feet than he or she actually did.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T142721Z" creationid="quentine" creationdate="20191021T142721Z">
+        <seg>若检定成功，角色的坠落伤害等效于从跳跃高度-10尺处坠落。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character succeeds, he or she may treat the target as friendly for 10 minutes, but only for purposes of actions taken while in the character’s presence.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T140501Z" creationid="quentine" creationdate="20191016T140105Z">
+        <seg>若角色成功，则视为目标对其友善，持续10分钟，但这种友善只体现在对方做所要求做的事上，且角色必须一直在场。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character succeeds, his or her current Wealth bonus increases by +1.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190112T063919Z" creationid="quentine" creationdate="20190112T063919Z">
@@ -16796,6 +17252,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T141936Z" creationid="quentine" creationdate="20190115T141936Z">
         <seg>如果角色成功，就不会感染——即角色的免疫系统抵御了疾病。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character succeeds, the evidence is usable by a crime lab.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T023155Z" creationid="quentine" creationdate="20191020T023008Z">
+        <seg>若检定成功，该证据则可用于技术鉴定室分析。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16856,6 +17320,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character wishes to pull him or herself up, the character can do so with a move action and a Climb check (DC 15).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T140919Z" creationid="quentine" creationdate="20191021T140919Z">
+        <seg>如果角色要爬上来，则需要一个移动动作来进行一次攀爬检定（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character’s Dexterity is high, the character is particularly adept at dodging blows or gunfire.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T114954Z" creationid="quentine" creationdate="20190114T114709Z">
@@ -16884,6 +17356,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113930Z" creationid="quentine" creationdate="20190115T113930Z">
         <seg>当角色生命值已低于那个值，所有的临时生命值都被耗完，角色的生命值就不会再降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character’s speed is greater than 30 feet, he or she gains a bonus of +4 for every 10 feet over 30.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T134256Z" creationid="quentine" creationdate="20191021T134256Z">
+        <seg>若角色速度高于30尺，每比30尺多10尺都要受到4点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character’s speed is less than 30 feet, he or she takes a penalty of –6 for every 10 feet of speed less than 30.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T134224Z" creationid="quentine" creationdate="20191021T134224Z">
+        <seg>若角色速度低于30尺，每比30尺低10尺都要受到6点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17124,6 +17612,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T135902Z" creationid="quentine" creationdate="20190924T135902Z">
         <seg>若英雄检定成功，交涉检定将获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the initial check fails, the other character has become more firmly resolved to resist the intimidator, and trying again is futile.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T141251Z" creationid="quentine" creationdate="20191016T141251Z">
+        <seg>如果首次检定失败，对方会更坚定地抗拒威吓，重试也是没用的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17416,6 +17912,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If there is no danger associated with failing, the character can take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T142953Z" creationid="quentine" creationdate="20191021T142953Z">
+        <seg>若失败结果没有危险，可取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is no particular drawback to not possessing the feat, this entry is absent.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T122926Z" creationid="quentine" creationdate="20190704T122926Z">
@@ -17436,6 +17940,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T120200Z" creationid="quentine" creationdate="20190807T120020Z">
         <seg>如果没有这一项，重试技能检定除了需要再花时间外没有任何固有惩罚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If this is not the case, the DC for the jump is doubled.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T135643Z" creationid="quentine" creationdate="20191021T135643Z">
+        <seg>如果条件未满足，DC加倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18208,6 +18720,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is modified by the time that has elapsed since the clue was left, and whether or not the scene was disturbed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T022050Z" creationid="quentine" creationdate="20191020T022050Z">
+        <seg>DC受线索的留存时间和现场的破坏影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is opposed by others’ Spot check results.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T125514Z" creationid="quentine" creationdate="20190925T125514Z">
@@ -18332,6 +18852,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190623T130838Z" creationid="quentine" creationdate="20190623T130838Z">
         <seg>这代表魔宠异常地坚韧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It simply allows the character to collect items he or she has found in a manner that best aids in their analysis later, at a crime lab.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T133252Z" creationid="quentine" creationdate="20191021T132748Z">
+        <seg>这只是一个收纳已发现物品的检定，成功收纳以帮助技术鉴定室分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It simply allows the character to extract extra information from a clue he or she has found.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T021907Z" creationid="quentine" creationdate="20191020T021907Z">
+        <seg>只是简单地让角色从已发现的线索推演出更多信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18946,6 +19482,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the other hand, if the character succeeds by 10 or more, the lab gains a +2 circumstance bonus on its checks to analyze the material.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T132258Z" creationid="quentine" creationdate="20191021T132218Z">
+        <seg>反之，如果检定成功10点及以上，技术鉴定室对此物证的所有分析检定都有2点情景加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once a character has succeeded in both checks, the character has accessed the site.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190916T144014Z" creationid="quentine" creationdate="20190916T144014Z">
@@ -19168,8 +19712,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>Opening a lock requires a lockpick set (for a mechanical lock) or an electrical tool kit (for an electronic lock).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T120552Z" creationid="quentine" creationdate="20190925T120552Z">
-        <seg>撬开锁头需要撬锁工具（用于机械锁）或者电气工具箱（用于电子锁）。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T022714Z" creationid="quentine" creationdate="20190925T120552Z">
+        <seg>撬开锁头需要撬锁工具（用于机械锁）或者电气工具（用于电子锁）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20396,6 +20940,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Standing from a prone position is a move action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T134817Z" creationid="quentine" creationdate="20191021T134817Z">
+        <seg>从俯卧状态爬起是一个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Starting at 2nd level, a Battle Mind can create create tattoos on his body or someone else’s that can be used to invoke psionic powers.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190621T133248Z" creationid="quentine" creationdate="20190621T133248Z">
@@ -21124,6 +21676,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DC for the jump is equal to the distance jumped (in feet).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T135423Z" creationid="quentine" creationdate="20191021T135423Z">
+        <seg>跳跃DC等于欲跳跃的距离（以尺计）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DC for the jump is the height x4 (in feet).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T140451Z" creationid="quentine" creationdate="20191021T140451Z">
+        <seg>跳跃的DC等于高度×4（以尺计）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DC for this check is 30, and the Field Medic can’t take 10 or take 20.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190524T131924Z" creationid="quentine" creationdate="20190524T131924Z">
@@ -21220,6 +21788,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DC to jump down from a height is 15.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T142511Z" creationid="quentine" creationdate="20191021T142511Z">
+        <seg>从高处跳下的DC为15。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DC to write a program is 20; the time required is 1 hour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T124339Z" creationid="quentine" creationdate="20190917T124339Z">
@@ -21228,10 +21804,34 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DCs for high jumps of 1 to 8 feet are given in the table below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T140547Z" creationid="quentine" creationdate="20191021T140547Z">
+        <seg>1到8尺的跳高DC如下表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DCs for long jumps of 5 to 30 feet are given in the table below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T135506Z" creationid="quentine" creationdate="20191021T135506Z">
+        <seg>5到30尺的跳远的DC如下表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DCs given in the accompanying table show what it takes to change someone’s attitude with the use of the Diplomacy skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T131706Z" creationid="quentine" creationdate="20190924T131706Z">
         <seg>下表给出的DC是用交涉技能改变某人的态度所需的DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DCs specified below assume a speed of 30 feet (the speed of a typical human).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T134053Z" creationid="quentine" creationdate="20191021T134053Z">
+        <seg>下列DC假定角色有30尺的速度（人类的标准速度）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22348,6 +22948,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The base DC to analyze a clue is 15.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T021931Z" creationid="quentine" creationdate="20191020T021931Z">
+        <seg>分析线索的基础DC是15。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The base number of power points available per day is shown on the table above.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190619T141744Z" creationid="quentine" creationdate="20190619T141744Z">
@@ -22716,6 +23324,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character can’t force someone to obey his or her every command or do something that endangers that person’s life.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T140817Z" creationid="quentine" creationdate="20191016T140817Z">
+        <seg>角色不能强迫他人服从自己的每一个命令，或者做一些危及目标生命的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character can’t make Listen checks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121738Z" creationid="quentine" creationdate="20190115T121738Z">
@@ -22764,10 +23380,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character does not have to get a running start to jump down (the DC is not doubled if the character does not get a running start).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T142534Z" creationid="quentine" creationdate="20191021T142534Z">
+        <seg>跳下无需助跑（未助跑DC不加倍）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character does not have to spend the entire time training the animal; 3 hours per day is enough.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T142639Z" creationid="quentine" creationdate="20190930T142552Z">
         <seg>角色不需要把所有时间都花在驯养动物上面，每天3小时就够了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character does not need to get a running start to hop up (the DC is not doubled if you do not get a running start).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T142326Z" creationid="quentine" creationdate="20191021T142326Z">
+        <seg>跳台阶无需助跑（未助跑DC不加倍）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22784,6 +23416,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T132407Z" creationid="quentine" creationdate="20190924T132407Z">
         <seg>角色不能挑选自己理想的交涉结果，只能检定并对照第二张表得出结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character ends his or her movement grasping the far edge.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T140038Z" creationid="quentine" creationdate="20191021T140038Z">
+        <seg>角色抓住边缘时将结束移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22832,6 +23472,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T090646Z" creationid="quentine" creationdate="20190216T090646Z">
         <seg>角色可获得所拥有职业的所有职业专长、天赋、奖励专长和其他特殊能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character grasps the object he or she was trying to reach.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T140828Z" creationid="quentine" creationdate="20191021T140828Z">
+        <seg>角色将抓稳目的地的物体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22966,8 +23614,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>The character must have a lockpick set (for a mechanical lock) or an electrical tool kit (for an electronic lock).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T112804Z" creationid="quentine" creationdate="20190925T112804Z">
-        <seg>角色必须有橇锁工具（用于撬开机械锁）或者电气工具箱（用于电子锁）才能撬锁。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T022714Z" creationid="quentine" creationdate="20190925T112804Z">
+        <seg>角色必须有橇锁工具（用于撬开机械锁）或者电气工具（用于电子锁）才能撬锁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23112,6 +23760,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T143916Z" creationid="quentine" creationdate="20190926T143916Z">
         <seg>角色的赌博检定将与其他参与者的赌博检定对抗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character’s Jump check is modified by his or her speed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T133944Z" creationid="quentine" creationdate="20191021T133944Z">
+        <seg>角色的跳跃检定要加上速度的调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23304,6 +23960,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114401Z" creationid="quentine" creationdate="20190116T114401Z">
         <seg>决定每级所获得生命点的掷骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The difficulty of reaching a given height varies according to the size of the character or creature.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T141140Z" creationid="quentine" creationdate="20191021T141140Z">
+        <seg>跳跃到指定高度的难度也取决于角色或生物的体型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24172,6 +24836,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The result of the Investigate check provides bonuses or penalties to the lab workers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T021125Z" creationid="quentine" creationdate="20191020T021125Z">
+        <seg>调查检定的结果为鉴定室工作人员的工作提供加值或减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The result of the action point roll is added to the damage roll for that attack.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190226T144733Z" creationid="quentine" creationdate="20190226T144250Z">
@@ -24609,6 +25281,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T135616Z" creationid="QuenTine" creationdate="20181104T135616Z">
         <seg>大量职业都符合该职业背景，包括记者、摄影记者、私家侦探、警探、犯罪学家、罪犯绘图师、特工以及具备搜集分析信息的职业都属于这类人群。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are limits to what a successful Intimidate check can do.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T140709Z" creationid="quentine" creationdate="20191016T140709Z">
+        <seg>成功的威吓检定能做的事也有限制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25302,6 +25982,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This function of the Investigate skill does not give the character clues where none existed before.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T021602Z" creationid="quentine" creationdate="20191020T021602Z">
+        <seg>这种形式的调查不能凭空给角色提供新的线索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This function of the Investigate skill does not provide the character with evidentiary items.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T132401Z" creationid="quentine" creationdate="20191021T132401Z">
+        <seg>这种形式的调查不能凭空给角色提供物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This grants the character a +2 circumstance bonus on his or her next attack roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190731T122113Z" creationid="quentine" creationdate="20190731T122113Z">
@@ -25754,6 +26450,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This use of the Investigate skill requires an evidence kit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T022542Z" creationid="quentine" creationdate="20191020T022542Z">
+        <seg>这种形式的调查需要取证工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This use of the skill allows you to use a scroll as if you were of the appropriate spellcasting class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190612T141122Z" creationid="quentine" creationdate="20190612T140435Z">
@@ -25838,6 +26542,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190612T141354Z" creationid="quentine" creationdate="20190612T141354Z">
         <seg>你必须能解读卷轴里的法术才能施展它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To collect a piece of evidence, make an Investigate check (DC 15).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T022927Z" creationid="quentine" creationdate="20191020T022927Z">
+        <seg>收集一份证据需要进行一次调查检定（DC15）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26148,8 +26860,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="EN-US">
         <seg>To use a Craft skill effectively, a character must have a kit or some other set of basic tools.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T132142Z" creationid="quentine" creationdate="20190918T132142Z">
-        <seg>要有效地制造物品，角色必须有必备的工具箱或其他类型的基本工具集。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T022627Z" creationid="quentine" creationdate="20190918T132142Z">
+        <seg>要有效地制造物品，角色必须有必备的工具或其他类型的基本工具集。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26190,6 +26902,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T140114Z" creationid="quentine" creationdate="20190930T140114Z">
         <seg>为通用工作训练动物需要的检定比教会动物单独的技巧少。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tumble can provide a +2 synergy bonus on Jump checks (see Skill Synergy).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T143254Z" creationid="quentine" creationdate="20191021T143254Z">
+        <seg>翻滚会为跳跃检定提供2点共效加值（见`技能共效`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27186,6 +27906,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Without a 20-foot move, double the DC.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T135755Z" creationid="quentine" creationdate="20191021T135755Z">
+        <seg>若不够20尺，DC加倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without a running start, double the DC.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T140640Z" creationid="quentine" creationdate="20191021T140640Z">
+        <seg>未助跑则DC加倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Without this feat, if a character attempts an autofire attack at a specific target, it simply counts as a normal attack and all the extra bullets are wasted.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T135627Z" creationid="quentine" creationdate="20190730T135627Z">
@@ -27444,6 +28180,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190619T141109Z" creationid="quentine" creationdate="20190619T141109Z">
         <seg>\* 发现的各等级的灵力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\* Requires a 20-foot move.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T135741Z" creationid="quentine" creationdate="20191021T135741Z">
+        <seg>\* 需要先移动20尺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27932,6 +28676,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |10–14|+1|
 |15–24|+2|
 |25及以上|+3|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Circumstances|DC Modifier|
+|-------------|:---------:|
+|Every day since event (max modifier +10)|+2|
+|Scene is outdoors|+5|
+|Scene slightly disturbed|+2|
+|Scene moderately disturbed|+4|
+|Scene extremely disturbed|+6|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191020T022344Z" creationid="quentine" creationdate="20191020T022344Z">
+        <seg>|情景|DC 调整值|
+|-------------|:---------:|
+|事发每过一天（最大调整值为+10）|+2|
+|现场在户外|+5|
+|现场被轻度破坏|+2|
+|现场被中度破坏|+4|
+|现场被重度破坏|+6|</seg>
       </tuv>
     </tu>
     <tu>
@@ -28830,6 +29594,34 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Creature Size|Maximum Height|
+|-------------|--------------|
+|Colossal|128 ft.|
+|Gargantuan|64 ft.|
+|Huge|32 ft.|
+|Large|16 ft.|
+|Medium-size|8 ft.|
+|Small|4 ft.|
+|Tiny|2 ft.|
+|Diminutive|1 ft.|
+|Fine|0.5 ft.|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T141640Z" creationid="quentine" creationdate="20191021T141640Z">
+        <seg>|生物体型|最大高度|
+|-------------|--------------|
+|超巨型|128 尺|
+|巨型|64 尺|
+|超大型|32 尺|
+|大型|16 尺|
+|普通|8 尺|
+|小型|4 尺|
+|超小型|2 尺|
+|微型|1 尺|
+|超微型|0.5 尺|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Creature/Object|Rating|
 |---------------|------|
 |Outsider|HD|
@@ -29154,6 +29946,24 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|High Jump Distance|DC\*|High Jump Distance|DC\*|
+|------------------|:--:|------------------|:--:|
+|1 foot|4|5 feet|20|
+|2 feet|8|6 feet|24|
+|3 feet|12|7 feet|28|
+|4 feet|16|8 feet|32|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T140622Z" creationid="quentine" creationdate="20191021T140622Z">
+        <seg>|跳高距离|DC\*|跳高距离|DC\*|
+|------------------|:--:|------------------|:--:|
+|1 尺|4|5 尺|20|
+|2 尺|8|6 尺|24|
+|3 尺|12|7 尺|28|
+|4 尺|16|8 尺|32|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Improvement|Craft DC|Repair Chance (d%)|
 |-----------|--------|------------------|
 |Ranged Weapons|
@@ -29294,6 +30104,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |高质量（单位门闩）|30|
 |高度安全（银行支行金库）|40|
 |顶级安全（银行总行金库）|50|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Long Jump Distance|DC\*|Long Jump Distance|DC\*|
+|------------------|:--:|------------------|:--:|
+|5 feet|5|20 feet|20|
+|10 feet|10|25 feet|25|
+|15 feet|15|30 feet|30|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T135722Z" creationid="quentine" creationdate="20191021T135722Z">
+        <seg>|跳远距离|DC\*|跳远距离|DC\*|
+|------------------|:--:|------------------|:--:|
+|5 尺|5|20 尺|20|
+|10 尺|10|25 尺|25|
+|15 尺|15|30 尺|30|</seg>
       </tuv>
     </tu>
     <tu>

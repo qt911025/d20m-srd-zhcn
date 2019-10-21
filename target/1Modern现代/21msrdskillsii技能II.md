@@ -1,262 +1,262 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
 
-# SKILLS II
+# 技能 II
 
-## Gather Information (Cha)
+## 收集信息（魅）
 
-**Check:** By succeeding at a skill check (DC 10) and spending 1d4+1 hours passing out money and buying drinks, a character can get a feel for the major news items in a neighborhood. This result assumes that no obvious reasons exist why information would be withheld. The higher the check result, the better the information.
+**检定：** 经过一次成功的技能检定（DC10）并花费1d4+1小时来消费、吃喝，角色将知晓邻里间发生的大多数新闻。只能收集到那些没有必要藏着掖着的信息。检定结果越高，信息就越准确。
 
-If the situation doesn’t require the expenditure of money, no Wealth check is necessary.
+若信息不需要花钱购买，就没必要进行财富检定。
 
-Information ranges from general to protected, and the cost and DC increases accordingly for the type of information the character seeks to gather, as given in the table below.
+从传闻到受保护的信息，信息的费用和DC也根据信息的类型逐步升高，详见下表。
 
-|Type of Information|DC|Purchase DC|
+|信息类型|DC|购买DC|
 |------------------|:-:|:---------:|
-|General|10|5|
-|Specific|15|10|
-|Restricted|20|15|
-|Protected|25|20|
+|传闻|10|5|
+|专门|15|10|
+|受限|20|15|
+|受保护|25|20|
 
-General information concerns local happenings, rumors, gossip, and the like. Specific information usually relates to a particular question. Restricted information includes facts that aren’t generally known and requires that the character locate someone who has access to such information. Protected information is even harder to come by and might involve some danger, either for the one asking the questions or the one providing the answer. There’s a chance that someone will take note of anyone asking about restricted or protected information.
+传闻就是当地发生的事、谣言、绯闻等等。专门的信息通常要带目的地去寻求才能得到。受限的信息包括并非众所周知的信息，需要从能接触到这个信息的人身上获得。受保护的信息更难获得，获得此信息会让问者或答者陷入危险。获取受限或受保护信息的行为有可能会被人记下来。
 
-The character can increase the amount of money used to gather information, gaining a circumstance bonus by effectively offering a bribe (though the process might entail buying more expensive drinks, not necessarily offering a character extra money). Increase the Wealth check DC by 2 for each +1 circumstance bonus the character wants to add to his or her skill check.
+角色可以增加收集信息所花费的金钱，以获得等效于贿赂的情景加值（这个过程可以体现为买更贵的饮料，而不是一定要另外给一笔钱）。角色每为收集信息检定增加1点情景加值，所需的财富检定DC+2。
 
-**Try Again?:** Yes, but it takes 1d4+1 hours for each check, and characters may draw attention to themselves if they repeatedly pursue a certain type of information.
+**重试：** 可以，但每次检定要间隔1d4+1小时，而且如果重复追问某一类特定信息，你也许会引起注意。
 
-**Special:** A character can take 10 when making a Gather Information check, but cannot take 20.
+**特别：** 角色可以在收集信息检定中取10， 但不能取20。
 
-A character with the Trustworthy feat gets a +2 bonus on all Gather Information checks.
+有`值得信赖`专长的角色的收集信息检定有2点加值。
 
-**Time:** A Gather Information check takes 1d4+1 hours.
+**时间：** 收集信息检定需要1d4+1小时。
 
-## Handle Animal (Cha) Trained Only
+## 驯养动物（魅） 需受训
 
-**Check:** The time required to get an effect and the DC depend on what the character is trying to do.
+**检定：** 生效所需时间和检定DC取决于角色试图要做到什么。
 
-|Task|Time|DC|
+|任务|时间|DC|
 |----|---|:-:|
-|Handle an animal|Move action|10|
-|“Push” an animal|Full-round action|25|
-|Teach an animal a trick|1 week|See text|
-|Train an animal for a purpose|See text|See text|
+|驾驭动物|移动动作|10|
+|逼迫动物|整轮动作|25|
+|教会动物一个技巧|1周|见下文|
+|为通用工作训练动物|见下文|见下文|
 
-**Handle an Animal:** This means to command an animal to perform a task or trick that it knows.  If the animal is wounded or has taken any ability score damage, the DC increases by +5. If the check is successful, the animal performs the task or trick on its next action.
+**驾驭动物：** 指的是命令一只动物完成一项它所会的工作或技巧。如果动物受伤或者受到任何属性伤害，DC+5。如果检定成功，动物的下一个动作就是完成这个工作或技巧。
 
-**“Push” an Animal:** To push an animal means to get it to perform a task or trick that it doesn’t know, but is physically capable of performing. If the check is successful, the animal performs the task or trick on its next action.
+**逼迫动物：** 逼迫动物指的是让动物完成它还不会，但有能力办到的工作或技巧。如果检定成功，动物的下一个动作就是完成这个工作或技巧。
 
-**Teach an Animal a Trick:** The character can teach an animal a specific trick, such as “attack” or “stay,” with one week of work and a successful Handle Animal check. An animal with an Intelligence of 1 can learn a maximum of three tricks, while an animal with an Intelligence of 2 can learn a maximum of six tricks.
+**教会动物一个技巧：** 角色可以用一次成功的驯养动物检定和一周的时间教会动物一个特定的技巧，比如“攻击”或者“停留”。有1点智力的动物可以学习至多3个技巧，而有2点智力的动物可以学习至多6个技巧
 
-The character can teach an animal to obey only that character. Any other person attempting to make the animal perform a trick takes a –10 penalty on his or her Handle Animal check. Teaching an animal to obey only the character counts as a trick (in terms of how many tricks the animal can learn). It does not require a check; however, it increases the DC of all tricks the character teaches the animal by +5. If the animal already knows any tricks, the character cannot teach it to obey only that character.
+角色可以教会动物只听自己的命令。其他人试图让动物完成技巧所做的驯养动物检定将受到10点减值。教会动物只听自己的指令算作一个技巧（算在动物已学技巧数里）。这不需要检定，但是这会让所有教会动物技巧的DC+5。如果动物已经学会任何技巧，角色不能再教会动物只听自己的指令。
 
-Possible tricks include, but are not limited to, the following.
+可学的技巧包括但不限于：
 
-**Attack (DC 20):** The animal attacks apparent enemies. The character may point to a particular enemy to direct the animal to attack that enemy. Normally, an animal only attacks humans and other animals. Teaching an animal to attack all creatures (including unnatural creatures such as undead and aberrations if they exist in your campaign) counts as two tricks.
+**攻击（DC20）：** 动物攻击可见敌人。角色指着一个目标让动物攻击。一般来说，动物只攻击人类和其他动物。教会动物攻击所有生物（包括超自然生物比如战斗中出现的不死生物类和异怪类）算两个技巧。
 
-**Come (DC 15):** The animal comes to the character, even if the animal normally would not do so (such as following the character onto a boat).
+**过来（DC15）：** 动物会靠近角色，即使动物一般不会这么做（比如跟随角色上船）。
 
-**Defend (DC 20):** The animal defends the character (or is ready to defend the character if no threat is present). Alternatively, the character can command the animal to defend a specific other character.
+**防御（DC20）：** 动物会为角色防御（或者在角色没有威胁时准备防御）。或者角色可以命令动物为制定的其他角色提供防御。
 
-**Down (DC 15):** The animal breaks off from combat or otherwise backs down.
+**退让（DC15）：** 让动物脱离战斗。
 
-**Fetch (DC 15):** The animal goes and gets something. The character must point out a specific object, or else the animal fetches some random object.
+**取物（DC15）：** 让动物过去拿一些东西。角色应该指向特定的物品，否则动物会随机拿些物品。
 
-**Guard (DC 20):** The animal stays in place and prevents others from approaching.
+**看守（DC20）** 让动物待在一个地方阻止其他生物靠近。
 
-**Heel (DC 15):** The animal follows the character closely, even to places where it normally wouldn’t go.
+**跟随（DC15）** 让动物紧跟着角色，即使是跟着去平常不会去的地方。
 
-**Perform (DC 15):** The animal does a variety of simple tricks such as sitting up, rolling over, and so on.
+**表演（DC15）：** 让动物表演一些简单的把戏，比如坐下、打滚等等。
 
-**Seek (DC 15):** The animal moves into an area and searches for something of interest. It stops and indicates the first thing of interest it finds. What constitutes an item of interest to an animal can vary. Animals almost always find other creatures or characters of interest. To understand that it’s looking for a specific object, the animal must make an Intelligence check (DC 10).
+**搜寻（DC15）：** 让动物进入一个区域搜寻它感兴趣的物品。一旦找到则停止搜寻。让一个动物感兴趣的物品多种多样。动物总是优先找感兴趣的人或生物。要让动物理解这是一个搜寻特定物品的指令，必须让动物做一次智力检定（DC10）。
 
-**Stay (DC 15):** The animal stays in place waiting for the character to return. It does not challenge other creatures that come by, though it still defends itself if it needs to.
+**停留（DC15）** 让动物待在一个地方等待角色回来。它不会挑战经过的其他生物，但他仍然会在必要时自我防御。
 
-**Track (DC 20):** The animal tracks the scent presented to it.
+**追踪（DC20）** 让动物追踪让它嗅到的气味。
 
-**Work (DC 15):** The animal pulls or pushes a medium or heavy load.
+**劳作（DC15）：** 让动物拉推中等或重度负载。
 
-**Train an Animal:** Rather than teaching an animal individual tricks, the character can train an animal for a general purpose. Essentially, an animal’s purpose represents a preselected set of known tricks that fit into a common scheme. An animal can be trained for one general purpose only, though if the animal is capable of learning additional tricks (above and beyond those included in its general purpose) it may do so. Training an animal for a purpose requires fewer checks than teaching individual tricks.
+**（为通用工作）训练动物：** 角色可以为训练动物做一些通用的`工作`，而不只是训练一些简单的`技巧`。本质上，一项动物的`工作`代表了一系列已知`技巧`的集合，可用于相似的用途。一个动物只能学会一种`工作`，但是如果动物还有余力学习其他`技巧`（不在通用工作里的技巧）则仍可以学习。为通用工作训练动物需要的检定比教会动物单独的技巧少。
 
-**Combat Riding (DC 20, 6 weeks):** An animal trained to bear a rider into combat knows Attack, Come, Defend, Down, Guard, and Heel. An animal trained in riding may be “upgraded” to an animal trained in combat riding by spending three weeks and making a Handle Animal check (DC 20). If the animal was trained in other tricks (in addition to those provided by training the animal for riding), those tricks are completely replaced by the combat riding tricks.
+**战斗骑乘（DC20，6周）：** 被训练为战斗中驮骑手的动物懂得攻击、过来、防御、退让、看守、跟随。可将已训练`骑乘`的动物“升级”至战斗骑乘，这需要3周时间进行驯养动物检定（DC20）。如果动物还训练了其他技巧（骑乘工作之外的技巧），这些技巧将被完全替换为战斗骑乘工作的技巧。
 
-**Fighting (DC 20, 3 weeks):** An animal trained for combat knows the following tricks: Attack, Down, and Stay.
+**战斗（DC20，3周）：** 为战斗而训练的动物懂得攻击，退让，还有停留。
 
-**Guarding (DC 20, 4 weeks):** An animal trained to guard knows the following tricks: Attack, Defend, Down, and Guard.
+**守护（DC20，4周）：** 为护卫而训练的动物懂得攻击，防御，退让，还有看守。
 
-**Laboring (DC 15, 2 weeks):** An animal trained for heavy labor knows Come and Work.
+**干重活（DC15，2周）：** 为重活而训练的动物知道过来和劳作。
 
-**Hunting (DC 20, 6 weeks):** An animal trained for hunting knows Attack, Down, Fetch, Heel, Seek, and Track.
+**捕猎（DC20，6周）：** 为捕猎而训练的动物懂得攻击，退让，取物，跟随，搜寻，以及追踪。
 
-**Performing (DC 15, 4 weeks):** An animal trained for per-forming knows Come, Fetch, Heel, Perform, and Stay.
+**表演（DC15， 4周）：** 为表演而训练的动物懂得过来，取物，跟随，表演，以及停留。
 
-**Riding (DC 15; 3 weeks):** An animal trained to bear a rider knows Come, Heel, and Stay.
+**骑乘（DC15，3周）：** 为骑乘而训练的动物懂得过来，跟随，以及停留。动物
 
-**Try Again?:** Yes.
+**重试：** 可以。
 
-**Special:** A character can take 10 or take 20 when handling animals.
+**特别：** 角色驯养动物可以取10取20。
 
-An untrained character uses Charisma checks to handle and push animals, but he or she can’t teach or train animals.
+未受训角色使用魅力检定来驾驭和逼迫动物，但不能教会动物技巧或工作。
 
-A character with the Animal Affinity feat and at least 1 rank in this skill gets a +2 bonus on all Handle Animal checks.
+有`动物亲和`专长且此技能至少1级的角色，驯养动物检定有2点加值。
 
-**Time:** See above. Teaching or training an animal takes a number of days. The character does not have to spend the entire time training the animal; 3 hours per day is enough. (Spending more than 3 hours per day does not reduce the number of days required.) The character cannot spread the days out; if the character does not complete the training during a period of consecutive days, the effort is wasted.
+**时间：** 见上文。教会技巧或训练工作都要花费数以天计的时间。角色不需要把所有时间都花在驯养动物上面，每天3小时就够了。（每天训练超过3小时也不会减少训练所需天数。）训练的日期不能分开，如果训练的日期不能连贯，就前功尽弃了。
 
-## Hide (Dex) Armor Penalty
+## 躲藏（敏） 护甲减值
 
-**Check:** A character’s Hide check is opposed by the Spot check of anyone who might see the character. The character can move up to half his or her normal speed and hide at no penalty. At more than half and up to the character’s full speed, the character takes a –5 penalty. It’s practically impossible (–20 penalty) to hide while attacking, running, or charging.
+**检定：** 角色用躲藏检定与任何可能看得到角色的人的侦察检定对抗。角色躲藏时可以以半速移动而不受惩罚。角色的速度大于半速，躲藏检定将受到5点减值。攻击、奔跑或冲锋时躲藏是几乎不可能的（有20减值）。
 
-**The hide check is also modified by the character’s size:**
+**躲藏检定同样受到角色体型调整值影响：**
 
-|Size|Modifier|Size|Modifier|
+|体型|调整值|体型|调整值|
 |----|:------:|----|:------:|
-|Fine|+16|Large|–4|
-|Diminutive|+12|Huge|–8|
-|Tiny|+8|Gargantuan|–12|
-|Small|+4|Colossal|–16|
-|Medium-size|+0|||
+|超微型|+16|大型|–4|
+|微型|+12|超大型|–8|
+|超小型|+8|巨型|–12|
+|小型|+4|超巨型|–16|
+|普通|+0|||
 
-If people are observing the character, even casually, he or she can’t hide. The character can run around a corner so that he or she is out of sight and then hide, but the others then know at least where the character went.
+如果有人注视着角色，即使不是刻意注视，角色就不能躲藏。角色可以绕到角落里脱离视线以便躲藏，但其他人至少还是知道角色的去向的。
 
-Cover and concealment grant circumstance bonuses to Hide checks, as shown below. Note that a character can’t hide if he or she has less than one-half cover or concealment.
+掩体和隐蔽会为躲藏提供情景加值，见下文。注意角色如果处于一半以下的掩体或隐蔽则不可躲藏。
 
-|Cover or Concealment|Circumstance Bonus|
+|掩体或隐蔽|情景加值|
 |--------------------|:----------------:|
-|Three-quarters|+5|
-|Nine-tenths|+10|
+|四分之三|+5|
+|十分之九|+10|
 
-**Creating a Diversion to Hide:** A character can use the Bluff skill to help him or her hide. A successful Bluff check can give the character the momentary diversion needed to attempt a Hide check while people are aware of the character. While the others turn their attention from the character, he or she can make a Hide check if the character can get to a hiding place of some kind. (As a general guideline, the hiding place has to be within 1 foot for every rank the character has in Hide.) This check, however, is at a –10 penalty because the character has to move fast.
+**转移注意力以躲藏：** 角色可以使用唬骗帮助自己躲藏。一次成功的唬骗检定可让角色分散搜捕者的注意力一小会，让自己此时可以做一次躲藏检定。当他人的注意力从角色的身上移开，且角色在可以躲藏的位置，角色可以进行一次躲藏检定。（通常这么规定，躲藏的位置必须在半径为n尺的范围内，n等于角色躲藏等级。）但这个检定会有10点减值，因为角色必须快速移动到躲藏的位置。
 
-**Tailing:** A character can use Hide to tail a person in public. Using the skill in this manner assumes that there are other random people about, among whom the character can mingle to remain unnoticed. If the subject is worried about being followed, he or she can make a Spot check (opposed by the character’s Hide check) every time he or she changes course (goes around a street corner, exits a building, and so on). If he or she is unsuspecting, he or she generally gets only a Spot check after an hour of tailing.
+**尾随：** 角色可以适用躲藏来在公共场合尾随一个人。以这种形式使用此技能的情形是假设附近随机分布着几个人，用躲藏来混入其中而不被注意。如果目标担心被跟踪，可以在每次切换地域（转过一个街角、离开建筑等等）时进行一次侦察检定（与角色的躲藏检定对抗）。若目标没有疑心，则通常只在尾随的1小时后进行一次侦察检定。
 
-**Special:** A character can take 10 when making a Hide check, but can’t take 20.
+**特别：** 角色可以在躲藏检定中取10， 但不能取20。
 
-A character with the Stealthy feat gets a +2 bonus on all Hide checks.
+有`隐秘`专长的角色的躲藏检定有2点加值。
 
-**Time:** A Hide check is an attack action.
+**时间：** 躲藏检定是一个攻击动作。
 
-## Intimidate (Cha)
+## 威吓（魅）
 
-**Check:** With a successful check, a character can forcibly persuade another character to perform some task or behave in a certain way. A character’s Intimidate check is op-posed by the target’s level check (1d20 + the target’s character level or Hit Dice). Any modifiers that a target may have on Will saving throws against fear effects apply to this level check. If the character succeeds, he or she may treat the target as friendly for 10 minutes, but only for purposes of actions taken while in the character’s presence. (That is, the target retains his or her normal attitude, but will chat, advise, offer limited help, or advocate on the character’s behalf while intimidated.)
+**检定：** 检定成功时，角色可以强行说服另一个角色完成一些工作或者做指定的举动。角色的威吓检定是与目标的等级检定（1d20+目标的角色等级或生命骰）对抗。目标所有的任何适用于其意志检定的调整值将应用与此等级检定。若角色成功，则视为目标对其友善，持续10分钟，但这种友善只体现在对方做所要求做的事上，且角色必须一直在场。（也就是说，目标保留原来的态度，但在威吓下会聊天、建议、提供有限的帮助、或为角色辩护。）
 
-Circumstances dramatically affect the effectiveness of an Intimidate check.
+DM应根据情境调整威吓检定的效果使其更合理。
 
-There are limits to what a successful Intimidate check can do.
+成功的威吓检定能做的事也有限制。
 
-The character can’t force someone to obey his or her every command or do something that endangers that person’s life.
+角色不能强迫他人服从自己的每一个命令，或者做一些危及目标生命的事。
 
-If the character fails by more than 5, the target may actually do the opposite of what the character wishes.
+如果角色失败5点以上，目标会做与角色期望正相反的事。
 
-**Try Again?:** No. Even if the initial check succeeds, the other character can only be intimidated so much, and trying again doesn’t help. If the initial check fails, the other character has become more firmly resolved to resist the intimidator, and trying again is futile.
+**重试：** 不行。即使首次检定成功了，对方也只能被威吓到一种程度，重试是没用的。如果首次检定失败，对方会更坚定地抗拒威吓，重试也是没用的。
 
-**Special:** A character can take 10 when making an Intimidate check, but can’t take 20.
+**特别：** 角色可以在威吓检定中取10， 但不能取20。
 
-A character immune to fear effects can’t be intimidated.
+免疫恐惧的角色不会被威吓到。
 
-A character may add a +2 bonus to his or her Intimidate check for every size category the character is larger than his or her target. Conversely, the character takes a –2 penalty to his or her check for every size category the character is smaller than his or her target.
+角色的体型每比目标大一级，威吓检定就多2点加值。相反地，角色每比目标小一级，威吓检定就多2点减值。
 
-A character with the Confident feat gets a +2 bonus on all Intimidate checks and on level checks to resist intimidation.
+有`自信`专长的角色在威吓检定以及对抗威吓的等级检定上获得2点加值。
 
-**Time:** An Intimidate check is a full-round action.
+**时间：** 威吓检定是一个整轮动作。
 
-## Investigate (Int) Trained Only
+## 调查（智） 需受训
 
-**Check:** A character generally uses Search to discover clues and Investigate to analyze them. If the character has access to a crime lab, the character uses the Investigate skill to collect and prepare samples for the lab. The result of the Investigate check provides bonuses or penalties to the lab workers.
+**检定：** 角色一般用搜索发现线索，用调査分析线索。角色在技术鉴定室里，应使用调查技能来收集和准备实验样本。调查检定的结果为鉴定室工作人员的工作提供加值或减值。
 
-**Analyze Clue:** The character can make an Investigate check to apply forensics knowledge to a clue.  This function of the Investigate skill does not give the character clues where none existed before. It simply allows the character to extract extra information from a clue he or she has found.
+**分析线索：** 角色可以做一次调查检定来对线索进行法医学鉴定。这种形式的调查不能凭空给角色提供新的线索。只是简单地让角色从已发现的线索推演出更多信息。
 
-The base DC to analyze a clue is 15. It is modified by the time that has elapsed since the clue was left, and whether or not the scene was disturbed.
+分析线索的基础DC是15。DC受线索的留存时间和现场的破坏影响。
 
-|Circumstances|DC Modifier|
+|情景|DC 调整值|
 |-------------|:---------:|
-|Every day since event (max modifier +10)|+2|
-|Scene is outdoors|+5|
-|Scene slightly disturbed|+2|
-|Scene moderately disturbed|+4|
-|Scene extremely disturbed|+6|
+|事发每过一天（最大调整值为+10）|+2|
+|现场在户外|+5|
+|现场被轻度破坏|+2|
+|现场被中度破坏|+4|
+|现场被重度破坏|+6|
 
-**Collect Evidence:** The character can collect and prepare evidentiary material for a lab. This use of the Investigate skill requires an evidence kit.
+**收集证据：** 角色可以为技术鉴定室收集并提供物证。这种形式的调查需要取证工具。
 
-To collect a piece of evidence, make an Investigate check (DC 15). If the character succeeds, the evidence is usable by a crime lab. If the character fails, a crime lab analysis can be done, but the lab takes a –5 penalty on any necessary check. If the character fails by 5 or more, the lab analysis simply cannot be done. On the other hand, if the character succeeds by 10 or more, the lab gains a +2 circumstance bonus on its checks to analyze the material.
+收集一份证据需要进行一次调查检定（DC15）。若检定成功，该证据则可用于技术鉴定室分析。若检定失败，技术鉴定室也能分析，但会在任何分析所需的检定上受到5点减值。若检定失败5点及以上，则无法分析。反之，如果检定成功10点及以上，技术鉴定室对此物证的所有分析检定都有2点情景加值。
 
-This function of the Investigate skill does not provide the character with evidentiary items. It simply allows the character to collect items he or she has found in a manner that best aids in their analysis later, at a crime lab.
+这种形式的调查不能凭空给角色提供物品。这只是一个收纳已发现物品的检定，成功收纳以帮助技术鉴定室分析。
 
-**Try Again?:** Generally, analyzing a clue again doesn’t add new insight unless another clue is introduced. Evidence collected cannot be recollected, unless there is more of it to take.
+**重试：** 一般来说，再次分析不会得出新结论，除非发现了新的线索。收集了的证据不能再收集，除非有多个可供收集。
 
-**Special:** A character can take 10 when making an Investigate check, but cannot take 20.
+**特别：** 角色可以在调查检定中取10， 但不能取20。
 
-Collecting evidence requires an evidence kit. If the character does not have the appropriate kit, the character takes a –4 penalty on his or her check.
+收集证据需要取证工具。如果角色没有合适的工具，检定时要受4点减值。
 
-A character with the Attentive feat and at least 1 rank in this skill gets a +2 bonus on all Investigate checks.
+有`听者有心`专长且此技能至少1级的角色，调查检定有2点加值。
 
-**Time:** Analyzing a clue is a full-round action. Collecting evidence generally takes 1d4 minutes per object.
+**时间：** 分析线索是一个整轮动作。收集证据每一件通常需要1d4分钟。
 
-## Jump (Str) Armor Penalty
+## 跳跃（力） 护甲减值
 
-**Check:** The DC and the distance the character can cover vary according to the type of jump the character is attempting.
+**检定：** DC与能跳跃的距离取决于角色以何种方式跳跃。
 
-The character’s Jump check is modified by his or her speed. The DCs specified below assume a speed of 30 feet (the speed of a typical human). If the character’s speed is less than 30 feet, he or she takes a penalty of –6 for every 10 feet of speed less than 30. If the character’s speed is greater than 30 feet, he or she gains a bonus of +4 for every 10 feet over 30.
+角色的跳跃检定要加上速度的调整值。下列DC假定角色有30尺的速度（人类的标准速度）。若角色速度低于30尺，每比30尺低10尺都要受到6点减值。若角色速度高于30尺，每比30尺多10尺都要受到4点加值。
 
-If the character has ranks in the Jump skill and succeeds on a check, the character lands on his or her feet (when appropriate) and can move as far as the character’s remaining movement allows. If the character attempts a Jump check untrained, the character lands prone unless he or she beats the DC by 5 or more. Standing from a prone position is a move action.
+若角色跳跃至少1级并成功跳跃，角色可以脚着地（如果合适），并且可以以剩下可移动距离继续移动。若角色的跳跃是未受训的，检定成功角色将俯卧着地，除非成功5点及以上。从俯卧状态爬起是一个移动动作。
 
-Distance moved by jumping is counted against maximum movement in a round. A character can start a jump at the end of one turn and complete the jump at the beginning of your next turn.
+一轮内跳跃所移动的距离将受限于最高移动距离。角色可以在回合结束时起跳，在下一回合完成跳跃。
 
-**Long Jump:** This is a horizontal jump, made across a gap such as a chasm or stream. At the midpoint of the jump, the character attains a vertical height equal to one-quarter the horizontal distance. The DC for the jump is equal to the distance jumped (in feet).  The DCs for long jumps of 5 to 30 feet are given in the table below. A character cannot jump a distance greater than his or her normal speed.
+**跳远：** 水平的跳跃，以跨越峡谷或溪流之类的沟壑。在跳跃的中点，角色达到最高位，高度等于水平距离的四分之一。跳跃DC等于欲跳跃的距离（以尺计）。5到30尺的跳远的DC如下表。角色不能跳出大于其常速的距离。
 
-All Jump DCs covered here assume that the character can move at least 20 feet in a straight line before attempting the jump. If this is not the case, the DC for the jump is doubled.
+所有跳跃DC假定的前提条件是角色在跳之前至少有20尺的助跑距离。如果条件未满足，DC加倍。
 
-|Long Jump Distance|DC\*|Long Jump Distance|DC\*|
+|跳远距离|DC\*|跳远距离|DC\*|
 |------------------|:--:|------------------|:--:|
-|5 feet|5|20 feet|20|
-|10 feet|10|25 feet|25|
-|15 feet|15|30 feet|30|
+|5 尺|5|20 尺|20|
+|10 尺|10|25 尺|25|
+|15 尺|15|30 尺|30|
 
-\* Requires a 20-foot move. Without a 20-foot move, double the DC.
+\* 需要先移动20尺。若不够20尺，DC加倍。
 
-If the character fails the check by less than 5, he or she doesn’t clear the distance, but can make a Reflex save (DC 15) to grab the far edge of the gap. The character ends his or her movement grasping the far edge. If that leaves the character dangling over a chasm or gap, getting up requires a move action and a Climb check (DC 15).
+若角色检定失败不足5点，将无法跳到目的地，但可以做一个反射检定（DC15）来抓住壕沟的边缘。角色抓住边缘时将结束移动。如果角色因此悬挂在峡谷或壕沟边缘，爬上来需要一个移动动作来进行一次攀爬检定（DC15）。
 
-**High Jump:** This is a vertical leap, made to jump up to grasp something overhead, such as a tree limb or ledge. The DC for the jump is the height x4 (in feet).  The DCs for high jumps of 1 to 8 feet are given in the table below.
+**跳高：** 垂直的跳跃，以抓住高于头顶的攀爬点，比如爬树或岩脊。跳跃的DC等于高度×4（以尺计）。1到8尺的跳高DC如下表。
 
-All Jump DCs covered here assume that the character can move at least 20 feet in a straight line before attempting the jump. If this is not the case, the DC for the jump is doubled.
+所有跳跃DC假定的前提条件是角色在跳之前至少有20尺的助跑距离。如果条件未满足，DC加倍。
 
-|High Jump Distance|DC\*|High Jump Distance|DC\*|
+|跳高距离|DC\*|跳高距离|DC\*|
 |------------------|:--:|------------------|:--:|
-|1 foot|4|5 feet|20|
-|2 feet|8|6 feet|24|
-|3 feet|12|7 feet|28|
-|4 feet|16|8 feet|32|
+|1 尺|4|5 尺|20|
+|2 尺|8|6 尺|24|
+|3 尺|12|7 尺|28|
+|4 尺|16|8 尺|32|
 
-\* Requires a 20-foot move. Without a running start, double the DC.
+\* 需要先移动20尺。未助跑则DC加倍。
 
-If the character succeeds on the check, he or she can reach the height. The character grasps the object he or she was trying to reach. If the character wishes to pull him or herself up, the character can do so with a move action and a Climb check (DC 15). If the character fails the Jump check, he or she does not reach the height, and lands on his or her feet in the same square from which the character jumped.
+若角色检定成功，则可到达指定高度。角色将抓稳目的地的物体。如果角色要爬上来，则需要一个移动动作来进行一次攀爬检定（DC15）。若跳跃检定失败，角色无法达到指定高度，将以脚着地落回起跳的方格。
 
-The difficulty of reaching a given height varies according to the size of the character or creature. Generally, the maximum height a creature can reach without jumping is given in the table below. (As a Medium-size creature, a typical human can reach 8 feet without jumping.) If the creature is long instead of tall, treat it as one size category smaller.
+跳跃到指定高度的难度也取决于角色或生物的体型。生物通常无需跳跃就能达到的高度见下表。（作为中等体型的生物，普通的人类能不靠跳跃攀上8尺高的地方。）如果生物是长而不是高，等效体型要降低一级。
 
-|Creature Size|Maximum Height|
+|生物体型|最大高度|
 |-------------|--------------|
-|Colossal|128 ft.|
-|Gargantuan|64 ft.|
-|Huge|32 ft.|
-|Large|16 ft.|
-|Medium-size|8 ft.|
-|Small|4 ft.|
-|Tiny|2 ft.|
-|Diminutive|1 ft.|
-|Fine|0.5 ft.|
+|超巨型|128 尺|
+|巨型|64 尺|
+|超大型|32 尺|
+|大型|16 尺|
+|普通|8 尺|
+|小型|4 尺|
+|超小型|2 尺|
+|微型|1 尺|
+|超微型|0.5 尺|
 
-**Hop Up:** The character can jump up onto an object as tall as his or her waist with a Jump check (DC 10). Doing so counts as 10 feet of movement. The character does not need to get a running start to hop up (the DC is not doubled if you do not get a running start).
+**跳台阶：** 角色能用跳跃检定跳上与其腰等高的目标上（DC10）。这么做相当于一个10尺的移动。跳台阶无需助跑（未助跑DC不加倍）。
 
-**Jumping Down:** If the character intentionally jumps from a height, he or she takes less damage than if the character just falls. The DC to jump down from a height is 15. The character does not have to get a running start to jump down (the DC is not doubled if the character does not get a running start).
+**跳下：** 角色从高处跳下承受的伤害比单纯的坠落要低。从高处跳下的DC为15。跳下无需助跑（未助跑DC不加倍）。
 
-If the character succeeds on the check, he or she takes falling damage as if the character had dropped 10 fewer feet than he or she actually did.
+若检定成功，角色的坠落伤害等效于从跳跃高度-10尺处坠落。
 
-**Special:** Effects that increase a character’s speed also increase the character’s jumping distance, since the check is modified by the character’s speed.
+**特别：** 增加角色速度的效果同样会增加角色的跳跃距离，因为检定受角色的速度影响。
 
-A character can take 10 when making a Jump check. If there is no danger associated with failing, the character can take 20.
+跳跃检定可取10。若失败结果没有危险，可取20。
 
-A character with the Acrobatic feat gets a +2 bonus on all Jump checks. A character with the Run feat gains a +2 competence bonus on Jump checks preceded by a 20-foot move.
+有`杂技`专长的角色的跳跃检定有2点加值。若有20尺助跑，有奔跑专长的角色还会为跳跃提供2点表现加值。
 
-Tumble can provide a +2 synergy bonus on Jump checks (see Skill Synergy).
+翻滚会为跳跃检定提供2点共效加值（见`技能共效`）。
 
-**Time:** Using the Jump skill is either a move action or a full-round action, depending on whether the character starts and completes the jump during a single move action or a full-round action.
+**时间：** 使用跳跃技能是移动动作或整轮动作，取决于角色是以一个移动动作还是一个整轮动作完成整个跳跃过程。
 
 ## Knowledge (Int) Trained Only
 
@@ -300,7 +300,7 @@ The fourteen Knowledge categories, and the topics each one encompasses, are as f
 
 **Theology and Philosophy:** Liberal arts, ethics, philosophical concepts, and the study of religious faith, practice, and experience.
 
-**Try Again?:** No. The check represents what a character knows, and thinking about a topic a second time doesn’t let the character know something he or she never knew in the first place.
+**重试：** 不行。The check represents what a character knows, and thinking about a topic a second time doesn’t let the character know something he or she never knew in the first place.
 
 **Special:** An untrained Knowledge check is simply an Intelligence check. Without actual training, a character only knows common knowledge about a given subject.
 
@@ -564,7 +564,7 @@ Information ranges from general to protected. Given enough time (usually 1d4 hou
 
 The higher the check result, the better and more complete the information. If the character wants to discover a specific fact, date, map, or similar bit of information, add +5 to +15 to the DC.
 
-**Try Again?:** Yes.
+**重试：** 可以。
 
 **Special:** A character can take 10 or take 20 on a Research check.
 
@@ -779,7 +779,7 @@ A character with the Medical Expert feat gets a +2 bonus on all Treat Injury che
 
 **Tumble through Opponents:** With a successful Tumble check (DC 25), the character can roll, jump, or dive through squares oc-cupied by opponents, moving over, under, or around them as if they weren’t there. Failure means the character moves as planned, but provokes attacks of opportunity as normal.
 
-**Try Again?:** No.
+**重试：** 不行。
 
 **Special:** A character with 5 or more ranks in Tumble gains a +3 dodge bonus to Defense (instead of the normal +2) when fighting defensively, and a +6 dodge bonus (instead of the normal +4) when engaging in total defense.
 

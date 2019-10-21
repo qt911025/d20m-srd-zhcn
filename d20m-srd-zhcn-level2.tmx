@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg># SKILLS II</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T124317Z" creationid="quentine" creationdate="20190927T124317Z">
+        <seg># 技能 II</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg># STARTING OCCUPATION</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T084106Z" creationid="QuenTine" creationdate="20181104T084106Z">
@@ -830,6 +838,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>## Gather Information (Cha)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T124332Z" creationid="quentine" creationdate="20190927T124332Z">
+        <seg>## 收集信息（魅）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>## Getting Skills</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190805T125226Z" creationid="quentine" creationdate="20190805T125226Z">
@@ -842,6 +858,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T124636Z" creationid="quentine" creationdate="20190115T122851Z">
         <seg>## 擒抱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>## Handle Animal (Cha) Trained Only</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T131444Z" creationid="quentine" creationdate="20190927T131444Z">
+        <seg>## 驯养动物（魅） 需受训</seg>
       </tuv>
     </tu>
     <tu>
@@ -866,6 +890,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T123519Z" creationid="quentine" creationdate="20190703T123519Z">
         <seg>## 英雄GM角色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>## Hide (Dex) Armor Penalty</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T133826Z" creationid="quentine" creationdate="20191004T133826Z">
+        <seg>## 躲藏（敏） 护甲减值</seg>
       </tuv>
     </tu>
     <tu>
@@ -910,10 +942,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>## Intimidate (Cha)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T134447Z" creationid="quentine" creationdate="20191016T134447Z">
+        <seg>## 威吓（魅）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>## Investigate (Int) Trained Only</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T020436Z" creationid="quentine" creationdate="20191020T020436Z">
+        <seg>## 调查（智） 需受训</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>## Investigative</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T135357Z" creationid="QuenTine" creationdate="20181104T135357Z">
         <seg>## 调查员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>## Jump (Str) Armor Penalty</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T133751Z" creationid="quentine" creationdate="20191021T133751Z">
+        <seg>## 跳跃（力） 护甲减值</seg>
       </tuv>
     </tu>
     <tu>
@@ -3990,6 +4046,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>(As a Medium-size creature, a typical human can reach 8 feet without jumping.) If the creature is long instead of tall, treat it as one size category smaller.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T141445Z" creationid="quentine" creationdate="20191021T141445Z">
+        <seg>（作为中等体型的生物，普通的人类能不靠跳跃攀上8尺高的地方。）如果生物是长而不是高，等效体型要降低一级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(As a general guideline, the hiding place has to be within 1 foot for every rank the character has in Hide.) This check, however, is at a –10 penalty because the character has to move fast.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T140111Z" creationid="quentine" creationdate="20191004T140111Z">
+        <seg>（通常这么规定，躲藏的位置必须在半径为n尺的范围内，n等于角色躲藏等级。）但这个检定会有10点减值，因为角色必须快速移动到躲藏的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>(At 4th level, the enhancement bonus is +2.) This bonus allows the weapon to deal extra damage and to hurt creatures with damage reduction.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190611T140317Z" creationid="quentine" creationdate="20190611T140027Z">
@@ -4124,6 +4196,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>(Spending more than 3 hours per day does not reduce the number of days required.) The character cannot spread the days out; if the character does not complete the training during a period of consecutive days, the effort is wasted.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T142904Z" creationid="quentine" creationdate="20190930T142904Z">
+        <seg>（每天训练超过3小时也不会减少训练所需天数。）训练的日期不能分开，如果训练的日期不能连贯，就前功尽弃了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>(Success means that the character does not draw a false conclusion; failure means that the character does.)</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190923T131650Z" creationid="quentine" creationdate="20190923T131633Z">
@@ -4136,6 +4216,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T132436Z" creationid="quentine" creationdate="20190115T132436Z">
         <seg>（也即是说豁免一旦成功，就不再着火。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(That is, the target retains his or her normal attitude, but will chat, advise, offer limited help, or advocate on the character’s behalf while intimidated.)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T140352Z" creationid="quentine" creationdate="20191016T140352Z">
+        <seg>（也就是说，目标保留原来的态度，但在威吓下会聊天、建议、提供有限的帮助、或为角色辩护。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4687,10 +4775,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Analyze Clue:** The character can make an Investigate check to apply forensics knowledge to a clue.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T021403Z" creationid="quentine" creationdate="20191020T021403Z">
+        <seg>**分析线索：** 角色可以做一次调查检定来对线索进行法医学鉴定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Armor Penalty:** If “Armor Penalty” appears on the line beneath the skill name, apply the armor penalty for the armor the character is wearing to checks involving this skill.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190807T115556Z" creationid="quentine" creationdate="20190807T115556Z">
         <seg>**护甲减值：** 如果“护甲减值”出现在技能名旁边，技能检定要受到护甲的护甲减值影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Attack (DC 20):** The animal attacks apparent enemies.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T135005Z" creationid="quentine" creationdate="20190927T135005Z">
+        <seg>**攻击（DC20）：** 动物攻击可见敌人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5592,6 +5696,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Check:** A character generally uses Search to discover clues and Investigate to analyze them.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T020535Z" creationid="quentine" creationdate="20191020T020535Z">
+        <seg>**检定：** 角色一般用搜索发现线索，用调査分析线索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Check:** A character makes a Concentration check whenever he or she may potentially be distracted while engaged in some action that requires his or her full attention (such as making a Disable Device or Treat Injury check).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T130142Z" creationid="quentine" creationdate="20190917T130142Z">
@@ -5604,6 +5716,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190925T125442Z" creationid="quentine" creationdate="20190925T125442Z">
         <seg>**检定：** 角色的易容检定结果决定了易容效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Check:** A character’s Hide check is opposed by the Spot check of anyone who might see the character.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T134015Z" creationid="quentine" creationdate="20191004T134015Z">
+        <seg>**检定：** 角色用躲藏检定与任何可能看得到角色的人的侦察检定对抗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Check:** By succeeding at a skill check (DC 10) and spending 1d4+1 hours passing out money and buying drinks, a character can get a feel for the major news items in a neighborhood.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T125107Z" creationid="quentine" creationdate="20190927T124652Z">
+        <seg>**检定：** 经过一次成功的技能检定（DC10）并花费1d4+1小时来消费、吃喝，角色将知晓邻里间发生的大多数新闻。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5656,6 +5784,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Check:** The DC and the distance the character can cover vary according to the type of jump the character is attempting.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T133911Z" creationid="quentine" creationdate="20191021T133911Z">
+        <seg>**检定：** DC与能跳跃的距离取决于角色以何种方式跳跃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Check:** The GM makes the Disable Device check so that the character doesn’t necessarily know whether he or she has succeeded.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190925T112328Z" creationid="quentine" creationdate="20190925T112328Z">
@@ -5672,6 +5808,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Check:** The time required to get an effect and the DC depend on what the character is trying to do.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T131529Z" creationid="quentine" creationdate="20190927T131529Z">
+        <seg>**检定：** 生效所需时间和检定DC取决于角色试图要做到什么。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Check:** To join or start a game, a character must first pay a stake.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190926T142547Z" creationid="quentine" creationdate="20190926T142547Z">
@@ -5684,6 +5828,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190807T115645Z" creationid="quentine" creationdate="20190807T115645Z">
         <seg>**检定：** 角色要成功使用技能该执行的检定，以及检定DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Check:** With a successful check, a character can forcibly persuade another character to perform some task or behave in a certain way.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T134701Z" creationid="quentine" creationdate="20191016T134640Z">
+        <seg>**检定：** 检定成功时，角色可以强行说服另一个角色完成一些工作或者做指定的举动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5760,6 +5912,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Collect Evidence:** The character can collect and prepare evidentiary material for a lab.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T022438Z" creationid="quentine" creationdate="20191020T022438Z">
+        <seg>**收集证据：** 角色可以为技术鉴定室收集并提供物证。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Combat Riding (DC 20, 6 weeks):** An animal trained to bear a rider into combat knows Attack, Come, Defend, Down, Guard, and Heel.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T140723Z" creationid="quentine" creationdate="20190930T140723Z">
+        <seg>**战斗骑乘（DC20，6周）：** 被训练为战斗中驮骑手的动物懂得攻击、过来、防御、退让、看守、跟随。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Come (DC 15):** The animal comes to the character, even if the animal normally would not do so (such as following the character onto a boat).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T135429Z" creationid="quentine" creationdate="20190927T135429Z">
+        <seg>**过来（DC15）：** 动物会靠近角色，即使动物一般不会这么做（比如跟随角色上船）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Commanded:** A commanded creature falls under the mental control of the Acolyte.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T112849Z" creationid="quentine" creationdate="20190703T112849Z">
@@ -5824,6 +6000,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Creating a Diversion to Hide:** A character can use the Bluff skill to help him or her hide.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T135355Z" creationid="quentine" creationdate="20191004T135355Z">
+        <seg>**转移注意力以躲藏：** 角色可以使用唬骗帮助自己躲藏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Damage Reduction 1/—:** The Tough hero ignores 1 point of damage from melee and ranged weapons.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190117T143549Z" creationid="quentine" creationdate="20190117T143549Z">
@@ -5868,6 +6052,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T144431Z" creationid="quentine" creationdate="20190916T144431Z">
         <seg>**破解文件锁：** 许多网络都有额外的文件保护机制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Defend (DC 20):** The animal defends the character (or is ready to defend the character if no threat is present).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T135548Z" creationid="quentine" creationdate="20190927T135548Z">
+        <seg>**防御（DC20）：** 动物会为角色防御（或者在角色没有威胁时准备防御）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5948,6 +6140,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T144711Z" creationid="quentine" creationdate="20190916T144711Z">
         <seg>**进行操作：** 最后，角色终于可以做想做的事了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Down (DC 15):** The animal breaks off from combat or otherwise backs down.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T140347Z" creationid="quentine" creationdate="20190927T140347Z">
+        <seg>**退让（DC15）：** 让动物脱离战斗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6144,6 +6344,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Fetch (DC 15):** The animal goes and gets something.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190929T122512Z" creationid="quentine" creationdate="20190929T122512Z">
+        <seg>**取物（DC15）：** 让动物过去拿一些东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Fighting (DC 20, 3 weeks):** An animal trained for combat knows the following tricks: Attack, Down, and Stay.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T141311Z" creationid="quentine" creationdate="20190930T141311Z">
+        <seg>**战斗（DC20，3周）：** 为战斗而训练的动物懂得攻击，退让，还有停留。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Find File:** This skill can be used for finding files or data on an unfamiliar system.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T132245Z" creationid="quentine" creationdate="20190916T132245Z">
@@ -6192,6 +6408,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Guard (DC 20):** The animal stays in place and prevents others from approaching.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190929T123318Z" creationid="quentine" creationdate="20190929T122838Z">
+        <seg>**看守（DC20）** 让动物待在一个地方阻止其他生物靠近。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Guarding (DC 20, 4 weeks):** An animal trained to guard knows the following tricks: Attack, Defend, Down, and Guard.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T141539Z" creationid="quentine" creationdate="20190930T141333Z">
+        <seg>**守护（DC20，4周）：** 为护卫而训练的动物懂得攻击，防御，退让，还有看守。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Handle an Animal:** This means to command an animal to perform a task or trick that it knows.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T133408Z" creationid="quentine" creationdate="20190927T133408Z">
+        <seg>**驾驭动物：** 指的是命令一只动物完成一项它所会的工作或技巧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Hard:** Any surface that doesn’t hold footprints at all, such as bare rock, concrete, metal deckings, or indoor floors.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T141109Z" creationid="quentine" creationdate="20190804T141109Z">
@@ -6220,6 +6460,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190202T044255Z" creationid="quentine" creationdate="20190202T044255Z">
         <seg>**二级救死扶伤：**与一级救死扶伤叠加，额外恢复4点生命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Heel (DC 15):** The animal follows the character closely, even to places where it normally wouldn’t go.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190929T123314Z" creationid="quentine" creationdate="20190929T122954Z">
+        <seg>**跟随（DC15）** 让动物紧跟着角色，即使是跟着去平常不会去的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**High Jump:** This is a vertical leap, made to jump up to grasp something overhead, such as a tree limb or ledge.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T140359Z" creationid="quentine" creationdate="20191021T140239Z">
+        <seg>**跳高：** 垂直的跳跃，以抓住高于头顶的攀爬点，比如爬树或岩脊。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6288,6 +6544,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Hop Up:** The character can jump up onto an object as tall as his or her waist with a Jump check (DC 10).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T142248Z" creationid="quentine" creationdate="20191021T142152Z">
+        <seg>**跳台阶：** 角色能用跳跃检定跳上与其腰等高的目标上（DC10）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Hope:** The target gains a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190526T120606Z" creationid="quentine" creationdate="20190526T120516Z">
@@ -6300,6 +6564,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T105441Z" creationid="quentine" creationdate="20190703T104817Z">
         <seg>**驱散过程：**侍僧通过一个攻击动作驱散不死生物（以及在高级时可驱散的其他生物）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Hunting (DC 20, 6 weeks):** An animal trained for hunting knows Attack, Down, Fetch, Heel, Seek, and Track.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T141817Z" creationid="quentine" creationdate="20190930T141740Z">
+        <seg>**捕猎（DC20，6周）：** 为捕猎而训练的动物懂得攻击，退让，取物，跟随，搜寻，以及追踪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6408,10 +6680,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Jumping Down:** If the character intentionally jumps from a height, he or she takes less damage than if the character just falls.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T142453Z" creationid="quentine" creationdate="20191021T142453Z">
+        <seg>**跳下：** 角色从高处跳下承受的伤害比单纯的坠落要低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Key Ability:** The abbreviation for the ability whose modifier applies to the skill check.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190807T114825Z" creationid="quentine" creationdate="20190807T114825Z">
         <seg>**关键属性：** 应用于技能检定的关键属性的缩写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Laboring (DC 15, 2 weeks):** An animal trained for heavy labor knows Come and Work.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T141743Z" creationid="quentine" creationdate="20190930T141701Z">
+        <seg>**干重活（DC15，2周）：** 为重活而训练的动物知道过来和劳作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6444,6 +6732,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T144204Z" creationid="quentine" creationdate="20190916T144204Z">
         <seg>**锁定目标位置：** 要找到目标数据（或者应用程序、远程设备）的位置，需要进行一次计算机使用检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Long Jump:** This is a horizontal jump, made across a gap such as a chasm or stream.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T135224Z" creationid="quentine" creationdate="20191021T135224Z">
+        <seg>**跳远：** 水平的跳跃，以跨越峡谷或溪流之类的沟壑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6724,6 +7020,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190117T130331Z" creationid="quentine" creationdate="20190117T130331Z">
         <seg>**乘势攻击：** 敏捷型英雄可以使用1点行动点来使用这一天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Perform (DC 15):** The animal does a variety of simple tricks such as sitting up, rolling over, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190929T123307Z" creationid="quentine" creationdate="20190929T123144Z">
+        <seg>**表演（DC15）：** 让动物表演一些简单的把戏，比如坐下、打滚等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Performing (DC 15, 4 weeks):** An animal trained for per-forming knows Come, Fetch, Heel, Perform, and Stay.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T141928Z" creationid="quentine" creationdate="20190930T141858Z">
+        <seg>**表演（DC15， 4周）：** 为表演而训练的动物懂得过来，取物，跟随，表演，以及停留。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7232,6 +7544,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Riding (DC 15; 3 weeks):** An animal trained to bear a rider knows Come, Heel, and Stay.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T142058Z" creationid="quentine" creationdate="20190930T142058Z">
+        <seg>**骑乘（DC15，3周）：** 为骑乘而训练的动物懂得过来，跟随，以及停留。动物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Robust:** The Tough hero becomes especially robust, gaining a number of hit points equal to his or her Tough level as soon as he or she selects this talent.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190201T153601Z" creationid="quentine" creationdate="20190130T144029Z">
@@ -7285,6 +7605,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190921T124917Z" creationid="quentine" creationdate="20190921T124917Z">
         <seg>**再次伤害：** 第二次豁免失败，角色暴露在毒素下一分钟后所受伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Seek (DC 15):** The animal moves into an area and searches for something of interest.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190929T123439Z" creationid="quentine" creationdate="20190929T123301Z">
+        <seg>**搜寻（DC15）：** 让动物进入一个区域搜寻它感兴趣的物品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7673,6 +8001,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Special:** A character can take 10 or take 20 when handling animals.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T142136Z" creationid="quentine" creationdate="20190930T142136Z">
+        <seg>**特别：** 角色驯养动物可以取10取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Special:** A character can take 10 when driving, but can’t take 20.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190926T130236Z" creationid="quentine" creationdate="20190926T130236Z">
@@ -7713,10 +8049,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Special:** A character can take 10 when making a Gather Information check, but cannot take 20.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T131357Z" creationid="quentine" creationdate="20190927T131357Z">
+        <seg>**特别：** 角色可以在收集信息检定中取10， 但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** A character can take 10 when making a Hide check, but can’t take 20.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T141030Z" creationid="quentine" creationdate="20191004T141030Z">
+        <seg>**特别：** 角色可以在躲藏检定中取10， 但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Special:** A character can take 10 when making a bluff (except for feinting in combat), but can’t take 20.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190808T140356Z" creationid="quentine" creationdate="20190808T140356Z">
         <seg>**特别：** 角色可以在唬骗时取10（战斗中虚招除外），但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** A character can take 10 when making an Intimidate check, but can’t take 20.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T141316Z" creationid="quentine" creationdate="20191016T141316Z">
+        <seg>**特别：** 角色可以在威吓检定中取10， 但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** A character can take 10 when making an Investigate check, but cannot take 20.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T133513Z" creationid="quentine" creationdate="20191021T133513Z">
+        <seg>**特别：** 角色可以在调查检定中取10， 但不能取20。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7779,24 +8147,24 @@
       <tuv xml:lang="EN-US">
         <seg>**Special:** A character without a chemical kit takes a –4 penalty on Craft (chemical) checks.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190922T091356Z" creationid="quentine" creationdate="20190922T091356Z">
-        <seg>**特别：** 无化学工具箱的角色进行制造（化学）检定将受到4点减值。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T022712Z" creationid="quentine" creationdate="20190922T091356Z">
+        <seg>**特别：** 无化学工具的角色进行制造（化学）检定将受到4点减值。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>**Special:** A character without a mechanical tool kit takes a –4 penalty on Craft (mechanical) checks.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190922T135119Z" creationid="quentine" creationdate="20190922T135119Z">
-        <seg>**特别：** 无机械工具箱的角色进行制造（机械）检定将受到4点减值。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T022714Z" creationid="quentine" creationdate="20190922T135119Z">
+        <seg>**特别：** 无机械工具的角色进行制造（机械）检定将受到4点减值。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>**Special:** A character without a mechanical tool kit takes a –4 penalty on Craft (structural) checks.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190923T040524Z" creationid="quentine" creationdate="20190923T040524Z">
-        <seg>**特别：** 无机械工具箱的角色进行制造（结构）检定将受到4点减值。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T022714Z" creationid="quentine" creationdate="20190923T040524Z">
+        <seg>**特别：** 无机械工具的角色进行制造（结构）检定将受到4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7811,8 +8179,8 @@
       <tuv xml:lang="EN-US">
         <seg>**Special:** A character without an electrical tool kit takes a –4 penalty on Craft (electronic) checks.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190922T134011Z" creationid="quentine" creationdate="20190922T134011Z">
-        <seg>**特别：** 无电气工具箱的角色进行制造（电力）检定将受到4点减值。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T022714Z" creationid="quentine" creationdate="20190922T134011Z">
+        <seg>**特别：** 无电气工具的角色进行制造（电力）检定将受到4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7869,6 +8237,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T141127Z" creationid="quentine" creationdate="20190612T122612Z">
         <seg>**特别：** 经过检定（DC为15+法术等级），你可以用专注技能来以防御姿态施法，避免引发借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Special:** Effects that increase a character’s speed also increase the character’s jumping distance, since the check is modified by the character’s speed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T142859Z" creationid="quentine" creationdate="20191021T142859Z">
+        <seg>**特别：** 增加角色速度的效果同样会增加角色的跳跃距离，因为检定受角色的速度影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8025,6 +8401,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Stay (DC 15):** The animal stays in place waiting for the character to return.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190929T124126Z" creationid="quentine" creationdate="20190929T124029Z">
+        <seg>**停留（DC15）** 让动物待在一个地方等待角色回来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Table: Difficulty Class Examples**</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190805T135122Z" creationid="quentine" creationdate="20190805T135122Z">
@@ -8057,10 +8441,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Tailing:** A character can use Hide to tail a person in public.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T140231Z" creationid="quentine" creationdate="20191004T140231Z">
+        <seg>**尾随：** 角色可以适用躲藏来在公共场合尾随一个人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Taunt:** The Charismatic hero has the ability to temporarily rattle a target through the use of insults and goading.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T072106Z" creationid="quentine" creationdate="20190216T072106Z">
         <seg>**嘲讽：** 魅力型英雄可以辱骂和刺激目标</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Teach an Animal a Trick:** The character can teach an animal a specific trick, such as “attack” or “stay,” with one week of work and a successful Handle Animal check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T133809Z" creationid="quentine" creationdate="20190927T133809Z">
+        <seg>**教会动物一个技巧：** 角色可以用一次成功的驯养动物检定和一周的时间教会动物一个特定的技巧，比如“攻击”或者“停留”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**The hide check is also modified by the character’s size:**</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T134323Z" creationid="quentine" creationdate="20191004T134302Z">
+        <seg>**躲藏检定同样受到角色体型调整值影响：**</seg>
       </tuv>
     </tu>
     <tu>
@@ -8097,10 +8505,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Time:** A Gather Information check takes 1d4+1 hours.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T131427Z" creationid="quentine" creationdate="20190927T131427Z">
+        <seg>**时间：** 收集信息检定需要1d4+1小时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Time:** A Hide check is an attack action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T141117Z" creationid="quentine" creationdate="20191004T141117Z">
+        <seg>**时间：** 躲藏检定是一个攻击动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Time:** A bluff takes at least 1 round (and is at least a full-round action) but can take much longer if the character tries something elaborate.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190808T140604Z" creationid="quentine" creationdate="20190808T140604Z">
         <seg>**时间：** 唬骗至少花费1轮的时间（至少是一个整轮动作），唬骗内容越复杂花的时间越多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Time:** An Intimidate check is a full-round action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T141701Z" creationid="quentine" creationdate="20191016T141701Z">
+        <seg>**时间：** 威吓检定是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Time:** Analyzing a clue is a full-round action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T133708Z" creationid="quentine" creationdate="20191021T133708Z">
+        <seg>**时间：** 分析线索是一个整轮动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8185,6 +8625,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Time:** See above.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T142400Z" creationid="quentine" creationdate="20190930T142400Z">
+        <seg>**时间：** 见上文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Time:** Setting a detonator is usually a full-round action.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190923T134815Z" creationid="quentine" creationdate="20190923T134815Z">
@@ -8225,10 +8673,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Time:** Using the Jump skill is either a move action or a full-round action, depending on whether the character starts and completes the jump during a single move action or a full-round action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T143659Z" creationid="quentine" creationdate="20191021T143659Z">
+        <seg>**时间：** 使用跳跃技能是移动动作或整轮动作，取决于角色是以一个移动动作还是一个整轮动作完成整个跳跃过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Times per Day:** An Acolyte may attempt to turn a number of times per day equal to 3 + her Charisma modifier.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T105053Z" creationid="quentine" creationdate="20190703T105053Z">
         <seg>**每日驱散次数：**侍僧每天可以尝试驱散的次数为3+魅力调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Track (DC 20):** The animal tracks the scent presented to it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190929T124347Z" creationid="quentine" creationdate="20190929T124347Z">
+        <seg>**追踪（DC20）** 让动物追踪让它嗅到的气味。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Train an Animal:** Rather than teaching an animal individual tricks, the character can train an animal for a general purpose.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T141128Z" creationid="quentine" creationdate="20190930T133143Z">
+        <seg>**（为通用工作）训练动物：** 角色可以为训练动物做一些通用的`工作`，而不只是训练一些简单的`技巧`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8289,6 +8761,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Try Again?:** Generally, analyzing a clue again doesn’t add new insight unless another clue is introduced.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T133410Z" creationid="quentine" creationdate="20191021T133410Z">
+        <seg>**重试：** 一般来说，再次分析不会得出新结论，除非发现了新的线索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Try Again?:** Generally, trying again doesn’t work.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190924T132455Z" creationid="quentine" creationdate="20190924T132455Z">
@@ -8337,6 +8817,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Try Again?:** No.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T140938Z" creationid="quentine" creationdate="20191016T140938Z">
+        <seg>**重试：** 不行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Try Again?:** See above.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190619T134856Z" creationid="quentine" creationdate="20190619T134856Z">
@@ -8353,6 +8841,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Try Again?:** Yes, but it takes 1d4+1 hours for each check, and characters may draw attention to themselves if they repeatedly pursue a certain type of information.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T131338Z" creationid="quentine" creationdate="20190927T131338Z">
+        <seg>**重试：** 可以，但每次检定要间隔1d4+1小时，而且如果重复追问某一类特定信息，你也许会引起注意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Try Again?:** Yes, though a success doesn’t cancel the effects of a previous failure, such as the disruption of an action that was being concentrated on.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T131059Z" creationid="quentine" creationdate="20190917T131059Z">
@@ -8365,6 +8861,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190925T120042Z" creationid="quentine" creationdate="20190925T120042Z">
         <seg>**重试：** 可以，但角色必须知道自己已经失败才行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Try Again?:** Yes.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T142113Z" creationid="quentine" creationdate="20190930T142113Z">
+        <seg>**重试：** 可以。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8497,6 +9001,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Work (DC 15):** The animal pulls or pushes a medium or heavy load.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T133117Z" creationid="quentine" creationdate="20190930T133117Z">
+        <seg>**劳作（DC15）：** 让动物拉推中等或重度负载。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Write Program:** A character can create a program to help with a specific task.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T124058Z" creationid="quentine" creationdate="20190917T124058Z">
@@ -8509,6 +9021,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181024T041726Z" creationid="QuenTine" creationdate="20181024T041726Z">
         <seg>**骰种\[+/- 修正值\]**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**“Push” an Animal:** To push an animal means to get it to perform a task or trick that it doesn’t know, but is physically capable of performing.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T133637Z" creationid="quentine" creationdate="20190927T133637Z">
+        <seg>**逼迫动物：** 逼迫动物指的是让动物完成它还不会，但有能力办到的工作或技巧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9527,6 +10047,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A character can start a jump at the end of one turn and complete the jump at the beginning of your next turn.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T135118Z" creationid="quentine" creationdate="20191021T135118Z">
+        <seg>角色可以在回合结束时起跳，在下一回合完成跳跃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A character can strangle or choke a target of the same size category or one size category larger or smaller.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T134701Z" creationid="quentine" creationdate="20190115T134357Z">
@@ -9539,6 +10067,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190926T142153Z" creationid="quentine" creationdate="20190926T142153Z">
         <seg>角色可以在伪造文书检定中取10， 但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A character can take 10 when making a Jump check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T142910Z" creationid="quentine" creationdate="20191021T142910Z">
+        <seg>跳跃检定可取10。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9595,6 +10131,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181106T140230Z" creationid="QuenTine" creationdate="20181106T140230Z">
         <seg>角色进行财富检定通常可以取10 或取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A character cannot jump a distance greater than his or her normal speed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T135533Z" creationid="quentine" creationdate="20191021T135533Z">
+        <seg>角色不能跳出大于其常速的距离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9687,6 +10231,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A character immune to fear effects can’t be intimidated.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T141339Z" creationid="quentine" creationdate="20191016T141339Z">
+        <seg>免疫恐惧的角色不会被威吓到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A character in an airless environment (underwater, vacuum) can hold his or her breath for a number of rounds equal to his or her Constitution score.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T133405Z" creationid="quentine" creationdate="20190115T133405Z">
@@ -9699,6 +10251,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T141848Z" creationid="quentine" creationdate="20190916T141848Z">
         <seg>角色是其所拥有的个人电脑的系统管理员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A character may add a +2 bonus to his or her Intimidate check for every size category the character is larger than his or her target.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T141438Z" creationid="quentine" creationdate="20191016T141438Z">
+        <seg>角色的体型每比目标大一级，威吓检定就多2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9839,10 +10399,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A character with the Acrobatic feat gets a +2 bonus on all Jump checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T143016Z" creationid="quentine" creationdate="20191021T143016Z">
+        <seg>有`杂技`专长的角色的跳跃检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A character with the Animal Affinity feat and at least 1 rank in this skill gets a +2 bonus on all Handle Animal checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T142346Z" creationid="quentine" creationdate="20190930T142346Z">
+        <seg>有`动物亲和`专长且此技能至少1级的角色，驯养动物检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A character with the Athletic feat gets a +2 bonus on all Climb checks.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190808T143851Z" creationid="quentine" creationdate="20190808T143851Z">
         <seg>有竞技专长的角色的攀爬检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A character with the Attentive feat and at least 1 rank in this skill gets a +2 bonus on all Investigate checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T133647Z" creationid="quentine" creationdate="20191021T133647Z">
+        <seg>有`听者有心`专长且此技能至少1级的角色，调查检定有2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9899,6 +10483,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190926T145056Z" creationid="quentine" creationdate="20190926T145056Z">
         <seg>有`自信`专长的角色的赌博检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A character with the Confident feat gets a +2 bonus on all Intimidate checks and on level checks to resist intimidation.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T141642Z" creationid="quentine" creationdate="20191016T141642Z">
+        <seg>有`自信`专长的角色在威吓检定以及对抗威吓的等级检定上获得2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9967,6 +10559,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A character with the Run feat gains a +2 competence bonus on Jump checks preceded by a 20-foot move.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T143148Z" creationid="quentine" creationdate="20191021T143148Z">
+        <seg>若有20尺助跑，有奔跑专长的角色还会为跳跃提供2点表现加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A character with the Stealthy feat gets a +2 bonus on all Hide checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T141053Z" creationid="quentine" creationdate="20191004T141053Z">
+        <seg>有`隐秘`专长的角色的躲藏检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A character with the Studious feat gets a +2 bonus on all Decipher Script checks.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190923T132005Z" creationid="quentine" creationdate="20190923T132005Z">
@@ -9979,6 +10587,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190924T132919Z" creationid="quentine" creationdate="20190924T132919Z">
         <seg>有`值得信赖`专长的角色的交涉检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A character with the Trustworthy feat gets a +2 bonus on all Gather Information checks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T131413Z" creationid="quentine" creationdate="20190927T131413Z">
+        <seg>有`值得信赖`专长的角色的收集信息检定有2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10035,6 +10651,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190116T115101Z" creationid="quentine" creationdate="20190116T115101Z">
         <seg>角色的智力调整值决定了每级获得的技能点数（但每级至少1点，角色有智力减值也是如此）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A character’s Intimidate check is op-posed by the target’s level check (1d20 + the target’s character level or Hit Dice).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T134808Z" creationid="quentine" creationdate="20191016T134808Z">
+        <seg>角色的威吓检定是与目标的等级检定（1d20+目标的角色等级或生命骰）对抗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10743,6 +11367,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A successful Bluff check can give the character the momentary diversion needed to attempt a Hide check while people are aware of the character.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T135415Z" creationid="quentine" creationdate="20191004T135415Z">
+        <seg>一次成功的唬骗检定可让角色分散搜捕者的注意力一小会，让自己此时可以做一次躲藏检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A successful Bluff check gives the character the momentary diversion needed to attempt a Hide check while people are aware of the character.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190808T134529Z" creationid="quentine" creationdate="20190808T134529Z">
@@ -11329,6 +11961,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>All Jump DCs covered here assume that the character can move at least 20 feet in a straight line before attempting the jump.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T135629Z" creationid="quentine" creationdate="20191021T135629Z">
+        <seg>所有跳跃DC假定的前提条件是角色在跳之前至少有20尺的助跑距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>All Rights Reserved.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181022T033816Z" creationid="QuenTine" creationdate="20181022T033816Z">
@@ -11649,6 +12289,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Alternatively, the character can command the animal to defend a specific other character.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T135727Z" creationid="quentine" creationdate="20190927T135727Z">
+        <seg>或者角色可以命令动物为制定的其他角色提供防御。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Although each advanced class naturally builds from a certain basic class, every advanced class is available to all characters who fulfill the prerequisites of the class, regardless of what basic classes they have gained levels in.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T120152Z" creationid="quentine" creationdate="20190216T120152Z">
@@ -11805,6 +12453,30 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T074620Z" creationid="quentine" creationdate="20190216T074516Z">
         <seg>友方必须整轮不动，用一整轮的时间来听取和观察魅力型英雄的激励，英雄作一次魅力检定（DC10）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An animal can be trained for one general purpose only, though if the animal is capable of learning additional tricks (above and beyond those included in its general purpose) it may do so.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T141153Z" creationid="quentine" creationdate="20190930T140011Z">
+        <seg>一个动物只能学会一种`工作`，但是如果动物还有余力学习其他`技巧`（不在通用工作里的技巧）则仍可以学习。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An animal trained in riding may be “upgraded” to an animal trained in combat riding by spending three weeks and making a Handle Animal check (DC 20).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T140940Z" creationid="quentine" creationdate="20190930T140940Z">
+        <seg>可将已训练`骑乘`的动物“升级”至战斗骑乘，这需要3周时间进行驯养动物检定（DC20）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An animal with an Intelligence of 1 can learn a maximum of three tricks, while an animal with an Intelligence of 2 can learn a maximum of six tricks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T133902Z" creationid="quentine" creationdate="20190927T133902Z">
+        <seg>有1点智力的动物可以学习至多3个技巧，而有2点智力的动物可以学习至多6个技巧</seg>
       </tuv>
     </tu>
     <tu>
@@ -11985,6 +12657,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>An untrained character uses Charisma checks to handle and push animals, but he or she can’t teach or train animals.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T142245Z" creationid="quentine" creationdate="20190930T142245Z">
+        <seg>未受训角色使用魅力检定来驾驭和逼迫动物，但不能教会动物技巧或工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Animal Affinity, Archaic Weapons Proficiency, Armor Proficiency (light), Attentive, Combat Expertise, Educated, Frightful Presence, Iron Will, Medical Expert, Studious, Trustworthy.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190703T114643Z">
@@ -11997,6 +12677,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T142250Z" creationid="quentine" creationdate="20190116T132255Z">
         <seg>动物亲和、擅长古典武器、竞技、盲斗、拳法、顺势斩、实战武术、战斗反射、强力顺势斩、精通拳法、精通实战武术、猛力攻击、专攻武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Animals almost always find other creatures or characters of interest.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190929T123651Z" creationid="quentine" creationdate="20190929T123651Z">
+        <seg>动物总是优先找感兴趣的人或生物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12077,6 +12765,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190611T140415Z" creationid="quentine" creationdate="20190611T140415Z">
         <seg>任何近战武器都可以强效化，包括徒手击打。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Any modifiers that a target may have on Will saving throws against fear effects apply to this level check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T135145Z" creationid="quentine" creationdate="20191016T135145Z">
+        <seg>目标所有的任何适用于其意志检定的调整值将应用与此等级检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Any other person attempting to make the animal perform a trick takes a –10 penalty on his or her Handle Animal check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T134101Z" creationid="quentine" creationdate="20190927T134101Z">
+        <seg>其他人试图让动物完成技巧所做的驯养动物检定将受到10点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13321,6 +14025,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>At more than half and up to the character’s full speed, the character takes a –5 penalty.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T134140Z" creationid="quentine" creationdate="20191004T134140Z">
+        <seg>角色的速度大于半速，躲藏检定将受到5点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>At that point, the character becomes an ordinary (or hero, in some cases).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T123304Z" creationid="quentine" creationdate="20190703T123304Z">
@@ -13357,6 +14069,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190226T143157Z" creationid="quentine" creationdate="20190226T143004Z">
         <seg>冲锋结束时，武术家造成一个徒手击打伤害，加上等于本职业等级数的伤害加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>At the midpoint of the jump, the character attains a vertical height equal to one-quarter the horizontal distance.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T135345Z" creationid="quentine" creationdate="20191021T135345Z">
+        <seg>在跳跃的中点，角色达到最高位，高度等于水平距离的四分之一。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13865,6 +14585,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Circumstances dramatically affect the effectiveness of an Intimidate check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T140638Z" creationid="quentine" creationdate="20191016T140638Z">
+        <seg>DM应根据情境调整威吓检定的效果使其更合理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Climb (Str), Concentration (Con), Craft (mechanical, structural) (Int), Drive (Dex), Intimidate (Cha), Knowledge (current events, popular culture, streetwise) (Int), Profession (Wis), Read/Write Language (none), Ride (Dex), Speak Language (none), Spot (Wis), and Survival (Wis).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190421T095213Z" creationid="quentine" creationdate="20190117T141903Z">
@@ -13885,6 +14613,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T141524Z" creationid="QuenTine" creationdate="20181104T141524Z">
         <seg>攀爬、爆破、驾驶、躲藏、知识（策略）、潜行、寻路、驾机、生存、游泳。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Collecting evidence generally takes 1d4 minutes per object.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T133735Z" creationid="quentine" creationdate="20191021T133735Z">
+        <seg>收集证据每一件通常需要1d4分钟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Collecting evidence requires an evidence kit.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T133536Z" creationid="quentine" creationdate="20191021T133536Z">
+        <seg>收集证据需要取证工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14033,6 +14777,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Conversely, the character takes a –2 penalty to his or her check for every size category the character is smaller than his or her target.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T141524Z" creationid="quentine" creationdate="20191016T141524Z">
+        <seg>相反地，角色每比目标小一级，威吓检定就多2点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181022T113108Z" creationid="QuenTine" creationdate="20181022T113108Z">
@@ -14045,6 +14797,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T143246Z" creationid="quentine" creationdate="20190115T143246Z">
         <seg>接触腐蚀性的酸液每轮都会造成伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Cover and concealment grant circumstance bonuses to Hide checks, as shown below.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T134859Z" creationid="quentine" creationdate="20191004T134859Z">
+        <seg>掩体和隐蔽会为躲藏提供情景加值，见下文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14312,8 +15072,16 @@
       <tuv xml:lang="EN-US">
         <seg>Disabling a security device requires either a mechanical tool kit or an electronic toll kit, depending on the nature of the device.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190925T120729Z" creationid="quentine" creationdate="20190925T120729Z">
-        <seg>解除一个安全设备需要一个机械工具箱或一个电子工具箱，取决于设备的性质。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T022737Z" creationid="quentine" creationdate="20190925T120729Z">
+        <seg>解除一个安全设备需要一个机械工具或一个电气工具，取决于设备的性质。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Distance moved by jumping is counted against maximum movement in a round.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T135008Z" creationid="quentine" creationdate="20191021T135008Z">
+        <seg>一轮内跳跃所移动的距离将受限于最高移动距离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14330,6 +15098,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T124144Z" creationid="quentine" creationdate="20190114T124144Z">
         <seg>闪避加值：主动闪避攻击同样会为防御提供加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Doing so counts as 10 feet of movement.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T142207Z" creationid="quentine" creationdate="20191021T142207Z">
+        <seg>这么做相当于一个10尺的移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14360,8 +15136,8 @@
       <tuv xml:lang="EN-US">
         <seg>Doing so requires 10 minutes and an electrical tool kit, and increases the DC of the check by +10.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190925T113821Z" creationid="quentine" creationdate="20190925T113821Z">
-        <seg>这么做需要10分钟和电气工具箱，并会增加10点DC。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T022714Z" creationid="quentine" creationdate="20190925T113821Z">
+        <seg>这么做需要10分钟和电气工具，并会增加10点DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14630,6 +15406,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Essentially, an animal’s purpose represents a preselected set of known tricks that fit into a common scheme.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T141141Z" creationid="quentine" creationdate="20190930T134621Z">
+        <seg>本质上，一项动物的`工作`代表了一系列已知`技巧`的集合，可用于相似的用途。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Evasion can only be used when wearing light armor or no armor.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190117T124505Z" creationid="quentine" creationdate="20190117T122324Z">
@@ -14658,6 +15442,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T141210Z" creationid="quentine" creationdate="20190115T141210Z">
         <seg>即使成功，角色一般还要在一分钟后再次面临伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Even if the initial check succeeds, the other character can only be intimidated so much, and trying again doesn’t help.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T141108Z" creationid="quentine" creationdate="20191016T141108Z">
+        <seg>即使首次检定成功了，对方也只能被威吓到一种程度，重试是没用的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14762,6 +15554,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190112T063703Z" creationid="quentine" creationdate="20190112T063519Z">
         <seg>每次角色升级，进行一次`专业`检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Evidence collected cannot be recollected, unless there is more of it to take.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T133447Z" creationid="quentine" creationdate="20191021T133447Z">
+        <seg>收集了的证据不能再收集，除非有多个可供收集。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15174,6 +15974,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>General information concerns local happenings, rumors, gossip, and the like.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T130328Z" creationid="quentine" creationdate="20190927T130328Z">
+        <seg>传闻就是当地发生的事、谣言、绯闻等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Generally, a character can take 10 when using a Craft skill to construct an object, but can’t take 20 (since doing so represents multiple attempts, and the character uses up the raw materials after the first attempt).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190918T133253Z" creationid="quentine" creationdate="20190918T133253Z">
@@ -15186,6 +15994,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190806T122814Z" creationid="quentine" creationdate="20190806T122814Z">
         <seg>一般情况下，如果角色试图使用一个零级数的技能，角色还是可以按技能的描述做技能检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Generally, the maximum height a creature can reach without jumping is given in the table below.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T141222Z" creationid="quentine" creationdate="20191021T141222Z">
+        <seg>生物通常无需跳跃就能达到的高度见下表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15622,6 +16438,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If he or she is unsuspecting, he or she generally gets only a Spot check after an hour of tailing.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T141014Z" creationid="quentine" creationdate="20191004T141014Z">
+        <seg>若目标没有疑心，则通常只在尾随的1小时后进行一次侦察检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If it can act, it applies its Intelligence modifier to initiative checks instead of a Dexterity modifier.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181103T134040Z" creationid="QuenTine" creationdate="20181103T134040Z">
@@ -15718,6 +16542,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If people are observing the character, even casually, he or she can’t hide.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T134639Z" creationid="quentine" creationdate="20191004T134639Z">
+        <seg>如果有人注视着角色，即使不是刻意注视，角色就不能躲藏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If successful, the Investigator combines eyewitness accounts with forensic evidence to develop a profile of the suspect’s method of operation.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190526T080346Z" creationid="quentine" creationdate="20190526T080346Z">
@@ -15754,6 +16586,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T143856Z" creationid="quentine" creationdate="20190115T143856Z">
         <seg>如果角色不是接地的或者处于其他绝缘状况，豁免成功的结果是伤害完全免除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If that leaves the character dangling over a chasm or gap, getting up requires a move action and a Climb check (DC 15).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T140147Z" creationid="quentine" creationdate="20191021T140147Z">
+        <seg>如果角色因此悬挂在峡谷或壕沟边缘，爬上来需要一个移动动作来进行一次攀爬检定（DC15）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15918,6 +16758,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the animal already knows any tricks, the character cannot teach it to obey only that character.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T134849Z" creationid="quentine" creationdate="20190927T134705Z">
+        <seg>如果动物已经学会任何技巧，角色不能再教会动物只听自己的指令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the animal is wounded or has taken any ability score damage, the DC increases by +5.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T133442Z" creationid="quentine" creationdate="20190927T133442Z">
+        <seg>如果动物受伤或者受到任何属性伤害，DC+5。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the animal was trained in other tricks (in addition to those provided by training the animal for riding), those tricks are completely replaced by the combat riding tricks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T141103Z" creationid="quentine" creationdate="20190930T141103Z">
+        <seg>如果动物还训练了其他技巧（骑乘工作之外的技巧），这些技巧将被完全替换为战斗骑乘工作的技巧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the attack hits the Bodyguard, he or her takes damage normally.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190421T130700Z" creationid="quentine" creationdate="20190421T130700Z">
@@ -15938,6 +16802,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181103T142810Z">
         <seg>如果角色行为同其阵营的精神相左，那么GM可以考虑剥夺该角色的阵营（及其带来的好处）并且为其选择更为适合的阵营。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the character attempts a Jump check untrained, the character lands prone unless he or she beats the DC by 5 or more.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T134750Z" creationid="quentine" creationdate="20191021T134725Z">
+        <seg>若角色的跳跃是未受训的，检定成功角色将俯卧着地，除非成功5点及以上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16006,6 +16878,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the character does not have the appropriate kit, the character takes a –4 penalty on his or her check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T133551Z" creationid="quentine" creationdate="20191021T133551Z">
+        <seg>如果角色没有合适的工具，检定时要受4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the character does not have the appropriate tools, he or she takes a –4 penalty on your check.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190925T120751Z" creationid="quentine" creationdate="20190925T120751Z">
@@ -16054,6 +16934,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the character fails by 5 or more, the lab analysis simply cannot be done.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T132107Z" creationid="quentine" creationdate="20191021T132107Z">
+        <seg>若检定失败5点及以上，则无法分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the character fails by more than 5, the explosive goes off.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190923T134442Z" creationid="quentine" creationdate="20190923T134442Z">
@@ -16062,10 +16950,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the character fails by more than 5, the target may actually do the opposite of what the character wishes.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T140925Z" creationid="quentine" creationdate="20191016T140925Z">
+        <seg>如果角色失败5点以上，目标会做与角色期望正相反的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the character fails the Jump check, he or she does not reach the height, and lands on his or her feet in the same square from which the character jumped.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T141038Z" creationid="quentine" creationdate="20191021T141038Z">
+        <seg>若跳跃检定失败，角色无法达到指定高度，将以脚着地落回起跳的方格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the character fails the check by 5 or more, the system immediately alerts its administrator that there has been an unauthorized use of the equipment.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T124647Z" creationid="quentine" creationdate="20190917T124647Z">
         <seg>如果检定失败，低于DC5点甚至更多，系统会立即警报通知管理员有人非法使用这些设施。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the character fails the check by less than 5, he or she doesn’t clear the distance, but can make a Reflex save (DC 15) to grab the far edge of the gap.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T135936Z" creationid="quentine" creationdate="20191021T135936Z">
+        <seg>若角色检定失败不足5点，将无法跳到目的地，但可以做一个反射检定（DC15）来抓住壕沟的边缘。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16110,6 +17022,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the character fails, a crime lab analysis can be done, but the lab takes a –5 penalty on any necessary check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T132228Z" creationid="quentine" creationdate="20191020T023147Z">
+        <seg>若检定失败，技术鉴定室也能分析，但会在任何分析所需的检定上受到5点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the character fails, he or she can’t afford the object at the time.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181106T134439Z" creationid="QuenTine" creationdate="20181106T134439Z">
@@ -16126,10 +17046,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the character has access to a crime lab, the character uses the Investigate skill to collect and prepare samples for the lab.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T021021Z" creationid="quentine" creationdate="20191020T021021Z">
+        <seg>角色在技术鉴定室里，应使用调查技能来收集和准备实验样本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the character has access to the computer that controls such systems, the character can either shut them off or change their operating parameters.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T124534Z" creationid="quentine" creationdate="20190917T124534Z">
         <seg>如果角色成功访问控制该系统的电脑，角色可以选择关掉它们或者修改它们的运行程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the character has ranks in the Jump skill and succeeds on a check, the character lands on his or her feet (when appropriate) and can move as far as the character’s remaining movement allows.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T134545Z" creationid="quentine" creationdate="20191021T134545Z">
+        <seg>若角色跳跃至少1级并成功跳跃，角色可以脚着地（如果合适），并且可以以剩下可移动距离继续移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16206,6 +17142,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the character succeeds on the check, he or she can reach the height.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T140708Z" creationid="quentine" creationdate="20191021T140708Z">
+        <seg>若角色检定成功，则可到达指定高度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the character succeeds on the check, he or she takes falling damage as if the character had dropped 10 fewer feet than he or she actually did.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T142721Z" creationid="quentine" creationdate="20191021T142721Z">
+        <seg>若检定成功，角色的坠落伤害等效于从跳跃高度-10尺处坠落。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the character succeeds, he or she may treat the target as friendly for 10 minutes, but only for purposes of actions taken while in the character’s presence.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T140501Z" creationid="quentine" creationdate="20191016T140105Z">
+        <seg>若角色成功，则视为目标对其友善，持续10分钟，但这种友善只体现在对方做所要求做的事上，且角色必须一直在场。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the character succeeds, his or her current Wealth bonus increases by +1.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190112T063919Z" creationid="quentine" creationdate="20190112T063919Z">
@@ -16226,6 +17186,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T141936Z" creationid="quentine" creationdate="20190115T141936Z">
         <seg>如果角色成功，就不会感染——即角色的免疫系统抵御了疾病。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the character succeeds, the evidence is usable by a crime lab.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T023155Z" creationid="quentine" creationdate="20191020T023008Z">
+        <seg>若检定成功，该证据则可用于技术鉴定室分析。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16286,6 +17254,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the character wishes to pull him or herself up, the character can do so with a move action and a Climb check (DC 15).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T140919Z" creationid="quentine" creationdate="20191021T140919Z">
+        <seg>如果角色要爬上来，则需要一个移动动作来进行一次攀爬检定（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the character’s Dexterity is high, the character is particularly adept at dodging blows or gunfire.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T114954Z" creationid="quentine" creationdate="20190114T114709Z">
@@ -16314,6 +17290,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T113930Z" creationid="quentine" creationdate="20190115T113930Z">
         <seg>当角色生命值已低于那个值，所有的临时生命值都被耗完，角色的生命值就不会再降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the character’s speed is greater than 30 feet, he or she gains a bonus of +4 for every 10 feet over 30.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T134256Z" creationid="quentine" creationdate="20191021T134256Z">
+        <seg>若角色速度高于30尺，每比30尺多10尺都要受到4点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the character’s speed is less than 30 feet, he or she takes a penalty of –6 for every 10 feet of speed less than 30.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T134224Z" creationid="quentine" creationdate="20191021T134224Z">
+        <seg>若角色速度低于30尺，每比30尺低10尺都要受到6点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16370,6 +17362,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T134418Z" creationid="quentine" creationdate="20190916T134327Z">
         <seg>如果检定失败，低于DC5点甚至更多，安全系统会立即警报通知管理员有非法入侵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the check is successful, the animal performs the task or trick on its next action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T133519Z" creationid="quentine" creationdate="20190927T133519Z">
+        <seg>如果检定成功，动物的下一个动作就是完成这个工作或技巧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16550,6 +17550,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the initial check fails, the other character has become more firmly resolved to resist the intimidator, and trying again is futile.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T141251Z" creationid="quentine" creationdate="20191016T141251Z">
+        <seg>如果首次检定失败，对方会更坚定地抗拒威吓，重试也是没用的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the initial check fails, the other character has probably become more firmly committed to his or her position, and trying again is futile.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190924T132709Z" creationid="quentine" creationdate="20190924T132709Z">
@@ -16710,6 +17718,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the situation doesn’t require the expenditure of money, no Wealth check is necessary.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T125206Z" creationid="quentine" creationdate="20190927T125206Z">
+        <seg>若信息不需要花钱购买，就没必要进行财富检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the situation permits, the character can make additional checks as long as he or she is not being actively opposed.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190926T134226Z" creationid="quentine" creationdate="20190926T132940Z">
@@ -16754,6 +17770,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190926T143243Z" creationid="quentine" creationdate="20190926T143243Z">
         <seg>若赌注只是角色的九牛一毛（小于等于角色的财富加值），角色是没有机会赢得任何可观的奖励的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the subject is worried about being followed, he or she can make a Spot check (opposed by the character’s Hide check) every time he or she changes course (goes around a street corner, exits a building, and so on).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T140908Z" creationid="quentine" creationdate="20191004T140908Z">
+        <seg>如果目标担心被跟踪，可以在每次切换地域（转过一个街角、离开建筑等等）时进行一次侦察检定（与角色的躲藏检定对抗）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16822,6 +17846,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If there is no danger associated with failing, the character can take 20.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T142953Z" creationid="quentine" creationdate="20191021T142953Z">
+        <seg>若失败结果没有危险，可取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If there is no particular drawback to not possessing the feat, this entry is absent.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T122926Z" creationid="quentine" creationdate="20190704T122926Z">
@@ -16842,6 +17874,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190807T120200Z" creationid="quentine" creationdate="20190807T120020Z">
         <seg>如果没有这一项，重试技能检定除了需要再花时间外没有任何固有惩罚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If this is not the case, the DC for the jump is doubled.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T135643Z" creationid="quentine" creationdate="20191021T135643Z">
+        <seg>如果条件未满足，DC加倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17422,6 +18462,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Increase the Wealth check DC by 2 for each +1 circumstance bonus the character wants to add to his or her skill check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T131218Z" creationid="quentine" creationdate="20190927T131218Z">
+        <seg>角色每为收集信息检定增加1点情景加值，所需的财富检定DC+2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Indeed, the only way for an Occultist to cast an arcane spell is by using a scroll.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190613T122809Z" creationid="quentine" creationdate="20190613T122809Z">
@@ -17434,6 +18482,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T124547Z">
         <seg>骂名会让英雄被认出时进行魅力相关技能检定会获得减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Information ranges from general to protected, and the cost and DC increases accordingly for the type of information the character seeks to gather, as given in the table below.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T125940Z" creationid="quentine" creationdate="20190927T125416Z">
+        <seg>从传闻到受保护的信息，信息的费用和DC也根据信息的类型逐步升高，详见下表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17526,6 +18582,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>It does not challenge other creatures that come by, though it still defends itself if it needs to.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190929T124215Z" creationid="quentine" creationdate="20190929T124215Z">
+        <seg>它不会挑战经过的其他生物，但他仍然会在必要时自我防御。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It does not require a check; however, it increases the DC of all tricks the character teaches the animal by +5.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T134807Z" creationid="quentine" creationdate="20190927T134615Z">
+        <seg>这不需要检定，但是这会让所有教会动物技巧的DC+5。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>It has a range of 30 feet and lasts as long as the Slayer concentrates, up to a number of rounds equal to the Slayer’s level in this advanced class.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190527T140246Z" creationid="quentine" creationdate="20190527T140246Z">
@@ -17578,6 +18650,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181103T134716Z" creationid="QuenTine" creationdate="20181103T134716Z">
         <seg>这类生物免疫一切需要通过强韧豁免的效果，除非这种效果能够作用在物体上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It is modified by the time that has elapsed since the clue was left, and whether or not the scene was disturbed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T022050Z" creationid="quentine" creationdate="20191020T022050Z">
+        <seg>DC受线索的留存时间和现场的破坏影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17710,6 +18790,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>It simply allows the character to collect items he or she has found in a manner that best aids in their analysis later, at a crime lab.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T133252Z" creationid="quentine" creationdate="20191021T132748Z">
+        <seg>这只是一个收纳已发现物品的检定，成功收纳以帮助技术鉴定室分析。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It simply allows the character to extract extra information from a clue he or she has found.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T021907Z" creationid="quentine" creationdate="20191020T021907Z">
+        <seg>只是简单地让角色从已发现的线索推演出更多信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It stops and indicates the first thing of interest it finds.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190929T123506Z" creationid="quentine" creationdate="20190929T123506Z">
+        <seg>一旦找到则停止搜寻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>It takes 1 hour to program the robot.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190523T132054Z" creationid="quentine" creationdate="20190523T132054Z">
@@ -17778,6 +18882,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T131251Z" creationid="quentine" creationdate="20190115T131251Z">
         <seg>只有极少的关卡不在某个暗处告终，英雄总需要想办法去看。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s practically impossible (–20 penalty) to hide while attacking, running, or charging.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T134230Z" creationid="quentine" creationdate="20191004T134230Z">
+        <seg>攻击、奔跑或冲锋时躲藏是几乎不可能的（有20减值）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18150,6 +19262,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Normally, an animal only attacks humans and other animals.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T135132Z" creationid="quentine" creationdate="20190927T135132Z">
+        <seg>一般来说，动物只攻击人类和其他动物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Note that a character can’t hide if he or she has less than one-half cover or concealment.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T135243Z" creationid="quentine" creationdate="20191004T135051Z">
+        <seg>注意角色如果处于一半以下的掩体或隐蔽则不可躲藏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Note that a grappled target who is not pinned can use his or her attack action to strangle his or her attacker.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T135154Z" creationid="quentine" creationdate="20190115T135154Z">
@@ -18274,6 +19402,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190523T133312Z" creationid="quentine" creationdate="20190523T133312Z">
         <seg>制造一件大师级工艺的物品平均耗费的时间是制造原版物品的两倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>On the other hand, if the character succeeds by 10 or more, the lab gains a +2 circumstance bonus on its checks to analyze the material.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T132258Z" creationid="quentine" creationdate="20191021T132218Z">
+        <seg>反之，如果检定成功10点及以上，技术鉴定室对此物证的所有分析检定都有2点情景加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18500,8 +19636,8 @@
       <tuv xml:lang="EN-US">
         <seg>Opening a lock requires a lockpick set (for a mechanical lock) or an electrical tool kit (for an electronic lock).</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190925T120552Z" creationid="quentine" creationdate="20190925T120552Z">
-        <seg>撬开锁头需要撬锁工具（用于机械锁）或者电气工具箱（用于电子锁）。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T022714Z" creationid="quentine" creationdate="20190925T120552Z">
+        <seg>撬开锁头需要撬锁工具（用于机械锁）或者电气工具（用于电子锁）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18710,6 +19846,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190925T120513Z" creationid="quentine" creationdate="20190925T120500Z">
         <seg>角色拥有合适的工具则可以最大化提升解除装置检定成功率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Possible tricks include, but are not limited to, the following.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T134914Z" creationid="quentine" creationdate="20190927T134914Z">
+        <seg>可学的技巧包括但不限于：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18954,6 +20098,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Protected information is even harder to come by and might involve some danger, either for the one asking the questions or the one providing the answer.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T130708Z" creationid="quentine" creationdate="20190927T130708Z">
+        <seg>受保护的信息更难获得，获得此信息会让问者或答者陷入危险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Psionic powers require power points to use.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190619T135504Z" creationid="quentine" creationdate="20190619T135504Z">
@@ -19092,6 +20244,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T125823Z" creationid="quentine" creationdate="20190704T125823Z">
         <seg>两个攻击的效果同时结算而非先后。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Restricted information includes facts that aren’t generally known and requires that the character locate someone who has access to such information.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T130607Z" creationid="quentine" creationdate="20190927T130607Z">
+        <seg>受限的信息包括并非众所周知的信息，需要从能接触到这个信息的人身上获得。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19664,6 +20824,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Specific information usually relates to a particular question.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T130433Z" creationid="quentine" creationdate="20190927T130433Z">
+        <seg>专门的信息通常要带目的地去寻求才能得到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Spells without random variables are not affected.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190624T143045Z" creationid="quentine" creationdate="20190624T143045Z">
@@ -19684,6 +20852,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190926T143038Z" creationid="quentine" creationdate="20190926T143038Z">
         <seg>赌注最低购买DC为4，最高可达DC24。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Standing from a prone position is a move action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T134817Z" creationid="quentine" creationdate="20191021T134817Z">
+        <seg>从俯卧状态爬起是一个移动动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19916,6 +21092,30 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190624T141940Z" creationid="quentine" creationdate="20190624T141940Z">
         <seg>文身的机制与卷轴类似，创造过程也与抄录卷轴相同（详见`抄录卷轴`），但文身相关的技能检定是`制造（视觉艺术）`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Teaching an animal to attack all creatures (including unnatural creatures such as undead and aberrations if they exist in your campaign) counts as two tricks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T135318Z" creationid="quentine" creationdate="20190927T135318Z">
+        <seg>教会动物攻击所有生物（包括超自然生物比如战斗中出现的不死生物类和异怪类）算两个技巧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Teaching an animal to obey only the character counts as a trick (in terms of how many tricks the animal can learn).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T134341Z" creationid="quentine" creationdate="20190927T134341Z">
+        <seg>教会动物只听自己的指令算作一个技巧（算在动物已学技巧数里）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Teaching or training an animal takes a number of days.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T142621Z" creationid="quentine" creationdate="20190930T142520Z">
+        <seg>教会技巧或训练工作都要花费数以天计的时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20392,6 +21592,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The DC for the jump is equal to the distance jumped (in feet).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T135423Z" creationid="quentine" creationdate="20191021T135423Z">
+        <seg>跳跃DC等于欲跳跃的距离（以尺计）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The DC for the jump is the height x4 (in feet).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T140451Z" creationid="quentine" creationdate="20191021T140451Z">
+        <seg>跳跃的DC等于高度×4（以尺计）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The DC for this check is 30, and the Field Medic can’t take 10 or take 20.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190524T131924Z" creationid="quentine" creationdate="20190524T131924Z">
@@ -20488,6 +21704,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The DC to jump down from a height is 15.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T142511Z" creationid="quentine" creationdate="20191021T142511Z">
+        <seg>从高处跳下的DC为15。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The DC to write a program is 20; the time required is 1 hour.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T124339Z" creationid="quentine" creationdate="20190917T124339Z">
@@ -20496,10 +21720,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The DCs for high jumps of 1 to 8 feet are given in the table below.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T140547Z" creationid="quentine" creationdate="20191021T140547Z">
+        <seg>1到8尺的跳高DC如下表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The DCs for long jumps of 5 to 30 feet are given in the table below.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T135506Z" creationid="quentine" creationdate="20191021T135506Z">
+        <seg>5到30尺的跳远的DC如下表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The DCs given in the accompanying table show what it takes to change someone’s attitude with the use of the Diplomacy skill.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190924T131706Z" creationid="quentine" creationdate="20190924T131706Z">
         <seg>下表给出的DC是用交涉技能改变某人的态度所需的DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The DCs specified below assume a speed of 30 feet (the speed of a typical human).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T134053Z" creationid="quentine" creationdate="20191021T134053Z">
+        <seg>下列DC假定角色有30尺的速度（人类的标准速度）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21616,6 +22864,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The base DC to analyze a clue is 15.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T021931Z" creationid="quentine" creationdate="20191020T021931Z">
+        <seg>分析线索的基础DC是15。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The base number of power points available per day is shown on the table above.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190619T141744Z" creationid="quentine" creationdate="20190619T141744Z">
@@ -21848,6 +23104,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The character can increase the amount of money used to gather information, gaining a circumstance bonus by effectively offering a bribe (though the process might entail buying more expensive drinks, not necessarily offering a character extra money).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T131113Z" creationid="quentine" creationdate="20190927T131113Z">
+        <seg>角色可以增加收集信息所花费的金钱，以获得等效于贿赂的情景加值（这个过程可以体现为买更贵的饮料，而不是一定要另外给一笔钱）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The character can make a Strength check to lift the object off him or herself or an Escape Artist check (DC 20) to get out from underneath.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T140542Z" creationid="quentine" creationdate="20190115T140542Z">
@@ -21880,10 +23144,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The character can move up to half his or her normal speed and hide at no penalty.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T134112Z" creationid="quentine" creationdate="20191004T134112Z">
+        <seg>角色躲藏时可以以半速移动而不受惩罚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The character can only take a single move or attack action each turn (but not both, nor can the character take full-round actions).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T145829Z" creationid="quentine" creationdate="20190114T145829Z">
         <seg>每回合角色只能做单个移动或攻击动作（但不能都做，也不能用整轮动作）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character can run around a corner so that he or she is out of sight and then hide, but the others then know at least where the character went.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T134820Z" creationid="quentine" creationdate="20191004T134820Z">
+        <seg>角色可以绕到角落里脱离视线以便躲藏，但其他人至少还是知道角色的去向的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21936,6 +23216,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The character can teach an animal to obey only that character.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T133940Z" creationid="quentine" creationdate="20190927T133940Z">
+        <seg>角色可以教会动物只听自己的命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The character can use the feat once per round as a free action.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T131508Z" creationid="quentine" creationdate="20190802T131508Z">
@@ -21948,6 +23236,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T142102Z" creationid="quentine" creationdate="20190730T142102Z">
         <seg>角色每轮只能使用一次本专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character can’t force someone to obey his or her every command or do something that endangers that person’s life.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T140817Z" creationid="quentine" creationdate="20191016T140817Z">
+        <seg>角色不能强迫他人服从自己的每一个命令，或者做一些危及目标生命的事。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22000,6 +23296,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The character does not have to get a running start to jump down (the DC is not doubled if the character does not get a running start).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T142534Z" creationid="quentine" creationdate="20191021T142534Z">
+        <seg>跳下无需助跑（未助跑DC不加倍）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character does not have to spend the entire time training the animal; 3 hours per day is enough.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T142639Z" creationid="quentine" creationdate="20190930T142552Z">
+        <seg>角色不需要把所有时间都花在驯养动物上面，每天3小时就够了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character does not need to get a running start to hop up (the DC is not doubled if you do not get a running start).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T142326Z" creationid="quentine" creationdate="20191021T142326Z">
+        <seg>跳台阶无需助跑（未助跑DC不加倍）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The character does not provoke attacks of opportunity, however.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T131633Z" creationid="quentine" creationdate="20190917T131633Z">
@@ -22012,6 +23332,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190924T132407Z" creationid="quentine" creationdate="20190924T132407Z">
         <seg>角色不能挑选自己理想的交涉结果，只能检定并对照第二张表得出结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character ends his or her movement grasping the far edge.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T140038Z" creationid="quentine" creationdate="20191021T140038Z">
+        <seg>角色抓住边缘时将结束移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22060,6 +23388,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T090646Z" creationid="quentine" creationdate="20190216T090646Z">
         <seg>角色可获得所拥有职业的所有职业专长、天赋、奖励专长和其他特殊能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character grasps the object he or she was trying to reach.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T140828Z" creationid="quentine" creationdate="20191021T140828Z">
+        <seg>角色将抓稳目的地的物体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22152,6 +23488,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The character may point to a particular enemy to direct the animal to attack that enemy.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T135107Z" creationid="quentine" creationdate="20190927T135107Z">
+        <seg>角色指着一个目标让动物攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The character may use Heroic Surge a number of times per day depending on his or her character level (as shown below), but never more than once per round.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T133158Z" creationid="quentine" creationdate="20190802T133158Z">
@@ -22186,8 +23530,8 @@
       <tuv xml:lang="EN-US">
         <seg>The character must have a lockpick set (for a mechanical lock) or an electrical tool kit (for an electronic lock).</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190925T112804Z" creationid="quentine" creationdate="20190925T112804Z">
-        <seg>角色必须有橇锁工具（用于撬开机械锁）或者电气工具箱（用于电子锁）才能撬锁。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T022714Z" creationid="quentine" creationdate="20190925T112804Z">
+        <seg>角色必须有橇锁工具（用于撬开机械锁）或者电气工具（用于电子锁）才能撬锁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22204,6 +23548,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T135536Z" creationid="quentine" creationdate="20190804T135514Z">
         <seg>每次踪迹变得更难追踪时，角色都需要再做一次生存检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character must point out a specific object, or else the animal fetches some random object.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190929T122714Z" creationid="quentine" creationdate="20190929T122714Z">
+        <seg>角色应该指向特定的物品，否则动物会随机拿些物品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22324,6 +23676,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190926T143916Z" creationid="quentine" creationdate="20190926T143916Z">
         <seg>角色的赌博检定将与其他参与者的赌博检定对抗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The character’s Jump check is modified by his or her speed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T133944Z" creationid="quentine" creationdate="20191021T133944Z">
+        <seg>角色的跳跃检定要加上速度的调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22516,6 +23876,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190116T114401Z" creationid="quentine" creationdate="20190116T114401Z">
         <seg>决定每级所获得生命点的掷骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The difficulty of reaching a given height varies according to the size of the character or creature.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T141140Z" creationid="quentine" creationdate="20191021T141140Z">
+        <seg>跳跃到指定高度的难度也取决于角色或生物的体型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23024,6 +24392,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The higher the check result, the better the information.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T125130Z" creationid="quentine" creationdate="20190927T125049Z">
+        <seg>检定结果越高，信息就越准确。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The ill effects depend on the Hit Dice of the creatures, as shown below.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190611T143832Z" creationid="quentine" creationdate="20190611T143832Z">
@@ -23372,6 +24748,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T140937Z" creationid="quentine" creationdate="20190804T140937Z">
         <seg>生物只会留下一些轻微的踪迹，但很少留下足迹，即使有也不完整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The result of the Investigate check provides bonuses or penalties to the lab workers.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T021125Z" creationid="quentine" creationdate="20191020T021125Z">
+        <seg>调查检定的结果为鉴定室工作人员的工作提供加值或减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23817,6 +25201,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>There are limits to what a successful Intimidate check can do.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191016T140709Z" creationid="quentine" creationdate="20191016T140709Z">
+        <seg>成功的威吓检定能做的事也有限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>There is no penalty for operating a general-purpose motor vehicle.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190926T130710Z" creationid="quentine" creationdate="20190926T130710Z">
@@ -23885,6 +25277,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190624T143531Z" creationid="quentine" creationdate="20190624T143531Z">
         <seg>此外，法师只能极效0到2级的法术，1级的法术极效后被视为一个4级法术，准备此极效法术将占用一个4级法术的准备空间而非1级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>There’s a chance that someone will take note of anyone asking about restricted or protected information.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T130840Z" creationid="quentine" creationdate="20190927T130840Z">
+        <seg>获取受限或受保护信息的行为有可能会被人记下来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24498,6 +25898,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>This function of the Investigate skill does not give the character clues where none existed before.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T021602Z" creationid="quentine" creationdate="20191020T021602Z">
+        <seg>这种形式的调查不能凭空给角色提供新的线索。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This function of the Investigate skill does not provide the character with evidentiary items.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T132401Z" creationid="quentine" creationdate="20191021T132401Z">
+        <seg>这种形式的调查不能凭空给角色提供物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>This grants the character a +2 circumstance bonus on his or her next attack roll.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T122113Z" creationid="quentine" creationdate="20190731T122113Z">
@@ -24756,6 +26172,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>This result assumes that no obvious reasons exist why information would be withheld.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T125716Z" creationid="quentine" creationdate="20190927T125037Z">
+        <seg>只能收集到那些没有必要藏着掖着的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>This secondary damage also requires a Fortitude saving throw to avoid.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T141224Z" creationid="quentine" creationdate="20190115T141224Z">
@@ -24942,6 +26366,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>This use of the Investigate skill requires an evidence kit.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T022542Z" creationid="quentine" creationdate="20191020T022542Z">
+        <seg>这种形式的调查需要取证工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>This use of the skill allows you to use a scroll as if you were of the appropriate spellcasting class.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190612T141122Z" creationid="quentine" creationdate="20190612T140435Z">
@@ -25026,6 +26458,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190612T141354Z" creationid="quentine" creationdate="20190612T141354Z">
         <seg>你必须能解读卷轴里的法术才能施展它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To collect a piece of evidence, make an Investigate check (DC 15).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T022927Z" creationid="quentine" creationdate="20191020T022927Z">
+        <seg>收集一份证据需要进行一次调查检定（DC15）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25318,6 +26758,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>To understand that it’s looking for a specific object, the animal must make an Intelligence check (DC 10).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190929T123959Z" creationid="quentine" creationdate="20190929T123959Z">
+        <seg>要让动物理解这是一个搜寻特定物品的指令，必须让动物做一次智力检定（DC10）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>To use Craft, first decide what the character is trying to make and consult the category descriptions below.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190918T132617Z" creationid="quentine" creationdate="20190918T132617Z">
@@ -25328,8 +26776,8 @@
       <tuv xml:lang="EN-US">
         <seg>To use a Craft skill effectively, a character must have a kit or some other set of basic tools.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190918T132142Z" creationid="quentine" creationdate="20190918T132142Z">
-        <seg>要有效地制造物品，角色必须有必备的工具箱或其他类型的基本工具集。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T022627Z" creationid="quentine" creationdate="20190918T132142Z">
+        <seg>要有效地制造物品，角色必须有必备的工具或其他类型的基本工具集。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25362,6 +26810,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190612T122750Z" creationid="quentine" creationdate="20190612T122750Z">
         <seg>需受训。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Training an animal for a purpose requires fewer checks than teaching individual tricks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190930T140114Z" creationid="quentine" creationdate="20190930T140114Z">
+        <seg>为通用工作训练动物需要的检定比教会动物单独的技巧少。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tumble can provide a +2 synergy bonus on Jump checks (see Skill Synergy).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T143254Z" creationid="quentine" creationdate="20191021T143254Z">
+        <seg>翻滚会为跳跃检定提供2点共效加值（见`技能共效`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25598,6 +27062,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Using the skill in this manner assumes that there are other random people about, among whom the character can mingle to remain unnoticed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T140631Z" creationid="quentine" creationdate="20191004T140631Z">
+        <seg>以这种形式使用此技能的情形是假设附近随机分布着几个人，用躲藏来混入其中而不被注意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Using this feat fires two bullets and can only be done if the weapon has two bullets in it.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190731T125013Z" creationid="quentine" creationdate="20190731T125013Z">
@@ -25634,6 +27106,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181106T134208Z" creationid="QuenTine" creationdate="20181106T134208Z">
         <seg>财富检定用于判定角色能够买得起什么和能穿得起什么装备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What constitutes an item of interest to an animal can vary.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190929T123601Z" creationid="quentine" creationdate="20190929T123601Z">
+        <seg>让一个动物感兴趣的物品多种多样。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26206,6 +27686,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>While the others turn their attention from the character, he or she can make a Hide check if the character can get to a hiding place of some kind.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T135614Z" creationid="quentine" creationdate="20191004T135614Z">
+        <seg>当他人的注意力从角色的身上移开，且角色在可以躲藏的位置，角色可以进行一次躲藏检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Whoever drinks the potion is the target of the spell.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190624T141519Z" creationid="quentine" creationdate="20190624T141519Z">
@@ -26330,6 +27818,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190215T134644Z" creationid="quentine" creationdate="20190215T134644Z">
         <seg>拥有此天赋的英雄在为说谎、欺诈或者其他歪曲事实的行为作唬骗、交涉、赌博鉴定时，获得一个等于其魅力等级的加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Without a 20-foot move, double the DC.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T135755Z" creationid="quentine" creationdate="20191021T135755Z">
+        <seg>若不够20尺，DC加倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Without a running start, double the DC.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T140640Z" creationid="quentine" creationdate="20191021T140640Z">
+        <seg>未助跑则DC加倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26592,6 +28096,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190619T141109Z" creationid="quentine" creationdate="20190619T141109Z">
         <seg>\* 发现的各等级的灵力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>\* Requires a 20-foot move.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T135741Z" creationid="quentine" creationdate="20191021T135741Z">
+        <seg>\* 需要先移动20尺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27080,6 +28592,26 @@
 |10–14|+1|
 |15–24|+2|
 |25及以上|+3|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>|Circumstances|DC Modifier|
+|-------------|:---------:|
+|Every day since event (max modifier +10)|+2|
+|Scene is outdoors|+5|
+|Scene slightly disturbed|+2|
+|Scene moderately disturbed|+4|
+|Scene extremely disturbed|+6|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T022344Z" creationid="quentine" creationdate="20191020T022344Z">
+        <seg>|情景|DC 调整值|
+|-------------|:---------:|
+|事发每过一天（最大调整值为+10）|+2|
+|现场在户外|+5|
+|现场被轻度破坏|+2|
+|现场被中度破坏|+4|
+|现场被重度破坏|+6|</seg>
       </tuv>
     </tu>
     <tu>
@@ -27934,6 +29466,48 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>|Cover or Concealment|Circumstance Bonus|
+|--------------------|:----------------:|
+|Three-quarters|+5|
+|Nine-tenths|+10|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T135225Z" creationid="quentine" creationdate="20191004T135107Z">
+        <seg>|掩体或隐蔽|情景加值|
+|--------------------|:----------------:|
+|四分之三|+5|
+|十分之九|+10|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>|Creature Size|Maximum Height|
+|-------------|--------------|
+|Colossal|128 ft.|
+|Gargantuan|64 ft.|
+|Huge|32 ft.|
+|Large|16 ft.|
+|Medium-size|8 ft.|
+|Small|4 ft.|
+|Tiny|2 ft.|
+|Diminutive|1 ft.|
+|Fine|0.5 ft.|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T141640Z" creationid="quentine" creationdate="20191021T141640Z">
+        <seg>|生物体型|最大高度|
+|-------------|--------------|
+|超巨型|128 尺|
+|巨型|64 尺|
+|超大型|32 尺|
+|大型|16 尺|
+|普通|8 尺|
+|小型|4 尺|
+|超小型|2 尺|
+|微型|1 尺|
+|超微型|0.5 尺|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>|Creature/Object|Rating|
 |---------------|------|
 |Outsider|HD|
@@ -28258,6 +29832,24 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>|High Jump Distance|DC\*|High Jump Distance|DC\*|
+|------------------|:--:|------------------|:--:|
+|1 foot|4|5 feet|20|
+|2 feet|8|6 feet|24|
+|3 feet|12|7 feet|28|
+|4 feet|16|8 feet|32|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T140622Z" creationid="quentine" creationdate="20191021T140622Z">
+        <seg>|跳高距离|DC\*|跳高距离|DC\*|
+|------------------|:--:|------------------|:--:|
+|1 尺|4|5 尺|20|
+|2 尺|8|6 尺|24|
+|3 尺|12|7 尺|28|
+|4 尺|16|8 尺|32|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>|Improvement|Craft DC|Repair Chance (d%)|
 |-----------|--------|------------------|
 |Ranged Weapons|
@@ -28398,6 +29990,22 @@
 |高质量（单位门闩）|30|
 |高度安全（银行支行金库）|40|
 |顶级安全（银行总行金库）|50|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>|Long Jump Distance|DC\*|Long Jump Distance|DC\*|
+|------------------|:--:|------------------|:--:|
+|5 feet|5|20 feet|20|
+|10 feet|10|25 feet|25|
+|15 feet|15|30 feet|30|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T135722Z" creationid="quentine" creationdate="20191021T135722Z">
+        <seg>|跳远距离|DC\*|跳远距离|DC\*|
+|------------------|:--:|------------------|:--:|
+|5 尺|5|20 尺|20|
+|10 尺|10|25 尺|25|
+|15 尺|15|30 尺|30|</seg>
       </tuv>
     </tu>
     <tu>
@@ -28706,6 +30314,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>|Size|Modifier|Size|Modifier|
+|----|:------:|----|:------:|
+|Fine|+16|Large|–4|
+|Diminutive|+12|Huge|–8|
+|Tiny|+8|Gargantuan|–12|
+|Small|+4|Colossal|–16|
+|Medium-size|+0|||</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T134511Z" creationid="quentine" creationdate="20191004T134317Z">
+        <seg>|体型|调整值|体型|调整值|
+|----|:------:|----|:------:|
+|超微型|+16|大型|–4|
+|微型|+12|超大型|–8|
+|超小型|+8|巨型|–12|
+|小型|+4|超巨型|–16|
+|普通|+0|||</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>|Size|Purchase DC|
 |:---|-----------|
 |Diminutive|18|
@@ -28852,6 +30480,24 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>|Task|Time|DC|
+|----|---|:-:|
+|Handle an animal|Move action|10|
+|“Push” an animal|Full-round action|25|
+|Teach an animal a trick|1 week|See text|
+|Train an animal for a purpose|See text|See text|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T132122Z" creationid="quentine" creationdate="20190927T132122Z">
+        <seg>|任务|时间|DC|
+|----|---|:-:|
+|驾驭动物|移动动作|10|
+|逼迫动物|整轮动作|25|
+|教会动物一个技巧|1周|见下文|
+|为通用工作训练动物|见下文|见下文|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>|Telepath Level|Pts/Day|0\*|1\*|2\*|3\*|4\*|5\*|
 |--------------|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1st|2|3|1|—|—|—|—|
@@ -28922,6 +30568,24 @@
 |弱酸（1d6/1d10）\*\*|8|15|10|1分钟|
 |强酸（2d6/2d10）|12|20|15|30分钟|
 |浓酸（3d6/3d10）|16|30|20|1小时|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>|Type of Information|DC|Purchase DC|
+|------------------|:-:|:---------:|
+|General|10|5|
+|Specific|15|10|
+|Restricted|20|15|
+|Protected|25|20|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T130240Z" creationid="quentine" creationdate="20190927T125435Z">
+        <seg>|信息类型|DC|购买DC|
+|------------------|:-:|:---------:|
+|传闻|10|5|
+|专门|15|10|
+|受限|20|15|
+|受保护|25|20|</seg>
       </tuv>
     </tu>
     <tu>

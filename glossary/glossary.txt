@@ -799,11 +799,11 @@ detonator	导火索
 radio direction finder	无线电测向仪
 Scratch-Built	土制
 tripwire trap	绊线陷阱
-electrical tool kit	电气工具箱
+electrical tool kit	电气工具
 medicinal drug	药物
 pharmacist kit	配药箱
-chemical kit	化学工具箱
-mechanical tool kit	机械工具箱
+chemical kit	化学工具
+mechanical tool kit	机械工具
 bookcase	书架
 catapult	投石车
 shed	小棚屋
@@ -875,3 +875,6 @@ Laboring	干重活	驯养动物，工作
 Hunting	捕猎	驯养动物，工作
 Riding	骑乘	驯养动物，工作
 Tailing	尾随
+crime lab	技术鉴定室
+evidence kit	取证工具
+Hop Up	跳台阶
