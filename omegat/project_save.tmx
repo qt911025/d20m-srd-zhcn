@@ -990,10 +990,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Knowledge (Int) Trained Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T132224Z" creationid="quentine" creationdate="20191022T132224Z">
+        <seg>## 知识（智） 需受训</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Law Enforcement</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T140008Z" creationid="QuenTine" creationdate="20181104T140008Z">
         <seg>## 执法人员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Listen (Wis)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T110012Z" creationid="quentine" creationdate="20191024T110012Z">
+        <seg>## 聆听（感）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1054,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>## Move Silently (Dex) Armor Penalty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T131453Z" creationid="quentine" creationdate="20191025T131453Z">
+        <seg>## 潜行（敏） 护甲减值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>## Multiclass Characters</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T081505Z" creationid="quentine" creationdate="20190216T081505Z">
@@ -1082,6 +1106,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123715Z" creationid="quentine" creationdate="20190115T123715Z">
         <seg>## 反胃</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Navigate (Int)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T132035Z" creationid="quentine" creationdate="20191025T132035Z">
+        <seg>## 寻路（智）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1154,6 +1186,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123959Z" creationid="quentine" creationdate="20190115T123959Z">
         <seg>## 麻痹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>## Perform (Cha)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T135932Z" creationid="quentine" creationdate="20191025T135932Z">
+        <seg>## 表演（魅）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4617,6 +4657,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Act:** The character is a gifted actor, capable of performing drama, comedy, or action-oriented roles with some level of skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T141542Z" creationid="quentine" creationdate="20191025T141448Z">
+        <seg>**演戏：** 角色一个有天赋的演员，擅长表演戏剧、喜剧，高级技能还包括动作类的角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Action Points:** 6 + one-half character level, rounded down, every time he or she attains a new level in this class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190421T095411Z" creationid="quentine" creationdate="20190421T095411Z">
@@ -4825,10 +4873,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Arcane Lore:** The occult, magic and the supernatural, astrology, numerology, and similar topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T134634Z" creationid="quentine" creationdate="20191022T134634Z">
+        <seg>**秘法学识：** 神秘学、魔法和超自然学说、星相学、命理学以及类似主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Armor Penalty:** If “Armor Penalty” appears on the line beneath the skill name, apply the armor penalty for the armor the character is wearing to checks involving this skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T115556Z" creationid="quentine" creationdate="20190807T115556Z">
         <seg>**护甲减值：** 如果“护甲减值”出现在技能名旁边，技能检定要受到护甲的护甲减值影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Art:** Fine arts and graphic arts, including art history and artistic techniques.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T134818Z" creationid="quentine" creationdate="20191022T134643Z">
+        <seg>**艺术：** 精细工艺和图形艺术，包括艺术史和艺术技法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4877,6 +4941,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T083808Z" creationid="quentine" creationdate="20190116T115550Z">
         <seg>**基础攻击加值：** 角色的基本攻击加值与攻击次数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Behavioral Sciences:** Psychology, sociology, and criminology.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T135016Z" creationid="quentine" creationdate="20191022T135016Z">
+        <seg>**行为科学：** 心理学、社会学、犯罪学。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5690,6 +5762,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Business:** Business procedures, investment strategies, and corporate structures.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T135133Z" creationid="quentine" creationdate="20191022T135133Z">
+        <seg>**商学：** 业务流程、投资策略以及公司结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Captivate:** The Charismatic hero has the ability to temporarily beguile a target through the use of words and bearing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190203T041409Z" creationid="quentine" creationdate="20190202T131807Z">
@@ -5754,6 +5834,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Check:** A character makes a Knowledge check to see if the character knows something.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T133330Z" creationid="quentine" creationdate="20191022T133128Z">
+        <seg>**检定：** 角色进行知识检定来判断角色是否知道某些知识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Check:** A character’s Disguise check result determines how good the disguise is.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T125442Z" creationid="quentine" creationdate="20190925T125442Z">
@@ -5770,6 +5858,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Check:** A character’s Move Silently check is opposed by the Listen check of anyone who might hear the character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T131602Z" creationid="quentine" creationdate="20191025T131602Z">
+        <seg>**检定：** 角色的潜行检定用于对抗可能听到角色的听者的聆听检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Check:** By succeeding at a skill check (DC 10) and spending 1d4+1 hours passing out money and buying drinks, a character can get a feel for the major news items in a neighborhood.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T125107Z" creationid="quentine" creationdate="20190927T124652Z">
@@ -5782,6 +5878,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T134448Z" creationid="quentine" creationdate="20190926T134448Z">
         <seg>**检定：** 伪造文书需要伪造的原件相应的材料，还需要时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Check:** Make a Listen check against a DC that reflects how quiet the noise is that a character might hear or against an opposed Move Silently check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T110305Z" creationid="quentine" creationdate="20191024T110305Z">
+        <seg>**检定：** 聆听检定是用来与声响的安静程度代表的DC或者目标的潜行检定结果对抗的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Check:** Make a Navigate check when a character is trying to find his or her way to a distant location without directions or other specific guidance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T132247Z" creationid="quentine" creationdate="20191025T132247Z">
+        <seg>**检定：** 角色在寻找通往遥远地点的路时找不到方向或缺乏指引，将进行寻路检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5846,6 +5958,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T120854Z" creationid="quentine" creationdate="20190807T120854Z">
         <seg>**检定：** 角色可以在不稳定的表面行走。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Check:** The character is accomplished in some type of artistic expression and knows how to put on a performance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T140957Z" creationid="quentine" creationdate="20191025T140949Z">
+        <seg>**检定：** 角色掌握了一些类型的艺术表达并知道如何应用于表演。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5926,6 +6046,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190619T132645Z" creationid="quentine" creationdate="20190619T131414Z">
         <seg>**检定：** 进行任何行为时，只要有可能分心，就要做一次专注检定，这些动作包括释放灵力或者其他需要全神贯注维持灵力启动状态的活动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Civics:** Law, legislation, litigation, and legal rights and obligations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T135517Z" creationid="quentine" creationdate="20191022T135517Z">
+        <seg>**政法：** 法律、立法、起诉、法律权利与义务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6050,6 +6178,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Current Events:** Recent happenings in the news, sports, politics, entertainment, and foreign affairs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T135744Z" creationid="quentine" creationdate="20191022T135744Z">
+        <seg>**时事：** 最近发生的新鲜事、体育、娱乐以及国际新闻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Damage Reduction 1/—:** The Tough hero ignores 1 point of damage from melee and ranged weapons.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T143549Z" creationid="quentine" creationdate="20190117T143549Z">
@@ -6070,6 +6206,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190117T143754Z" creationid="quentine" creationdate="20190117T143754Z">
         <seg>**三级伤害减免：** 体质型英雄总共忽略3点来自近战及远程武器的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Dance:** The character is a gifted dancer, capable of performing rhythmic and patterned bodily movements to music.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T141630Z" creationid="quentine" creationdate="20191025T141509Z">
+        <seg>**舞蹈：** 角色是一个有天赋的舞者，擅长表演有节奏的和各种随着音乐舞动的节目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6190,6 +6334,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T140347Z" creationid="quentine" creationdate="20190927T140347Z">
         <seg>**退让（DC15）：** 让动物脱离战斗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Earth and Life Sciences:** Biology, botany, genetics, geology, and paleontology.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T135901Z" creationid="quentine" creationdate="20191022T135901Z">
+        <seg>**地球与生命科学：** 生物、植物学、基因学、地质学与古生物学。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6522,6 +6674,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**History:** Events, personalities, and cultures of the past.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T140035Z" creationid="quentine" creationdate="20191022T140035Z">
+        <seg>**历史：** 事件、传记和古文化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Hit Dice:** Treat as the Mage’s character level (for effects related to Hit Dice).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190623T124526Z" creationid="quentine" creationdate="20190623T124526Z">
@@ -6734,6 +6894,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T114825Z" creationid="quentine" creationdate="20190807T114825Z">
         <seg>**关键属性：** 应用于技能检定的关键属性的缩写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Keyboards:** The character is a musician gifted with a talent for playing keyboard musical instruments, such as piano, organ, and synthesizer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T141902Z" creationid="quentine" creationdate="20191025T141833Z">
+        <seg>**键盘乐器：** 角色是有天赋的键盘音乐家，善使钢琴、风琴以及电子合成器之类的乐器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7066,6 +7234,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Percussion Instruments:** The character is a musician gifted with a talent for playing percussion musical instruments, such as drums, cymbals, triangle, xylophone, and tambourine.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T142211Z" creationid="quentine" creationdate="20191025T141857Z">
+        <seg>**打击乐器：** 角色是有天赋的打击乐音乐家，善使鼓、钹、三角铁、木琴、铃鼓之类的乐器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Perform (DC 15):** The animal does a variety of simple tricks such as sitting up, rolling over, and so on.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190929T123307Z" creationid="quentine" creationdate="20190929T123144Z">
@@ -7090,6 +7266,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Physical Sciences:** Astronomy, chemistry, mathematics, physics, and engineering.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T140300Z" creationid="quentine" creationdate="20191022T140220Z">
+        <seg>**物理科学：** 天文学、化学、数学、物理和工程学。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Place Explosive Device:** Carefully placing an explosive against a fixed structure (a stationary, unattended inanimate object) can maximize the damage dealt by exploiting vulnerabilities in the structure’s construction.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T133716Z" creationid="quentine" creationdate="20190923T133716Z">
@@ -7110,6 +7294,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T132638Z" creationid="quentine" creationdate="20190921T123613Z">
         <seg>**毒素：** 固体毒素通常需要摄取才能生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Popular Culture:** Popular music and personalities, genre films and books, urban legends, comics, science fiction, and gaming, among others.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T140439Z" creationid="quentine" creationdate="20191022T140439Z">
+        <seg>**流行文化：** 流行乐和明星、类型片与畅销书、都市传说、漫画、科幻小说和游戏等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7683,6 +7875,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Sing:** The character is a musician gifted with a talent for producing musical tones with your voice.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T142249Z" creationid="quentine" creationdate="20191025T142249Z">
+        <seg>**唱歌：** 角色是有天赋的声乐音乐家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Skill Emphasis:** The Dedicated hero chooses a single skill and receives a +3 bonus on all checks with that skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190202T101836Z" creationid="quentine" creationdate="20190202T101725Z">
@@ -8107,6 +8307,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Special:** A character can take 10 when making a Move Silently check, but can’t take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T131953Z" creationid="quentine" creationdate="20191025T131953Z">
+        <seg>**特别：** 角色可以在潜行检定中取10， 但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character can take 10 when making a Navigate check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T134933Z" creationid="quentine" creationdate="20191025T134933Z">
+        <seg>**特别：** 角色可以在寻路检定中取10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** A character can take 10 when making a Perform check, but can’t take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T144405Z" creationid="quentine" creationdate="20191025T144405Z">
+        <seg>**特别：** 角色可以在表演检定中取10， 但不能取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Special:** A character can take 10 when making a bluff (except for feinting in combat), but can’t take 20.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T140356Z" creationid="quentine" creationdate="20190808T140356Z">
@@ -8255,6 +8479,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190731T131857Z" creationid="quentine" creationdate="20190731T131857Z">
         <seg>**特别：** 若对手拥有`精准射击`专长，对此角色的攻击减值又降为4点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Special:** An untrained Knowledge check is simply an Intelligence check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T141513Z" creationid="quentine" creationdate="20191022T141513Z">
+        <seg>**特别：** 未受训的知识检定就是一个单纯的智力检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8419,6 +8651,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Special:** When several characters are listening to the same thing, the GM can make a single 1d20 roll and use it for all the listeners’ skill checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T112602Z" creationid="quentine" creationdate="20191024T112602Z">
+        <seg>**特别：** 当几个角色聆听同一个事物时，GM可以掷单个1d20用于所有聆听者的聆听检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Special:** You can take 10 on Autohypnosis checks, but you can’t take 20.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190619T131126Z" creationid="quentine" creationdate="20190619T131126Z">
@@ -8443,10 +8683,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Stand-Up:** The character is a gifted comedian, capable of performing a stand-up routine before an audience.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T142410Z" creationid="quentine" creationdate="20191025T142410Z">
+        <seg>**单口相声：** 角色是一个有天赋的喜剧人，善于在观众面前说笑话。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Stay (DC 15):** The animal stays in place waiting for the character to return.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190929T124126Z" creationid="quentine" creationdate="20190929T124029Z">
         <seg>**停留（DC15）** 让动物待在一个地方等待角色回来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Streetwise:** Street and urban culture, local underworld personalities and events.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T140545Z" creationid="quentine" creationdate="20191022T140528Z">
+        <seg>**街头智慧：** 街头与城市风俗、本地黑道的人与事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Stringed Instruments:** The character is a musician gifted with a talent for playing stringed musical instruments, such as banjo, guitar, harp, lute, sitar, and violin.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T143019Z" creationid="quentine" creationdate="20191025T143019Z">
+        <seg>**弦乐器：** 角色是有天赋的弦乐器音乐家，善使班卓琴、吉他、竖琴、鲁特琴、西塔琴、小提琴之类的乐器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8491,6 +8755,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Tactics:** Techniques and strategies for disposing and maneuvering forces in combat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T140650Z" creationid="quentine" creationdate="20191022T140650Z">
+        <seg>**策略：** 战斗中，技术与战略的处理与调遣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Tailing:** A character can use Hide to tail a person in public.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T140231Z" creationid="quentine" creationdate="20191004T140231Z">
@@ -8515,6 +8787,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Technology:** Current developments in cutting-edge devices, as well as the background necessary to identify various technological devices.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T140805Z" creationid="quentine" creationdate="20191022T140805Z">
+        <seg>**技术：** 尖端科技设备的开发，以及识别高科技设备的技术背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**The hide check is also modified by the character’s size:**</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T134323Z" creationid="quentine" creationdate="20191004T134302Z">
@@ -8523,10 +8803,18 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Theology and Philosophy:** Liberal arts, ethics, philosophical concepts, and the study of religious faith, practice, and experience.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T141148Z" creationid="quentine" creationdate="20191022T141148Z">
+        <seg>**神学与哲学：** 文科、伦理学、哲学概念以及宗教的信仰、实践、体验的研究。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**This skill encompasses several categories, each of them treated as a separate skill:** Craft (chemical), Craft (electronic), Craft (mechanical), Craft (pharmaceutical), Craft (structural), Craft (visual arts), and Craft (writing).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T131945Z" creationid="quentine" creationdate="20190918T131945Z">
-        <seg>**此技能包括几个领域，每个领域被视为独立的技能：** 制造（化学）、制造（电学）、制造（机械）、制造（配药）、制造（结构）、制造（视觉艺术）、制造（写作）/</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T140502Z" creationid="quentine" creationdate="20190918T131945Z">
+        <seg>**此技能包括几个类别，每个类别被视为独立的技能：** 制造（化学）、制造（电学）、制造（机械）、制造（配药）、制造（结构）、制造（视觉艺术）、制造（写作）/</seg>
       </tuv>
     </tu>
     <tu>
@@ -8567,6 +8855,38 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T141117Z" creationid="quentine" creationdate="20191004T141117Z">
         <seg>**时间：** 躲藏检定是一个攻击动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** A Knowledge check can be a reaction, but otherwise requires a full-round action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T142052Z" creationid="quentine" creationdate="20191022T142052Z">
+        <seg>**时间：** 知识检定可以是一个反应，否则将是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** A Listen check is either a reaction (if called for by the GM) or a move action (if a character actively takes the time to try to hear something).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T113001Z" creationid="quentine" creationdate="20191024T113001Z">
+        <seg>**时间：** 聆听检定要么是一个反应（如果这是GM要求的检定）或者是一个移动动作（如果这是角色主动聆听）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** A Navigate check is a full-round action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T135053Z" creationid="quentine" creationdate="20191025T135053Z">
+        <seg>**时间：** 寻路检定是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Time:** A Perform check usually requires at least several minutes to an hour or more.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T145422Z" creationid="quentine" creationdate="20191025T145422Z">
+        <seg>*时间：** 一次表演检定通常需要少则几分钟多则一小时甚至更久的时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8675,6 +8995,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Time:** Move Silently is a move action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T132024Z" creationid="quentine" creationdate="20191025T132024Z">
+        <seg>**时间：** 潜行检定是一个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Time:** See above.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T142400Z" creationid="quentine" creationdate="20190930T142400Z">
@@ -8725,8 +9053,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="EN-US">
         <seg>**Time:** Using the Jump skill is either a move action or a full-round action, depending on whether the character starts and completes the jump during a single move action or a full-round action.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T143659Z" creationid="quentine" creationdate="20191021T143659Z">
-        <seg>**时间：** 使用跳跃技能是移动动作或整轮动作，取决于角色是以一个移动动作还是一个整轮动作完成整个跳跃过程。</seg>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T113025Z" creationid="quentine" creationdate="20191021T143659Z">
+        <seg>**时间：** 使用跳跃技能要么是移动动作，要么是整轮动作，取决于角色是以一个移动动作还是一个整轮动作完成整个跳跃过程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8775,6 +9103,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T151736Z" creationid="quentine" creationdate="20190201T151736Z">
         <seg>**诡计：**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Try Again?:** A character can make a Listen check every time he or she has the opportunity to hear something in a reactive manner.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T112320Z" creationid="quentine" creationdate="20191024T112130Z">
+        <seg>**重试：** 角色每次反应时，只要有聆听的条件，都可以做一次聆听检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8871,6 +9207,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T140938Z" creationid="quentine" creationdate="20191016T140938Z">
         <seg>**重试：** 不行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Try Again?:** Not for the same performance and audience.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T144345Z" creationid="quentine" creationdate="20191025T144345Z">
+        <seg>**重试：** 同一个表演对同一批观众不能重复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9047,6 +9391,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T132525Z" creationid="quentine" creationdate="20190114T132525Z">
         <seg>**意志豁免：** 这一豁免反映了角色对精神上的影响和控制和许多魔法效果的抵抗能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Wind Instruments:** The character is a musician gifted with a talent for playing wind musical instruments, such as flute, bugle, trumpet, tuba, bagpipes, and trombone.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T143258Z" creationid="quentine" creationdate="20191025T143232Z">
+        <seg>**管乐器：** 角色是有天赋的管乐器音乐家，善使长笛、军号、小号、大号、风笛、长号之类的乐器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9977,6 +10329,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character can also make a Listen check voluntarily if he or she wants to try to hear something in the character’s vicinity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T110731Z" creationid="quentine" creationdate="20191024T110731Z">
+        <seg>角色若想试着聆听附近的声响，也可以主动做聆听检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character can choose unarmed strike or grapple as a weapon for the purposes of this feat.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190804T144903Z" creationid="quentine" creationdate="20190804T144903Z">
@@ -10081,6 +10441,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character can move up to half his or her normal speed at no penalty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T131835Z" creationid="quentine" creationdate="20191025T131835Z">
+        <seg>角色以半速移动时，潜行检定不受惩罚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character can only spend 1 action point in a round.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T135516Z" creationid="quentine" creationdate="20190114T135516Z">
@@ -10121,6 +10489,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character can take 10 or take 20 when making a Listen check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T112627Z" creationid="quentine" creationdate="20191024T112627Z">
+        <seg>角色进行聆听检定时可以取10或取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character can take 10 when making a Forgery check, but can’t take 20.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T142153Z" creationid="quentine" creationdate="20190926T142153Z">
@@ -10133,6 +10509,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T142910Z" creationid="quentine" creationdate="20191021T142910Z">
         <seg>跳跃检定可取10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can take 10 when making a Knowledge check, but can’t take 20.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T141632Z" creationid="quentine" creationdate="20191022T141632Z">
+        <seg>角色可以在知识检定中取10， 但不能取20。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10161,6 +10545,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character can take 20 only when determining his or her location, not when traveling.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T135025Z" creationid="quentine" creationdate="20191025T135025Z">
+        <seg>角色可在辨认自身所处位置时取20，而不可将取20用于旅行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character can take 20 to open a lock or to disable a security device, unless the character is trying to prevent his or her tampering from being noticed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T120405Z" creationid="quentine" creationdate="20190925T120405Z">
@@ -10173,6 +10565,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181106T141427Z" creationid="QuenTine" creationdate="20181106T141248Z">
         <seg>如果财富检定失败，角色可以再来一次，但要再等待一个与购买DC相等小时数的冷却时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can use Navigate to determine his or her position on earth without the use of any high-tech equipment by checking the constellations or other natural landmarks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T134833Z" creationid="quentine" creationdate="20191025T134833Z">
+        <seg>角色可以通过寻路检定，不依靠高科技装备，光靠星座和自然地标来判断身处地球的方位。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10213,6 +10613,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T143050Z" creationid="quentine" creationdate="20190926T143050Z">
         <seg>角色购买赌注不可取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character cannot use this function of Navigate to find a path to a site if the character has no idea where the site is located.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T134519Z" creationid="quentine" creationdate="20191025T134459Z">
+        <seg>如果角色不知道目的地的位置，是不能以这种形式的寻路检定找到正确的岔路的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10353,6 +10761,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character may make a second Navigate check (DC 20) to regain his or her path.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T133717Z" creationid="quentine" creationdate="20191025T133717Z">
+        <seg>角色要再进行第二次寻路检定（DC20）以找到正确的道路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character not properly equipped to counteract the heat or cold must attempt a Fortitude saving throw each hour (DC 15, +1 for each previous check).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T131804Z" creationid="quentine" creationdate="20190115T131804Z">
@@ -10465,6 +10881,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character with the Alertness feat gets a +2 bonus on all Listen checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T112746Z" creationid="quentine" creationdate="20191024T112746Z">
+        <seg>有`警觉`专长的角色的聆听检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character with the Animal Affinity feat and at least 1 rank in this skill gets a +2 bonus on all Handle Animal checks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190930T142346Z" creationid="quentine" creationdate="20190930T142346Z">
@@ -10569,6 +10993,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character with the Educated feat gets a +2 bonus on any two types of Knowledge checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T140621Z" creationid="quentine" creationdate="20191022T141804Z">
+        <seg>有`良好教育`专长角色可在任意两个类别的知识检定上获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character with the Focused feat gets a +2 bonus on all Balance checks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190807T124047Z" creationid="quentine" creationdate="20190807T124047Z">
@@ -10589,6 +11021,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T125616Z" creationid="quentine" creationdate="20190917T125616Z">
         <seg>有`技术宅`专长的角色计算机使用检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Guide feat gets a +2 bonus on all Navigate checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T135043Z" creationid="quentine" creationdate="20191025T135043Z">
+        <seg>有`向导`专长的角色的寻路检定有2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10629,6 +11069,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20191004T141053Z" creationid="quentine" creationdate="20191004T141053Z">
         <seg>有`隐秘`专长的角色的躲藏检定有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character with the Stealthy feat gets a +2 bonus on all Move Silently checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T132002Z" creationid="quentine" creationdate="20191025T132002Z">
+        <seg>有`隐秘`专长的角色的潜行检定有2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10693,6 +11141,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T142249Z" creationid="quentine" creationdate="20190926T142249Z">
         <seg>无伪造工具的角色的伪造检定将有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character without an appropriate instrument automatically fails any Perform (keyboard), Perform (percussion), Perform (stringed), or Perform (wind) check he or she attempts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T144539Z" creationid="quentine" creationdate="20191025T144539Z">
+        <seg>角色若没有合适的乐器，表演（键盘乐器）、表演（打击乐器）、表演（弦乐器）、表演（管乐器）检定自动失败。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11353,6 +11809,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A sleeping character can make Listen checks, but takes a –10 penalty on the checks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T112826Z" creationid="quentine" creationdate="20191024T112826Z">
+        <seg>睡着的角色可以进行聆听检定，但在检定中受到10点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A slope is considered to be any incline of less than 60 degrees; a wall is any incline of 60 degrees or steeper.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T141348Z" creationid="quentine" creationdate="20190808T141348Z">
@@ -11453,6 +11917,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T130734Z" creationid="quentine" creationdate="20190917T130734Z">
         <seg>成功的专注检定并不能允许角色在紧张的情况下取10，角色必须如常掷骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A successful Listen check when there isn’t anything to hear results in the character hearing nothing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T111150Z" creationid="quentine" creationdate="20191024T111150Z">
+        <seg>没声音时，成功的检定其结果也是“没听到”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12747,6 +13219,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Antiques, modern art, photography, and performance art forms such as music and dance, among others.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T134925Z" creationid="quentine" creationdate="20191022T134925Z">
+        <seg>古董、现代艺术、摄影以及诸如音乐和舞蹈等表演艺术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any bonus without a descriptor (such as simply a “+1 bonus”) stacks with other bonuses.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T143020Z" creationid="quentine" creationdate="20190806T143020Z">
@@ -12971,10 +13451,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Appraising the value of an object is one sort of task that can be performed using Knowledge.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T133834Z" creationid="quentine" creationdate="20191022T133834Z">
+        <seg>鉴定一个物品的价值，这类活动应用知识检定完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Appropriate clothing and successful use of the Survival skill can modify the save, as noted above.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132122Z" creationid="quentine" creationdate="20190115T132122Z">
         <seg>合适的衣物和生存技能的成功使用对检定同样有上文所述的影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Archaeology and antiquities.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T140158Z" creationid="quentine" creationdate="20191022T140158Z">
+        <seg>考古与古代学。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13047,6 +13543,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T082149Z" creationid="quentine" creationdate="20190216T082149Z">
         <seg>总的来说，跨职角色的属性是角色每个职业提供的属性的总和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As a move action, the character may attempt to hear something that he or she failed (or believes he or she failed) to hear previously.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T112456Z" creationid="quentine" creationdate="20191024T112456Z">
+        <seg>作为一个移动动作，角色将试图再聆听一遍之前没听到（或以为没听到）的声音。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14099,6 +14603,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At more than half speed and up to the character’s full speed, he or she takes a –5 penalty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T131907Z" creationid="quentine" creationdate="20191025T131907Z">
+        <seg>速度高于半速不高于常速，潜行受到5点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At that point, the character becomes an ordinary (or hero, in some cases).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190703T123304Z" creationid="quentine" creationdate="20190703T123304Z">
@@ -14111,6 +14623,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T143831Z" creationid="quentine" creationdate="20190808T143831Z">
         <seg>由GM自由裁量具体的情况要求何种装备，只需要一根绳索还是其他工具，或者仅仅只需手脚而不是整套攀爬装备就可以避免减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>At the GM’s discretion, impromptu instruments may be employed, but the performer must take a –4 penalty on the check because his or her equipment, although usable, is inappropriate for the skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T145211Z" creationid="quentine" creationdate="20191025T145211Z">
+        <seg>由GM自由裁量，用即兴的乐器表演，应用最接近的表演类别，检定仍受4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14191,6 +14711,54 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190624T135827Z" creationid="quentine" creationdate="20190624T135827Z">
         <seg>听着有心、擅长古典武器、寓守于攻、良好教育、气势雄猛、低调、灵巧、好学。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Audience awed.|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T144257Z" creationid="quentine" creationdate="20191025T144257Z">
+        <seg>观众肃然起敬。|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Audience enjoys your performance, but it isn’t exceptional.|
+|20|Great performance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T144152Z" creationid="quentine" creationdate="20191025T143957Z">
+        <seg>观众享受你的表演，但没什么特别的。|
+|20|出彩的表演。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Audience enthusiastic.|
+|30|Masterful performance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T144136Z" creationid="quentine" creationdate="20191025T144136Z">
+        <seg>观众热烈鼓掌。|
+|30|大师级表演。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Audience highly impressed.|
+|25|Memorable performance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T144146Z" creationid="quentine" creationdate="20191025T144030Z">
+        <seg>深深地打动了观众。|
+|25|值得铭记的表演。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Audience may appreciate your performance, but isn’t impressed.|
+|15|Routine performance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T143829Z" creationid="quentine" creationdate="20191025T143829Z">
+        <seg>观众感谢你的表演但没有被你打动。|
+|15|例行表演。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14407,6 +14975,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190522T141404Z" creationid="quentine" creationdate="20190522T141404Z">
         <seg>构造师、谨慎、寓守于攻、良好教育、技术宅、擅长单兵火器、近程射击、好学。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bureaucratic procedures and how to navigate them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T135333Z" creationid="quentine" creationdate="20191022T135333Z">
+        <seg>行政流程与流程的优化。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15160,6 +15736,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Do not arbitrarily make up new categories.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T140540Z" creationid="quentine" creationdate="20191022T133036Z">
+        <seg>不要擅自编造新的类别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dodge Bonuses: Some other Defense bonuses represent actively avoiding blows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T124144Z" creationid="quentine" creationdate="20190114T124144Z">
@@ -15624,6 +16208,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Every time a character takes the Creative feat, he or she gets a +2 bonus on checks involving two Perform skills the character designates.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T145311Z" creationid="quentine" creationdate="20191025T145311Z">
+        <seg>每次角色获得`富有创意`专长，都可以指定两个类别的表演技能，检定时获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Evidence collected cannot be recollected, unless there is more of it to take.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T133447Z" creationid="quentine" creationdate="20191021T133447Z">
@@ -15928,6 +16520,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For movement over a great distance, make a Navigate check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T132719Z" creationid="quentine" creationdate="20191025T132719Z">
+        <seg>进行长距离移动时需要寻路检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For ropes, a character’s Escape Artist check is opposed by the Dexterity check result of the opponent who tied the bonds.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190926T131732Z" creationid="quentine" creationdate="20190926T131732Z">
@@ -16052,6 +16652,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T133253Z" creationid="quentine" creationdate="20190918T133253Z">
         <seg>一般来说，角色可以制造一件物品时可以取10，但不能取20（毕竟取20意味着多次尝试，但原材料只能用于第一次尝试）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Generally, a character does not need to make a check to find a local street or other common urban site, or to follow an accurate map.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T132403Z" creationid="quentine" creationdate="20191025T132403Z">
+        <seg>通常，角色寻找本地的街道或其他城市地标，或者有精确的地图参照时不需要进行此检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16332,6 +16940,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T134114Z" creationid="quentine" creationdate="20190805T134046Z">
         <seg>然而，GM可以根据实际情况强行限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the character might make a check to wend his or her way through a dense forest or a labyrinth of underground storm drains.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T132650Z" creationid="quentine" creationdate="20191025T132631Z">
+        <seg>而角色在茂密的丛林、迷宫或者下水道行进时需要进行此检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16992,6 +17608,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character fails by 5 or more, he or she thinks it has a purchase DC 1d4+2 higher or lower than its actual value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T134247Z" creationid="quentine" creationdate="20191022T134221Z">
+        <seg>若检定失败5点甚至更多，角色认为其购买DC比实际价值高于或低于1d4+2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character fails by 5 or more, something goes wrong.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T114615Z" creationid="quentine" creationdate="20190925T114615Z">
@@ -17008,10 +17632,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character fails by more than 5, he or she travels the expected time, but only gets halfway to his or her destination, at which point the character becomes lost.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T133616Z" creationid="quentine" creationdate="20191025T133616Z">
+        <seg>若失败超过5点，角色将度过预期的旅行时间，但只会移动到一半的路程，并在当地迷路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character fails by more than 5, the explosive goes off.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134442Z" creationid="quentine" creationdate="20190923T134442Z">
         <seg>若角色失败5点以上，爆炸物立即爆炸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character fails by more than 5, the or she travels the expected time, but only gets halfway to his or her destination, at which point the character becomes lost.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T133110Z" creationid="quentine" creationdate="20191025T133110Z">
+        <seg>若角色失败超过5点，</seg>
       </tuv>
     </tu>
     <tu>
@@ -17104,10 +17744,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character fails, he or she loses half a day before the character can try again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T133904Z" creationid="quentine" creationdate="20191025T133904Z">
+        <seg>若角色失败，将在半天内继续迷路，之后才能重试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character fails, he or she still reaches the goal, but it takes the character twice as long (the character loses time backtracking and correcting his or her path).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T133041Z" creationid="quentine" creationdate="20191025T133041Z">
+        <seg>若检定失败，角色仍能抵达目标，但会花掉两倍的时间（角色原路返回以及改变路线都要花费时间）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character fails, he or she takes the poison’s initial damage (usually ability damage).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T132559Z" creationid="quentine" creationdate="20190115T141137Z">
         <seg>如果失败，角色受到毒素的初始伤害（通常是属性伤害）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character fails, he or she thinks it has a purchase DC 1d2 higher or lower (determine randomly) than its actual value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T134226Z" creationid="quentine" creationdate="20191022T134143Z">
+        <seg>若检定失败，角色将认为其购买DC比其实际价值高于或低于1d2（随机决定）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17224,10 +17888,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the character succeeds, he or she continues on to his or her destination; the total time for the trip is twice the normal time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T133816Z" creationid="quentine" creationdate="20191025T133816Z">
+        <seg>若角色成功，将继续移动到目的地，整个旅途花费的时间是正常情况的两倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If the character succeeds, he or she may treat the target as friendly for 10 minutes, but only for purposes of actions taken while in the character’s presence.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20191016T140501Z" creationid="quentine" creationdate="20191016T140105Z">
         <seg>若角色成功，则视为目标对其友善，持续10分钟，但这种友善只体现在对方做所要求做的事上，且角色必须一直在场。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the character succeeds, he or she moves via the best reasonable course toward his or her goal.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T132819Z" creationid="quentine" creationdate="20191025T132819Z">
+        <seg>如果检定成功，角色将走一条最合理的路线通往目标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17964,6 +18644,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T130518Z" creationid="quentine" creationdate="20190806T130518Z">
         <seg>如果技能需要工具，技能描述会提到需要哪些物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If unsuccessful, the character chooses the wrong path, but at the next juncture, with a successful check, the character realizes his or her mistake.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T134351Z" creationid="quentine" creationdate="20191025T134351Z">
+        <seg>如果不成功，角色则选错了路，但在下一个岔路口，角色会意识到自己选错了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18960,6 +19648,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It’s practically impossible (–20 penalty) to move silently while attacking, running, or charging.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T131936Z" creationid="quentine" creationdate="20191025T131936Z">
+        <seg>攻击、奔跑或冲锋时潜行是几乎不可能的（有20减值）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s the attack roll result that an opponent needs to achieve to hit a target.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T114153Z" creationid="quentine" creationdate="20190114T113539Z">
@@ -19150,6 +19846,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T084844Z" creationid="QuenTine" creationdate="20181104T084844Z">
         <seg>很多起始职业背景都对角色的基本属性有要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Medicine and forensics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T135928Z" creationid="quentine" creationdate="20191022T135928Z">
+        <seg>药物学和法医学。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19462,6 +20166,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T134150Z" creationid="quentine" creationdate="20190923T134030Z">
         <seg>若结果为25或更高，爆炸物对结构造成三倍一般伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>On a success, the character accurately identifies the object’s purchase DC.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T134011Z" creationid="quentine" creationdate="20191022T134011Z">
+        <seg>检定成功，角色能精确地辨认出物品的购买DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19914,6 +20626,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181103T140654Z" creationid="QuenTine" creationdate="20181103T140654Z">
         <seg>毒素、疾病以及其他效果都有可能造成暂时性属性损伤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Political and governmental institutions and processes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T135613Z" creationid="quentine" creationdate="20191022T135613Z">
+        <seg>政治与政府的制度和流程。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20440,6 +21160,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190804T135019Z" creationid="quentine" creationdate="20190804T135019Z">
         <seg>见医疗技能描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the feat description for more information.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T145328Z" creationid="quentine" creationdate="20191025T145328Z">
+        <seg>详见专长描述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21132,6 +21860,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Taking 20 means the character spends 1 minute attempting to hear something that may or may not be there to hear.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T112728Z" creationid="quentine" creationdate="20191024T112728Z">
+        <seg>取20意味着角色花了1分钟来聆听之前听过或未听过的声音。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Taking 20 requires 20 times as long as normal.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190704T123202Z" creationid="QuenTine" creationdate="20181106T140349Z">
@@ -21540,6 +22276,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The DC depends on how common or obscure the object is.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T133911Z" creationid="quentine" creationdate="20191022T133911Z">
+        <seg>DC取决于物品有多普遍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DC depends on the length of the trip.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T132734Z" creationid="quentine" creationdate="20191025T132734Z">
+        <seg>DC取决于旅途长度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The DC depends on the nature of the operation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190917T124559Z" creationid="quentine" creationdate="20190917T124559Z">
@@ -21576,6 +22328,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T134830Z" creationid="quentine" creationdate="20190808T134830Z">
         <seg>基本信息的DC是10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DC for answering a question within the character’s field of study is 10 for easy questions, 15 for basic questions, and 20 to 30 for tough questions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T133657Z" creationid="quentine" creationdate="20191022T133657Z">
+        <seg>回答角色专业领域内的问题的DC，简单的问题为10，普通的问题为15，困难的问题为20到30。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21712,6 +22472,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190526T112841Z" creationid="quentine" creationdate="20190526T112841Z">
         <seg>DC = 10 + 明星职业技能 + 明星的魅力加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The DC is 15.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T134922Z" creationid="quentine" creationdate="20191025T134922Z">
+        <seg>DC为15。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22084,6 +22852,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The GM may call for a Listen check by a character who is in a position to hear something.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T110424Z" creationid="quentine" creationdate="20191024T110424Z">
+        <seg>GM会要求在某个位置的角色做一次聆听检定以听见一些声音。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM may choose to make the Navigate check for the character in secret, so he or she doesn’t know from the result whether the character is following the right or wrong path.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T134618Z" creationid="quentine" creationdate="20191025T134618Z">
+        <seg>GM为角色秘密掷骰，因此角色不知道是否找到了正确的路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM may decide that having 5 or more ranks in a specific Knowledge skill provides a character with a +2 synergy bonus when making a related skill check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T140636Z" creationid="quentine" creationdate="20191022T141959Z">
+        <seg>GM可决定，若特定类别的知识技能有5级甚至更高，与知识相关的技能检定将获得2点共效加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The GM may determine that some negotiations require a longer period of time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190924T133132Z" creationid="quentine" creationdate="20190924T133132Z">
@@ -22104,6 +22896,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190203T041240Z" creationid="quentine" creationdate="20190202T130000Z">
         <seg>GM不应允许破坏游戏体验的求援行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM may make the Knowledge roll for the character, so he or she doesn’t  know whether the appraisal is accurate or not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T134348Z" creationid="quentine" creationdate="20191022T134332Z">
+        <seg>GM为角色掷骰，因此角色不知道鉴定是否精确。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The GM may make the Listen check in secret so that the character doesn’t know whether not hearing anything means that nothing is there or that the character failed the check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T111043Z" creationid="quentine" creationdate="20191024T111043Z">
+        <seg>GM来做秘密检定，表示角色不知道"没听到"是指真的没声音还是检定失败。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23188,6 +23996,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character can impress audiences with his or her talent and skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T141018Z" creationid="quentine" creationdate="20191025T141018Z">
+        <seg>角色能用天赋和技能打动观众。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character can increase the amount of money used to gather information, gaining a circumstance bonus by effectively offering a bribe (though the process might entail buying more expensive drinks, not necessarily offering a character extra money).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190927T131113Z" creationid="quentine" creationdate="20190927T131113Z">
@@ -23556,6 +24372,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The character keeps trying until he or she succeeds, losing half a day for each failure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T133940Z" creationid="quentine" creationdate="20191025T133940Z">
+        <seg>角色继续尝试知道成功，每次失败都要迷路半天。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The character loses his or her Dexterity bonus to Defense, except on attacks from characters with whom he or she is grappling.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T124625Z" creationid="quentine" creationdate="20190115T123109Z">
@@ -23608,6 +24432,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190925T113500Z" creationid="quentine" creationdate="20190925T113500Z">
         <seg>角色必须能接触到设备本身。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The character must have a clear view of the night sky to make this check.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T134912Z" creationid="quentine" creationdate="20191025T134912Z">
+        <seg>角色必须能清晰地看到夜空，才能进行此检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23844,6 +24676,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The check represents what a character knows, and thinking about a topic a second time doesn’t let the character know something he or she never knew in the first place.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T141440Z" creationid="quentine" creationdate="20191022T141440Z">
+        <seg>检定代表角色的所知，对同一话题再想一遍并不会让角色获取第一次检定所未知的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The class abilities from all of a character’s classes combine to determine a multiclass character’s overall abilities.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T081939Z" creationid="quentine" creationdate="20190216T081939Z">
@@ -24024,6 +24864,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T124919Z" creationid="quentine" creationdate="20190116T124919Z">
         <seg>这一天赋加成只能用于力量检定或与力量相关的技能检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The eight Perform categories, and the qualities each one encompasses, are as follows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T141137Z" creationid="quentine" creationdate="20191025T141137Z">
+        <seg>八个表演类别每个类别涵盖的表演形式如下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24372,6 +25220,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The fourteen Knowledge categories, and the topics each one encompasses, are as follows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T140600Z" creationid="quentine" creationdate="20191022T134440Z">
+        <seg>十四个知识类别，每个类别涵盖的主题如下所示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The fumes from most acids are inhaled poisons.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T132559Z" creationid="quentine" creationdate="20190115T143543Z">
@@ -24660,6 +25516,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number of Knowledge categories is kept purposely finite.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T140519Z" creationid="quentine" creationdate="20191022T132533Z">
+        <seg>知识类别的数量限制在有限的几个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The number of Perform categories is kept purposely finite.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T140121Z" creationid="quentine" creationdate="20191025T135955Z">
+        <seg>表演分类的数量限制在有限的几个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The number of action points gained per level.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T114619Z" creationid="quentine" creationdate="20190116T114619Z">
@@ -24816,6 +25688,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190918T132352Z" creationid="quentine" creationdate="20190918T132352Z">
         <seg>不同的制造技能，不同的制造装备的购买DC大小各异。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The quality of the character’s performance depends on his or her check result.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T141042Z" creationid="quentine" creationdate="20191025T141042Z">
+        <seg>角色的表演质量取决于检定结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25401,6 +26281,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T124226Z" creationid="quentine" creationdate="20190114T124226Z">
         <seg>这类加值被称为闪避加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These categories are identified and defined below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T140128Z" creationid="quentine" creationdate="20191022T132328Z">
+        <seg>这几个分类分别如下陈述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26332,6 +27220,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190922T132644Z" creationid="quentine" creationdate="20190918T135632Z">
         <seg>此技能让角色可以混合化学品以制造酸、盐基、爆炸物、以及毒素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This skill encompasses several categories, each of them treated as a separate skill.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T140513Z" creationid="quentine" creationdate="20191022T132251Z">
+        <seg>此技能包括几个分类，每个类别被视为独立的技能</seg>
       </tuv>
     </tu>
     <tu>
@@ -27490,6 +28386,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When faced with multiple choices, such as at a branch in a tunnel, a character can make a Navigate check (DC 20) to intuit the choice that takes the character toward a known destination.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T134525Z" creationid="quentine" creationdate="20191025T134302Z">
+        <seg>当要面临多个选择时，比如在隧道中遇到了岔路口，角色可以做一个寻路检定（DC20）来凭直觉找到正确的路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When grappled, a hero can’t undertake any action other than attacking with his or her bare hands, attacking with a light weapon, or attempting to break free from his or her opponent.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T123119Z" creationid="quentine" creationdate="20190115T122923Z">
@@ -27670,6 +28574,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T113902Z" creationid="quentine" creationdate="20190115T113902Z">
         <seg>当临时生命值消失，角色的生命值将减至那个值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When trying to determine what Knowledge skill a particular question or field of expertise falls under, use a broad interpretation of the existing categories.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T140535Z" creationid="quentine" creationdate="20191022T133016Z">
+        <seg>要将现实的问题或领域归类到游戏中的知识类别，应尽量符合知识类别的广义解释，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When trying to determine what Perform skill a particular type of performance falls under, use a broad interpretation of the existing categories.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T140745Z" creationid="quentine" creationdate="20191025T140111Z">
+        <seg>要将现实的表演形式归类到游戏中的表演类别，应尽量符合表演类别的广义解释，</seg>
       </tuv>
     </tu>
     <tu>
@@ -27918,6 +28838,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T140640Z" creationid="quentine" creationdate="20191021T140640Z">
         <seg>未助跑则DC加倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Without actual training, a character only knows common knowledge about a given subject.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191022T141617Z" creationid="quentine" creationdate="20191022T141617Z">
+        <seg>角色若没有相关的训练，则只能知道相关领域的常识。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28228,6 +29156,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190221T133205Z" creationid="quentine" creationdate="20190221T133205Z">
         <seg>\* 所示的基本职业并不是对应高级职业的必要条件，而是通往高级职业的捷径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>\* This is actually an opposed check; the DC given is a typical Move Silently check result for such a character or creature.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T111753Z" creationid="quentine" creationdate="20191024T111753Z">
+        <seg>\* 这实际上是一个对抗检定，DC是目标角色或生物的潜行检定结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29506,6 +30442,20 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Condition|Check Penalty|
+|---------|-------------|
+|Per 10 feet of distance|–1|
+|Listener distracted|–5|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T111937Z" creationid="quentine" creationdate="20191024T111850Z">
+        <seg>|情况|检定减值|
+|---------|-------------|
+|每10尺的距离|–1|
+|听者分心|–5|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Condition|DC Modifier|
 |---------|:---------:|
 |Every three targets in the group being tracked|–1|
@@ -29652,6 +30602,36 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |0|陡到不能走的斜坡。|
 |5|带绳结的绳索和可以踩着爬的墙。|
 |10|没绳结的绳索和可以踩着爬的墙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|DC|Sound|
+|:-:|----|
+|–20|Gunfire|
+|–10|A melee battle|
+|0|People talking|
+|5|A person in medium armor walking at a slow pace, trying not to make noise|
+|10|An unarmored person walking at a slow pace, trying not to make any noise|
+|15|A 1st-level Fast hero sneaking up on someone\*|
+|20|A tiger stalking prey\*|
+|30|A bird flying through the air|
+|+5|Through a door|
+|+15|Through a solid wall|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191024T112216Z" creationid="quentine" creationdate="20191024T111722Z">
+        <seg>|DC|声音|
+|:-:|----|
+|–20|枪声|
+|–10|近距离战斗|
+|0|人们的谈话|
+|5|穿着中甲的人慢步行走，努力不发出声响|
+|10|无甲的人慢步行走，努力不发出声响|
+|15|1级敏捷型英雄悄悄靠近某人\*|
+|20|老虎悄悄接近猎物\*|
+|30|鸟类从空中飞过|
+|+5|隔着门听|
+|+15|隔着固态墙听|</seg>
       </tuv>
     </tu>
     <tu>
@@ -30042,6 +31022,24 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Length of Trip|DC|
+|-------------|:-:|
+|Short (a few hours)|20|
+|Moderate (a day or two)|22|
+|Long (up to a week)|25|
+|Extreme (more than a week)|28|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T134107Z" creationid="quentine" creationdate="20191025T134107Z">
+        <seg>|旅程长度|DC|
+|-------------|:-:|
+|短（几小时）|20|
+|中（一两天）|22|
+|长（近一周）|25|
+|极长（超过一周）|28|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Level of Security|DC|
 |----------------|:-:|
 |Minimum|20|
@@ -30326,6 +31324,18 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |手铐|35|
 |Tight space|30|
 |擒抱者|擒抱者的擒抱检定结果|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Result|Performance|
+|:----:|-----------|
+|10|Amateur performance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191025T143337Z" creationid="quentine" creationdate="20191025T143337Z">
+        <seg>|结果|表演|
+|:----:|-----------|
+|10|业余表演。</seg>
       </tuv>
     </tu>
     <tu>

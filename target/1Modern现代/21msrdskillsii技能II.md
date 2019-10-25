@@ -256,184 +256,184 @@ DM应根据情境调整威吓检定的效果使其更合理。
 
 翻滚会为跳跃检定提供2点共效加值（见`技能共效`）。
 
-**时间：** 使用跳跃技能是移动动作或整轮动作，取决于角色是以一个移动动作还是一个整轮动作完成整个跳跃过程。
+**时间：** 使用跳跃技能要么是移动动作，要么是整轮动作，取决于角色是以一个移动动作还是一个整轮动作完成整个跳跃过程。
 
-## Knowledge (Int) Trained Only
+## 知识（智） 需受训
 
-This skill encompasses several categories, each of them treated as a separate skill. These categories are identified and defined below.
+此技能包括几个分类，每个类别被视为独立的技能这几个分类分别如下陈述。
 
-The number of Knowledge categories is kept purposely finite. When trying to determine what Knowledge skill a particular question or field of expertise falls under, use a broad interpretation of the existing categories. Do not arbitrarily make up new categories.
+知识类别的数量限制在有限的几个。要将现实的问题或领域归类到游戏中的知识类别，应尽量符合知识类别的广义解释，不要擅自编造新的类别。
 
-**Check:** A character makes a Knowledge check to see if the character knows something.
+**检定：** 角色进行知识检定来判断角色是否知道某些知识。
 
-The DC for answering a question within the character’s field of study is 10 for easy questions, 15 for basic questions, and 20 to 30 for tough questions.
+回答角色专业领域内的问题的DC，简单的问题为10，普通的问题为15，困难的问题为20到30。
 
-Appraising the value of an object is one sort of task that can be performed using Knowledge. The DC depends on how common or obscure the object is. On a success, the character accurately identifies the object’s purchase DC. If the character fails, he or she thinks it has a purchase DC 1d2 higher or lower (determine randomly) than its actual value. If the character fails by 5 or more, he or she thinks it has a purchase DC 1d4+2 higher or lower than its actual value. The GM may make the Knowledge roll for the character, so he or she doesn’t  know whether the appraisal is accurate or not.
+鉴定一个物品的价值，这类活动应用知识检定完成。DC取决于物品有多普遍。检定成功，角色能精确地辨认出物品的购买DC。若检定失败，角色将认为其购买DC比其实际价值高于或低于1d2（随机决定）。若检定失败5点甚至更多，角色认为其购买DC比实际价值高于或低于1d4+2。GM为角色掷骰，因此角色不知道鉴定是否精确。
 
-The fourteen Knowledge categories, and the topics each one encompasses, are as follows.
+十四个知识类别，每个类别涵盖的主题如下所示：
 
-**Arcane Lore:** The occult, magic and the supernatural, astrology, numerology, and similar topics.
+**秘法学识：** 神秘学、魔法和超自然学说、星相学、命理学以及类似主题。
 
-**Art:** Fine arts and graphic arts, including art history and artistic techniques. Antiques, modern art, photography, and performance art forms such as music and dance, among others.
+**艺术：** 精细工艺和图形艺术，包括艺术史和艺术技法。古董、现代艺术、摄影以及诸如音乐和舞蹈等表演艺术。
 
-**Behavioral Sciences:** Psychology, sociology, and criminology.
+**行为科学：** 心理学、社会学、犯罪学。
 
-**Business:** Business procedures, investment strategies, and corporate structures. Bureaucratic procedures and how to navigate them.
+**商学：** 业务流程、投资策略以及公司结构。行政流程与流程的优化。
 
-**Civics:** Law, legislation, litigation, and legal rights and obligations. Political and governmental institutions and processes.
+**政法：** 法律、立法、起诉、法律权利与义务。政治与政府的制度和流程。
 
-**Current Events:** Recent happenings in the news, sports, politics, entertainment, and foreign affairs.
+**时事：** 最近发生的新鲜事、体育、娱乐以及国际新闻。
 
-**Earth and Life Sciences:** Biology, botany, genetics, geology, and paleontology. Medicine and forensics.
+**地球与生命科学：** 生物、植物学、基因学、地质学与古生物学。药物学和法医学。
 
-**History:** Events, personalities, and cultures of the past. Archaeology and antiquities.
+**历史：** 事件、传记和古文化。考古与古代学。
 
-**Physical Sciences:** Astronomy, chemistry, mathematics, physics, and engineering.
+**物理科学：** 天文学、化学、数学、物理和工程学。
 
-**Popular Culture:** Popular music and personalities, genre films and books, urban legends, comics, science fiction, and gaming, among others.
+**流行文化：** 流行乐和明星、类型片与畅销书、都市传说、漫画、科幻小说和游戏等等。
 
-**Streetwise:** Street and urban culture, local underworld personalities and events.
+**街头智慧：** 街头与城市风俗、本地黑道的人与事。
 
-**Tactics:** Techniques and strategies for disposing and maneuvering forces in combat.
+**策略：** 战斗中，技术与战略的处理与调遣。
 
-**Technology:** Current developments in cutting-edge devices, as well as the background necessary to identify various technological devices.
+**技术：** 尖端科技设备的开发，以及识别高科技设备的技术背景。
 
-**Theology and Philosophy:** Liberal arts, ethics, philosophical concepts, and the study of religious faith, practice, and experience.
+**神学与哲学：** 文科、伦理学、哲学概念以及宗教的信仰、实践、体验的研究。
 
-**重试：** 不行。The check represents what a character knows, and thinking about a topic a second time doesn’t let the character know something he or she never knew in the first place.
+**重试：** 不行。检定代表角色的所知，对同一话题再想一遍并不会让角色获取第一次检定所未知的信息。
 
-**Special:** An untrained Knowledge check is simply an Intelligence check. Without actual training, a character only knows common knowledge about a given subject.
+**特别：** 未受训的知识检定就是一个单纯的智力检定。角色若没有相关的训练，则只能知道相关领域的常识。
 
-A character can take 10 when making a Knowledge check, but can’t take 20.
+角色可以在知识检定中取10， 但不能取20。
 
-A character with the Educated feat gets a +2 bonus on any two types of Knowledge checks.
+有`良好教育`专长角色可在任意两个类别的知识检定上获得2点加值。
 
-The GM may decide that having 5 or more ranks in a specific Knowledge skill provides a character with a +2 synergy bonus when making a related skill check.
+GM可决定，若特定类别的知识技能有5级甚至更高，与知识相关的技能检定将获得2点共效加值。
 
-**Time:** A Knowledge check can be a reaction, but otherwise requires a full-round action.
+**时间：** 知识检定可以是一个反应，否则将是一个整轮动作。
 
-## Listen (Wis)
+## 聆听（感）
 
-**Check:** Make a Listen check against a DC that reflects how quiet the noise is that a character might hear or against an opposed Move Silently check.
+**检定：** 聆听检定是用来与声响的安静程度代表的DC或者目标的潜行检定结果对抗的。
 
-The GM may call for a Listen check by a character who is in a position to hear something. A character can also make a Listen check voluntarily if he or she wants to try to hear something in the character’s vicinity.
+GM会要求在某个位置的角色做一次聆听检定以听见一些声音。角色若想试着聆听附近的声响，也可以主动做聆听检定。
 
-The GM may make the Listen check in secret so that the character doesn’t know whether not hearing anything means that nothing is there or that the character failed the check.
+GM来做秘密检定，表示角色不知道"没听到"是指真的没声音还是检定失败。
 
-A successful Listen check when there isn’t anything to hear results in the character hearing nothing.
+没声音时，成功的检定其结果也是“没听到”。
 
-|DC|Sound|
+|DC|声音|
 |:-:|----|
-|–20|Gunfire|
-|–10|A melee battle|
-|0|People talking|
-|5|A person in medium armor walking at a slow pace, trying not to make noise|
-|10|An unarmored person walking at a slow pace, trying not to make any noise|
-|15|A 1st-level Fast hero sneaking up on someone\*|
-|20|A tiger stalking prey\*|
-|30|A bird flying through the air|
-|+5|Through a door|
-|+15|Through a solid wall|
+|–20|枪声|
+|–10|近距离战斗|
+|0|人们的谈话|
+|5|穿着中甲的人慢步行走，努力不发出声响|
+|10|无甲的人慢步行走，努力不发出声响|
+|15|1级敏捷型英雄悄悄靠近某人\*|
+|20|老虎悄悄接近猎物\*|
+|30|鸟类从空中飞过|
+|+5|隔着门听|
+|+15|隔着固态墙听|
 
-\* This is actually an opposed check; the DC given is a typical Move Silently check result for such a character or creature.
+\* 这实际上是一个对抗检定，DC是目标角色或生物的潜行检定结果。
 
-|Condition|Check Penalty|
+|情况|检定减值|
 |---------|-------------|
-|Per 10 feet of distance|–1|
-|Listener distracted|–5|
+|每10尺的距离|–1|
+|听者分心|–5|
 
-**Try Again?:** A character can make a Listen check every time he or she has the opportunity to hear something in a reactive manner. As a move action, the character may attempt to hear something that he or she failed (or believes he or she failed) to hear previously.
+**重试：** 角色每次反应时，只要有聆听的条件，都可以做一次聆听检定。作为一个移动动作，角色将试图再聆听一遍之前没听到（或以为没听到）的声音。
 
-**Special:** When several characters are listening to the same thing, the GM can make a single 1d20 roll and use it for all the listeners’ skill checks.
+**特别：** 当几个角色聆听同一个事物时，GM可以掷单个1d20用于所有聆听者的聆听检定。
 
-A character can take 10 or take 20 when making a Listen check. Taking 20 means the character spends 1 minute attempting to hear something that may or may not be there to hear.
+角色进行聆听检定时可以取10或取20。取20意味着角色花了1分钟来聆听之前听过或未听过的声音。
 
-A character with the Alertness feat gets a +2 bonus on all Listen checks.
+有`警觉`专长的角色的聆听检定有2点加值。
 
-A sleeping character can make Listen checks, but takes a –10 penalty on the checks.
+睡着的角色可以进行聆听检定，但在检定中受到10点减值。
 
-**Time:** A Listen check is either a reaction (if called for by the GM) or a move action (if a character actively takes the time to try to hear something).
+**时间：** 聆听检定要么是一个反应（如果这是GM要求的检定）或者是一个移动动作（如果这是角色主动聆听）。
 
-## Move Silently (Dex) Armor Penalty
+## 潜行（敏） 护甲减值
 
-**Check:** A character’s Move Silently check is opposed by the Listen check of anyone who might hear the character. A character can move up to half his or her normal speed at no penalty. At more than half speed and up to the character’s full speed, he or she takes a –5 penalty. It’s practically impossible (–20 penalty) to move silently while attacking, running, or charging.
+**检定：** 角色的潜行检定用于对抗可能听到角色的听者的聆听检定。角色以半速移动时，潜行检定不受惩罚。速度高于半速不高于常速，潜行受到5点减值。攻击、奔跑或冲锋时潜行是几乎不可能的（有20减值）。
 
-**Special:** A character can take 10 when making a Move Silently check, but can’t take 20.
+**特别：** 角色可以在潜行检定中取10， 但不能取20。
 
-A character with the Stealthy feat gets a +2 bonus on all Move Silently checks.
+有`隐秘`专长的角色的潜行检定有2点加值。
 
-**Time:** Move Silently is a move action.
+**时间：** 潜行检定是一个移动动作。
 
-## Navigate (Int)
+## 寻路（智）
 
-**Check:** Make a Navigate check when a character is trying to find his or her way to a distant location without directions or other specific guidance. Generally, a character does not need to make a check to find a local street or other common urban site, or to follow an accurate map. However, the character might make a check to wend his or her way through a dense forest or a labyrinth of underground storm drains.
+**检定：** 角色在寻找通往遥远地点的路时找不到方向或缺乏指引，将进行寻路检定。通常，角色寻找本地的街道或其他城市地标，或者有精确的地图参照时不需要进行此检定。而角色在茂密的丛林、迷宫或者下水道行进时需要进行此检定。
 
-For movement over a great distance, make a Navigate check. The DC depends on the length of the trip. If the character succeeds, he or she moves via the best reasonable course toward his or her goal. If the character fails, he or she still reaches the goal, but it takes the character twice as long (the character loses time backtracking and correcting his or her path). If the character fails by more than 5, the or she travels the expected time, but only gets halfway to his or her destination, at which point the character becomes lost.
+进行长距离移动时需要寻路检定。DC取决于旅途长度。如果检定成功，角色将走一条最合理的路线通往目标。若检定失败，角色仍能抵达目标，但会花掉两倍的时间（角色原路返回以及改变路线都要花费时间）。若失败超过5点，角色将度过预期的旅行时间，但只会移动到一半的路程，并在当地迷路。
 
-A character may make a second Navigate check (DC 20) to regain his or her path. If the character succeeds, he or she continues on to his or her destination; the total time for the trip is twice the normal time. If the character fails, he or she loses half a day before the character can try again. The character keeps trying until he or she succeeds, losing half a day for each failure.
+角色要再进行第二次寻路检定（DC20）以找到正确的道路。若角色成功，将继续移动到目的地，整个旅途花费的时间是正常情况的两倍。若角色失败，将在半天内继续迷路，之后才能重试。角色继续尝试知道成功，每次失败都要迷路半天。
 
-|Length of Trip|DC|
+|旅程长度|DC|
 |-------------|:-:|
-|Short (a few hours)|20|
-|Moderate (a day or two)|22|
-|Long (up to a week)|25|
-|Extreme (more than a week)|28|
+|短（几小时）|20|
+|中（一两天）|22|
+|长（近一周）|25|
+|极长（超过一周）|28|
 
-When faced with multiple choices, such as at a branch in a tunnel, a character can make a Navigate check (DC 20) to intuit the choice that takes the character toward a known destination.  If unsuccessful, the character chooses the wrong path, but at the next juncture, with a successful check, the character realizes his or her mistake.
+当要面临多个选择时，比如在隧道中遇到了岔路口，角色可以做一个寻路检定（DC20）来凭直觉找到正确的路。如果不成功，角色则选错了路，但在下一个岔路口，角色会意识到自己选错了。
 
-A character cannot use this function of Navigate to find a path to a site if the character has no idea where the site is located. The GM may choose to make the Navigate check for the character in secret, so he or she doesn’t know from the result whether the character is following the right or wrong path.
+如果角色不知道目的地的位置，是不能以这种形式的寻路检定找到正确的岔路的。GM为角色秘密掷骰，因此角色不知道是否找到了正确的路。
 
-A character can use Navigate to determine his or her position on earth without the use of any high-tech equipment by checking the constellations or other natural landmarks. The character must have a clear view of the night sky to make this check. The DC is 15.
+角色可以通过寻路检定，不依靠高科技装备，光靠星座和自然地标来判断身处地球的方位。角色必须能清晰地看到夜空，才能进行此检定。DC为15。
 
-**Special:** A character can take 10 when making a Navigate check. A character can take 20 only when determining his or her location, not when traveling.
+**特别：** 角色可以在寻路检定中取10。角色可在辨认自身所处位置时取20，而不可将取20用于旅行。
 
-A character with the Guide feat gets a +2 bonus on all Navigate checks.
+有`向导`专长的角色的寻路检定有2点加值。
 
-**Time:** A Navigate check is a full-round action.
+**时间：** 寻路检定是一个整轮动作。
 
-## Perform (Cha)
+## 表演（魅）
 
-This skill encompasses several categories, each of them treated as a separate skill. These categories are identified and defined below.
+此技能包括几个分类，每个类别被视为独立的技能这几个分类分别如下陈述。
 
-The number of Perform categories is kept purposely finite. When trying to determine what Perform skill a particular type of performance falls under, use a broad interpretation of the existing categories. Do not arbitrarily make up new categories.
+表演分类的数量限制在有限的几个。要将现实的表演形式归类到游戏中的表演类别，应尽量符合表演类别的广义解释，不要擅自编造新的类别。
 
-**Check:** The character is accomplished in some type of artistic expression and knows how to put on a performance. The character can impress audiences with his or her talent and skill. The quality of the character’s performance depends on his or her check result.
+**检定：** 角色掌握了一些类型的艺术表达并知道如何应用于表演。角色能用天赋和技能打动观众。角色的表演质量取决于检定结果。
 
-The eight Perform categories, and the qualities each one encompasses, are as follows.
+八个表演类别每个类别涵盖的表演形式如下。
 
-**Act:** The character is a gifted actor, capable of performing drama, comedy, or action-oriented roles with some level of skill.
+**演戏：** 角色一个有天赋的演员，擅长表演戏剧、喜剧，高级技能还包括动作类的角色。
 
-**Dance:** The character is a gifted dancer, capable of performing rhythmic and patterned bodily movements to music.
+**舞蹈：** 角色是一个有天赋的舞者，擅长表演有节奏的和各种随着音乐舞动的节目。
 
-**Keyboards:** The character is a musician gifted with a talent for playing keyboard musical instruments, such as piano, organ, and synthesizer.
+**键盘乐器：** 角色是有天赋的键盘音乐家，善使钢琴、风琴以及电子合成器之类的乐器。
 
-**Percussion Instruments:** The character is a musician gifted with a talent for playing percussion musical instruments, such as drums, cymbals, triangle, xylophone, and tambourine.
+**打击乐器：** 角色是有天赋的打击乐音乐家，善使鼓、钹、三角铁、木琴、铃鼓之类的乐器。
 
-**Sing:** The character is a musician gifted with a talent for producing musical tones with your voice.
+**唱歌：** 角色是有天赋的声乐音乐家。
 
-**Stand-Up:** The character is a gifted comedian, capable of performing a stand-up routine before an audience.
+**单口相声：** 角色是一个有天赋的喜剧人，善于在观众面前说笑话。
 
-**Stringed Instruments:** The character is a musician gifted with a talent for playing stringed musical instruments, such as banjo, guitar, harp, lute, sitar, and violin.
+**弦乐器：** 角色是有天赋的弦乐器音乐家，善使班卓琴、吉他、竖琴、鲁特琴、西塔琴、小提琴之类的乐器。
 
-**Wind Instruments:** The character is a musician gifted with a talent for playing wind musical instruments, such as flute, bugle, trumpet, tuba, bagpipes, and trombone.
+**管乐器：** 角色是有天赋的管乐器音乐家，善使长笛、军号、小号、大号、风笛、长号之类的乐器。
 
-|Result|Performance|
+|结果|表演|
 |:----:|-----------|
-|10|Amateur performance. Audience may appreciate your performance, but isn’t impressed.|
-|15|Routine performance. Audience enjoys your performance, but it isn’t exceptional.|
-|20|Great performance. Audience highly impressed.|
-|25|Memorable performance. Audience enthusiastic.|
-|30|Masterful performance. Audience awed.|
+|10|业余表演。观众感谢你的表演但没有被你打动。|
+|15|例行表演。观众享受你的表演，但没什么特别的。|
+|20|出彩的表演。深深地打动了观众。|
+|25|值得铭记的表演。观众热烈鼓掌。|
+|30|大师级表演。观众肃然起敬。|
 
-**Try Again?:** Not for the same performance and audience.
+**重试：** 同一个表演对同一批观众不能重复。
 
-**Special:** A character can take 10 when making a Perform check, but can’t take 20.
+**特别：** 角色可以在表演检定中取10， 但不能取20。
 
-A character without an appropriate instrument automatically fails any Perform (keyboard), Perform (percussion), Perform (stringed), or Perform (wind) check he or she attempts. At the GM’s discretion, impromptu instruments may be employed, but the performer must take a –4 penalty on the check because his or her equipment, although usable, is inappropriate for the skill.
+角色若没有合适的乐器，表演（键盘乐器）、表演（打击乐器）、表演（弦乐器）、表演（管乐器）检定自动失败。由GM自由裁量，用即兴的乐器表演，应用最接近的表演类别，检定仍受4点减值。
 
-Every time a character takes the Creative feat, he or she gets a +2 bonus on checks involving two Perform skills the character designates. See the feat description for more information.
+每次角色获得`富有创意`专长，都可以指定两个类别的表演技能，检定时获得2点加值。详见专长描述。
 
-**Time:** A Perform check usually requires at least several minutes to an hour or more.
+*时间：** 一次表演检定通常需要少则几分钟多则一小时甚至更久的时间。
 
 ## Pilot (Dex) Trained Only
 
