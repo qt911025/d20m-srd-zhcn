@@ -296,7 +296,7 @@ Empathic	移情
 Empathic	移情
 Empathy	移情
 Intuition	直觉
-medical kit	急救箱
+medical kit	医疗箱
 surgery kit	手术箱
 Healing Touch	救死扶伤
 Healing Knack	治疗诀窍
@@ -878,3 +878,19 @@ Tailing	尾随
 crime lab	技术鉴定室
 evidence kit	取证工具
 Hop Up	跳台阶
+Language Group	语族
+temporary repair	临时修理
+hot-wire	热线发动
+topic	课题
+Guide with Knees	用膝控制
+Stay in Saddle	待在鞍上
+Fight while Mounted	战斗中控制坐骑
+Cover	掩蔽	骑术检定
+Soft Fall	软着陆
+Leap	跳跃	骑术
+Long-Term Care	长期护理
+Restore Hit Points	恢复生命值
+Revive	救醒	医疗技能
+first aid kit	急救箱
+Stabilize	稳定
+total defense	全防御

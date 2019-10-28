@@ -623,6 +623,7 @@ A character with the Meticulous feat gets a +2 bonus on all Search checks.
 **Time:** A Search check is a full-round action.
 
 ## Sense Motive (Wis)
+
 **Check:** A successful check allows the character to avoid being bluffed (see the Bluff skill). Sense Motive does not, however, allow a character to determine whether a given statement is a lie. The character can also use the skill to tell when someone is behaving oddly or to assess someone’s trustworthiness. In addition, a character can use this skill to make an assessment of a social situation. With a successful check (DC 20), the character can get the feeling from another’s behavior that something is wrong. Also, the character can get the feeling that someone is trustworthy and honorable.
 
 **Try Again?:** No, though the character may make a Sense Motive check for each bluff made on the character.

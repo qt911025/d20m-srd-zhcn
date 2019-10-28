@@ -270,9 +270,9 @@ DM应根据情境调整威吓检定的效果使其更合理。
 
 鉴定一个物品的价值，这类活动应用知识检定完成。DC取决于物品有多普遍。检定成功，角色能精确地辨认出物品的购买DC。若检定失败，角色将认为其购买DC比其实际价值高于或低于1d2（随机决定）。若检定失败5点甚至更多，角色认为其购买DC比实际价值高于或低于1d4+2。GM为角色掷骰，因此角色不知道鉴定是否精确。
 
-十四个知识类别，每个类别涵盖的主题如下所示：
+十四个知识类别，每个类别涵盖的课题如下所示：
 
-**秘法学识：** 神秘学、魔法和超自然学说、星相学、命理学以及类似主题。
+**秘法学识：** 神秘学、魔法和超自然学说、星相学、命理学以及类似课题。
 
 **艺术：** 精细工艺和图形艺术，包括艺术史和艺术技法。古董、现代艺术、摄影以及诸如音乐和舞蹈等表演艺术。
 
@@ -352,7 +352,7 @@ GM来做秘密检定，表示角色不知道"没听到"是指真的没声音还�
 
 睡着的角色可以进行聆听检定，但在检定中受到10点减值。
 
-**时间：** 聆听检定要么是一个反应（如果这是GM要求的检定）或者是一个移动动作（如果这是角色主动聆听）。
+**时间：** 聆听检定要么是一个反应（如果这是GM要求的检定）要么是一个移动动作（如果这是角色主动聆听）。
 
 ## 潜行（敏） 护甲减值
 
@@ -435,27 +435,27 @@ GM来做秘密检定，表示角色不知道"没听到"是指真的没声音还�
 
 *时间：** 一次表演检定通常需要少则几分钟多则一小时甚至更久的时间。
 
-## Pilot (Dex) Trained Only
+## 驾机（敏） 需受训
 
-**Check:** Typical piloting tasks don’t require checks. Checks are required during combat, for special maneuvers, or in other extreme circumstances, or when the pilot wants to attempt something outside the normal parameters of the vehicle. When flying, the character can attempt simple maneuvers and stunts (actions in which the pilot attempts to do something complex very quickly or in a limited space).
+**检定：** 常规的驾机任务不需要检定。只有在战斗中、特殊机动操作、或者其他极端情况下，或是驾驶员需要超常发挥载具机能时需要检定。飞行时，角色可做出简单的机动或者特技。
 
-Each vehicle’s description includes a maneuver modifier that applies to Pilot checks made by the operator of the vehicle.
+每个载具的描述包括了机动性调整值，应用在对此载具的驾机检定上。
 
-**Special:** A character can take 10 when making a Pilot check, but can’t take 20.
+**特别：** 角色可以在驾机检定中取10， 但不能取20。
 
-A character with the Vehicle Expert feat gets a +2 bonus on all Pilot checks.
+有`载具专家`专长的角色驾机检定有2点加值。
 
-There is no penalty for operating a general-purpose fixed-wing aircraft. Other types of aircraft (heavy aircraft, helicopters, jet fighters, and spacecraft) require the corresponding Aircraft Operation feat, or else the character takes a –4 penalty on Pilot checks.
+操作通用的固定翼飞行器无减值。其他类型的飞行器（重型飞行器、直升机、喷气战斗机以及太空飞船）需要相应的`飞行器操作`专长，否则角色在驾机检定中有4点减值。
 
-**Time:** A Pilot check is a move action.
+**时间：** 驾机检定是一个移动动作。
 
-## Profession (Wis)
+## 专业（感）
 
-**Check:** A character makes Profession checks to improve his or her Wealth bonus every time he or she attains a new level. The DC for the check is the character’s current Wealth bonus. If the character succeeds at the Profession check, his or her Wealth bonus increases by +1. For every 5 by which the character exceeds the DC, his or her Wealth bonus increases by an additional +1. A character can’t take 10 or take 20 when making a Profession check to improve his or her Wealth bonus.
+**检定：** 角色每次获得新等级时，进行此检定以增加财富加值。检定的DC就是角色当前的财富加值。如果角色的专业检定成功，其财富加值将+1。检定点超过DC的部分，每5点额外加1点财富值。角色使用专业检定提高财富加值不可以取10或取20。
 
-How many ranks a character has in the Profession skill (including ranks the character may have just acquired after gaining a level) also adds to the Wealth bonus increase the character receives upon gaining a new level. In addition to the Wealth bonus increase a character gains from your Profession check result (if the check succeeds), the number of ranks the character has in this skill increases his or her Wealth bonus as follows.
+角色拥有的专业技能级数（升级后角色获得的专业等级也计在内）也影响每次升级提升的财富加值。除了财富检定结果提升的财富加值（如果检定成功），角色拥有的此专业级数将按如下表增加财富加值。
 
-|Ranks|Wealth Bonus Increase|
+|级数|财富加值的增加|
 |:---:|:-------------------:|
 |1–5|+1|
 |6–10|+2|
@@ -463,328 +463,329 @@ How many ranks a character has in the Profession skill (including ranks the char
 |16–20|+4|
 |21–23|+5|
 
-**Special:** If the Gamemaster deems it appropriate, a character can add his or her Profession modifier when making a Reputation check to deal with a work- or career-related situation.
+**特别：** 如果GM认为合适，角色可以在进行与工作行业相关的声望检定中应用专业调整值。
 
-Every time a character takes the Windfall feat, he or she gets a cumulative +1 bonus on all Profession checks.
+角色每次获得`横财`专长，将累加1点加值到所有的专业检定上。
 
-## Read/Write Language (None) Trained Only
+## 读写语言（无） 需受训
 
-The Read/Write Language skill doesn’t work like a standard skill.
+读写语言技能不像一般技能那样生效。
 
-* A character automatically knows how to read and write his or her native language; the character does not need ranks to do so.
-* Each additional language costs 1 rank. When a character adds a rank to Read/Write Language, he or she chooses a new language that the character can read and write.
-* A character never makes Read/Write Language checks. A character either knows how to read and write a specific language or doesn’t.
-* To be able to speak a language that the character can read and write, he or she must take the Speak Language skill for the appropriate language.
-* A character can choose any language, modern or ancient. (See below for suggestions.) The GM might determine that a character can’t learn a specific language due to the circumstances of the campaign.
+* 角色自动知道如何读写母语，不需要拥有等级。
+* 每个额外语言都需要1级此技能。角色的读写语言技能每升一级，角色都可选择一个新语言学会读写。
+* 角色永远不需要做读写语言检定。角色要么会读写此语言，要么完全不会。
+* 要学会说角色已会读写的语言，角色必须习得相应语言的口头语言技能。
+* 角色可以选择任何语言，无论是现代语言还是古语言。（见下文）GM可根据情景禁止角色学习一门语言。
 
-### Language Groups
+### 语族
 
-There are thousands of languages to choose from when a character buys ranks in Speak Language or Read/Write Language. A few are listed here, sorted into their general language groups.
+角色提升口头语言或者读写语言技能时有成千上万种语言可选择。少数列举在此，按其所属语族排序。
 
-A language’s group doesn’t matter when a character is buying ranks in Speak Language or Read/Write Language. Language groups are provided because they pertain to the Smart hero’s Linguist talent.
+语族不影响口头语言或读写语言的技能的提升。语族的划分用于智力型英雄的`语言专家`天赋。
 
-This list is by no means exhaustive—there are many more language groups, and most groups contain more languages than those listed here.
+语言包括但不限于此——还有更多语族，语族也包含更多语言。
 
-**Algic:** Algonkin, Arapaho, Blackfoot, Cheyenne, Shawnee.
+**阿尔吉克语：** 阿尔冈昆语、阿拉巴霍语、夏延语、萧尼语。
 
-**Armenian:** Armenian.
+**亚美尼亚语：** 亚美尼亚语。
 
-**Athabascan:** Apache, Chipewyan, Navaho.
+**阿塔巴斯坎语：** 阿帕奇语、赤坡岩语、纳瓦霍语。
 
-**Attic:** Ancient Greek\*, Greek.
+**雅典语：** 古希腊语\*、希腊语。
 
-**Baltic:** Latvian, Lithuanian.
+**波罗的语：** 拉脱维亚语、立陶宛语。
 
-**Celtic:** Gaelic (Irish), Gaelic (Scots), Welsh.
+**凯尔特语：** 盖尔语（爱尔兰）、盖尔语（苏格兰）、威尔士语。
 
-**Chinese:** Cantonese, Mandarin.
+**汉语：** 粤语、普通话。
 
-**Finno-Lappic:** Estonian, Finnish, Lapp.
+**芬兰-拉普兰语：** 爱沙尼亚语、芬兰语、拉普兰语。
 
-**Germanic:** Afrikaans, Danish, Dutch, English, Flemish, German, Icelandic, Norwegian, Swedish, Yiddish.
+**日耳曼语：** 南非荷兰语、丹麦语、荷兰语、英语、佛兰德语、德语、冰岛语、挪威语、瑞典语、意第绪语。
 
-**Hamo-Semitic:** Coptic\*, Middle Egyptian\*.
+**闪含语：** 科普特语\*、中埃及语\*。
 
-**Indic:** Hindi, Punjabi, Sanskrit\*, Urdu.
+**印地语：** 印地语、旁遮普语、梵文\*、乌尔都语。
 
-**Iranian:** Farsi, Pashto.
+**伊朗语：** 波斯语、普什图语。
 
-**Japanese:** Japanese.
+**日语：** 日语。
 
-**Korean:** Korean.
+**朝鲜语：** 朝鲜语。
 
-**Romance:** French, Italian, Latin\*, Portuguese, Romanian, Spanish.
+**罗曼语：** 法语、意大利语、拉丁语\*、葡萄牙语、罗马尼亚语、西班牙语。
 
-**Semitic:** Akkadian (aka Babylonian)\*, Ancient Hebrew\*, Arabic, Aramaic\*, Hebrew.
+**闪米特语：** 阿卡德语（又叫巴比伦语）\*、古希伯来语\*、阿拉伯语、阿拉姆语\*、希伯来语。
 
-**Slavic:** Belorussian, Bulgarian, Czech, Polish, Russian, Serbo-Croatian, Slovak, Ukrainian.
+**斯拉夫语：** 白俄罗斯语、保加利亚语、捷克语、波兰语、俄罗斯语、塞尔维亚-克罗地亚语、斯洛伐克语、乌克兰语。
 
-**Tibeto-Burman:** Burmese, Sherpa, Tibetan.
+**藏缅语：** 缅甸语、夏尔巴语、藏语。
 
-**Turkic:** Azerbaijani, Turkish, Uzbek.
+**突厥语：** 阿塞拜疆语、土耳其语、乌兹别克语。
 
-**Ugric:** Hungarian (aka Magyar).
+**乌戈尔语：** 匈牙利语（又叫马扎尔语）。
 
-\*This is an ancient language. In the modern world it is spoken only by scholars, or in some cases by small populations in isolated corners of the world.
+\*这是古代语言。在现代世界只有学者会说这种语言，在一些与世隔绝的社群里也流行这种语言。
 
-## Repair (Int) Trained Only
+## 修理（智） 需受训
 
-**Check:** Most Repair checks are made to fix complex electronic or mechanical devices. The DC is set by the GM. In general, simple repairs have a DC of 10 to 15 and require no more than a few minutes to accomplish. More complex repair work has a DC of 20 or higher and can require an hour or more to complete. Making repairs also involves a monetary cost when spare parts or new components are needed, represented by a Wealth check. If the GM decides this isn’t necessary for the type of repair the character is attempting, then no Wealth check is needed.
+**检定：** 大多数修理检定都用于修理复杂的电子或机械设备。DC由GM来定。一般来说，简单的修理需要的DC为10到15，且在几分钟内就能修好。更复杂的修理需要20及以上的DC，且需要一小时甚至更久的时间来完成。修理同样需要花费金钱购买必需的部件，体现为财富检定。如果GM裁定这种修理不需要花钱，则不用财富检定。
 
-|Repair Task (Example)|Purchase DC|Repair DC|Time|
+|修理任务（例子）|购买 DC|修理 DC|时间|
 |---------------------|:---------:|:-------:|:--:|
-|Simple (tool, simple weapon)|4|10|1 min.|
-|Moderate (mechanical or electronic component)|7|15|10 min.|
-|Complex (mechanical or electronic device)|10|20|1 hr.|
-|Advanced (cutting-edge mechanical or electronic device)|13|25|10 hr.|
+|简单（工具、简易武器）|4|10|1 分钟|
+|中等（机械或电子部件）|7|15|10 分钟|
+|复杂（机械或电子设备）|10|20|1 小时|
+|高级（尖端的机械或电子设备）|13|25|10 小时|
 
-**Jury-Rig:** A character can choose to attempt jury-rigged, or temporary, repairs. Doing this reduces the purchase DC by 3 and the Repair check DC by 5, and allows the character to make the checks in as little as a full-round action. However, a jury-rigged repair can only fix a single problem with a check, and the temporary repair only lasts until the end of the current scene or encounter. The jury-rigged object must be fully repaired thereafter.
+**应急维修：** 角色可选择应急维修或者临时修理。这可以减少3点购买DC和5点修理检定DC，让检定时间缩短至一个整轮动作。但是，一次应急维修检定只能修复一个简单问题，临时修理效果只会维持到当前场景或者遭遇战结束。应急维修物品之后必须全面修理。
 
-A character can also use jury-rig to hot-wire a car or jump-start an engine or electronic device. The DC for this is at least 15, and it can be higher depending on the presence of security devices.
+角色也可以用应急维修来热线发动汽车或者引擎或者电子设备。此举的DC至少为15，根据设备的安全等级酌情提高。
 
-The jury-rig application of the Repair skill can be used untrained.
+以应急维修形式使用修理技能无需受训。
 
-**Try Again?:** Yes, though in some specific cases, the GM may decide that a failed Repair check has negative ramifications that prevent repeated checks.
+**重试：** 可以，但是在一些特殊情形，GM应裁定一些有失败惩罚的修理禁止重试。
 
-**Special:** A character can take 10 or take 20 on a Repair check. When making a Repair check to accomplish a jury-rig repair, a character can’t take 20.
+**特别：** 角色可在修理检定中取10取20。当用修理检定进应急维修时，不可取20。
 
-Repair requires an electrical tool kit, a mechanical tool kit, or a multipurpose tool, depending on the task. If the character do not have the appropriate tools, he or she takes a –4 penalty on the check.
+修理需要电气工具、机械工具或多功能工具，取决于任务需求。如果角色没有合适的工具，检定时要受4点减值。
 
-Craft (mechanical) or Craft (electronic) can provide a +2 synergy bonus on Repair checks made for mechanical or electronic devices (see Skill Synergy).
+制造（机械）或制造（电力）可为机械设备或电子设备的维修提供2点共效加值（见技能功效）。
 
-A character with the Gearhead feat and at least 1 rank in this skill gets a +2 bonus on all Repair checks.
+有`技术宅`专长且此技能至少1级的角色，修理检定有2点加值。
 
-**Time:** See the table for guidelines. A character can make a jury-rig repair as a full-round action, but the work only lasts until the end of the current encounter.
+**时间：** 见上表。角色可以以一个整轮动作做一个应急维修，但效果只持续到当前遭遇战结束。
 
-## Research (Int)
+## 研究（智）
 
-**Check:** Researching a topic takes time, skill, and some luck. The GM determines how obscure a particular topic is (the more obscure, the higher the DC) and what kind of information might be available depending on where the character is conducting his or her research.
+**检定：** 研究一个课题需要时间、技能和一点运气。GM决定课题的研究难度（越难研究，DC越高）以及在角色的研究过程中发现了什么可用的信息。
 
-Information ranges from general to protected. Given enough time (usually 1d4 hours) and a successful skill check, the character gets a general idea about a given topic. This assumes that no obvious reasons exist why such information would be unavailable, and that the character has a way to acquire restricted or protected information.
+信息涵盖了从`传闻`级到`受保护`级的类型。只要经过足够的时间（通常为1d4小时）和一次成功的技能检定，角色在课题中获得`传闻`级信息。视为此信息可轻易获取，角色已经可触及`限制级`或`受保护`的信息。
 
-The higher the check result, the better and more complete the information. If the character wants to discover a specific fact, date, map, or similar bit of information, add +5 to +15 to the DC.
+检定结果越高，信息的完整度就越高。如果角色想要发现专门的事实、日期、地图或者类似的信息，DC要加5至15。
 
 **重试：** 可以。
 
-**Special:** A character can take 10 or take 20 on a Research check.
+**特别：** 角色可在研究检定中取10取20。
 
-A character with the Studious feat gets a +2 bonus on all Research checks.
+有`好学`专长的角色研究检定有2点加值。
 
-Computer Use can provide a +2 synergy bonus on a Research check when searching computer records for data (see Skill Synergy).
+在用电脑查询数据记录时，计算机使用会为研究检定提供2点共效加值（见`技能共效`）。
 
-**Time:** A Research check takes 1d4 hours.
+**时间：** 一次研究检定需要1d4小时。
 
-## Ride (Dex)
+## 骑术（敏）
 
-Animals ill suited as mounts provide a –2 penalty on their rider’s Ride check.
+不适合骑乘的动物为骑乘者的骑术检定提供2点减值。
 
-**Check:** Typical riding actions don’t require checks. A character can saddle, mount, ride, and dismount without a problem. Mounting or dismounting an animal is a move action. Some tasks, such as those undertaken in combat or other extreme circumstances, require checks. In addition, attempting trick riding or asking the animal to perform an unusual technique also requires a check.
+**检定：** 常规的骑乘活动不需要此检定。角色可以自由地上鞍、登上、骑行、落下。登上或落下是一个移动动作。一些任务，比如说骑乘战斗或其他极端情况，则需要骑术检定。此外，使用骑乘特技或者要求动物表演特殊的技巧也需要骑术检定。
 
-**Guide with Knees (DC 5):** The character can react instantly to guide his or her mount with his or her knees so that the character can use both hands in combat or to perform some other action. Make the check at the start of the character’s round. If the character fails, he or she can only use one hand this round because the character needs to use the other to control his or her mount.
+**用膝控制（DC5）：** 角色可以即时用膝盖控制坐骑以便在战斗中使用双手或做出其他动作。在角色轮的起始阶段进行此检定。若角色失败，则本轮只能用单手，另一只手需要控制坐骑。
 
-**Stay in Saddle (DC 5):** The character can react instantly to try to avoid falling when his or her mount rears or bolts unexpectedly or when the character takes damage.
+**待在鞍上（DC5）：** 在坐骑剧烈抖动或者角色受到伤害时，角色可以作出反应防止跌落。
 
-**Fight while Mounted (DC 20):** While in combat, the character can attempt to control a mount that is not trained in combat riding (see the Handle Animal skill). If the character succeeds, he or she uses only a move action, and the character can use his or her attack action to do something else. If the character fails, he or she can do nothing else that round. If the character fails by more than 5, he or she loses control of the animal.
+**战斗中控制坐骑（DC20）：** 在战斗中角色可视图控制未训练过`战斗骑乘`的坐骑。若角色成功，则只需使用一个移动动作，角色可以使用攻击动作来做其他事。若角色失败，则一轮内不可做其他事。若角色失败5点以上，则失去对坐骑的控制。
 
-For animals trained in combat riding, the character does not need to make this check. Instead, the character can use his or her move action to have the animal perform a trick (commonly, to attack). The character can use his or her attack action normally.
+对于训练过战斗骑乘的动物，角色无需做此检定。角色改用移动动作来让动物完成技巧（通常是攻击）。角色可以正常使用攻击动作。
 
-**Cover (DC 15):** The character can react instantly to drop down and hang alongside his or her mount, using it as one-half cover. The character can’t attack while using his or her mount as cover. If the character fails, he or she doesn’t get the cover benefit.
+**掩蔽（DC15）：** 角色可以滑下横靠着悬吊在坐骑旁，用坐骑来为自己提供半掩体。使用坐骑掩蔽时不可攻击。如果角色失败，则不能获得掩蔽效果。
 
-**Soft Fall (DC 15):** The character reacts instantly when he or she falls off a mount, such as when it is killed or when it falls, to try to avoid taking damage. If the character fails, he or she takes 1d6 points of falling damage.
+**软着陆（DC15）：** 角色在诸如坐骑被杀或跌倒情况下从坐骑上坠落，可快速反应以避免受伤。如果角色失败，将受到1d6点坠落伤害。
 
-**Leap (DC 15):** The character can get his or her mount to leap obstacles as part of its movement. Use the character’s Ride modifier or the mount’s Jump modifier (whichever is lower) when the mount makes its Jump check (see the Jump skill). The character makes a Ride check (DC 15) to stay on the mount when it leaps.
+**跳跃（DC15）：** 角色可以让坐骑在移动中跳过障碍物。在坐骑进行跳跃检定（见跳跃技能）时，应用角色的骑乘调整值或坐骑的跳跃调整值（取低者）。在跳跃时角色做骑乘检定（DC15）以待在鞍上。
 
-**Fast Mount or Dismount (DC 20; armor penalty applies):** The character can mount or dismount as a free action. If the character fails the check, mounting or dismounting is a move action. (A character can’t attempt a fast mount or dismount unless he or she can perform the mount or dismount as a move action this round, should the check fail.)
+**快速上下坐骑（DC20；应用护甲减值）** 角色可用一个即时动作上下坐骑。若角色检定失败，上下坐骑是一个移动动作。（角色无剩余移动动作时不可使用此检定，检定自动失败。）
 
-**Special:** If the character is riding bareback, he or she takes a –5 penalty on Ride checks.
+**特别：** 角色无鞍骑乘时，骑术检定将受到5点减值。
 
-A character can take 10 when making a Ride check, but can’t take 20.
+角色可以在骑术检定中取10， 但不能取20。
 
-A character with the Animal Affinity feat gets a +2 bonus on all Ride checks.
+有`动物亲和`专长的角色骑术检定有2点加值。
 
-**Time:** Ride is a move action, except when otherwise noted for the special tasks listed above.
+**时间：** 骑术是一个移动动作，除非有特别说明。
 
-## Search (Int)
+## 搜索（智）
 
-**Check:** The character generally must be within 10 feet of the object or surface to be examined. A character can examine up to a 5-foot-by-5-foot area or a volume of goods 5 feet on a side with a single check.
+**检定：** 角色通常要在目标10尺内才能展开搜索。角色一次检定可以检查5×5尺的区域或者5尺大小的货物。
 
-A Search check can turn up individual footprints, but does not allow a character to follow tracks or tell the character which direction the creature or creatures went or came from.
+一次搜索检定可以发现一个单位的脚印，但不能追踪脚印获得生物的去向或源头。
 
-|DC|Task|
+|DC|任务|
 |:-:|---|
-|10|Ransack an area to find a certain object.|
-|20|Notice a typical secret compartment, a simple trap, or an obscure clue.|
-|25+|Find a complex or well-hidden secret compartment or trap; notice an extremely obscure clue.|
+|10|清扫整个区域寻找特定的目标。|
+|20|注意到一个普通的秘密隔间、一个简单的陷阱、或者一个模糊的线索。|
+|25+|找到一个复杂或深藏的秘密隔间或陷阱，发现一个隐藏很深的线索。|
 
-**Special:** A character can take 10 or take 20 when making a Search check.
+**特别：** 角色的搜索检定可以取10取20。
 
-A character with the Meticulous feat gets a +2 bonus on all Search checks.
+有`一丝不苟`专长的角色的搜索检定有2点加值。
 
-**Time:** A Search check is a full-round action.
+**时间：** 搜索检定是一个整轮动作。
 
-## Sense Motive (Wis)
-**Check:** A successful check allows the character to avoid being bluffed (see the Bluff skill). Sense Motive does not, however, allow a character to determine whether a given statement is a lie. The character can also use the skill to tell when someone is behaving oddly or to assess someone’s trustworthiness. In addition, a character can use this skill to make an assessment of a social situation. With a successful check (DC 20), the character can get the feeling from another’s behavior that something is wrong. Also, the character can get the feeling that someone is trustworthy and honorable.
+## 察言观色（感）
 
-**Try Again?:** No, though the character may make a Sense Motive check for each bluff made on the character.
+**检定：** 检定成功则可让角色避免被唬骗（见唬骗技能）。但察言观色并不能让角色分辨听到的陈述是否为谎言。角色也可以用技能来辨认他人为了赢得信任做出的奇怪举动。此外，角色可以使用此技能评估社交氛围。若检定成功（DC20），角色从其他人的举动中察觉到异象。同样也可以感受到他人的可信和君子风度。
 
-**Special:** A character can take 10 when making a Sense Motive check, but can’t take 20.
+**重试：** 不行，因为察言观色是角色对每个朝自己的唬骗做出的应对检定。
 
-A character with the Attentive feat gets a +2 bonus on all Sense Motive checks.
+**特别：** 角色可以在察言观色检定中取10， 但不能取20。
 
-A character can use Sense Motive to detect that a hidden message is being transmitted via the Bluff skill (DC equal to the bluff check result of the sender). If the character’s check result beats the DC by 5 or more, the character understands the secret message as well.  If the character’s check fails by 5 or more, the character misinterprets the message in some fashion.
+有`听者有心`专长的角色察言观色检定有2点加值。
 
-**Time:** A Sense Motive check may be made as a reaction to another character’s Bluff check. (When that’s the case, the GM may roll the character’s Sense Motive check in secret, so the character doesn’t necessarily know someone’s trying to bluff him or her.) Using Sense Motive to get a sense of someone’s trustworthiness takes at least 1 minute.
+角色可以使用察言观色来探出唬骗技能所传递的弦外之音（DC等于对方的唬骗技能结果）。若角色检定结果成功大于等于5点，角色能准确理解弦外之音。若角色失败5点及以上，角色会误会此信息。
 
-## Sleight of Hand (Dex) Trained Only; Armor Penalty
+**时间：** 察言观色检定是对另一个角色的唬骗检定的反应。（在这种情况下，GM为角色秘密检定察言观色，以让角色不知道有人试图唬骗。）使用察言观色感觉他人是否智的信赖需要至少1分钟。
 
-**Check:** A check against DC 10 lets a character palm a coin-sized, unattended object. Minor feats of sleight of hand, such as making a coin disappear, also have a DC of 10 unless an observer is concentrating on noticing what the character is doing.
+## 手上功夫（敏）需受训；护甲减值
 
-When a character performs this skill under close observation, the character’s skill check is opposed by the observer’s Spot check. The observer’s check doesn’t prevent the character from performing the action, just from doing it unnoticed.
+**检定：** 检定DC为10，角色以此来将一个硬币大小的无人看管的物品藏在掌中。手上功夫的别的用法，比如让一个硬币消失，同样需要10点DC，除非观察者死死盯着角色正在做的事。
 
-When a character tries to take something from another person, the character’s opponent makes a Spot check to detect the attempt. To obtain the object, the character must get a result of 20 or higher, regardless of the opponent’s check result. The opponent detects the attempt if his or her check result beats the character’s check result, whether the character takes the object or not.
+角色在近距离观察下使用此技能，角色的技能检定将与观察者的侦察检定对抗。观察者的检定不能防止角色做这件事，只能让自己发现这件事。
 
-A character can use Sleight of Hand to conceal a small weapon or object on his or her body.
+当角色视图从其他人身上偷窃，角色的偷窃目标做一个侦察检定以察觉意图。要取得物品，角色必须使检定结果大于等于20，无论对方的检定结果是多少。当对手的检定结果大于等于角色的检定结果，将会察觉到角色的意图，无论角色是否得手。
 
-**Try Again?:** A second Sleight of Hand attempt against the same target, or when being watched by the same observer, has a DC 10 higher than the first check if the first check failed or if the attempt was noticed.
+角色可以使用手上功夫来将小型武器或物品藏在身上。
 
-**Special:** A character can take 10 when making a Sleight of Hand check, but can’t take 20.
+**重试：** 若第一次检定失败或意图被发现，第二次针对同一个目标或同一个观察者的手上功夫检定，其DC会比上一次DC高10点。
 
-A character can make an untrained Sleight of Hand check to conceal a weapon or object, but must always take 10.
+**特别：** 角色可以在手上功夫检定中取10， 但不能取20。
 
-A character with the Nimble feat and at least 1 rank in this skill gets a +2 bonus on all Sleight of Hand checks.
+角色可以使用未受训的手上功夫检定来隐藏武器或物品，但强制取10。
 
-**Time:** A Sleight of Hand check is an attack action.
+有`灵巧`专长且手上功夫至少1级的角色，手上功夫检定有2点加值。
 
-## Speak Language (None) Trained Only
+**时间：** 手上功夫检定是一个攻击动作。
 
-The Speak Language skill doesn’t work like a standard skill.
+## 口头语言（无）需受训
 
-* A character automatically knows how to speak his or her native language; the character does not need ranks to do so.
-* Each additional language costs 1 rank. When a character adds a rank to Speak Language, he or she chooses a new language that he or she can speak.
-* A character never makes Speak Language checks. A character either knows how to speak and understand a specific language or doesn’t.
-* To be able to read and write a language that the character can speak, he or she must take the Read/Write Language skill for the appropriate language.
-* A character can choose any language, modern or ancient. (See the table accompanying Read/Write Language for suggestions.) The GM might determine that a character can’t learn a specific language due to the circumstances of the campaign.
+口头语言技能不像一般技能那样生效。
 
-## Spot (Wis)
+* 角色自动知道如何说母语，不需要拥有等级。
+* 每个额外语言都需要1级此技能。角色的口头语言技能每升一级，角色都可学会说一个新语言。
+* 角色永远不需要做口头语言检定。角色要么会说和听懂此语言，要么完全不会。
+* 要学会读写角色已会说的语言，角色必须习得相应语言的读写语言技能。
+* 角色可以选择任何语言，无论是现代语言还是古语言。（详见读写语言的附表。）GM可根据情景禁止角色学习一门语言。
 
-**Check:** The Spot skill is used to notice items that aren’t immediately obvious and people who are attempting to hide. The GM may call for a Spot check by a character who is in a position to notice something. A character can also make a Spot check voluntarily if he or she wants to try to notice something in his or her vicinity.
+## 侦察（感）
 
-The GM may make the Spot check in secret so that the character doesn’t know whether not noticing anything means that nothing is there or that the character failed the check.
+**检定：** 侦察技能用于注意一些不那么清晰的物品和人们意图隐藏的物品。GM会要求在某个位置的角色做一次侦察检定以注意一些情况。角色若想试着侦察附近的情况，也可以主动做侦察检定。
 
-A successful Spot check when there isn’t anything to notice results in the character noticing nothing.
+GM来做秘密检定，表示角色不知道"没发现"是指真的无异常还是检定失败。
 
-Spot is often used to notice a person or creature hiding from view. In such cases, the character’s Spot check is opposed by the Hide check of the character trying not to be seen. Spot is also used to detect someone in disguise (see the Disguise skill), or to notice a concealed weapon on another person.
+无异常时，成功的检定其结果也是“没发现”。
 
-A character’s Spot check is modified by a –1 penalty for every 10 feet of distance between the character and the character or object he or she is trying to discern. The check carries a further –5 penalty if the character is in the midst of activity.
+侦察经常用于发现隐藏的人或生物。在这种情况下，角色的侦察检定是用来与躲藏的角色的躲藏检定对抗。侦察同样用于识破易容的人（见`易容`技能），或者发现其他人隐藏的武器。
 
-**Try Again?:** A character can make a Spot check every time he or she has the opportunity to notice something in a reactive manner. As a full-round action, a character may attempt to notice something that he or she failed (or believe he or she failed) to notice previously.
+角色与目标每隔10尺远，侦察检定就受到1点减值。如果角色手头正干着别的事，检定还要再受5点减值。
 
-**Special:** A character can take 10 or take 20 when making a Spot check.
+**重试：** 角色每次反应时，只要有侦察的条件，都可以做一次侦察检定。作为一个整轮动作，角色将试图再侦察一遍之前没注意到（或以为没注意到）的异常。
 
-A character with the Alertness feat gets a +2 bonus on all Spot checks.
+**特别：** 角色的侦察检定可以取10取20。
 
-**Time:** A Spot check is either a reaction (if called for by the GM) or a full-round action (if a character actively takes the time to try to notice something).
+有`警觉`专长的角色的侦察检定有2点加值。
 
-## Survival (Wis)
+**时间：** 侦察检定要么是一个反应（如果这是GM要求的检定）要么是一个整轮动作（如果这是角色主动侦察）。
 
-**Check:** A character can keep his or herself and others safe and fed in the wild.
+## 生存（感）
 
-|DC|Task|
+**检定：** 角色可以在野外保证安全和摄食。
+
+|DC|任务|
 |:-:|---|
-|10|Get along in the wild. Move up to half the character’s overland speed while hunting and foraging (no food or water supplies needed). The character can provide food and water for one other person for every 2 points by which the character’s check result exceeds 10.|
-|15|Gain a +2 circumstance bonus on Fortitude saves against severe weather while moving up to half the character’s overland speed, or gain a +4 circumstance bonus if stationary. The character may grant the same bonus to one other character for every 1 point by which the character’s check result exceeds 15.|
-|18|Avoid getting lost and avoid natural hazards, such as quicksand.|
+|10|在野外生存。在捕猎和觅食时以半速移动（不需要食物和水补给）。检定成功每超过10点2点，角色可以多为另一个人提供食物和水。|
+|15|半速移动对抗极端天气的强韧检定获得2点情景加值，静止则获得4点加值。检定成功每超过15点2点，角色可以多为另一个人提供相同的加值。|
+|18|避免迷路并避开自然险境，比如流沙。|
 
-With the Track feat, a character can use Survival checks to track a character or animal across various terrain types.
+若有追踪专长，角色可以使用生存检定来跨越各种地形追踪一个角色或动物。
 
-**Special:** A character can take 10 when making a Survival check. A character can take 20 when tracking, or if there is no danger or penalty for failure, but not on periodic checks to get along in the wild.
+**特别：** 角色可在生存检定中取10。角色可在追踪时取20，在无失败惩罚的生存检定中也可取20，但在野外生存的周期性检定中不可取20。
 
-A character with the Guide feat gets a +2 bonus on all Survival checks.
+有`向导`专长的角色的生存检定有2点加值。
 
-**Time:** Basic Survival checks occur each day in the wilderness or whenever a hazard presents itself. When using Survival with the Track feat to track a character or animal, checks are made according to distance, as described in the Track feat.
+**时间：** 在野外每过一天，或者每次遇到险境都要进行一次基本的生存检定。当使用生存检定和追踪专长来追踪角色或动物时，检定根据追踪专长所述，根据距离进行结算。
 
-## Swim (Str) Armor Penalty
+## 游泳（力）护甲减值
 
-**Check:** A successful Swim check allows a character to swim one-quarter his or her speed as a move action or half the character’s speed as a full-round action. Roll once per round. If the character fails, he or she makes no progress through the water. If the character fails by 5 or more, he or she goes underwater.
+**检定：** 成功的游泳检定让角色可以以一个移动动作游过四分之一速的距离，或以一个整轮动作游过半速的距离。每轮掷骰一次。若检定失败，角色在水中不会前进。若检定失败5点及以上，角色会下沉。
 
-If the character is underwater (from failing a swim check or because the character is swimming underwater intentionally), the character must hold his or her breath. A character can hold his or her breath for a number of rounds equal to the character’s Constitution score, but only if the character does nothing but take move actions or free actions. If the character takes an attack action or a full-round action, the amount of breath the character has remaining is reduced by 1 round. (Effectively, a character in combat can hold his or her breath only half as long as normal.) After that period of time, the character must make a Constitution check (DC 10) every round to continue holding his or her breath. Each round, the DC of the check increases by 1. If the character fails the check, the character begins to drown.
+若角色下沉（无论是游泳检定失败还是自行下沉），角色必须闭气。角色可以闭气等同于其体质值的轮数，但前提是角色只做了移动动作和即时动作没做别的。如果角色做了攻击动作或整轮动作，角色剩余闭气时间要再减一轮。（这等价于角色在战斗中只能坚持闭气平常一半的时间。）此环节后，角色必须每轮进行一次体质检定（DC10）以继续闭气。每轮检定DC+1。若角色检定失败，将会溺水。
 
-The DC for the Swim check depends on the water:
+游泳检定DC取决于水况。
 
-|Water|DC|
+|水况|DC|
 |----|:-:|
-|Calm water|10|
-|Rough water|15|
-|Stormy water|20|
+|平静的水面|10|
+|起波澜的水面|15|
+|刮风暴的水面|20|
 
-Each hour that the character swims, make a Swim check against DC 20. If the character fails, he or she becomes fatigued. If the character fails a check while fatigued, the character becomes exhausted. If the character fails a check while exhausted, the character becomes unconscious. Unconscious characters go underwater and immediately begin to drown.
+角色每游泳1小时，都要进行一次DC20的游泳检定。若检定失败，角色疲乏。若角色在疲乏中检定失败，角色力竭。若角色在力竭中检定失败，角色昏迷。昏迷的角色将下沉并立即溺水。
 
-**Try Again?:** A new check is allowed the round after a check is failed.
+**重试：** 检定失败的下一轮可再检定一次。
 
-**Special:** A character takes a penalty of –1 for every 5 pounds of gear he or she carries, including armor and weapons.
+**特别：** 角色每携带5磅负重，包括护甲和武器，游泳检定都受到1点减值。
 
-A character can take 10 when making a Swim check, but can’t take 20.
+角色可以在游泳检定中取10， 但不能取20。
 
-A character with the Athletic feat gets a +2 bonus on all Swim checks.
+有竞技专长的角色的游泳检定有2点加值。
 
-**Time:** A Swim check is either a move action or a full-round action, as described above.
+**时间：** 游泳检定要么是一个移动动作要么是一个整轮动作，如上文所述。
 
-## Treat Injury (Wis)
+## 医疗（感）
 
-**Check:** The DC and effect depend on the task attempted.
+**检定：** DC与效果取决于医疗的目的。
 
-**Long-Term Care (DC 15):** With a medical kit, the successful application of this skill allows a patient to recover hit points and ability points lost to temporary damage at an advanced rate—3 hit points per character level or 3 ability points restored per day of complete rest. A new check is made each day; on a failed check, recovery occurs at the normal rate for that day of rest and care.
+**长期护理（DC15）：** 在医疗箱的帮助下，此形式的技能检定成功将使病人以更快的效率恢复伤害和属性伤害——每天完整的休息后，恢复3×角色等级的生命值或3点属性值。每天都进行一次新的检定；若检定失败，当天将以一般的速率恢复。
 
-A character can tend up to as many patients as he or she has ranks in the skill. The patients need complete bed rest (doing nothing all day). The character needs to devote at least ½ hour of the day to each patient the character is caring for.
+角色可同时护理的人数等于医疗级数。病人必须全天在床上休息（一整天什么也不干）。角色每天需要投入至少每个病人半小时的时间。
 
-**Restore Hit Points (DC 15):** With a medical kit, if a character has lost hit points, the character can restore some of them. A successful check, as a full-round action, restores 1d4 hit points. The number restored can never exceed the character’s full normal total of hit points. This application of the skill can be used successfully on a character only once per day.
+**恢复生命值（DC15）：** 在医疗箱的帮助下，若有人失去生命值，角色可以帮助恢复一部分。以一个整轮动作检定，若成功，恢复1d4点生命值。恢复的生命值不能让角色生命值超过正常的生命值上限。此形式的技能对每人每天只能成功使用一次。
 
-**Revive Dazed, Stunned, or Unconscious Character (DC 15):** With a first aid kit, the character can remove the dazed, stunned, or unconscious condition from a character. This check is an attack action.
+**救醒眩晕、震慑、昏迷的角色（DC15）：** 在急救箱的帮助下，角色可以移除一个人的眩晕、震慑或昏迷状态。此检定是一个攻击动作。
 
-A successful check removes the dazed, stunned, or unconscious condition from an affected character. The character can’t revive an unconscious character who is at –1 hit points or lower without first stabilizing the character.
+检定成功将移除被救者的眩晕、震慑或昏迷状态。角色不可以救醒-1及以下生命值且未稳定的昏迷角色。
 
-**Stabilize Dying Character (DC 15):** With a medical kit, a character can tend to a character who is dying. As an attack action, a successful Treat Injury check stabilizes another character. The stabilized character regains no hit points, but he or she stops losing them. The character must have a medical kit to stabilize a dying character.
+**稳定濒死角色（DC15）：** 在医疗箱的帮助下，角色可以治疗濒死的角色。此检定是一个攻击动作，成功则能稳定一个角色。稳定后的角色不会恢复生命值，但也不会继续失去。角色必须用医疗箱来稳定濒死角色。
 
-**Surgery (DC 20):** With a surgery kit, a character can conduct field surgery. This application of the Treat Injury skill carries a –4 penalty, which can be negated with the Surgery feat. Surgery requires 1d4 hours; if the patient is at negative hit points, add an additional hour for every point below 0 the patient has fallen.
+**手术（DC20）：** 在手术箱的帮助下，角色可以就地进行手术。此形式的医疗技能水受到4点减值，手术专长可免去惩罚。手术需要1d4小时；如果角色生命值为负，需要的小时数要加上所负的生命值。
 
-Surgery restores 1d6 hit points for every character level of the patient (up to the patient’s full normal total of hit points) with a successful skill check.  Surgery can only be used successfully on a character once in a 24-hour period.
+若检定成功，手术将会恢复每角色等级1d6的生命值（最多不超过正常的生命上限）。每个角色每24小时内接受一次成功的手术。
 
-A character who undergoes surgery is fatigued for 24 hours, minus 2 hours for every point above the DC the surgeon achieves. The period of fatigue can never be reduced below 6 hours in this fashion.
+手术后角色将疲乏24小时，每超过DC1点，疲乏的时间减去2小时。但疲乏时间不能少于6小时。
 
-**Treat Disease (DC 15):** A character can tend to a character infected with a treatable disease. Every time the diseased character makes a saving throw against disease effects (after the initial contamination), the treating character first makes a Treat Injury check to help the diseased character fend off secondary damage. This activity takes 10 minutes. If the treating character’s check succeeds, the treating character provides a bonus on the diseased character’s saving throw equal to his or her ranks in this skill.
+**治疗疾病（DC15）：** 角色可以治疗罹患可治之症的病人。每次患者豁免疾病效果时（首次感染后），医疗者先做一个医疗检定来帮助患者避免`再次伤害`。此行为需要10分钟。若医疗者检定成功，将为患者的豁免骰提供一个加值，加值等于医疗者的医疗等级。
 
-**Treat Poison (DC 15):** A character can tend to a poisoned character. When a poisoned character makes a saving throw against a poison’s secondary effect, the treating character first makes a Treat Injury check as an attack action. If the treating character’s check succeeds, the character provides a bonus on the poisoned character’s saving throw equal to his or her ranks in this skill.
+**治疗毒素（DC15）：** 角色可以治疗中毒的角色。当中毒的角色豁免毒素的再次伤害时，医疗者先以一个攻击动作做一个医疗检定。若医疗者检定成功，将为患者的豁免骰提供一个加值，加值等于医疗者的医疗等级。
 
-**Try Again?:** Yes, for restoring hit points, reviving dazed, stunned, or unconscious characters, stabilizing dying characters, and surgery. No, for all other uses of the skill.
+**重试：** 恢复生命值，救醒眩晕、震慑或昏迷的角色，稳定濒死角色，以及手术可以重试。其他形式的医疗技能不可重试。
 
-**Special:** The Surgery feat gives a character the extra training he or she needs to use Treat Injury to help a wounded character by means of an operation.
+**特别：** 有手术专长的角色可以用手术治疗受伤的角色。
 
-A character can take 10 when making a Treat Injury check. A character can take 20 only when restoring hit points or attempting to revive dazed, stunned, or unconscious characters.
+医疗检定可取10。角色只有在恢复生命值或救醒眩晕、震慑或昏迷的角色时取20。
 
-Long-term care, restoring hit points, treating disease, treating poison, or stabilizing a dying character requires a medical kit. Reviving a dazed, stunned, or unconscious character requires either a first aid kit or a medical kit. Surgery requires a surgery kit. If the character does not have the appropriate kit, he or she takes a –4 penalty on the check.
+长期护理、恢复生命值、治疗疾病、治疗毒素或稳定濒死角色需要使用医疗箱。救醒眩晕、震慑或昏迷的角色需要急救箱或医疗箱。手术需要手术箱。如果角色没有合适的工具，检定时要受4点减值。
 
-A character can use the Treat Injury skill on his or herself only to restore hit points, treat disease, or treat poison. The character takes a –5 penalty on your check any time he or she treats his or herself.
+角色医疗自己仅限于恢复生命值、治疗疾病或治疗毒素。任何时候医疗自己，检定都要受到5点减值。
 
-A character with the Medical Expert feat gets a +2 bonus on all Treat Injury checks.
+有`医药专家`专长的角色医疗检定有2点加值。
 
-**Time:** Treat Injury checks take different amounts of time based on the task at hand, as described above.
+**时间：** 不同形式的医疗检定所需要的时间也不同，见上文。
 
-## Tumble (Dex) Trained Only; Armor Penalty
+## 翻滚（敏）需受训；护甲减值
 
-**Check:** A character can land softly when he or she falls, tumble past opponents in combat, or tumble through opponents.
+**检定：** 角色能在坠落时软着陆、战斗中能翻滚绕过或穿过对手。
 
-**Land Softly:** The character can make a Tumble check (DC 15) when falling. If the check succeeds, treat the fall as if it were 10 feet shorter when determining damage.
+**软着陆：** 角色在坠落时可做一次翻滚检定（DC15）。若检定成功，结算伤害的等效坠落高度减少10尺。
 
-**Tumble past Opponents:** With a successful Tumble check (DC 15), the character can weave, dodge, and roll up to 20 feet through squares adjacent to opponents, risking no attacks of opportunity. Failure means the character moves as planned, but provokes attacks of opportunity as normal.
+**绕过对手：** 翻滚检定成功时（DC15），角色可以迂回、闪避、翻滚穿过以对手为中心，半径20尺内的邻近方格，而不引发借机攻击。检定失败，角色仍会继续移动，但会照常引发借机攻击。
 
-**Tumble through Opponents:** With a successful Tumble check (DC 25), the character can roll, jump, or dive through squares oc-cupied by opponents, moving over, under, or around them as if they weren’t there. Failure means the character moves as planned, but provokes attacks of opportunity as normal.
+**穿过对手：** 翻滚检定成功时（DC25），角色可以以翻滚、跳跃或钻入的方式从下面、上面或者身边穿过对手所在的方格。检定失败，角色仍会继续移动，但会照常引发借机攻击。
 
 **重试：** 不行。
 
-**Special:** A character with 5 or more ranks in Tumble gains a +3 dodge bonus to Defense (instead of the normal +2) when fighting defensively, and a +6 dodge bonus (instead of the normal +4) when engaging in total defense.
+**特别：** 角色的翻滚大于等于5级时，以防守姿态战斗时，防御将获得3点闪避加值（取代原有的2点），在全防御时，防御将获得6点闪避加值（取代原有的4点）。
 
-A character can take 10 when making a Tumble check, but can’t take 20.
+角色可以在翻滚检定中取10， 但不能取20。
 
-A character with the Acrobatic feat and at least 1 rank in this skill gets a +2 bonus on all Tumble checks.
+有`杂技`专长且此技能至少1级的角色，翻滚检定有2点加值。
 
-**Time:** A character can try to reduce damage from a fall as a reaction once per fall. A character can attempt to tumble as a free action that must be performed as part of a move action.
+**时间：** 角色以翻滚来应对每次坠落，以减少坠落伤害。角色此时的翻滚是一个即时动作，而其他情况的翻滚是一个移动动作。
