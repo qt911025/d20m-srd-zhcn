@@ -1,103 +1,103 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
 
-# SPECIAL ABILITIES
+# 特殊能力
 
-**Ability Score Reduction (Su):** Some attacks reduce an opponent’s score in one or more abilities. This loss can be permanent or temporary
+**属性值减少（超自然）：** 一些攻击减少单个对手的一到多个属性值。损失既可能是永久的也可能是暂时的。
 
-**Permanent Ability Drain:** This effect permanently reduces a living opponent’s ability score when the creature hits with a melee attack. The creature’s descriptive text gives the ability and the amount drained. If an attack that causes permanent ability drain scores a critical hit, it drains twice the given amount (if the damage is expressed as a die range, roll two dice). A draining creature heals 5 points of damage (10 on a critical hit) whenever it drains an ability score no matter how many points it drains. If the amount of healing is more than the damage the creature has taken, it gains any excess as temporary hit points.
+**永久属性吸取：** 当生物以近战击中时，此效果永久降低一个活着的对手的属性值。吸取的属性值种类和大小取决于生物的描述。如果造成永久属性吸取的那次攻击产生了重击，吸取的点数加倍（如果伤害值是骰点而非定值，则扔两遍骰子而不是将结果加倍）。任何吸取的时候，不管吸取了多少点属性，吸取者治疗自己5点伤害（重击则为10点）。若吸取所得生命值超过自己受的伤害，多余的生命值将作为暂时生命值保留。
 
-Some ability drain attacks allow a Fortitude save with a DC of 10 +1/2 draining creature’s HD + draining creature’s Charisma modifier (the exact DC is given in the creature’s descriptive text). If no saving throw is mentioned, none is allowed.
+一些属性吸取攻击允许对手进行强韧豁免，DC为10+1/2吸取者的生命骰+吸取者的魅力调整值（若对于此DC生物另有规定，则使用规定的DC）。若未提及任何豁免骰，则不可豁免。
 
-**Temporary Ability Damage:** This attack damages an opponent’s ability score. The creature’s descriptive text gives the ability and the amount of damage. If an attack that causes ability damage scores a critical hit, it deals twice the given amount (if the damage is expressed as a die range, roll two dice). Temporary ability damage returns at the rate of 1 point per day.
+**暂时属性伤害：** 此攻击对对手的属性值造成伤害。生物的描述将给出所伤害的能力种类和大小。如果造成暂时属性伤害的那次攻击产生了重击，伤害的点数加倍（如果伤害值是骰点而非定值，则扔两遍骰子而不是将结果加倍）。被伤害的属性以每天1点的速率返还。
 
-**Blindsight (Ex):** Using nonvisual senses, such as sensitivity to vibrations, scent, acute hearing, or echolocation, the creature maneuvers and fights as well as a sighted creature. Invisibility and darkness are irrelevant. The ability’s range is specified in the creature’s descriptive text. The creature usually does not need to make Spot or Listen checks to notice creatures within range of its blindsight ability.
+**盲视（特异）：** 依靠非视觉感官，比如对振动的敏感、灵敏的嗅觉、敏锐的听觉甚至声呐，这些生物可以像有视觉的生物那样机动和战斗。隐形和黑暗对其无效。感受距离见生物描述。生物通常不需要进行侦察或聆听检定来注意盲视范围内的生物。
 
-**Breath Weapon (Su):** A breath weapon attack usually causes damage and is often based on some type of energy. It allows a Reflex save for half damage with a DC equal to 10 + ½ breathing creature’s HD + breathing creature’s Constitution modifier (the exact DC is given in the creature’s Species Traits). A creature is immune to its own breath weapon and those of others of its kind unless noted otherwise.
+**喷吐武器（超自然）：** 喷吐武器攻击通常造成基于能量的伤害。这种伤害允许反射豁免让伤害减半，DC=10+1/2喷吐生物的生命骰+喷吐生物的体质调整值（除非生物的物种特性另有规定）。生物对自己的喷吐武器以及其他同类喷吐武器免疫，除非另有说明。
 
-**Constrict (Ex):** The creature crushes the opponent, dealing bludgeoning damage, after making a successful grapple check. The amount of damage is given in the creature’s entry. If the creature also has the improved grab ability (see below), it deals constriction damage in addition to damage dealt by the weapon used to grab.
+**紧勒（特异）：** 生物在进行成功的擒抱检定后碾压对手，造成钝击伤害。造成的伤害数量见生物说明。如果生物精通攫抓能力（见下文），则会在攫抓所用武器造成的伤害之外额外造成紧勒的伤害。
 
-**Damage Reduction (Su):** The creature ignores damage from most weapons and natural attacks. Wounds heal im-mediately, or the weapon bounces off harmlessly (in either case, the opponent knows the attack was ineffective). The creature takes normal damage from energy attacks (even nonmagical ones), spells, spell-like abilities, and supernatural abilities. A magic weapon or a creature with its own damage reduction can sometimes damage the creature normally, as noted below.
+**伤害减免（超自然）：** 这种生物无视大多数武器和自然攻击的伤害。伤口会立即治好，或者完全忽视武器伤害（无论如何，对手也知道攻击无效）。在受到能量（即使是非魔法的）、法术、类法术能力和超自然能力的攻击时，生物将受到全额伤害。魔法武器或者自带伤害减免的生物有时也可以正常伤害这种生物，见下文。
 
-The entry indicates the amount of damage ignored and the type of weapon that negates the ability.
+此项标明了伤害减免的量，以及无视此能力的武器类型。
 
-Any weapon more powerful than the type listed in the note also negates the ability. A weapon with an enhancement bonus due to magic is considered more powerful than any weapon that does not have such a bonus.
+任何比列出的种类的武器更强的武器同样无视此能力。由魔法增强过的有增强加值的武器将被视为比无此加值的武器更强。
 
-For purposes of harming other creatures with damage reduction, a creature’s natural weapons count as the type that ignores its own innate damage reduction. However, damage reduction from spells does not confer this ability. The amount of damage reduction is irrelevant.
+为了伤害其他有伤害减免的生物，生物的天生武器所属类型将视为无视自身伤害减免的武器类型。而伤害减免无法对法术生效。伤害减免的量对此没有意义。
 
-**Darkvision (Ex):** The creature can see in total darkness, out to the specified range (usually 60 feet). Darkvision is black-and-white only, but is otherwise like normal light.
+**黑暗视觉（特异）：** 生物能在完全黑暗下视物，能看到给定范围内的事物（通常为60尺）。黑暗视觉只能看到黑白，其他与正常视觉无异。
 
-**Energy Drain (Su):** This attack saps a living opponent’s vital energy. With each successful melee attack, the creature bestows one or more negative levels. If an attack that includes an energy drain scores a critical hit, it drains double the given amount. For each negative level inflicted on an opponent, the draining creature heals 5 points of damage. If the amount of healing is more than the damage the creature has taken, it gains any excess as temporary hit points that remain for a maximum of 1 hour.
+**能量吸取（超自然）：** 此攻击能让对手的能量衰竭。每次成功的近战攻击，此生物都会给对手赋予一个或多个负向等级。如果造成能量吸取的攻击产生了重击，吸取的值加倍。对手每承受1级负向等级，吸取者都治疗5点伤害。若吸取所得生命值超过自己受的伤害，多余的生命值将作为暂时生命值保留至多1小时。
 
-For each negative level, the opponent takes a –1 penalty on all skill checks and ability checks, attack rolls, and saving throws, and loses one effective level or Hit Die (whenever level is used in a die roll or calculation). A character with spellcasting ability loses the ability to cast one spell of the highest level he or she can cast (player’s choice); this loss persists until the negative level is removed.
+每个负向等级都将给对手带来惩罚，所有技能检定、属性检定、攻击骰、豁免骰都有1点减值，并失去1级有效等级或生命骰（当计算或检定需要用到人物等级时，每个负向等级都会将其减1）。如果受害者可以施法，他将失去一个当前可用的最高等级法术（由玩家选择），此损失将持续到负向等级移除。
 
-Negative levels remain until 24 hours have passed or until removed with a spell. If a negative level is not removed before 24 hours have passed, the afflicted opponent must attempt a Fortitude save with a DC of 10 + 1/2 draining creature’s HD + draining creature’s Charisma modifier (the exact DC is given in the creature’s Species Traits). On a success, the negative level goes away with no harm to the creature. On a failure, the negative level goes away, but the creature’s level is reduced by one. A separate saving throw is required for each negative level. A creature that loses all of its levels or Hit Dice dies and, depending on the source of the energy drain, might rise as an undead creature of some kind.
+负向等级将持续24小时，或者被法术移除。如果负向等级在24小时期满前未被移除，受害者必须进行一个强韧豁免，DC=10+1/2吸取者生命骰+吸取者的魅力调整值（除非生物的物种特性另有规定）。豁免成功，负向等级则安全移除。豁免失败，负向等级仍会移除，但生物等级减1。每一级负向等级的豁免骰分别计算。失去了所有等级或生命骰的生物将会死亡，根据吸取者的种类，受害者将会复活成指定类型的不死生物。
 
-**Fast Healing (Ex):** The creature regains hit points at an exceptionally fast rate, usually 1 or more hit points per round.  Fast healing stops working when a creature is reduced to –10 hp or fewer. Except as noted here, fast healing works just like natural healing.
+**快速痊愈（特异）：** 生物以特别快的速率重获生命值，通常每轮恢复1到多点生命值。当生物生命降到小于等于-10，快速痊愈失效。除非特别注明，否则快速痊愈类似于自然痊愈。
 
-Fast healing doesn’t provide any benefit against attack forms that don’t deal hit point damage. Fast healing also doesn’t restore hit points lost to starvation, thirst, or suffocation, and it doesn’t allow a creature to regrow or reattach severed body parts.
+快速痊愈对不造成生命值伤害的攻击没有任何抵抗力。快速痊愈也不会恢复因饥饿、口渴或窒息而损失的生命值，也不会让生物的残躯再生或重新接合。
 
-**Fear Aura (Su):** A fear aura either operates continuously or can be used at will. In either case, it’s a free action. This ability can freeze an opponent or cause opponents to become panicked.  Other effects are possible. Negating the fear effect requires a successful Will save with a DC equal to 10 + 1/2 fearsome creature’s HD + fearsome creature’s Charisma modifier (the exact DC is given in the creature’s descriptive text).
+**恐惧气场（超自然）：** 恐惧气场既可以是自然散发也可以是主动散发。两种方式都是即时动作。此能力能让一个对手冻结或恐慌。但不可能造成其他效果。抵抗恐惧效果需要一次成功的意志豁免，DC=10+1/2令人恐惧生物的生命骰+令人恐惧生物的魅力调整值（除非生物的物种特性另有规定）。
 
-**Gaze (Su):** A gaze attack takes effect when opponents look at the creature’s eyes. The attack can have almost any sort of effect: petrification, death, charm, and so on. The typical range is 30 feet, but check the creature’s entry for details. The type of saving throw for a gaze attack varies, but it is usually a Will or Fortitude save. The DC is equal to 10 + 1/2 gazing creature’s HD + gazing creature’s Charisma modifier (the exact DC is given in the creature’s Species Traits). A successful saving throw negates the effect.
+**凝视（超自然）：** 凝视攻击通过对手看向生物的眼睛来生效。攻击会产生任何形式的效果：石化、死亡、魅惑等等。标准距离是30尺，除非生物另有说明。豁免凝视攻击所需的检定有很多种，但通常是意志或强韧豁免。DC=10+1/2凝视者生命骰+凝视者魅力调整值（除非生物的物种特性另有规定）。豁免成功则抵御此效果。
 
-Each opponent within range of the gaze attack must attempt a saving throw each round at the beginning of his or her turn. Opponents can avoid the saving throw by averting their eyes or by using a barrier to sight.
+每个在凝视攻击范围内的对手每当其回合开始时都要进行一次豁免。对手可通过转移视线或阻挡视线避免豁免。
 
-**Averting One’s Eyes:** The opponent avoids looking at the creature’s face and instead looks at its body, watching its shadow, tracking it in a reflective surface, or the like. Each round, the opponent has a 50% chance to not need to make a saving throw against the gaze attack. The creature with the gaze attack, however, gains one-half concealment against that opponent.
+**转移视线：** 对手避免看向生物的脸，转而看向身体、影子、镜像。每一轮，对手有50%几率无需对凝视攻击进行豁免检定。但凝视攻击的生物也对此对手半隐蔽。
 
-**Barrier to Sight:** An opponent that cannot see the creature at all cannot be affected by its gaze attack. This can be accomplished by turning one’s back on the creature, shutting one’s eyes, or wearing a blindfold or head covering that prevents sight. The creature with the gaze attack gains total concealment against the opponent.
+**阻挡视线：** 对手完全不能看见此生物，从而完全免受凝视攻击。这可以通过背对此生物、闭眼、或者戴上眼罩头罩来实现。凝视攻击的生物对此对手全隐蔽。
 
-**A creature with a gaze attack can actively gaze as an attack action by choosing a target within range. That opponent must attempt a saving throw but can try to avoid the gaze as described above. Thus, a target may need to save against a creature’s gaze twice during the same round:** once before the target’s action and once during the creature’s turn.
+**会凝视攻击的生物在回合内可以使用一个攻击动作来选择范围内的一个目标来凝视。被凝视的对手必须进行一次豁免，但也可以尝试用以上方式避开视线。因此，目标需要在同一轮内豁免生物的凝视两次：**一次是在目标的回合，行动之前，另一次是在凝视者的回合。
 
-A creature is im-mune to its own gaze attack unless otherwise noted.
+生物对自己的凝视攻击免疫，除非另有说明。
 
-**Improved Grab (Ex):** If the creature hits with a melee weapon it deals normal damage and attempts to start a grapple as a free action, doing so without provoking attacks of opportunity. No initial touch attack is required. Unless otherwise stated, improved grab works only against opponents at least one size category smaller than the creature. A Small or smaller creature using improved grab does not apply its grapple modifier to its grapple check.
+**精通攫抓（特异）：** 如果生物用近战武器击中，将会造成正常伤害并试图以一个即时动作擒抱，这不会引发借机攻击。这不需要以接触攻击开始。除非另有说明，精通攫抓只能作用于体型比自己小一级以及更小的对手。使用精通攫抓的小型及更小的生物在擒抱检定中不会应用其擒抱调整值。
 
-The creature has the option to conduct the grapple normally, or simply use the part of its body it used in the improved grab to hold the opponent. If it chooses to do the latter, it takes a –20 penalty on grapple checks but is not considered grappled itself; the creature does not lose its Dexterity bonus to Defense, still threatens an area, and can use its remaining attacks against other opponents.
+生物可选择正常擒抱，或者只是使用身体的一部分进行攫抓以将对手`抓握`。如果选择后者，其擒抱检定将受到20点减值，但自己不会视为处于被擒抱状态；擒抱者此时防御不会失去敏捷调整值，仍然有威胁范围，并可使用其他的部位攻击其他对手。
 
-A successful hold does not deal additional damage unless the creature also has the constrict ability (see above). If the creature does not constrict, each successful grapple check it makes during successive rounds automatically deals the damage given for the attack that established the hold.
+成功的抓握不会造成额外的伤害，除非生物有紧勒的能力（见下文）。如果生物不紧勒，每次成功的擒抱检定将造成最初抓握时所造成的伤害。
 
-When a creature gets a hold after an improved grab attack, it pulls the opponent into its space. This act does not provoke attacks of opportunity. The creature is not considered grappled while it holds the opponent, so it still threatens adjacent squares and retains its Dexterity bonus. It can even move, provided it can drag the opponent’s weight.
+生物用精通攫抓抓握对手，会把对手拖拽至自己的方格内。此行为不会引发借机攻击。生物在抓握对手时不会视为被擒抱状态，所以仍会威胁邻近方格并保留敏捷加值。如果能拖动对手的重量，生物甚至可以移动。
 
-**Low-Light Vision (Ex):** A creature with low-light vision can see twice as far as normal in poor lightning conditions. The creature can still distinguish colors, even in dim lighting.
+**低光视觉（特异）：** 有低光视觉的生物可以在昏暗条件下拥有正常视野两倍的视距。生物仍能分辨颜色，即使是在昏暗的光线下。
 
-**Poison (Ex):** Poison attacks deal initial damage, such as temporary ability damage (see above) or some other effect, to the opponent on a failed Fortitude save. Unless otherwise noted, another saving throw is required 1 minute later (regardless of the first save’s result) to avoid secondary damage.
+**毒素（特异）：** 毒素攻击对强韧豁免失败的对手造成初始伤害，例如暂时属性伤害（见上文）或其他效果。除非另有说明，1分钟后（不管初次豁免成功与否）需再次进行豁免检定抵抗再次伤害。
 
-The Fortitude save against poison has a DC equal to 10 + 1/2 poisoning creature’s HD + poisoning creature’s Constitution modifier (the exact DC is given in the creature’s Species Traits). A successful save negates the damage.
+对毒素的强韧豁免DC=10+1/2毒素生物HD+毒素生物的体质调整值（除非生物的物种特性另有规定）。豁免成功则抵抗此伤害。
 
-**Power Resistance (Ex):** A creature with power resistance can avoid the effects of psionic powers that directly affect it. To determine whether a spell or spell-like ability works, the psionic power manifester must make a level check (1d20 + manifester’s level). If the result equals or exceeds the creature’s power resistance, the power works normally, although the creature is still allowed a saving throw.
+**灵能抗力（特异）：** 拥有灵能抗力的生物能够避免灵力效果的直接作用。灵力释放者必须做一个等级检定（1d20+释放者等级）来检定法术或类法术能力是否生效。若检定结果大于等于生物的灵能抗力，灵力照常生效，但生物仍可以掷豁免骰。
 
-**Psionics (Sp):** Psionics refers to abilities the creature generates with the power of its mind. Most psionic abilities can be used at will and have no use limit.
+**灵能（类法术）** 灵能指的是生物用思维生成能量的能力。大多数灵能能力能不限次数随意使用。
 
-**Regeneration (Ex):** This ability makes the creature impervious to most types of damage. Any damage dealt to the creature that falls below its massive damage threshold doesn’t reduce its hit points, unless that damage is of a type it is specifically vulnerable to, as mentioned in the creature’s description.  Massive damage that doesn’t match the creature’s vulnerability reduces its hit points, but such damage automatically heals at a fixed rate, as detailed in the creature’s description. When the creature takes massive damage from an attack type it isn’t vulnerable to, a failed save renders it dazed for 1 round (instead of reducing it to –1 hit points).
+**再生（特异）：** 此能力可让生物无视大多数伤害。任何对此生物的非巨创伤害都无效，除非受到有效类型的伤害，详见生物描述。非有效类型的巨创伤害也会杀伤，但此伤害会以一个固定比率恢复，详见生物描述。当生物受到非有效类型的巨创伤害时，豁免失败将造成1轮的眩晕（而不是使生命值减至-1）。
 
-Damage the creature is vulnerable to deals damage with every successful attack. Such damage can’t be regenerated, and massive damage from such an attack follows the normal massive damage rules.
+有效类型的伤害将如常造成。这种伤害无法再生，且有效类型的巨创伤害遵循一般的巨创伤害规则。
 
-Regeneration doesn’t provide any benefit against attack forms that don’t deal hit point damage. Regeneration also doesn’t restore hit points lost to starvation, thirst, or suffocation.
+再生对不造成生命值伤害的攻击没有任何抵抗力。再生也不会恢复因饥饿、口渴或窒息而损失的生命值。
 
-Regenerating creatures can regrow and reattach severed body parts. Severed parts that aren’t reattached wither and die normally. Regeneration continues to work no matter how low the creature’s hit points drop, restoring lost hit points from any damage other than from attack forms the creature is specially vulnerable to.
+再生生物的残躯会再生或重新接合。未重新接合的残躯会正常凋零、死亡。再生能恢复任何形式、任何数量的生命值伤害，有效类型的伤害除外。
 
-**Resistance to Energy (Ex):** The creature ignores some damage of the given energy type (acid, cold, electricity, fire, or sonic/concussion) each time the creature is subjected to such damage. The entry indicates the amount and type of damage ignored.
+**能量抗力（特异）：** 生物无视一些能量类型造成的伤害（酸、寒冷、电、火以及音波/震荡）。此项标明了所无视的伤害量和伤害类型。
 
-**Scent (Ex):** This ability allows the creature to detect approaching enemies, sniff out hidden foes, and track by sense of smell. Creatures with the scent ability can identify familiar odors just as humans do familiar sights.
+**灵敏嗅觉（特异）：** 此能力让生物侦测靠近的敌人、嗅探出隐藏的敌人、循着气味追踪。拥有灵敏嗅觉的生物能识别熟悉的气味，像人类辨认出熟悉的景象一样。
 
-The creature can detect opponents within 30 feet by sense of smell. If the opponent is upwind, the range increases to 60 feet; if downwind, it drops to 15 feet. Strong scents can be detected at twice the ranges noted above. Overpowering scents can be detected at triple normal range.
+生物能通过嗅觉侦测30尺内的对手。如果对手在上风处，距离增加至60尺，在下风处，距离减至15尺。强烈的气味的可嗅探距离是通常的两倍。极重的气味的可嗅探距离是通常的三倍。
 
-When a creature detects a scent, the exact location is not revealed—only its presence somewhere within range. The creature can take a move or attack action to note the direction of the scent. If it moves within 5 feet of the source, the creature can pinpoint that source.
+生物嗅探到气味并不能揭示气味源的准确位置，只能知道气味源在嗅探范围内。生物可以用一个移动或攻击动作来找出气味的方向。如果生物走进气味源5尺范围内，将能准确找到气味源的位置。
 
-A creature with the scent ability can follow tracks by smell, making a Wisdom check to find or follow a track. The typical DC for a fresh trail is 10 (no matter what kind of surface holds the scent). This DC increases or decreases depending on the strength of the quarry’s odor, the number of creatures being tracked, and the age of the trail. For each hour that the trail is cold, the DC increases by 2. The ability otherwise follows the rules for the Track feat. Creatures tracking by scent ignore the effects of surface conditions and poor visibility.
+有灵敏嗅觉的生物可以追踪气味，这需要一个感知检定。追踪一个新鲜痕迹通常需要10点DC（不管气味源用什么覆盖着）。DC还会根据气味的浓度、追踪的生物数量、和踪迹的留存时间增减。踪迹每小时都在淡出，使DC+2。此能力的其他规则与`追踪`专长相同。但用嗅觉追踪无视路况和低能见度的效果。
 
-**Spell Resistance (Ex):** A creature with spell resistance can avoid the effects of spells and spell-like abilities that directly affect it. To determine whether a spell or spell-like ability works, the spellcaster must make a level check (1d20 + caster level). If the result equals or exceeds the creature’s spell resistance, the spell works normally, although the creature is still allowed a saving throw.
+**法术抗力（特异）：** 拥有法术抗力的生物能够避免法术效果的直接作用。施法者必须做一个等级检定（1d20+施法者等级）来检定法术或类法术能力是否生效。若检定结果大于等于生物的法术抗力，法术照常生效，但生物仍可以掷豁免骰。
 
-**Spells (Sp):** Some creatures can cast arcane spells or divine spells (and can activate magic items accordingly). These creatures are subject to the same spellcasting rules as characters.
+**法术（类法术）：** 一些生物能施展秘法法术或神术法术（以及启动相应的魔法物品）。这些生物遵循和角色一样的施法规则。
 
-Spellcasting creatures are not members of an advanced class unless their entries say so, and they do not gain any class features. A creature with access to divine spells must prepare them in the normal manner.
+施法生物的职业都不属于高级职业，除非特别说明，而且施法生物不会获得任何职业专长。施展神术法术的生物必须像如常准备法术。
 
-**Swallow Whole (Ex):** If the creature begins its turn with an opponent held in its mouth (see improved grab, above), it can attempt a new grapple check (as though attempting to pin the opponent). If it succeeds, it swallows its opponent and deals bite damage. Unless noted otherwise, the opponent can be up to one size category smaller than the swallowing creature.
+**活吞（特异）：** 如果具有此特殊攻击的生物在回合开始时正用嘴抓握一个对手（参见精通攫抓），它可以在进行一次新的擒抱检定（如同尝试压制对手）。如果成功，它便吞噬它的猎物，并且对方受到啮咬伤害。除非另有说明，活吞只能作用于体型比自己小一级以及更小的对手。
 
-Being swallowed has various consequences depending on the creature, but a swallowed opponent is considered grappled, while the creature is not. A swallowed opponent can try to cut its way free with any light piercing or slashing weapon (the amount of cutting damage required to get free is noted in the creature’s descriptive text), or it can just try to escape the grapple. If the swallowed opponent chooses the latter course, success puts it back in the creature’s mouth, where it may be bitten or swallowed again.
+被吞噬会有各种后果，取决于吞噬者的属性，但被吞噬者都被视为`被擒抱`，而吞噬者不算擒抱。被吞噬者可尝试用轻型穿刺或挥砍武器开辟出生路（开辟生路所需的伤害量见生物描述），也可以尝试从擒抱中脱逃。如果被吞噬者选择后者，脱逃成功将会回到吞噬者的嘴里，可能会在此遭到啮咬或吞噬。
 
-**Trample (Ex):** As an attack action during its turn each round, the creature can run over an opponent at least one size category smaller than itself, entering the opponent’s fighting space to do so. The trample deals bludgeoning damage, and the creature’s descriptive text lists the amount.
+**践踏（特异）：** 生物可踏过体型至少比自己小一级的对手的方格，这么做需要一个攻击动作。践踏产生碾压伤害，伤害量见生物的描述。
 
-Trampled opponents can attempt attacks of opportunity, but these incur a –4 penalty. If they do not make attacks of opportunity, trampled opponents can attempt Reflex saves for half damage. The save DC equals 10 + 1/2 trampling creature’s HD + trampling creature’s Strength modifier (the exact DC is given in the creature’s descriptive text).
+被践踏者可以进行借机攻击，但有4点减值。如果不想进行借机攻击，被践踏者可以进行反射豁免以让伤害减半。豁免DC=10+1/2践踏者生命骰+践踏者力量调整值（除非生物描述另有规定）。
 
-**Turn Resistance (Ex):** The creature (usually undead) resists attempts by divine spellcasters to turn it (see Turn or Rebuke Undead). When resolving a turn or rebuke attempt, add the given bonus to the creature’s Hit Dice total.
+**驱散抗力（特异）：** 生物（通常是不死生物）能抵抗神术施法者的驱散（见驱散或斥喝不死生物）。结算驱散或斥喝时，将给定加值加到生物的生命骰上。

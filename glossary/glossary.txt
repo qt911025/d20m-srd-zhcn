@@ -21,7 +21,7 @@ initiative	先攻
 save	豁免
 reflex	反射	条件反射，反应
 fortitude	强韧	实体攻击的抵抗力
-drain	流失	原翻译“吸取”并不贴切，被“吸取”的属性不会转移到吸取者身上。
+drain	吸取
 helpless	无助
 charms	魅惑
 compulsions	胁迫
@@ -467,7 +467,7 @@ Detect Shadow	探查暗影
 Shadow immunity	暗影免疫
 Slayer weapon	猎影武器
 Shadow enemy	影之天敌
-Fast healing	快速愈合
+Fast healing	快速痊愈
 denizens of Shadow	暗影生物
 campaigns	冒险
 aura	气场
@@ -528,7 +528,6 @@ defensively	防御姿态
 wand	魔杖
 spellbook	法术书
 read a spell	解读施放	解读写好的法术，解读后这个法术会施放出来
-activate	启动
 emulate	模仿
 Activate blindly	盲目启用
 Decipher a written spell	解读写好了的法术
@@ -894,3 +893,38 @@ Revive	救醒	医疗技能
 first aid kit	急救箱
 Stabilize	稳定
 total defense	全防御
+Su	超自然能力	特殊能力的一种
+Ex	特异能力	特殊能力的一种
+Ability Score	属性值
+Permanent Ability Drain	永久属性流失
+Ability Score Reduction	属性值减少
+temporary hit points	暂时生命值
+Blindsight	盲视
+Invisibility	隐形
+Breath Weapon	喷吐武器
+Species Traits	物种特性
+Constrict	紧勒
+improved grab	精通攫抓
+Damage Reduction	伤害减免
+Darkvision	黑暗视觉
+negative level	负向等级
+Energy Drain	能量吸取
+Fear Aura	恐惧气场
+freeze	冻结
+panicked	恐慌
+Gaze	凝视
+petrification	石化
+hold	抓握
+Low-Light Vision	低光视觉
+Power Resistance	灵能抗力
+spell-like ability	类法术能力
+Sp	类法术能力
+Regeneration	再生
+Scent	灵敏嗅觉
+Overpowering	极重
+activate	启动（魔法物品）
+Swallow Whole	活吞
+bitten	啮咬
+Trample	践踏
+bludgeon	碾压
+Turn Resistance	驱散抗力

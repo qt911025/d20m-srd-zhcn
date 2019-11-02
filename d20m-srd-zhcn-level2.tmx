@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg># SPECIAL ABILITIES</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T121808Z" creationid="quentine" creationdate="20191030T121808Z">
+        <seg># 特殊能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg># STARTING OCCUPATION</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T084106Z" creationid="QuenTine" creationdate="20181104T084106Z">
@@ -240,8 +248,8 @@
       <tuv xml:lang="EN-US">
         <seg>## Ability Drained</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T120225Z" creationid="quentine" creationdate="20190115T120225Z">
-        <seg>## 属性流失</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T123808Z" creationid="quentine" creationdate="20190115T120225Z">
+        <seg>## 属性吸取</seg>
       </tuv>
     </tu>
     <tu>
@@ -1424,8 +1432,8 @@
       <tuv xml:lang="EN-US">
         <seg>## Starting Ability Scores</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T121318Z" creationid="quentine" creationdate="20190703T121318Z">
-        <seg>## 起始属性点</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T122247Z" creationid="quentine" creationdate="20190703T121318Z">
+        <seg>## 起始属性值</seg>
       </tuv>
     </tu>
     <tu>
@@ -2888,8 +2896,8 @@
       <tuv xml:lang="EN-US">
         <seg>### Temporary Hit Points</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T113734Z" creationid="quentine" creationdate="20190115T113734Z">
-        <seg>### 临时生命值</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T124844Z" creationid="quentine" creationdate="20190115T113734Z">
+        <seg>### 暂时生命值</seg>
       </tuv>
     </tu>
     <tu>
@@ -3264,8 +3272,8 @@
       <tuv xml:lang="EN-US">
         <seg>#### Fast Healing</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190611T142502Z" creationid="quentine" creationdate="20190611T142502Z">
-        <seg>#### 快速愈合</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T122207Z" creationid="quentine" creationdate="20190611T142502Z">
+        <seg>#### 快速痊愈</seg>
       </tuv>
     </tu>
     <tu>
@@ -4657,8 +4665,8 @@
 * No class features
 * No levels in an advanced class</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T121308Z" creationid="quentine" creationdate="20190703T121308Z">
-        <seg>* 有一套固定的待分配起始属性点
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T122247Z" creationid="quentine" creationdate="20190703T121308Z">
+        <seg>* 有一套固定的待分配起始属性值
 * 起始生命值是随机的
 * 没有行动点
 * 没有职业专长
@@ -4743,10 +4751,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**A creature with a gaze attack can actively gaze as an attack action by choosing a target within range.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T130052Z" creationid="quentine" creationdate="20191031T125856Z">
+        <seg>**会凝视攻击的生物在回合内可以使用一个攻击动作来选择范围内的一个目标来凝视。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Ability Modifier:** The ability modifier used in the skill check is the modifier for the skill’s key ability (the ability associated with the skill’s use).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190805T132858Z" creationid="quentine" creationdate="20190805T132858Z">
         <seg>**属性调整值：** 用于技能检定的属性调整值指的是技能的`关键属性`（关系到技能使用的属性）的调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Ability Score Reduction (Su):** Some attacks reduce an opponent’s score in one or more abilities.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T122355Z" creationid="quentine" creationdate="20191030T122355Z">
+        <seg>**属性值减少（超自然）：** 一些攻击减少单个对手的一到多个属性值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5135,6 +5159,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Averting One’s Eyes:** The opponent avoids looking at the creature’s face and instead looks at its body, watching its shadow, tracking it in a reflective surface, or the like.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T125238Z" creationid="quentine" creationdate="20191031T125238Z">
+        <seg>**转移视线：** 对手避免看向生物的脸，转而看向身体、影子、镜像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Aware:** The Dedicated hero is intuitively aware of his or her surroundings.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190202T102949Z" creationid="quentine" creationdate="20190202T102949Z">
@@ -5147,6 +5179,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191027T073020Z" creationid="quentine" creationdate="20191027T073020Z">
         <seg>**波罗的语：** 拉脱维亚语、立陶宛语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Barrier to Sight:** An opponent that cannot see the creature at all cannot be affected by its gaze attack.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T125509Z" creationid="quentine" creationdate="20191031T125509Z">
+        <seg>**阻挡视线：** 对手完全不能看见此生物，从而完全免受凝视攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5890,8 +5930,8 @@
       <tuv xml:lang="EN-US">
         <seg>**Benefit:** When using a firearm on autofire, the character can affect an area four 5-foot squares long and one square wide (that is, any four squares in a straight line).</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T123805Z" creationid="quentine" creationdate="20190804T123805Z">
-        <seg>**效果：** 当使用自动模式的火器时，角色范围攻击4个5尺格子长、1格子宽（也就是4个格子的直线）的区域。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T132932Z" creationid="quentine" creationdate="20190804T123805Z">
+        <seg>**效果：** 当使用自动模式的火器时，角色范围攻击4个5尺方格长、1方格宽（也就是4个方格的直线）的区域。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5944,6 +5984,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Blindsight (Ex):** Using nonvisual senses, such as sensitivity to vibrations, scent, acute hearing, or echolocation, the creature maneuvers and fights as well as a sighted creature.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T125741Z" creationid="quentine" creationdate="20191030T125741Z">
+        <seg>**盲视（特异）：** 依靠非视觉感官，比如对振动的敏感、灵敏的嗅觉、敏锐的听觉甚至声呐，这些生物可以像有视觉的生物那样机动和战斗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Bolster Undead:** An evil Acolyte may bolster creatures against turning effects in advance.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T114203Z" creationid="quentine" creationdate="20190703T114203Z">
@@ -5988,6 +6036,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132345Z" creationid="QuenTine" creationdate="20181104T141140Z">
         <seg>**奖励专长：** 选其一：实战武术、擅长护甲（轻型）、擅长个人火器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Breath Weapon (Su):** A breath weapon attack usually causes damage and is often based on some type of energy.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T130303Z" creationid="quentine" creationdate="20191030T130303Z">
+        <seg>**喷吐武器（超自然）：** 喷吐武器攻击通常造成基于能量的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6464,6 +6520,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Constrict (Ex):** The creature crushes the opponent, dealing bludgeoning damage, after making a successful grapple check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T131028Z" creationid="quentine" creationdate="20191030T131028Z">
+        <seg>**紧勒（特异）：** 生物在进行成功的擒抱检定后碾压对手，造成钝击伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Construct Frame:** The robot’s body determines its size, shape, locomotion, and hit points.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190522T143033Z" creationid="quentine" creationdate="20190522T142927Z">
@@ -6544,6 +6608,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Damage Reduction (Su):** The creature ignores damage from most weapons and natural attacks.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T132247Z" creationid="quentine" creationdate="20191030T131447Z">
+        <seg>**伤害减免（超自然）：** 这种生物无视大多数武器和自然攻击的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Damage Reduction 1/—:** The Tough hero ignores 1 point of damage from melee and ranged weapons.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190117T143549Z" creationid="quentine" creationdate="20190117T143549Z">
@@ -6572,6 +6644,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191025T141630Z" creationid="quentine" creationdate="20191025T141509Z">
         <seg>**舞蹈：** 角色是一个有天赋的舞者，擅长表演有节奏的和各种随着音乐舞动的节目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Darkvision (Ex):** The creature can see in total darkness, out to the specified range (usually 60 feet).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T134317Z" creationid="quentine" creationdate="20191030T134317Z">
+        <seg>**黑暗视觉（特异）：** 生物能在完全黑暗下视物，能看到给定范围内的事物（通常为60尺）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6728,6 +6808,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Energy Drain (Su):** This attack saps a living opponent’s vital energy.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T134652Z" creationid="quentine" creationdate="20191030T134652Z">
+        <seg>**能量吸取（超自然）：** 此攻击能让对手的能量衰竭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Evasion:** If the Fast hero is exposed to any effect that normally allows a character to attempt a Reflex saving throw for half damage, the Fast hero suffers no damage if he or she makes a successful saving throw.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190117T124437Z" creationid="quentine" creationdate="20190117T122307Z">
@@ -6792,6 +6880,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Fast Healing (Ex):** The creature regains hit points at an exceptionally fast rate, usually 1 or more hit points per round.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T122417Z" creationid="quentine" creationdate="20191031T122205Z">
+        <seg>**快速痊愈（特异）：** 生物以特别快的速率重获生命值，通常每轮恢复1到多点生命值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Fast Mount or Dismount (DC 20; armor penalty applies):** The character can mount or dismount as a free action.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191027T125020Z" creationid="quentine" creationdate="20191027T125020Z">
@@ -6812,6 +6908,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190203T041125Z" creationid="quentine" creationdate="20190202T122139Z">
         <seg>**求援：**魅力型英雄能够请任何所遇之人帮忙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Fear Aura (Su):** A fear aura either operates continuously or can be used at will.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T123345Z" creationid="quentine" creationdate="20191031T123345Z">
+        <seg>**恐惧气场（超自然）：** 恐惧气场既可以是自然散发也可以是主动散发。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6972,6 +7076,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T131548Z" creationid="quentine" creationdate="20190114T130648Z">
         <seg>**强韧豁免：** 这一豁免代表角色在重大攻击下屹立不倒的能力和在受到类似毒素和麻痹攻击时保持活力的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Gaze (Su):** A gaze attack takes effect when opponents look at the creature’s eyes.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T124149Z" creationid="quentine" creationdate="20191031T124149Z">
+        <seg>**凝视（超自然）：** 凝视攻击通过对手看向生物的眼睛来生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7208,6 +7320,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Improved Grab (Ex):** If the creature hits with a melee weapon it deals normal damage and attempts to start a grapple as a free action, doing so without provoking attacks of opportunity.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T130758Z" creationid="quentine" creationdate="20191031T130758Z">
+        <seg>**精通攫抓（特异）：** 如果生物用近战武器击中，将会造成正常伤害并试图以一个即时动作擒抱，这不会引发借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Improved Ignore Hardness:** The Strong hero ignores 2 additional points of an object’s hardness (for a total of 4).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190116T130648Z" creationid="quentine" creationdate="20190116T130216Z">
@@ -7420,6 +7540,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191028T125100Z" creationid="quentine" creationdate="20191028T123641Z">
         <seg>**长期护理（DC15）：** 在医疗箱的帮助下，此形式的技能检定成功将使病人以更快的效率恢复伤害和属性伤害——每天完整的休息后，恢复3×角色等级的生命值或3点属性值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Low-Light Vision (Ex):** A creature with low-light vision can see twice as far as normal in poor lightning conditions.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T135058Z" creationid="quentine" creationdate="20191031T135058Z">
+        <seg>**低光视觉（特异）：** 有低光视觉的生物可以在昏暗条件下拥有正常视野两倍的视距。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7728,6 +7856,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Permanent Ability Drain:** This effect permanently reduces a living opponent’s ability score when the creature hits with a melee attack.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T123933Z" creationid="quentine" creationdate="20191030T122454Z">
+        <seg>**永久属性吸取：** 当生物以近战击中时，此效果永久降低一个活着的对手的属性值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Physical Access:** A character gains physical access to the computer, or a computer connected to the site.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T143721Z" creationid="quentine" creationdate="20190916T143202Z">
@@ -7760,6 +7896,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Poison (Ex):** Poison attacks deal initial damage, such as temporary ability damage (see above) or some other effect, to the opponent on a failed Fortitude save.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T135325Z" creationid="quentine" creationdate="20191031T135325Z">
+        <seg>**毒素（特异）：** 毒素攻击对强韧豁免失败的对手造成初始伤害，例如暂时属性伤害（见上文）或其他效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Poisonous Substances:** Solid poisons are usually ingested.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190922T132638Z" creationid="quentine" creationdate="20190921T123613Z">
@@ -7772,6 +7916,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191022T140439Z" creationid="quentine" creationdate="20191022T140439Z">
         <seg>**流行文化：** 流行乐和明星、类型片与畅销书、都市传说、漫画、科幻小说和游戏等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Power Resistance (Ex):** A creature with power resistance can avoid the effects of psionic powers that directly affect it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T135940Z" creationid="quentine" creationdate="20191031T135940Z">
+        <seg>**灵能抗力（特异）：** 拥有灵能抗力的生物能够避免灵力效果的直接作用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8152,6 +8304,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Psionics (Sp):** Psionics refers to abilities the creature generates with the power of its mind.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T140747Z" creationid="quentine" creationdate="20191031T140625Z">
+        <seg>**灵能（类法术）** 灵能指的是生物用思维生成能量的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Purchase DC:** The DC for the Wealth check necessary to obtain the raw materials to craft the poison, or to purchase one bottle of solid or liquid poison or one high-pressure cylinder of gaseous poison.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190921T125452Z" creationid="quentine" creationdate="20190921T125452Z">
@@ -8208,6 +8368,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Regeneration (Ex):** This ability makes the creature impervious to most types of damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T141118Z" creationid="quentine" creationdate="20191031T141118Z">
+        <seg>**再生（特异）：** 此能力可让生物无视大多数伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Remain Conscious:** The Tough hero gains the ability to continue to perform actions when he or she would otherwise be considered unconscious and dying.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190117T145504Z" creationid="quentine" creationdate="20190117T145504Z">
@@ -8236,6 +8404,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190116T120035Z" creationid="quentine" creationdate="20190116T120035Z">
         <seg>**声望加值：** 角色基本声望加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Resistance to Energy (Ex):** The creature ignores some damage of the given energy type (acid, cold, electricity, fire, or sonic/concussion) each time the creature is subjected to such damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T143221Z" creationid="quentine" creationdate="20191031T143221Z">
+        <seg>**能量抗力（特异）：** 生物无视一些能量类型造成的伤害（酸、寒冷、电、火以及音波/震荡）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8309,6 +8485,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190623T125325Z" creationid="quentine" creationdate="20190623T125325Z">
         <seg>**豁免骰：** 魔宠使用法师的基础豁免骰加值，除非魔宠的更高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Scent (Ex):** This ability allows the creature to detect approaching enemies, sniff out hidden foes, and track by sense of smell.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T144649Z" creationid="quentine" creationdate="20191031T143620Z">
+        <seg>**灵敏嗅觉（特异）：** 此能力让生物侦测靠近的敌人、嗅探出隐藏的敌人、循着气味追踪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9297,6 +9481,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Spell Resistance (Ex):** A creature with spell resistance can avoid the effects of spells and spell-like abilities that directly affect it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T020825Z" creationid="quentine" creationdate="20191102T020825Z">
+        <seg>**法术抗力（特异）：** 拥有法术抗力的生物能够避免法术效果的直接作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Spells (Sp):** Some creatures can cast arcane spells or divine spells (and can activate magic items accordingly).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T021245Z" creationid="quentine" creationdate="20191102T021245Z">
+        <seg>**法术（类法术）：** 一些生物能施展秘法法术或神术法术（以及启动相应的魔法物品）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Stabilize Dying Character (DC 15):** With a medical kit, a character can tend to a character who is dying.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191028T131916Z" creationid="quentine" creationdate="20191028T125533Z">
@@ -9357,6 +9557,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191028T130008Z" creationid="quentine" creationdate="20191028T130008Z">
         <seg>**手术（DC20）：** 在手术箱的帮助下，角色可以就地进行手术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Swallow Whole (Ex):** If the creature begins its turn with an opponent held in its mouth (see improved grab, above), it can attempt a new grapple check (as though attempting to pin the opponent).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T024500Z" creationid="quentine" creationdate="20191102T024253Z">
+        <seg>**活吞（特异）：** 如果具有此特殊攻击的生物在回合开始时正用嘴抓握一个对手（参见精通攫抓），它可以在进行一次新的擒抱检定（如同尝试压制对手）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9429,6 +9637,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191022T140805Z" creationid="quentine" creationdate="20191022T140805Z">
         <seg>**技术：** 尖端科技设备的开发，以及识别高科技设备的技术背景。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Temporary Ability Damage:** This attack damages an opponent’s ability score.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T125107Z" creationid="quentine" creationdate="20191030T125107Z">
+        <seg>**暂时属性伤害：** 此攻击对对手的属性值造成伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9833,6 +10049,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Trample (Ex):** As an attack action during its turn each round, the creature can run over an opponent at least one size category smaller than itself, entering the opponent’s fighting space to do so.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T030009Z" creationid="quentine" creationdate="20191102T030009Z">
+        <seg>**践踏（特异）：** 生物可踏过体型至少比自己小一级的对手的方格，这么做需要一个攻击动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Traps and Sabotage:** Disabling (or rigging or jamming) a simple mechanical device has a DC of 10.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190925T115404Z" creationid="quentine" creationdate="20190925T114427Z">
@@ -10101,6 +10325,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191027T074840Z" creationid="quentine" creationdate="20191027T074840Z">
         <seg>**突厥语：** 阿塞拜疆语、土耳其语、乌兹别克语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Turn Resistance (Ex):** The creature (usually undead) resists attempts by divine spellcasters to turn it (see Turn or Rebuke Undead).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T032247Z" creationid="quentine" creationdate="20191102T032247Z">
+        <seg>**驱散抗力（特异）：** 生物（通常是不死生物）能抵抗神术施法者的驱散（见驱散或斥喝不死生物）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10939,6 +11171,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190613T141015Z" creationid="quentine" creationdate="20190613T135259Z">
         <seg>一只相应类型和1HD（由GM决定是何种HD）的暗影生物出现在术士的一方，持续1d6+1天。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A Small or smaller creature using improved grab does not apply its grapple modifier to its grapple check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T131217Z" creationid="quentine" creationdate="20191031T131217Z">
+        <seg>使用精通攫抓的小型及更小的生物在擒抱检定中不会应用其擒抱调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11887,6 +12127,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A character with spellcasting ability loses the ability to cast one spell of the highest level he or she can cast (player’s choice); this loss persists until the negative level is removed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T135757Z" creationid="quentine" creationdate="20191030T135757Z">
+        <seg>如果受害者可以施法，他将失去一个当前可用的最高等级法术（由玩家选择），此损失将持续到负向等级移除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A character with the Acrobatic feat and at least 1 rank in this skill gets a +2 bonus on all Tumble checks.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191028T140558Z" creationid="quentine" creationdate="20191028T140558Z">
@@ -12391,6 +12639,38 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A creature is im-mune to its own gaze attack unless otherwise noted.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T130308Z" creationid="quentine" creationdate="20191031T130308Z">
+        <seg>生物对自己的凝视攻击免疫，除非另有说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A creature is immune to its own breath weapon and those of others of its kind unless noted otherwise.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T130736Z" creationid="quentine" creationdate="20191030T130736Z">
+        <seg>生物对自己的喷吐武器以及其他同类喷吐武器免疫，除非另有说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A creature that loses all of its levels or Hit Dice dies and, depending on the source of the energy drain, might rise as an undead creature of some kind.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T140528Z" creationid="quentine" creationdate="20191030T140528Z">
+        <seg>失去了所有等级或生命骰的生物将会死亡，根据吸取者的种类，受害者将会复活成指定类型的不死生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A creature with access to divine spells must prepare them in the normal manner.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T023801Z" creationid="quentine" creationdate="20191102T023801Z">
+        <seg>施展神术法术的生物必须像如常准备法术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A creature with no Constitution has no body or no metabolism.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181103T134502Z" creationid="QuenTine" creationdate="20181103T134502Z">
@@ -12423,6 +12703,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A creature with the scent ability can follow tracks by smell, making a Wisdom check to find or follow a track.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T144710Z" creationid="quentine" creationdate="20191031T144644Z">
+        <seg>有灵敏嗅觉的生物可以追踪气味，这需要一个感知检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A dazed creature can’t act for 1d4 rounds.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190611T143955Z" creationid="quentine" creationdate="20190611T143955Z">
@@ -12443,6 +12731,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190926T141805Z" creationid="quentine" creationdate="20190926T141805Z">
         <seg>有悖程序、命令、或者先前的认知或是要求检查者交出所有物或信息的文件，会加剧检查者的疑心（这还会给检查者的对抗检定创造有利的情况）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A draining creature heals 5 points of damage (10 on a critical hit) whenever it drains an ability score no matter how many points it drains.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T124204Z" creationid="quentine" creationdate="20191030T124204Z">
+        <seg>任何吸取的时候，不管吸取了多少点属性，吸取者治疗自己5点伤害（重击则为10点）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12671,6 +12967,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A magic weapon or a creature with its own damage reduction can sometimes damage the creature normally, as noted below.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T132240Z" creationid="quentine" creationdate="20191030T132006Z">
+        <seg>魔法武器或者自带伤害减免的生物有时也可以正常伤害这种生物，见下文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A maximized power costs a number of power points equal to its normal cost +6.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190620T141617Z" creationid="quentine" creationdate="20190620T141617Z">
@@ -12721,8 +13025,8 @@
       <tuv xml:lang="EN-US">
         <seg>A multiclass character increases one ability score by +1 every four character levels, regardless of individual class level.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T091219Z" creationid="quentine" creationdate="20190216T091219Z">
-        <seg>跨职角色每4级角色等级获得1点属性点，而不是根据职业等级。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T122247Z" creationid="quentine" creationdate="20190216T091219Z">
+        <seg>跨职角色每4级角色等级获得1点属性值，而不是根据职业等级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12857,7 +13161,7 @@
       <tuv xml:lang="EN-US">
         <seg>A ranged weapon that deals lethal damage can’t be made to deal nonlethal damage (unless it is used as an improvised melee weapon).</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T145102Z" creationid="quentine" creationdate="20190114T145102Z">
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T124907Z" creationid="quentine" creationdate="20190114T145102Z">
         <seg>产生致命伤害的远程武器无法采用非致命攻击方式（除非该武器临时用于肉搏）。</seg>
       </tuv>
     </tu>
@@ -12899,6 +13203,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T143700Z" creationid="quentine" creationdate="20190115T143700Z">
         <seg>一分钟后进行再次豁免，失败则再受到1d4点体质伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A separate saving throw is required for each negative level.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T140257Z" creationid="quentine" creationdate="20191030T140257Z">
+        <seg>每一级负向等级的豁免骰分别计算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13143,10 +13455,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A successful hold does not deal additional damage unless the creature also has the constrict ability (see above).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T132122Z" creationid="quentine" creationdate="20191031T132020Z">
+        <seg>成功的抓握不会造成额外的伤害，除非生物有紧勒的能力（见下文）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A successful save indicates that the opponent is immune to the character’s use of this feat for 24 hours.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190802T131644Z" creationid="quentine" creationdate="20190802T131644Z">
         <seg>豁免成功将使此对手在24小时内免疫此角色发动的此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A successful save negates the damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T135612Z" creationid="quentine" creationdate="20191031T135612Z">
+        <seg>豁免成功则抵抗此伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A successful saving throw negates the effect.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T124726Z" creationid="quentine" creationdate="20191031T124632Z">
+        <seg>豁免成功则抵御此效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13157,6 +13493,14 @@
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190808T144811Z" creationid="quentine" creationdate="20190808T144811Z">
         <seg>有足够抱住和站立的突出部的表面，比如崎岖的峭壁表面。|
 |15|有足够抓住的把手点和脚踏点（天然或人工）的表面，比如粗糙的天然岩石表面、一棵树、或者铁丝网围栏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A swallowed opponent can try to cut its way free with any light piercing or slashing weapon (the amount of cutting damage required to get free is noted in the creature’s descriptive text), or it can just try to escape the grapple.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T025331Z" creationid="quentine" creationdate="20191102T025331Z">
+        <seg>被吞噬者可尝试用轻型穿刺或挥砍武器开辟出生路（开辟生路所需的伤害量见生物描述），也可以尝试从擒抱中脱逃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13201,6 +13545,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A weapon with an enhancement bonus due to magic is considered more powerful than any weapon that does not have such a bonus.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T133137Z" creationid="quentine" creationdate="20191030T133137Z">
+        <seg>由魔法增强过的有增强加值的武器将被视为比无此加值的武器更强。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>ADVANCED CLASSES</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T115057Z" creationid="quentine" creationdate="20190216T115057Z">
@@ -13219,16 +13571,16 @@
       <tuv xml:lang="EN-US">
         <seg>Ability points lost to damage return naturally, typically at a rate of 1 point per day for each affected ability.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181103T140733Z" creationid="QuenTine" creationdate="20181103T140733Z">
-        <seg>这些损失的属性点会自然恢复，通常速率为每天恢复1点受影响属性。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T122247Z" creationid="QuenTine" creationdate="20181103T140733Z">
+        <seg>这些损失的属性值会自然恢复，通常速率为每天恢复1点受影响属性。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
         <seg>Ability score damage is temporary, unless marked with an asterisk, in which case the damage is permanent ability drain.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190921T125143Z" creationid="quentine" creationdate="20190921T125143Z">
-        <seg>属性伤害是暂时的，除非标了星号，标星号的伤害是永久的`属性流失`。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T123808Z" creationid="quentine" creationdate="20190921T125143Z">
+        <seg>属性伤害是暂时的，除非标了星号，标星号的伤害是永久的`属性吸取`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14259,8 +14611,8 @@
       <tuv xml:lang="EN-US">
         <seg>An increase in a character’s Constitution score—even a temporary one—can give the character more hit points (an effective hit point increase), but these are not temporary hit points.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T114126Z" creationid="quentine" creationdate="20190115T114126Z">
-        <seg>角色的体质值的增加——临时增加的也算——能赋予角色更多的生命值（一次有效的生命增长），但这些不是临时生命值。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T124933Z" creationid="quentine" creationdate="20190115T114126Z">
+        <seg>角色的体质值的增加——暂时增加的也算——能赋予角色更多的生命值（一次有效的生命增长），但这些不是暂时生命值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14457,6 +14809,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Any damage dealt to the creature that falls below its massive damage threshold doesn’t reduce its hit points, unless that damage is of a type it is specifically vulnerable to, as mentioned in the creature’s description.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T141634Z" creationid="quentine" creationdate="20191031T141543Z">
+        <seg>任何对此生物的非巨创伤害都无效，除非受到有效类型的伤害，详见生物描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Any hostile action by the Negotiator or by one of the Negotiator’s allies directed at the opponent allows the opponent to act as he or she sees fit.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190526T131803Z" creationid="quentine" creationdate="20190526T131803Z">
@@ -14565,6 +14925,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190808T141902Z" creationid="quentine" creationdate="20190808T141902Z">
         <seg>只要角色在攀爬时承受伤害，都要进行一次攀爬检定，对抗斜坡或墙的DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Any weapon more powerful than the type listed in the note also negates the ability.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T132930Z" creationid="quentine" creationdate="20191030T132930Z">
+        <seg>任何比列出的种类的武器更强的武器同样无视此能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15371,8 +15739,8 @@
       <tuv xml:lang="EN-US">
         <seg>At 4th level and every four character levels thereafter (8th, 12th, and so on), an ordinary adds 1 point to one ability score—just as heroes do.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T121850Z" creationid="quentine" creationdate="20190703T121657Z">
-        <seg>4级时以及之后每升4级（8级、12级等等）、路人可加1点属性点——和英雄一样。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T122247Z" creationid="quentine" creationdate="20190703T121657Z">
+        <seg>4级时以及之后每升4级（8级、12级等等）、路人可加1点属性值——和英雄一样。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16033,6 +16401,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Being swallowed has various consequences depending on the creature, but a swallowed opponent is considered grappled, while the creature is not.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T025416Z" creationid="quentine" creationdate="20191102T024826Z">
+        <seg>被吞噬会有各种后果，取决于吞噬者的属性，但被吞噬者都被视为`被擒抱`，而吞噬者不算擒抱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Belief systems could also include political beliefs or philosophical outlooks.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T075748Z" creationid="QuenTine" creationdate="20181104T075518Z">
@@ -16259,8 +16635,8 @@
       <tuv xml:lang="EN-US">
         <seg>Certain effects can give a character temporary hit points.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T113809Z" creationid="quentine" creationdate="20190115T113809Z">
-        <seg>有的效果能够赋予角色临时生命值。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T124910Z" creationid="quentine" creationdate="20190115T113809Z">
+        <seg>有的效果能够赋予角色暂时生命值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16753,10 +17129,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Creatures tracking by scent ignore the effects of surface conditions and poor visibility.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T020747Z" creationid="quentine" creationdate="20191102T020747Z">
+        <seg>但用嗅觉追踪无视路况和低能见度的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Creatures with natural poison attacks are immune to their own poison.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T141715Z" creationid="quentine" creationdate="20190115T141715Z">
         <seg>天然拥有毒性攻击的生物免疫它们自己的毒性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Creatures with the scent ability can identify familiar odors just as humans do familiar sights.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T144007Z" creationid="quentine" creationdate="20191031T144007Z">
+        <seg>拥有灵敏嗅觉的生物能识别熟悉的气味，像人类辨认出熟悉的景象一样。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16793,6 +17185,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Damage the creature is vulnerable to deals damage with every successful attack.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T142052Z" creationid="quentine" creationdate="20191031T142052Z">
+        <seg>有效类型的伤害将如常造成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Damaging programming imposes a –4 penalty on all Computer Use checks made with the computer (sometimes this is preferable to destroying the programming, since the user might not know that anything is wrong, and won’t simply decide to use a different computer).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T123451Z" creationid="quentine" creationdate="20190917T123113Z">
@@ -16805,6 +17205,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T141251Z" creationid="quentine" creationdate="20190730T133603Z">
         <seg>黑暗以及低能见度使角色的速度降低为原来的3/4，而非减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Darkvision is black-and-white only, but is otherwise like normal light.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T134404Z" creationid="quentine" creationdate="20191030T134404Z">
+        <seg>黑暗视觉只能看到黑白，其他与正常视觉无异。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17078,6 +17486,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Each opponent within range of the gaze attack must attempt a saving throw each round at the beginning of his or her turn.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T124842Z" creationid="quentine" creationdate="20191031T124842Z">
+        <seg>每个在凝视攻击范围内的对手每当其回合开始时都要进行一次豁免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Each round, a Shadow Slayer can turn to detect the presence of Shadow in a new area.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190611T133612Z" creationid="quentine" creationdate="20190611T133204Z">
@@ -17106,6 +17522,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191027T142436Z" creationid="quentine" creationdate="20191027T142436Z">
         <seg>每轮检定DC+1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Each round, the opponent has a 50% chance to not need to make a saving throw against the gaze attack.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T125342Z" creationid="quentine" creationdate="20191031T125316Z">
+        <seg>每一轮，对手有50%几率无需对凝视攻击进行豁免检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17494,6 +17918,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Except as noted here, fast healing works just like natural healing.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T122620Z" creationid="quentine" creationdate="20191031T122620Z">
+        <seg>除非特别注明，否则快速痊愈类似于自然痊愈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Exception: Certain rolls, such as damage and hit points, have a minimum of 1.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181024T041949Z" creationid="QuenTine" creationdate="20181024T041949Z">
@@ -17578,6 +18010,30 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T142242Z" creationid="QuenTine" creationdate="20181104T142242Z">
         <seg>农民、猎户以及各类在农村生活的人都归为此类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fast healing also doesn’t restore hit points lost to starvation, thirst, or suffocation, and it doesn’t allow a creature to regrow or reattach severed body parts.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T142512Z" creationid="quentine" creationdate="20191031T122914Z">
+        <seg>快速痊愈也不会恢复因饥饿、口渴或窒息而损失的生命值，也不会让生物的残躯再生或重新接合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fast healing doesn’t provide any benefit against attack forms that don’t deal hit point damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T122925Z" creationid="quentine" creationdate="20191031T122853Z">
+        <seg>快速痊愈对不造成生命值伤害的攻击没有任何抵抗力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Fast healing stops working when a creature is reduced to –10 hp or fewer.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T122452Z" creationid="quentine" creationdate="20191031T122452Z">
+        <seg>当生物生命降到小于等于-10，快速痊愈失效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17742,6 +18198,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>For each hour that the trail is cold, the DC increases by 2.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T020118Z" creationid="quentine" creationdate="20191102T020118Z">
+        <seg>踪迹每小时都在淡出，使DC+2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For each negative level inflicted on an opponent, the draining creature heals 5 points of damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T135117Z" creationid="quentine" creationdate="20191030T135117Z">
+        <seg>对手每承受1级负向等级，吸取者都治疗5点伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For each negative level, the opponent takes a –1 penalty on all skill checks and ability checks, attack rolls, and saving throws, and loses one effective level or Hit Die (whenever level is used in a die roll or calculation).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T135553Z" creationid="quentine" creationdate="20191030T135553Z">
+        <seg>每个负向等级都将给对手带来惩罚，所有技能检定、属性检定、攻击骰、豁免骰都有1点减值，并失去1级有效等级或生命骰（当计算或检定需要用到人物等级时，每个负向等级都会将其减1）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>For each point of Intelligence bonus the Mage has, his spellbook holds one additional 1st-level arcane spell.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190623T122152Z" creationid="quentine" creationdate="20190623T122146Z">
@@ -17810,6 +18290,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191025T132719Z" creationid="quentine" creationdate="20191025T132719Z">
         <seg>进行长距离移动时需要寻路检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>For purposes of harming other creatures with damage reduction, a creature’s natural weapons count as the type that ignores its own innate damage reduction.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T133301Z" creationid="quentine" creationdate="20191030T133301Z">
+        <seg>为了伤害其他有伤害减免的生物，生物的天生武器所属类型将视为无视自身伤害减免的武器类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18222,6 +18710,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>However, damage reduction from spells does not confer this ability.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T134052Z" creationid="quentine" creationdate="20191030T133450Z">
+        <seg>而伤害减免无法对法术生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>However, few of them have the maximum number of action points for their level (because they will have spent some of them).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T124255Z" creationid="quentine" creationdate="20190703T124203Z">
@@ -18358,6 +18854,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If a negative level is not removed before 24 hours have passed, the afflicted opponent must attempt a Fortitude save with a DC of 10 + 1/2 draining creature’s HD + draining creature’s Charisma modifier (the exact DC is given in the creature’s Species Traits).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T140211Z" creationid="quentine" creationdate="20191030T135941Z">
+        <seg>如果负向等级在24小时期满前未被移除，受害者必须进行一个强韧豁免，DC=10+1/2吸取者生命骰+吸取者的魅力调整值（除非生物的物种特性另有规定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If a skill is a class skill for any of a multiclass hero’s classes, then use character level to determine a skill’s maximum rank.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190805T130114Z" creationid="quentine" creationdate="20190216T084342Z">
@@ -18378,6 +18882,30 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190417T233121Z" creationid="quentine" creationdate="20190417T143012Z">
         <seg>四级及以上的渗透者在反射豁免成功后，伤害不再减半，而是全免；豁免失败也能拥有伤害减半的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If an attack that causes ability damage scores a critical hit, it deals twice the given amount (if the damage is expressed as a die range, roll two dice).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T125303Z" creationid="quentine" creationdate="20191030T125303Z">
+        <seg>如果造成暂时属性伤害的那次攻击产生了重击，伤害的点数加倍（如果伤害值是骰点而非定值，则扔两遍骰子而不是将结果加倍）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If an attack that causes permanent ability drain scores a critical hit, it drains twice the given amount (if the damage is expressed as a die range, roll two dice).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T123808Z" creationid="quentine" creationdate="20191030T123137Z">
+        <seg>如果造成永久属性吸取的那次攻击产生了重击，吸取的点数加倍（如果伤害值是骰点而非定值，则扔两遍骰子而不是将结果加倍）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If an attack that includes an energy drain scores a critical hit, it drains double the given amount.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T135014Z" creationid="quentine" creationdate="20191030T135014Z">
+        <seg>如果造成能量吸取的攻击产生了重击，吸取的值加倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18454,6 +18982,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If it chooses to do the latter, it takes a –20 penalty on grapple checks but is not considered grappled itself; the creature does not lose its Dexterity bonus to Defense, still threatens an area, and can use its remaining attacks against other opponents.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T133157Z" creationid="quentine" creationdate="20191031T131920Z">
+        <seg>如果选择后者，其擒抱检定将受到20点减值，但自己不会视为处于被擒抱状态；擒抱者此时防御不会失去敏捷调整值，仍然有威胁范围，并可使用其他的部位攻击其他对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If it has mechanical or electronic components, a Techie of 2nd level or higher can get maximum performance out of it.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190518T140329Z" creationid="quentine" creationdate="20190518T140329Z">
@@ -18466,6 +19002,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190421T130758Z" creationid="quentine" creationdate="20190421T130758Z">
         <seg>若未命中，友方也不会被命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If it moves within 5 feet of the source, the creature can pinpoint that source.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T144603Z" creationid="quentine" creationdate="20191031T144603Z">
+        <seg>如果生物走进气味源5尺范围内，将能准确找到气味源的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If it succeeds, it swallows its opponent and deals bite damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T024837Z" creationid="quentine" creationdate="20191102T024530Z">
+        <seg>如果成功，它便吞噬它的猎物，并且对方受到啮咬伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18514,6 +19066,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T111954Z" creationid="quentine" creationdate="20190115T111954Z">
         <seg>如果没人照料稳定的角色（见下文），角色会在一小时内继续昏迷，届时角色进行一次强韧豁免检定（DC20）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If no saving throw is mentioned, none is allowed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T124631Z" creationid="quentine" creationdate="20191030T124631Z">
+        <seg>若未提及任何豁免骰，则不可豁免。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18754,6 +19314,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T145403Z" creationid="quentine" creationdate="20190114T145403Z">
         <seg>如果伤害值比巨创阈值小，目标不会被攻击影响到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the amount of healing is more than the damage the creature has taken, it gains any excess as temporary hit points that remain for a maximum of 1 hour.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T135203Z" creationid="quentine" creationdate="20191030T135203Z">
+        <seg>若吸取所得生命值超过自己受的伤害，多余的生命值将作为暂时生命值保留至多1小时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the amount of healing is more than the damage the creature has taken, it gains any excess as temporary hit points.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T125010Z" creationid="quentine" creationdate="20191030T124314Z">
+        <seg>若吸取所得生命值超过自己受的伤害，多余的生命值将作为暂时生命值保留。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19512,8 +20088,8 @@
       <tuv xml:lang="EN-US">
         <seg>If the character’s hit points are already below that score at that time, all the temporary hit points have already been lost, and the character’s hit point total does not drop.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T113930Z" creationid="quentine" creationdate="20190115T113930Z">
-        <seg>当角色生命值已低于那个值，所有的临时生命值都被耗完，角色的生命值就不会再降。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T124921Z" creationid="quentine" creationdate="20190115T113930Z">
+        <seg>当角色生命值已低于那个值，所有的暂时生命值都被耗完，角色的生命值就不会再降。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19702,10 +20278,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the creature also has the improved grab ability (see below), it deals constriction damage in addition to damage dealt by the weapon used to grab.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T131311Z" creationid="quentine" creationdate="20191030T131311Z">
+        <seg>如果生物精通攫抓能力（见下文），则会在攫抓所用武器造成的伤害之外额外造成紧勒的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the creature can attack, it applies its Dexterity modifier to its base attack instead of a Strength modifier.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181103T133452Z" creationid="QuenTine" creationdate="20181103T133452Z">
         <seg>若该生物可以攻击，则使用敏捷调整值代替力量调整值计算基础攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the creature does not constrict, each successful grapple check it makes during successive rounds automatically deals the damage given for the attack that established the hold.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T132701Z" creationid="quentine" creationdate="20191031T132701Z">
+        <seg>如果生物不紧勒，每次成功的擒抱检定将造成最初抓握时所造成的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19798,10 +20390,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the opponent is upwind, the range increases to 60 feet; if downwind, it drops to 15 feet.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T144138Z" creationid="quentine" creationdate="20191031T144138Z">
+        <seg>如果对手在上风处，距离增加至60尺，在下风处，距离减至15尺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the power of the strongest Shadow aura is “overwhelming,” and has a rating of at least twice the Shadow Slayer’s character level, the Slayer is stunned for 1 round and the use of this ability ends.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190601T130324Z" creationid="quentine" creationdate="20190527T141036Z">
         <seg>如果最强暗影的`气场强度`是“凌厉”，并且`能级`大于等于暗影猎手角色等级的两倍，暗影猎手将陷入震慑状态1轮并中止感应。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the result equals or exceeds the creature’s power resistance, the power works normally, although the creature is still allowed a saving throw.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T140423Z" creationid="quentine" creationdate="20191031T140254Z">
+        <seg>若检定结果大于等于生物的灵能抗力，灵力照常生效，但生物仍可以掷豁免骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the result equals or exceeds the creature’s spell resistance, the spell works normally, although the creature is still allowed a saving throw.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T020936Z" creationid="quentine" creationdate="20191102T020936Z">
+        <seg>若检定结果大于等于生物的法术抗力，法术照常生效，但生物仍可以掷豁免骰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20014,6 +20630,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the swallowed opponent chooses the latter course, success puts it back in the creature’s mouth, where it may be bitten or swallowed again.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T025643Z" creationid="quentine" creationdate="20191102T025643Z">
+        <seg>如果被吞噬者选择后者，脱逃成功将会回到吞噬者的嘴里，可能会在此遭到啮咬或吞噬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the target fails the save, his or her attitude toward the other designated character worsens by one step: helpful turns to friendly, friendly to indifferent, indifferent to unfriendly, unfriendly to hostile (see the Diplomacy skill).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190526T134322Z" creationid="quentine" creationdate="20190526T133247Z">
@@ -20106,6 +20730,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T122926Z" creationid="quentine" creationdate="20190704T122926Z">
         <seg>如果不具有此专长的人物不会有特定的劣势，则本项缺省。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If they do not make attacks of opportunity, trampled opponents can attempt Reflex saves for half damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T030307Z" creationid="quentine" creationdate="20191102T030307Z">
+        <seg>如果不想进行借机攻击，被践踏者可以进行反射豁免以让伤害减半。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20312,8 +20944,8 @@
       <tuv xml:lang="EN-US">
         <seg>In addition to the nor-mal requirements for attempting a sideswipe stunt, the character must have sufficient movement re-maining to move a number of squares equal to the character’s turn number.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190801T141836Z" creationid="quentine" creationdate="20190731T135738Z">
-        <seg>除了要满足侧击特技的一般要求外，角色必须保持移动等于`转向距离`的格子数。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T132932Z" creationid="quentine" creationdate="20190731T135738Z">
+        <seg>除了要满足侧击特技的一般要求外，角色必须保持移动等于`转向距离`的方格数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20392,8 +21024,8 @@
       <tuv xml:lang="EN-US">
         <seg>In addition, a Battle Mind must have a key ability score equal to at least 10 + the power’s level to manifest a particular power.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190621T131220Z" creationid="quentine" creationdate="20190621T131220Z">
-        <seg>而且，灵战士必须具备关键的属性点才能释放对应的灵力，所需的属性点为10+灵力等级。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T122247Z" creationid="quentine" creationdate="20190621T131220Z">
+        <seg>而且，灵战士必须具备关键的属性值才能释放对应的灵力，所需的属性值为10+灵力等级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20408,8 +21040,8 @@
       <tuv xml:lang="EN-US">
         <seg>In addition, a Telepath must have a key ability score equal to at least 10 + the power’s level to manifest a particular power.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190619T140221Z" creationid="quentine" creationdate="20190619T140221Z">
-        <seg>而且，异能者必须具备关键的属性点才能释放对应的灵力，所需的属性点为10+灵力等级。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T122247Z" creationid="quentine" creationdate="20190619T140221Z">
+        <seg>而且，异能者必须具备关键的属性值才能释放对应的灵力，所需的属性值为10+灵力等级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20482,6 +21114,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T132348Z" creationid="quentine" creationdate="20190115T132348Z">
         <seg>在之后的每一轮，着火的角色必须再来一次反射豁免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In either case, it’s a free action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T123408Z" creationid="quentine" creationdate="20191031T123408Z">
+        <seg>两种方式都是即时动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20862,6 +21502,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Invisibility and darkness are irrelevant.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T125830Z" creationid="quentine" creationdate="20191030T125830Z">
+        <seg>隐形和黑暗对其无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It allows a Reflex save for half damage with a DC equal to 10 + ½ breathing creature’s HD + breathing creature’s Constitution modifier (the exact DC is given in the creature’s Species Traits).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T130648Z" creationid="quentine" creationdate="20191030T130648Z">
+        <seg>这种伤害允许反射豁免让伤害减半，DC=10+1/2喷吐生物的生命骰+喷吐生物的体质调整值（除非生物的物种特性另有规定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>It always seeks to obey the letter of the Occultist’s command, and can sometimes use this behavior to harm the Occultist or otherwise hinder as much as it helps.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190613T140115Z" creationid="quentine" creationdate="20190613T140115Z">
@@ -20874,6 +21530,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190621T132456Z" creationid="quentine" creationdate="20190621T132456Z">
         <seg>释放这一灵力需要一个移动动作，灵能战刃将持续等同于灵战士等级的轮数，也可由灵战士自行收回。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It can even move, provided it can drag the opponent’s weight.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T133304Z" creationid="quentine" creationdate="20191031T133132Z">
+        <seg>如果能拖动对手的重量，生物甚至可以移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21430,6 +22094,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Massive damage that doesn’t match the creature’s vulnerability reduces its hit points, but such damage automatically heals at a fixed rate, as detailed in the creature’s description.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T141809Z" creationid="quentine" creationdate="20191031T141809Z">
+        <seg>非有效类型的巨创伤害也会杀伤，但此伤害会以一个固定比率恢复，详见生物描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Medicine and forensics.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191022T135928Z" creationid="quentine" creationdate="20191022T135928Z">
@@ -21526,6 +22198,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Most psionic abilities can be used at will and have no use limit.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T140814Z" creationid="quentine" creationdate="20191031T140814Z">
+        <seg>大多数灵能能力能不限次数随意使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Most uses of Autohypnosis are attack actions.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190619T131154Z" creationid="quentine" creationdate="20190619T131145Z">
@@ -21590,10 +22270,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Negating the fear effect requires a successful Will save with a DC equal to 10 + 1/2 fearsome creature’s HD + fearsome creature’s Charisma modifier (the exact DC is given in the creature’s descriptive text).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T124032Z" creationid="quentine" creationdate="20191031T123741Z">
+        <seg>抵抗恐惧效果需要一次成功的意志豁免，DC=10+1/2令人恐惧生物的生命骰+令人恐惧生物的魅力调整值（除非生物的物种特性另有规定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Negative levels remain until 24 hours have passed or until removed with a spell.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T135836Z" creationid="quentine" creationdate="20191030T135836Z">
+        <seg>负向等级将持续24小时，或者被法术移除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>No Wealth check is necessary to use this Craft skill.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190923T130222Z" creationid="quentine" creationdate="20190923T130222Z">
         <seg>使用此制造技能无需财富检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>No initial touch attack is required.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T130847Z" creationid="quentine" creationdate="20191031T130847Z">
+        <seg>这不需要以接触攻击开始。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21774,6 +22478,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>On a failure, the negative level goes away, but the creature’s level is reduced by one.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T140223Z" creationid="quentine" creationdate="20191030T140202Z">
+        <seg>豁免失败，负向等级仍会移除，但生物等级减1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>On a result of 15 or higher, the explosive deals double damage to the structure against which it is placed.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190923T134144Z" creationid="quentine" creationdate="20190923T134003Z">
@@ -21794,6 +22506,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191022T134011Z" creationid="quentine" creationdate="20191022T134011Z">
         <seg>检定成功，角色能精确地辨认出物品的购买DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>On a success, the negative level goes away with no harm to the creature.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T140130Z" creationid="quentine" creationdate="20191030T140130Z">
+        <seg>豁免成功，负向等级则安全移除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22058,6 +22778,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Opponents can avoid the saving throw by averting their eyes or by using a barrier to sight.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T125056Z" creationid="quentine" creationdate="20191031T124939Z">
+        <seg>对手可通过转移视线或阻挡视线避免豁免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Opposed checks also resolve cases where two advocates or diplomats plead opposing cases before a third party.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190924T131239Z" creationid="quentine" creationdate="20190924T131239Z">
@@ -22092,8 +22820,8 @@
       <tuv xml:lang="EN-US">
         <seg>Ordinaries do not roll their ability scores.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T121347Z" creationid="quentine" creationdate="20190703T121347Z">
-        <seg>路人不通过投掷来分配属性点。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T122247Z" creationid="quentine" creationdate="20190703T121347Z">
+        <seg>路人不通过投掷来分配属性值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22110,6 +22838,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190624T132052Z" creationid="quentine" creationdate="20190624T132052Z">
         <seg>其他生物除非有魔法帮助，否则不能理解交谈内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Other effects are possible.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T123651Z" creationid="quentine" creationdate="20191031T123651Z">
+        <seg>但不可能造成其他效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22174,6 +22910,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181106T134758Z" creationid="QuenTine" creationdate="20181106T133748Z">
         <seg>在游戏过程中，英雄购买昂贵物品的时候，财富加值会减少，升级的时候会增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Overpowering scents can be detected at triple normal range.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T144325Z" creationid="quentine" creationdate="20191031T144325Z">
+        <seg>极重的气味的可嗅探距离是通常的三倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22608,6 +23352,38 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Regenerating creatures can regrow and reattach severed body parts.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T142455Z" creationid="quentine" creationdate="20191031T142304Z">
+        <seg>再生生物的残躯会再生或重新接合。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Regeneration also doesn’t restore hit points lost to starvation, thirst, or suffocation.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T142251Z" creationid="quentine" creationdate="20191031T142251Z">
+        <seg>再生也不会恢复因饥饿、口渴或窒息而损失的生命值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Regeneration continues to work no matter how low the creature’s hit points drop, restoring lost hit points from any damage other than from attack forms the creature is specially vulnerable to.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T142859Z" creationid="quentine" creationdate="20191031T142859Z">
+        <seg>再生能恢复任何形式、任何数量的生命值伤害，有效类型的伤害除外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Regeneration doesn’t provide any benefit against attack forms that don’t deal hit point damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T142221Z" creationid="quentine" creationdate="20191031T142221Z">
+        <seg>再生对不造成生命值伤害的攻击没有任何抵抗力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Reloading a revolver without a speed loader, or reloading any firearm with an internal magazine, is a full-round action.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T142252Z" creationid="quentine" creationdate="20190803T142252Z">
@@ -22880,6 +23656,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Severed parts that aren’t reattached wither and die normally.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T142544Z" creationid="quentine" creationdate="20191031T142439Z">
+        <seg>未重新接合的残躯会正常凋零、死亡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Shadow immunity doesn’t reduce the damage dealt by firearms, melee weapons, or hazardous effects.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190611T134443Z" creationid="quentine" creationdate="20190611T134443Z">
@@ -23068,6 +23852,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190130T145041Z" creationid="quentine" creationdate="20190130T145041Z">
         <seg>意即，英雄每晚休息后恢复两倍于角色等级数的生命、两点属性伤害，以及被攻击昏迷后只需花平常一半的时间清醒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some ability drain attacks allow a Fortitude save with a DC of 10 +1/2 draining creature’s HD + draining creature’s Charisma modifier (the exact DC is given in the creature’s descriptive text).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T124601Z" creationid="quentine" creationdate="20191030T124601Z">
+        <seg>一些属性吸取攻击允许对手进行强韧豁免，DC为10+1/2吸取者的生命骰+吸取者的魅力调整值（若对于此DC生物另有规定，则使用规定的DC）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23304,6 +24096,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Spellcasting creatures are not members of an advanced class unless their entries say so, and they do not gain any class features.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T023535Z" creationid="quentine" creationdate="20191102T023535Z">
+        <seg>施法生物的职业都不属于高级职业，除非特别说明，而且施法生物不会获得任何职业专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Spells without random variables are not affected.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190624T143045Z" creationid="quentine" creationdate="20190624T143045Z">
@@ -23434,8 +24234,8 @@
       <tuv xml:lang="EN-US">
         <seg>Starting at 8th level, a Shadow Slayer gains the ability of fast healing.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190611T142514Z" creationid="quentine" creationdate="20190611T142514Z">
-        <seg>8级时，暗影猎手能快速愈合。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T122207Z" creationid="quentine" creationdate="20190611T142514Z">
+        <seg>8级时，暗影猎手能快速痊愈。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23444,6 +24244,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190523T130834Z" creationid="quentine" creationdate="20190523T130834Z">
         <seg>机器人的属性在生物列表里列出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Strong scents can be detected at twice the ranges noted above.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T144212Z" creationid="quentine" creationdate="20191031T144212Z">
+        <seg>强烈的气味的可嗅探距离是通常的两倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23460,6 +24268,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T132422Z" creationid="quentine" creationdate="20190115T132422Z">
         <seg>成功则意味着火焰被灭掉了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Such damage can’t be regenerated, and massive damage from such an attack follows the normal massive damage rules.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T142145Z" creationid="quentine" creationdate="20191031T142145Z">
+        <seg>这种伤害无法再生，且有效类型的巨创伤害遵循一般的巨创伤害规则。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23648,6 +24464,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Temporary ability damage returns at the rate of 1 point per day.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T125354Z" creationid="quentine" creationdate="20191030T125354Z">
+        <seg>被伤害的属性以每天1点的速率返还。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Termination: This License will terminate automatically if You fail to comply with all terms herein and fail to cure such breach within 30 days of becoming aware of the breach.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181022T113323Z" creationid="QuenTine" creationdate="20181022T113323Z">
@@ -23668,6 +24492,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190526T133819Z" creationid="quentine" creationdate="20190526T131531Z">
         <seg>一般情况下，不管和谈判专家有什么关系，或者情境如何，目标都将立即停止战斗，态度转变为`不关心`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>That opponent must attempt a saving throw but can try to avoid the gaze as described above.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T125947Z" creationid="quentine" creationdate="20191031T125947Z">
+        <seg>被凝视的对手必须进行一次豁免，但也可以尝试用以上方式避开视线。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24240,6 +25072,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The DC is equal to 10 + 1/2 gazing creature’s HD + gazing creature’s Charisma modifier (the exact DC is given in the creature’s Species Traits).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T124606Z" creationid="quentine" creationdate="20191031T124606Z">
+        <seg>DC=10+1/2凝视者生命骰+凝视者魅力调整值（除非生物的物种特性另有规定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The DC is equal to 10 + Negotiator’s class level + Negotiator’s Charisma bonus.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190526T132006Z" creationid="quentine" creationdate="20190526T132006Z">
@@ -24492,6 +25332,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190926T140052Z" creationid="quentine" creationdate="20190926T140038Z">
         <seg>伪造文书技能同样用于鉴别他人的伪造。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The Fortitude save against poison has a DC equal to 10 + 1/2 poisoning creature’s HD + poisoning creature’s Constitution modifier (the exact DC is given in the creature’s Species Traits).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T135552Z" creationid="quentine" creationdate="20191031T135552Z">
+        <seg>对毒素的强韧豁免DC=10+1/2毒素生物HD+毒素生物的体质调整值（除非生物的物种特性另有规定）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25472,10 +26320,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The ability otherwise follows the rules for the Track feat.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T020545Z" creationid="quentine" creationdate="20191102T020545Z">
+        <seg>此能力的其他规则与`追踪`专长相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The ability’s range is specified in the creature’s descriptive text.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T125956Z" creationid="quentine" creationdate="20191030T125956Z">
+        <seg>感受距离见生物描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The allegiances system is optional.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181103T141638Z">
         <seg>阵营机制为可选机制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The amount of damage is given in the creature’s entry.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T131056Z" creationid="quentine" creationdate="20191030T131056Z">
+        <seg>造成的伤害数量见生物说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The amount of damage reduction is irrelevant.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T133857Z" creationid="quentine" creationdate="20191030T133536Z">
+        <seg>伤害减免的量对此没有意义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25508,6 +26388,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T120301Z" creationid="quentine" creationdate="20190216T120301Z">
         <seg>下表总结了基本职业和高级职业的联系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The attack can have almost any sort of effect: petrification, death, charm, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T124328Z" creationid="quentine" creationdate="20191031T124328Z">
+        <seg>攻击会产生任何形式的效果：石化、死亡、魅惑等等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26140,8 +27028,8 @@
       <tuv xml:lang="EN-US">
         <seg>The character has lost 1 or more ability score points.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T115638Z" creationid="quentine" creationdate="20190115T115638Z">
-        <seg>角色失去一点或更多的属性点。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T122247Z" creationid="quentine" creationdate="20190115T115638Z">
+        <seg>角色失去一点或更多的属性值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26628,6 +27516,30 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The creature can detect opponents within 30 feet by sense of smell.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T144043Z" creationid="quentine" creationdate="20191031T144043Z">
+        <seg>生物能通过嗅觉侦测30尺内的对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The creature can still distinguish colors, even in dim lighting.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T135147Z" creationid="quentine" creationdate="20191031T135147Z">
+        <seg>生物仍能分辨颜色，即使是在昏暗的光线下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The creature can take a move or attack action to note the direction of the scent.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T144512Z" creationid="quentine" creationdate="20191031T144512Z">
+        <seg>生物可以用一个移动或攻击动作来找出气味的方向。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The creature fails all Reflex saves and Dexterity checks.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181103T134240Z" creationid="QuenTine" creationdate="20181103T134240Z">
@@ -26636,10 +27548,74 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The creature has the option to conduct the grapple normally, or simply use the part of its body it used in the improved grab to hold the opponent.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T133138Z" creationid="quentine" creationdate="20191031T131301Z">
+        <seg>生物可选择正常擒抱，或者只是使用身体的一部分进行攫抓以将对手`抓握`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The creature is also immune to ability damage, ability drain, energy drain, and massive damage, and always fails Constitution checks.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181103T135005Z" creationid="QuenTine" creationdate="20181103T135005Z">
-        <seg>这类生物同样免疫属性伤害、属性流失、能量流失和重击，但在进行体质检定时必然失败。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T123808Z" creationid="QuenTine" creationdate="20181103T135005Z">
+        <seg>这类生物同样免疫属性伤害、属性吸取、能量吸取和重击，但在进行体质检定时必然失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The creature is not considered grappled while it holds the opponent, so it still threatens adjacent squares and retains its Dexterity bonus.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T133119Z" creationid="quentine" creationdate="20191031T133119Z">
+        <seg>生物在抓握对手时不会视为被擒抱状态，所以仍会威胁邻近方格并保留敏捷加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The creature takes normal damage from energy attacks (even nonmagical ones), spells, spell-like abilities, and supernatural abilities.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T131917Z" creationid="quentine" creationdate="20191030T131802Z">
+        <seg>在受到能量（即使是非魔法的）、法术、类法术能力和超自然能力的攻击时，生物将受到全额伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The creature usually does not need to make Spot or Listen checks to notice creatures within range of its blindsight ability.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T130045Z" creationid="quentine" creationdate="20191030T130045Z">
+        <seg>生物通常不需要进行侦察或聆听检定来注意盲视范围内的生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The creature with the gaze attack gains total concealment against the opponent.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T125640Z" creationid="quentine" creationdate="20191031T125640Z">
+        <seg>凝视攻击的生物对此对手全隐蔽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The creature with the gaze attack, however, gains one-half concealment against that opponent.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T125418Z" creationid="quentine" creationdate="20191031T125418Z">
+        <seg>但凝视攻击的生物也对此对手半隐蔽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The creature’s descriptive text gives the ability and the amount drained.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T123808Z" creationid="quentine" creationdate="20191030T122918Z">
+        <seg>吸取的属性值种类和大小取决于生物的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The creature’s descriptive text gives the ability and the amount of damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T125158Z" creationid="quentine" creationdate="20191030T125158Z">
+        <seg>生物的描述将给出所伤害的能力种类和大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26760,6 +27736,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190611T140738Z" creationid="quentine" creationdate="20190611T140710Z">
         <seg>增强加值持续的轮数等于暗影猎手的本职业等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The entry indicates the amount and type of damage ignored.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T143341Z" creationid="quentine" creationdate="20191031T143341Z">
+        <seg>此项标明了所无视的伤害量和伤害类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The entry indicates the amount of damage ignored and the type of weapon that negates the ability.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T132841Z" creationid="quentine" creationdate="20191030T132841Z">
+        <seg>此项标明了伤害减免的量，以及无视此能力的武器类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27700,6 +28692,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The save DC equals 10 + 1/2 trampling creature’s HD + trampling creature’s Strength modifier (the exact DC is given in the creature’s descriptive text).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T030432Z" creationid="quentine" creationdate="20191102T030432Z">
+        <seg>豁免DC=10+1/2践踏者生命骰+践踏者力量调整值（除非生物描述另有规定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The second is a check to defeat computer security (see the Computer Use skill description).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T143935Z" creationid="quentine" creationdate="20190916T143935Z">
@@ -28037,10 +29037,42 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The trample deals bludgeoning damage, and the creature’s descriptive text lists the amount.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T030133Z" creationid="quentine" creationdate="20191102T030133Z">
+        <seg>践踏产生碾压伤害，伤害量见生物的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The type of saving throw for a gaze attack varies, but it is usually a Will or Fortitude save.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T124444Z" creationid="quentine" creationdate="20191031T124444Z">
+        <seg>豁免凝视攻击所需的检定有很多种，但通常是意志或强韧豁免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The typical DC for a fresh trail is 10 (no matter what kind of surface holds the scent).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T144842Z" creationid="quentine" creationdate="20191031T144748Z">
+        <seg>追踪一个新鲜痕迹通常需要10点DC（不管气味源用什么覆盖着）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The typical dilettante has no job, few re-sponsibilities, and at least one driving passion that -occupies his or her day.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T132717Z" creationid="QuenTine" creationdate="20181104T131726Z">
         <seg>典型的富二代不用工作，也不用担负很重的责任。至少有一件事能燃烧其激情，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The typical range is 30 feet, but check the creature’s entry for details.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T124406Z" creationid="quentine" creationdate="20191031T124406Z">
+        <seg>标准距离是30尺，除非生物另有说明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28253,6 +29285,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>These creatures are subject to the same spellcasting rules as characters.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T023420Z" creationid="quentine" creationdate="20191102T023420Z">
+        <seg>这些生物遵循和角色一样的施法规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>These robots serve as the Techie’s eyes, ears, or hands out to a predetermined distance away from the character when the Techie wants to use one of the following skills: Computer Use, Demolitions, Disable Device, Listen, Repair, or Spot.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190522T141943Z" creationid="quentine" creationdate="20190522T141943Z">
@@ -28351,8 +29391,8 @@
       <tuv xml:lang="EN-US">
         <seg>They begin with the same ability score package as ordinaries (15, 14, 13, 12, 10, 8), but their ability scores are reduced as follows: –3 Str, –1 Dex, –3 Con, –1 Int, –1 Wis, –1 Cha.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T122746Z" creationid="quentine" creationdate="20190703T122746Z">
-        <seg>他们拥有和路人一样的待分配属性值（15、14、13、12、10、8），但属性点降至：-3力、-1敏、-3体、-1智、-1感、-1魅。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T122247Z" creationid="quentine" creationdate="20190703T122746Z">
+        <seg>他们拥有和路人一样的待分配属性值（15、14、13、12、10、8），但属性值降至：-3力、-1敏、-3体、-1智、-1感、-1魅。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28421,6 +29461,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>This DC increases or decreases depending on the strength of the quarry’s odor, the number of creatures being tracked, and the age of the trail.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T015954Z" creationid="quentine" creationdate="20191102T013447Z">
+        <seg>DC还会根据气味的浓度、追踪的生物数量、和踪迹的留存时间增减。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>This Shadow creature may or may not be overtly hostile toward humans, but it tolerates the Occultist.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190613T133746Z" creationid="quentine" creationdate="20190613T133708Z">
@@ -28441,6 +29489,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T071115Z" creationid="quentine" creationdate="20190202T121441Z">
         <seg>这个能力可以选取多次（解锁另一个性别）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This ability can freeze an opponent or cause opponents to become panicked.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T123539Z" creationid="quentine" creationdate="20191031T123539Z">
+        <seg>此能力能让一个对手冻结或恐慌。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28506,6 +29562,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190421T121451Z" creationid="quentine" creationdate="20190421T121451Z">
         <seg>4级时，勇士一轮内的单个动作可以花费两点行动点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This act does not provoke attacks of opportunity.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T132959Z" creationid="quentine" creationdate="20191031T132959Z">
+        <seg>此行为不会引发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28650,6 +29714,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190924T135738Z" creationid="quentine" creationdate="20190924T135738Z">
         <seg>但这可能会起反效果，一些角色会因贿赂而感到受辱（态度下降一级），其他人甚至会向有关部门举报英雄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This can be accomplished by turning one’s back on the creature, shutting one’s eyes, or wearing a blindfold or head covering that prevents sight.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T125613Z" creationid="quentine" creationdate="20191031T125613Z">
+        <seg>这可以通过背对此生物、闭眼、或者戴上眼罩头罩来实现。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29004,6 +30076,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191027T071511Z" creationid="quentine" creationdate="20191027T071511Z">
         <seg>语言包括但不限于此——还有更多语族，语族也包含更多语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This loss can be permanent or temporary</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T122423Z" creationid="quentine" creationdate="20191030T122423Z">
+        <seg>损失既可能是永久的也可能是暂时的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29388,8 +30468,8 @@
       <tuv xml:lang="EN-US">
         <seg>Those who come within 5 feet of a large body of acid must make a Fortitude save (DC 15) or take 1 point of temporary Constitution damage.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T143635Z" creationid="quentine" creationdate="20190115T143635Z">
-        <seg>进入大体积酸雾至5尺深的角色必须进行一次强韧豁免（DC15），失败则受到1点临时体质伤害。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T124941Z" creationid="quentine" creationdate="20190115T143635Z">
+        <seg>进入大体积酸雾至5尺深的角色必须进行一次强韧豁免（DC15），失败则受到1点暂时体质伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29406,6 +30486,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181024T044522Z" creationid="QuenTine" creationdate="20181024T043605Z">
         <seg>因此两次乘以2的计算结果是乘以3（2+1=3）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thus, a target may need to save against a creature’s gaze twice during the same round:** once before the target’s action and once during the creature’s turn.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T130247Z" creationid="quentine" creationdate="20191031T130247Z">
+        <seg>因此，目标需要在同一轮内豁免生物的凝视两次：**一次是在目标的回合，行动之前，另一次是在凝视者的回合。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29478,6 +30566,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190805T125657Z" creationid="QuenTine" creationdate="20181106T133258Z">
         <seg>要决定一个角色的初始财富加值，掷2d4加上角色职业背景的财富加值，再加上（如果有的话）横财专长的加值，如果角色在`专业`上拥有级数则还要再加1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To determine whether a spell or spell-like ability works, the psionic power manifester must make a level check (1d20 + manifester’s level).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T140221Z" creationid="quentine" creationdate="20191031T140221Z">
+        <seg>灵力释放者必须做一个等级检定（1d20+释放者等级）来检定法术或类法术能力是否生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To determine whether a spell or spell-like ability works, the spellcaster must make a level check (1d20 + caster level).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T020913Z" creationid="quentine" creationdate="20191102T020913Z">
+        <seg>施法者必须做一个等级检定（1d20+施法者等级）来检定法术或类法术能力是否生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29818,6 +30922,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Trampled opponents can attempt attacks of opportunity, but these incur a –4 penalty.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T030214Z" creationid="quentine" creationdate="20191102T030214Z">
+        <seg>被践踏者可以进行借机攻击，但有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Tumble can provide a +2 synergy bonus on Jump checks (see Skill Synergy).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T143254Z" creationid="quentine" creationdate="20191021T143254Z">
@@ -29894,6 +31006,30 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190921T125221Z" creationid="quentine" creationdate="20190921T125221Z">
         <seg>昏迷持续1d3小时，麻痹持续2d6分钟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unless noted otherwise, the opponent can be up to one size category smaller than the swallowing creature.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T024709Z" creationid="quentine" creationdate="20191102T024709Z">
+        <seg>除非另有说明，活吞只能作用于体型比自己小一级以及更小的对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unless otherwise noted, another saving throw is required 1 minute later (regardless of the first save’s result) to avoid secondary damage.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T135444Z" creationid="quentine" creationdate="20191031T135444Z">
+        <seg>除非另有说明，1分钟后（不管初次豁免成功与否）需再次进行豁免检定抵抗再次伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unless otherwise stated, improved grab works only against opponents at least one size category smaller than the creature.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T131021Z" creationid="quentine" creationdate="20191031T131021Z">
+        <seg>除非另有说明，精通攫抓只能作用于体型比自己小一级以及更小的对手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30164,8 +31300,8 @@
       <tuv xml:lang="EN-US">
         <seg>When a character gains temporary hit points, make a note of his or her current hit points before adding the temporary hit points.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T113843Z" creationid="quentine" creationdate="20190115T113843Z">
-        <seg>当角色获得临时生命值，记下角色获得前的生命值。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T124913Z" creationid="quentine" creationdate="20190115T113843Z">
+        <seg>当角色获得暂时生命值，记下角色获得前的生命值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30334,6 +31470,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T123230Z" creationid="quentine" creationdate="20190703T123230Z">
         <seg>当儿童到了12岁，将视为青少年，将获得第一个基础职业等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When a creature detects a scent, the exact location is not revealed—only its presence somewhere within range.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T144429Z" creationid="quentine" creationdate="20191031T144429Z">
+        <seg>生物嗅探到气味并不能揭示气味源的准确位置，只能知道气味源在嗅探范围内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When a creature gets a hold after an improved grab attack, it pulls the opponent into its space.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T132844Z" creationid="quentine" creationdate="20191031T132844Z">
+        <seg>生物用精通攫抓抓握对手，会把对手拖拽至自己的方格内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30554,6 +31706,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>When resolving a turn or rebuke attempt, add the given bonus to the creature’s Hit Dice total.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T032416Z" creationid="quentine" creationdate="20191102T032416Z">
+        <seg>结算驱散或斥喝时，将给定加值加到生物的生命骰上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>When successfully completed, a mastercraft object provides a +1 bonus to its quality compared to an ordinary object of the same type.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190523T140832Z" creationid="quentine" creationdate="20190523T135312Z">
@@ -30564,8 +31724,8 @@
       <tuv xml:lang="EN-US">
         <seg>When temporary hit points are lost, they can’t be restored as real hit points can be, even with medical treatment or magic.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190611T142848Z" creationid="quentine" creationdate="20190115T113958Z">
-        <seg>当损失了临时生命值，它们不能像真实的生命值那样恢复，即使使用医疗或者魔法都不可以。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T124926Z" creationid="quentine" creationdate="20190115T113958Z">
+        <seg>当损失了暂时生命值，它们不能像真实的生命值那样恢复，即使使用医疗或者魔法都不可以。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30626,6 +31786,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>When the creature takes massive damage from an attack type it isn’t vulnerable to, a failed save renders it dazed for 1 round (instead of reducing it to –1 hit points).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T142008Z" creationid="quentine" creationdate="20191031T142008Z">
+        <seg>当生物受到非有效类型的巨创伤害时，豁免失败将造成1轮的眩晕（而不是使生命值减至-1）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>When the hero can spend a full round directing his or her allies and makes a Charisma check (DC 10), the hero provides any of his or her allies within 30 feet a +1 bonus on their attack rolls and skill checks.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190216T073630Z" creationid="quentine" creationdate="20190216T073630Z">
@@ -30660,8 +31828,8 @@
       <tuv xml:lang="EN-US">
         <seg>When the temporary hit points go away, the character’s hit points drop to that score.</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T113902Z" creationid="quentine" creationdate="20190115T113902Z">
-        <seg>当临时生命值消失，角色的生命值将减至那个值。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T124915Z" creationid="quentine" creationdate="20190115T113902Z">
+        <seg>当暂时生命值消失，角色的生命值将减至那个值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30882,6 +32050,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>With each successful melee attack, the creature bestows one or more negative levels.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T134855Z" creationid="quentine" creationdate="20191030T134855Z">
+        <seg>每次成功的近战攻击，此生物都会给对手赋予一个或多个负向等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>With the GM’s permission, the character gains a +2 circumstance bonus on Charisma-based skill checks when dealing with someone of the same allegiance—as long as the character has had some interaction with the other character to discover the connections and bring the bonus into play.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181104T082156Z">
@@ -30966,6 +32142,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T135627Z" creationid="quentine" creationdate="20190730T135627Z">
         <seg>角色若没有这个专长， 用自动武器攻击特定目标只能算作正常情况下的范围攻击，浪费更多子弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Wounds heal im-mediately, or the weapon bounces off harmlessly (in either case, the opponent knows the attack was ineffective).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T131640Z" creationid="quentine" creationdate="20191030T131640Z">
+        <seg>伤口会立即治好，或者完全忽视武器伤害（无论如何，对手也知道攻击无效）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31298,8 +32482,8 @@
       <tuv xml:lang="EN-US">
         <seg>\*If damage is sustained, make a second saving throw to avoid 1 point being permanently drained (instead of damaged).</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T143149Z" creationid="quentine" creationdate="20190115T143149Z">
-        <seg>\* 若伤害已造成，再进行一次豁免以避免1点永久性的属性流失（而不是伤害）。</seg>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T123808Z" creationid="quentine" creationdate="20190115T143149Z">
+        <seg>\* 若伤害已造成，再进行一次豁免以避免1点永久性的属性吸取（而不是伤害）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32459,7 +33643,7 @@
 |9th|+9|+4|+4|+4|Bonus feat|+5|+2|
 |10th|+10|+5|+5|+5|Word of slaying|+5|+2|</seg>
       </tuv>
-      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190527T135235Z" creationid="quentine" creationdate="20190527T135235Z">
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T122207Z" creationid="quentine" creationdate="20190527T135235Z">
         <seg>|等级|基础攻击加值|强韧豁免|反射豁免|意志豁免|特殊|防御加值|声望加值|
 |:--------|:-------|:-------|:---------|:-----------|:---------|:----------|:-------------|
 |1st|+1|+1|+1|+1|探查暗影|+1|+0|
@@ -32469,7 +33653,7 @@
 |5th|+5|+3|+3|+3|影之天敌|+3|+1|
 |6th|+6|+3|+3|+3|奖励专长|+3|+1|
 |7th|+7|+4|+4|+4|影之天敌|+4|+1|
-|8th|+8|+4|+4|+4|快速愈合|+4|+1|
+|8th|+8|+4|+4|+4|快速痊愈|+4|+1|
 |9th|+9|+4|+4|+4|奖励专长|+5|+2|
 |10th|+10|+5|+5|+5|猎影之言|+5|+2|</seg>
       </tuv>
