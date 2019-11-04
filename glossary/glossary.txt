@@ -928,3 +928,10 @@ bitten	啮咬
 Trample	践踏
 bludgeon	碾压
 Turn Resistance	驱散抗力
+On-Hand Objects	寻常物品
+Restricted	管制
+Military	军用	物品管制等级
+Illegal	非法
+Requisitioning	申调
+holster	装具
+Carrying Capacity	负重能力
