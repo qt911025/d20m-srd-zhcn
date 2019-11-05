@@ -6154,6 +6154,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Bigger and Smaller Creatures:** The figures on Table: Carrying Capacity are for Medium-size bipedal creatures.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T135055Z" creationid="quentine" creationdate="20191105T135055Z">
+        <seg>**体型较大或较小的生物：** 表：负重能力是以普通尺寸的双足生物为准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Blindsight (Ex):** Using nonvisual senses, such as sensitivity to vibrations, scent, acute hearing, or echolocation, the creature maneuvers and fights as well as a sighted creature.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20191030T125741Z" creationid="quentine" creationdate="20191030T125741Z">
@@ -7678,6 +7686,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T115524Z" creationid="quentine" creationdate="20190116T115524Z">
         <seg>**等级：** 角色职业等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>**Lifting and Dragging:** A character can lift up to his or her maximum load over his or her head.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T134249Z" creationid="quentine" creationdate="20191105T134249Z">
+        <seg>**举重和拖行：** 角色可将重量为其最大负重的物品举过头顶。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10259,6 +10275,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>**Tremendous Strength:** For Strength scores not listed, find the Strength score between 20 and 29 that has the same ones digit as the creature’s Strength score.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T135903Z" creationid="quentine" creationdate="20191105T135903Z">
+        <seg>**超乎寻常的力量：** 对于未列在表中的力量值，从表中力量值20到29中，根据该生物力量值个位数找到对应的负重数值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>**Trick:**</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190201T151736Z" creationid="quentine" creationdate="20190201T151736Z">
@@ -11673,6 +11697,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character can generally push or drag along the ground up to five times his or her maximum load.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T134658Z" creationid="quentine" creationdate="20191105T134658Z">
+        <seg>角色在一般情况下可以推动或拖行五倍于最大负重的物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character can go without food for three days, in growing discomfort.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T132948Z" creationid="quentine" creationdate="20190115T132948Z">
@@ -11701,6 +11733,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20191027T142136Z" creationid="quentine" creationdate="20191027T141957Z">
         <seg>角色可以闭气等同于其体质值的轮数，但前提是角色只做了移动动作和即时动作没做别的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A character can lift up to double his or her maximum load off the ground, but he or she can only stagger around with it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T134445Z" creationid="quentine" creationdate="20191105T134445Z">
+        <seg>角色可将两倍于最大负重的重量搬离地面，但只能勉强移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12785,6 +12825,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A character’s carrying capacity depends directly on the character’s Strength score, as shown on Table: Carrying Capacity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T130027Z" creationid="quentine" creationdate="20191105T130027Z">
+        <seg>角色的负重能力直接取决于角色的力量值，如`表：负重能力`所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A character’s class and level grant an innate bonus to Defense.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T115706Z" creationid="quentine" creationdate="20190114T115706Z">
@@ -13053,6 +13101,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190802T140942Z" creationid="quentine" creationdate="20190115T122836Z">
         <seg>措手不及的角色在防御时，敏捷加值不会生效，且无法进行借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A heavily encumbered character performs as if his or her Dexterity modifier were no higher than +1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T133800Z" creationid="quentine" creationdate="20191105T133800Z">
+        <seg>重度累赘角色的敏捷调整值将限定在不超过+1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A heavily encumbered character’s speed is reduced to the value given below, if the character is not already slowed to that speed for some other reason.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T133616Z" creationid="quentine" creationdate="20191105T133616Z">
+        <seg>重度负载的角色的速度将减至下表所示的速度，如果角色未因其他原因减至该速度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14831,6 +14895,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190611T140625Z" creationid="quentine" creationdate="20190611T140625Z">
         <seg>强效化的武器只有握在施展者手中才能享受此增强加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An encumbered character performs as if his or her Dexterity modifier were no higher than +3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T133003Z" creationid="quentine" creationdate="20191105T133003Z">
+        <seg>累赘角色的敏捷调整值将限定在不超过+3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An encumbered character’s speed is reduced to the value given below, if the character is not already slowed to that speed for some other reason.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T133635Z" creationid="quentine" creationdate="20191105T132727Z">
+        <seg>累赘的角色速度将减至下表所示的速度，如果角色未因其他原因减至该速度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18376,6 +18456,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Favorable conditions (smooth ground, dragging a slick object) can double these numbers, and bad circumstances (broken ground, pushing an object that snags) can reduce them to one-half or less.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T134922Z" creationid="quentine" creationdate="20191105T134922Z">
+        <seg>有利条件下（光滑的地面、拖动光滑的物品）可拖行重量加倍，不利条件下（破损的地面、推动被阻碍的物品）可拖行重量减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Favors can also be used to acquire the loan of equipment or documents, or to receive other minor assistance in the course of an adventure.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190203T041021Z" creationid="quentine" creationdate="20190202T122911Z">
@@ -18396,6 +18484,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190114T124015Z" creationid="quentine" creationdate="20190114T124015Z">
         <seg>专长：有的专长为防御提供加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Finally, a heavily encumbered character’s maximum running speed is his or her speed x3 instead of speed x4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T133916Z" creationid="quentine" creationdate="20191105T133916Z">
+        <seg>最后，重度累赘角色的最高奔跑速度是3倍而非4倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21120,6 +21216,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the weight of a character’s gear falls in his or her heavy load range, the character is considered heavily encumbered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T133458Z" creationid="quentine" creationdate="20191105T133458Z">
+        <seg>如果角色负重处于重度负载区间，角色被视为处于`重度负载`状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the weight of everything a character is wearing or carrying amounts to no more than his or her light load figure, the character can move and perform any actions normally (though the character’s speed might already be slowed by the armor he or she is wearing).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T132201Z" creationid="quentine" creationdate="20191105T132201Z">
+        <seg>如果角色穿着或承载的所有物品总重量不超过其轻度负载，角色可正常移动和做任何动作（但角色会被护甲的减速属性所减速）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the weight of the character’s gear falls in his or her medium load range, the character is considered encumbered.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T132616Z" creationid="quentine" creationdate="20191105T132616Z">
+        <seg>如果角色负重处于中度负载区间，角色被视为处于`累赘`状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there is no danger associated with failing, the character can take 20.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20191021T142953Z" creationid="quentine" creationdate="20191021T142953Z">
@@ -21500,6 +21620,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190115T121152Z" creationid="quentine" creationdate="20190115T121152Z">
         <seg>此外，角色的防御有两点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, the character takes a –3 encumbrance penalty on attack rolls and checks involving the following skills: Balance, Climb, Escape Artist, Hide, Jump, Move Silently, and Tumble.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T133246Z" creationid="quentine" creationdate="20191105T133203Z">
+        <seg>此外，角色的攻击骰和涉及`平衡`、`攀爬`、`脱逃`、`躲藏`、`跳跃`、`潜行`、`翻滚`的检定都承受3点累赘减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In addition, the character takes a –6 encumbrance penalty on attack rolls and checks involving the following skills: Balance, Climb, Escape Artist, Hide, Jump, Move Silently, and Tumble.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T133836Z" creationid="quentine" creationdate="20191105T133836Z">
+        <seg>此外，角色的攻击骰和涉及`平衡`、`攀爬`、`脱逃`、`躲藏`、`跳跃`、`潜行`、`翻滚`的检定都承受6点累赘减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22376,6 +22512,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Larger bipedal creatures can carry more weight depending on size category: Large x2, Huge x4, Gargantuan x8, and Colossal x16.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T135248Z" creationid="quentine" creationdate="20191105T135248Z">
+        <seg>更大的双足生物可根据体型负载更大重量：大型×2、超大型×4、巨型×8、超巨型×16。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Law enforcement personnel include uniformed police, state troopers, federal police, federal agents, SWAT team members, and military police.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="QuenTine" changedate="20181104T140053Z" creationid="QuenTine" creationdate="20181104T140053Z">
@@ -22762,6 +22906,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Multiply the figures by 4 if the creature’s Strength is in the 30s, 16 if it’s in the 40s, 64 if it’s in the 50s, and so on.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T140010Z" creationid="quentine" creationdate="20191105T140010Z">
+        <seg>然后十位数字每多10点就相应把负重数值乘以4（30多乘以4、40多乘以16、50多乘以64等等）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Natural Armor: Some creatures have natural armor, which usually consists of scales, fur, or layers of thick muscle.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190806T141809Z" creationid="quentine" creationdate="20190114T124026Z">
@@ -22798,6 +22950,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190923T130222Z" creationid="quentine" creationdate="20190923T130222Z">
         <seg>使用此制造技能无需财富检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No character can move or perform any other actions while carrying more than his or her maximum load.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T134053Z" creationid="quentine" creationdate="20191105T134053Z">
+        <seg>承载负重超过最大值的角色无法移动或做其他动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23860,6 +24020,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Quadrupeds, such as horses, can carry heavier loads than characters can.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T135427Z" creationid="quentine" creationdate="20191105T135427Z">
+        <seg>四足生物，比如马，能比角色负载更重的重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ranks indicate how much training or experience a character has with a given skill.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190805T133450Z" creationid="quentine" creationdate="20190805T133450Z">
@@ -24404,6 +24572,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smaller creatures can carry less weight depending on size category: Small x3/4, Tiny x1/2, Diminutive x1/4, and Fine x1/8.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T135347Z" creationid="quentine" creationdate="20191105T135347Z">
+        <seg>更小的生物可根据体型负载更小的重量：小型×3/4、超小型×1/2、微型×1/4、超微型1/8。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Smoke also obscures vision, giving one-half concealment (20% miss chance) to characters within it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190730T141611Z" creationid="quentine" creationdate="20190115T134140Z">
@@ -24944,6 +25120,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190216T094814Z" creationid="quentine" creationdate="20190216T094814Z">
         <seg>表：年龄效果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table: Carrying Capacity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T130032Z" creationid="quentine" creationdate="20191105T130032Z">
+        <seg>表：负重能力</seg>
       </tuv>
     </tu>
     <tu>
@@ -28512,6 +28696,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The figure at the upper end of a character’s heavy load range is his or her maximum load.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T134001Z" creationid="quentine" creationdate="20191105T134001Z">
+        <seg>重度负载区间的上界就是角色的最大负重。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The first check (DC 10) is needed to find the site on the net.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190916T143854Z" creationid="quentine" creationdate="20190916T143854Z">
@@ -30586,6 +30778,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This encumbrance penalty stacks with any armor penalty that may also apply.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T133321Z" creationid="quentine" creationdate="20191105T133302Z">
+        <seg>累赘减值将与其他任何生效的护甲减值叠加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This entry details special characteristics of the class, including bonus feats and unique talents, that are gained as a character attains higher levels in the class.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190116T120159Z" creationid="quentine" creationdate="20190116T120159Z">
@@ -31934,6 +32134,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Use these multipliers instead of the ones given above: Fine x1/4, Diminutive x1/2, Tiny x3/4, Small x1, Medium-size x1.5, Large x3, Huge x6, Gargantuan x12, and Colossal x24.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T135642Z" creationid="quentine" creationdate="20191105T135642Z">
+        <seg>使用此乘数而非用上述规则：超微型×1/4、微型×1/2、超小型×3/4、小型×1、普通×1.5、大型×3、超大型×6、巨型×12、超巨型×24。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Use this skill to activate magic devices, including scrolls and wands, that you could not otherwise activate.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190612T122955Z" creationid="quentine" creationdate="20190612T122856Z">
@@ -32722,6 +32930,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="quentine" changedate="20190808T140121Z" creationid="quentine" creationdate="20190808T140028Z">
         <seg>无论是发送还是接收密信，失败5点或更多将意味着其中一方表达错误或另一方曲解了密信的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While overloaded in this way, the character loses any Dexterity bonus to Defense and can only move 5 feet per round (as a full-round action).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T134606Z" creationid="quentine" creationdate="20191105T134606Z">
+        <seg>这时角色的防御将失去敏捷加值，且每轮只能以一个整轮动作移动5尺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35490,6 +35706,46 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>|Previous Speed|Current Speed|
+|:------------:|:-----------:|
+|20 ft|10 ft|
+|30 ft|15 ft|
+|40 ft|20 ft|
+|50 ft|25 ft|
+|60 ft|30 ft|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T133742Z" creationid="quentine" creationdate="20191105T133742Z">
+        <seg>|原速度|现速度|
+|:------------:|:-----------:|
+|20 尺|10 尺|
+|30 尺|15 尺|
+|40 尺|20 尺|
+|50 尺|25 尺|
+|60 尺|30 尺|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Previous Speed|Current Speed|
+|:------------:|:-----------:|
+|20 ft|15 ft|
+|30 ft|20 ft|
+|40 ft|30 ft|
+|50 ft|40 ft|
+|60 ft|50 ft|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T132808Z" creationid="quentine" creationdate="20191105T132808Z">
+        <seg>|原速度|现速度|
+|:------------:|:-----------:|
+|20 尺|15 尺|
+|30 尺|20 尺|
+|40 尺|30 尺|
+|50 尺|40 尺|
+|60 尺|50 尺|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>|Ranks|Wealth Bonus Increase|
 |:---:|:-------------------:|
 |1–5|+1|
@@ -35810,6 +36066,76 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |20–24|专业|
 |25–30|行家|
 |31及更高|大师|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>|Strength|Light Load|Medium Load|Heavy Load|
+|:------:|:--------:|:---------:|:--------:|
+|1|up to 3 lb|4–6 lb|7–10 lb|
+|2|up to 6 lb|7–13 lb|14–20 lb|
+|3|up to 10 lb|11–20 lb|21–30 lb|
+|4|up to 13 lb|14–26 lb|27–40 lb|
+|5|up to 16 lb|17–33 lb|34–50 lb|
+|6|up to 20 lb|21–40 lb|41–60 lb|
+|7|up to 23 lb|24–46 lb|47–70 lb|
+|8|up to 26 lb|27–53 lb|54–80 lb|
+|9|up to 30 lb|31–60 lb|61–90 lb|
+|10|up to 33 lb|34–66 lb|67–100 lb|
+|11|up to 38 lb|39–76 lb|77–115 lb|
+|12|up to 43 lb|44–86 lb|87–130 lb|
+|13|up to 50 lb|51–100 lb|101–150 lb|
+|14|up to 58 lb|59–116 lb|117–175 lb|
+|15|up to 66 lb|67–133 lb|134–200 lb|
+|16|up to 76 lb|77–153 lb|154–230 lb|
+|17|up to 86 lb|87–173 lb|174–260 lb|
+|18|up to 100 lb|101–200 lb|201–300 lb|
+|19|up to 116 lb|117–233 lb|234–350 lb|
+|20|up to 133 lb|134–266 lb|267–400 lb|
+|21|up to 153 lb|154–306 lb|307–460 lb|
+|22|up to 173 lb|174–346 lb|347–520 lb|
+|23|up to 200 lb|201–400 lb|401–600 lb|
+|24|up to 233 lb|234–466 lb|467–700 lb|
+|25|up to 266 lb|267–533 lb|534–800 lb|
+|26|up to 306 lb|307–613 lb|614–920 lb|
+|27|up to 346 lb|347–693 lb|694–1,040 lb|
+|28|up to 400 lb|401–800 lb|801–1,200 lb|
+|29|up to 466 lb|467–933 lb|934–1,400 lb|
+|+10|x4|x4|x4|</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="quentine" changedate="20191105T131932Z" creationid="quentine" creationdate="20191105T131932Z">
+        <seg>|力量|轻度负载|中度负载|重度负载|
+|:------:|:--------:|:---------:|:--------:|
+|1|小于等于3 磅|4–6磅|7–10磅|
+|2|小于等于6 磅|7–13 磅|14–20 磅|
+|3|小于等于10 磅|11–20 磅|21–30 磅|
+|4|小于等于13 磅|14–26 磅|27–40 磅|
+|5|小于等于16 磅|17–33 磅|34–50 磅|
+|6|小于等于20 磅|21–40 磅|41–60 磅|
+|7|小于等于23 磅|24–46 磅|47–70 磅|
+|8|小于等于26 磅|27–53 磅|54–80 磅|
+|9|小于等于30 磅|31–60 磅|61–90 磅|
+|10|小于等于33 磅|34–66 磅|67–100 磅|
+|11|小于等于38 磅|39–76 磅|77–115 磅|
+|12|小于等于43 磅|44–86 磅|87–130 磅|
+|13|小于等于50 磅|51–100 磅|101–150 磅|
+|14|小于等于58 磅|59–116 磅|117–175 磅|
+|15|小于等于66 磅|67–133 磅|134–200 磅|
+|16|小于等于76 磅|77–153 磅|154–230 磅|
+|17|小于等于86 磅|87–173 磅|174–260 磅|
+|18|小于等于100 磅|101–200 磅|201–300 磅|
+|19|小于等于116 磅|117–233 磅|234–350 磅|
+|20|小于等于133 磅|134–266 磅|267–400 磅|
+|21|小于等于153 磅|154–306 磅|307–460 磅|
+|22|小于等于173 磅|174–346 磅|347–520 磅|
+|23|小于等于200 磅|201–400 磅|401–600 磅|
+|24|小于等于233 磅|234–466 磅|467–700 磅|
+|25|小于等于266 磅|267–533 磅|534–800 磅|
+|26|小于等于306 磅|307–613 磅|614–920 磅|
+|27|小于等于346 磅|347–693 磅|694–1,040 磅|
+|28|小于等于400 磅|401–800 磅|801–1,200 磅|
+|29|小于等于466 磅|467–933 磅|934–1,400 磅|
+|+10|x4|x4|x4|</seg>
       </tuv>
     </tu>
     <tu>

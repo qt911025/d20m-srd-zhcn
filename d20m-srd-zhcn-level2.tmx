@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg># EQUIPMENT BASICS</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T114245Z" creationid="quentine" creationdate="20191104T114245Z">
+        <seg># 装备基础</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg># FEATS</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T125008Z" creationid="quentine" creationdate="20190703T125008Z">
@@ -390,6 +398,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>## Carrying Capacity</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T142922Z" creationid="quentine" creationdate="20191104T142922Z">
+        <seg>## 负重能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>## Catching on Fire</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T132144Z" creationid="quentine" creationdate="20190115T132144Z">
@@ -466,6 +482,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190916T131233Z" creationid="quentine" creationdate="20190916T131233Z">
         <seg>## 计算机使用（智）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>## Concealed Weapons and Objects</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T135216Z" creationid="quentine" creationdate="20191104T135216Z">
+        <seg>## 隐蔽的武器与物品</seg>
       </tuv>
     </tu>
     <tu>
@@ -1006,6 +1030,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>## Living in Luxury</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T142441Z" creationid="quentine" creationdate="20191104T142441Z">
+        <seg>## 奢侈生活</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>## Losing Wealth</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190112T061500Z" creationid="quentine" creationdate="20190112T061500Z">
@@ -1026,6 +1058,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190226T134650Z" creationid="quentine" creationdate="20190226T134650Z">
         <seg>## 武术家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>## Mastercraft Objects</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T133858Z" creationid="quentine" creationdate="20191104T133858Z">
+        <seg>## 大师级工艺物品</seg>
       </tuv>
     </tu>
     <tu>
@@ -1114,6 +1154,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181022T033332Z" creationid="QuenTine" creationdate="20181022T033332Z">
         <seg>## 开放游戏许可证1.0a版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>## On-Hand Objects</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T114956Z" creationid="quentine" creationdate="20191104T114956Z">
+        <seg>## 寻常物品</seg>
       </tuv>
     </tu>
     <tu>
@@ -1262,10 +1310,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>## Requisitioning Equipment</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T132914Z" creationid="quentine" creationdate="20191104T125240Z">
+        <seg>## 申调装备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>## Research (Int)</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191027T090024Z" creationid="quentine" creationdate="20191027T090024Z">
         <seg>## 研究（智）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>## Restricted Objects</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T121359Z" creationid="quentine" creationdate="20191104T121359Z">
+        <seg>## 管制物品</seg>
       </tuv>
     </tu>
     <tu>
@@ -2630,6 +2694,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>### Purchasing a License</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T123549Z" creationid="quentine" creationdate="20191104T123549Z">
+        <seg>### 购买执照</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>### Quick Draw</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190803T140509Z" creationid="quentine" creationdate="20190803T140509Z">
@@ -2726,6 +2798,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>### Size and Concealment</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T140009Z" creationid="quentine" creationdate="20191104T140009Z">
+        <seg>### 尺寸和隐蔽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>### Skill Name (Key Ability) Trained Only; Armor Penalty</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190807T114422Z" creationid="quentine" creationdate="20190807T114422Z">
@@ -2746,6 +2826,30 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T121620Z" creationid="quentine" creationdate="20190804T121620Z">
         <seg>### 跳弹射击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Sleight of Hand Checks</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T135546Z" creationid="quentine" creationdate="20191104T135546Z">
+        <seg>### 手上功夫检定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Spotting Concealable Armor</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T142117Z" creationid="quentine" creationdate="20191104T142117Z">
+        <seg>### 侦察隐蔽护甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### Spotting Concealed Objects</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T141128Z" creationid="quentine" creationdate="20191104T141128Z">
+        <seg>### 侦察隐蔽物品</seg>
       </tuv>
     </tu>
     <tu>
@@ -2898,6 +3002,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T124844Z" creationid="quentine" creationdate="20190115T113734Z">
         <seg>### 暂时生命值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>### The Black Market</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T124327Z" creationid="quentine" creationdate="20191104T124327Z">
+        <seg>### 黑市</seg>
       </tuv>
     </tu>
     <tu>
@@ -4254,6 +4366,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>(During the process of character creation, a character just needs to purchase the license or pay the fee; the time required takes place before game play begins.)</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T124126Z" creationid="quentine" creationdate="20191104T124114Z">
+        <seg>（角色若在创建人物时获得执照，则只需要购买执照或支付费用，不需要消耗时间，因为这在游戏开始前就完成了。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>(Effectively, a character in combat can hold his or her breath only half as long as normal.) After that period of time, the character must make a Constitution check (DC 10) every round to continue holding his or her breath.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191027T142424Z" creationid="quentine" creationdate="20191027T142424Z">
@@ -4448,6 +4568,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190925T125939Z" creationid="quentine" creationdate="20190925T125939Z">
         <seg>（GM可以假定观察者在侦察检定中取10。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>(The GM determines the purchase DC for an object that’s not mentioned in this chapter, using similarly priced objects as a guide.) The Wealth check works the same as for buying the object, except that the character takes a –10 penalty on the check, and he or she can’t take 10 or take 20.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T120204Z" creationid="quentine" creationdate="20191104T120204Z">
+        <seg>（GM决定此章未体积的物品的购买DC，以相同价位物品作参考。）财富检定过程与购买此物品相同，但角色检定有10点减值，且不可取10取20。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5984,6 +6112,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Bigger and Smaller Creatures:** The figures on Table: Carrying Capacity are for Medium-size bipedal creatures.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T135055Z" creationid="quentine" creationdate="20191105T135055Z">
+        <seg>**体型较大或较小的生物：** 表：负重能力是以普通尺寸的双足生物为准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Blindsight (Ex):** Using nonvisual senses, such as sensitivity to vibrations, scent, acute hearing, or echolocation, the creature maneuvers and fights as well as a sighted creature.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T125741Z" creationid="quentine" creationdate="20191030T125741Z">
@@ -7508,6 +7644,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190116T115524Z" creationid="quentine" creationdate="20190116T115524Z">
         <seg>**等级：** 角色职业等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>**Lifting and Dragging:** A character can lift up to his or her maximum load over his or her head.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T134249Z" creationid="quentine" creationdate="20191105T134249Z">
+        <seg>**举重和拖行：** 角色可将重量为其最大负重的物品举过头顶。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10081,6 +10225,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>**Tremendous Strength:** For Strength scores not listed, find the Strength score between 20 and 29 that has the same ones digit as the creature’s Strength score.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T135903Z" creationid="quentine" creationdate="20191105T135903Z">
+        <seg>**超乎寻常的力量：** 对于未列在表中的力量值，从表中力量值20到29中，根据该生物力量值个位数找到对应的负重数值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>**Trick:**</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190201T151736Z" creationid="quentine" creationdate="20190201T151736Z">
@@ -11487,6 +11639,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A character can generally push or drag along the ground up to five times his or her maximum load.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T134658Z" creationid="quentine" creationdate="20191105T134658Z">
+        <seg>角色在一般情况下可以推动或拖行五倍于最大负重的物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A character can go without food for three days, in growing discomfort.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T132948Z" creationid="quentine" creationdate="20190115T132948Z">
@@ -11515,6 +11675,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191027T142136Z" creationid="quentine" creationdate="20191027T141957Z">
         <seg>角色可以闭气等同于其体质值的轮数，但前提是角色只做了移动动作和即时动作没做别的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A character can lift up to double his or her maximum load off the ground, but he or she can only stagger around with it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T134445Z" creationid="quentine" creationdate="20191105T134445Z">
+        <seg>角色可将两倍于最大负重的重量搬离地面，但只能勉强移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11883,6 +12051,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190804T123408Z" creationid="quentine" creationdate="20190804T123408Z">
         <seg>角色不能在重度负载或穿着重甲时使用此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A character concealing an object before he or she heads out into public can usually take 10 unless he or she is rushed, trying to conceal it when others might see, or under other unusual constraints.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T135849Z" creationid="quentine" creationdate="20191104T135849Z">
+        <seg> 角色在公开露面前隐蔽物品通常可以取10，除非角色很匆忙、隐蔽时能被其他人看到、或在其他不寻常的限制下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12591,6 +12767,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A character’s carrying capacity depends directly on the character’s Strength score, as shown on Table: Carrying Capacity.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T130027Z" creationid="quentine" creationdate="20191105T130027Z">
+        <seg>角色的负重能力直接取决于角色的力量值，如`表：负重能力`所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A character’s class and level grant an innate bonus to Defense.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T115706Z" creationid="quentine" creationdate="20190114T115706Z">
@@ -12863,6 +13047,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A heavily encumbered character performs as if his or her Dexterity modifier were no higher than +1.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T133800Z" creationid="quentine" creationdate="20191105T133800Z">
+        <seg>重度累赘角色的敏捷调整值将限定在不超过+1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A heavily encumbered character’s speed is reduced to the value given below, if the character is not already slowed to that speed for some other reason.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T133616Z" creationid="quentine" creationdate="20191105T133616Z">
+        <seg>重度负载的角色的速度将减至下表所示的速度，如果角色未因其他原因减至该速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A helpless character has an effective Defense of 5 + size modifier.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T123552Z" creationid="quentine" creationdate="20190115T123552Z">
@@ -12943,6 +13143,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A license or fee is a separate item, purchased in addition to (and usually before) the object to which it applies.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T121704Z" creationid="quentine" creationdate="20191104T121704Z">
+        <seg>执照或费用是单独的物品，购买（通常要先买）才能生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A lie, on the other hand, is a simple misrepresentation of the facts.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190808T133234Z" creationid="quentine" creationdate="20190808T133234Z">
@@ -12975,6 +13183,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>A mastercraft object that provides a +1 bonus can usually be purchased on the open market as a custom version of a common object.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T134530Z" creationid="quentine" creationdate="20191104T134302Z">
+        <seg>提供1点加值的大师级工艺物品通常可以在公开的市场作为量产物品的定制版本购买到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>A maximized power costs a number of power points equal to its normal cost +6.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190620T141617Z" creationid="quentine" creationdate="20190620T141617Z">
@@ -13003,6 +13219,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190922T135541Z" creationid="quentine" creationdate="20190922T135541Z">
         <seg>药物会为抵抗疾病效果的强韧豁免检定提供2点情景加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A military rating is essentially the same as restricted (see above), except that manufacturers and dealers are generally under tight government scrutiny and are therefore especially wary of selling to private individuals.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T122941Z" creationid="quentine" creationdate="20191104T122908Z">
+        <seg>军用级基本上与管制级相同（见上文），除了制造和处理需要受到政府安全机关的严密管控且禁止售卖给私人外。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13163,6 +13387,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T124907Z" creationid="quentine" creationdate="20190114T145102Z">
         <seg>产生致命伤害的远程武器无法采用非致命攻击方式（除非该武器临时用于肉搏）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>A rare few objects are of mastercraft quality even without customization—the off-the-shelf version of the object is of such high quality that it is always provides a bonus of +1.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T134855Z" creationid="quentine" creationdate="20191104T134812Z">
+        <seg>极少量的非定制物品也有大师级工艺——这种非定制版本的极品也拥有定制品的高质量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13737,6 +13969,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Add the black market purchase DC modifier from Table: Restricted Objects to the object’s purchase DC.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T124850Z" creationid="quentine" creationdate="20191104T124850Z">
+        <seg>将`表：管制物品`的黑市购买DC调整值加到物品的购买DC上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Add the character’s Charisma bonus to the check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T125845Z" creationid="quentine" creationdate="20191104T125845Z">
+        <seg>检定要加上角色的魅力加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Add the given value directly to the familiar’s Defense.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190623T130724Z" creationid="quentine" creationdate="20190623T130724Z">
@@ -14185,6 +14433,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Almost anything is available on the black market.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T124513Z" creationid="quentine" creationdate="20191104T124513Z">
+        <seg>几乎所有物品在黑市都有出售。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Along with this loss, any time a character buys an object or service with a purchase DC of 15 or higher, the character reduces his or her current Wealth bonus by an additional 1 point.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190112T062651Z" creationid="quentine" creationdate="20190112T062651Z">
@@ -14197,6 +14453,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T134703Z" creationid="quentine" creationdate="20190917T134703Z">
         <seg>还有引发了借机攻击或准备攻击的活动（这些活动并不需要整轮动作）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Also, a character can’t make a Wealth check to see if he or she has a mundane object on hand during character generation or between adventures—only during play.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T120951Z" creationid="quentine" creationdate="20191104T120951Z">
+        <seg>而且角色不能在创建角色或场间这么做，只能在游戏过程内做。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14365,6 +14629,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190703T122430Z" creationid="quentine" creationdate="20190703T122430Z">
         <seg>虽然路人可以在基础职业间自由地跨职，但他们无法在高级职业上获得任何等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Although such items are more expensive, they offer no additional features or game benefits.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T142756Z" creationid="quentine" creationdate="20191104T142756Z">
+        <seg>虽然这些物品更贵，但不会拥有额外的功能或游戏性的增益。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14569,6 +14841,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>An encumbered character performs as if his or her Dexterity modifier were no higher than +3.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T133003Z" creationid="quentine" creationdate="20191105T133003Z">
+        <seg>累赘角色的敏捷调整值将限定在不超过+3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An encumbered character’s speed is reduced to the value given below, if the character is not already slowed to that speed for some other reason.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T133635Z" creationid="quentine" creationdate="20191105T132727Z">
+        <seg>累赘的角色速度将减至下表所示的速度，如果角色未因其他原因减至该速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>An entangled character takes a –2 penalty on attack rolls in addition to a –4 penalty to Dexterity.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T122116Z" creationid="quentine" creationdate="20190115T122116Z">
@@ -14661,6 +14949,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T135821Z" creationid="quentine" creationdate="20190115T135821Z">
         <seg>更高的高度下，超过部分每高10尺就有额外的1d6点伤害（额外伤害最高为20d6）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>An observer attempting to spot a concealed object receives a –1 penalty for every 10 feet between him or herself and the target, and a –5 penalty if distracted.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T141657Z" creationid="quentine" creationdate="20191104T141657Z">
+        <seg>观察者与目标距离每过10尺，侦察检定都有1点减值，若被分心则有5点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15085,6 +15381,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190226T130400Z" creationid="quentine" creationdate="20190226T130400Z">
         <seg>这是一个整轮动作，士兵给所有看到且能听到的队友包括自己提供战术支援。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>As a general rule, a character must obtain the appropriate license before buying a restricted object.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T124208Z" creationid="quentine" creationdate="20191104T124208Z">
+        <seg>总的来说，角色必须在购买管制物品前持有相应执照。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16945,6 +17249,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Concealable armor can be worn under clothing if the wearer wants it to go unnoticed.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T142201Z" creationid="quentine" creationdate="20191104T142201Z">
+        <seg>如果穿着护甲的人不想引人注目，隐蔽护甲可以穿在衣服内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Concentration (Con), Craft (structural, visual arts, writing) (Int), Diplomacy (Cha), Knowledge (behavioral sciences, earth and life sciences, theology and philosophy) (Int), Listen (Wis), Profession (Wis), Read/Write Language (none), Sense Motive, Speak Language (none), Spellcraft (Int), Treat Injury (Wis).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190627T134242Z" creationid="quentine" creationdate="20190627T134242Z">
@@ -17262,10 +17574,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Department-7 evaluates whether the character really needs the object, how soon the agency can supply it, and whether the agency can reasonably expect to get it back when the hero is done with it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T125715Z" creationid="quentine" creationdate="20191104T125715Z">
+        <seg>第七局会评估角色是否真的需要此物品，第七局最快能在何时提供支援，以及英雄用完后是否能取回。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Depending on the hero’s character level (see the table below), he or she may be able to roll more than one d6 when spending 1 action point.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T135843Z" creationid="quentine" creationdate="20190114T135843Z">
         <seg>根据英雄的等级（见下表），在使用行动点增强骰点时可使用多个d6进行投掷。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Depending on the situation, the GM can rule that a certain mundane object is not available; for an object to be obtainable, the character must be in a place where the object logically would be.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T121257Z" creationid="quentine" creationdate="20191104T121257Z">
+        <seg>根据情景，GM可规定那些物品禁用此规则，逻辑上角色必须在有此物品的地方才能拥有此物品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17442,6 +17770,22 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190805T130529Z" creationid="quentine" creationdate="20190523T132246Z">
         <seg>重新编程需要再花费一小时进行计算机使用技能检定，（DC20+要编程赋予技能的级数）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Don’t use the modifiers from Table: Concealing Weapons and Objects when wearing concealable armor.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T142243Z" creationid="quentine" creationdate="20191104T142243Z">
+        <seg>穿着隐蔽护甲不是用`表：隐蔽武器与物品`里的调整值，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Drawing a concealed weapon is more difficult than drawing a regularly holstered weapon, and normally requires an attack action.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T140413Z" creationid="quentine" creationdate="20191104T135456Z">
+        <seg>拔出隐蔽武器会比从正常的装具中拔出更困难，一般需要一个攻击动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18046,6 +18390,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Favorable conditions (smooth ground, dragging a slick object) can double these numbers, and bad circumstances (broken ground, pushing an object that snags) can reduce them to one-half or less.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T134922Z" creationid="quentine" creationdate="20191105T134922Z">
+        <seg>有利条件下（光滑的地面、拖动光滑的物品）可拖行重量加倍，不利条件下（破损的地面、推动被阻碍的物品）可拖行重量减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Favors can also be used to acquire the loan of equipment or documents, or to receive other minor assistance in the course of an adventure.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190203T041021Z" creationid="quentine" creationdate="20190202T122911Z">
@@ -18066,6 +18418,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T124015Z" creationid="quentine" creationdate="20190114T124015Z">
         <seg>专长：有的专长为防御提供加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Finally, a heavily encumbered character’s maximum running speed is his or her speed x3 instead of speed x4.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T133916Z" creationid="quentine" creationdate="20191105T133916Z">
+        <seg>最后，重度累赘角色的最高奔跑速度是3倍而非4倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18446,6 +18806,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Generally, it takes 24 hours to obtain an object through requisition, but if the object is especially common, or if the hero beats the check DC by 5 or more, it is available in 1d4 hours.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T133126Z" creationid="quentine" creationdate="20191104T132544Z">
+        <seg>一般来说，申调需要24小时才能到货，但如果是特别普遍的物品，或者英雄检定成功5点及以上，则可在1d4后可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Generally, the license is not expensive, and obtaining it has few if any additional legal requirements.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T121856Z" creationid="quentine" creationdate="20191104T121856Z">
+        <seg>一般来说，执照不贵，所需遵循的法律也不多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Generally, the maximum height a creature can reach without jumping is given in the table below.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191021T141222Z" creationid="quentine" creationdate="20191021T141222Z">
@@ -18694,6 +19070,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>However, a character may be able to turn to the black market (see below) to obtain restricted objects without a license.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T124323Z" creationid="quentine" creationdate="20191104T124323Z">
+        <seg>但角色可以在黑市（见下文）无证购买管制物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>However, a familiar grants special abilities to its master, as described below.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190623T123313Z" creationid="quentine" creationdate="20190623T123313Z">
@@ -18774,6 +19158,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>However, the real obstacles to ownership are time and money; anyone with sufficient patience and cash can eventually acquire the necessary license.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T122346Z" creationid="quentine" creationdate="20191104T122346Z">
+        <seg>然而拥有它的资格只是时间和钱的问题，只要有耐心和钱，总会获得执照的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>However, the skill employed in Search, and the searcher gets a +4 circumstance bonus for the hands-on act of frisking the target.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T141934Z" creationid="quentine" creationdate="20191104T141934Z">
+        <seg>但搜身需要做的是`搜索检定`，搜身者由于是用手摸索，将获得4点情景加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181022T113004Z" creationid="QuenTine" creationdate="20181022T113004Z">
@@ -18850,6 +19250,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T132306Z" creationid="quentine" creationdate="20190115T132306Z">
         <seg>如果英雄的衣服或头发着火，会立即损失1d6点生命。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If a mastercraft +2 object could be found for purchase, its cost would add +6 to the normal purchase DC.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T135118Z" creationid="quentine" creationdate="20191104T135118Z">
+        <seg>如果+2的大师级工艺物品能买到，购买DC比一般的多6。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19934,6 +20342,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the character succeeds, his or her Wealth bonus is unaffected, even if the object’s purchase DC is higher than his or her Wealth bonus.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T121039Z" creationid="quentine" creationdate="20191104T121039Z">
+        <seg>若检定成功，角色的财富加值不变，即使物品购买DC高于角色的财富加值也是如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the character succeeds, his or her current Wealth bonus increases by +1.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190112T063919Z" creationid="quentine" creationdate="20190112T063919Z">
@@ -20678,6 +21094,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>If the target took 10 on his or her Sleight of Hand check, use this formula:</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T141505Z" creationid="quentine" creationdate="20191104T141505Z">
+        <seg>如果目标在手上功夫检定中取10，使用以下公式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>If the target’s Sense Motive check succeeds by 11 or more, he has seen through the bluff, and would have succeeded in doing so even if it had not placed any demand on him (that is, even without the +10 bonus).</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190808T131554Z" creationid="quentine" creationdate="20190808T131554Z">
@@ -20714,6 +21138,30 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190805T143038Z" creationid="quentine" creationdate="20190805T143038Z">
         <seg>如果一些技能的使用没有失败惩罚，角色可以`取20`，表示不断尝试直到成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the weight of a character’s gear falls in his or her heavy load range, the character is considered heavily encumbered.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T133458Z" creationid="quentine" creationdate="20191105T133458Z">
+        <seg>如果角色负重处于重度负载区间，角色被视为处于`重度负载`状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the weight of everything a character is wearing or carrying amounts to no more than his or her light load figure, the character can move and perform any actions normally (though the character’s speed might already be slowed by the armor he or she is wearing).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T132201Z" creationid="quentine" creationdate="20191105T132201Z">
+        <seg>如果角色穿着或承载的所有物品总重量不超过其轻度负载，角色可正常移动和做任何动作（但角色会被护甲的减速属性所减速）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>If the weight of the character’s gear falls in his or her medium load range, the character is considered encumbered.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T132616Z" creationid="quentine" creationdate="20191105T132616Z">
+        <seg>如果角色负重处于中度负载区间，角色被视为处于`累赘`状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20882,6 +21330,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190807T115153Z" creationid="quentine" creationdate="20190807T115153Z">
         <seg>如果没有“需受训”，这个技能就可以直接使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Illegal: The object is illegal in all but specific, highly regulated circumstances.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T123242Z" creationid="quentine" creationdate="20191104T122929Z">
+        <seg>非法：物品在极其特殊和高度管制的情况下才能使用，否则皆为非法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21094,6 +21550,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>In addition, the character takes a –3 encumbrance penalty on attack rolls and checks involving the following skills: Balance, Climb, Escape Artist, Hide, Jump, Move Silently, and Tumble.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T133246Z" creationid="quentine" creationdate="20191105T133203Z">
+        <seg>此外，角色的攻击骰和涉及`平衡`、`攀爬`、`脱逃`、`躲藏`、`跳跃`、`潜行`、`翻滚`的检定都承受3点累赘减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In addition, the character takes a –6 encumbrance penalty on attack rolls and checks involving the following skills: Balance, Climb, Escape Artist, Hide, Jump, Move Silently, and Tumble.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T133836Z" creationid="quentine" creationdate="20191105T133836Z">
+        <seg>此外，角色的攻击骰和涉及`平衡`、`攀爬`、`脱逃`、`躲藏`、`跳跃`、`潜行`、`翻滚`的检定都承受6点累赘减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>In all cases, it deals normal damage to all other targets within its burst radius.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190923T134138Z" creationid="quentine" creationdate="20190923T134138Z">
@@ -21270,6 +21742,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>In such cases, a character must purchase a license or pay a fee to legally own the object.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T121546Z" creationid="quentine" creationdate="20191104T121546Z">
+        <seg>在此情况下，角色必须购买执照或为合法拥有此物品付费。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>In such cases, the benefit translates into a Wealth award.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190112T064113Z" creationid="quentine" creationdate="20190112T064113Z">
@@ -21346,6 +21826,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190806T135741Z" creationid="quentine" creationdate="20190806T135741Z">
         <seg>在这些情况下，角色进行属性检定：掷1d20+合适的属性调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>In these cases, the purchase DC is not increased (such objects are already priced higher than similar objects of lower quality).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T134940Z" creationid="quentine" creationdate="20191104T134847Z">
+        <seg>这种情况下，DC不加（这类物品的定价已经比低质量的类似物品高了）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21450,6 +21938,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190806T133203Z" creationid="quentine" creationdate="20190806T133203Z">
         <seg>取20，而非掷1d20来进行技能检定，就当作是角色直接掷出了20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Instead, anyone attempting to notice the armor must make a Spot check (DC 30).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T142409Z" creationid="quentine" creationdate="20191104T142409Z">
+        <seg>而是他人进行侦察检定（DC30）以发现护甲。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21862,6 +22358,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>It’s assumed that, when attempting to conceal a weap-on or other object, a character is wearing appropriate clothing.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T135310Z" creationid="quentine" creationdate="20191104T135310Z">
+        <seg>要将武器或其他物品藏在身上，角色一般要穿着合适的衣物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It’s possible to purchase similar items with luxury features, generally by increasing the purchase DC by 1.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T142655Z" creationid="quentine" creationdate="20191104T142644Z">
+        <seg>可以购买类似的有奢侈特性的物品，通常购买DC要+1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>It’s practically impossible (–20 penalty) to hide while attacking, running, or charging.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191004T134230Z" creationid="quentine" creationdate="20191004T134230Z">
@@ -21894,10 +22406,26 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Keeping the weapon in an easier-to-draw position makes concealing it more difficult.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T135539Z" creationid="quentine" creationdate="20191104T135539Z">
+        <seg>将武器藏在更容易拔出的位置会让武器更难于隐藏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Keeping track of negative ability score points is never necessary.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181103T132250Z" creationid="QuenTine" creationdate="20181103T132250Z">
         <seg>没必要在意属性值为负几，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Knowledge (streetwise) checks can be used to locate a black market merchant.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T124606Z" creationid="quentine" creationdate="20191104T124606Z">
+        <seg>知识（街头智慧）检定可用来确定黑市商人的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21910,10 +22438,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Larger bipedal creatures can carry more weight depending on size category: Large x2, Huge x4, Gargantuan x8, and Colossal x16.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T135248Z" creationid="quentine" creationdate="20191105T135248Z">
+        <seg>更大的双足生物可根据体型负载更大重量：大型×2、超大型×4、巨型×8、超巨型×16。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Law enforcement personnel include uniformed police, state troopers, federal police, federal agents, SWAT team members, and military police.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T140053Z" creationid="QuenTine" creationdate="20181104T140053Z">
         <seg>执法人员包括警察、州警、联邦特警、联邦特工、SWAT成员、宪兵。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Legitimate dealers will not sell restricted objects to a character who does not have the necessary license.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T124244Z" creationid="quentine" creationdate="20191104T124244Z">
+        <seg>合法持有者不会将管制物品卖给无执照的角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Licensed: The owner must obtain a license to own or operate the object legally.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T121811Z" creationid="quentine" creationdate="20191104T121811Z">
+        <seg>执照：所有者必须持有执照以合法持有或使用此物品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22102,6 +22654,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Mastercraft objects with a bonus of +2 or +3 are not common and are generally not for sale.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T135041Z" creationid="quentine" creationdate="20191104T135041Z">
+        <seg>有2或3点加值的大师级物品很少见，通常是非卖品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Medicine and forensics.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191022T135928Z" creationid="quentine" creationdate="20191022T135928Z">
@@ -22122,6 +22682,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T141301Z" creationid="QuenTine" creationdate="20181104T141301Z">
         <seg>军人包括海陆空三军和海军陆战队，还有海豹部队、游骑兵和特种部队等各类精英部队。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Military: The object is sold primarily to legitimate police and military organizations.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T122538Z" creationid="quentine" creationdate="20191104T122538Z">
+        <seg>军用：物品只卖给合法的警务或军事机构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22254,6 +22822,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Multiply the figures by 4 if the creature’s Strength is in the 30s, 16 if it’s in the 40s, 64 if it’s in the 50s, and so on.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T140010Z" creationid="quentine" creationdate="20191105T140010Z">
+        <seg>然后十位数字每多10点就相应把负重数值乘以4（30多乘以4、40多乘以16、50多乘以64等等）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Natural Armor: Some creatures have natural armor, which usually consists of scales, fur, or layers of thick muscle.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190806T141809Z" creationid="quentine" creationdate="20190114T124026Z">
@@ -22290,6 +22866,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190923T130222Z" creationid="quentine" creationdate="20190923T130222Z">
         <seg>使用此制造技能无需财富检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>No character can move or perform any other actions while carrying more than his or her maximum load.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T134053Z" creationid="quentine" creationdate="20191105T134053Z">
+        <seg>承载负重超过最大值的角色无法移动或做其他动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22414,6 +22998,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Noticing a concealed weapon or other object requires a Spot check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T141204Z" creationid="quentine" creationdate="20191104T141204Z">
+        <seg>要注意到一个隐藏的武器或其他物品需要一个侦察检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Now the Infiltrator not only spots potential perils with a successful check, he or she can determine the relative strength of these dangers.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190418T005631Z" creationid="quentine" creationdate="20190418T004739Z">
@@ -22438,10 +23030,34 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Objects purchased on the black market are more expensive than those purchased legally.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T124804Z" creationid="quentine" creationdate="20191104T124804Z">
+        <seg>在黑市购买物品的价格比合法购买更高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Objects that fall upon characters (or creatures or vehicles) deal damage based on their size and the distance fallen, as noted on Table: Damage from Falling Objects.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T135704Z" creationid="quentine" creationdate="20190115T135646Z">
         <seg>物品坠落砸到角色（或者生物、车辆）身上，根据体型和掉落距离造成伤害，见下表：坠落物造成的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Obtaining an object on the black market takes a number of days according to the Time Required column on Table: Restricted Objects.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T125002Z" creationid="quentine" creationdate="20191104T125002Z">
+        <seg>拥有黑市物品所需的时间见`表：管制物品`的`所需时间`一列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Obviously, expendable objects like ammunition don’t have to be returned if used.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T133248Z" creationid="quentine" creationdate="20191104T133248Z">
+        <seg>当然，消耗品例如弹药无需在使用后归还。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22938,6 +23554,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Patting someone down for a hidden weapon requires a similar check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T141744Z" creationid="quentine" creationdate="20191104T141744Z">
+        <seg>搜身检查隐藏武器也需要类似的检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Permission to copy, modify and distribute this document is granted solely through the use of the Open Gaming License, Version 1.0a.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181022T032835Z" creationid="QuenTine" creationdate="20181022T032835Z">
@@ -23304,6 +23928,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Quadrupeds, such as horses, can carry heavier loads than characters can.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T135427Z" creationid="quentine" creationdate="20191105T135427Z">
+        <seg>四足生物，比如马，能比角色负载更重的重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Ranks indicate how much training or experience a character has with a given skill.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190805T133450Z" creationid="quentine" creationdate="20190805T133450Z">
@@ -23440,6 +24072,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Requisitioned objects are loaned, not given, to the hero.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T133205Z" creationid="quentine" creationdate="20191104T133151Z">
+        <seg>申调的物品是借用给英雄，而非给予。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Rescue workers, firefighters, paramedics, hazardous material handlers, and emergency medical technicians fall under this category.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181104T133412Z" creationid="QuenTine" creationdate="20181104T133412Z">
@@ -23460,6 +24100,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190927T130607Z" creationid="quentine" creationdate="20190927T130607Z">
         <seg>受限的信息包括并非众所周知的信息，需要从能接触到这个信息的人身上获得。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Restricted: Only specially qualified individuals or organizations are technically allowed to own the object.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T122130Z" creationid="quentine" creationdate="20191104T122130Z">
+        <seg>管制：只有技术上有资质的个人或组织才能拥有此物品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23824,6 +24472,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Sleight of Hand can be used untrained in this instance, but the character must take 10.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T135959Z" creationid="quentine" creationdate="20191104T135959Z">
+        <seg>此形式的手上功夫无需受训即可使用，但角色必须取10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Smaller creatures can carry less weight depending on size category: Small x3/4, Tiny x1/2, Diminutive x1/4, and Fine x1/8.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T135347Z" creationid="quentine" creationdate="20191105T135347Z">
+        <seg>更小的生物可根据体型负载更小的重量：小型×3/4、超小型×1/2、微型×1/4、超微型1/8。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Smoke also obscures vision, giving one-half concealment (20% miss chance) to characters within it.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T141611Z" creationid="quentine" creationdate="20190115T134140Z">
@@ -23888,6 +24552,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Some devices may also offer bonuses under certain circumstances (a metal detector offers a bonus to Search checks to find metal objects, for example).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T142042Z" creationid="quentine" creationdate="20191104T142042Z">
+        <seg>特定情况下，一些设备也能提供加值（比如金属探测器为寻找金属物品的搜索检定提供加值）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Some documents require security or authorization codes, whether authentic ones or additional forgeries.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190926T135928Z" creationid="quentine" creationdate="20190926T135928Z">
@@ -23916,6 +24588,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190114T124657Z" creationid="quentine" creationdate="20190114T124657Z">
         <seg>部分魔法效果能够为护甲提供加成，或是提供偏斜加值以使对方的攻击失效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Some objects require licenses to own or operate, or are restricted in use to qualifying organizations or individuals.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T121457Z" creationid="quentine" creationdate="20191104T121457Z">
+        <seg>一些物品需要拥有执照才能持有或适用，或是仅限于特定组织或个人使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24016,6 +24696,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Sometimes a character wants to obtain an object without going through the hassle of getting a license first.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T124449Z" creationid="quentine" creationdate="20191104T124449Z">
+        <seg>有时角色想要走捷径，无证持有物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181024T042829Z" creationid="QuenTine" creationdate="20181024T042829Z">
@@ -24108,6 +24796,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190624T143045Z" creationid="quentine" creationdate="20190624T143045Z">
         <seg>不含随机数值的法术也用不上极效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Spot DC = Target’s Sleight of Hand skill modifier (including modifiers from Table: Concealing Weapons and Objects) + 10</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T141551Z" creationid="quentine" creationdate="20191104T141551Z">
+        <seg>侦察DC=目标的手上功夫技能调整值（包括`表：隐蔽武器与物品`的调整值）+10</seg>
       </tuv>
     </tu>
     <tu>
@@ -24272,6 +24968,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Success results in the license being issued in 1d6 hours.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T123913Z" creationid="quentine" creationdate="20191104T123913Z">
+        <seg>成功则可在1d6小时后获得执照。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Such damage can’t be regenerated, and massive damage from such an attack follows the normal massive damage rules.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T142145Z" creationid="quentine" creationdate="20191031T142145Z">
@@ -24328,6 +25032,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Table: Carrying Capacity</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T130032Z" creationid="quentine" creationdate="20191105T130032Z">
+        <seg>表：负重能力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Table: Concealing Weapons and Objects</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T140531Z" creationid="quentine" creationdate="20191104T140531Z">
+        <seg>表：隐蔽武器与物品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Table: Damage from Falling Objects</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T140617Z" creationid="quentine" creationdate="20190115T140617Z">
@@ -24364,6 +25084,30 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T131328Z" creationid="quentine" creationdate="20190115T131328Z">
         <seg>表：光源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Table: Requisition Modifiers</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T133255Z" creationid="quentine" creationdate="20191104T133255Z">
+        <seg>表：申调调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Table: Requisition Modifiers lists modifiers that may affect the check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T132939Z" creationid="quentine" creationdate="20191104T125932Z">
+        <seg>`表：申调调整值`列举了作用在此检定上的调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Table: Restricted Objects</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T123249Z" creationid="quentine" creationdate="20191104T123249Z">
+        <seg>表：管制物品</seg>
       </tuv>
     </tu>
     <tu>
@@ -25056,6 +25800,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The DC is based on the location in question: 15 to find a black market merchant in a big city, or 20, 25, or higher in small towns and rural areas.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T124737Z" creationid="quentine" creationdate="20191104T124737Z">
+        <seg>DC基于确定的位置类型：在大城市找黑市商人的DC为15，在小镇和乡下DC则为20、25甚至更高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The DC is based on the size of the robot and modified by the number of components that need to be wired together.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190523T131125Z" creationid="quentine" creationdate="20190523T131125Z">
@@ -25148,6 +25900,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190917T124339Z" creationid="quentine" creationdate="20190917T124339Z">
         <seg>编写程序的DC是20，需要1小时的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The DC varies: If the target made a roll when concealing an object, the DC of the Spot check to notice the object is the same as the target’s check result (an opposed check, in other words).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T141434Z" creationid="quentine" creationdate="20191104T141434Z">
+        <seg>DC有各种计法：如果目标隐藏物品时进行了检定，侦察检定的DC则等于目标的这个检定的结果（这算是一种对抗检定）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27492,6 +28252,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The cost of a mastercraft +3 object would add +9 to the normal purchase DC.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T135156Z" creationid="quentine" creationdate="20191104T135156Z">
+        <seg>+3的大师级物品，购买DC比一般的多9。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The cost to build a mastercraft object is equal to the purchase DC for the components (see the appropriate Craft skill description) + the bonus provided by the mastercraft feature.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190523T140232Z" creationid="quentine" creationdate="20190523T133344Z">
@@ -27780,6 +28548,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The exceptional quality of these objects provides the user a bonus on attack rolls, damage, Defense, or some other characteristic that improves when the object is used.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T134107Z" creationid="quentine" creationdate="20191104T134107Z">
+        <seg>物品超常的品质为使用者的攻击骰、伤害骰、防御或其他有关检定提供加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The extra attack is with the same weapon and at the same bonus as the attack that dropped the previous opponent.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190730T142037Z" creationid="quentine" creationdate="20190730T142037Z">
@@ -27824,6 +28600,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190116T115404Z" creationid="quentine" creationdate="20190116T115404Z">
         <seg>该职业1级获得的专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The figure at the upper end of a character’s heavy load range is his or her maximum load.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T134001Z" creationid="quentine" creationdate="20191105T134001Z">
+        <seg>重度负载区间的上界就是角色的最大负重。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28084,6 +28868,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The four levels of restriction are as follows.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T121732Z" creationid="quentine" creationdate="20191104T121732Z">
+        <seg>以下是四个管制级别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The fourteen Knowledge categories, and the topics each one encompasses, are as follows.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191027T090227Z" creationid="quentine" creationdate="20191022T134440Z">
@@ -28232,6 +29024,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190421T123310Z" creationid="quentine" creationdate="20190421T123310Z">
         <seg>增益持续的轮数等同于本职业等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The increased cost of such an object adds +3 to the purchase DC.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T134336Z" creationid="quentine" creationdate="20191104T134336Z">
+        <seg>购买DC比一般的物品多3。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28460,6 +29260,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The object’s size affects the check result, as shown on Table: Concealing Weapons and Objects.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T140119Z" creationid="quentine" creationdate="20191104T140119Z">
+        <seg>物品的大小影响检定结果，如`表：隐蔽武器与物品`所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The observer’s check doesn’t prevent the character from performing the action, just from doing it unnoticed.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191027T133156Z" creationid="quentine" creationdate="20191027T133156Z">
@@ -28580,6 +29388,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The process can be hurried, but each day cut out of the process (to a minimum of one day) increases the purchase DC by an additional +1.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T125141Z" creationid="quentine" creationdate="20191104T125141Z">
+        <seg>过程可以加快，但每加快1天（最多缩减至一天完成）就额外增加1点购买DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The psi-blade deals 1d6 points of piercing damage.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190621T132812Z" creationid="quentine" creationdate="20190621T132812Z">
@@ -28620,6 +29436,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The purchase DCs given are for average-quality items.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T142523Z" creationid="quentine" creationdate="20191104T142523Z">
+        <seg>物品给出的购买DC是一般品质的物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The quality of the character’s performance depends on his or her check result.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191025T141042Z" creationid="quentine" creationdate="20191025T141042Z">
@@ -28644,6 +29468,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>The result is determined by a level check (1d20 + character level) against a DC equal to the equipment’s purchase DC.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T125826Z" creationid="quentine" creationdate="20191104T125826Z">
+        <seg>结果由角色等级检定（1d20+角色等级）与所需装备的购买DC对抗决定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>The result of the Investigate check provides bonuses or penalties to the lab workers.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T021125Z" creationid="quentine" creationdate="20191020T021125Z">
@@ -28656,6 +29488,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190226T144733Z" creationid="quentine" creationdate="20190226T144250Z">
         <seg>行动点的骰点（即按照增强检定的掷法）将作为这次攻击伤害的加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The result of the check determines whether and how quickly Department-7 can provide the hero with the requested equipment.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T132354Z" creationid="quentine" creationdate="20191104T132354Z">
+        <seg>检定结果决定了第七局能否和有多快能为英雄提供所需装备。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29041,6 +29881,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191102T030133Z" creationid="quentine" creationdate="20191102T030133Z">
         <seg>践踏产生碾压伤害，伤害量见生物的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>The type of holster used or clothing worn, and any attempt to make a weapon easier to draw, can also affect the check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T140512Z" creationid="quentine" creationdate="20191104T140512Z">
+        <seg>使用的装具类型或穿着的衣物，以及任何让武器易于拔出的方式，都会影响检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29838,6 +30686,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>This encumbrance penalty stacks with any armor penalty that may also apply.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T133321Z" creationid="quentine" creationdate="20191105T133302Z">
+        <seg>累赘减值将与其他任何生效的护甲减值叠加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>This entry details special characteristics of the class, including bonus feats and unique talents, that are gained as a character attains higher levels in the class.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190116T120159Z" creationid="quentine" creationdate="20190116T120159Z">
@@ -30506,6 +31362,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>To account for the mundane and innocuous objects that most people have among their possessions—and not force every character to specifically purchase such objects in order to employ them—use the following rules.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T115716Z" creationid="quentine" creationdate="20191104T115320Z">
+        <seg>稀松平常、人人都有的，且不强制要求每个角色若使用就必须特地购买的物品，适用以下规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>To begin the choke, the attacker must succeed at an opposed grapple check.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190115T134903Z" creationid="quentine" creationdate="20190115T134508Z">
@@ -30542,6 +31406,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191020T022927Z" creationid="quentine" creationdate="20191020T022927Z">
         <seg>收集一份证据需要进行一次调查检定（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To conceal a weapon or other object, make a Sleight of Hand check.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T135621Z" creationid="quentine" creationdate="20191104T135621Z">
+        <seg>要隐藏武器或其他物品，应做一个手上功夫检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30678,6 +31550,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190201T152813Z" creationid="quentine" creationdate="20190201T152627Z">
         <seg>要对目标使用诡计，英雄需使用整轮动作来进行一次带智力等级加值的智力检定（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To purchase a license or pay necessary fees, make a Wealth check against the purchase DC given in Table: Restricted Objects.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T123649Z" creationid="quentine" creationdate="20191104T123649Z">
+        <seg>要购买执照或支付必要的费用，做一次财富检定以对抗`表：管制物品`相应管制等级的购买DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30838,6 +31718,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190112T064218Z" creationid="quentine" creationdate="20190112T064218Z">
         <seg>要出售物品，角色首先要定下它的`售价`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>To speed the process, the hero can make a Knowledge (business) check against a DC equal to the license purchase DC.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T123851Z" creationid="quentine" creationdate="20191104T123851Z">
+        <seg>要加速这一过程，英雄可以进行`知识（商学）`检定对抗执照的购买DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31154,6 +32042,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>Use these multipliers instead of the ones given above: Fine x1/4, Diminutive x1/2, Tiny x3/4, Small x1, Medium-size x1.5, Large x3, Huge x6, Gargantuan x12, and Colossal x24.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T135642Z" creationid="quentine" creationdate="20191105T135642Z">
+        <seg>使用此乘数而非用上述规则：超微型×1/4、微型×1/2、超小型×3/4、小型×1、普通×1.5、大型×3、超大型×6、巨型×12、超巨型×24。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>Use this skill to activate magic devices, including scrolls and wands, that you could not otherwise activate.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190612T122955Z" creationid="quentine" creationdate="20190612T122856Z">
@@ -31254,6 +32150,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="QuenTine" changedate="20181106T134208Z" creationid="QuenTine" creationdate="20181106T134208Z">
         <seg>财富检定用于判定角色能够买得起什么和能穿得起什么装备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Weapons, armor, and some other types of equipment can be constructed as mastercraft objects.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T133934Z" creationid="quentine" creationdate="20191104T133934Z">
+        <seg>武器、护甲、以及其他类型的装备可以以大师级工艺水准制造。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31486,6 +32390,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191031T132844Z" creationid="quentine" creationdate="20191031T132844Z">
         <seg>生物用精通攫抓抓握对手，会把对手拖拽至自己的方格内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>When a hero working for Department-7 needs more equipment than he or she has on hand, the hero may try to requisition it.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T132923Z" creationid="quentine" creationdate="20191104T125343Z">
+        <seg>当为`第七局`工作的英雄需要手头没有的装备，可以试图`申调`以获得。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31930,6 +32842,14 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>While overloaded in this way, the character loses any Dexterity bonus to Defense and can only move 5 feet per round (as a full-round action).</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T134606Z" creationid="quentine" creationdate="20191105T134606Z">
+        <seg>这时角色的防御将失去敏捷加值，且每轮只能以一个整轮动作移动5尺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>While studying, the Mage decides which spells to prepare.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190623T120044Z" creationid="quentine" creationdate="20190623T120044Z">
@@ -32026,6 +32946,22 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>With a success, the license is issued to the character after the number of days indicated.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T123800Z" creationid="quentine" creationdate="20191104T123800Z">
+        <seg>检定成功，角色将在所需时间之后获得执照。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With a success, the object is issued to the hero.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T132417Z" creationid="quentine" creationdate="20191104T132417Z">
+        <seg>检定成功，则物品将配发给英雄。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>With a successful Sense Motive check opposed by the subject’s Bluff check result or against DC 10 (whichever is greater), the Investigator can tell whether the subject is deliberately and knowingly speaking a lie.</seg>
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20190526T090637Z" creationid="quentine" creationdate="20190526T090459Z">
@@ -32054,6 +32990,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191030T134855Z" creationid="quentine" creationdate="20191030T134855Z">
         <seg>每次成功的近战攻击，此生物都会给对手赋予一个或多个负向等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>With the GM’s permission, a character can make a Wealth check to see if he or she has a mundane object on hand, as long as the object has a purchase DC of 10 or lower.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T115952Z" creationid="quentine" creationdate="20191104T115952Z">
+        <seg>若GM允许，寻常物品的购买DC小于等于10，角色可以做一个财富检定来判定自己手上是否有这个寻常物品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32460,6 +33404,14 @@
       </tuv>
       <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191024T111753Z" creationid="quentine" creationdate="20191024T111753Z">
         <seg>\* 这实际上是一个对抗检定，DC是目标角色或生物的潜行检定结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>\*Add to the object’s purchase DC if the character tries to buy it on the black market without first obtaining a license; see The Black Market, below.</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T123543Z" creationid="quentine" creationdate="20191104T123543Z">
+        <seg>\*如果角色要在黑市购买而不是先获得执照，将此DC加到物品的购买DC，见下文“黑市”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33804,6 +34756,46 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>|Condition|Sleight of Hand Modifier|
+|---------|:----------------------:|
+|Size of weapon or object||
+|Fine|+12|
+|Diminutive|+8|
+|Tiny|+4|
+|Small|+0|
+|Medium-size|–4|
+|Large|–8|
+|Huge or larger|can’t conceal|
+|||
+|Clothing is tight or small|–4|
+|Clothing is especially loose or bulky|+2|
+|Clothing is specifically modified for concealing object|+2|
+|Weapon is carried in concealed carry holster|+4|
+|Weapon can be drawn normally|–2|
+|Weapon can be drawn as free action with Quick Draw feat|–4|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T141110Z" creationid="quentine" creationdate="20191104T141110Z">
+        <seg>|情况|手上功夫调整值|
+|---------|:----------------------:|
+|武器或物品大小||
+|超微型|+12|
+|微型|+8|
+|超小型|+4|
+|小型|+0|
+|中等|–4|
+|大型|–8|
+|超大型及以上|不可隐藏|
+|||
+|衣服又紧又小|–4|
+|衣服特别宽松|+2|
+|衣服特别为隐藏物品改装过|+2|
+|武器收纳在隐藏的装具中|+4|
+|武器能如平常一样拔出|–2|
+|武器能以快速拔出专长用即时动作拔出|–4|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>|Cover or Concealment|Circumstance Bonus|
 |--------------------|:----------------:|
 |Three-quarters|+5|
@@ -34592,6 +35584,46 @@
     </tu>
     <tu>
       <tuv xml:lang="EN-US">
+        <seg>|Previous Speed|Current Speed|
+|:------------:|:-----------:|
+|20 ft|10 ft|
+|30 ft|15 ft|
+|40 ft|20 ft|
+|50 ft|25 ft|
+|60 ft|30 ft|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T133742Z" creationid="quentine" creationdate="20191105T133742Z">
+        <seg>|原速度|现速度|
+|:------------:|:-----------:|
+|20 尺|10 尺|
+|30 尺|15 尺|
+|40 尺|20 尺|
+|50 尺|25 尺|
+|60 尺|30 尺|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>|Previous Speed|Current Speed|
+|:------------:|:-----------:|
+|20 ft|15 ft|
+|30 ft|20 ft|
+|40 ft|30 ft|
+|50 ft|40 ft|
+|60 ft|50 ft|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T132808Z" creationid="quentine" creationdate="20191105T132808Z">
+        <seg>|原速度|现速度|
+|:------------:|:-----------:|
+|20 尺|15 尺|
+|30 尺|20 尺|
+|40 尺|30 尺|
+|50 尺|40 尺|
+|60 尺|50 尺|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
         <seg>|Ranks|Wealth Bonus Increase|
 |:---:|:-------------------:|
 |1–5|+1|
@@ -34626,6 +35658,24 @@
 |2–4|中等|
 |5–10|强烈|
 |11或更高|凌厉|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>|Registration Rating|License or Fee Purchase DC|Black Market Purchase DC\*|Time Required|
+|-------------------|:------------------------:|:------------------------:|:-----------:|
+|Licensed|10|+1|1 day|
+|Restricted|15|+2|2 days|
+|Military|20|+3|3 days|
+|Illegal|25|+4|4 days|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T123416Z" creationid="quentine" creationdate="20191104T123416Z">
+        <seg>|管制等级|执照与费用购买DC|黑市购买DC\*|所需时间|
+|-------------------|:------------------------:|:------------------------:|:-----------:|
+|执照|10|+1|1 天|
+|管制|15|+2|2 天|
+|军用|20|+3|3 天|
+|非法|25|+4|4 天|</seg>
       </tuv>
     </tu>
     <tu>
@@ -34726,6 +35776,44 @@
 |人形怪物类|
 |异界生物类|
 |不死生物类|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>|Situation|Modifier|
+|---------|--------|
+|Object is necessary for assignment|+6|
+|Object has obvious application for assignment|+4|
+|Object has peripheral application for assignment|+2|
+|Object has no obvious application for assignment|–2|
+|Object is rare|–2|
+|||
+|Object restriction||
+|Licensed|–2|
+|Restricted|–4|
+|Military|–6|
+|Illegal|–8|
+|||
+|Hero is skilled or proficient in use of object|+2|
+|Hero returned all gear undamaged on previous mission|+2|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191104T133843Z" creationid="quentine" creationdate="20191104T133843Z">
+        <seg>|情况|调整值|
+|---------|--------|
+|物品是任务所必须的|+6|
+|物品显然对任务有用|+4|
+|物品对任务有次要作用|+2|
+|物品与任务没什么关系|–2|
+|物品很稀有|–2|
+|||
+|物品管制等级||
+|执照|–2|
+|管制|–4|
+|军用|–6|
+|非法|–8|
+|||
+|英雄会用或擅长使用此物品|+2|
+|英雄在上一次任务将所有装备毫发无损地返还|+2|</seg>
       </tuv>
     </tu>
     <tu>
@@ -34856,6 +35944,76 @@
 |20–24|专业|
 |25–30|行家|
 |31及更高|大师|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>|Strength|Light Load|Medium Load|Heavy Load|
+|:------:|:--------:|:---------:|:--------:|
+|1|up to 3 lb|4–6 lb|7–10 lb|
+|2|up to 6 lb|7–13 lb|14–20 lb|
+|3|up to 10 lb|11–20 lb|21–30 lb|
+|4|up to 13 lb|14–26 lb|27–40 lb|
+|5|up to 16 lb|17–33 lb|34–50 lb|
+|6|up to 20 lb|21–40 lb|41–60 lb|
+|7|up to 23 lb|24–46 lb|47–70 lb|
+|8|up to 26 lb|27–53 lb|54–80 lb|
+|9|up to 30 lb|31–60 lb|61–90 lb|
+|10|up to 33 lb|34–66 lb|67–100 lb|
+|11|up to 38 lb|39–76 lb|77–115 lb|
+|12|up to 43 lb|44–86 lb|87–130 lb|
+|13|up to 50 lb|51–100 lb|101–150 lb|
+|14|up to 58 lb|59–116 lb|117–175 lb|
+|15|up to 66 lb|67–133 lb|134–200 lb|
+|16|up to 76 lb|77–153 lb|154–230 lb|
+|17|up to 86 lb|87–173 lb|174–260 lb|
+|18|up to 100 lb|101–200 lb|201–300 lb|
+|19|up to 116 lb|117–233 lb|234–350 lb|
+|20|up to 133 lb|134–266 lb|267–400 lb|
+|21|up to 153 lb|154–306 lb|307–460 lb|
+|22|up to 173 lb|174–346 lb|347–520 lb|
+|23|up to 200 lb|201–400 lb|401–600 lb|
+|24|up to 233 lb|234–466 lb|467–700 lb|
+|25|up to 266 lb|267–533 lb|534–800 lb|
+|26|up to 306 lb|307–613 lb|614–920 lb|
+|27|up to 346 lb|347–693 lb|694–1,040 lb|
+|28|up to 400 lb|401–800 lb|801–1,200 lb|
+|29|up to 466 lb|467–933 lb|934–1,400 lb|
+|+10|x4|x4|x4|</seg>
+      </tuv>
+      <tuv xml:lang="ZH-CN" changeid="quentine" changedate="20191105T131932Z" creationid="quentine" creationdate="20191105T131932Z">
+        <seg>|力量|轻度负载|中度负载|重度负载|
+|:------:|:--------:|:---------:|:--------:|
+|1|小于等于3 磅|4–6磅|7–10磅|
+|2|小于等于6 磅|7–13 磅|14–20 磅|
+|3|小于等于10 磅|11–20 磅|21–30 磅|
+|4|小于等于13 磅|14–26 磅|27–40 磅|
+|5|小于等于16 磅|17–33 磅|34–50 磅|
+|6|小于等于20 磅|21–40 磅|41–60 磅|
+|7|小于等于23 磅|24–46 磅|47–70 磅|
+|8|小于等于26 磅|27–53 磅|54–80 磅|
+|9|小于等于30 磅|31–60 磅|61–90 磅|
+|10|小于等于33 磅|34–66 磅|67–100 磅|
+|11|小于等于38 磅|39–76 磅|77–115 磅|
+|12|小于等于43 磅|44–86 磅|87–130 磅|
+|13|小于等于50 磅|51–100 磅|101–150 磅|
+|14|小于等于58 磅|59–116 磅|117–175 磅|
+|15|小于等于66 磅|67–133 磅|134–200 磅|
+|16|小于等于76 磅|77–153 磅|154–230 磅|
+|17|小于等于86 磅|87–173 磅|174–260 磅|
+|18|小于等于100 磅|101–200 磅|201–300 磅|
+|19|小于等于116 磅|117–233 磅|234–350 磅|
+|20|小于等于133 磅|134–266 磅|267–400 磅|
+|21|小于等于153 磅|154–306 磅|307–460 磅|
+|22|小于等于173 磅|174–346 磅|347–520 磅|
+|23|小于等于200 磅|201–400 磅|401–600 磅|
+|24|小于等于233 磅|234–466 磅|467–700 磅|
+|25|小于等于266 磅|267–533 磅|534–800 磅|
+|26|小于等于306 磅|307–613 磅|614–920 磅|
+|27|小于等于346 磅|347–693 磅|694–1,040 磅|
+|28|小于等于400 磅|401–800 磅|801–1,200 磅|
+|29|小于等于466 磅|467–933 磅|934–1,400 磅|
+|+10|x4|x4|x4|</seg>
       </tuv>
     </tu>
     <tu>

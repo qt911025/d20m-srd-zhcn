@@ -1,218 +1,218 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
 
-# EQUIPMENT BASICS
+# 装备基础
 
-## On-Hand Objects
+## 寻常物品
 
-To account for the mundane and innocuous objects that most people have among their possessions—and not force every character to specifically purchase such objects in order to employ them—use the following rules.
+稀松平常、人人都有的，且不强制要求每个角色若使用就必须特地购买的物品，适用以下规则。
 
-With the GM’s permission, a character can make a Wealth check to see if he or she has a mundane object on hand, as long as the object has a purchase DC of 10 or lower. (The GM determines the purchase DC for an object that’s not mentioned in this chapter, using similarly priced objects as a guide.) The Wealth check works the same as for buying the object, except that the character takes a –10 penalty on the check, and he or she can’t take 10 or take 20. Also, a character can’t make a Wealth check to see if he or she has a mundane object on hand during character generation or between adventures—only during play. If the character succeeds, his or her Wealth bonus is unaffected, even if the object’s purchase DC is higher than his or her Wealth bonus.
+若GM允许，寻常物品的购买DC小于等于10，角色可以做一个财富检定来判定自己手上是否有这个寻常物品。（GM决定此章未体积的物品的购买DC，以相同价位物品作参考。）财富检定过程与购买此物品相同，但角色检定有10点减值，且不可取10取20。而且角色不能在创建角色或场间这么做，只能在游戏过程内做。若检定成功，角色的财富加值不变，即使物品购买DC高于角色的财富加值也是如此。
 
-Depending on the situation, the GM can rule that a certain mundane object is not available; for an object to be obtainable, the character must be in a place where the object logically would be.
+根据情景，GM可规定那些物品禁用此规则，逻辑上角色必须在有此物品的地方才能拥有此物品。
 
-## Restricted Objects
+## 管制物品
 
-Some objects require licenses to own or operate, or are restricted in use to qualifying organizations or individuals. In such cases, a character must purchase a license or pay a fee to legally own the object. A license or fee is a separate item, purchased in addition to (and usually before) the object to which it applies. The four levels of restriction are as follows.
+一些物品需要拥有执照才能持有或适用，或是仅限于特定组织或个人使用。在此情况下，角色必须购买执照或为合法拥有此物品付费。执照或费用是单独的物品，购买（通常要先买）才能生效。以下是四个管制级别。
 
-Licensed: The owner must obtain a license to own or operate the object legally. Generally, the license is not expensive, and obtaining it has few if any additional legal requirements.
+执照：所有者必须持有执照以合法持有或使用此物品。一般来说，执照不贵，所需遵循的法律也不多。
 
-Restricted: Only specially qualified individuals or organizations are technically allowed to own the object. However, the real obstacles to ownership are time and money; anyone with sufficient patience and cash can eventually acquire the necessary license.
+管制：只有技术上有资质的个人或组织才能拥有此物品。然而拥有它的资格只是时间和钱的问题，只要有耐心和钱，总会获得执照的。
 
-Military: The object is sold primarily to legitimate police and military organizations. A military rating is essentially the same as restricted (see above), except that manufacturers and dealers are generally under tight government scrutiny and are therefore especially wary of selling to private individuals.
+军用：物品只卖给合法的警务或军事机构。军用级基本上与管制级相同（见上文），除了制造和处理需要受到政府安全机关的严密管控且禁止售卖给私人外。
 
-Illegal: The object is illegal in all but specific, highly regulated circumstances.
+非法：物品在极其特殊和高度管制的情况下才能使用，否则皆为非法。
 
-Table: Restricted Objects
+表：管制物品
 
-|Registration Rating|License or Fee Purchase DC|Black Market Purchase DC\*|Time Required|
+|管制等级|执照与费用购买DC|黑市购买DC\*|所需时间|
 |-------------------|:------------------------:|:------------------------:|:-----------:|
-|Licensed|10|+1|1 day|
-|Restricted|15|+2|2 days|
-|Military|20|+3|3 days|
-|Illegal|25|+4|4 days|
+|执照|10|+1|1 天|
+|管制|15|+2|2 天|
+|军用|20|+3|3 天|
+|非法|25|+4|4 天|
 
-\*Add to the object’s purchase DC if the character tries to buy it on the black market without first obtaining a license; see The Black Market, below.
+\*如果角色要在黑市购买而不是先获得执照，将此DC加到物品的购买DC，见下文“黑市”。
 
-### Purchasing a License
+### 购买执照
 
-To purchase a license or pay necessary fees, make a Wealth check against the purchase DC given in Table: Restricted Objects. With a success, the license is issued to the character after the number of days indicated. To speed the process, the hero can make a Knowledge (business) check against a DC equal to the license purchase DC. Success results in the license being issued in 1d6 hours. (During the process of character creation, a character just needs to purchase the license or pay the fee; the time required takes place before game play begins.)
+要购买执照或支付必要的费用，做一次财富检定以对抗`表：管制物品`相应管制等级的购买DC。检定成功，角色将在所需时间之后获得执照。要加速这一过程，英雄可以进行`知识（商学）`检定对抗执照的购买DC。成功则可在1d6小时后获得执照。（角色若在创建人物时获得执照，则只需要购买执照或支付费用，不需要消耗时间，因为这在游戏开始前就完成了。）
 
-As a general rule, a character must obtain the appropriate license before buying a restricted object. Legitimate dealers will not sell restricted objects to a character who does not have the necessary license. However, a character may be able to turn to the black market (see below) to obtain restricted objects without a license.
+总的来说，角色必须在购买管制物品前持有相应执照。合法持有者不会将管制物品卖给无执照的角色。但角色可以在黑市（见下文）无证购买管制物品。
 
-### The Black Market
+### 黑市
 
-Sometimes a character wants to obtain an object without going through the hassle of getting a license first. Almost anything is available on the black market. Knowledge (streetwise) checks can be used to locate a black market merchant. The DC is based on the location in question: 15 to find a black market merchant in a big city, or 20, 25, or higher in small towns and rural areas.
+有时角色想要走捷径，无证持有物品。几乎所有物品在黑市都有出售。知识（街头智慧）检定可用来确定黑市商人的位置。DC基于确定的位置类型：在大城市找黑市商人的DC为15，在小镇和乡下DC则为20、25甚至更高。
 
-Objects purchased on the black market are more expensive than those purchased legally. Add the black market purchase DC modifier from Table: Restricted Objects to the object’s purchase DC.
+在黑市购买物品的价格比合法购买更高。将`表：管制物品`的黑市购买DC调整值加到物品的购买DC上。
 
-Obtaining an object on the black market takes a number of days according to the Time Required column on Table: Restricted Objects.  The process can be hurried, but each day cut out of the process (to a minimum of one day) increases the purchase DC by an additional +1.
+拥有黑市物品所需的时间见`表：管制物品`的`所需时间`一列。过程可以加快，但每加快1天（最多缩减至一天完成）就额外增加1点购买DC。
 
-## Requisitioning Equipment
+## 申调装备
 
-When a hero working for Department-7 needs more equipment than he or she has on hand, the hero may try to requisition it. Department-7 evaluates whether the character really needs the object, how soon the agency can supply it, and whether the agency can reasonably expect to get it back when the hero is done with it.
+当为`第七局`工作的英雄需要手头没有的装备，可以试图`申调`以获得。第七局会评估角色是否真的需要此物品，第七局最快能在何时提供支援，以及英雄用完后是否能取回。
 
-The result is determined by a level check (1d20 + character level) against a DC equal to the equipment’s purchase DC. Add the character’s Charisma bonus to the check. Table: Requisition Modifiers lists modifiers that may affect the check.
+结果由角色等级检定（1d20+角色等级）与所需装备的购买DC对抗决定。检定要加上角色的魅力加值。`表：申调调整值`列举了作用在此检定上的调整值。
 
-The result of the check determines whether and how quickly Department-7 can provide the hero with the requested equipment. With a success, the object is issued to the hero. Generally, it takes 24 hours to obtain an object through requisition, but if the object is especially common, or if the hero beats the check DC by 5 or more, it is available in 1d4 hours.
+检定结果决定了第七局能否和有多快能为英雄提供所需装备。检定成功，则物品将配发给英雄。一般来说，申调需要24小时才能到货，但如果是特别普遍的物品，或者英雄检定成功5点及以上，则可在1d4后可用。
 
-Requisitioned objects are loaned, not given, to the hero. Obviously, expendable objects like ammunition don’t have to be returned if used.
+申调的物品是借用给英雄，而非给予。当然，消耗品例如弹药无需在使用后归还。
 
-Table: Requisition Modifiers
+表：申调调整值
 
-|Situation|Modifier|
+|情况|调整值|
 |---------|--------|
-|Object is necessary for assignment|+6|
-|Object has obvious application for assignment|+4|
-|Object has peripheral application for assignment|+2|
-|Object has no obvious application for assignment|–2|
-|Object is rare|–2|
+|物品是任务所必须的|+6|
+|物品显然对任务有用|+4|
+|物品对任务有次要作用|+2|
+|物品与任务没什么关系|–2|
+|物品很稀有|–2|
 |||
-|Object restriction||
-|Licensed|–2|
-|Restricted|–4|
-|Military|–6|
-|Illegal|–8|
+|物品管制等级||
+|执照|–2|
+|管制|–4|
+|军用|–6|
+|非法|–8|
 |||
-|Hero is skilled or proficient in use of object|+2|
-|Hero returned all gear undamaged on previous mission|+2|
+|英雄会用或擅长使用此物品|+2|
+|英雄在上一次任务将所有装备毫发无损地返还|+2|
 
-## Mastercraft Objects
+## 大师级工艺物品
 
-Weapons, armor, and some other types of equipment can be constructed as mastercraft objects. The exceptional quality of these objects provides the user a bonus on attack rolls, damage, Defense, or some other characteristic that improves when the object is used.
+武器、护甲、以及其他类型的装备可以以大师级工艺水准制造。物品超常的品质为使用者的攻击骰、伤害骰、防御或其他有关检定提供加值。
 
-A mastercraft object that provides a +1 bonus can usually be purchased on the open market as a custom version of a common object. The increased cost of such an object adds +3 to the purchase DC.
+提供1点加值的大师级工艺物品通常可以在公开的市场作为量产物品的定制版本购买到。购买DC比一般的物品多3。
 
-A rare few objects are of mastercraft quality even without customization—the off-the-shelf version of the object is of such high quality that it is always provides a bonus of +1. In these cases, the purchase DC is not increased (such objects are already priced higher than similar objects of lower quality).
+极少量的非定制物品也有大师级工艺——这种非定制版本的极品也拥有定制品的高质量。这种情况下，DC不加（这类物品的定价已经比低质量的类似物品高了）。
 
-Mastercraft objects with a bonus of +2 or +3 are not common and are generally not for sale. If a mastercraft +2 object could be found for purchase, its cost would add +6 to the normal purchase DC. The cost of a mastercraft +3 object would add +9 to the normal purchase DC.
+有2或3点加值的大师级物品很少见，通常是非卖品。如果+2的大师级工艺物品能买到，购买DC比一般的多6。+3的大师级物品，购买DC比一般的多9。
 
-## Concealed Weapons and Objects
+## 隐蔽的武器与物品
 
-It’s assumed that, when attempting to conceal a weap-on or other object, a character is wearing appropriate clothing.
+要将武器或其他物品藏在身上，角色一般要穿着合适的衣物。
 
-Drawing a concealed weapon is more difficult than drawing a regularly holstered weapon, and normally requires an attack action. Keeping the weapon in an easier-to-draw position makes concealing it more difficult.
+拔出隐蔽武器会比从正常的装具中拔出更困难，一般需要一个攻击动作。将武器藏在更容易拔出的位置会让武器更难于隐藏。
 
-### Sleight of Hand Checks
+### 手上功夫检定
 
-To conceal a weapon or other object, make a Sleight of Hand check. A character concealing an object before he or she heads out into public can usually take 10 unless he or she is rushed, trying to conceal it when others might see, or under other unusual constraints. Sleight of Hand can be used untrained in this instance, but the character must take 10.
+要隐藏武器或其他物品，应做一个手上功夫检定。 角色在公开露面前隐蔽物品通常可以取10，除非角色很匆忙、隐蔽时能被其他人看到、或在其他不寻常的限制下。此形式的手上功夫无需受训即可使用，但角色必须取10。
 
-### Size and Concealment
+### 尺寸和隐蔽
 
-The object’s size affects the check result, as shown on Table: Concealing Weapons and Objects. The type of holster used or clothing worn, and any attempt to make a weapon easier to draw, can also affect the check.
+物品的大小影响检定结果，如`表：隐蔽武器与物品`所示。使用的装具类型或穿着的衣物，以及任何让武器易于拔出的方式，都会影响检定。
 
-Table: Concealing Weapons and Objects
+表：隐蔽武器与物品
 
-|Condition|Sleight of Hand Modifier|
+|情况|手上功夫调整值|
 |---------|:----------------------:|
-|Size of weapon or object||
-|Fine|+12|
-|Diminutive|+8|
-|Tiny|+4|
-|Small|+0|
-|Medium-size|–4|
-|Large|–8|
-|Huge or larger|can’t conceal|
+|武器或物品大小||
+|超微型|+12|
+|微型|+8|
+|超小型|+4|
+|小型|+0|
+|中等|–4|
+|大型|–8|
+|超大型及以上|不可隐藏|
 |||
-|Clothing is tight or small|–4|
-|Clothing is especially loose or bulky|+2|
-|Clothing is specifically modified for concealing object|+2|
-|Weapon is carried in concealed carry holster|+4|
-|Weapon can be drawn normally|–2|
-|Weapon can be drawn as free action with Quick Draw feat|–4|
+|衣服又紧又小|–4|
+|衣服特别宽松|+2|
+|衣服特别为隐藏物品改装过|+2|
+|武器收纳在隐藏的装具中|+4|
+|武器能如平常一样拔出|–2|
+|武器能以快速拔出专长用即时动作拔出|–4|
 
-### Spotting Concealed Objects
+### 侦察隐蔽物品
 
-Noticing a concealed weapon or other object requires a Spot check. The DC varies: If the target made a roll when concealing an object, the DC of the Spot check to notice the object is the same as the target’s check result (an opposed check, in other words). If the target took 10 on his or her Sleight of Hand check, use this formula:
+要注意到一个隐藏的武器或其他物品需要一个侦察检定。DC有各种计法：如果目标隐藏物品时进行了检定，侦察检定的DC则等于目标的这个检定的结果（这算是一种对抗检定）。如果目标在手上功夫检定中取10，使用以下公式：
 
-Spot DC = Target’s Sleight of Hand skill modifier (including modifiers from Table: Concealing Weapons and Objects) + 10
+侦察DC=目标的手上功夫技能调整值（包括`表：隐蔽武器与物品`的调整值）+10
 
-An observer attempting to spot a concealed object receives a –1 penalty for every 10 feet between him or herself and the target, and a –5 penalty if distracted.
+观察者与目标距离每过10尺，侦察检定都有1点减值，若被分心则有5点减值。
 
-Patting someone down for a hidden weapon requires a similar check. However, the skill employed in Search, and the searcher gets a +4 circumstance bonus for the hands-on act of frisking the target. Some devices may also offer bonuses under certain circumstances (a metal detector offers a bonus to Search checks to find metal objects, for example).
+搜身检查隐藏武器也需要类似的检定。但搜身需要做的是`搜索检定`，搜身者由于是用手摸索，将获得4点情景加值。特定情况下，一些设备也能提供加值（比如金属探测器为寻找金属物品的搜索检定提供加值）。
 
-### Spotting Concealable Armor
+### 侦察隐蔽护甲
 
-Concealable armor can be worn under clothing if the wearer wants it to go unnoticed. Don’t use the modifiers from Table: Concealing Weapons and Objects when wearing concealable armor. Instead, anyone attempting to notice the armor must make a Spot check (DC 30).
+如果穿着护甲的人不想引人注目，隐蔽护甲可以穿在衣服内。穿着隐蔽护甲不是用`表：隐蔽武器与物品`里的调整值，而是他人进行侦察检定（DC30）以发现护甲。
 
-## Living in Luxury
+## 奢侈生活
 
-The purchase DCs given are for average-quality items. It’s possible to purchase similar items with luxury features, generally by increasing the purchase DC by 1. Although such items are more expensive, they offer no additional features or game benefits.
+物品给出的购买DC是一般品质的物品。可以购买类似的有奢侈特性的物品，通常购买DC要+1。虽然这些物品更贵，但不会拥有额外的功能或游戏性的增益。
 
-## Carrying Capacity
+## 负重能力
 
-A character’s carrying capacity depends directly on the character’s Strength score, as shown on Table: Carrying Capacity.
+角色的负重能力直接取决于角色的力量值，如`表：负重能力`所示。
 
-Table: Carrying Capacity
+表：负重能力
 
-|Strength|Light Load|Medium Load|Heavy Load|
+|力量|轻度负载|中度负载|重度负载|
 |:------:|:--------:|:---------:|:--------:|
-|1|up to 3 lb|4–6 lb|7–10 lb|
-|2|up to 6 lb|7–13 lb|14–20 lb|
-|3|up to 10 lb|11–20 lb|21–30 lb|
-|4|up to 13 lb|14–26 lb|27–40 lb|
-|5|up to 16 lb|17–33 lb|34–50 lb|
-|6|up to 20 lb|21–40 lb|41–60 lb|
-|7|up to 23 lb|24–46 lb|47–70 lb|
-|8|up to 26 lb|27–53 lb|54–80 lb|
-|9|up to 30 lb|31–60 lb|61–90 lb|
-|10|up to 33 lb|34–66 lb|67–100 lb|
-|11|up to 38 lb|39–76 lb|77–115 lb|
-|12|up to 43 lb|44–86 lb|87–130 lb|
-|13|up to 50 lb|51–100 lb|101–150 lb|
-|14|up to 58 lb|59–116 lb|117–175 lb|
-|15|up to 66 lb|67–133 lb|134–200 lb|
-|16|up to 76 lb|77–153 lb|154–230 lb|
-|17|up to 86 lb|87–173 lb|174–260 lb|
-|18|up to 100 lb|101–200 lb|201–300 lb|
-|19|up to 116 lb|117–233 lb|234–350 lb|
-|20|up to 133 lb|134–266 lb|267–400 lb|
-|21|up to 153 lb|154–306 lb|307–460 lb|
-|22|up to 173 lb|174–346 lb|347–520 lb|
-|23|up to 200 lb|201–400 lb|401–600 lb|
-|24|up to 233 lb|234–466 lb|467–700 lb|
-|25|up to 266 lb|267–533 lb|534–800 lb|
-|26|up to 306 lb|307–613 lb|614–920 lb|
-|27|up to 346 lb|347–693 lb|694–1,040 lb|
-|28|up to 400 lb|401–800 lb|801–1,200 lb|
-|29|up to 466 lb|467–933 lb|934–1,400 lb|
+|1|小于等于3 磅|4–6磅|7–10磅|
+|2|小于等于6 磅|7–13 磅|14–20 磅|
+|3|小于等于10 磅|11–20 磅|21–30 磅|
+|4|小于等于13 磅|14–26 磅|27–40 磅|
+|5|小于等于16 磅|17–33 磅|34–50 磅|
+|6|小于等于20 磅|21–40 磅|41–60 磅|
+|7|小于等于23 磅|24–46 磅|47–70 磅|
+|8|小于等于26 磅|27–53 磅|54–80 磅|
+|9|小于等于30 磅|31–60 磅|61–90 磅|
+|10|小于等于33 磅|34–66 磅|67–100 磅|
+|11|小于等于38 磅|39–76 磅|77–115 磅|
+|12|小于等于43 磅|44–86 磅|87–130 磅|
+|13|小于等于50 磅|51–100 磅|101–150 磅|
+|14|小于等于58 磅|59–116 磅|117–175 磅|
+|15|小于等于66 磅|67–133 磅|134–200 磅|
+|16|小于等于76 磅|77–153 磅|154–230 磅|
+|17|小于等于86 磅|87–173 磅|174–260 磅|
+|18|小于等于100 磅|101–200 磅|201–300 磅|
+|19|小于等于116 磅|117–233 磅|234–350 磅|
+|20|小于等于133 磅|134–266 磅|267–400 磅|
+|21|小于等于153 磅|154–306 磅|307–460 磅|
+|22|小于等于173 磅|174–346 磅|347–520 磅|
+|23|小于等于200 磅|201–400 磅|401–600 磅|
+|24|小于等于233 磅|234–466 磅|467–700 磅|
+|25|小于等于266 磅|267–533 磅|534–800 磅|
+|26|小于等于306 磅|307–613 磅|614–920 磅|
+|27|小于等于346 磅|347–693 磅|694–1,040 磅|
+|28|小于等于400 磅|401–800 磅|801–1,200 磅|
+|29|小于等于466 磅|467–933 磅|934–1,400 磅|
 |+10|x4|x4|x4|
 
-If the weight of everything a character is wearing or carrying amounts to no more than his or her light load figure, the character can move and perform any actions normally (though the character’s speed might already be slowed by the armor he or she is wearing).
+如果角色穿着或承载的所有物品总重量不超过其轻度负载，角色可正常移动和做任何动作（但角色会被护甲的减速属性所减速）。
 
-If the weight of the character’s gear falls in his or her medium load range, the character is considered encumbered. An encumbered character’s speed is reduced to the value given below, if the character is not already slowed to that speed for some other reason.
+如果角色负重处于中度负载区间，角色被视为处于`累赘`状态。累赘的角色速度将减至下表所示的速度，如果角色未因其他原因减至该速度。
 
-|Previous Speed|Current Speed|
+|原速度|现速度|
 |:------------:|:-----------:|
-|20 ft|15 ft|
-|30 ft|20 ft|
-|40 ft|30 ft|
-|50 ft|40 ft|
-|60 ft|50 ft|
+|20 尺|15 尺|
+|30 尺|20 尺|
+|40 尺|30 尺|
+|50 尺|40 尺|
+|60 尺|50 尺|
 
-An encumbered character performs as if his or her Dexterity modifier were no higher than +3. In addition, the character takes a –3 encumbrance penalty on attack rolls and checks involving the following skills: Balance, Climb, Escape Artist, Hide, Jump, Move Silently, and Tumble. This encumbrance penalty stacks with any armor penalty that may also apply.
+累赘角色的敏捷调整值将限定在不超过+3。此外，角色的攻击骰和涉及`平衡`、`攀爬`、`脱逃`、`躲藏`、`跳跃`、`潜行`、`翻滚`的检定都承受3点累赘减值。累赘减值将与其他任何生效的护甲减值叠加。
 
-If the weight of a character’s gear falls in his or her heavy load range, the character is considered heavily encumbered. A heavily encumbered character’s speed is reduced to the value given below, if the character is not already slowed to that speed for some other reason.
+如果角色负重处于重度负载区间，角色被视为处于`重度负载`状态。重度负载的角色的速度将减至下表所示的速度，如果角色未因其他原因减至该速度。
 
-|Previous Speed|Current Speed|
+|原速度|现速度|
 |:------------:|:-----------:|
-|20 ft|10 ft|
-|30 ft|15 ft|
-|40 ft|20 ft|
-|50 ft|25 ft|
-|60 ft|30 ft|
+|20 尺|10 尺|
+|30 尺|15 尺|
+|40 尺|20 尺|
+|50 尺|25 尺|
+|60 尺|30 尺|
 
-A heavily encumbered character performs as if his or her Dexterity modifier were no higher than +1. In addition, the character takes a –6 encumbrance penalty on attack rolls and checks involving the following skills: Balance, Climb, Escape Artist, Hide, Jump, Move Silently, and Tumble. This encumbrance penalty stacks with any armor penalty that may also apply. Finally, a heavily encumbered character’s maximum running speed is his or her speed x3 instead of speed x4.
+重度累赘角色的敏捷调整值将限定在不超过+1。此外，角色的攻击骰和涉及`平衡`、`攀爬`、`脱逃`、`躲藏`、`跳跃`、`潜行`、`翻滚`的检定都承受6点累赘减值。累赘减值将与其他任何生效的护甲减值叠加。最后，重度累赘角色的最高奔跑速度是3倍而非4倍。
 
-The figure at the upper end of a character’s heavy load range is his or her maximum load. No character can move or perform any other actions while carrying more than his or her maximum load.
+重度负载区间的上界就是角色的最大负重。承载负重超过最大值的角色无法移动或做其他动作。
 
-**Lifting and Dragging:** A character can lift up to his or her maximum load over his or her head.
+**举重和拖行：** 角色可将重量为其最大负重的物品举过头顶。
 
-A character can lift up to double his or her maximum load off the ground, but he or she can only stagger around with it. While overloaded in this way, the character loses any Dexterity bonus to Defense and can only move 5 feet per round (as a full-round action).
+角色可将两倍于最大负重的重量搬离地面，但只能勉强移动。这时角色的防御将失去敏捷加值，且每轮只能以一个整轮动作移动5尺。
 
-A character can generally push or drag along the ground up to five times his or her maximum load. Favorable conditions (smooth ground, dragging a slick object) can double these numbers, and bad circumstances (broken ground, pushing an object that snags) can reduce them to one-half or less.
+角色在一般情况下可以推动或拖行五倍于最大负重的物品。有利条件下（光滑的地面、拖动光滑的物品）可拖行重量加倍，不利条件下（破损的地面、推动被阻碍的物品）可拖行重量减半。
 
-**Bigger and Smaller Creatures:** The figures on Table: Carrying Capacity are for Medium-size bipedal creatures. Larger bipedal creatures can carry more weight depending on size category: Large x2, Huge x4, Gargantuan x8, and Colossal x16. Smaller creatures can carry less weight depending on size category: Small x3/4, Tiny x1/2, Diminutive x1/4, and Fine x1/8.
+**体型较大或较小的生物：** 表：负重能力是以普通尺寸的双足生物为准。更大的双足生物可根据体型负载更大重量：大型×2、超大型×4、巨型×8、超巨型×16。更小的生物可根据体型负载更小的重量：小型×3/4、超小型×1/2、微型×1/4、超微型1/8。
 
-Quadrupeds, such as horses, can carry heavier loads than characters can. Use these multipliers instead of the ones given above: Fine x1/4, Diminutive x1/2, Tiny x3/4, Small x1, Medium-size x1.5, Large x3, Huge x6, Gargantuan x12, and Colossal x24.
+四足生物，比如马，能比角色负载更重的重量。使用此乘数而非用上述规则：超微型×1/4、微型×1/2、超小型×3/4、小型×1、普通×1.5、大型×3、超大型×6、巨型×12、超巨型×24。
 
-**Tremendous Strength:** For Strength scores not listed, find the Strength score between 20 and 29 that has the same ones digit as the creature’s Strength score. Multiply the figures by 4 if the creature’s Strength is in the 30s, 16 if it’s in the 40s, 64 if it’s in the 50s, and so on.
+**超乎寻常的力量：** 对于未列在表中的力量值，从表中力量值20到29中，根据该生物力量值个位数找到对应的负重数值，然后十位数字每多10点就相应把负重数值乘以4（30多乘以4、40多乘以16、50多乘以64等等）。

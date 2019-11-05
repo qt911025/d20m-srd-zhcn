@@ -865,7 +865,7 @@ Seek	搜寻	驯养动物
 Stay	停留	驯养动物
 Track	追踪	驯养动物
 Work	劳作	驯养动物
-medium	中等	负载
+medium	中度	负载
 purpose	（动物的）工作	驯养动物
 Combat Riding	战斗骑乘
 Fighting	战斗	驯养动物，工作
@@ -935,3 +935,8 @@ Illegal	非法
 Requisitioning	申调
 holster	装具
 Carrying Capacity	负重能力
+Light Load	轻度负载
+encumbered	累赘
+heavily encumbered	重度累赘
+Lift	举重
+Drag	拖行
