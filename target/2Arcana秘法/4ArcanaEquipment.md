@@ -351,13 +351,13 @@ Studded Leather
 This armor is made from tough but flexible leather (not hardened leather as with normal leather armor) reinforced with close-set metal rivets. Some heavily studded motorcycle gear can be considered studded leather.
 
 GENERAL EQUIPMENT
-Many of the items in this section are battery operated. Any device that uses batteries comes with them. As a general rule, ignore battery life—assume characters are smart enough to recharge or replace their batteries between adventures, and that the batteries last as long as needed during adventures. If battery life is important in your game, roll 1d20 every time a battery-operated item is used. On a result of 1, the battery charge runs out and the item is useless. New batteries have a purchase DC of 2.
+Many of the items in this section are battery operated. 需要电池的设备旁边会有相应电池的描述。As a general rule, ignore battery life—assume characters are smart enough to recharge or replace their batteries between adventures, and that the batteries last as long as needed during adventures. If battery life is important in your game, roll 1d20 every time a battery-operated item is used. On a result of 1, the battery charge runs out and the item is useless. New batteries have a purchase DC of 2.
 General equipment is described through a number of stats (see Table: General Equipment).
 Weight: This column gives the item’s weight.
 Purchase DC: This is the purchase DC to buy the item.
 Restriction: The restriction rating for the item.
 
-Table: General Equipment
+表：普通装备
 
 |Item|Weight|Purchase DC|Restriction|
 |----|------|-----------|-----------|

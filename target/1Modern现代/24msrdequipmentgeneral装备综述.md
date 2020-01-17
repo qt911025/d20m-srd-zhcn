@@ -1,858 +1,858 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
 
-# EQUIPMENT (GENERAL)
+# 装备（综述）
 
-## General Equipment
+## 普通装备
 
-This section covers the wide variety of general gear available to adventurers of all sorts.
+本节内容包括冒险用到的各式各样普通装备。
 
-Many of the objects in this section are battery--operated. Any device that uses batteries comes with them. As a general rule, ignore battery life—assume that heroes (and their antagonists) are smart enough to recharge or replace their batteries between adventures, and that the batteries last as long as needed during adventures. If battery life is important in the game, roll 1d20 every time a battery-operated item is used. On a result of 1, the batteries are dead and the object is useless. New batteries have a purchase DC of 2 and can be changed as a move action.
+本节许多物品是电池驱动的。需要电池的设备旁边会有相应电池的描述。一般规则不用管电池寿命——默认英雄（以及对手）足够聪明，会在场间充电或更换电池，而电池足够用到一场冒险结束。如果电池寿命对于游戏很重要，每次使用电池驱动的设备都掷1d20。若结果为1，则电池耗尽，只能废弃。新电池购买DC为2，并可以一个移动动作更换。
 
-## Equipment Tables
+## 装备列表
 
-Equipment is described by a number of statistics, as shown on Table: General Equipment.
+装备有各种属性，见表：普通装备。
 
-**Size:** The size category of a piece of equipment helps to determine how easy that object is to conceal, and it also indicates whether using the object requires one hand or two. In general, a character needs only one hand to use any object that is of his or her size category or smaller.
+**尺寸：** 装备的尺寸决定隐蔽物品的难度，也决定了该用单手还是双手使用。一般来说，与角色同样大小或更小的物品，角色只需要单手就能使用。
 
-**Weight:** This column gives the item’s weight.
+**重量：** 此项为物品的重量。
 
-**Purchase DC:** This is the purchase DC for a Wealth check to acquire the item. This number reflects the base price and doesn’t include any modifier for purchasing the item on the black market.
+**购买 DC:** 获得此物品所需财富检定的购买DC。此值指基本价格，并未把黑市加值算在内。
 
-**Restriction:** The restriction rating for the object, if any, and the appropriate black market purchase DC modifier. Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the item on the black market.
+**限制级：** 物品的管制等级，如果有，还会列出相应的黑市购买DC调整值。记住一定要在黑市购买进行财富检定时加上这些调整值。
 
-Table: General Equipment
+表：普通装备
 
-|Object|Size|Weight|Purchase DC|Restriction|
+|物品|尺寸|重量|购买 DC|限制级|
 |------|:--:|:----:|:---------:|:---------:|
-|**Bags and Boxes**|-|-|-|-|
-|Aluminum travel case |||||
-|10 lb. Capacity|Med|5 lb.|10|—|
-|40 lb. Capacity|Large|10 lb.|11|—|
-|75 lb. capacity|Large|15 lb.|12|—|
+|**箱包**|-|-|-|-|
+|铝制旅行箱 |||||
+|10 磅容量|普通|5 磅|10|—|
+|40 磅容量|大型|10 磅|11|—|
+|75 磅容量|大型|15 磅|12|—|
 ||||||
-|Briefcase|Med|2 lb.|7|—|
-|Contractor’s field bag|Med|2 lb.|6|—|
-|Day pack|Small|2 lb.|5|—|
-|Handbag|Small|1 lb.|4|—|
+|公文包|普通|2 磅|7|—|
+|工程包|普通|2 磅|6|—|
+|双肩包|小型|2 磅|5|—|
+|手提包|小型|1 磅|4|—|
 ||||||
-|Range pack|||||
-|Standard |Small|2 lb.|7|—|
-|Oversized|Med|3 lb.|9|—|
-|Patrol box|Med|4 lb.|9|—|
+|战术背包|||||
+|标准 |小型|2 磅|7|—|
+|大码|普通|3 磅|9|—|
+|巡逻箱|普通|4 磅|9|—|
 ||||||
-|**Clothing**|-|-|-|-|
-|Clothing outfit|||||
-|Business|Med|3 lb.|12|—|
-|Casual|Med|2 lb.|8|—|
-|Formal|Med|3 lb.|15|—|
+|**衣物**|-|-|-|-|
+|套装|||||
+|公务装|普通|3 磅|12|—|
+|便服|普通|2 磅|8|—|
+|正装|普通|3 磅|15|—|
 ||||||
-|Fatigues|Med|3 lb.|9|—|
-|Uniform|Med|2 lb.|9|—|
-|Ghillie suit|Med|5 lb.|6|—|
+|作训服|普通|3 磅|9|—|
+|制服|普通|2 磅|9|—|
+|吉利服|普通|5 磅|6|—|
 ||||||
-|Outerwear|||||
-|Coat|Med|2 lb.|8|—|
-|Fatigue jacket|Med|2 lb.|7|—|
-|Overcoat|Med|3 lb.|9|—|
-|Parka|Med|3 lb.|9|—|
+|外套|||||
+|外套|普通|2 磅|8|—|
+|作训外套|普通|2 磅|7|—|
+|大衣|普通|3 磅|9|—|
+|派克大衣|普通|3 磅|9|—|
 ||||||
-|Photojournalist’s vest|Med|1 lb.|9|—|
-|Windbreaker|Med|1 lb.|6|—|
-|Tool belt|Small|2 lb.|9|—|
+|摄影马甲|普通|1 磅|9|—|
+|防风夹克|普通|1 磅|6|—|
+|工具腰带|小型|2 磅|9|—|
 ||||||
-|**Computers and Consumer Electronics**|||||
-|Camera|||||
-|35mm|Small|2 lb.|17|—|
-|Digital|Tiny|0.5 lb.|14|—|
-|Disposable|Tiny|0.5 lb.|4|—|
-|Film|Dim|—|3|—|
-|Film developing (roll)|—|—|3|—|
+|**计算机与用电器**|||||
+|🤳相机|||||
+|35mm相机|小型|2 磅|17|—|
+|数码相机|超小型|0.5 磅|14|—|
+|拍立得相机|超小型|0.5 磅|4|—|
+|胶片|微型|—|3|—|
+|胶片冲洗（掷骰）|—|—|3|—|
 ||||||
-|Cell phone|Dim|—|9|—|
+|手机|微型|—|9|—|
 ||||||
-|Computer|||||
-|Desktop|Large|10 lb.|22|—|
-|Notebook|Med|5 lb.|23|—|
-|Upgrade|—|—|See text|—|
+|计算机|||||
+|台式电脑|大型|10 磅|22|—|
+|笔记本电脑|普通|5 磅|23|—|
+|升级电脑|—|—|见描述|—|
 ||||||
-|Digital audio recorder|Tiny|1 lb.|10|—|
+|数码录音机|超小型|1 磅|10|—|
 ||||||
-|Modem|||||
-|Broadband|Tiny|1 lb.|6|—|
-|Cellular|Tiny|1 lb.|6|—|
+|调制解调器|||||
+|宽带|超小型|1 磅|6|—|
+|蜂窝网|超小型|1 磅|6|—|
 ||||||
-|PDA|Tiny|0.5 lb.|16|—|
-|Portable satellite phone|Small|2 lb.|17|—|
-|Portable video camera|Small|2 lb.|16|—|
-|Printer|Med|3 lb.|12|—|
-|Scanner|Med|3 lb.|12|—|
+|PDA|超小型|0.5 磅|16|—|
+|便携式卫星电话|小型|2 磅|17|—|
+|便携式摄像机|小型|2 磅|16|—|
+|打印机|普通|3 磅|12|—|
+|扫描仪|普通|3 磅|12|—|
 ||||||
-|Walkie-talkie|||||
-|Basic|Tiny|1 lb.|7|—|
-|Professional|Tiny|1 lb.|15|—|
+|对讲机|||||
+|普通对讲机|超小型|1 磅|7|—|
+|专业对讲机|超小型|1 磅|15|—|
 ||||||
-|**Surveillance Gear**|||||
-|Black box|Tiny|0.5 lb.|4|Illegal (+4)|
-|Caller ID defeater|Tiny|1 lb.|5|—|
-|Cellular interceptor|Tiny|0.5 lb.|23|—|
-|Lineman’s buttset|Tiny|1 lb.|13|Lic (+1)|
-|Metal detector|Small|2 lb.|11|—|
-|Night vision goggles|Small|3 lb.|17|—|
-|Tap detector|Tiny|1 lb.|7|—|
+|**监控设备**|||||
+|小黑盒|超小型|0.5 磅|4|非法（+4）|
+|电话匿名装置|超小型|1 磅|5|—|
+|无线拦截器|超小型|0.5 磅|23|—|
+|接线工具|超小型|1 磅|13|执照（+1）|
+|金属探测器|小型|2 磅|11|—|
+|夜视仪|小型|3 磅|17|—|
+|电话窃听检测器|超小型|1 磅|7|—|
 ||||||
-|Telephone tap|||||
-|Line tap|Tiny|0.5 lb.|13|Lic (+1)|
-|Receiver tap|Tiny|0.5 lb.|3|Res (+2)|
-|Telephone line tracer|Med|5 lb.|23|—|
+|电话窃听器|||||
+|线路窃听器|超小型|0.5 磅|13|执照（+1）|
+|接收端窃听器|超小型|0.5 磅|3|管制（+2）|
+|电话线路跟踪器|普通|5 磅|23|—|
 ||||||
-|**Professional Equipment**|||||
-|Bolt cutter|Med|5 lb.|6|—|
-|Caltrops (25)|Small|2 lb.|5|—|
-|Chemical kit|Med|6 lb.|16|—|
-|Demolitions kit|Med|5 lb.|13|Lic (+1)|
-|Disguise kit|Med|5 lb.|12|—|
-|Duct tape|Tiny|1 lb.|3|—|
+|**专业装备**|||||
+|断线钳|普通|5 磅|6|—|
+|铁蒺藜（25）|小型|2 磅|5|—|
+|化学工具|普通|6 磅|16|—|
+|爆破工具|普通|5 磅|13|执照（+1）|
+|易容工具|普通|5 磅|12|—|
+|胶带|超小型|1 磅|3|—|
 ||||||
-|Electrical tool kit|||||
-|Basic|Large|12 lb.|14|—|
-|Deluxe|Huge|33 lb.|21|—|
+|电气工具|||||
+|基本版电气工具|大型|12 磅|14|—|
+|高级版电气工具|超大型|33 磅|21|—|
 ||||||
-|Evidence kit|||||
-|Basic|Med|6 lb.|7|—|
-|Deluxe|Med|8 lb.|15|—|
+|取证工具|||||
+|基本版取证工具|普通|6 磅|7|—|
+|高级版取证工具|普通|8 磅|15|—|
 ||||||
-|Fake ID|Fine|—|See text|Illegal (+4)|
-|First aid kit|Small|3 lb.|5|—|
-|Forgery kit|Small|3 lb.|12|—|
+|假身份|超微型|—|见描述|非法（+4）|
+|急救箱|小型|3 磅|5|—|
+|伪造工具|小型|3 磅|12|—|
 ||||||
-|Handcuffs|||||
-|Steel|Tiny|1 lb.|7|—|
-|Zip-tie (25)|Dim|0.5 lb.|6|—|
+|手铐|||||
+|钢制手铐|超小型|1 磅|7|—|
+|约束带（25）|微型|0.5 磅|6|—|
 ||||||
-|Instrument, keyboard|Large|12 lb.|12|—|
-|Instrument, percussion|Huge|50 lb.|14|—|
-|Instrument, stringed|Large|7 lb.|13|—|
-|Instrument, wind|Tiny|1 lb.|8|—|
+|键盘乐器|大型|12 磅|12|—|
+|打击乐器|超大型|50 磅|14|—|
+|弦乐器|大型|7 磅|13|—|
+|管乐器|超小型|1 磅|8|—|
 ||||||
-|Lockpicks|||||
-|Car opening kit|Tiny|1 lb.|6|Lic (+1)|
-|Lockpick set|Tiny|1 lb.|9|Lic (+1)|
-|Lock release gun|Tiny|0.5 lb.|12|Res (+2)|
+|锁撬|||||
+|撬车工具|超小型|1 磅|6|执照（+1）|
+|撬锁工具|超小型|1 磅|9|执照（+1）|
+|破锁枪|超小型|0.5 磅|12|管制（+2）|
 ||||||
-|Mechanical tool kit|||||
-|Basic|Large|22 lb.|13|—|
-|Deluxe|Huge|45 lb.|20|—|
+|机械工具|||||
+|基本版机械工具|大型|22 磅|13|—|
+|高级版机械工具|超大型|45 磅|20|—|
 ||||||
-|Medical kit|Med|5 lb.|15|—|
-|Multipurpose tool|Tiny|0.5 lb.|9|—|
-|Pharmacist kit|Med|6 lb.|17|Res (+2)|
-|Search-and-rescue kit|Med|7 lb.|12|—|
-|Spike strip|Huge|22 lb.|13|—|
-|Surgery kit|Med|5 lb.|16|Lic (+1)|
+|医疗箱|普通|5 磅|15|—|
+|多功能工具钳|超小型|0.5 磅|9|—|
+|配药箱|普通|6 磅|17|管制（+2）|
+|搜救工具|普通|7 磅|12|—|
+|道路钉障|超大型|22 磅|13|—|
+|手术箱|普通|5 磅|16|执照（+1）|
 ||||||
-|**Survival Gear**|||||
-|Backpack|Med|3 lb.|10|—|
+|**生存装备**|||||
+|背包|普通|3 磅|10|—|
 ||||||
-|Binoculars|||||
-|Standard|Small|2 lb.|7|—|
-|Rangefinding|Small|3 lb.|15|—|
-|Electro-optical|Small|4 lb.|16|—|
+|双筒望远镜|||||
+|标准双筒望远镜|小型|2 磅|7|—|
+|测距双筒望远镜|小型|3 磅|15|—|
+|光电双筒望远镜|小型|4 磅|16|—|
 ||||||
-|Chemical light sticks (5)|Tiny|1 lb.|2|—|
-|Climbing gear|Large|10 lb.|11|—|
-|Compass|Dim|0.5 lb.|5|—|
-|Fire extinguisher|Med|3 lb.|8|—|
-|Flash goggles|Tiny|2 lb.|15|—|
+|化学荧光棒（5）|超小型|1磅|2|—|
+|攀爬装备|大型|10 磅|11|—|
+|指南针|微型|0.5 磅|5|—|
+|灭火器|普通|3 磅|8|—|
+|防闪光护目镜|超小型|2 磅|15|—|
 ||||||
-|Flashlight|||||
-|Penlight|Dim|0.5 lb.|3|—|
-|Standard|Tiny|1 lb.|4|—|
-|Battery flood|Small|2 lb.|6|—|
+|手电筒|||||
+|小手电|微型|0.5 磅|3|—|
+|标准手电筒|超小型|1 磅|4|—|
+|强光手电筒|小型|2 磅|6|—|
 ||||||
-|Gas mask|Small|5 lb.|13|—|
-|GPS receiver|Tiny|1 lb.|15|—|
-|Map|||||
-|Road atlas|Tiny|1 lb.|4|—|
-|Tactical map|Tiny|0.5 lb.|3|—|
+|防毒面具|小型|5 磅|13|—|
+|GPS接收器|超小型|1 磅|15|—|
+|地图|||||
+|交通图|超小型|1 磅|4|—|
+|战术地图|超小型|0.5 磅|3|—|
 ||||||
-|Mesh vest|Med|7 lb.|8|—|
-|Portable stove|Tiny|1 lb.|9|—|
-|Rope (150 ft.)|Large|12 lb.|5|—|
-|Sleeping bag|Med|4 lb.|9|—|
+|网眼背心|普通|7 磅|8|—|
+|便携炉|超小型|1 磅|9|—|
+|绳索（150尺）|大型|12 磅|5|—|
+|睡袋|普通|4 磅|9|—|
 ||||||
-|Tent|||||
-|2-person dome|Med|4 lb.|11|—|
-|4-person dome|Med|7 lb.|12|—|
-|8-person dome|Large|10 lb.|13|—|
-|Trail rations (12)|Tiny|1 lb.|5|—|
+|帐篷|||||
+|2人圆顶帐篷|普通|4 磅|11|—|
+|4人圆顶帐篷|普通|7 磅|12|—|
+|8人圆顶帐篷|大型|10 磅|13|—|
+|单兵口粮（12）|超小型|1 磅|5|—|
 ||||||
-|**Weapon Accessories**|||||
-|Box magazine|Tiny|0.5 lb.|4|—|
+|**武器附件**|||||
+|弹匣|超小型|0.5 磅|4|—|
 ||||||
-|Detonator|||||
-|Blasting cap|Tiny|0.5 lb.|4|Lic (+1)|
-|Radio controlled|Tiny|0.5 lb.|10|Lic (+1)|
-|Timed|Tiny|0.5 lb.|7|Lic (+1)|
-|Wired|Tiny|1 lb.|6|Lic (+1)|
+|起爆器|||||
+|起爆雷管|超小型|0.5 磅|4|执照（+1）|
+|遥控起爆器|超小型|0.5 磅|10|执照（+1）|
+|计时起爆器|超小型|0.5 磅|7|执照（+1）|
+|线控起爆器|超小型|1 磅|6|执照（+1）|
 ||||||
-|Holster|||||
-|Hip|Tiny|1 lb.|5|—|
-|Concealed carry|Tiny|0.5 lb.|5|—|
+|装具|||||
+|腰部装具|超小型|1 磅|5|—|
+|隐藏装具|超小型|0.5 磅|5|—|
 ||||||
-|Illuminator|Tiny|0.5 lb.|7|—|
-|Laser sight|Tiny|0.5 lb.|15|—|
+|挂载手电筒|超小型|0.5 磅|7|—|
+|激光瞄具|超小型|0.5 磅|15|—|
 ||||||
-|Scope|||||
-|Standard|Tiny|0.5 lb.|11|—|
-|Electro-optical|Small|3 lb.|18|—|
+|瞄准镜|||||
+|标准瞄准镜|超小型|0.5 磅|11|—|
+|光电瞄准镜|小型|3 磅|18|—|
 ||||||
-|Speed loader|Tiny|0.5 lb.|3|—|
+|快速装弹器|超小型|0.5 磅|3|—|
 ||||||
-|Suppressor|||||
-|Pistol|Tiny|1 lb.|12|Mil (+3)|
-|Rifle|Small|4 lb.|14|Mil (+3)|
+|抑制器|||||
+|手枪抑制器|超小型|1 磅|12|军用（+3）|
+|步枪抑制器|小型|4 磅|14|军用（+3）|
 
-## Bags and Boxes
+## 箱包
 
-With the wide variety of equipment available to modern adventurers, it’s often critical to have something to store the equipment in or carry it around in.
+D20M的装备五花八门，把它们装起来尤为重要。
 
-### Aluminum Travel Case
+### 铝制旅行箱
 
-A travel case is a reinforced metal box with foam inserts. Wing-style clamps keep it from opening accidentally.
+旅行箱是内含泡沫衬垫的加固金属箱。翼形夹固定箱子，以防意外打开。
 
-### Briefcase
+### 公文包
 
-A briefcase can carry up to 5 pounds worth of gear. A briefcase can be locked, but its cheap lock is not very secure (Disable Device DC 20; break DC 10).
+公文包能装下至多5磅的物品。公文包可以上锁，但廉价的锁并不牢靠（解除装置DC20；破坏DC10）。
 
-### Contractor’s Field Bag
+### 维修工具包
 
-A combination tool bag and notebook computer case, this has pockets for tools, pens, notepads, and cell phones. It even has a clear plastic flap for maps or plans. Made of durable fabric, it holds 10 pounds worth of equipment and comes with a shoulder strap.
+工具包和笔记本电脑箱的结合，内含工具袋、笔袋、笔记本袋和手机袋。甚至还有透明的塑料口袋方便查看地图或计划。用耐用织物制造，可装下10磅的装备，且配备肩带。
 
-### Day Pack
+### 双肩包
 
-This is a small backpack, the sort often used by students to carry their books around, or by outdoor enthusiasts on short hikes. It holds 8 pounds of gear and fits comfortably over one or both shoulders.
+这是一种小型背包，常见于学生装书，或户外运动爱好者短程徒步。可装8磅的装备，且配备合身的单肩带或双肩带。
 
-### Handbag
+### 手提包
 
-Handbags provide another way to carry 2 pounds of equipment. The purchase DC shown is for a basic bag; high-fashion purses can increase the DC by as much as 5.
+要装2磅的装备，手提包也是一种选择。所示购买DC是基本款的：潮流款式的DC要加5。
 
-### Range Pack
+### 战术背包
 
-This lightweight black bag has a spacious inner compartment capable of holding roughly 8 pounds of gear and can hold an additional 4 pounds in six zippered external compartments. The larger version holds 12 pounds of equipment in the internal compartment and another 6 pounds in the zippered external pouches. A range pack easily holds several pistols and a submachine gun, and the larger version can hold disassembled rifles.
+这种轻便的黑色背包内部拥有隔间，可装载8磅的装备，并在外部拥有6个拉链袋，可装载4磅装备。大码版内有12磅装备的空间，外可装载6磅。战术背包可轻松装下好几把手枪和一把冲锋枪，大码版可装下拆散的步枪。
 
-### Patrol Box
+### 巡逻箱
 
-Originally developed for use by police officers, this portable file cabinet has found favor with traveling salespeople. This hard-sided briefcase takes up the passenger seat of an automobile and provides easy access to files, storage for a laptop computer, and a writing surface. It holds 5 pounds worth of equipment and has an average lock (Disable Device DC 25; break DC 15).
+这种便携的文件柜最初设计给警官使用，后来在行商中流行开来。这种硬边的公文包占用了汽车的一个乘客位，存取文件更方便，可放置笔记本电脑，还可作为桌子在上面书写。可装载5磅的装备，并拥有一般的锁（解除装置DC25；破坏DC15）。
 
-## Clothing
+## 衣物
 
-The items described here represent special clothing types, or unusual outfits that a character might need to purchase.
+这里描述的物品代表了特别的服装类型，或者角色可能需要购买的不寻常的衣物。
 
-For the most part, clothing choice is based on character concept.  It’s generally assumed that a hero owns a reasonable wardrobe of the sorts of clothes that fit his or her lifestyle.  Sometimes, however, a character might need something out of the ordinary. When that’s the case, he or she will have to purchase it like any other piece of gear. Clothes have two effects on game mechanics: one on Disguise checks, and one on Sleight of Hand checks.
+绝大多数情况下，衣物的选择基于角色性质。英雄通常自带一个合理的符合其生活方式的衣橱。但有时候角色想要与众不同。在这种情况下，角色就该像购买其他装备一样购置衣物。衣物在游戏机制上通常有两个作用：一个是易容检定，另一个是手上功夫检定。
 
-First, clothing is part of a disguise. See the Disguise skill description for more on how appropriate dress affects Disguise checks.
+首先，衣物是易容的一部分。得体的衣着如何影响易容检定详见易容技能描述。
 
-Clothes also help to hide firearms, body armor, and small objects. Tightly tailored clothing imposes a penalty on an attempt to conceal an object; clothing purposely tailored to conceal objects provides a bonus.
+衣物同样可以隐藏火器、躯干护甲以及细小物件。紧身的衣物会为隐藏物品带来减值；宽松的衣物为隐藏物品带来加值。
 
-### Clothing Outfit
+### 套装
 
-An outfit of clothing represents everything a character needs to dress a part: pants or skirt, shirt, undergarments, appropriate shoes or boots, socks or stockings, and any necessary belt or suspenders. The clothes a character wears does not count against the weight limit for encumbrance.
+套装是指角色穿着的所有单衣的配套：短裤或短裙、内衣、得体的鞋子靴子、短袜或长袜、以及任何必需的腰带或吊带。角色穿的这些衣服的重量不计入累赘。
 
-Business: A business outfit generally includes a jacket or blazer, and it tends to look sharp and well groomed without being overly formal.
+公务装：公务装一般包括一件夹克或西装，更注重展现干练的形象而又不显得过于正式。
 
-Casual: Casual clothes range from cut-off jeans and a T-shirt to neatly pressed khakis and a hand-knit sweater.
+便装：便装涵盖了从破洞牛仔裤和T恤到整洁的卡其裤和针织毛衣等广泛的服装类型。
 
-Formal: From a little black dress to a fully appointed tuxedo, formal clothes are appropriate for “black tie” occasions. Special designer creations can have purchase DCs much higher than shown on the table.
+正装：从小黑连衣裙到全定制燕尾服，正装适用于极其正式的集会场合。特别设计的服装作品的购买DC会高于列表所示值。
 
-Fatigues: Called “battle dress uniforms” (or BDUs) in the United States Army, these are worn by hardened veterans and wannabes alike. They’re rugged, comfortable, and provide lots of pockets. They are also printed in camouflage patterns: woodland, desert, winter (primarily white), urban (gray patterned), and black are available. When worn in an appropriate setting, fatigues grant a +2 bonus on Hide checks.
+作训服：即战斗时穿的制服，穿上去更有磨砺过的老兵和模范兵的气质。作训服更粗糙坚韧、舒适，还有更多口袋。作训服也印有迷彩伪装：丛林、沙漠、雪地、城市以及夜间。当穿上合适的迷彩作训服，作训服将为`躲藏`检定提供2点加值。
 
-Uniform: From the cable guy to a senior Air Force officer, people on the job tend to wear uniforms—making such clothing an essential part of some disguises, since a uniform inclines people to trust the wearer.
+制服：从接线员到高级空军军官，工作中的人都会穿制服——制服作为基本的标识，提醒这人们要信任穿制服的人。
 
-### Ghillie Suit
+### 吉利服
 
-The ultimate in camouflage, a ghillie suit is a loose mesh overgarment covered in strips of burlap in woodland colors, to which other camouflaging elements can easily be added. A figure under a ghillie suit is nearly impossible to discern.
+终极伪装装束，吉利服是一个宽松的罩网，上面覆盖着一条条丛林色的粗麻布，以及其他伪装元素。要辨认穿着吉利服的人难于登天。
 
-A character wearing a ghillie suit with appropriate coloration gains a +10 bonus on Hide checks. (The suit’s coloration can be changed with a move action. However, the bulky suit imposes a penalty of –4 on all Dexterity checks, Dexterity-based skill checks (except Hide), and melee attack rolls.
+穿着合适伪装的吉利服的角色躲藏检定有10点加值。（套装的伪装可以用一个移动动作开关。但这种庞大的套装会给所有敏捷检定、基于敏捷的技能检定（除了躲藏）、以及近战攻击骰带来4点减值。）
 
-### Outerwear
+### 外套
 
-In addition to keeping a character warm and dry, coats and jackets provide additional concealment for things a character is carrying (they often qualify as loose or bulky clothing; see Concealed Weapons and Objects).
+外套和夹克除了能让角色保持温暖干爽，还能让角色更方便地隐藏物品（通常取决于衣服的宽松程度，见隐蔽的武器与物品）。
 
-Coat: An outer garment worn on the upper body. Its length and style vary according to fashion and use.
+外套：上身穿的外装。根据风格和用途，衣长和款式多种多样。
 
-Fatigue Jacket: A lightweight outer garment fashioned after the fatigue uniforms worn by military personnel when performing their standard duties.
+作训外套：军人执行常规任务时除了穿着作训服外还要穿作训外套。
 
-Overcoat: A warm coat worn over a suit jacket or indoor clothing.
+大衣：可包裹套装夹克或室内衣物的防寒外套。
 
-Parka: This winter coat grants the wearer a +2 equipment bonus on Fortitude saves made to resist the effects of cold weather.
+派克大衣：这种冬季外套可为角色对抗寒冷天气的强韧豁免提供2点装备加值。
 
-Photojournalist’s Vest: Made of cotton with mesh panels to keep the wearer cool, the photojournalist’s vest has numerous obvious—and hidden—pockets. It counts as loose and bulky clothing when used to conceal Small or smaller weapons, and also grants the “specially modified to conceal object” bonus when used to conceal Tiny or smaller objects. See Concealed Weapons and Objects.
+摄影马甲：这种全身都是方格袋的棉质背心穿上去很酷，摄影马甲有着大量的明袋和暗袋。这种衣服在隐藏小型及以下尺寸的武器时，视为`衣服特别宽松`，隐藏超小型或更小物品时提供`衣服特别为隐藏物品改装过`加值。详见`隐蔽的武器与物品`。
 
-Windbreaker: This is a lightweight jacket made of wind-resistant material.
+防风夹克：这是一种用防风材质制造的轻装夹克。
 
-### Tool Belt
+### 工具腰带
 
-This sturdy leather belt has numerous pockets and loops for tools, nails, pencils, and other necessities for repair and construction work, making it easy to keep about 10 pounds of items on hand. The pockets are open, however, and items can easily fall out if the belt is tipped.
+这种坚韧的皮带有着大量的口袋和挂环来放置工具、钉子、铅笔以及其他修理和建造所必要的物件，可以很轻松地装下10磅可以拿在手上的物品。但是口袋是开着的，腰带倾倒时物品很容易掉出来。
 
-## Computers and Consumer Electronics
+## 计算机与用电器
 
-Rules for operating computers appear under the Computer Use skill.  Some of the items in this section have monthly subscription costs as well as initial purchase costs. The purchase DC accounts for both costs; once a character has obtained the item, he or she doesn’t have to worry about ongoing subscription costs.
+计算机操作规则见`计算机使用`技能。本节的一些物品的使用除了初始的购买花销外还有月度花销。两种花销都算在购买DC里；一旦角色拥有了这件物品，就不需要再付月度花销了。
 
-### Camera
+### 相机
 
-Still cameras let a character capture a record of what he or she has seen.
+照相机能让角色记录看到的景象。
 
-35mm: The best choice for the professional photographer, this camera can accept different lenses and takes the highest-quality picture. A camera is needed to use the photography aspect of the Craft (visual art) skill. The film used in a camera must be developed.
+35mm相机：专业摄影的最佳选择，这种相机能搭配不同的镜头，摄制顶级品质的照片。照相需要用到制造（视觉艺术）技能。使用后的胶卷必须冲洗。
 
-Digital: A digital camera uses no film; instead, its pictures are simply downloaded to a computer as image files. No film developing is necessary.
+数码相机：数码相机不需要胶片；摄制的照片可直接作为图像文件保存至电脑。因此胶片冲洗也是不必要的。
 
-Disposable: A 35mm camera with film built in can be purchased from vending machines, tourist traps, drugstores, and hundreds of other places. Once the film is used, the entire camera is turned in to have the film developed.
+拍立得相机：内置有胶片冲洗功能的35mm相机，可在自动售货机、旅游区商店、杂货店等地买到。胶片一经使用，相机自动冲印出照片。
 
-Film: The medium upon which photographs are stored, film comes in a variety of sizes and speeds. The purchase DC represents the cost of a roll of 24 exposures of high-speed (ASA 400) film.
+胶片：图像存储的媒介，有各种各样的尺寸和感光度。购买DC相当于一卷24张高速胶卷（感光度ASA400）的价格。
 
-Film Developing: In most areas, drugstores and photo shops provide 1-hour service; in others, it takes 24 hours. In really remote areas, film may have to be sent away for developing, taking a week or longer. The purchase DC represents the cost of getting two prints of each shot on a roll of film, or one of each and any two also blown up to a larger size.
+胶片冲洗： 在大多数地区，只要1小时就能在药房和摄影器材店冲洗出照片，而其他地区需要24小时。在十分偏远的地区，胶片往往要送到异地冲洗，要花费1周甚至更长时间。购买DC相当于一卷胶片每张各冲印两张照片，或每张胶片各冲印一张更大尺寸照片的价格。
 
-### Cell Phone
+### 手机
 
-A digital communications device that comes in a hand-held model or as a headset, a cell phone uses a battery that lasts for 24 hours before it must be recharged. It works in any area covered by cellular service.
+一次充电至少能使用24小时的手持或头戴的数字通讯设备。手机能在任何蜂窝网信号覆盖范围内工作。
 
-### Computer
+### 计算机
 
-Whether a desktop or notebook model, a computer includes a keyboard, a mouse, a monitor, speakers, a CD-ROM drive, a dial-up modem, and the latest processor. A character needs a computer to make Computer Use checks and to make Research checks involving the Internet.
+无论是台式的还是笔记本，电脑包括一个键盘、一个鼠标、一个显示器、话筒、一个CD-ROM光驱、一个拨号上网的调制解调器、以及最新的处理器。角色需要用电脑来做计算机使用检定，和进行与网络有关的研究检定。
 
-Desktop: Bulky but powerful, these machines are common on desks everywhere.
+台式电脑： 笨重而强大，随处可见的桌上电脑。
 
-Notebook: Slim, lightweight, and portable, notebook computers have most of the functions available on desktop computers.
+笔记本电脑：轻薄、小巧、便携，笔记本电脑拥有台式电脑的绝大多数功能。
 
-Upgrade: A character can upgrade a desktop or notebook computer’s processor to provide a +1 equipment bonus on Computer Use checks. Increase the purchase DC of a desktop by +1 or a notebook by +2 to purchase an upgrade.
+升级电脑： 角色可以升级台式或笔记本电脑的处理器，为计算机使用检定提供1点装备加成。购买一次升级会使台式电脑的购买DC+1，笔记本电脑的购买DC+2。
 
-### Digital Audio Recorder
+### 数码录音机
 
-These tiny recorders (about the size of a deck of playing cards) can record up to eight hours of audio and can be connected to a computer to download the digital recording. Digital audio recorders don’t have extremely sensitive microphones; they only pick up sounds within 10 feet.
+这些袖珍录音机（一套扑克牌那么大）能够录制8小时的音频，且能够连接至计算机下载数字化录音文件。数码录音机没有高灵敏度的收音设备，只能收录10尺内的声源。
 
-### Modem
+### 调制解调器
 
-A modem allows a character to connect a computer to the Internet. To use a modem, a character must have a computer and an appropriate data line (or a cell phone, in the case of a cellular modem).
+调制解调器呢以让角色电脑连接至互联网。要使用调制解调器，角色必须有一个电脑，并且有合适的数据线（或者一个手机，通过蜂窝网调制解调上网）。
 
-All computers come with dial-up modems, which allow connection to the Internet but without the speed of broadband or the flexibility of cellular. A dial-up modem uses a standard telephone line; while it’s connected, that telephone line can’t be used for another purpose.
+所有电脑都自带拨号调制解调器，可以连接至互联网，但没有宽带快捷，也没有移动网络灵活。拨号调制解调器使用一根标准电话线，电话线连接后就不能同时用于其他用途。
 
-Broadband: Cable modems and DSL services bring high-speed Internet access into the homes of millions. A broadband modem gives a character on-demand, high-speed access to data, allowing Computer Use and Research checks involving the Internet to be made in half the normal time.
+宽带：光缆调制解调器和数字用户线路服务给千家万户带来高速上网服务。宽带调制解调器给角色提供一个随时可用、高速的获取数据的手段，让计算机使用和与网络有关的研究检定可以以正常时间的一半完成。
 
-Cellular: A cellular modem allows a character to connect her notebook computer to the Internet anywhere he or she can use a cell phone. However, access speed is slow, and any Computer Use or Research check involving the Internet takes half again the normal time (multiply by 1.5).
+蜂窝网：蜂窝网调制解调器让角色可以在任何可使用手机的地方将笔记本电脑连接至互联网。然而，使用蜂窝网连接速度缓慢，任何计算机使用或与网络有关的研究检定要多花一半的时间（乘以1.5）完成。
 
 ### PDA
 
-Personal data assistants are handy tools for storing data. They can be linked to a notebook or desktop computer to move files back and forth, but can’t be used for Computer Use or Research checks.
+掌上电脑是十分方便的数据存储工具。可连接至笔记本或台式电脑来回传输文件，但不能用于计算机使用或研究检定。
 
-### Portable Satellite Telephone
+### 便携式卫星电话
 
-This object looks much like a bulky cell phone, and functions in much the same way as well. However, because it communicates directly via satellite, it can be used any-where on earth, even in remote areas well beyond the extent of cell phone service.
+此物看起来很像笨重版手机，功能也与手机相似。但是因为卫星电话直接连接卫星，可在地球上的任何地方使用，甚至在无手机信号服务的地区使用。
 
-Portable satellite phones are very expensive to use. When used in a place not served by regular cellular service, each call requires a Wealth check (DC 6).
+便携式卫星电话也很贵。在无手机信号服务的地区使用，每打一次电话都需要一次财富检定（DC6）。
 
-### Portable Video Camera
+### 便携式摄像机
 
-Portable video cameras use some format of videotape to record activity. The tape can be played back through a VCR or via the camera eyepiece.
+便携式摄像机使用各种录像带来记录影像。录像带可在录像机或摄像机的目镜上回放。
 
-### Printer
+### 打印机
 
-The color inkjet printer described here is suited for creating hard copies of text and image files from computers.
+喷墨打印机用于将电脑上的文字和图像文件创建硬拷贝。
 
-### Scanner
+### 扫描仪
 
-A color flatbed scanner allows the user to transfer images and documents from hard copy into a computer in digital form.
+彩色平板扫描仪可用来将图像和文件硬拷贝，以数字形式存进电脑。
 
-### Walkie-Talkie
+### 对讲机
 
-This hand-held radio transceiver communicates with any similar device operating on the same frequency and within range.
+这种手持式广播设备能与一定距离内相同频段的相同设备通讯。
 
-Basic: This dime-store variety has only a few channels. Anyone else using a similar walkie-talkie within range can listen in on the character’s conversations. It has a range of 2 miles.
+普通对讲机： 这种廉价商店有售的对讲机只有几个频道。任何人只要使用相同的对讲机，在通讯距离内就能收听到角色的对话。它有2里的通讯距离。
 
-Professional: This high-end civilian model allows a character to program in twenty different frequencies from thousands of choices—making it likely that the character can find a frequency that’s not being used by anyone else within range. The device can be used with or without a voice-activated headset (included). It has a range of 15 miles.
+专业对讲机：高端民用对讲机从成千上万个波段中选择20多个频段来传输信号，角色可以方便地找到一个范围内没人使用的频道。设备可选择是否包含一个头戴式的声控的受话器。通讯范围有15里。
 
-## Surveillance Gear
+## 监控设备
 
-Keeping an eye on suspects or tracking the moves of potential enemies is a crucial part of the modern adventurer’s job.
+监视嫌疑人以及跟踪潜在的敌人是D20M冒险中的常见环节。
 
-### Black Box
+### 小黑盒
 
-This device, easily concealed in the palm of one hand, emits digital tones that convince the phone system to make a long-distance connection free of charge. They also let a user “bounce” a call through multiple switches, making the call harder to trace (the DC of any Computer Use check to trace the call is increased by 5).
+易于藏在手心，发射信号欺骗电话系统使其可以免费通讯的设备。也可以让用户在节点间来回跳转，使电话难以追踪（追踪这通电话所需的计算机使用检定DC+5）。
 
-### Caller ID Defeater
+### 电话匿名装置
 
-When a phone line contains a caller ID defeater, phones attempting to connect with that line show up as “anonymous” or “unavailable” on a caller ID unit. Such a call can still be traced as normal, however.
+如果电话线路包含一个电话匿名装置，接听方的来电显示只会显示“匿名”或“未知”。但这通电话仍然可以像一般电话一样被追踪。
 
-### Cellular Interceptor
+### 无线拦截器
 
-About the size of a small briefcase, a cellular interceptor can detect and monitor a cell phone conversation within a 5-mile area by listening in on the cellular service’s own transmitters. Intercepting the calls of a particular cell phone requires a Computer Use check (DC 35); if the user knows the phone number of the phone in question, the DC drops by 10. Obviously, the phone must be in use for someone to intercept the call. A cellular interceptor cannot be used to intercept regular (ground line) phone connections.
+大约是小型公文包大小，无线拦截器可以检测和监视方圆5里内的同一蜂窝网络的一通手机通信。截获指定手机通讯需要进行一次计算机使用检定（DC35）；如果用户知道目标的电话号码，DC-10。当然，要在目标手机使用时才能截获该手机。无线拦截器不能截获有线电话。
 
-### Lineman’s Buttset
+### 接线工具
 
-This device resembles an oversized telephone handset with a numeric keypad on the back and wire leads hanging from the bottom. It functions as a portable, reusable telephone line tap. With a Repair check (DC 10), a user can connect to a phone wire and hear any conversation that crosses it. A lineman’s buttset is a common tool for telephone repair personnel.
+该设备是类似大号电话听筒背面加上一个数字键盘，线从底部伸出的设备。是一种便携式的可多次性使用的线路窃听器。用户可以通过一个修理检定（DC10）将其连接至一根电话线，监听通过这根电话线的所有电话。接线工具是电话维修员常见的工具。
 
-### Metal Detector
+### 金属探测器
 
-This handheld device provides a +10 equipment bonus on all Search checks involving metal objects.
+这种首次的设备为所有涉及金属物件的搜索检定提供10点装备加值。
 
-### Night Vision Goggles
+### 夜视仪
 
-Night vision goggles use passive light gathering to improve vision in near-dark conditions. They grant the user the ability to see in darkness, also called darkvision (range 120 ft.)—but because of the restricted field of view and lack of depth perception these goggles provide, they impose a –4 penalty on all Spot and Search checks made by someone wearing them.
+夜视仪使用被动的光线接收原理来提高晦暗情况下的视觉。它让用户可以在黑暗中视物，即`黑暗视觉`（120尺的距离）——但限于视野和深度感知上的缺乏，佩戴夜视仪的人的所有`侦察`和`搜索`检定都承受4点减值。
 
-Night vision goggles must have at least a little light to operate. A cloudy night provides sufficient ambient light, but a pitch-black cave or a sealed room doesn’t. For situations of total darkness, the goggles come with an infrared illuminator that, when switched on, operates like a standard flashlight whose light is visible only to the wearer (or anyone else wearing night vision goggles).
+夜视仪至少要在有一点点光亮的情况下使用。多云的夜晚可提供足够的环境光，而伸手不见五指的洞穴或密室无法提供。在完全黑暗的情况下，自带红外照明且开启红外模式的夜视仪将提供类同于手电筒的功能，但这样的手电筒光只有佩戴夜视仪的人（包括其他佩戴夜视仪的人）能看到。
 
-### Tap Detector
+### 电话窃听检测器
 
-Plug this into a telephone line between the phone and the outlet, and it helps detect if the line is tapped. To detect a tap, make a Computer Use check (the DC varies according to the type of telephone tap used; see below). With a success, the tap detector indicates that a tap is present. It does not indicate the type or location of the tap however. Also, it can’t be used to detect a lineman’s buttset.
+将其接入电话和线路出口之间的电话线，可检测线路是否被窃听。要检测是否被窃听，需要做一次计算机使用检定（DC根据下文所示的窃听类型决定）。检定成功，检测器则检测到电话已被窃听。但无法检测出窃听器的类型或位置。而且检测器无法检测出接线工具的窃听行为。
 
-### Telephone Tap
+### 电话窃听器
 
-These devices allow a character to listen to conversations over a particular phone line.
+这类设备可以让角色通过一条特定的电话线路窃听对话。
 
-Line Tap: This tap can be attached to a phone line at any point between a phone and the nearest junction box (usually on the street nearby). Installing it requires a Repair check (DC 15). It broadcasts all conversations on the line over a radio frequency that can be picked up by any professional walkie-talkie. Detecting a line tap by using a tap detector requires a Computer Use check (DC 25).
+线路窃听器：这种窃听器能附着在电话与其最近的接线箱之间的电话线的任何一处。安装需要做一次修理检定（DC15）。它会广播线路上一个频段内的所有对话内容，且可被任何专业对讲机接收。用电话窃听检测器检测一个线路窃听器需要做一次计算机使用检定（DC25）。
 
-Receiver Tap: This item can be easily slipped into a telephone handset as a Repair check (DC 5). It broadcasts all conversations over a radio frequency that can be picked up by any professional walkie-talkie. Detecting a receiver tap by using a tap detector requires a Computer Use check (DC 15).
+接收端窃听器：通过一个修理检定（DC15），该设备可以轻易地塞入电话听筒。它会广播一个频段内的所有对话内容，且可被任何专业对讲机接收。用电话窃听检测器检测一个接收端窃听器需要做一次计算机使用检定（DC15）。
 
-### Telephone Line Tracer
+### 电话线路跟踪器
 
-Essentially a highly specialized computer, a line tracer hooked to a phone line can trace phone calls made to that line, even if there’s a caller ID defeater hooked up at the other end. All it takes is time.
+本质上是一个高度专用化的电脑加一条挂在一条电话线上的线路跟踪器，它可以跟踪经过这条线的电话，即使呼叫方有电话匿名装置。只需要花时间就能办到。
 
-Operating a line tracer is a full-round action requiring a Computer Use check (DC 10). Success gains one digit of the target phone number, starting with the first number of the area code.
+操作电话线路跟踪器是一个整轮动作，需要进行的是一次计算机使用检定（DC19）。检定成功则获得目标电话号码的一位数字，号码包括了区号。
 
-## Professional Equipment
+## 专业装备
 
-This category covers a wide variety of specialized equipment used by professionals in adventure-related fields.
+这部分内容包括冒险时用到的各式各样的专业装备。
 
-Some objects contain the tools necessary to use certain skills optimally. Without the use of these items, often referred to as kits, skill checks made with these skills are at a –4 penalty. Skills and the kits they are associated with are listed below. See the descriptions of the kits for additional details. Note that kits should be restocked periodically (purchase DC 5 less than the original purchase DC.
+一些物品包含了使用特定技能所必需的工具。不使用这些物品（通常指工具集），相关的技能检定会受到4点减值。技能与相关的工具集如下表所述。关于更多的细节详见每个工具集的描述。注意工具集都是需要每过一定周期购买补充的（购买DC比原始购买DC少5点）。
 
-Note that some skills, by their nature, require a piece of equipment to utilize.
+一些技能天然需要把工具消耗掉。
 
-|Skill|Associated Item|
+|技能|相关物品|
 |-----|---------------|
-|Climb|Climbing gear|
-|Craft (chemical)|Chemical kit|
-|Craft (electronic)|Electrical tool kit|
-|Craft (mechanical)|Mechanical tool kit|
-|Craft (pharmaceutical)|Pharmacist kit|
-|Craft (structural)|Mechanical tool kit|
-|Demolitions|Demolitions kit|
-|Disable Device|Car opening kit|
-||Electrical tool kit|
-||Lockpick set|
-||Lock release gun|
-|Disguise|Disguise kit|
-|Forgery|Forgery kit|
-|Investigate|Evidence kit|
-|Perform (keyboards)|Instrument, keyboard|
-|Perform (percussion)|Instrument, percussion|
-|Perform (stringed)|Instrument, stringed|
-|Perform (wind)|Instrument, wind|
-|Repair|Electrical tool kit|
-||Mechanical tool kit|
-||Multipurpose tool|
-|Treat Injury|First aid kit|
-||Medical kit|
-||Surgery kit|
+|攀爬|攀爬装备|
+|制造（化学）|化学工具|
+|制造（电子）|电气工具|
+|制造（机械）|机械工具|
+|制造（配药）|配药箱|
+|制造（结构）|机械工具|
+|爆破|爆破工具|
+|解除装置|撬车工具|
+||电气工具|
+||橇锁工具|
+||破锁枪|
+|易容|易容工具|
+|伪造文书|伪造工具|
+|调查|取证工具|
+|表演（键盘乐器）|键盘乐器|
+|表演（打击乐器）|打击乐器|
+|表演（弦乐器）|弦乐器|
+|表演（管乐器）|管乐器|
+|修理|电气工具|
+||机械工具|
+||多功能工具钳|
+|医疗|急救工具|
+||医疗箱|
+||手术箱|
 
-### Bolt Cutter
+### 断线钳
 
-An exceptionally heavy wire cutter, a bolt cutter can snip through padlocks or chain-link fences. Using a bolt cutter requires a Strength check (DC 10).
+格外笨重的剪线钳，断线钳能直接剪断挂锁或铁丝网围栏。使用断线钳需要做一个力量检定（DC10）。
 
-### Caltrops
+### 铁蒺藜
 
-Caltrops are four-pronged iron spikes designed so that one prong is pointing up when the caltrop rests on a surface. A character scatters caltrops on the ground to injure opponents, or at least slow them down. One bag of twenty-five caltrops covers a single 5-foot square. Each time a creature moves through a square containing caltrops at any rate greater than half speed, or each round a creature spends fighting in such an area, the caltrops make a touch attack roll (base attack bonus +0). A caltrop deals 1 point of damage on a successful hit, and the injury reduces foot speed to half normal (a successful Treat Injury check, DC 15, or one day’s rest removes this penalty). A charging or running creature must immediately stop if it steps on a caltrop. See the avoid hazard stunt for the effect of caltrops on vehicles.
+铁蒺藜是有四个尖端的铁钉，保证撒在地上时始终有一头朝上。角色将铁蒺藜撒在地上以伤害对手，或只是延缓对手。一包25只装的铁蒺藜可以覆盖边长为5尺的方格。每次有生物以超过半速的速度经过有铁蒺藜的方格，或者生物在其上战斗每过一轮，铁蒺藜都要做一次接触攻击检定（基础攻击加值+0）。成功则铁蒺藜造成一点伤害，并会使目标移动速度减至半速（一个成功的DC15的医疗检定或者一天的休息将移除此惩罚）。冲锋或奔跑的生物踩到铁蒺藜必须立即停下。铁蒺藜对载具的效果详见`避险`特技。
 
-### Car Opening Kit
+### 撬车工具
 
-This set of odd-shaped flat metal bars can be slipped into the window seam of a car door to trip the lock. The DC of a Disable Device check to accomplish this varies with the quality of the lock; see the skill description.
+这种奇形怪状的扁平金属条可以插进车门上的窗缝以撬开车锁。撬开不同车锁所需的解除检定DC详见技能描述。
 
-### Chemical Kit
+### 化学工具
 
-A portable laboratory for use with the Craft (chemical) skill, a chemical kit includes the tools and components necessary for mixing and analyzing acids, bases, explosives, toxic gases, and other chemical compounds.
+用于进行制造（化学）技能的便携式实验台，化学工具包含了混合与析取酸、盐基、爆炸物、毒气以及其他化合物的必要工具和组件。
 
-### Demolitions Kit
+### 爆破工具
 
-This kit contains everything needed to use the Demolitions skill to set detonators, wire explosive devices, and disarm explosive devices. Detonators must be purchased separately.
+该工具包含了使用爆破技能安置起爆器、连接爆破装置、解除爆破装置的所有必需用具。起爆器必须另行购置。
 
-### Disguise Kit
+### 易容工具
 
-This kit contains everything needed to use the Disguise skill, including makeup, brushes, mirrors, wigs, and other accoutrements. It doesn’t contain clothing or uniforms, however.
+该工具包含了使用易容技能所需的所有用具，包括化妆品、刷子、镜子、假发以及其他饰物。但不包括衣物、制服。
 
-### Duct Tape
+### 胶带
 
-The usefulness of duct tape is limited only by a character’s imagination. Duct tape can support up to 200 pounds indefinitely, or up to 300 pounds for 1d6 rounds. Characters bound with duct tape must make a Strength or Escape Artist check (DC 20) to free themselves.
+胶带的用处多种多样，只囿于角色的想象力。胶带能永久固定不高于200磅的物品，或固定不高于300磅的物品持续1d6轮。被胶带束缚的角色必须做一个力量或脱逃检定以挣脱（DC20）。
 
-A roll provides 70 feet of tape, 2 inches wide.
+一卷胶带能提供70尺长、两寸宽的胶带。
 
-### Electrical Tool Kit
+### 电气工具
 
-This collection of hand tools and small parts typically includes a variety of pliers, drivers, cutting devices, fasteners, power tools, and leads and wires.
+该工具集一般包含了各式各样的钳子、起子、剪子、紧固件、电力工具、导线和线缆。
 
-Basic: This small kit allows a character to make Repair checks to electrical or electronic devices without penalty.
+基本版：这种小型工具让角色可以无惩罚地对电气或电子设备进行一次修理检定。
 
-Deluxe: This kit consists of a number of specialized diagnostic and repair tools as well as thousands of spare parts. It grants a +2 equipment bonus on Repair checks for electrical or electronic devices and allows a character to make Craft (electronic) checks without penalty.
+高级版：这种工具由大量专业的检测装置、修理工具和几千种零部件构成。它可以让角色在修理电气或电子设备中获得2点装备加值，也可让角色无惩罚地进行制造（电子）检定。
 
-### Evidence Kits
+### 取证工具
 
-Law enforcement agencies around the world use generally the same tools to gather evidence. Having an evidence kit does not grant access to a law enforcement agency’s crime lab; it merely assists in the proper gathering and storing of evidence for use by such a lab. Without an evidence kit, a character receives a –4 penalty to use the collect evidence option of the Investigate skill.
+全世界的执法人员大多使用相同的工具来取证。取证工具并不能用于技术鉴定工作，只能用于送检证据的搜集工作。角色用调查技能搜集证据时，如果没有取证工具，将会受到4点减值。
 
-Basic: A basic evidence kit includes clean containers, labels, gloves, tweezers, swabs, and other items to gather bits of physical evidence and prevent them from becoming contaminated.
+基本版：基本版取证工具包括干净的容器、标签、手套、镊子、拭子、以及其他收集实物证据和防止污染的工具。
 
-Deluxe: A deluxe kit includes all the materials in a basic kit, plus supplies for analyzing narcotic substances at the scene and for gathering more esoteric forms of physical evidence such as casts and molds of footprints or vehicle tracks, as well as chemical residues and organic fluids. It also contains the necessary dusts, sprays, brushes, adhesives, and cards to gather fingerprints. It grants a +2 equipment bonus on Investigate checks under appropriate circumstances (whenever the GM rules that the equipment in the kit can be of use in the current situation).
+高级版：高级版取证工具包括所有基本版的工具，以及支持致幻物质的分析，可收集更深入的物证形式（比如脚印、车印、化学残留和有机流体的铸型和铸模工具）。它也包括了收集指纹所必需的粉尘、喷雾、刷子、胶带和卡片。它会在合适的情景下为调查检定提供2点装备加值（GM来判定装备是否适用与此情景）。
 
-Using a deluxe kit to analyze a possible narcotic substance or basic chemical requires a Craft (chemical) check (DC 15). In this case, the +2 equipment bonus does not apply.
+使用高级版工具分析可能的致幻物质或基本的化学化验需要做一次制造（化学）检定（DC15）。这种性况下不能应用2点装备加值。
 
-### Fake ID
+### 假身份
 
-Purchasing a falsified driver’s license from a black market source can produce mixed results, depending on the skill of the forger. Typically, a forger has 1 to 4 ranks in the Forgery skill, with a +1 ability modifier. When a character purchases a fake ID, the GM secretly makes a Forgery check for the forger, which serves as the DC for the opposed check when someone inspects the fake ID. The purchase DC of a fake ID is 10 + the forger’s ranks in the Forgery skill.
+从黑市购买一张伪造的驾照会基于伪造者的技能导致不同的结果。通常伪造文书技能为1到4级的伪造者会有+1的属性调整值。角色购买假身份时，GM为伪造者秘密进行一次伪造文书检定，检定结果作为对方识破假身份的对抗检定的DC。假身份的购买DC为10+伪造者的伪造文书技能级数。
 
-### First Aid Kit
+### 急救箱
 
-Available at most drugstores and camping supply stores, this kit contains enough supplies (and simple instructions for their use) to treat an injury before transporting the injured person to a medical professional. A first aid kit can be used to help a dazed, unconscious, or stunned character by making a Treat Injury check (DC 15). A first aid kit can be used only once. Skill checks made without a first aid kit incur a –4 penalty.
+大多数药店和露营装备店均有售，该工具包含了足够的送医前医疗补给及其使用说明。可用一个急救箱做一个医疗检定（DC15）来救护眩晕、昏迷、震慑状态的角色。急救箱是一次性使用的。无急救箱的检定将受到4点减值。
 
-### Forgery Kit
+### 伪造工具
 
-This kit contains everything needed to use the Forgery skill to prepare forged items. Depending on the item to be forged, a character might need legal documents or other items not included in the kit.
+该工具包含了伪造文书技能所需准备的所有伪造工具。伪造工具不包含伪造的原件，角色要另备需伪造的法律文件或其他物品。
 
-### Handcuffs
+### 手铐
 
-Handcuffs are restraints designed to lock two limbs—normally the wrists—of a prisoner together. They fit any Medium-size or Small human or other creature that has an appropriate body structure.
+手铐是用于将囚犯的两条肢体（通常是手腕）约束起来的工具。手铐适用于体型为普通或小型的人类，或者有合适身体构造的生物。
 
-Steel: These heavy-duty cuffs have hardness 10, 10 hit points, a break DC of 30, and require a Disable Device check (DC 25) or Escape Artist check (DC 35) to remove without the key.
+钢制手铐：这种重型的镣铐有10点硬度、10点生命、30点挣脱DC，没有钥匙的情况下，需要解除装置检定（DC25）或脱逃检定（DC35）才能脱离。
 
-Zip-Tie: These are single-use disposable handcuffs, much like heavy-duty cable ties. They have hardness 0, 4 hit points, and a break DC of 25. They can only be removed by cutting them off (Disable Device and Escape Artist checks automatically fail).
+约束带：这是一种便利的一次性手铐，比较像重型的缆绳结。其硬度为0、生命为4、挣脱DC为25。只能被剪断（解除装置和脱逃检定会自动失败）。
 
-### Instrument, Keyboard
+### 键盘乐器
 
-A portable keyboard, necessary in order to use the Perform (keyboard instrument) skill.
+便携式键盘乐器，使用表演（键盘乐器）技能所必需。
 
-### Instrument, Percussion
+### 打击乐器
 
-A set of drums, necessary in order to use the Perform (percussion instrument) skill.
+一整套鼓类乐器，使用表演（打击乐器）技能所必需。
 
-### Instrument, Stringed
+### 弦乐器
 
-An electric guitar, necessary in order to use the Perform (stringed instrument) skill.
+如电吉他，使用表演（弦乐器）技能所必需。
 
-### Instrument, Wind
+### 管乐器
 
-A flute, necessary in order to use the Perform (wind instrument) skill.
+如长笛，使用表演（管乐器）技能所必需。
 
-### Lockpick Set
+### 橇锁工具
 
-A lockpick set includes picks and tension bars for opening locks operated by standard keys. A lockpick set allows a character to make Disable Device checks to open mechanical locks (deadbolts, keyed entry locks, and so forth) without penalty.
+橇锁工具包括锁撬和张力杆，用于开启普通钥匙能打开的锁头。有了撬锁工具，用解除装置检定打开机械锁（门闩、门锁等）不会受到惩罚。
 
-### Lock Release Gun
+### 破锁枪
 
-This small, pistollike device automatically disables cheap and average mechanical locks operated by standard keys (no Disable Device check necessary).
+这种小型的、手枪式的设备可直接解除`廉价`至`一般`的、用普通钥匙打开的机械锁（无需解除装置检定）。
 
-### Mechanical Tool Kit
+### 机械工具
 
-This collection of hand tools and small parts typically includes a variety of pliers, drivers, cutting devices, fasteners, and even power tools.
+该工具集一般包含了各式各样的钳子、起子、剪子、紧固件以及电力工具。
 
-Basic: This kit, which fits in a portable toolbox, allows a character to make Repair checks for mechanical devices without penalty.
+基本版：这种工具让角色可以无惩罚地对机械设备进行一次修理检定。
 
-Deluxe: This kit fills a good-sized shop cabinet. It includes a broad variety of specialized hand tools and a selection of high-quality power tools. It grants a +2 equipment bonus on Repair checks for mechanical devices and allows a character to make Craft (mechanical) or Craft (structural) checks without penalty.
+高级版：这种工具箱里满是橱柜。内有各式各样专门的手工工具和一套精选的高质量电力工具。它可以让角色在修理机械设备中获得2点装备加值，也可让角色无惩罚地进行制造（机械）或制造（结构）检定。
 
-### Medical Kit
+### 医疗箱
 
-About the size of a large tackle box, this is the sort of kit commonly carried by military medics and civilian EMTs. It contains a wide variety of medical supplies and equipment. A medical kit can be used to treat a dazed, unconscious, or stunned character, to provide long-term care, to restore hit points, to treat a diseased or poisoned character, or to stabilize a dying character (see the Treat Injury skill). Skill checks made without a medical kit incur a –4 penalty.
+大型钓鱼盒一样大小的医疗箱，普遍被军医和平民急救队使用。它包含了种类繁多的医疗用品与设备。医疗箱可以用于治疗眩晕、昏迷或震慑的角色，也可提供长期护理、恢复生命、治疗生病或中毒的角色，以及稳定濒死角色（详见`医疗`技能）。无医疗箱的检定将受到4点减值。
 
-### Multipurpose Tool
+### 多功能工具钳
 
-This device contains several different screwdrivers, a knife blade or two, can opener, bottle opener, file, short ruler, scissors, tweezers, and wire cutters. The whole thing unfolds into a handy pair of pliers. A multipurpose tool can lessen the penalty for making Repair, Craft (mechanical), Craft (electronic), or Craft (structural) checks without appropriate tools to –2 instead of the normal –4. The tool is useful for certain tasks, as determined by the GM, but may not be useful in all situations.
+该设备包括了几个不同的起子、一两把小刀、开罐器、开瓶器、锉刀、短尺、剪刀、镊子和剪线钳。这些全都能折叠在一个钳子里。多功能工具钳能将无工具辅助下的修理、制造（机械）、制造（电子）、制造（结构）的检定减值从4点降至2点。该工具适用于特定的工作，这些由GM裁决，而不一定适用于所有情形。
 
-### Pharmacist Kit
+### 配药箱
 
-A portable pharmacy for use with the Craft (pharmaceutical) skill, a pharmacist kit includes everything needed to prepare, preserve, compound, analyze, and dispense medicinal drugs.
+使用制造（配药）技能所需的便携式配药工具，配药箱包括了准备、保存、化合、析取和分配药物所必需的工具。
 
-### Search-and-Rescue Kit
+### 搜救工具
 
-This waist pack contains a first aid kit, a compass, waterproof matches, a lightweight “space” blanket, a standard flashlight, 50 feet of durable nylon rope, two smoke grenades, and one signal flare.
+这种腰包式装备包含了一个急救箱、一个指南针、一只防水表、一个轻量级的太空毯、一只标准的手电筒、50尺长的耐用尼龙绳、两发烟雾弹以及一只信号火折。
 
-### Spike Strip
+### 道路钉障
 
-This device is designed to help the police end car chases. The strip comes rolled in a spool about the size of a small suitcase. Deploy it by rolling it across a roadway, where it lies like a flat, segmented belt. (The user can roll it out onto the road without entering the lane of traffic.) Until the strip is activated, the spikes do not protrude, and cars can pass safely over it. When the user activates it (via a control device attached to the end of the strip by a 10-foot-long cord), the spikes extend.
+该设备设计用于帮助警察拦截逃逸车辆。钉障平时是卷在轴上的，大小相当于一个小型手提箱。通过滚动展开将其部署，平铺成平坦而分段的表带状障碍。（使用者无需身处街道上就能将其布设。）在钉障激活前，钉刺未伸出，车辆可安全通过。当使用者激活它时（通过控制附着在10尺外钉障末端的控制器），钉刺会伸出。
 
-Each time a creature moves through a square containing an activated spike strip at any rate greater than half speed, or each round a creature spends fighting in such an area, the spike strip makes a touch attack roll (base attack bonus +0). The strip deals 2 points of damage on a successful hit, and the injury reduces foot speed to half normal (a successful Treat Injury check, DC 15, or one day’s rest removes this penalty). Wheeled vehicles passing over the strip are automatically hit—although vehicles equipped with puncture-resistant tires are not affected.
+每次有生物以超过半速的速度经过有道路钉障的方格，或者生物在其上战斗每过一轮，道路钉障都要做一次接触攻击检定（基础攻击加值+0）。成功则道路钉障造成2点伤害，并会使目标移动速度减至半速（一个成功的DC15的医疗检定或者一天的休息将移除此惩罚）。轮式载具经过钉障会直接受击，除非载具装备了防刺轮胎。
 
-### Surgery Kit
+### 手术箱
 
-About the size of a small backpack, this kit contains the instruments needed for rudimentary emergency field surgery. A surgery kit is used when performing surgery (see the Treat Injury skill). A character performing surgery without a surgery kit takes a -4 penalty on the Treat Injury check. (This penalty is in addition to the -4 penalty that applies if the character does not have the Surgery feat.)
+手术箱有一个小型背包那么大，它包含了初步紧急实地手术所需的所有医疗器械。进行手术时需要用到手术箱（见医疗技能）。无手术箱的角色进行手术时，医疗检定将有4点减值。（此减值叠加在角色无`手术`专长时的4点减值之上。）
 
-## Survival Gear
+## 生存装备
 
-Survival gear helps characters keep themselves alive in the great outdoors.
+生存装备帮助角色在极端的户外环境生存下来。
 
-### Backpack
+### 背包
 
-This is a good-sized backpack, made of tough water-resistant material. It has one or two central sections, as well as several exterior pockets and straps for attaching tents, bedrolls, or other gear. It can carry up to 60 pounds of gear.
+相当大的背包，由坚固的防水材质制成。它有一到两个中间夹层，以及几个外袋和绑带，用于搭载帐篷、铺盖卷和其他装备。它能装下至多60磅的装备。
 
-A backpack gives a character a +1 equipment bonus to Strength for the purpose of determining carrying capacity.
+背包能为角色在计算负重能力时**为力量**提供1点装备加值。
 
-### Binoculars
+### 双筒望远镜
 
-Binoculars are useful for watching opponents, wild game, and sporting events from a long distance.
+双筒望远镜适用于观测远处的对手、荒野和体育赛事。
 
-Standard: Standard binoculars reduce the range penalty for Spot checks to –1 for every 50 feet (instead of –1 for every 10 feet). Using binoculars for Spot checks takes five times as long as making the check unaided.
+标准双筒望远镜：标准双筒望远镜将侦察检定的距离减值降至每50尺1点（原为每10尺1点）。使用双筒望远镜的侦察检定所花的时间是未用时的5倍。
 
-Rangefinding: In addition to the benefit of standard binoculars, rangefinding binoculars include a digital readout that indicates the exact distance to the object on which they are focused.
+测距双筒望远镜：有标准双筒望远镜的所有功能，测距双筒望远镜还包括了一个电子表标示聚焦点与观察者的确切距离。
 
-Electro-Optical: Electro-optical binoculars function the same as standard binoculars in normal light. In darkness, however, users looking through them see as if they had the darkvision ability granted by night vision goggles.
+光电双筒望远镜：光电双筒望远镜在正常光照下与标准双筒望远镜功能相同。但在黑暗环境中，使用者通过此望远镜视物有如拥有了`夜视仪`赋予的`黑暗视觉`能力。
 
-### Chemical Light Stick
+### 化学荧光棒
 
-This disposable plastic stick, when activated, uses a chemical reaction to create light for 6 hours. It illuminates an area only 5 feet in radius. Once activated, it can’t be turned off or reused. The listed purchase DC is for a pack of 5 sticks.
+这种一次性塑料棒，在启用后，会运用化学反应制造持续6小时的光源。它只能照亮半径5尺内的区域。一经启用，则不可关闭或重用。表中列出的购买DC是5只装的。
 
-### Climbing Gear
+### 攀爬装备
 
-All of the tools and equipment that climbing enthusiasts use to make climbing easier and, in some cases, possible, including ropes, pulleys, helmet and pads, gloves, spikes, chocks, ascenders, pitons, a handax, and a harness. It takes 10 minutes to remove the gear from its pack and outfit it for use. Use this gear with the Climb skill.
+让攀爬爱好者更方便攀爬的所有工具，部分包括绳索、滑轮、头盔和护具、手套、长钉、楔子、上升器、岩钉、手斧和背带。使用这些工具需要花10分钟的时间从携行具或外套上卸下。攀爬技能将会用到这个装备。
 
-### Compass
+### 指南针
 
-A compass relies on the Earth’s magnetic field to determine the direction of magnetic north. A compass grants its user a +2 equipment bonus on Navigate checks.
+指南针依赖于地磁场，指向地磁北极。指南针会为寻路检定提供2点装备加值。
 
-### Fire Extinguisher
+### 灭火器
 
-This portable apparatus uses a chemical spray to extinguish small fires. The typical fire extinguisher ejects enough extinguishing chemicals to put out a fire in a 10-foot-by-10-foot area as a move action. It contains enough material for two such uses.
+这种便携式灭火器使用化学喷雾扑灭小型火源。标准的灭火器在一个移动动作内会喷射出足以灭掉10尺×10尺区域火焰的阻燃剂。其容纳的阻燃剂量足以如此操作两次。
 
-### Flash Goggles
+### 防闪光护目镜
 
-These eye coverings provide total protection against blinding light.
+这些护目镜提供完全的对致盲光照的防护。
 
-### Flashlight
+### 手电筒
 
-Flashlights come in a wide variety of sizes and quality levels. Those covered here are professional, heavy-duty models, rugged enough to withstand the rigors of modern adventuring. Flashlights negate penalties for darkness within their illuminated areas.
+手电筒涵盖了十分广泛的尺寸和品质。这里提及的是那些专业的、笨重的、粗犷的、能应付现代冒险严酷考验的设备。手电筒能在所照亮的区域减少黑暗所带来的惩罚。
 
-Penlight: This small flashlight can be carried on a key ring. It projects a beam of light 10 feet long and 5 feet wide at its end.
+小手电：这种小型手电筒能别在钥匙扣上。它的末端能射出10尺长5尺宽的亮光。
 
-Standard: This heavy metal flashlight projects a beam 30 feet long and 15 feet across at its end.
+标准手电筒：这种重型金属手电筒末端能射出30尺长15尺宽的亮光。
 
-Battery Flood: Practically a handheld spotlight, this item projects a bright beam 100 feet long and 50 feet across at its end.
+强光手电筒：实用的手持点光源，末端能射出100尺长50尺宽的强光。
 
-### Gas Mask
+### 防毒面具
 
-This apparatus covers the face and connects to a chemical air filter canister to protect the lungs and eyes from toxic gases. It provides total protection from eye and lung irritants. The filter canister lasts for 12 hours of use. Changing a filter is a move action. The purchase DC for one extra filter canister is 6.
+这种穿戴器具覆盖在脸上，并连接着一个化学空气过滤罐，能保护肺部和眼睛免受毒气的伤害。它能使眼睛和肺部完全免受刺激。过滤罐只能持续使用12小时。换罐需要一个移动动作。购买额外的过滤罐的购买DC为6。
 
-### GPS Receiver
+### GPS接收器
 
-Global positioning system receivers use signals from GPS satellites to determine the receiver’s location to within a few dozen feet. A GPS receiver grants its user a +4 equipment bonus on Navigate checks, but because the receiver must be able to pick up satellite signals, it only works outdoors.
+全球定位系统接收器使用从GPS卫星传来的信号，来确定接收器所在的位置，误差只有几尺。GPS接受器为使用者的寻路检定提供4点装备加值，但因为接收器必须能接收到卫星信号，所以接收器只能用于户外。
 
-### Map
+### 地图
 
-While a compass or GPS receiver can help characters find their way through the wilderness, a map can tell a character where he or she is going and what to expect when he or she gets there.
+指南针或GPS接收器只能帮助角色在野外找到方向，只有地图才能告诉角色所去的是什么地方、目的地有什么。
 
-Road Atlas: Road atlases are available for the entire United States, showing all major roads in each state. They can also be purchased for most major metropolitan areas, detailing every street in the entire region.
+交通图：交通图适用于美国全境，显示每个州所有的主干道。也能在大多数繁华地区买到，图中详细标示了整个区域的每条街道。
 
-Tactical Map: A tactical map covers a small area—usually a few miles on a side—in exacting detail. Generally, every building is represented, along with all roads, trails, and areas of vegetation. Tactical maps are not available for all areas, and, though inexpensive, they generally have to be ordered from federal mapping agencies (taking a week or longer to obtain).
+战术地图：战术地图涵盖了小型区域（通常为几里长宽）的详细信息。一般来说，每个建筑物都有标示，以及所有的道路、小径、植被区域。战术地图并不全境通用，但也不贵，通常需要从联邦测绘构订购（要花1周甚至更长时间来获得）。
 
-### Mesh Vest
+### 网眼背心
 
-This is a lightweight vest with a series of pockets for items such as a compass, spare ammunition magazines, pressure bandages, and a radio, along with loops for attaching grenades, knives, or tools. It can hold up to 40 pounds of equipment.
+这种拥有一套口袋的轻量级背心，能装下诸如指南针、弹匣、压迫绷带、无线电以及能挂载手榴弹、匕首或工具的钩环。它能装下至多40磅的装备。
 
-A mesh vest provides a +2 equipment bonus to Strength for the purpose of determining carrying capacity.
+网眼背心能为角色在计算负重能力时**为力量**提供2点装备加值。
 
-### Portable Stove
+### 便携炉
 
-This small stove works on kerosene or white gasoline, and can easily be broken down and carried for backpacking.
+这种小型炉灶以煤油和无铅汽油工作，很容易被破坏，也很容易用背包携带。
 
-### Rope
+### 绳索
 
-Climbing rope can support up to 1,000 pounds.
+攀爬用绳索能承受至多1000磅的重量。
 
-### Sleeping Bag
+### 睡袋
 
-This lightweight sleeping bag rolls up compactly. It can keep a character warm even in severe weather and can also double as a stretcher in an emergency.
+这种轻量级睡袋能紧凑地卷起来。它能为极端天气中的角色提供温暖，还能在紧急时对折起来充当担架。
 
-### Tent
+### 帐篷
 
-A tent keeps a character warm and dry in severe weather, providing a +2 equipment bonus on Fortitude saves against the effects of cold weather.
+帐篷可以让角色在极端天气中保持温暖干燥，为对抗寒冷天气效果所做的强韧豁免提供2点装备加值。
 
-### Trail Rations
+### 单兵口粮
 
-Trail rations come in a number of commercial options. They all provide the necessary energy and nutrition for survival. The purchase DC given is for a case of 12 meals.
+单兵口粮是概称，实际表现为具体的商品。它们都能提供生存必需的能量和营养。购买DC能够买12餐的量。
 
-## Weapon Accessories
+## 武器附件
 
-As if modern weapons weren’t dangerous enough, a number of accessories can increase their utility or efficiency.
+仿佛现代武器的威力永远不够用似的，人们还发明了大量的附件来提高武器的实用性和效能。
 
-### Box Magazine
+### 弹匣
 
-For weapons that use box magazines, a character can purchase extras. Loading these extra magazines ahead of time and keeping them in a handy place makes it easy to reload a weapon in combat.
+对于使用弹匣的武器，角色能额外购置弹匣。事先携带好弹匣，并放在容易取出的地方，能让武器在战斗中更容易换弹。
 
-### Detonator
+### 起爆器
 
-A detonator activates an explosive, causing it to explode. The device consists of an electrically activated blasting cap and some sort of device that delivers the electrical charge to set off the blasting cap. Connecting a detonator to an explosive requires a Demolitions check (DC 15). 失败则意味着爆炸物无法按计划爆炸。失败10点或更多则意味着爆炸物在安装导火索的瞬间爆炸。
+起爆器能引爆爆炸物。装置由一个电敏的起爆雷管和一些能传递电信号触发起爆雷管的设备构成。将起爆器连接至爆炸物需要做一个爆破检定（DC15）。失败则意味着爆炸物无法按计划爆炸。失败10点或更多则意味着爆炸物在安装起爆器的瞬间爆炸。
 
-Blasting Cap: This is a detonator without a built-in controller. It can be wired into any electrical device, such as a light switch or a car’s ignition switch, with a Demolitions check (DC 10). When the electrical device is activated, the detonator goes off.
+起爆雷管：这是无内置控制器的起爆器。它可以连接至任何电子设备上，比如小开关或者车辆打火开关，这需要做一个爆破检定（DC10）。当电子设备启动时，该起爆器会触发。
 
-Radio Control: This device consists of two parts: the detonator itself and the activation device. The activation device is an electronic item about the size of a deck of cards, with an antenna, a safety, and an activation switch. When the switch is toggled, the activation device sends a signal to the detonator by radio, setting it off. It has a range of 500 feet.
+遥控起爆器：该装置由两部分构成：起爆器本身和触发装置。起爆器大小相当于一副扑克牌，有一根天线、一个安全的启动开关。当开关打开时，触发装置将通过无线电发送信号给起爆器来触发。信号范围有500尺。
 
-Timed: This is an electronic timer connected to the detonator. Like an alarm clock, it can be set to go off at a particular time.
+计时起爆器：这是一个连接至起爆器的电子计时器。像闹钟一样，它可设定在一定时间后触发。
 
-Wired: This is the simplest form of detonator. The blasting cap connects by a wire to an activation device, usually a small pistol-grip device that the user squeezes. The detonator comes with 100 feet of wire, but longer lengths can be spliced in with a Demolitions check (DC 10).
+线控起爆器：这是最简单的起爆器。起爆雷管通过导线与触发装置相连，触发装置通常是手枪握把型的。起爆器本身有100尺长的导线，但可以通过一个爆破检定接驳至更长。
 
-### Holster
+### 装具
 
-Holsters are generally available for all Medium-size or smaller firearms.
+装具通常用于装载普通或小型尺寸的火器。
 
-Hip: This holster holds the weapon in an easily accessed—and easily seen—location.
+腰部装具：这种装具将武器装在容易拔出、也容易被看到的地方。
 
-Concealed Carry: A concealed carry holster is designed to help keep a weapon out of sight (see Concealed Weapons and Objects). In most cases, this is a shoulder holster (the weapon fits under the wearer’s armpit, presumably beneath a jacket). Small or Tiny weapons can be carried in waistband holsters (often placed inside the wearer’s waistband against his or her back). Tiny weapons can also be carried in ankle or boot holsters.
+隐藏装具：隐蔽的装具专为隐藏武器而设计（详见`隐蔽的武器与物品`）。在大多数情况下，这是一个肩带装具（武器刚好能藏在腋窝下，基本上能隐藏在外套里）。小型或超小型的武器可以装在腰带装具里（一般藏在后腰上）。超小型武器还能装在踝上或脚上装具里。
 
-### Illuminator
+### 挂载手电筒
 
-An illuminator is a small flashlight that mounts to a firearm, freeing up one of the user’s hands. It functions as a standard flashlight.
+挂载手电筒能挂载在火器上，解放一只手。功能上与标准手电筒相同。
 
-### Laser Sight
+### 激光瞄具
 
-This small laser mounts on a firearm, and projects a tiny red dot on the weapon’s target. A laser sight grants a +1 equipment bonus on all attack rolls made against targets no farther than 30 feet away. However, a laser sight can’t be used outdoors during the daytime.
+这种小型瞄具挂载在火器上，射出微小的红点，照在目标上。激光瞄具为30尺及以内的攻击骰提供1点装备加值。但激光瞄具不能在户外日间使用。
 
-### Scope
+### 瞄准镜
 
-A scope is a sighting device that makes it easier to hit targets at long range. However, although a scope magnifies the image of the target, it has a very limited field of view, making it difficult to use.
+瞄准镜有助于在更远的距离上集中目标。但是瞄准镜放大目标图像的同时也极大地缩小了视野，造成不便。
 
-Standard: A standard scope increases the range increment for a ranged weapon by one-half (multiply by 1.5). However, to use a scope a character must spend an attack action acquiring his or her target. If the character changes targets or otherwise lose sight of the target, he or she must reacquire the target to gain the benefit of the scope.
+标准瞄准镜：标准瞄准镜可将远程武器的射程提高一半（即乘以1.5）。但使用瞄准镜需要用一个攻击动作瞄准目标。如果角色换了目标，或者目标脱离了角色的视线，角色需要重新瞄准目标才能获得瞄准镜带来的加成。
 
-Electro-Optical: An electro-optical scope functions the same as a standard scope in normal light. In darkness, however, the user sees through it as if he or she had the darkvision ability granted by night vision goggles.
+光电瞄准镜：光电瞄准镜在正常光照下与标准瞄准镜作用相同。但在黑暗环境中，使用者通过此瞄准镜视物有如拥有了`夜视仪`赋予的`黑暗视觉`能力。
 
-### Speed Loader
+### 快速装弹器
 
-A speed loader holds a number of bullets in a ring, in a position that mirrors the chambers in a revolver cylinder. Using a speed loader saves time in reloading a revolver, since a character can insert all the bullets at once.
+快速装弹器将子弹排成一圈，正好与左轮手枪的轮盘相对。使用快速装弹器节约了左轮手枪的装填时间，角色可以一次装填完所有的子弹。
 
-### Suppressor
+### 抑制器
 
-A suppressor fits on the end of a firearm, capturing the gases traveling at supersonic speed that propel a bullet as it is fired. This eliminates the noise from the bullet’s firing, dramatically reducing the sound the weapon makes when it is used. For handguns, the only sound is the mechanical action of the weapon (Listen check, DC 15, to notice). For longarms, the supersonic speed of the bullet itself still makes noise. However, it’s difficult to tell where the sound is coming from, requiring a Listen check (DC 15) to locate the source of the gunfire.
+抑制器安装在枪口末端，在开火时捕获以超音速射出的底火。这会灭掉开火时发出的噪声，杀人于无形。对于手枪而言，武器唯一的响声来自击发（聆听检定听到的DC为15）。对于长杆枪械而言，子弹破空的噪音也很响亮。但这种声音是无法分辨声源的，需要做一个聆听检定（DC15）来确认枪火的来源。
 
-Modifying a weapon to accept a suppressor requires a Repair check (DC 15). Once a weapon has been modified in this manner, a suppressor can be attached or removed as a move action.
+将武器改装成可以适配抑制器需要做一个修理检定（DC15）。武器被如此改装后，便可以通过一个移动动作安装或取下抑制器。
 
-Suppressors cannot be used on revolvers or shotguns. A suppressor purchased for one weapon can be used for any other weapon that fires the same caliber of ammunition.
+抑制器不能安装在左轮手枪或霰弹枪上。一种武器适配的抑制器适用于所有同口径的其他武器。
 
-## Lifestyle
+## 日常消费品
 
-Lifestyle items include travel expenses, entertainment and meals beyond the ordinary, and housing, for those characters interested in buying a home rather than renting. Lifestyle items are shown on the table below.
+日常消费品包括旅游消费、娱乐、非家常宴会、居所（买而非租的费用）。日常消费品如下表所示。
 
-Table : Lifestyle Items
+表：日常消费品
 
-|Housing|Purchase DC|
+|居所|购买DC|
 |-------|:---------:|
-|Small condo|28|
-|Large condo|30|
-|Small house|30|
-|Medium house|32|
-|Large house|34|
-|Mansion|36|
+|小商品房|28|
+|大商品房|30|
+|小平房|30|
+|中平房|32|
+|大平房|34|
+|豪宅|36|
 
-|Entertainment|Purchase DC|
+|娱乐|购买DC|
 |-------------|:---------:|
-|Movie ticket|3|
-|Theater ticket|7|
-|Sporting event ticket|7|
+|电影票|3|
+|剧院票|7|
+|比赛票|7|
 
-|Meals|Purchase DC|
+|餐饮|购买DC|
 |-----|:---------:|
-|Fast food|2|
-|Family restaurant|4|
-|Upscale restaurant|7|
-|Fancy restaurant|9|
+|快餐|2|
+|家常菜馆|4|
+|高档饭店|7|
+|豪华饭店|9|
 
-|Transportation|Purchase DC|
+|运输|购买DC|
 |--------------|:---------:|
-|Airfare||
-|Domestic, coach|14|
-|Domestic, first class|17|
-|International, coach|18|
-|International, first class|22|
-|Car rental||
-|Economy car|6|
-|Mid-size or truck|8|
-|Luxury|10|
+|机票||
+|国内经济舱|14|
+|国内头等舱|17|
+|国际经济舱|18|
+|国际头等舱|22|
+|租车||
+|经适车|6|
+|中型车或卡车|8|
+|豪华车|10|
 
-|Lodging|Purchase DC|
+|住宿|购买DC|
 |-------|:---------:|
-|Budget motel|7|
-|Average hotel|9|
-|Upscale hotel|11|
+|廉价汽车旅馆|7|
+|平价酒店|9|
+|高档酒店|11|
 
-### Housing
+### 居所
 
-A number of types of homes are mentioned on Table:Lifestyle. The purchase DC covers the down payment, not the total cost of the home. (A character buying a home does not have to worry about mortgage payments; they simply replace the hero’s rent, which is already accounted for in the Wealth system)
+表：日常消费品列出了各式的居所。购买DC只包括房价，而非购买房子的所有费用。（角色买房无需操心抵押付款的事情，买房流程在游戏里只是租房的翻版，细节都算在财富系统里了）
 
-The small house and condo are one- or two-bedroom homes, probably with curbside parking. The large condo and medium house are three-bedroom homes with garage or carport parking for one or two cars. The large house is a four-bedroom home with a two-car garage, while the mansion is a five- or six-bedroom home with an extra den, spacious rooms throughout, and a three-car garage. All of these homes are of typical construction; luxury appointments or avant garde design is available with a +2 increase to the purchase DC.
+小平房和小商品房是一到两间卧室的房子，可能附带路边停车位。大商品房和中商品房是三间卧室的房子，附带能停一到两辆车的车库或停车位。大平房是四间卧室的房子，附带能停两辆车的车库；而豪宅是五到六间卧室的房子，附带额外的小室、宽敞的大厅和能停三辆车的车库。以上都是基本版的，要定制豪华的或前卫设计的版本，购买DC+2。
 
-Location dramatically affects a home’s value. The given purchase DC assumes a typical suburban location. An undesirable location, such as a bad neighborhood or a remote rural site, reduces the purchase DC by 2. A particularly good location in an upscale neighborhood or city center increases the purchase DC by 2.
+地段也是房价的重要影响因素。以上参考购买DC是地处城郊的一般价格。冷门的地段，比如低素质的邻里或者偏远的乡下，购买DC-2。邻里皆处上流的黄金地段或市中心，购买DC+2。
 
-### Entertainment
+### 娱乐
 
-Purchase DCs are given for several entertainment options. They represent the purchase of a single ticket. A pair of tickets can be purchased together; doing so increases the purchase DC by 2.
+娱乐项目决定购买DC。DC代表一张票的售价。可以买两张连着的座位，DC要加2。
 
-### Meals
+### 餐饮
 
-Several typical meal costs are provided. The cost of picking up the tab for additional diners adds +2 per person to the purchase DC.
+不同餐饮所需的花费已列出。额外多上菜所需的费用是原购买DC的基础上每人加2点。
 
-### Transportation
+### 运输
 
-Airfare tickets are for a single passenger round trip. One-way tickets are available, but only reduce the purchase DC by 2. Car rentals and lodging rates are per day.
+飞机票是一人往返票。也可以买单程票，但价格只是原购买DC-2。租车于住宿的费用是按日计的。
 
-## Services
+## 服务
 
-The broad spectrum of services available to characters is only represented in overview here. Services are identified on Table:Services.
+广义上的所有角色可用服务都能在下表找到代表的类型。服务如`表：服务`所示。
 
-Table: Services
+表：服务
 
-|Item|Purchase DC|
+|项目|购买DC|
 |----|:---------:|
-|Auto repair||
-|1 to 10 hp damage|15|
-|11 to 20 hp damage|18|
-|21 to 30 hp damage|21|
-|30+ hp damage|24|
-|Towing|8|
+|机动车修理||
+|1到10点伤害|15|
+|11到20点伤害|18|
+|21到30点伤害|21|
+|30点以上伤害|24|
+|拖车|8|
 |||
-|Bail bonds||
-|Property crime|13|
-|Assault crime|16|
-|Death crime|22|
+|保释保证书||
+|财产犯罪|13|
+|伤害罪|16|
+|杀人罪|22|
 |||
-|Bribery||
-|Bouncer|6|
-|Bureaucrat|10|
-|Informant|7|
-|Police officer|10|
+|贿赂||
+|保安|6|
+|官僚|10|
+|告密者|7|
+|警官|10|
 |||
-|Legal services|10 + lawyer’s Knowledge (civics) ranks|
+|法律服务|10 + 律师的知识（政法）技能等级|
 |||
-|Medical services||
-|Long-term care|10|
-|Restore hit points|12|
-|Surgery|15|
-|Treat poison/disease|10|
+|医疗服务||
+|长期护理|10|
+|恢复生命值|12|
+|手术|15|
+|治疗毒素/疾病|10|
 
-### Auto Repair
+### 机动车修理
 
-Having a car repaired can be expensive; how expensive depends on the amount of damage the vehicle has suffered. The purchase DCs for damage repair assume the vehicle has not actually been disabled; if it has, increase the purchase DC by +3. Repair generally takes 1 day for every 10 hit points of damage dealt, and results in the vehicle being returned to full hit points.
+修理汽车可能会很贵；修理的花费取决于载具承受的伤害量。修理服务的购买DC是指修理未`报废`的车辆；若车辆报废了，购买DC+3。通常，修理能每天恢复10点伤害，直到载具生命值回满。
 
-### Bail Bonds
+### 保释保证书
 
-Characters jailed for crimes can seek bail. Bail is a monetary guarantee that the suspect will show up for his trial. The bail amount is set by a judge or magistrate, sometimes immediately following arrest (for minor crimes) and sometimes days later (for serious crimes). If bail is granted, a character can arrange for a bail bond—a loan that covers bail. The purchase DCs represent the fees associated with the loan; the bond itself is paid back to the bond agency when the hero shows up for trial. If the hero fails to show up, the agency loses the bail loan, and may send bounty hunters or other thugs after the character.
+被囚禁的角色可以寻求保释。保释是一种用钱来保证嫌疑犯最终会出庭受审的方式。保释金由法官或地方法官设置，有时一经逮捕即设置（对于轻罪），有时要过几天才能设置（对于重罪）。角色如果被保释，将被授予保释保证书——相当于一种“欠条”。购买DC代表了购买这个“欠条”的费用；出庭受审时，此“欠条”将被偿还。如果英雄未按时出庭，“欠条”将成为坏账，有关部门会派出赏金猎人或其他打手向角色追索。
 
-Bail amounts vary dramatically, depending on the seriousness of the crime, the suspect’s criminal history, his or her role in society, his or her family life, and other factors the judge believes indicate that the character will or will not flee (or commit other crimes) before the trial. An upstanding citizen with a good job and a family who has never before been charged with a crime gets minimal bail; a career criminal with nothing to lose gets maximum bail or may not be granted bail at all. The purchase DCs shown assume the suspect is viewed positively by the court. If not, increase the purchase DC by as much as 5. Whatever the base purchase DC, a successful Diplomacy check (DC 15) by the suspect reduces the purchase DC by 2.
+保释金数额天差地别，取决于犯罪的严重程度、嫌疑犯的前科、社会地位、家庭生活、以及其他供法官审度角色是否会逃跑（或再犯）的因素。处于上流社会，有着体面的工作，家庭成员也未被起诉过的人，保释金最低；光脚不怕穿鞋的罪犯，保释金最高，甚至不会获得保释。购买DC是假设嫌疑犯在庭上表现积极的情况。如果不是，将购买DC提高5点。不管基础购买DC是多少，嫌疑犯通过一个成功的交涉检定（DC15）能将购买DC减少2点。
 
-Property Crime: The crime involved only the destruction of property; no one was attacked or seriously hurt as part of the crime.
+财产犯罪：只涉及财务破坏的犯罪；没有人在犯罪中受攻击或受到严重伤害。
 
-Assault Crime: The crime involved an attack intended to capture, kill, or seriously injure the victim.
+伤害罪：涉及对受害者囚禁、谋杀、或严重伤害的犯罪。
 
-Death Crime: Someone died as a result of the crime.
+杀人罪：结果造成死亡的犯罪。
 
-### Medical Services
+### 医疗服务
 
-A character’s medical insurance is built into his or her Wealth bonus; the purchase DCs represent the ancillary expenses not covered, or only partly covered, by insurance. Medical services must be paid for in full regardless of whether they are successful. See the Treat Injury skill for more information on the medical services described below.
+角色的医疗保险是建立在其财富加值基础上的；购买DC代表了保险未覆盖到或只有部分覆盖到的医护项目。医疗服务无论是否成功，都必须全额付款。下列医疗服务的描述详见医疗技能描述。
 
-In a hospital setting, the necessary treat Injury checks are always successful. The purchase DC is per check.
+在医院的环境，必要的医疗检定必定成功。购买DC分开计算。
 
-Long-Term Care: The purchase DC represents treatment for regaining hit points or ability score points more quickly than normal on a given day.
+长期护理：购买DC代表了比平时医疗更快地恢复生命和属性点的医疗服务。
 
-Restore Hit Points: The purchase DC represents treatment for hit point damage from wounds or injuries on a given day.
+恢复生命值：购买DC代表了恢复伤害的医疗服务。
 
-Surgery: The purchase DC represents the cost of a single surgical procedure.
+手术：购买DC代表单次外科手术的花费。
 
-Poison/Disease: The purchase DC represents one application of treatment for a poison or disease.
+治疗毒素/疾病：购买DC代表了治疗一种毒素或一种疾病的疗法。

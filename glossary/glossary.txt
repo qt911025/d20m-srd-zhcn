@@ -65,7 +65,7 @@ Proficiency	擅长
 Brawl	拳法
 Tumble	翻滚
 structural	结构
-electronic	电力
+electronic	电子
 mechanical	机械
 Handle Animal	驯养动物
 Repair	修理
@@ -794,7 +794,7 @@ Sarin nerve gas	沙林神经毒气
 Strychnine	番木鳖碱
 unwilling	不情愿的
 timer	计时器
-detonator	导火索
+detonator	起爆器
 radio direction finder	无线电测向仪
 Scratch-Built	土制
 tripwire trap	绊线陷阱
@@ -940,3 +940,145 @@ encumbered	累赘
 heavily encumbered	重度累赘
 Lift	举重
 Drag	拖行
+General Equipment	普通装备
+Size	尺寸	物品
+Weight	重量
+Aluminum travel case	铝制旅行箱
+Briefcase	公文包
+Day pack	双肩包
+Handbag	手提包
+Contractor’s field bag	工程包
+Range pack	战术背包
+Patrol box	巡逻箱
+Clothing outfit	套装
+Outerwear	外套
+Parka	派克大衣
+Photojournalist’s vest	摄影马甲
+Windbreaker	防风夹克
+Tool belt	工具腰带
+Walkie-talkie	对讲机
+Caller ID defeater	电话匿名装置
+Cellular interceptor	无线拦截器
+Lineman’s buttset	接线工具
+Night vision goggles	夜视仪
+Tap detector	电话窃听检测器
+Bolt cutter	断线钳
+Duct tape	胶带
+Zip-tie	约束带
+Search-and-rescue kit	搜救工具
+Spike strip	道路钉障
+Binoculars	双筒望远镜
+Flash goggles	防闪光护目镜
+Battery flood	强光手电筒
+Mesh vest	网眼背心
+Trail rations	单兵口粮
+Illuminator	挂载手电筒
+Clothing	衣物
+Business	公务装
+Casual	便装
+Formal	正装
+Fatigues	作训服
+Uniform	制服
+Ghillie Suit	吉利服
+Concealed Weapons and Objects	隐蔽的武器与物品
+Fatigue Jacket	作训外套
+Overcoat	大衣
+Computers and Consumer Electronics	计算机与用电器
+Camera	相机
+35mm	35mm相机
+Digital	数码相机
+Disposable	拍立得相机
+Film	胶片
+Film Developing	胶片冲洗
+Cell Phone	手机
+Desktop	台式电脑
+Notebook	笔记本电脑
+Digital Audio Recorder	数码录音机
+Modem	调制解调器
+Broadband	宽带
+Cellular	蜂窝网	Cellular
+Portable Satellite Telephone	便携式卫星电话
+Portable Video Camera	便携式摄像机
+Surveillance Gear	监控设备
+Black Box	小黑盒
+Telephone Tap	电话窃听器
+Line Tap	线路窃听器
+junction box	接线箱
+Receiver Tap	接收端窃听器
+Telephone Line Tracer	电话线路跟踪器
+Caltrops	铁蒺藜
+avoid hazard	避险	驾驶特技
+Fake ID	假身份
+hardness	硬度
+Multipurpose Tool	多功能工具钳
+puncture-resistant tires	防刺轮胎
+Survival Gear	生存装备
+Backpack	背包
+Standard	标准	双筒望远镜
+Rangefinding	测距	双筒望远镜
+Electro-Optical	光电	双筒望远镜
+Chemical Light Stick	化学荧光棒
+Climbing Gear	攀爬装备
+Compass	指南针
+Fire Extinguisher	灭火器
+Flashlight	手电筒
+Penlight	小手电
+Standard	标准	手电筒
+Gas Mask	防毒面具
+GPS Receiver	GPS接收器
+Road Atlas	交通图
+Tactical Map	战术地图
+Portable Stove	便携炉
+Sleeping Bag	睡袋
+Tent	帐篷
+Weapon Accessories	武器附件
+Box Magazine	弹匣
+fuse	导火索
+Blasting cap	起爆雷管
+Radio Control	遥控起爆器
+Timed	计时	起爆器
+Wired	线控	起爆器
+Hip	腰部	装具（hip其实是臀部）
+Concealed Carry	隐藏装具
+Laser Sight	激光瞄具
+Scope	瞄准镜
+Standard	标准	瞄准镜
+Electro-Optical	光电	瞄准镜
+Speed Loader	快速装弹器
+revolver	左轮手枪
+Suppressor	抑制器
+Lifestyle	日常消费品
+Small condo	小商品房
+Large condo	大商品房
+Small house	小平房
+Medium house	中平房
+Large house	大平房
+Mansion	豪宅
+Housing	居所
+Family restaurant	家常菜馆
+Upscale restaurant	高档饭店
+Fancy restaurant	豪华饭店
+Airfare	机票
+Domestic, coach	国内经济舱
+Domestic, first class	国内头等舱
+International, coach	国际经济舱
+International, first class	国际头等舱
+Car rental	租车
+Economy car	经适车
+Mid-size	中型	车
+Luxury	豪华车
+Lodging	住宿
+Budget motel	廉价汽车旅馆
+Average hotel	平价酒店
+Upscale hotel	高档酒店
+Auto repair	机动车修理
+Towing	拖车	机动车修理服务
+Bail bonds	保释保证书
+Property crime	财产犯罪
+Assault crime	伤害罪
+Death crime	杀人罪
+Police officer	警官
+Legal services	法律服务
+Medical services	医疗服务
+disabled	报废	载具的“瘫痪”
+show up for his trial	出庭受审
