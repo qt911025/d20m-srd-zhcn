@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -114,6 +114,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T140217Z" creationid="quentine" creationdate="20191105T140217Z">
         <seg># 装备（综述）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># EQUIPMENT (WEAPONS AND ARMOR)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T113746Z" creationid="quentine" creationdate="20200410T113746Z">
+        <seg># 装备（武器与盔甲）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1918,6 +1926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Weapons</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T113751Z" creationid="quentine" creationdate="20200410T113751Z">
+        <seg>## 武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## White Collar</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181104T143730Z" creationid="QuenTine" creationdate="20181104T143730Z">
@@ -3440,6 +3456,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Ranged Weapons</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T114214Z" creationid="quentine" creationdate="20200410T114214Z">
+        <seg>### 远程武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Recovering with Help</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T112605Z" creationid="quentine" creationdate="20190115T112605Z">
@@ -4552,6 +4576,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Ranged Weapons Table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T115324Z" creationid="quentine" creationdate="20200410T115324Z">
+        <seg>#### 远程武器表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### React First</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190526T124316Z" creationid="quentine" creationdate="20190526T124316Z">
@@ -4988,6 +5020,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190619T132746Z" creationid="quentine" creationdate="20190619T132746Z">
         <seg>##### 辨识灵能（智）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Reloading Firearms</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134447Z" creationid="quentine" creationdate="20200410T134447Z">
+        <seg>##### 装填火器</seg>
       </tuv>
     </tu>
     <tu>
@@ -6169,6 +6209,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Automatic (A):** Automatic weapons fire a burst or stream of shots with a single squeeze of the trigger.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T124709Z" creationid="quentine" creationdate="20200410T124709Z">
+        <seg>**全自动（全）：** 全自动武器可以在扣动扳机时持续射击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Averting One’s Eyes:** The opponent avoids looking at the creature’s face and instead looks at its body, watching its shadow, tracking it in a reflective surface, or the like.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T125238Z" creationid="quentine" creationdate="20191031T125238Z">
@@ -7058,6 +7106,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Box:** A box magazine is any type of magazine that can be removed and reloaded separately from the weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T131505Z" creationid="quentine" creationdate="20200410T131234Z">
+        <seg>**弹匣型：**弹匣指所有能从武器上卸下再装填的弹仓。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Breath Weapon (Su):** A breath weapon attack usually causes damage and is often based on some type of energy.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T130303Z" creationid="quentine" creationdate="20191030T130303Z">
@@ -7618,10 +7674,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Critical:** The threat range for a critical hit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T115450Z" creationid="quentine" creationdate="20200410T115450Z">
+        <seg>**重击：** 重击威胁区间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Current Events:** Recent happenings in the news, sports, politics, entertainment, and foreign affairs.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191022T135744Z" creationid="quentine" creationdate="20191022T135744Z">
         <seg>**时事：** 最近发生的新鲜事、体育、娱乐以及国际新闻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Cylinder:** A revolver keeps its ammunition in a cylinder, which is part of the weapon and serves as the firing chamber for each round as well.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T132240Z" creationid="quentine" creationdate="20200410T131615Z">
+        <seg>**转轮型：** 转轮枪将子弹装在转轮上，转轮是武器的一部分，本身也作为枪械的燃烧室。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7654,6 +7726,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190117T143754Z" creationid="quentine" creationdate="20190117T143754Z">
         <seg>**三级伤害减免：** 体质型英雄总共忽略3点来自近战及远程武器的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Damage Type:** Ranged weapon damage is classified according to type: ballistic (all firearms), energy (of a specific type), piercing (some simple ranged weapons), or slashing (a whip).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T120642Z" creationid="quentine" creationdate="20200410T120642Z">
+        <seg>**伤害类型：** 远程武器的伤害分为几类：实弹（所有火器），能量（一些特殊武器）、穿刺（一些简易远程武器）、以及抽打（鞭子）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Damage:** The damage the weapon deals on a successful hit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T115425Z" creationid="quentine" creationdate="20200410T115425Z">
+        <seg>**伤害：** 武器成功命中时所造成的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8418,6 +8506,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Internal:** Some weapons keep their ammunition in an internal space, which must be loaded by hand.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T132650Z" creationid="quentine" creationdate="20200410T132650Z">
+        <seg>**内置型：** 一些武器的弹仓是内置的，必需手动装弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Internet Access:** Reaching a site over the net requires two Computer Use checks.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T143831Z" creationid="quentine" creationdate="20190916T143534Z">
@@ -8546,6 +8642,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Linked:** Some machine guns use linked ammunition.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T132747Z" creationid="quentine" creationdate="20200410T132747Z">
+        <seg>**弹链型：** 一些机枪使用弹链。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Locate What You’re Looking For:** To find the data (or application, or remote device) the character wants, make a Computer Use check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T144204Z" creationid="quentine" creationdate="20190916T144204Z">
@@ -8574,6 +8678,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T135058Z" creationid="quentine" creationdate="20191031T135058Z">
         <seg>**低光视觉（特异）：** 有低光视觉的生物可以在昏暗条件下拥有正常视野两倍的视距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Magazine:** The weapon’s magazine capacity and type are given in this column.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134211Z" creationid="quentine" creationdate="20200410T125334Z">
+        <seg>**弹仓：** 此项列出了武器适用的弹仓容量与类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8780,8 +8892,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>**Normal:** Reloading a firearm with an already filled box magazine or speed loader is a move action.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190803T142222Z" creationid="quentine" creationdate="20190803T142154Z">
-        <seg>**正常：** 将一个已装弹的弹匣或快速装填器装填至火器里，是一个即时动作。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134815Z" creationid="quentine" creationdate="20190803T142154Z">
+        <seg>**正常：** 将一个已装弹的弹匣或快速装填器装填至火器里，是一个移动动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9354,6 +9466,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Purchase DC:** This is the purchase DC for a Wealth check to acquire the weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134326Z" creationid="quentine" creationdate="20200410T134326Z">
+        <seg>**购买 DC:** 获得此武器所需财富检定的购买DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Qualifying for an Advanced Class**</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190221T133729Z" creationid="quentine" creationdate="20190221T133729Z">
@@ -9370,10 +9490,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Range Increment:** Any attack at less than this distance is not penalized for range.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T121229Z" creationid="quentine" creationdate="20200410T120911Z">
+        <seg>**射程跨度：** 低于此距离的攻击不会因射程受到惩罚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Range:** The Acolyte turns the closest turnable creature first.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T105136Z" creationid="quentine" creationdate="20190703T105136Z">
         <seg>**距离：**侍僧首先驱散最靠近自己的可驱散生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Rate of Fire:** Some ranged weapons have a rate of fire of 1, which simply means they can be employed once per round and then must be reloaded or replaced.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T123254Z" creationid="quentine" creationdate="20200410T122607Z">
+        <seg>**射击模式：** 一些远程武器的射击模式为手动，意味着该武器一轮只能射击一次，然后就要装填或者抛弃掉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9470,6 +9606,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190921T125950Z" creationid="quentine" creationdate="20190921T125950Z">
         <seg>**限制级：** 毒素的限制级，在黑市的购买DC调整值（如果有的话）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Restriction:** The restriction rating for the weapon, if any, and the appropriate black market purchase DC modifier.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134409Z" creationid="quentine" creationdate="20200410T134409Z">
+        <seg>**限制级：** 武器的管制等级，如果有，还会列出相应的黑市购买DC调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9571,6 +9715,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Semiautomatic (S):** Most firearms have the semiautomatic rate of fire.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T124206Z" creationid="quentine" creationdate="20200410T124206Z">
+        <seg>**半自动（半）：** 大多数火器都有半自动射击模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Semitic:** Akkadian (aka Babylonian)\*, Ancient Hebrew\*, Arabic, Aramaic\*, Hebrew.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T074519Z" creationid="quentine" creationdate="20191027T074246Z">
@@ -9607,6 +9759,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T142249Z" creationid="quentine" creationdate="20191025T142249Z">
         <seg>**唱歌：** 角色是有天赋的声乐音乐家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Single Shot:** A weapon with the single shot rate of fire requires the user to manually operate the action (the mechanism that feeds and cocks the weapon) between each shot.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T123809Z" creationid="quentine" creationdate="20200410T123809Z">
+        <seg>**手动：** 手动射击模式的武器需要使用者在每次射击之间都要耗费动作来操作（手动装填、制退）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Size:** Size categories for weapons and other objects are defined differently from the size categories for creatures.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T133459Z" creationid="quentine" creationdate="20200410T133230Z">
+        <seg>**尺寸：** 武器与其他物品的尺寸范围定义与生物的体型定义不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11523,6 +11691,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Weight:** This column gives the weapon’s weight when fully loaded.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134254Z" creationid="quentine" creationdate="20200410T134200Z">
+        <seg>**重量：** 此项为满弹时武器的全重。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Will Save:** The base save bonus for Will saving throws.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T115827Z" creationid="quentine" creationdate="20190116T115827Z">
@@ -12185,6 +12361,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A Huge weapon requires two hands and a bipod or other mount.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T133929Z" creationid="quentine" creationdate="20200410T133929Z">
+        <seg>超大型的武器需要双手操作，并且依赖两脚架或其他载物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A Large weapon requires two hands.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T133754Z" creationid="quentine" creationdate="20200410T133754Z">
+        <seg>大型的武器必须双手操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A Mage can prepare a lower-level spell in place of a higher-level one if he desires place.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190623T120628Z" creationid="quentine" creationdate="20190623T120628Z">
@@ -12213,6 +12405,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190623T122647Z" creationid="quentine" creationdate="20190623T122647Z">
         <seg>法师可以拥有魔宠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A Medium-size or smaller weapon can be used one-handed or two-handed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T133735Z" creationid="quentine" creationdate="20200410T133735Z">
+        <seg>普通及以下尺寸的武器能单手或双手操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12277,6 +12477,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T131217Z" creationid="quentine" creationdate="20191031T131217Z">
         <seg>使用精通攫抓的小型及更小的生物在擒抱检定中不会应用其擒抱调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A Small or smaller weapon is considered a light weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134002Z" creationid="quentine" creationdate="20200410T134002Z">
+        <seg>小型及以下的武器视为轻武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14193,6 +14401,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A fourth type, linked, has an unlimited capacity; for this reason the entry does not also have a number.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T130330Z" creationid="quentine" creationdate="20200410T130023Z">
+        <seg>第四种类型，弹链型，容量是无限的，因此不注明数字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A heavily encumbered character performs as if his or her Dexterity modifier were no higher than +1.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T133800Z" creationid="quentine" creationdate="20191105T133800Z">
@@ -14561,6 +14777,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A personal firearm is any firearm designed to be carried and used by a single person.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T115316Z" creationid="quentine" creationdate="20200410T115316Z">
+        <seg>单兵火器包括了所有专供单人携带与操作的热兵器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A pinned character cannot move but is not helpless.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T140437Z" creationid="quentine" creationdate="20190115T140437Z">
@@ -14721,6 +14945,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A semiautomatic weapon fires one shot per attack (effectively acting as a single shot weapon), but some feats allow characters armed with semiautomatic weapons to fire shots in rapid successions, getting in more than one shot per attack.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T124601Z" creationid="quentine" creationdate="20200410T124601Z">
+        <seg>半自动武器每次攻击都只能射击一次（效果上与手动武器相同），但角色使用这些武器时，可以应用能在一次攻击中射击多次的专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A separate saving throw is required for each negative level.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T140257Z" creationid="quentine" creationdate="20191030T140257Z">
@@ -14827,8 +15059,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>A speed loader holds a number of bullets in a ring, in a position that mirrors the chambers in a revolver cylinder.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200117T105717Z" creationid="quentine" creationdate="20200117T105558Z">
-        <seg>快速装弹器将子弹排成一圈，正好与左轮手枪的轮盘相对。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T131955Z" creationid="quentine" creationdate="20200117T105558Z">
+        <seg>快速装弹器将子弹排成一圈，正好与转轮枪的轮盘相对。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15119,6 +15351,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T133137Z" creationid="quentine" creationdate="20191030T133137Z">
         <seg>由魔法增强过的有增强加值的武器将被视为比无此加值的武器更强。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A weapon with the single shot rate of fire can fire only one shot per attack, even if the user has a feat or other ability that normally allow more than one shot per attack.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T124131Z" creationid="quentine" creationdate="20200410T124131Z">
+        <seg>手动模式的武器每次攻击只能射击一次，即使使用者有能在一次攻击射击多次的专长或能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20388,6 +20628,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Firearms, which operate through many different forms of internal mechanisms, have varying rates of fire.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T123302Z" creationid="quentine" creationdate="20200410T122758Z">
+        <seg>一些火器的机制允许多种射击模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Firing a burst expends five bullets and can only be done if the weapon has five bullets in it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190730T135316Z" creationid="quentine" creationdate="20190730T135153Z">
@@ -20900,6 +21148,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Handguns and longarms are personal firearms.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T115128Z" creationid="quentine" creationdate="20200410T115128Z">
+        <seg>手枪与长杆枪属于单兵火器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Having a car repaired can be expensive; how expensive depends on the amount of damage the vehicle has suffered.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T143450Z" creationid="quentine" creationdate="20200117T143450Z">
@@ -21124,6 +21380,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How the firearm is reloaded depends upon its magazine type.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T131408Z" creationid="quentine" creationdate="20200410T125728Z">
+        <seg>火器如何装填取决于弹仓类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, a character may be able to turn to the black market (see below) to obtain restricted objects without a license.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T124323Z" creationid="quentine" creationdate="20191104T124323Z">
@@ -21188,6 +21452,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, each full range increment causes a cumulative –2 penalty on the attack roll.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T121645Z" creationid="quentine" creationdate="20200410T121645Z">
+        <seg>超过射程跨度时，每超过一倍射程跨度，攻击骰都要受到2点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, few of them have the maximum number of action points for their level (because they will have spent some of them).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T124255Z" creationid="quentine" creationdate="20190703T124203Z">
@@ -21200,6 +21472,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T110829Z" creationid="quentine" creationdate="20200117T110829Z">
         <seg>但这种声音是无法分辨声源的，需要做一个聆听检定（DC15）来确认枪火的来源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, most revolvers can be used with a speed loader.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T132357Z" creationid="quentine" creationdate="20200410T132357Z">
+        <seg>但大多数转轮枪都能用快速装弹器装弹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23268,6 +23548,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the threat is confirmed, a weapon deals double damage on a critical hit (roll damage twice, as if hitting the target two times).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T120108Z" creationid="quentine" creationdate="20200410T120108Z">
+        <seg>重击威胁发生时，武器重击，造成两次伤害（即掷伤害骰两次，视为两次击中目标）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the treating character’s check succeeds, the character provides a bonus on the poisoned character’s saving throw equal to his or her ranks in this skill.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191028T132155Z" creationid="quentine" creationdate="20191028T132155Z">
@@ -23852,6 +24140,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In military units, as the gunner fires, an assistant clips new ammunition belts together, keeping the weapon fed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T133219Z" creationid="quentine" creationdate="20200410T133200Z">
+        <seg>在军事单位中，射击手负责射击，装填手负责连接弹链并装填，保证弹药不间断供应。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In most campaigns any creatures other than humans, animals, and vermin are considered denizens of Shadow.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190613T134848Z" creationid="quentine" creationdate="20190527T135850Z">
@@ -24296,6 +24592,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190621T132456Z" creationid="quentine" creationdate="20190621T132456Z">
         <seg>释放这一灵力需要一个移动动作，灵能战刃将持续等同于灵战士等级的轮数，也可由灵战士自行收回。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It can be used one-handed and, as a light weapon, is easier to use in your off hand.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134122Z" creationid="quentine" creationdate="20200410T134106Z">
+        <seg>轻武器可以单手使用，也更容易用副手操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25044,10 +25348,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Linking two belts together is a move action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134942Z" creationid="quentine" creationdate="20200410T134736Z">
+        <seg>将两条弹链连接在一起是一个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Liquid poisons are most effective when injected directly into the bloodstream.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190921T124017Z" creationid="quentine" creationdate="20190921T123700Z">
         <seg>毒液直接注射入血液中最为有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loading a belt of linked ammunition is a full-round action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134709Z" creationid="quentine" creationdate="20200410T134709Z">
+        <seg>装填弹链是一个整轮动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26090,6 +26410,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only weapons with the automatic rate of fire can be set on autofire or be used with feats that take advantage of automatic fire.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T125401Z" creationid="quentine" creationdate="20200410T125247Z">
+        <seg>拥有全自动射击模式的武器被称为自动武器，只有在使用自动武器时，自动武器相关的专长才会生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oozes and certain kinds of creatures are immune to poison, as detailed in their descriptions, though it is conceivable that a special poison could be synthesized specifically to harm them.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T141753Z" creationid="quentine" creationdate="20190115T141753Z">
@@ -26768,6 +27096,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pump shotguns and bolt-action rifles are examples of firearms with single shot rates of fire.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T123940Z" creationid="quentine" creationdate="20200410T123940Z">
+        <seg>泵动式霰弹枪和栓动步枪就是典型的手动武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Purchase DCs are given for several entertainment options.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T125208Z" creationid="quentine" creationdate="20200117T125128Z">
@@ -26800,6 +27136,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ranged weapons are described by a number of statistics, as shown on Table: Ranged Weapons.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T115358Z" creationid="quentine" creationdate="20200410T115358Z">
+        <seg>远程武器有各种属性，见表：远程武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged weapons fall into three general groups: handguns, longarms, and other ranged weapons such as crossbows.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T114900Z" creationid="quentine" creationdate="20200410T114900Z">
+        <seg>远程武器大致分为三类：手枪、长杆枪和其他类型，比如弩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged weapons have a maximum range of ten range increments, except for thrown weapons, which have a maximum range of five range increments.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T121809Z" creationid="quentine" creationdate="20200410T121809Z">
+        <seg>远程武器的最大射程为射程跨度的10倍，投掷武器最大射程为射程跨度的5倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rangefinding: In addition to the benefit of standard binoculars, rangefinding binoculars include a digital readout that indicates the exact distance to the object on which they are focused.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T085433Z" creationid="quentine" creationdate="20200116T085433Z">
@@ -26828,6 +27188,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T124824Z" creationid="quentine" creationdate="20190806T124736Z">
         <seg>降低2点DC代表让任务变得容易的情景，例如做表演检定时遇到友好的观众，或者做计算机使用检定时，检索一组编排得井井有条的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Refilling a box magazine or a speed loader, or reloading a revolver without a speed loader or any weapon with an internal magazine, is a full-round action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134626Z" creationid="quentine" creationdate="20200410T134626Z">
+        <seg>不用快速装填器装填转轮枪，或将弹药装填至武器的内置弹匣里，是一个整轮动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26896,18 +27264,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reloading a firearm with an already filled box magazine or speed loader is a move action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134805Z" creationid="quentine" creationdate="20200410T134559Z">
+        <seg>将一个已装弹的弹匣或快速装填器装填至火器里，是一个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reloading a revolver without a speed loader, or reloading any firearm with an internal magazine, is a full-round action.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190803T142252Z" creationid="quentine" creationdate="20190803T142252Z">
-        <seg>不用快速装填器装填左轮手枪，或将弹药装填至火器的内置弹匣里，是一个整轮动作。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T131955Z" creationid="quentine" creationdate="20190803T142252Z">
+        <seg>不用快速装填器装填转轮枪，或将弹药装填至火器的内置弹匣里，是一个整轮动作。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Reloading a revolver without a speed loader, or reloading any firearm with an internal magazine, is a move action.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190803T142118Z" creationid="quentine" creationdate="20190803T142118Z">
-        <seg>不用快速装填器装填左轮手枪，或将弹药装填至火器的内置弹匣里，是一个移动动作。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T131955Z" creationid="quentine" creationdate="20190803T142118Z">
+        <seg>不用快速装填器装填转轮枪，或将弹药装填至火器的内置弹匣里，是一个移动动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26931,6 +27307,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
         <seg>Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the poison on the black market.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190921T130101Z" creationid="quentine" creationdate="20190921T130101Z">
+        <seg>记住一定要在黑市购买进行财富检定时加上这些调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the weapon on the black market.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134430Z" creationid="quentine" creationdate="20200410T134430Z">
         <seg>记住一定要在黑市购买进行财富检定时加上这些调整值。</seg>
       </tuv>
     </tu>
@@ -27560,6 +27944,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some creatures or characters may be resistant or immune to some forms of damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T120741Z" creationid="quentine" creationdate="20200410T120741Z">
+        <seg>一些生物或角色能抵抗甚至免疫某些类型的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some devices may also offer bonuses under certain circumstances (a metal detector offers a bonus to Search checks to find metal objects, for example).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T142042Z" creationid="quentine" creationdate="20191104T142042Z">
@@ -28082,8 +28474,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Suppressors cannot be used on revolvers or shotguns.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200117T111031Z" creationid="quentine" creationdate="20200117T111031Z">
-        <seg>抑制器不能安装在左轮手枪或霰弹枪上。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T131955Z" creationid="quentine" creationdate="20200117T111031Z">
+        <seg>抑制器不能安装在转轮枪或霰弹枪上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28220,6 +28612,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T131328Z" creationid="quentine" creationdate="20190115T131328Z">
         <seg>表：光源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table: Ranged Weapons</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134957Z" creationid="quentine" creationdate="20200410T134957Z">
+        <seg>表：远程武器</seg>
       </tuv>
     </tu>
     <tu>
@@ -30280,6 +30680,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The amount of ammunition a weap-on carries, and hence how many shots it can fire before needing to be reloaded, is determined by its magazine capacity.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T131401Z" creationid="quentine" creationdate="20200410T125651Z">
+        <seg>一件武器能载多少弹药，一次装填能射击多少次取决于弹仓容量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The amount of damage is given in the creature’s entry.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T131056Z" creationid="quentine" creationdate="20191030T131056Z">
@@ -30580,6 +30988,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T131505Z" creationid="quentine" creationdate="20200117T131241Z">
         <seg>广义上的所有角色可用服务都能在下表找到代表的类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bullets are chained together with small metal clips, forming a belt.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T132902Z" creationid="quentine" creationdate="20200410T132902Z">
+        <seg>子弹用小型金属片连缀成链带。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32516,6 +32932,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The number in this entry is the magazine’s capacity in shots; the word that follows the number indicates the magazine type: box, cylinder, or internal.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T131440Z" creationid="quentine" creationdate="20200410T125936Z">
+        <seg>数字代表弹仓容量；容量后接的字指弹仓类型：弹匣型、转轮型还是内置型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The number of Knowledge categories is kept purposely finite.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T140519Z" creationid="quentine" creationdate="20191022T132533Z">
@@ -32880,6 +33304,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T140937Z" creationid="quentine" creationdate="20190804T140937Z">
         <seg>生物只会留下一些轻微的踪迹，但很少留下足迹，即使有也不完整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The relationship between a weapon’s size and that of its wielder defines whether it can be used one-handed, if it requires two hands, and if it’s a light weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T133630Z" creationid="quentine" creationdate="20200410T133630Z">
+        <seg>武器的尺寸与携带者体型的关系决定了武器是否可单手操作，是否需要双手操作，以及是否算作轻武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33325,6 +33757,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The three possible rates of fire for handguns, longarms, and heavy weapons are single shot, semiautomatic, and automatic.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T123321Z" creationid="quentine" creationdate="20200410T122942Z">
+        <seg>手枪、长杆枪、重武器有三种可能的射击模式：手动、半自动以及全自动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The tool is useful for certain tasks, as determined by the GM, but may not be useful in all situations.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T022929Z" creationid="quentine" creationdate="20200116T022917Z">
@@ -33425,6 +33865,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T141909Z" creationid="quentine" creationdate="20190115T141909Z">
         <seg>角色必须在接触带病体、触碰沾有病原的物体、摄入病原污染的饮食或受到带污染的攻击时，进行这样的检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The weapons covered here are grouped into three categories based on their general utility: ranged weapons, explosives and splash weapons, and melee weapons.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T114200Z" creationid="quentine" creationdate="20200410T114200Z">
+        <seg>本文所述的武器根据根据用途大致分为三个类别：远程武器、爆炸物、溅射武器以及近战武器</seg>
       </tuv>
     </tu>
     <tu>
@@ -33641,6 +34089,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T092210Z" creationid="quentine" creationdate="20200116T092210Z">
         <seg>这些护目镜提供完全的对致盲光照的防护。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These firearms feed and cock themselves with each shot.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T124250Z" creationid="quentine" creationdate="20200410T124250Z">
+        <seg>这些火器每次射击都会自行制退、复进。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34648,6 +35104,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is the case with most shotguns, as well as some rifles.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T132731Z" creationid="quentine" creationdate="20200410T132731Z">
+        <seg>大多数霰弹枪和一些步枪是这种类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is usually a particular faith or religion, but can also be a specific philosophy or school of thought.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181104T075815Z" creationid="QuenTine" creationdate="20181104T075500Z">
@@ -34811,6 +35275,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
         <seg>This number reflects the base price and doesn’t include any modifier for purchasing the item on the black market.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T141825Z" creationid="quentine" creationdate="20191105T141825Z">
+        <seg>此值指基本价格，并未把黑市加值算在内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This number reflects the base price and doesn’t include any modifier for purchasing the weapon on the black market.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134358Z" creationid="quentine" creationdate="20200410T134358Z">
         <seg>此值指基本价格，并未把黑市加值算在内。</seg>
       </tuv>
     </tu>
@@ -35770,6 +36242,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Typically, a belt holds 50 bullets; any number of belts can be clipped together.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T133028Z" creationid="quentine" creationdate="20200410T133028Z">
+        <seg>通常一条弹链装载50发子弹，多条弹链可连接起来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Typically, a forger has 1 to 4 ranks in the Forgery skill, with a +1 ability modifier.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200115T094206Z" creationid="quentine" creationdate="20200115T094206Z">
@@ -35870,6 +36350,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190619T135700Z" creationid="quentine" creationdate="20190619T135700Z">
         <seg>不像秘法的施法者，异能者没有法术书，也不需要事先准备“法术”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlike box magazines, cylinders can’t be removed, and they must be reloaded by hand.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T132328Z" creationid="quentine" creationdate="20200410T132328Z">
+        <seg>不像弹匣，转轮不能随便拆卸，必需手动装填。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36058,10 +36546,18 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using a speed loader is much like inserting a box magazine into a weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T132441Z" creationid="quentine" creationdate="20200410T132441Z">
+        <seg>使用快速装弹器的过程与将弹匣的装卸相似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using a speed loader saves time in reloading a revolver, since a character can insert all the bullets at once.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200117T105743Z" creationid="quentine" creationdate="20200117T105712Z">
-        <seg>使用快速装弹器节约了左轮手枪的装填时间，角色可以一次装填完所有的子弹。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T131955Z" creationid="quentine" creationdate="20200117T105712Z">
+        <seg>使用快速装弹器节约了转轮枪的装填时间，角色可以一次装填完所有的子弹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36118,6 +36614,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181106T134208Z" creationid="QuenTine" creationdate="20181106T134208Z">
         <seg>财富检定用于判定角色能够买得起什么和能穿得起什么装备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weapons with a dash in this column have no magazines; they are generally thrown weapons, or weapons (such as bows) that are loaded as part of the firing process.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T131453Z" creationid="quentine" creationdate="20200410T130529Z">
+        <seg>横杠代表没有弹仓；通常为投掷武器，或者装填是发射的一部分，比如弓。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36826,6 +37330,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When using a ranged weapon, the wielder applies his or her Dexterity modifier to the attack roll.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T115032Z" creationid="quentine" creationdate="20200410T115032Z">
+        <seg>使用远程武器时，使用者将敏捷调整值应用于攻击骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When worn in an appropriate setting, fatigues grant a +2 bonus on Hide checks.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191113T140713Z" creationid="quentine" creationdate="20191113T140713Z">
@@ -37182,6 +37694,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191021T140640Z" creationid="quentine" creationdate="20191021T140640Z">
         <seg>未助跑则DC加倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Without a speed loader, a firearm with a cylinder magazine must be loaded by hand.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T132519Z" creationid="quentine" creationdate="20200410T132519Z">
+        <seg>如果没有快速装弹器，转轮型弹匣的子弹需要手动一个个装填。</seg>
       </tuv>
     </tu>
     <tu>

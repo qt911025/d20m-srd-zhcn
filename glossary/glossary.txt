@@ -1045,7 +1045,7 @@ Scope	瞄准镜
 Standard	标准	瞄准镜
 Electro-Optical	光电	瞄准镜
 Speed Loader	快速装弹器
-revolver	左轮手枪
+revolver	转轮枪
 Suppressor	抑制器
 Lifestyle	日常消费品
 Small condo	小商品房
@@ -1082,3 +1082,22 @@ Legal services	法律服务
 Medical services	医疗服务
 disabled	报废	载具的“瘫痪”
 show up for his trial	出庭受审
+splash	溅射
+splash weapon	溅射武器
+Handguns	手枪
+longarm	长杆枪
+whip	鞭子
+Damage Type	伤害类型
+Range Increment	射程跨度
+Rate of Fire	射击模式
+Single Shot	手动射击
+Pump shotgun	泵动式霰弹枪
+bolt-action rifle	栓动步枪
+autofire	自动武器
+Magazine	弹仓
+Box	弹匣
+Internal	内置型弹仓
+Linked	弹链型弹仓
+Cylinder	转轮型弹仓
+bipod	两脚架
+light weapon	轻武器
