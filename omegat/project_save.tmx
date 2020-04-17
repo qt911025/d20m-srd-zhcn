@@ -4304,6 +4304,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Handguns</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200417T133947Z" creationid="quentine" creationdate="20200417T133947Z">
+        <seg>#### 手枪</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### Harm’s Way</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190421T130359Z" creationid="quentine" creationdate="20190421T130359Z">
@@ -9508,8 +9516,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>**Rate of Fire:** Some ranged weapons have a rate of fire of 1, which simply means they can be employed once per round and then must be reloaded or replaced.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200410T123254Z" creationid="quentine" creationdate="20200410T122607Z">
-        <seg>**射击模式：** 一些远程武器的射击模式为手动，意味着该武器一轮只能射击一次，然后就要装填或者抛弃掉。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200417T133155Z" creationid="quentine" creationdate="20200410T122607Z">
+        <seg>**射击模式：** 一些远程武器的射击模式为单发，意味着该武器一轮只能射击一次，然后就要装填或者抛弃掉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14409,6 +14417,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A handgun is a personal firearm that can be used one-handed without penalty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200417T134130Z" creationid="quentine" creationdate="20200417T134130Z">
+        <seg>手枪是可以无惩罚单手使用的单兵火器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A heavily encumbered character performs as if his or her Dexterity modifier were no higher than +1.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T133800Z" creationid="quentine" creationdate="20191105T133800Z">
@@ -15887,6 +15903,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T121911Z" creationid="quentine" creationdate="20191202T121708Z">
         <seg>所有电脑都自带拨号调制解调器，可以连接至互联网，但没有宽带快捷，也没有移动网络灵活。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All handguns require the Personal Firearms Proficiency feat.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200417T134409Z" creationid="quentine" creationdate="20200417T134409Z">
+        <seg>所有的手枪都要求`擅长单兵火器`专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18383,6 +18407,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190614T140129Z" creationid="quentine" creationdate="20190614T140129Z">
         <seg>自我催眠（感）、唬骗（魅）、专注（体）、交涉（魅）、收集信息（魅）、知识（行为科学、时事、流行文化、神学与哲学）（智）、专业（感）、辨识灵能（智）、读写语言（无）、察言观色（感）、口头语言（无）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Autoloaders (sometimes called “automatics”) feature removable box magazines, and some models hold quite a lot of ammunition.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200417T135220Z" creationid="quentine" creationdate="20200417T135028Z">
+        <seg>半自动手枪都有可替换的弹匣，有的型号还可以储存大量弹药。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21152,6 +21184,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T115128Z" creationid="quentine" creationdate="20200410T115128Z">
         <seg>手枪与长杆枪属于单兵火器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Handguns can be broken down into three smaller groups: autoloaders, revolvers, and machine pistols.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200417T134543Z" creationid="quentine" creationdate="20200417T134543Z">
+        <seg>手枪可分为三小类：半自动、转轮和冲锋手枪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27588,6 +27628,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T130035Z" creationid="quentine" creationdate="20190806T130035Z">
         <seg>一个技能的使用要花多长时间详见各个技能的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See the weapon description.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200417T133908Z" creationid="quentine" creationdate="20200417T133908Z">
+        <seg>见武器描述</seg>
       </tuv>
     </tu>
     <tu>
@@ -35006,6 +35054,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This includes all pistols and some submachine guns and shotguns.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200417T134338Z" creationid="quentine" creationdate="20200417T134338Z">
+        <seg>它包括了所有的自动半自动手枪以及部分冲锋手枪和霰弹枪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This income provides a Wealth bonus increase of +4.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190526T112224Z" creationid="quentine" creationdate="20190526T112008Z">
@@ -36538,6 +36594,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using a handgun without this feat imposes a –4 penalty on attack rolls.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200417T134455Z" creationid="quentine" creationdate="20200417T134455Z">
+        <seg>无此专长的角色使用手枪，攻击骰会有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using a skill might take a round, several rounds, or even longer.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T125557Z" creationid="quentine" creationdate="20190806T125557Z">
@@ -38064,6 +38128,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>\* This mastercraft weapon grants a +1 bonus on attack rolls.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200417T133839Z" creationid="quentine" creationdate="20200417T133839Z">
+        <seg>\* 大师级工艺的武器为攻击骰提供1点加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>\*Add to the object’s purchase DC if the character tries to buy it on the black market without first obtaining a license; see The Black Market, below.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T123543Z" creationid="quentine" creationdate="20191104T123543Z">
@@ -38136,6 +38208,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>\*\* This weapon does special damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200417T133903Z" creationid="quentine" creationdate="20200417T133903Z">
+        <seg>\*\* 此武器造成特殊伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>\*\*The dice rolls in parentheses are typical contact damage/immersion damage caused per round of immersion.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190918T140741Z" creationid="quentine" creationdate="20190918T140732Z">
@@ -38148,6 +38228,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190522T144627Z" creationid="quentine" creationdate="20190522T144627Z">
         <seg>\*\*\* 这是使用除聆听和侦察外的技能所必需的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\*\*\* See the description of this weapon for special rules.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200417T133941Z" creationid="quentine" creationdate="20200417T133941Z">
+        <seg>\*\*\* 此武器的特别规则见武器描述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41678,6 +41766,238 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |+16 to +20|富有|
 |+21 to +30|富豪|
 |+31 or higher|巨富|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Weapon|Damage|Critical|Damage Type|Range Increment|Rate of Fire|Magazine|Size|Weight|Purchase DC|Restriction|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**Handguns (require the Personal Firearms Proficiency feat)**|||||||||||
+|Beretta 92F (9mm autoloader)|2d6|20|Ballistic|40 ft|S|15 box|Small|3 lb|16|Lic (+1)|
+|Beretta 93R (9mm machine pistol)|2d6|20|Ballistic|30 ft|S,A|20 box|Med|3 lb|18|Res (+2)|
+|Colt Double Eagle (10mm autoloader)|2d6|20|Ballistic|30 ft|S|9 box|Small|3 lb|16|Lic (+1)|
+|Colt M1911 (.45 autoloader)|2d6|20|Ballistic|30 ft|S|7 box|Small|3 lb|15|Lic (+1)|
+|Colt Python\* (.357 revolver)|2d6|20|Ballistic|40 ft|S|6 cyl.|Med|3 lb|5|Lic (+1)|
+|Derringer (.45)|2d6|20|Ballistic|10 ft|Single|2 int.|Tiny|1 lb|14|Lic (+1)|
+|Desert Eagle (.50AE autoloader)|2d8|20|Ballistic|40 ft|S|8 box|Med|4 lb|18|Lic (+1)|
+|Glock 17\* (9mm autoloader)|2d6|20|Ballistic|30 ft|S|17 box|Small|2 lb|18|Lic (+1)|
+|Glock 20\* (10mm autoloader)|2d6|20|Ballistic|40 ft|S|15 box|Small|3 lb|18|Lic (+1)|
+|MAC Ingram M10 (.45 machine pistol)|2d6|20|Ballistic|40 ft|S, A|30 box|Med|6 lb|15|Res (+2)|
+|Pathfinder (.22 revolver)|2d4|20|Ballistic|20 ft|S|6 cyl.|Tiny|1 lb|14|Lic (+1)|
+|Ruger Service-Six (.38S revolver)|2d6|20|Ballistic|30 ft|S|6 cyl.|Small|2 lb|14|Lic (+1)|
+|S\&amp;W M29 (.44 magnum revolver)|2d8|20|Ballistic|30 ft|S|6 cyl.|Med|3 lb|15|Lic (+1)|
+|SITES M9 (9mm autoloader)|2d6|20|Ballistic|30 ft|S|8 box|Tiny|2 lb|15|Lic (+1)|
+|Skorpion (.32 machine pistol)|2d4|20|Ballistic|40 ft|S, A|20 box|Med|4 lb|17|Res (+2)|
+|TEC-9 (9mm machine pistol)|2d6|20|Ballistic|40 ft|S or A|32 box|Med|4 lb|14|Res (+2)|
+|Walther PPK (.32 autoloader)|2d4|20|Ballistic|30 ft|S|7 box|Small|1 lb|15|Lic (+1)|
+||||||||||||
+|**Longarms (require the Personal Firearms Proficiency feat)**|||||||||||
+|AKM/AK-47 (7.62mmR assault rifle)|2d8|20|Ballistic|70 ft|S, A|30 box|Large|10 lb|15|Res (+2)|
+|Barrett Light Fifty (.50 sniper rifle)|2d12|20|Ballistic|120 ft|S|11 box|Huge|35 lb|22|Lic (+1)|
+|Benelli 121 M1 (12-gague shotgun)|2d8|20|Ballistic|40 ft|S|7 int|Large|8 lb|17|Lic (+1)|
+|Beretta M3P (12-gauge shotgun)|2d8|20|Ballistic|30 ft|S|5 box|Large|9 lb|16|Lic (+1)|
+|Browning BPS (10-gauge shotgun)|2d10|20|Ballistic|30 ft|Single|5 int.|Large|11 lb|16|Lic (+1)|
+|HK G3 (7.62mm assault rifle)|2d10|20|Ballistic|90 ft|S, A|20 box|Large|11 lb|19|Res (+2)|
+|HK MP5\* (9mm submachine gun)|2d6|20|Ballistic|50 ft|S, A|30 box|Large|7 lb|20|Res (+2)|
+|HK MP5K (9mm submachine gun)|2d6|20|Ballistic|40 ft|S, A|15 box|Med|5 lb|19|Res (+2)|
+|HK PSG1\* (7.62mm sniper rifle)|2d10|20|Ballistic|90 ft|S|5 box|Large|16 lb|22|Lic (+1)|
+|M16A2 (5.56mm assault rifle)|2d8|20|Ballistic|80 ft|S, A|30 box|Large|8 lb|16|Res (+2)|
+|M4 Carbine (5.56mm assault rifle)|2d8|20|Ballistic|60 ft|S, A|30 box|Large|7 lb|16|Res (+2)|
+|M-60 (medium machine gun)|2d10|20|Ballistic|100 ft|A|Linked|Huge|22 lb|21|Mil (+3)|
+|Mossberg (12-gauge shotgun)|2d8|20|Ballistic|30 ft|Single|6 int.|Large|7 lb|15|Lic (+1)|
+|Remington 700 (7.62mm hunting rifle)|2d10|20|Ballistic|80 ft|Single|5 int.|Large|8 lb|17|Lic (+1)|
+|Sawed-off shotgun (12-ga shotgun)|2d8|20|Ballistic|10 ft|S|2 int.|Med|4 lb|15|Illegal (+4)|
+|Steyr AUG (5.56mm assault rifle)|2d8|20|Ballistic|80 ft|S, A|30 box|Large|9 lb|19|Res (+2)|
+|Uzi (9mm submachine gun)|2d6|20|Ballistic|40 ft|S, A|20 box|Large|8 lb|18|Res (+2)|
+|Winchester 94 (.444 hunting rifle)|2d10|20|Ballistic|90 ft|S|6 int.|Large|7 lb|15|Lic (+1)|
+||||||||||||
+|**Heavy Weapons (each requires a specific Exotic Firearms Proficiency feat)**|||||||||||
+|M2HB (heavy machine gun)|2d12|20|Ballistic|110 ft|A|Linked|Huge|75 lb|22|Mil (+3)|
+|M72A3 LAW (rocket launcher)|10d6\*\*|—|—|150 ft|1|1 int.|Large|5 lb|15|Mil (+3)|
+|M79 (grenade launcher)|Varies\*\*|—|—|70 ft|1|1 int.|Large|7 lb|14|Mil (+3)|
+||||||||||||
+|**Other Ranged Weapons (Weapons Proficiency feat needed given in parentheses)**|||||||||||
+|Compound bow (Archaic)\*\*|1d8|20|Piercing|40 ft|1|—|Large|3 lb|10|—|
+|Crossbow (Simple)|1d10|19–20|Piercing|40 ft|1|1 int.|Med|7 lb|9|—|
+|Flamethrower (no feat needed)\*\*\*|3d6|—|Fire|—|1|10 int.|Large|50 lb|17|Mil (+3)|
+|Javelin (Simple)|1d6|20|Piercing|30 ft|1|—|Med|2 lb|4|—|
+|Pepper spray (Simple)|Special\*\*|—|Special\*\*|5 ft|1|1 int.|Tiny|0.5 lb|5|—|
+|Shuriken (Archaic)|1|20|Piercing|10 ft|1|—|Tiny|0.5 lb|3|—|
+|Taser (Simple)|1d4\*\*|—|Electricity|5 ft|1|1 int.|Small|2 lb|7|—|
+|Whip (Simple)|1d2|20|Slashing|15 ft3|1|—|Small|2 lb|4|—|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200417T133503Z" creationid="quentine" creationdate="20200412T021025Z">
+        <seg>|武器|伤害|重击|伤害类型|射程跨度|射击模式|弹仓|尺寸|重量|购买DC|限制级|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**手枪（要求`擅长单兵火器`专长）**|||||||||||
+|伯莱塔92F （9毫米半自动）|2d6|20|实弹|40尺|半|15发弹匣|小型|3磅|16|执照（+1）|
+|伯莱塔93R（9毫米冲锋）|2d6|20|实弹|30尺|半、全|20发弹匣|普通|3磅|18|管制（+2）|
+|柯尔特双鹰（10毫米半自动）|2d6|20|实弹|30尺|半|9发弹匣|小型|3磅|16|执照（+1）|
+|柯尔特M1911（.45半自动）|2d6|20|实弹|30尺|半|7发弹匣|小型|3磅|15|执照（+1）|
+|柯尔特巨蟒\*（.357转轮）|2d6|20|实弹|40尺|半|6发转轮|普通|3磅|5|执照（+1）|
+|德林杰（.45）|2d6|20|实弹|10尺|手动|2发内置|超小型|1磅|14|执照（+1）|
+|沙漠之鹰（.50AE半自动）|2d8|20|实弹|40尺|半|8发弹匣|普通|4磅|18|执照（+1）|
+|格洛克17\*（9毫米半自动）|2d6|20|实弹|30尺|半|17发弹匣|小型|2磅|18|执照（+1）|
+|格洛克20\*（10毫米半自动）|2d6|20|实弹|40尺|半|15发弹匣|小型|3磅|18|执照（+）|
+|MAC 英格拉姆 M10 （.45冲锋）|2d6|20|实弹|40尺|半、全|30发弹匣|普通|6磅|15|管制（+2）|
+|觅踪者（.22转轮）|2d4|20|实弹|20尺|半|6发转轮|小型|1磅|14|执照（+1）|
+|鲁格现役6型（.385转轮）|2d6|20|实弹|30尺|半|6发转轮|小型|2磅|14|执照（+1）|
+|史密斯威森M29（.44马格南转轮）|2d8|20|实弹|30尺|半|6发转轮|普通|3磅|15|执照（+1）|
+|赛茨M9（9毫米半自动）|2d6|20|实弹|30尺|半|8发弹匣|超小型|2磅|15|执照（+1）|
+|蝎式冲锋枪（.32冲锋）|2d4|20|实弹|40尺|半、全|20发弹匣|普通|4磅|17|管制（+2）|
+|TEC-9冲锋枪 （9毫米冲锋）|2d6|20|实弹|40尺|半或全|32发弹匣|普通|4磅|14|管制（+2）|
+|瓦尔特PPK（.32半自动）|2d4|20|实弹|30尺|半|7发弹匣|小型|1磅|15|执照（+1）|
+||||||||||||
+|**长杆枪（要求`擅长单兵火器`专长）**|||||||||||
+|AKM/AK-47 (7.62mmR突击步枪)|2d8|20|实弹|70尺|半、全|30发弹匣|大型|10磅|15|管制（+2）|
+|巴雷特“轻50”M82A1（.50狙击步枪）|2d12|20|实弹|120尺|半|11发弹匣|超大型|35磅|22|执照（+1）|
+|贝纳利 121 M1（12号霰弹）|2d8|20|实弹|40尺|半|7发内置|大型|8磅|17|执照（+1）|
+|伯莱塔M3P（12号霰弹）|2d8|20|实弹|30尺|半|5发弹匣|大型|9磅|16|执照（+1）|
+|勃朗宁BPS（10号霰弹）|2d10|20|实弹|30尺|手动|5发内置|大型|11磅|16|执照（+1）|
+|HK G3（7.62mm突击步枪）|2d10|20|实弹|90尺|半、全|20发弹匣|大型|11磅|19|管制（+2）|
+|HK MP5\*（9mm冲锋枪）|2d6|20|实弹|50尺|半、全|30发弹匣|大型|7磅|20|管制（+2）|
+|HK MP5K（9mm冲锋枪）|2d6|20|实弹|40尺|半、全|15发弹匣|普通|5磅|19|管制（+2）|
+|HK PSG1\*（7.62mm狙击步枪）|2d10|20|实弹|90尺|半|5发弹匣|大型|16磅|22|执照（+1）|
+|M16A2（5.56mm突击步枪）|2d8|20|实弹|80尺|半、全|30发弹匣|大型|8磅|16|管制（+2）|
+|M4卡宾枪（5.56mm突击步枪）|2d8|20|实弹|60尺|半、全|30发弹匣|大型|7磅|16|管制（+2）|
+|M-60（中型机枪）|2d10|20|实弹|100尺|全|弹链|超大型|22磅|21|军用（+3）|
+|莫斯伯格（12号霰弹）|2d8|20|实弹|30尺|手动|6发内置|大型|7磅|15|执照（+1）|
+|雷明顿700（7.62mm猎枪）|2d10|20|实弹|80尺|手动|5发内置|大型|8磅|17|执照（+1）|
+|锯短霰弹枪（12号霰弹）|2d8|20|实弹|10尺|半|2发内置|普通|4磅|15|非法（+4）|
+|施泰尔AUG（5.56mm突击步枪）|2d8|20|实弹|80尺|半、全|30发弹匣|大型|9磅|19|管制（+2）|
+|乌兹（9mm冲锋枪）|2d6|20|实弹|40尺|半、全|20发弹匣|大型|8磅|18|管制（+2）|
+|温彻斯特94（.444猎枪）|2d10|20|实弹|90尺|半|6发内置|大型|7磅|15|执照（+1）|
+||||||||||||
+|**重武器（每种武器都要求有该武器对应的`擅长异种火器`专长）**|||||||||||
+|M2HB（重机枪）|2d12|20|实弹|110尺|全|弹链|超大型|75磅|22|军用（+3）|
+|M72A3 LAW（火箭筒）|10d6\*\*|—|—|150尺|单发|1发内置|大型|5磅|15|军用（+3）|
+|M79（榴弹发射器）|各种\*\*|—|—|70尺|单发|1发内置|大型|7磅|14|军用（+3）|
+||||||||||||
+|**其他远程武器（要求括号内所示的专长）**|||||||||||
+|复合弓（古典）\*\*|1d8|20|穿刺|40尺|单发|—|大型|3磅|10|—|
+|弩（简易）|1d10|19–20|穿刺|40尺|单发|1发内置|普通|7磅|9|—|
+|火焰喷射器（无）\*\*\*|3d6|—|火焰|—|单发|10发内置|大型|50磅|17|军用（+3）|
+|标枪（简易）|1d6|20|穿刺|30尺|单发|—|普通|2磅|4|—|
+|辣椒喷雾器（简易）|特别\*\*|—|特别\*\*|5尺|单发|1发内置|超小型|0.5磅|5|—|
+|手里剑（古典）|1|20|穿刺|10尺|单发|—|超小型|0.5磅|3|—|
+|电击枪（简易）|1d4\*\*|—|电|5尺|单发|1发内置|小型|2磅|7|—|
+|鞭子（简易）|1d2|20|抽打|15尺\*\*\*|单发|—|小型|2磅|4|—|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Weapon|Damage|Critical|Damage Type|Range Increment|Rate of Fire|Magazine|Size|Weight|Purchase DC|Restriction|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**Handguns (require the Personal Firearms Proficiency feat)**|||||||||||
+|Beretta 92F (9mm autoloader)|2d6|20|Ballistic|40 ft|S|15 box|Small|3 lb|16|Lic (+1)|
+|Beretta 93R (9mm machine pistol)|2d6|20|Ballistic|30 ft|S,A|20 box|Med|3 lb|18|Res (+2)|
+|Colt Double Eagle (10mm autoloader)|2d6|20|Ballistic|30 ft|S|9 box|Small|3 lb|16|Lic (+1)|
+|Colt M1911 (.45 autoloader)|2d6|20|Ballistic|30 ft|S|7 box|Small|3 lb|15|Lic (+1)|
+|Colt Python\* (.357 revolver)|2d6|20|Ballistic|40 ft|S|6 cyl.|Med|3 lb|5|Lic (+1)|
+|Derringer (.45)|2d6|20|Ballistic|10 ft|Single|2 int.|Tiny|1 lb|14|Lic (+1)|
+|Desert Eagle (.50AE autoloader)|2d8|20|Ballistic|40 ft|S|8 box|Med|4 lb|18|Lic (+1)|
+|Glock 17\* (9mm autoloader)|2d6|20|Ballistic|30 ft|S|17 box|Small|2 lb|18|Lic (+1)|
+|Glock 20\* (10mm autoloader)|2d6|20|Ballistic|40 ft|S|15 box|Small|3 lb|18|Lic (+1)|
+|MAC Ingram M10 (.45 machine pistol)|2d6|20|Ballistic|40 ft|S, A|30 box|Med|6 lb|15|Res (+2)|
+|Pathfinder (.22 revolver)|2d4|20|Ballistic|20 ft|S|6 cyl.|Tiny|1 lb|14|Lic (+1)|
+|Ruger Service-Six (.38S revolver)|2d6|20|Ballistic|30 ft|S|6 cyl.|Small|2 lb|14|Lic (+1)|
+|S\&amp;W M29 (.44 magnum revolver)|2d8|20|Ballistic|30 ft|S|6 cyl.|Med|3 lb|15|Lic (+1)|
+|SITES M9 (9mm autoloader)|2d6|20|Ballistic|30 ft|S|8 box|Tiny|2 lb|15|Lic (+1)|
+|Skorpion (.32 machine pistol)|2d4|20|Ballistic|40 ft|S, A|20 box|Med|4 lb|17|Res (+2)|
+|TEC-9 (9mm machine pistol)|2d6|20|Ballistic|40 ft|S or A|32 box|Med|4 lb|14|Res (+2)|
+|Walther PPK (.32 autoloader)|2d4|20|Ballistic|30 ft|S|7 box|Small|1 lb|15|Lic (+1)|
+||||||||||||
+|**Longarms (require the Personal Firearms Proficiency feat)**|||||||||||
+|AKM/AK-47 (7.62mmR assault rifle)|2d8|20|Ballistic|70 ft|S, A|30 box|Large|10 lb|15|Res (+2)|
+|Barrett Light Fifty (.50 sniper rifle)|2d12|20|Ballistic|120 ft|S|11 box|Huge|35 lb|22|Lic (+1)|
+|Benelli 121 M1 (12-gague shotgun)|2d8|20|Ballistic|40 ft|S|7 int|Large|8 lb|17|Lic (+1)|
+|Beretta M3P (12-gauge shotgun)|2d8|20|Ballistic|30 ft|S|5 box|Large|9 lb|16|Lic (+1)|
+|Browning BPS (10-gauge shotgun)|2d10|20|Ballistic|30 ft|Single|5 int.|Large|11 lb|16|Lic (+1)|
+|HK G3 (7.62mm assault rifle)|2d10|20|Ballistic|90 ft|S, A|20 box|Large|11 lb|19|Res (+2)|
+|HK MP5\* (9mm submachine gun)|2d6|20|Ballistic|50 ft|S, A|30 box|Large|7 lb|20|Res (+2)|
+|HK MP5K (9mm submachine gun)|2d6|20|Ballistic|40 ft|S, A|15 box|Med|5 lb|19|Res (+2)|
+|HK PSG1\* (7.62mm sniper rifle)|2d10|20|Ballistic|90 ft|S|5 box|Large|16 lb|22|Lic (+1)|
+|M16A2 (5.56mm assault rifle)|2d8|20|Ballistic|80 ft|S, A|30 box|Large|8 lb|16|Res (+2)|
+|M4 Carbine (5.56mm assault rifle)|2d8|20|Ballistic|60 ft|S, A|30 box|Large|7 lb|16|Res (+2)|
+|M-60 (medium machine gun)|2d10|20|Ballistic|100 ft|A|Linked|Huge|22 lb|21|Mil (+3)|
+|Mossberg (12-gauge shotgun)|2d8|20|Ballistic|30 ft|Single|6 int.|Large|7 lb|15|Lic (+1)|
+|Remington 700 (7.62mm hunting rifle)|2d10|20|Ballistic|80 ft|Single|5 int.|Large|8 lb|17|Lic (+1)|
+|Sawed-off shotgun (12-ga shotgun)|2d8|20|Ballistic|10 ft|S|2 int.|Med|4 lb|15|Illegal (+4)|
+|Steyr AUG (5.56mm assault rifle)|2d8|20|Ballistic|80 ft|S, A|30 box|Large|9 lb|19|Res (+2)|
+|Uzi (9mm submachine gun)|2d6|20|Ballistic|40 ft|S, A|20 box|Large|8 lb|18|Res (+2)|
+|Winchester 94 (.444 hunting rifle)|2d10|20|Ballistic|90 ft|S|6 int.|Large|7 lb|15|Lic (+1)|
+||||||||||||
+|**Heavy Weapons (each requires a specific Exotic Firearms Proficiency feat)**|||||||||||
+|M2HB (heavy machine gun)|2d12|20|Ballistic|110 ft|A|Linked|Huge|75 lb|22|Mil (+3)|
+|M72A3 LAW (rocket launcher)|10d6\*\*|—|—|150 ft|1|1 int.|Large|5 lb|15|Mil (+3)|
+|M79 (grenade launcher)|Varies\*\*|—|—|70 ft|1|1 int.|Large|7 lb|14|Mil (+3)|
+||||||||||||
+|**Other Ranged Weapons (Weapons Proficiency feat needed given in parentheses)**|||||||||||
+|Compound bow (Archaic)\*\*|1d8|20|Piercing|40 ft|1|—|Large|3 lb|10|—|
+|Crossbow (Simple)|1d10|19–20|Piercing|40 ft|1|1 int.|Med|7 lb|9|—|
+|Flamethrower (no feat needed)\*\*\*|3d6|—|Fire|—|1|10 int.|Large|50 lb|17|Mil (+3)|
+|Javelin (Simple)|1d6|20|Piercing|30 ft|1|—|Med|2 lb|4|—|
+|Pepper spray (Simple)|Special\*\*|—|Special\*\*|5 ft|1|1 int.|Tiny|0.5 lb|5|—|
+|Shuriken (Archaic)|1|20|Piercing|10 ft|1|—|Tiny|0.5 lb|3|—|
+|Taser (Simple)|1d4\*\*|—|Electricity|5 ft|1|1 int.|Small|2 lb|7|—|
+|Whip (Simple)|1d2|20|Slashing|15 ft\*\*\*|1|—|Small|2 lb|4|—|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200417T133755Z" creationid="quentine" creationdate="20200417T133755Z">
+        <seg>|武器|伤害|重击|伤害类型|射程跨度|射击模式|弹仓|尺寸|重量|购买DC|限制级|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**手枪（要求`擅长单兵火器`专长）**|||||||||||
+|伯莱塔92F （9毫米半自动）|2d6|20|实弹|40尺|半|15发弹匣|小型|3磅|16|执照（+1）|
+|伯莱塔93R（9毫米冲锋）|2d6|20|实弹|30尺|半、全|20发弹匣|普通|3磅|18|管制（+2）|
+|柯尔特双鹰（10毫米半自动）|2d6|20|实弹|30尺|半|9发弹匣|小型|3磅|16|执照（+1）|
+|柯尔特M1911（.45半自动）|2d6|20|实弹|30尺|半|7发弹匣|小型|3磅|15|执照（+1）|
+|柯尔特巨蟒\*（.357转轮）|2d6|20|实弹|40尺|半|6发转轮|普通|3磅|5|执照（+1）|
+|德林杰（.45）|2d6|20|实弹|10尺|手动|2发内置|超小型|1磅|14|执照（+1）|
+|沙漠之鹰（.50AE半自动）|2d8|20|实弹|40尺|半|8发弹匣|普通|4磅|18|执照（+1）|
+|格洛克17\*（9毫米半自动）|2d6|20|实弹|30尺|半|17发弹匣|小型|2磅|18|执照（+1）|
+|格洛克20\*（10毫米半自动）|2d6|20|实弹|40尺|半|15发弹匣|小型|3磅|18|执照（+）|
+|MAC 英格拉姆 M10 （.45冲锋）|2d6|20|实弹|40尺|半、全|30发弹匣|普通|6磅|15|管制（+2）|
+|觅踪者（.22转轮）|2d4|20|实弹|20尺|半|6发转轮|小型|1磅|14|执照（+1）|
+|鲁格现役6型（.385转轮）|2d6|20|实弹|30尺|半|6发转轮|小型|2磅|14|执照（+1）|
+|史密斯威森M29（.44马格南转轮）|2d8|20|实弹|30尺|半|6发转轮|普通|3磅|15|执照（+1）|
+|赛茨M9（9毫米半自动）|2d6|20|实弹|30尺|半|8发弹匣|超小型|2磅|15|执照（+1）|
+|蝎式冲锋枪（.32冲锋）|2d4|20|实弹|40尺|半、全|20发弹匣|普通|4磅|17|管制（+2）|
+|TEC-9冲锋枪 （9毫米冲锋）|2d6|20|实弹|40尺|半或全|32发弹匣|普通|4磅|14|管制（+2）|
+|瓦尔特PPK（.32半自动）|2d4|20|实弹|30尺|半|7发弹匣|小型|1磅|15|执照（+1）|
+||||||||||||
+|**长杆枪（要求`擅长单兵火器`专长）**|||||||||||
+|AKM/AK-47 (7.62mmR突击步枪)|2d8|20|实弹|70尺|半、全|30发弹匣|大型|10磅|15|管制（+2）|
+|巴雷特“轻50”M82A1（.50狙击步枪）|2d12|20|实弹|120尺|半|11发弹匣|超大型|35磅|22|执照（+1）|
+|贝纳利 121 M1（12号霰弹）|2d8|20|实弹|40尺|半|7发内置|大型|8磅|17|执照（+1）|
+|伯莱塔M3P（12号霰弹）|2d8|20|实弹|30尺|半|5发弹匣|大型|9磅|16|执照（+1）|
+|勃朗宁BPS（10号霰弹）|2d10|20|实弹|30尺|手动|5发内置|大型|11磅|16|执照（+1）|
+|HK G3（7.62mm突击步枪）|2d10|20|实弹|90尺|半、全|20发弹匣|大型|11磅|19|管制（+2）|
+|HK MP5\*（9mm冲锋枪）|2d6|20|实弹|50尺|半、全|30发弹匣|大型|7磅|20|管制（+2）|
+|HK MP5K（9mm冲锋枪）|2d6|20|实弹|40尺|半、全|15发弹匣|普通|5磅|19|管制（+2）|
+|HK PSG1\*（7.62mm狙击步枪）|2d10|20|实弹|90尺|半|5发弹匣|大型|16磅|22|执照（+1）|
+|M16A2（5.56mm突击步枪）|2d8|20|实弹|80尺|半、全|30发弹匣|大型|8磅|16|管制（+2）|
+|M4卡宾枪（5.56mm突击步枪）|2d8|20|实弹|60尺|半、全|30发弹匣|大型|7磅|16|管制（+2）|
+|M-60（中型机枪）|2d10|20|实弹|100尺|全|弹链|超大型|22磅|21|军用（+3）|
+|莫斯伯格（12号霰弹）|2d8|20|实弹|30尺|手动|6发内置|大型|7磅|15|执照（+1）|
+|雷明顿700（7.62mm猎枪）|2d10|20|实弹|80尺|手动|5发内置|大型|8磅|17|执照（+1）|
+|锯短霰弹枪（12号霰弹）|2d8|20|实弹|10尺|半|2发内置|普通|4磅|15|非法（+4）|
+|施泰尔AUG（5.56mm突击步枪）|2d8|20|实弹|80尺|半、全|30发弹匣|大型|9磅|19|管制（+2）|
+|乌兹（9mm冲锋枪）|2d6|20|实弹|40尺|半、全|20发弹匣|大型|8磅|18|管制（+2）|
+|温彻斯特94（.444猎枪）|2d10|20|实弹|90尺|半|6发内置|大型|7磅|15|执照（+1）|
+||||||||||||
+|**重武器（每种武器都要求有该武器对应的`擅长异种火器`专长）**|||||||||||
+|M2HB（重机枪）|2d12|20|实弹|110尺|全|弹链|超大型|75磅|22|军用（+3）|
+|M72A3 LAW（火箭筒）|10d6\*\*|—|—|150尺|单发|1发内置|大型|5磅|15|军用（+3）|
+|M79（榴弹发射器）|各种\*\*|—|—|70尺|单发|1发内置|大型|7磅|14|军用（+3）|
+||||||||||||
+|**其他远程武器（要求括号内所示的专长）**|||||||||||
+|复合弓（古典）\*\*|1d8|20|穿刺|40尺|单发|—|大型|3磅|10|—|
+|弩（简易）|1d10|19–20|穿刺|40尺|单发|1发内置|普通|7磅|9|—|
+|火焰喷射器（无）\*\*\*|3d6|—|火焰|—|单发|10发内置|大型|50磅|17|军用（+3）|
+|标枪（简易）|1d6|20|穿刺|30尺|单发|—|普通|2磅|4|—|
+|辣椒喷雾器（简易）|特别\*\*|—|特别\*\*|5尺|单发|1发内置|超小型|0.5磅|5|—|
+|手里剑（古典）|1|20|穿刺|10尺|单发|—|超小型|0.5磅|3|—|
+|电击枪（简易）|1d4\*\*|—|电|5尺|单发|1发内置|小型|2磅|7|—|
+|鞭子（简易）|1d2|20|抽打|15尺\*\*\*|单发|—|小型|2磅|4|—|</seg>
       </tuv>
     </tu>
     <tu>

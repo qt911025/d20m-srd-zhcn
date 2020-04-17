@@ -119,7 +119,7 @@ Table: Ranged Weapons
 |Pepper spray (Simple)|Special\*\*|—|Special\*\*|5 ft|1|1 int.|Tiny|0.5 lb|5|—|
 |Shuriken (Archaic)|1|20|Piercing|10 ft|1|—|Tiny|0.5 lb|3|—|
 |Taser (Simple)|1d4\*\*|—|Electricity|5 ft|1|1 int.|Small|2 lb|7|—|
-|Whip (Simple)|1d2|20|Slashing|15 ft3|1|—|Small|2 lb|4|—|
+|Whip (Simple)|1d2|20|Slashing|15 ft\*\*\*|1|—|Small|2 lb|4|—|
 
 \* This mastercraft weapon grants a +1 bonus on attack rolls.
 

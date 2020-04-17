@@ -1101,3 +1101,48 @@ Linked	弹链型弹仓
 Cylinder	转轮型弹仓
 bipod	两脚架
 light weapon	轻武器
+Beretta	伯莱塔	枪
+Ballistic	实弹	伤害类型
+autoloader	半自动	手枪
+machine pistol	冲锋手枪
+Lic	执照	限制级
+Colt	柯尔特	枪
+Colt Double Eagle	柯尔特双鹰
+Colt Python	柯尔特巨蟒
+Derringer	德林杰	手枪
+Glock	格洛克	枪
+MAC Ingram M10	MAC 英格拉姆 M10	冲锋手枪
+Pathfinder	觅踪者	美国Charter Arms生产的民用手枪。这是一款冷门枪，暂时没找到国内官译
+Ruger Service-Six	鲁格现役6型	手枪
+S\&W	史密斯威森
+SITES	赛茨	意大利产的小型手枪，全称SITES “Resolver” M9。暂无官译
+Skorpion	蝎式冲锋枪
+TEC-9	TEC-9冲锋枪
+Walther PPK	瓦尔特PPK	自动手枪
+assault rifle	突击步枪
+Barrett	巴雷特
+Barrett Light Fifty	巴雷特“轻50”M82A1
+Benelli	贝纳利	Benelli摩托官译是贝纳利，同名军工厂虽然没有官译，但摩托厂和军工厂都是乔万尼·贝纳利创建的，所以取共享译名。
+gauge	号	GAUGE这一计量单位没有中译名，作为对霰弹口径量度，都译为“号”。
+Browning	勃朗宁
+Mil	军用	管制等级（缩写）
+Mossberg	莫斯伯格	霰弹枪
+Remington	雷明顿
+Sawed-off shotgun	锯短霰弹枪
+Steyr	施泰尔	枪
+Uzi	乌兹
+Winchester	温彻斯特
+Heavy Weapon	重武器
+rocket launcher	火箭筒
+grenade launcher	榴弹发射器
+Compound bow	复合弓
+Piercing	穿刺
+Crossbow	弩
+Flamethrower	火焰喷射器
+Fire	火焰	伤害类型
+Javelin	标枪
+Pepper spray	辣椒喷雾器
+Shuriken	手里剑
+Taser	电击枪
+Electricity	电	伤害类型
+Slashing	抽打	伤害类型
