@@ -257,7 +257,7 @@ The G3 fires the powerful 7.62mm cartridge, a round used in many light machine g
 
 ##### HK MP5
 
-The Heckler & Koch MP5 family of weapons is among the most recognizable in the world. Many different designs exist; dexscribed here is the most basic model.
+The Heckler & Koch MP5 family of weapons is among the most recognizable in the world. Many different designs exist; described here is the most basic model.
 
 Due to its high quality of manufacture, the MP5 is always considered a mastercraft weapon. As such, it grants a +1 bonus on attack rolls.
 

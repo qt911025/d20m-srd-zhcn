@@ -1103,7 +1103,7 @@ bipod	两脚架
 light weapon	轻武器
 Beretta	伯莱塔	枪
 Ballistic	实弹	伤害类型
-autoloader	半自动	手枪
+autoloader	半自动	手枪，半自动手枪就是自动装填手枪，同一译半自动。
 machine pistol	冲锋手枪
 Lic	执照	限制级
 Colt	柯尔特	枪
@@ -1146,3 +1146,26 @@ Shuriken	手里剑
 Taser	电击枪
 Electricity	电	伤害类型
 Slashing	抽打	伤害类型
+three-round burst	三发点射
+Desert Eagle	沙漠之鹰
+caliber	口径
+recoil	后座力
+Intratec	英特拉泰克	这美国枪企也没官方译名
+hunting rifle	狩猎步枪
+bore	孔径	枪管内径
+Heckler & Koch	黑克勒科赫
+HK	黑克勒科赫	枪
+stock	枪托
+grip	握把
+bullpup	无托式
+ambidextrous	双手通用
+optical sight	光学瞄具
+Model	型	枪
+heavy-duty	重型
+shaped charge	锥形装药
+Grenade	榴弹
+lever	杠杆
+nozzle	喷嘴
+rupture	破裂
+irritant	刺激物
+lethal	致命
