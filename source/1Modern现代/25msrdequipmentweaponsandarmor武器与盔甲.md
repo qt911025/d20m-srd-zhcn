@@ -515,7 +515,7 @@ Table: Explosives and Splash Weapons
 |Weapon|Direct Hit Damage|Splash Damage|Critical\*\*|Damage Type|Reflex DC|Range Increment|Size|Weight|Purchase DC|Restriction|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |Acid, mild|1d6|1|20|Acid|—|10 ft|Tiny|1 lb|6|—|
-|Molotov cocktail\* 1d6|1|20|Fire|—|10 ft|Small|1 lb|3|—||
+|Molotov cocktail\*|1d6|1|20|Fire|—|10 ft|Small|1 lb|3|—|
 
 \* This weapon cannot be purchased as an item; the purchase DC given is for the weapon’s components.
 

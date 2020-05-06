@@ -2718,6 +2718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Explosives and Splash Weapons</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T130810Z" creationid="quentine" creationdate="20200424T130810Z">
+        <seg>### 爆炸物与溅射武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Fake ID</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200115T093515Z" creationid="quentine" creationdate="20200115T093515Z">
@@ -4016,6 +4024,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Ammunition</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T113938Z" creationid="quentine" creationdate="20200424T113938Z">
+        <seg>#### 弹药</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### Arcane Research (Items)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190613T141119Z" creationid="quentine" creationdate="20190613T141119Z">
@@ -4244,6 +4260,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190524T125841Z" creationid="quentine" creationdate="20190524T125841Z">
         <seg>#### 急救妙手</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### Explosives and Splash Weapons Table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200504T130608Z" creationid="quentine" creationdate="20200504T130608Z">
+        <seg>#### 爆炸物与溅射武器表</seg>
       </tuv>
     </tu>
     <tu>
@@ -4912,6 +4936,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>##### 10-gauge Buckshot, 12-gauge Buckshot</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T115718Z" creationid="quentine" creationdate="20200424T115718Z">
+        <seg>##### 10号鹿弹、12号鹿弹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### 5.56mm, 7.62mm, 7.62mmR, .444, .50</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T114838Z" creationid="quentine" creationdate="20200424T114838Z">
+        <seg>##### 5.56mm、7.62mm、7.62mmR、.444、.50</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### 9mm, 10mm, .22, .32, .38 S, .357, .44, .45, .50AE</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T115402Z" creationid="quentine" creationdate="20200424T115402Z">
+        <seg>##### 9mm、10mm、.22、.32、.38 S、.357、.44、.45、.50AE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>##### AKM/AK-47</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T021552Z" creationid="quentine" creationdate="20200419T021552Z">
@@ -4920,10 +4968,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>##### Ammunition weight</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T120458Z" creationid="quentine" creationdate="20200424T120458Z">
+        <seg>##### 弹药重量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>##### Arcane Spells and Armor</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190623T120810Z" creationid="quentine" creationdate="20190623T120810Z">
         <seg>##### 秘法法术与护甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Arrow</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T115817Z" creationid="quentine" creationdate="20200424T115817Z">
+        <seg>##### 箭</seg>
       </tuv>
     </tu>
     <tu>
@@ -5044,6 +5108,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200420T134657Z" creationid="quentine" creationdate="20200420T134657Z">
         <seg>##### 弩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Crossbow Bolt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T120336Z" creationid="quentine" creationdate="20200424T120336Z">
+        <seg>##### 弩箭</seg>
       </tuv>
     </tu>
     <tu>
@@ -5766,6 +5838,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Pulling the pin on a grenade is a free action.) Others require timers or other devices to set them off.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T131636Z" creationid="quentine" creationdate="20200424T131526Z">
+        <seg>（拔掉手榴弹的保险是一个即时动作。）其他的则需要计时器或其他装置来引爆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(See Chapter Ten: FX Abilities for a list and descriptions of divine spells.)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190627T135451Z" creationid="quentine" creationdate="20190627T135451Z">
@@ -5778,6 +5858,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T051318Z" creationid="quentine" creationdate="20191027T051318Z">
         <seg>（见下文）GM可根据情景禁止角色学习一门语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(See the Demolitions skill)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T135602Z" creationid="quentine" creationdate="20200506T135602Z">
+        <seg>（见爆破技能）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7522,6 +7610,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Burst Radius/Splash Damage:** For explosives, the burst radius is the area affected by the explosive.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T134919Z" creationid="quentine" creationdate="20200506T134919Z">
+        <seg>**爆炸半径/溅射伤害：** 对于爆炸物而言，爆炸半径决定了爆炸的区域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Business:** Business procedures, investment strategies, and corporate structures.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191022T135133Z" creationid="quentine" creationdate="20191022T135133Z">
@@ -8130,10 +8226,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Damage Type:** Damage from explosives and splash weapons is classified according to type: energy (of a specific type) or slashing.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T135156Z" creationid="quentine" creationdate="20200506T135156Z">
+        <seg>**伤害类型：** 爆炸和溅射武器伤害分为几个类型：（特定类型的）能量或抽打。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Damage Type:** Ranged weapon damage is classified according to type: ballistic (all firearms), energy (of a specific type), piercing (some simple ranged weapons), or slashing (a whip).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T120642Z" creationid="quentine" creationdate="20200410T120642Z">
         <seg>**伤害类型：** 远程武器的伤害分为几类：实弹（所有火器），能量（一些特殊武器）、穿刺（一些简易远程武器）、以及抽打（鞭子）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Damage/Direct Hit Damage:** The primary damage dealt by the weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200504T130754Z" creationid="quentine" creationdate="20200504T130754Z">
+        <seg>**伤害/直接伤害：** 武器造成的首次伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8606,6 +8718,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T075150Z" creationid="quentine" creationdate="20190216T075150Z">
         <seg>**高级激励：** 魅力型英雄可以更有效地激励友方，在背后支持他们，提高他们的成功机会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Grenades and Explosives**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T141951Z" creationid="quentine" creationdate="20200506T141951Z">
+        <seg>**榴弹与爆炸物**</seg>
       </tuv>
     </tu>
     <tu>
@@ -9898,6 +10018,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Range Increment:** If the weapon can be thrown, its range increment is shown in this column.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T135503Z" creationid="quentine" creationdate="20200506T135503Z">
+        <seg>**射程跨度：** 如果武器可投掷，该列将有射程跨度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Range:** The Acolyte turns the closest turnable creature first.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T105136Z" creationid="quentine" creationdate="20190703T105136Z">
@@ -9926,6 +10054,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T115722Z" creationid="quentine" creationdate="20190116T115722Z">
         <seg>**反射豁免：** 基本反射豁免加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Reflex DC:** Any creature caught within the burst radius of an explosive may make a Reflex save against the DC given in this column for half damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T135417Z" creationid="quentine" creationdate="20200506T135417Z">
+        <seg>**反射DC：** 爆炸半径覆盖到的所有生物的反射豁免的DC，豁免成功可使伤害减半。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11115,6 +11251,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Splash Weapons**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T143857Z" creationid="quentine" creationdate="20200506T143857Z">
+        <seg>**溅射武器**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Stabilize Dying Character (DC 15):** With a medical kit, a character can tend to a character who is dying.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191028T131916Z" creationid="quentine" creationdate="20191028T125533Z">
@@ -12095,6 +12239,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134254Z" creationid="quentine" creationdate="20200410T134200Z">
         <seg>**重量：** 此项为满弹时武器的全重。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Weight:** This column gives the weapon’s weight.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T141740Z" creationid="quentine" creationdate="20200506T141740Z">
+        <seg>**重量：** 此项为武器的重量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15473,6 +15625,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A shaft or missile designed to be shot from a crossbow, bolts come in quivers of 12.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T120452Z" creationid="quentine" creationdate="20200424T120437Z">
+        <seg>弩箭用于弩，在游戏中作为一袋12只装的弩箭袋存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A shaken character takes a –2 penalty on attack rolls, saving throws, and skill checks.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T125209Z" creationid="quentine" creationdate="20190115T125209Z">
@@ -15581,6 +15741,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190623T122610Z" creationid="quentine" creationdate="20190623T122610Z">
         <seg>法术书可以是实体书或者任何其他数据存储装置，比如笔记本电脑、台式电脑或者PDA。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A splash weapon is a projectile that bursts on impact, spewing its contents over an area and damaging any creature or object within that area.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T132224Z" creationid="quentine" creationdate="20200424T132224Z">
+        <seg>溅射武器指的是在撞击时爆发的抛射物，溅射波及一片区域，并伤害区域内的所有生物或物体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16411,6 +16579,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All creatures or objects within the burst radius take damage from the explosive.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T135001Z" creationid="quentine" creationdate="20200506T135001Z">
+        <seg>爆炸半径内所有生物或物体都将受到爆炸伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All explosives must be detonated.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T131401Z" creationid="quentine" creationdate="20200424T131244Z">
+        <seg>所有的爆炸物必须被触发才能爆炸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All handguns require the Personal Firearms Proficiency feat.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200417T134409Z" creationid="quentine" creationdate="20200417T134409Z">
@@ -16855,6 +17039,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T142756Z" creationid="quentine" creationdate="20191104T142756Z">
         <seg>虽然这些物品更贵，但不会拥有额外的功能或游戏性的增益。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ammunition for firearms and other ranged weapons is covered on Table: Ammunition.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T114014Z" creationid="quentine" creationdate="20200424T114014Z">
+        <seg>火器以及其他远程武器的弹药见表：弹药。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17671,6 +17863,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200418T024612Z" creationid="quentine" creationdate="20200418T024612Z">
         <seg>美国军队、古巴和秘鲁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arrows come in quivers of 12 and are used with the compound bow and other types of archery weapons.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T120446Z" creationid="quentine" creationdate="20200424T120141Z">
+        <seg>箭在游戏中是作为一袋12只装的箭袋存在，用于复合弓以及其他弓箭类武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20388,6 +20588,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Detonators are covered in Weapon Accessories.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T131706Z" creationid="quentine" creationdate="20200424T131706Z">
+        <seg>起爆器在武器附件一节列举。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Detonators must be purchased separately.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T090324Z" creationid="quentine" creationdate="20200115T075209Z">
@@ -20640,6 +20848,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T032539Z" creationid="quentine" creationdate="20200419T032539Z">
         <seg>因其高品质制造工艺，PSG1在游戏中总是视为大师级工艺武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dynamite and hand grenades are examples of these weapons.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T131622Z" creationid="quentine" creationdate="20200424T131114Z">
+        <seg>比如炸药要引爆，手榴弹要投掷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21180,6 +21396,38 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Explosives and splash weapons are described by a number of statistics, as shown on Table: Explosives and Splash Weapons.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200504T130717Z" creationid="quentine" creationdate="20200504T130717Z">
+        <seg>爆炸物与溅射武器有各种属性，见表：爆炸物与溅射武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Explosives and splash weapons require no feat to use with proficiency unless they are fired or propelled from some sort of launcher or other device, in which case the appropriate Weapon Proficiency feat for the launcher is necessary to avoid the –4 nonproficient penalty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T132730Z" creationid="quentine" creationdate="20200424T132730Z">
+        <seg>爆炸物和溅射武器不需要`擅长专长`，除非它是由发射器或其他装置辅助发射的，后者要求拥有发射器相关的`擅长专长`以免受4点`不擅长`惩罚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Explosives can be thrown or set off in place, depending on the type of explosive device.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T131613Z" creationid="quentine" creationdate="20200424T131007Z">
+        <seg>根据爆炸装置的类型，爆炸物可投掷或在指定地点引爆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Explosives with no range increment must be set in place before being detonated.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T135552Z" creationid="quentine" creationdate="20200506T135552Z">
+        <seg>无射程跨度的爆炸物必须在引爆前安置在目的地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Failure by 10 or more means the explosive goes off as the detonator is being installed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T085741Z" creationid="quentine" creationdate="20190923T132728Z">
@@ -21580,6 +21828,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For explosives, the Damage column shows the damage dealt to all creatures within the explosive’s burst radius.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T134726Z" creationid="quentine" creationdate="20200504T152610Z">
+        <seg>对于爆炸物而言，伤害指的是爆炸半径内所有生物受到的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For feinting in combat, the character may try again freely.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190808T140315Z" creationid="quentine" creationdate="20190808T140315Z">
@@ -21656,6 +21912,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T125745Z" creationid="quentine" creationdate="20190526T084441Z">
         <seg>求助专家的购买DC = 10 + 专家提供技能帮助的技能级数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For splash weapons, all creatures within 5 feet of the weapon’s impact point take splash damage equal to the amount shown in this column.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T135058Z" creationid="quentine" creationdate="20200506T135058Z">
+        <seg>对于溅射武器，击中位置5尺内所有生物都受到溅射伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For splash weapons, the Direct Hit Damage column is used for a target directly struck by the weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T134757Z" creationid="quentine" creationdate="20200506T134757Z">
+        <seg>对于溅射武器而言，直接伤害指的是被武器直接击中所造成的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21800,6 +22072,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T132403Z" creationid="quentine" creationdate="20191025T132403Z">
         <seg>通常，角色寻找本地的街道或其他城市地标，或者有精确的地图参照时不需要进行此检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generally, creatures directly hit by splash weapons take the most damage, while those nearby take less damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T132330Z" creationid="quentine" creationdate="20200424T132330Z">
+        <seg>通常来说，被溅射武器直接命中的生物承受最严重的伤害，邻近的其他目标承受更少的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25412,6 +25692,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can be used one-handed and, as a light weapon, is easier to use in a character’s off hand.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T141718Z" creationid="quentine" creationdate="20200506T141718Z">
+        <seg>轻武器可以单手使用，也更容易用副手操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can be used one-handed and, as a light weapon, is easier to use in your off hand.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134122Z" creationid="quentine" creationdate="20200410T134106Z">
@@ -28848,6 +29136,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shotgun cartridges, also known as buckshot, are sold in boxes of ten.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T115807Z" creationid="quentine" creationdate="20200424T115807Z">
+        <seg>霰弹枪弹药，也称为鹿弹，按10发一盒装卖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shotgun shells are a little heavier; use the weight value for one damage step higher.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T130416Z" creationid="quentine" creationdate="20200424T130416Z">
+        <seg>霰弹要稍微重一点，重量相当于更高一级伤害对应的重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shotguns are large-bore weapons that primarily fire shells full of small projectiles.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T020613Z" creationid="quentine" creationdate="20200419T020613Z">
@@ -29224,6 +29528,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some, such as grenades, include built-in detonators.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T131322Z" creationid="quentine" creationdate="20200424T131322Z">
+        <seg>一些爆炸物的起爆器是内置的，比如手榴弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Someone who wields a heavy weapon without the appropriate proficiency takes a –4 penalty on all attack rolls with the weapon.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T152916Z" creationid="quentine" creationdate="20200419T152916Z">
@@ -29356,6 +29668,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190624T143045Z" creationid="quentine" creationdate="20190624T143045Z">
         <seg>不含随机数值的法术也用不上极效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Splash weapons usually must be thrown to have effect.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T132403Z" creationid="quentine" creationdate="20200424T132403Z">
+        <seg>溅射武器一般要投掷出去才会生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29688,6 +30008,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table: Ammunition</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T114026Z" creationid="quentine" creationdate="20200424T114026Z">
+        <seg>表：弹药</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table: Carrying Capacity</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T130032Z" creationid="quentine" creationdate="20191105T130032Z">
@@ -29732,6 +30060,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T143809Z" creationid="quentine" creationdate="20190115T143809Z">
         <seg>电力伤害表给出了相关电压下电的伤害值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table: Explosives and Splash Weapons</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T141803Z" creationid="quentine" creationdate="20200506T141803Z">
+        <seg>表：爆炸物与溅射武器</seg>
       </tuv>
     </tu>
     <tu>
@@ -29972,6 +30308,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190623T123126Z" creationid="quentine" creationdate="20190623T123126Z">
         <seg>这就是法师能向魔宠施展只能以自己为目标的法术的原因。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The .50 caliber is a huge cartridge generally fired from heavy machine guns, but also adapted to a few models of powerful sniper rifles.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T115322Z" creationid="quentine" creationdate="20200424T115322Z">
+        <seg>.50大口径弹药一般用于重机枪，也适用于少数几种大威力狙击枪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The .50AE pistol round is not compatible with the much larger .50 rifle-caliber cartridge (see above).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T115657Z" creationid="quentine" creationdate="20200424T115657Z">
+        <seg>.50AE圆头手枪弹不兼容.50步枪弹（理由同上）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The 7.62mmR is used in the AKM and other ex-Soviet weapon types, and is not compatible with the larger 7.62mm cartridge.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T115203Z" creationid="quentine" creationdate="20200424T115203Z">
+        <seg>7.62mmR用于AKM以及其他前苏联武器，不兼容西方的7.62mm弹药。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35501,6 +35861,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These calibers are generally used in pistols or submachine guns, and are sold in boxes of 50 bullets each.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T115517Z" creationid="quentine" creationdate="20200424T115517Z">
+        <seg>这几种口径的弹药一般用于手枪以及冲锋枪，按50发一盒装卖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These calibers of ammunition are generally used in rifles, assault rifles, or machine guns, and are sold in boxes of 20 bullets each.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T115426Z" creationid="quentine" creationdate="20200424T115042Z">
+        <seg>这几种口径的弹药一般用于步枪、突击步枪以及机枪，按20发一盒装卖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These categories are identified and defined below.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T140128Z" creationid="quentine" creationdate="20191022T132328Z">
@@ -35545,6 +35921,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200420T133606Z" creationid="quentine" creationdate="20200420T133606Z">
         <seg>这些榴弹长得像口径一寸半的超大号的子弹，不能作为手榴弹使用，M79也不能发射手榴弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These missile weapons consist of a slender shaft and a pointed head.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T120329Z" creationid="quentine" creationdate="20200424T120329Z">
+        <seg>一枚这种弹药由长长的箭柄和锋利的箭头组成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35633,6 +36017,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T121015Z" creationid="quentine" creationdate="20191202T121015Z">
         <seg>这些袖珍录音机（一套扑克牌那么大）能够录制8小时的音频，且能够连接至计算机下载数字化录音文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These weapons explode or burst, dealing damage to creatures or objects within an area.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T130910Z" creationid="quentine" creationdate="20200424T130910Z">
+        <seg>这些武器以爆炸或喷射的形式攻击，对特定范围内的生物或物体造成伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37414,6 +37806,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T125657Z" creationid="QuenTine" creationdate="20181106T133258Z">
         <seg>要决定一个角色的初始财富加值，掷2d4加上角色职业背景的财富加值，再加上（如果有的话）横财专长的加值，如果角色在`专业`上拥有级数则还要再加1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To determine how much a loaded magazine weighs, look it up on the table, rounding the number of rounds in the magazine up.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T125823Z" creationid="quentine" creationdate="20200424T125823Z">
+        <seg>装满的弹匣全重为多少，详见下表，向上取整。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39752,6 +40152,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>\* This weapon cannot be purchased as an item; the purchase DC given is for the weapon’s components.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T144518Z" creationid="quentine" creationdate="20200506T144518Z">
+        <seg>\* 这种武器不能作为成品购买；给出的购买DC是部件的总价。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>\*Add to the object’s purchase DC if the character tries to buy it on the black market without first obtaining a license; see The Black Market, below.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T123543Z" creationid="quentine" creationdate="20191104T123543Z">
@@ -39828,6 +40236,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200417T133903Z" creationid="quentine" creationdate="20200417T133903Z">
         <seg>\*\* 此武器造成特殊伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\*\* Threat range applies to direct hits only; splash damage does not threaten a critical hit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T144611Z" creationid="quentine" creationdate="20200506T144611Z">
+        <seg>\*\* 重击威胁区间只对直接攻击有效；溅射伤害无重击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40366,6 +40782,52 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |中年（40–59）|力敏体–1；智感魅+1|
 |老年（60-79）|力敏体–1；智感魅+1|
 |高年（80+）|力敏体–1；智感魅+1|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Ammunition Type (Quantity)|Purchase DC|
+|--------------------------|:---------:|
+|5.56mm (20)|4|
+|7.62mm (20)|4|
+|7.62mmR (20)|4|
+|.444 caliber (20)|6|
+|.50 caliber (20)|6|
+|9mm (50)|5|
+|10mm (50)|5|
+|.22 caliber (50)|4|
+|.32 caliber (50)|5|
+|.38 special (50)|5|
+|.357 caliber (50)|5|
+|.44 caliber (50)|5|
+|.45 caliber (50)|5|
+|.50AE caliber (50)|6|
+|10-gauge buckshot (10)|5|
+|12-gauge buckshot (10)|4|
+|Arrow (12)|8|
+|Crossbow bolt (12)|7|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T114807Z" creationid="quentine" creationdate="20200424T114807Z">
+        <seg>|弹药类型（一个购买检定所买的量）|购买 DC|
+|--------------------------|:---------:|
+|5.56mm （20）|4|
+|7.62mm （20）|4|
+|7.62mmR （20）|4|
+|.444 英寸口径 （20）|6|
+|.50 英寸口径  （20）|6|
+|9mm （50）|5|
+|10mm （50）|5|
+|.22 英寸口径  （50）|4|
+|.32 英寸口径  （50）|5|
+|.38 英寸口径  （50）|5|
+|.357 英寸口径  (50)|5|
+|.44 英寸口径  （50）|5|
+|.45 英寸口径  （50）|5|
+|.50AE 英寸口径 （50）|6|
+|10号鹿弹 （10）10|5|
+|12号鹿弹 （10）|4|
+|箭 （12）|8|
+|弩箭 （12）|7|</seg>
       </tuv>
     </tu>
     <tu>
@@ -41720,6 +42182,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |10|清扫整个区域寻找特定的目标。|
 |20|注意到一个普通的秘密隔间、一个简单的陷阱、或者一个模糊的线索。|
 |25+|找到一个复杂或深藏的秘密隔间或陷阱，发现一个隐藏很深的线索。|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Damage\\Weight per Number of Rounds|10|20|30|40|50|100|
+|------------------------------|:-:|:-:|:-:|:-:|:-:|:-:|
+|2d4|0.5lb|0.5lb|0.5lb|0.5lb|1.0lb|1.5lb|
+|2d6|0.5lb|0.5lb|0.5lb|1.0lb|1.0lb|2.0lb|
+|2d8|0.5lb|0.5lb|0.5lb|1.0lb|1.0lb|2.0lb|
+|2d10|0.5lb|1.0lb|1.0lb|1.5lb|1.5lb|3.0lb|
+|2d12|1.0lb|2.0lb|3.0lb|4.0lb|5.0lb|10.0lb|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T130751Z" creationid="quentine" creationdate="20200424T130751Z">
+        <seg>|伤害\\弹药数量对应的重量|10|20|30|40|50|100|
+|------------------------------|:-:|:-:|:-:|:-:|:-:|:-:|
+|2d4|0.5磅|0.5磅|0.5磅|0.5磅|1.0磅|1.5磅|
+|2d6|0.5磅|0.5磅|0.5磅|1.0磅|1.0磅|2.0磅|
+|2d8|0.5磅|0.5磅|0.5磅|1.0磅|1.0磅|2.0磅|
+|2d10|0.5磅|1.0磅|1.0磅|1.5磅|1.5磅|3.0磅|
+|2d12|1.0磅|2.0磅|3.0磅|4.0磅|5.0磅|10.0磅|</seg>
       </tuv>
     </tu>
     <tu>
@@ -43394,6 +43876,34 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|Weapon|Damage|Critical|Damage Type|Burst Radius|Reflex DC|Range Increment|Size|Weight|Purchase DC|Restriction|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|40mm fragmentation grenade|3d6|—|Slashing|10 ft|15|—|Tiny|1 lb|16|Mil (+3)|
+|C4/Semtex|4d6|—|Concussion|10 ft|18|—|Small|1 lb|12|Mil (+3)|
+|Det cord|2d6|—|Fire|See text|12|—|Med|2 lb|8|Res (+2)|
+|Dynamite|2d6|—|Concussion|5 ft|15|10 ft|Tiny|1 lb|12|Lic (+1)|
+|Fragmentation grenade|4d6|—|Slashing|20 ft|15|10 ft|Tiny|1 lb|15|Mil (+3)|
+|Smoke grenade|—|—|—|See text|—|10 ft|Small|2 lb|10|—|
+|Tear gas grenade|See text|—|—|See text|—|10 ft|Small|2 lb|12|Res (+2)|
+|Thermite grenade|6d6|—|Fire|5 ft|12|10 ft|Small|2 lb|17|Mil (+3)|
+|White phosphorus grenade|2d6|—|Fire|20 ft|12|10 ft|Small|2 lb|15|Mil (+3)|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T143754Z" creationid="quentine" creationdate="20200506T142259Z">
+        <seg>|武器|伤害|重击|伤害类型|爆炸半径|反射 DC|射程跨度|尺寸|重量|购买 DC|限制级|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|40mm破片榴弹|3d6|—|抽打|10尺|15|—|超小型|1磅|16|军用（+3）|
+|C4/塞姆汀炸药|4d6|—|震荡|10尺|18|—|小型|1磅|12|军用（+3）|
+|引信|2d6|—|火焰|见下文|12|—|普通|2磅|8|管制（+2）|
+|炸药|2d6|—|震荡|5尺|15|10尺|超小型|1磅|12|执照（+1）|
+|破片手雷|4d6|—|抽打|20尺|15|10尺|超小型|1磅|15|军用（+3）|
+|烟雾弹|—|—|—|见下文|—|10尺|小型|2磅|10|—|
+|催泪弹|见下文|—|—|见下文|—|10尺|小型|2磅|12|管制（+2）|
+|铝热弹|6d6|—|火焰|5尺|12|10尺|小型|2磅|17|军用（+3）|
+|白磷弹|2d6|—|火焰|20尺|12|10尺|小型|2磅|15|军用（+3）|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|Weapon|Damage|Critical|Damage Type|Range Increment|Rate of Fire|Magazine|Size|Weight|Purchase DC|Restriction|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |**Handguns (require the Personal Firearms Proficiency feat)**|||||||||||
@@ -43622,6 +44132,34 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |手里剑（古典）|1|20|穿刺|10尺|单发|—|超小型|0.5磅|3|—|
 |电击枪（简易）|1d4\*\*|—|电能|5尺|单发|1发内置|小型|2磅|7|—|
 |鞭子（简易）|1d2|20|抽打|15尺\*\*\*|单发|—|小型|2磅|4|—|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Weapon|Direct Hit Damage|Splash Damage|Critical\*\*|Damage Type|Reflex DC|Range Increment|Size|Weight|Purchase DC|Restriction|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Acid, mild|1d6|1|20|Acid|—|10 ft|Tiny|1 lb|6|—|
+|Molotov cocktail\* 1d6|1|20|Fire|—|10 ft|Small|1 lb|3|—||</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T144306Z" creationid="quentine" creationdate="20200506T144123Z">
+        <seg>|武器|直接伤害|溅射伤害|重击\*\*|伤害类型|反射 DC|射程跨度|尺寸|重量|购买 DC|限制级|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|弱酸|1d6|1|20|酸|—|10尺|超小型|1磅|6|—|
+|莫洛托夫鸡尾酒\*|1d6|1|20|火焰|—|10尺|小型|1磅|3|—|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Weapon|Direct Hit Damage|Splash Damage|Critical\*\*|Damage Type|Reflex DC|Range Increment|Size|Weight|Purchase DC|Restriction|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Acid, mild|1d6|1|20|Acid|—|10 ft|Tiny|1 lb|6|—|
+|Molotov cocktail\*|1d6|1|20|Fire|—|10 ft|Small|1 lb|3|—|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200506T144415Z" creationid="quentine" creationdate="20200506T144415Z">
+        <seg>|武器|直接伤害|溅射伤害|重击\*\*|伤害类型|反射 DC|射程跨度|尺寸|重量|购买 DC|限制级|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|弱酸|1d6|1|20|酸|—|10尺|超小型|1磅|6|—|
+|莫洛托夫鸡尾酒\*|1d6|1|20|火焰|—|10尺|小型|1磅|3|—|</seg>
       </tuv>
     </tu>
     <tu>

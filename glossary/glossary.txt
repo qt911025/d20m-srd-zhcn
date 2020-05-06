@@ -1169,3 +1169,18 @@ nozzle	喷嘴
 rupture	破裂
 irritant	刺激物
 lethal	致命
+Ammunition	弹药
+buckshot	鹿弹
+Crossbow bolt	弩箭
+Burst Radius	爆炸半径
+fragmentation grenade	破片榴弹/手雷
+Semtex	塞姆汀	炸药厂商
+C4/Semtex	C4/塞姆汀炸药
+Det cord	引信
+Dynamite	炸药
+Smoke grenade	烟雾弹
+Tear gas grenade	催泪弹
+Thermite grenade	铝热弹
+White phosphorus grenade	白磷弹
+mild	弱	酸性
+Molotov cocktail	莫洛托夫鸡尾酒
