@@ -926,7 +926,7 @@ activate	启动（魔法物品）
 Swallow Whole	活吞
 bitten	啮咬
 Trample	践踏
-bludgeon	碾压
+bludgeon	钝击
 Turn Resistance	驱散抗力
 On-Hand Objects	寻常物品
 Restricted	管制
@@ -1145,7 +1145,7 @@ Pepper spray	辣椒喷雾器
 Shuriken	手里剑
 Taser	电击枪
 Electricity	电	伤害类型
-Slashing	抽打	伤害类型
+Slashing	劈砍	伤害类型
 three-round burst	三发点射
 Desert Eagle	沙漠之鹰
 caliber	口径
@@ -1184,3 +1184,42 @@ Thermite grenade	铝热弹
 White phosphorus grenade	白磷弹
 mild	弱	酸性
 Molotov cocktail	莫洛托夫鸡尾酒
+spray	喷洒
+shrapnel	弹片
+slab	板
+wax	蜡
+translucent	半透明的
+knead	揉捏
+yard	码	一码=3英尺
+simple	简单	爆炸物
+lighter	打火机
+total concealment	全隐蔽
+flask	烧瓶
+ceramic	陶瓷
+caustic	腐蚀性的
+rag	破布
+Brass knuckles	指虎
+Cleaver	砍刀
+Club	木棒
+Knife	小刀
+Metal baton	甩棍
+Sap	闷棍
+Tonfa	卜字拐
+Hatchet	手斧
+Hatchet	手斧
+fixed	已安装	刺刀的状态
+Bayonet	刺刀
+Longsword	长剑
+Machete	弯刀
+Rapier	细剑
+Spear	矛
+Straight razor	刮脸刀
+Sword cane	手杖剑
+Chain	锁链
+manriki-gusari	万力锁	日本的武器，锁链两头各有一个重物
+Chain saw	链锯
+Kama	日本镰	一种武器
+Katana	打刀
+Kukri	反曲刀
+Nunchaku	双节棍
+Three-section staff	三节棍
