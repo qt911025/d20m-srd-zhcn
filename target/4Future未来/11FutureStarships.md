@@ -42,7 +42,7 @@ When a starship makes an attack roll, roll 1d20 and add the appropriate modifier
 Gunner’s Ranged Attack Bonus: Unless noted otherwise, all starship gunners are assumed to have the Starship Gunnery feat. Without this feat, a starship gunner takes a –4 nonproficient penalty on attack rolls with starship weapons.
 For simplicity, all gunners aboard a starship have identical ranged attack bonuses.
 Range Penalty: The range penalty for a ranged weapon depends on what weapon the starship is using and the distance to the target. All ranged weapons have a range increment, as noted in Table: Starship Weapons.
-As with character weapons, any attack from a distance of less than one range increment is not penalized for range. However, each full range increment causes a cumulative –2 penalty on the attack roll.
+As with character weapons, any attack from a distance of less than one range increment is not penalized for range. 超过射程跨度时，每超过一倍射程跨度，攻击骰都要受到2点减值。
 A beam weapon has a maximum range of 10 increments. A projectile weapon has an unlimited range, since projectiles don’t lose inertia in space.
 Starship’s Size Modifier: Starships are Huge, Gargantuan, or Colossal in size. Table: Starship Sizes notes the size modifiers for ships of different sizes.
 Targeting System’s Equipment Bonus: Most starships have computerized targeting systems to help gunners train weapons on targets. A standard targeting system provides an equipment bonus on the gunner’s attack roll depending on the ship’s size: Huge +1, Gargantuan +2, Colossal +3. Improved targeting systems (see Starship Sensors) grant higher bonuses. Table: Starship Sizes summarizes the targeting system equipment bonuses for ships of different sizes.
@@ -1863,11 +1863,11 @@ Table: Starship Weapons provides the following statistics for various ranged wea
 Damage: The damage the weapon deals.
 Critical: The critical threat range of the weapon.
 Damage Type: Most beam weapons deal a nonspecific type of energy damage that is not subject to energy resistance. A few weapons deal a specific kind of energy damage; for example, a laser deals fire damage. Projectile weapons deal ballistic damage.
-Range Increment: A weapon’s range increment is given in feet. An attack at less than this distance is not penalized for range. However, each full range increment causes a cumulative –2 penalty on the attack roll. Beam weapons dissipate and become ineffective past 10 range increments, while projectile weapons have unlimited range.
+Range Increment: A weapon’s range increment is given in feet. An attack at less than this distance is not penalized for range. 超过射程跨度时，每超过一倍射程跨度，攻击骰都要受到2点减值。Beam weapons dissipate and become ineffective past 10 range increments, while projectile weapons have unlimited range.
 Rate of Fire: Ranged weapons have three possible rates of fire: single shot, semiautomatic, or automatic.
 Single Shot: A weapon with a single shot rate of fire can fire only one shot per attack, even if the gunner has a feat or other ability that normally allows more than one shot per attack.
 Semiautomatic (S): A semiautomatic ranged weapon fires one shot per attack (effectively acting as a single shot weapon). However, a gunner who gains multiple attacks per round because of his level or because of certain feats can fire a semiautomatic beam weapon multiple times in rapid succession, getting more than one shot per attack.
-Automatic (A): Automatic ranged weapons fire a burst or stream of shots. Only weapons with the automatic rate of fire can be set on autofire or be used with feats that take advantage of automatic fire. See the Starship Weapons on Autofire for more rules and information.
+Automatic (A): Automatic ranged weapons fire a burst or stream of shots. 拥有全自动射击模式的武器被称为自动武器，只有在使用自动武器时，自动武器相关的专长才会生效。See the Starship Weapons on Autofire for more rules and information.
 Minimum Ship Size: The minimum size of starship capable of supporting the weapon.
 Purchase DC: The purchase DC of the weapon.
 Restriction: The level of license required to purchase the weapon legally.

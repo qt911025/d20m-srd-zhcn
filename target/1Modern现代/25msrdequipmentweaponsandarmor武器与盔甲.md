@@ -1,950 +1,950 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
 
-# EQUIPMENT (WEAPONS AND ARMOR)
+# 装备（武器与盔甲）
 
-## Weapons
+## 武器
 
-The weapons covered here are grouped into three categories based on their general utility: ranged weapons, explosives and splash weapons, and melee weapons.
+本文所述的武器根据根据用途大致分为三个类别：远程武器、爆炸物、溅射武器以及近战武器
 
-### Ranged Weapons
+### 远程武器
 
-Ranged weapons fall into three general groups: handguns, longarms, and other ranged weapons such as crossbows.
+远程武器大致分为三类：手枪、长杆枪和其他类型，比如弩。
 
-When using a ranged weapon, the wielder applies his or her Dexterity modifier to the attack roll.
+使用远程武器时，使用者将敏捷调整值应用于攻击骰。
 
-Handguns and longarms are personal firearms. A personal firearm is any firearm designed to be carried and used by a single person.
+手枪与长杆枪属于单兵火器。单兵火器包括了所有专供单人携带与操作的热兵器。
 
-#### Ranged Weapons Table
+#### 远程武器表
 
-Ranged weapons are described by a number of statistics, as shown on Table: Ranged Weapons.
+远程武器有各种属性，见表：远程武器。
 
-**Damage:** The damage the weapon deals on a successful hit.
+**伤害：** 武器成功命中时所造成的伤害。
 
-**Critical:** The threat range for a critical hit. If the threat is confirmed, a weapon deals double damage on a critical hit (roll damage twice, as if hitting the target two times).
+**重击：** 重击威胁区间。重击威胁发生时，武器重击，造成两次伤害（即掷伤害骰两次，视为两次击中目标）。
 
-**Damage Type:** Ranged weapon damage is classified according to type: ballistic (all firearms), energy (of a specific type), piercing (some simple ranged weapons), or slashing (a whip). Some creatures or characters may be resistant or immune to some forms of damage.
+**伤害类型：** 远程武器的伤害分为几类：实弹（所有火器），能量（一些特殊武器）、穿刺（一些简单远程武器）、以及劈砍（鞭子）。一些生物或角色能抵抗甚至免疫某些类型的伤害。
 
-**Range Increment:** Any attack at less than this distance is not penalized for range. However, each full range increment causes a cumulative –2 penalty on the attack roll. Ranged weapons have a maximum range of ten range increments, except for thrown weapons, which have a maximum range of five range increments.
+**射程跨度：** 低于此距离的攻击不会因射程受到惩罚。超过射程跨度时，每超过一倍射程跨度，攻击骰都要受到2点减值。远程武器的最大射程为射程跨度的10倍，投掷武器最大射程为射程跨度的5倍。
 
-**Rate of Fire:** Some ranged weapons have a rate of fire of 1, which simply means they can be employed once per round and then must be reloaded or replaced. Firearms, which operate through many different forms of internal mechanisms, have varying rates of fire. The three possible rates of fire for handguns, longarms, and heavy weapons are single shot, semiautomatic, and automatic.
+**射击模式：** 一些远程武器的射击模式为单发，意味着该武器一轮只能射击一次，然后就要装填或者抛弃掉。一些火器的机制允许多种射击模式。手枪、长杆枪、重武器有三种可能的射击模式：手动、半自动以及全自动。
 
-**Single Shot:** A weapon with the single shot rate of fire requires the user to manually operate the action (the mechanism that feeds and cocks the weapon) between each shot. Pump shotguns and bolt-action rifles are examples of firearms with single shot rates of fire. A weapon with the single shot rate of fire can fire only one shot per attack, even if the user has a feat or other ability that normally allow more than one shot per attack.
+**手动：** 手动射击模式的武器需要使用者在每次射击之间都要耗费动作来操作（手动装填、制退）。泵动式霰弹枪和栓动步枪就是典型的手动武器。手动模式的武器每次攻击只能射击一次，即使使用者有能在一次攻击射击多次的专长或能力。
 
-**Semiautomatic (S):** Most firearms have the semiautomatic rate of fire. These firearms feed and cock themselves with each shot. A semiautomatic weapon fires one shot per attack (effectively acting as a single shot weapon), but some feats allow characters armed with semiautomatic weapons to fire shots in rapid successions, getting in more than one shot per attack.
+**半自动（半）：** 大多数火器都有半自动射击模式。这些火器每次射击都会自行制退、复进。半自动武器每次攻击都只能射击一次（效果上与手动武器相同），但角色使用这些武器时，可以应用能在一次攻击中射击多次的专长。
 
-**Automatic (A):** Automatic weapons fire a burst or stream of shots with a single squeeze of the trigger. Only weapons with the automatic rate of fire can be set on autofire or be used with feats that take advantage of automatic fire.
+**全自动（全）：** 全自动武器可以在扣动扳机时持续射击。拥有全自动射击模式的武器被称为自动武器，只有在使用自动武器时，自动武器相关的专长才会生效。
 
-**Magazine:** The weapon’s magazine capacity and type are given in this column. The amount of ammunition a weap-on carries, and hence how many shots it can fire before needing to be reloaded, is determined by its magazine capacity. How the firearm is reloaded depends upon its magazine type. The number in this entry is the magazine’s capacity in shots; the word that follows the number indicates the magazine type: box, cylinder, or internal. A fourth type, linked, has an unlimited capacity; for this reason the entry does not also have a number. Weapons with a dash in this column have no magazines; they are generally thrown weapons, or weapons (such as bows) that are loaded as part of the firing process.
+**弹仓：** 此项列出了武器适用的弹仓容量与类型。一件武器能载多少弹药，一次装填能射击多少次取决于弹仓容量。火器如何装填取决于弹仓类型。数字代表弹仓容量；容量后接的字指弹仓类型：弹匣型、转轮型还是内置型。第四种类型，弹链型，容量是无限的，因此不注明数字。横杠代表没有弹仓；通常为投掷武器，或者装填是发射的一部分，比如弓。
 
-**Box:** A box magazine is any type of magazine that can be removed and reloaded separately from the weapon.
+**弹匣型：**弹匣指所有能从武器上卸下再装填的弹仓。
 
-**Cylinder:** A revolver keeps its ammunition in a cylinder, which is part of the weapon and serves as the firing chamber for each round as well. Unlike box magazines, cylinders can’t be removed, and they must be reloaded by hand. However, most revolvers can be used with a speed loader. Using a speed loader is much like inserting a box magazine into a weapon. Without a speed loader, a firearm with a cylinder magazine must be loaded by hand.
+**转轮型：** 转轮枪将子弹装在转轮上，转轮是武器的一部分，本身也作为枪械的燃烧室。不像弹匣，转轮不能随便拆卸，必需手动装填。但大多数转轮枪都能用快速装弹器装弹。使用快速装弹器的过程与将弹匣的装卸相似。如果没有快速装弹器，转轮型弹匣的子弹需要手动一个个装填。
 
-**Internal:** Some weapons keep their ammunition in an internal space, which must be loaded by hand. This is the case with most shotguns, as well as some rifles.
+**内置型：** 一些武器的弹仓是内置的，必需手动装弹。大多数霰弹枪和一些步枪是这种类型。
 
-**Linked:** Some machine guns use linked ammunition. The bullets are chained together with small metal clips, forming a belt. Typically, a belt holds 50 bullets; any number of belts can be clipped together. In military units, as the gunner fires, an assistant clips new ammunition belts together, keeping the weapon fed.
+**弹链型：** 一些机枪使用弹链。子弹用小型金属片连缀成链带。通常一条弹链装载50发子弹，多条弹链可连接起来。在军事单位中，射击手负责射击，装填手负责连接弹链并装填，保证弹药不间断供应。
 
-**Size:** Size categories for weapons and other objects are defined differently from the size categories for creatures. The relationship between a weapon’s size and that of its wielder defines whether it can be used one-handed, if it requires two hands, and if it’s a light weapon.
+**尺寸：** 武器与其他物品的尺寸范围定义与生物的体型定义不同。武器的尺寸与携带者体型的关系决定了武器是否可单手操作，是否需要双手操作，以及是否算作轻武器。
 
-A Medium-size or smaller weapon can be used one-handed or two-handed. A Large weapon requires two hands. A Huge weapon requires two hands and a bipod or other mount.
+普通及以下尺寸的武器能单手或双手操作。大型的武器必须双手操作。超大型的武器需要双手操作，并且依赖两脚架或其他载物。
 
-A Small or smaller weapon is considered a light weapon. It can be used one-handed and, as a light weapon, is easier to use in your off hand.
+小型及以下的武器视为轻武器。轻武器可以单手使用，也更容易用副手操作。
 
-**Weight:** This column gives the weapon’s weight when fully loaded.
+**重量：** 此项为满弹时武器的全重。
 
 
-**Purchase DC:** This is the purchase DC for a Wealth check to acquire the weapon. This number reflects the base price and doesn’t include any modifier for purchasing the weapon on the black market.
+**购买 DC:** 获得此武器所需财富检定的购买DC。此值指基本价格，并未把黑市加值算在内。
 
-**Restriction:** The restriction rating for the weapon, if any, and the appropriate black market purchase DC modifier. Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the weapon on the black market.
+**限制级：** 武器的管制等级，如果有，还会列出相应的黑市购买DC调整值。记住一定要在黑市购买进行财富检定时加上这些调整值。
 
-##### Reloading Firearms
+##### 装填火器
 
-Reloading a firearm with an already filled box magazine or speed loader is a move action. Refilling a box magazine or a speed loader, or reloading a revolver without a speed loader or any weapon with an internal magazine, is a full-round action.
+将一个已装弹的弹匣或快速装填器装填至火器里，是一个移动动作。不用快速装填器装填转轮枪，或将弹药装填至武器的内置弹匣里，是一个整轮动作。
 
-Loading a belt of linked ammunition is a full-round action. Linking two belts together is a move action.
+装填弹链是一个整轮动作。将两条弹链连接在一起是一个移动动作。
 
-Table: Ranged Weapons
+表：远程武器
 
-|Weapon|Damage|Critical|Damage Type|Range Increment|Rate of Fire|Magazine|Size|Weight|Purchase DC|Restriction|
+|武器|伤害|重击|伤害类型|射程跨度|射击模式|弹仓|尺寸|重量|购买DC|限制级|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|**Handguns (require the Personal Firearms Proficiency feat)**|||||||||||
-|Beretta 92F (9mm autoloader)|2d6|20|Ballistic|40 ft|S|15 box|Small|3 lb|16|Lic (+1)|
-|Beretta 93R (9mm machine pistol)|2d6|20|Ballistic|30 ft|S,A|20 box|Med|3 lb|18|Res (+2)|
-|Colt Double Eagle (10mm autoloader)|2d6|20|Ballistic|30 ft|S|9 box|Small|3 lb|16|Lic (+1)|
-|Colt M1911 (.45 autoloader)|2d6|20|Ballistic|30 ft|S|7 box|Small|3 lb|15|Lic (+1)|
-|Colt Python\* (.357 revolver)|2d6|20|Ballistic|40 ft|S|6 cyl.|Med|3 lb|5|Lic (+1)|
-|Derringer (.45)|2d6|20|Ballistic|10 ft|Single|2 int.|Tiny|1 lb|14|Lic (+1)|
-|Desert Eagle (.50AE autoloader)|2d8|20|Ballistic|40 ft|S|8 box|Med|4 lb|18|Lic (+1)|
-|Glock 17\* (9mm autoloader)|2d6|20|Ballistic|30 ft|S|17 box|Small|2 lb|18|Lic (+1)|
-|Glock 20\* (10mm autoloader)|2d6|20|Ballistic|40 ft|S|15 box|Small|3 lb|18|Lic (+1)|
-|MAC Ingram M10 (.45 machine pistol)|2d6|20|Ballistic|40 ft|S, A|30 box|Med|6 lb|15|Res (+2)|
-|Pathfinder (.22 revolver)|2d4|20|Ballistic|20 ft|S|6 cyl.|Tiny|1 lb|14|Lic (+1)|
-|Ruger Service-Six (.38S revolver)|2d6|20|Ballistic|30 ft|S|6 cyl.|Small|2 lb|14|Lic (+1)|
-|S\&W M29 (.44 magnum revolver)|2d8|20|Ballistic|30 ft|S|6 cyl.|Med|3 lb|15|Lic (+1)|
-|SITES M9 (9mm autoloader)|2d6|20|Ballistic|30 ft|S|8 box|Tiny|2 lb|15|Lic (+1)|
-|Skorpion (.32 machine pistol)|2d4|20|Ballistic|40 ft|S, A|20 box|Med|4 lb|17|Res (+2)|
-|TEC-9 (9mm machine pistol)|2d6|20|Ballistic|40 ft|S or A|32 box|Med|4 lb|14|Res (+2)|
-|Walther PPK (.32 autoloader)|2d4|20|Ballistic|30 ft|S|7 box|Small|1 lb|15|Lic (+1)|
+|**手枪（要求`擅长单兵火器`专长）**|||||||||||
+|伯莱塔92F （9毫米半自动）|2d6|20|实弹|40尺|半|15发弹匣|小型|3磅|16|执照（+1）|
+|伯莱塔93R（9毫米冲锋）|2d6|20|实弹|30尺|半、全|20发弹匣|普通|3磅|18|管制（+2）|
+|柯尔特双鹰（10毫米半自动）|2d6|20|实弹|30尺|半|9发弹匣|小型|3磅|16|执照（+1）|
+|柯尔特M1911（.45半自动）|2d6|20|实弹|30尺|半|7发弹匣|小型|3磅|15|执照（+1）|
+|柯尔特巨蟒\*（.357转轮）|2d6|20|实弹|40尺|半|6发转轮|普通|3磅|5|执照（+1）|
+|德林杰（.45）|2d6|20|实弹|10尺|手动|2发内置|超小型|1磅|14|执照（+1）|
+|沙漠之鹰（.50AE半自动）|2d8|20|实弹|40尺|半|8发弹匣|普通|4磅|18|执照（+1）|
+|格洛克17\*（9毫米半自动）|2d6|20|实弹|30尺|半|17发弹匣|小型|2磅|18|执照（+1）|
+|格洛克20\*（10毫米半自动）|2d6|20|实弹|40尺|半|15发弹匣|小型|3磅|18|执照（+）|
+|MAC 英格拉姆 M10 （.45冲锋）|2d6|20|实弹|40尺|半、全|30发弹匣|普通|6磅|15|管制（+2）|
+|觅踪者（.22转轮）|2d4|20|实弹|20尺|半|6发转轮|小型|1磅|14|执照（+1）|
+|鲁格现役6型（.385转轮）|2d6|20|实弹|30尺|半|6发转轮|小型|2磅|14|执照（+1）|
+|史密斯威森M29（.44马格南转轮）|2d8|20|实弹|30尺|半|6发转轮|普通|3磅|15|执照（+1）|
+|赛茨M9（9毫米半自动）|2d6|20|实弹|30尺|半|8发弹匣|超小型|2磅|15|执照（+1）|
+|蝎式冲锋枪（.32冲锋）|2d4|20|实弹|40尺|半、全|20发弹匣|普通|4磅|17|管制（+2）|
+|TEC-9冲锋枪 （9毫米冲锋）|2d6|20|实弹|40尺|半或全|32发弹匣|普通|4磅|14|管制（+2）|
+|瓦尔特PPK（.32半自动）|2d4|20|实弹|30尺|半|7发弹匣|小型|1磅|15|执照（+1）|
 ||||||||||||
-|**Longarms (require the Personal Firearms Proficiency feat)**|||||||||||
-|AKM/AK-47 (7.62mmR assault rifle)|2d8|20|Ballistic|70 ft|S, A|30 box|Large|10 lb|15|Res (+2)|
-|Barrett Light Fifty (.50 sniper rifle)|2d12|20|Ballistic|120 ft|S|11 box|Huge|35 lb|22|Lic (+1)|
-|Benelli 121 M1 (12-gague shotgun)|2d8|20|Ballistic|40 ft|S|7 int|Large|8 lb|17|Lic (+1)|
-|Beretta M3P (12-gauge shotgun)|2d8|20|Ballistic|30 ft|S|5 box|Large|9 lb|16|Lic (+1)|
-|Browning BPS (10-gauge shotgun)|2d10|20|Ballistic|30 ft|Single|5 int.|Large|11 lb|16|Lic (+1)|
-|HK G3 (7.62mm assault rifle)|2d10|20|Ballistic|90 ft|S, A|20 box|Large|11 lb|19|Res (+2)|
-|HK MP5\* (9mm submachine gun)|2d6|20|Ballistic|50 ft|S, A|30 box|Large|7 lb|20|Res (+2)|
-|HK MP5K (9mm submachine gun)|2d6|20|Ballistic|40 ft|S, A|15 box|Med|5 lb|19|Res (+2)|
-|HK PSG1\* (7.62mm sniper rifle)|2d10|20|Ballistic|90 ft|S|5 box|Large|16 lb|22|Lic (+1)|
-|M16A2 (5.56mm assault rifle)|2d8|20|Ballistic|80 ft|S, A|30 box|Large|8 lb|16|Res (+2)|
-|M4 Carbine (5.56mm assault rifle)|2d8|20|Ballistic|60 ft|S, A|30 box|Large|7 lb|16|Res (+2)|
-|M-60 (medium machine gun)|2d10|20|Ballistic|100 ft|A|Linked|Huge|22 lb|21|Mil (+3)|
-|Mossberg (12-gauge shotgun)|2d8|20|Ballistic|30 ft|Single|6 int.|Large|7 lb|15|Lic (+1)|
-|Remington 700 (7.62mm hunting rifle)|2d10|20|Ballistic|80 ft|Single|5 int.|Large|8 lb|17|Lic (+1)|
-|Sawed-off shotgun (12-ga shotgun)|2d8|20|Ballistic|10 ft|S|2 int.|Med|4 lb|15|Illegal (+4)|
-|Steyr AUG (5.56mm assault rifle)|2d8|20|Ballistic|80 ft|S, A|30 box|Large|9 lb|19|Res (+2)|
-|Uzi (9mm submachine gun)|2d6|20|Ballistic|40 ft|S, A|20 box|Large|8 lb|18|Res (+2)|
-|Winchester 94 (.444 hunting rifle)|2d10|20|Ballistic|90 ft|S|6 int.|Large|7 lb|15|Lic (+1)|
+|**长杆枪（要求`擅长单兵火器`专长）**|||||||||||
+|AKM/AK-47 (7.62mmR突击步枪)|2d8|20|实弹|70尺|半、全|30发弹匣|大型|10磅|15|管制（+2）|
+|巴雷特“轻50”M82A1（.50狙击步枪）|2d12|20|实弹|120尺|半|11发弹匣|超大型|35磅|22|执照（+1）|
+|贝纳利 121 M1（12号霰弹）|2d8|20|实弹|40尺|半|7发内置|大型|8磅|17|执照（+1）|
+|伯莱塔M3P（12号霰弹）|2d8|20|实弹|30尺|半|5发弹匣|大型|9磅|16|执照（+1）|
+|勃朗宁BPS（10号霰弹）|2d10|20|实弹|30尺|手动|5发内置|大型|11磅|16|执照（+1）|
+|HK G3（7.62mm突击步枪）|2d10|20|实弹|90尺|半、全|20发弹匣|大型|11磅|19|管制（+2）|
+|HK MP5\*（9mm冲锋枪）|2d6|20|实弹|50尺|半、全|30发弹匣|大型|7磅|20|管制（+2）|
+|HK MP5K（9mm冲锋枪）|2d6|20|实弹|40尺|半、全|15发弹匣|普通|5磅|19|管制（+2）|
+|HK PSG1\*（7.62mm狙击步枪）|2d10|20|实弹|90尺|半|5发弹匣|大型|16磅|22|执照（+1）|
+|M16A2（5.56mm突击步枪）|2d8|20|实弹|80尺|半、全|30发弹匣|大型|8磅|16|管制（+2）|
+|M4卡宾枪（5.56mm突击步枪）|2d8|20|实弹|60尺|半、全|30发弹匣|大型|7磅|16|管制（+2）|
+|M-60（中型机枪）|2d10|20|实弹|100尺|全|弹链|超大型|22磅|21|军用（+3）|
+|莫斯伯格（12号霰弹）|2d8|20|实弹|30尺|手动|6发内置|大型|7磅|15|执照（+1）|
+|雷明顿700（7.62mm猎枪）|2d10|20|实弹|80尺|手动|5发内置|大型|8磅|17|执照（+1）|
+|锯短霰弹枪（12号霰弹）|2d8|20|实弹|10尺|半|2发内置|普通|4磅|15|非法（+4）|
+|施泰尔AUG（5.56mm突击步枪）|2d8|20|实弹|80尺|半、全|30发弹匣|大型|9磅|19|管制（+2）|
+|乌兹（9mm冲锋枪）|2d6|20|实弹|40尺|半、全|20发弹匣|大型|8磅|18|管制（+2）|
+|温彻斯特94（.444猎枪）|2d10|20|实弹|90尺|半|6发内置|大型|7磅|15|执照（+1）|
 ||||||||||||
-|**Heavy Weapons (each requires a specific Exotic Firearms Proficiency feat)**|||||||||||
-|M2HB (heavy machine gun)|2d12|20|Ballistic|110 ft|A|Linked|Huge|75 lb|22|Mil (+3)|
-|M72A3 LAW (rocket launcher)|10d6\*\*|—|—|150 ft|1|1 int.|Large|5 lb|15|Mil (+3)|
-|M79 (grenade launcher)|Varies\*\*|—|—|70 ft|1|1 int.|Large|7 lb|14|Mil (+3)|
+|**重武器（每种武器都要求有该武器对应的`擅长异种火器`专长）**|||||||||||
+|M2HB（重机枪）|2d12|20|实弹|110尺|全|弹链|超大型|75磅|22|军用（+3）|
+|M72A3 LAW（火箭筒）|10d6\*\*|—|—|150尺|单发|1发内置|大型|5磅|15|军用（+3）|
+|M79（榴弹发射器）|各种\*\*|—|—|70尺|单发|1发内置|大型|7磅|14|军用（+3）|
 ||||||||||||
-|**Other Ranged Weapons (Weapons Proficiency feat needed given in parentheses)**|||||||||||
-|Compound bow (Archaic)\*\*|1d8|20|Piercing|40 ft|1|—|Large|3 lb|10|—|
-|Crossbow (Simple)|1d10|19–20|Piercing|40 ft|1|1 int.|Med|7 lb|9|—|
-|Flamethrower (no feat needed)\*\*\*|3d6|—|Fire|—|1|10 int.|Large|50 lb|17|Mil (+3)|
-|Javelin (Simple)|1d6|20|Piercing|30 ft|1|—|Med|2 lb|4|—|
-|Pepper spray (Simple)|Special\*\*|—|Special\*\*|5 ft|1|1 int.|Tiny|0.5 lb|5|—|
-|Shuriken (Archaic)|1|20|Piercing|10 ft|1|—|Tiny|0.5 lb|3|—|
-|Taser (Simple)|1d4\*\*|—|Electricity|5 ft|1|1 int.|Small|2 lb|7|—|
-|Whip (Simple)|1d2|20|Slashing|15 ft3|1|—|Small|2 lb|4|—|
+|**其他远程武器（要求括号内所示的专长）**|||||||||||
+|复合弓（古典）\*\*|1d8|20|穿刺|40尺|单发|—|大型|3磅|10|—|
+|弩（简单）|1d10|19–20|穿刺|40尺|单发|1发内置|普通|7磅|9|—|
+|火焰喷射器（无）\*\*\*|3d6|—|火焰|—|单发|10发内置|大型|50磅|17|军用（+3）|
+|标枪（简单）|1d6|20|穿刺|30尺|单发|—|普通|2磅|4|—|
+|辣椒喷雾器（简单）|特别\*\*|—|特别\*\*|5尺|单发|1发内置|超小型|0.5磅|5|—|
+|手里剑（古典）|1|20|穿刺|10尺|单发|—|超小型|0.5磅|3|—|
+|电击枪（简单）|1d4\*\*|—|电能|5尺|单发|1发内置|小型|2磅|7|—|
+|鞭子（简单）|1d2|20|劈砍|15尺\*\*\*|单发|—|小型|2磅|4|—|
 
-\* This mastercraft weapon grants a +1 bonus on attack rolls.
+\* 大师级工艺的武器为攻击骰提供1点加值
 
-\*\* This weapon does special damage. See the weapon description.
+\*\* 此武器造成特殊伤害。见武器描述
 
-\*\*\* See the description of this weapon for special rules.
+\*\*\* 此武器的特别规则见武器描述。
 
-#### Handguns
+#### 手枪
 
-A handgun is a personal firearm that can be used one-handed without penalty. This includes all pistols and some submachine guns and shotguns. All handguns require the Personal Firearms Proficiency feat. Using a handgun without this feat imposes a –4 penalty on attack rolls.
+手枪是可以无惩罚单手使用的单兵火器。它包括了所有的自动半自动手枪以及部分冲锋手枪和霰弹枪。所有的手枪都要求`擅长单兵火器`专长。无此专长的角色使用手枪，攻击骰会有4点减值。
 
-Handguns can be broken down into three smaller groups: autoloaders, revolvers, and machine pistols.
+手枪可分为三小类：半自动、转轮和冲锋手枪。
 
-Autoloaders (sometimes called “automatics”) feature removable box magazines, and some models hold quite a lot of ammunition. They work by using the energy of a shot fired to throw back a slide, eject the shot’s shell casing, and scoop the next round into the chamber. They are more complex than revolvers, but nevertheless have become increasingly popular in the modern age.
+半自动手枪都有可替换的弹匣，有的型号还可以储存大量弹药。其工作原理是利用弹药发射的反冲能量将枪机向后推，同时完成抛壳、上膛、复进的动作。机制比转轮枪更复杂，但比转轮枪更流行。
 
-Revolvers are relatively simple firearms that store several rounds (usually six) in a revolving cylinder. As the trigger is pulled, the cylinder revolves to bring the next bullet in line with the barrel.
+转轮枪相对简单，用转轮型弹仓储存少量（通常是6发）弹药。扣动扳机时，转轮将旋转一格，让下一发子弹对准枪管。
 
-Machine pistols are automatic weapons small enough to be fired with one hand. Some are autoloader pistols modified to fire a burst of bullets in a single pull of the trigger, while others are modified submachine guns, cut down in size and weight to allow one-handed use.
+冲锋手枪指所有小到可以单手操作的全自动武器。有的是半自动手枪的改型，拥有扣动一次扳机发射多发弹药的点射模式，而有的是冲锋枪的改型，尺寸和重量都缩减到可以单手操作。
 
-Ranged weapons that use box magazines come with one full magazine.
+使用弹匣的武器都附赠一个装满的弹匣。
 
-##### Beretta 92F
+##### 伯莱塔 92F
 
-The standard service pistol of the United States military and many American law enforcement agencies.
+美国军队以及许多美国执法机关通行的标准现役手枪。
 
-##### Beretta 93R
+##### 伯莱塔 93R
 
-This close relative of the Beretta 92F looks like a large autoloader but can fire on automatic. It sports a fold-down grip in front of the trigger guard, an extendable steel shoulder stock that is attached to the butt of the pistol, and an extended magazine.
+这把伯莱塔92F的近亲外形像一把大号的92F，但能全自动射击。它的扳机护圈前有一个折叠握把，主握把尾部有一个枪托，还可安置加长型弹匣。
 
-This weapon features a three-round burst setting. When used with the Burst Fire feat, it fires only three bullets instead of five and can be used with only three bullets in the weapon. This setting does not grant the ability to make burst fire attacks without the Burst Fire feat; if a character uses the setting without the feat, he or she makes a normal attack, and the extra two bullets are wasted.
+它有一个三发点射模式。当运用`点射`专长时，它只会发射3发而不是5发子弹，且可在只剩三发子弹时发动。没有点射专长的角色无法以此模式发动点射，无点射专长的角色用点射模式攻击，相当于进行了一次普通攻击，并浪费掉多射出的两发子弹。
 
-##### Colt Double Eagle
+##### 柯尔特双鹰
 
-Based on the M1911 mechanism, this pistol is an updated civilian version that fires a 10mm round.
+这种手枪基于M1911的结构，是能发射10mm子弹的民用升级版。
 
-##### Colt M1911
+##### 柯尔特 M1911
 
-This .45 semiautomatic pistol was used by the United States military for decades until it was recently replaced by the Beretta 92F. Manufactured at three locations in the United States alone, the M1911 can be found all over the world, and is still in use in several other military forces.
+这种.45半自动手枪在美国军队中广泛使用，直到现在才被伯莱塔92F取代。M1911的三个产地都在美国，在全世界都能看到M1911的身影，这种枪至今仍被多国军队广泛采用。
 
-##### Colt Python
+##### 柯尔特巨蟒
 
-The Python has a well-deserved reputation for accuracy.  Due to its high quality of manufacture, the Colt Python is always considered a mastercraft weapon. As such, it grants a +1 bonus on attack rolls.
+柯尔特巨蟒的精度名扬天下。因其高品质制造工艺，柯尔特巨蟒在游戏中总是视为大师级工艺武器。所以它会为攻击骰提供1点加值。
 
-##### Derringer
+##### 德林杰
 
-This pistol breaks open at the breech like a double-barreled shotgun. The two-shot weapon has one barrel atop the other and is barely 5 inches long, making it easy to conceal.
+这种手枪像双筒霰弹枪一样，在后膛装弹。这种双发武器的枪管是纵向排列的，上枪管比下枪管长5寸，易于隐蔽。
 
-##### Desert Eagle
+##### 沙漠之鹰
 
-Manufactured by Israeli Military Industries, the Desert Eagle is the king of large-frame, heavy-caliber autoloaders. The version on Table: Ranged Weapons fires the massive .50 Action Express round. The Desert Eagle also comes in .357 Magnum and .44 Magnum models.
+以色列军工出品，沙漠之鹰在尺寸和口径上堪称手枪之王。`表：远程武器`中所示的沙漠之鹰只是.50AE子弹版。此外它还有.357马格南版和.44马格南版。
 
-##### Glock 17
+##### 格洛克 17
 
-The Glock is typical of 9mm self-loading pistols carried by many police officers and military personnel.
+格洛克是典型的9mm半自动手枪，为警官及军队勤务人员用枪。
 
-Due to its high quality of manufacture, the Glock 17 is always considered a mastercraft weapon. As such, it grants a +1 bonus on attack rolls.
+因其高品质制造工艺，格洛克17在游戏中总是视为大师级工艺武器。所以它会为攻击骰提供1点加值。
 
-##### Glock 20
+##### 格洛克 20
 
-This slightly larger version of the Glock 17 is chambered for the slightly more powerful 10mm round.
+这种手枪尺寸比格洛克17稍大，适用威力更大的10mm子弹。
 
-Due to its high quality of manufacture, the Glock 20 is always considered a mastercraft weapon. As such, it grants a +1 bonus on attack rolls.
+因其高品质制造工艺，格洛克20在游戏中总是视为大师级工艺武器。所以它会为攻击骰提供1点加值。
 
-##### MAC Ingram M10
+##### MAC 英格拉姆 M10
 
-No longer in production, about 10,000 of these small submachine guns were made and supplied to United States police forces, the U.S. Army, Cuba, and Peru. Light pressure on the trigger produces single shots, while increased pressure brings automatic fire.
+这种小型冲锋枪已停产，但仍有大约一万把服役于美国警察、美国军队、古巴和秘鲁。轻扣扳机为单发射击，重扣扳机为全自动射击。
 
-The M10 accepts a suppressor without modification.
+M10无需改装即可安装抑制器。
 
-##### Pathfinder
+##### 觅踪者
 
-The Pathfinder is a high-quality weapon used as a concealed backup weapon by police officers or for personal defense. The Pathfinder is typical of a number of short-barreled (3 inches) small-caliber revolvers.
+觅踪者是一种高品质手枪，警官常用于将其作为隐匿的副武器，民间也常用这种手枪自卫。觅踪者泛指整个觅踪者枪族，包括了一系列短管（3寸）小口径转轮手枪。
 
-##### Ruger Service-Six
+##### 鲁格现役6型
 
-This revolver, designed specifically for police use, fires the .38 Special round. It was very popular with United States police forces prior to the increasing use of autoloaders in recent decades, and is still in service with many police forces today.
+这种转轮手枪专为警用设计，发射.38特种枪弹。尽管现在用半自动手枪的越来越多，鲁格现役6型仍广受美国警察喜爱，广泛列装。
 
-##### S&W M29
+##### 史密斯威森 M29
 
-The Smith & Wesson Model 29 .44 Magnum revolver fires one of the most powerful pistol cartridges in the world. The M29 is known for its deafening sound, bright muzzle flash, and powerful recoil.
+史密斯威森M29使用.44马格南弹，后者是世界上威力最大的手枪弹之一。M29因其震耳欲聋的响声、眩目的火光和强劲的后座力闻名。
 
-##### SITES M9 Resolver
+##### 塞茨M9“解决者”
 
-The compact SITES weapon is very narrow, making it easy to conceal.
+结构紧凑的塞茨手枪非常袖珍，易于隐藏。
 
-##### Skorpion
+##### 蝎式冲锋枪
 
-The CZ61 Skorpion is a Czech machine pistol seen increasingly in the West since the collapse of the Soviet Union. Originally intended for military vehicle crews who don’t have space for an unwieldy longarm, it was widely distributed to Communist countries and in central Africa, and can now be found anywhere in the world.
+CZ61蝎式是一款捷克产冲锋枪，苏联解体后，此枪在西方越来越常见。蝎式最初是载具车组人员使用的武器，车内狭小的空间里，笨重的长杆枪难以使用。这种枪过去只在社会主义国家与中非共和国列装，现在全世界都能看到它的身影。
 
 ##### TEC-9
 
-The Intratec TEC-9 is an inexpensive machine pistol popular with criminals because it can be modified (Repair check DC 15) to fire on automatic. The pistol only works on semiautomatic fire or, if modified, only on automatic. Once modified to fire on automatic, the TEC-9 cannot be changed back to semiautomatic.
+英特拉泰克公司生产的TEC-9是一款平价冲锋手枪，因其能改装（修理检定DC15）出全自动模式深受犯罪分子喜爱。这种手枪只能使用半自动模式，改装后，只能使用全自动模式。TEC-9一旦改装成全自动手枪便不能再改回半自动。
 
-##### Walther PPK
+##### 瓦尔特 PPK
 
-The PPK is a small, simple, and reliable autoloader with a design that dates back to the 1930s. It remains in widespread service among European police, military, and government agencies.
+PPK诞生于20世纪30年代，是一款小巧、简单、可靠性高的半自动手枪。它至今仍是欧洲警察、军队、政府机关的现役佩枪。
 
-#### Longarms
+#### 长杆枪
 
-Longarms are personal firearms that require two hands to be fired without penalty. This group includes hunting and sniping rifles, assault rifles, shotguns, and most submachine guns.
+长杆枪是一类必须双手操持才能不受惩罚地使用的单兵火器。这类枪包括了狩猎步枪、狙击步枪、突击步枪、霰弹枪以及大多数冲锋枪。
 
-The basic longarm is the rifle, a group that includes both hunting rifles and sniper rifles. Most rifles are autoloaders, and they function internally in a manner very similar to autoloader pistols. Some models are operated manually, however, with the user having to work a bolt or lever between each shot. Assault rifles are rifles designed for military use and feature automatic as well as semiautomatic fire.
+最基本的长杆枪是步枪，这一门类包括了狩猎步枪和狙击步枪。大多数步枪是半自动的，内部运作机制与半自动手枪极为相似。有的型号的步枪是手动步枪，使用者在每次射击之间手动装弹或上膛。突击步枪是同时拥有半自动和全自动发射模式的军用步枪。
 
-Shotguns are large-bore weapons that primarily fire shells full of small projectiles. They tend to be powerful, but only at short range. Reduce shotgun damage by 1 point for every range increment of the attack.
+霰弹枪是以喷射大量细小弹片为主的大口径武器。它们威力更大，但射程较短。攻击的距离每过一个射程跨度，伤害-1。
 
-Submachine guns are relatively compact longarms that generally fire pistol ammunition. They can fire on automatic.
+冲锋枪是发射手枪弹的，更小巧的一类长杆枪。它们能全自动发射。
 
-All longarms are covered by the Personal Firearms Proficiency feat.
+所有的长杆枪都要求`擅长单兵火器`专长。
 
-Longarms are not well suited to close combat. A character takes a –4 penalty on the attack roll when firing at an adjacent target.
+长杆枪不适用于近身战斗。射击邻近目标时，攻击骰会有4点减值。
 
 ##### AKM/AK-47
 
-This assault rifle of the old Soviet Union is one of the most popular firearms in the world, having found common use in scores of bush wars and insurrections—on all sides of such conflicts. The AKM is a slightly more modern version of the AK-47, but functions essentially the same.
+这款前苏联突击步枪是世界上最流行的枪械，丛林游击、武装暴动，交战的各势力都在用它。AKM是AK-47的现代版，但内部机制大同小异。
 
-##### Barrett Light Fifty
+##### 巴雷特“轻50”M82A1
 
-The heavy but rugged Light Fifty is an incredibly powerful weapon for its size. Although it’s a sniper rifle, it fires a .50-caliber machine gun bullet, a round much more powerful than any other rifle ammunition.
+笨重而粗犷的轻50体小而力大。虽然是狙击步枪，它使用的却是.50口径的机枪弹，威力比其他的狙击枪弹更大。
 
-##### Benelli 121 M1
+##### 贝纳利 121 M1
 
-The Benelli 121 M1 semiautomatic shotgun is reliable, simple, and sturdy, with one of the fastest shotgun actions in the world. Many military and law enforcement agencies use this or similar weapons.
+贝纳利121 M1半自动霰弹枪可靠、简单、强悍，世界上连射速度最快的霰弹枪之一。许多军队和执法部门都在使用这款或相近型号的霰弹枪。
 
-##### Beretta M3P
+##### 伯莱塔 M3P
 
-Designed for police and security work, the M3P can fire either single shots or on semiautomatic. The M3P comes equipped with a tubular steel stock that folds over the top of the weapon to form a carrying handle, and its ammunition feeds from a box magazine—an uncommon feature in a shotgun.
+M3P适合警察与安保人员，可手动可半自动。M3P枪管上方有一个铁管作为握把，与其他霰弹枪不同的是M3P使用弹匣供弹。
 
-##### Browning BPS
+##### 勃朗宁 BPS
 
-This heavy longarm fires the largest shotgun round available, the 10-gauge shell.
+这种重型长杆枪使用的是最大号的霰弹枪弹——10号霰弹。
 
 ##### HK G3
 
-The G3 fires the powerful 7.62mm cartridge, a round used in many light machine guns but increasingly uncommon in assault rifles. At one time, over sixty of the world’s armies used this rifle.
+G3发射威力强劲的7.62mm子弹，发射这种子弹的突击步枪越来越少了，这种子弹多用于轻机枪。一度有超过60个国家军队在使用这种步枪。
 
 ##### HK MP5
 
-The Heckler & Koch MP5 family of weapons is among the most recognizable in the world. Many different designs exist; dexscribed here is the most basic model.
+黑克勒科赫MP5枪族在世界上可谓家喻户晓。MP5有许多不同的改型，本条所述的是最基本款。
 
-Due to its high quality of manufacture, the MP5 is always considered a mastercraft weapon. As such, it grants a +1 bonus on attack rolls.
+因其高品质制造工艺，MP5在游戏中总是视为大师级工艺武器。所以它会为攻击骰提供1点加值。
 
-This weapon features a three-round burst setting. When used with the Burst Fire feat, it fires only three bullets instead of five and can be used with only three bullets in the weapon. This setting does not grant the ability to make burst fire attacks without the Burst Fire feat; if a character uses the setting without the feat, he or she makes a normal attack, and the extra two bullets are wasted.
+它有一个三发点射模式。当运用`点射`专长时，它只会发射3发而不是5发子弹，且可在只剩三发子弹时发动。没有点射专长的角色无法以此模式发动点射，无点射专长的角色用点射模式攻击，相当于进行了一次普通攻击，并浪费掉多射出的两发子弹。
 
 ##### HK MP5K
 
-A radically shortened version of the MP5, this weapon is optimized to be concealable. The steps taken to reduce the weapon’s size and weight negate the benefits of the parent weapon’s extraordinary quality, and as a result the MP5K is not a mastercraft weapon.
+极短版MP5，此枪专为隐蔽而设计。MP5K为了裁减尺寸与重量牺牲了精密度，所以MP5K不是大师级工艺武器。
 
-Although it comes with a 15-round magazine, the MP5K can also accept the same 30-round magazine as the MP5 (use of the larger magazine increases the weapon’s size to Large, though).
+虽然MP5K标配的弹匣是15发弹容，但它也能安装MP5的30发弹匣（而使用大弹匣的MP5K的体积为大型）。
 
-This weapon features a three-round burst setting. When used with the Burst Fire feat, it fires only three bullets instead of five and can be used with only three bullets in the weapon. This setting does not grant the ability to make burst fire attacks without the Burst Fire feat; if a character uses the setting without the feat, he or she makes a normal attack, and the extra two bullets are wasted.
+它有一个三发点射模式。当运用`点射`专长时，它只会发射3发而不是5发子弹，且可在只剩三发子弹时发动。没有点射专长的角色无法以此模式发动点射，无点射专长的角色用点射模式攻击，相当于进行了一次普通攻击，并浪费掉多射出的两发子弹。
 
 ##### HK PSG1
 
-This high-precision sniper rifle, based on the design of the HK G3, has a fully adjustable trigger and stock for individual users. The PSG1 comes with a standard scope.
+这种高精度的狙击步枪基于HK G3而设计，拥有可调整扳机和枪托。PSG1原装有一个标准的瞄准镜。
 
-Due to its high quality of manufacture, the PSG1 is always considered a mastercraft weapon. As such, it grants a +1 bonus on attack rolls.
+因其高品质制造工艺，PSG1在游戏中总是视为大师级工艺武器。所以它会为攻击骰提供1点加值。
 
 ##### M16A2
 
-Typical of the assault rifles used by militaries around the world, the Colt M16A2 is the current service rifle of the United States military, and is common with other armies and in the civilian world.
+柯尔特M16A2是遍布世界的军队标配，它既是美国军队的标配步枪，也普遍地被其他国家的军队所使用。
 
-This weapon features a three-round burst setting. When used with the Burst Fire feat, it fires only three bullets instead of five and can be used with only three bullets in the weapon. This setting does not grant the ability to make burst fire attacks without the Burst Fire feat; if a character uses the setting without the feat, he or she makes a normal attack, and the extra two bullets are wasted.
+它有一个三发点射模式。当运用`点射`专长时，它只会发射3发而不是5发子弹，且可在只剩三发子弹时发动。没有点射专长的角色无法以此模式发动点射，无点射专长的角色用点射模式攻击，相当于进行了一次普通攻击，并浪费掉多射出的两发子弹。
 
-##### M4 Carbine
+##### M4 卡宾枪
 
-This is a cut-down version of the Colt M16A2, shortened by about a third by means of a telescoping stock and a shorter barrel.
+这是缩短版的柯尔特M16A2，通过压缩枪托和枪管使全长缩短了近三分之一。
 
 ##### M-60
 
-Introduced in the Vietnam War era, this medium machine gun is still in widespread use with the U.S. military and that of several other armies.
+越战时期的中型机枪，如今在美国仍旧流行。比如军队及其他部队。
 
-##### Mossberg
+##### 莫斯伯格
 
-The Mossberg Model 500 ATP6C is a pump-action shotgun designed for military and police work.
+莫斯伯格500系列ATP6C是一款为军队和警察设计的泵动式霰弹枪。
 
-##### Remington 700
+##### 雷明顿 700
 
-A bolt-action rifle with a reputation for accuracy, the Remington 700 has been popular with hunters and target shooters since its introduction in the 1940s.
+雷明顿700是一款以高精度著称的栓动步枪，20世纪40年代问世以来广泛用于狩猎和标靶射击。
 
-##### Sawed-Off Shotgun
+##### 锯短霰弹枪
 
-This is a 12-gauge, double-barreled shotgun with the stock and barrels sawed short. All that’s left of the stock is a pistol grip, and the barrels are roughly 12 inches long. Sawed-off shotguns are generally illegal; most are homemade by cutting down a standard shotgun.
+这种使用12号霰弹的双管霰弹枪锯短了枪管和枪托。枪托完全锯掉，只剩一个手枪式的握把，枪管只有约12寸长。锯短霰弹枪一般是非法改装；大多是将标准霰弹枪私改而成。
 
-If this weapon if fully-loaded, a character can fire both barrels at once.  The character receives a –2 penalty on the attack but deals +1 die of damage with a successful hit.  Attacking this way uses both shotgun shells.
+此武器装满弹药后，可以一次将两个枪管的弹药同时发射。角色攻击骰获得2点减值，若攻击成功，伤害骰将获得1点加值。用这种方式发射会把两发子弹都消耗掉。
 
-##### Steyr AUG
+##### 施泰尔 AUG
 
-An unusual and exotic-looking weapon, the bullpup AUG is the standard rifle of the Austrian and Australian armies. Its completely ambidextrous components make it equally convenient for left- and right-handed users, and it features a built-in optical sight.
+AUG的无托式结构长相怪异，标新立异，但却是奥地利和澳大利亚军队的标准用枪。完全对称的设计让左撇子和右撇子用枪都有相同的体验，它还内置了一副光学瞄具。
 
-This weapon features a three-round burst setting. When used with the Burst Fire feat, it fires only three bullets instead of five and can be used with only three bullets in the weapon. This setting does not grant the ability to make burst fire attacks without the Burst Fire feat; if a character uses the setting without the feat, he or she makes a normal attack, and the extra two bullets are wasted.
+它有一个三发点射模式。当运用`点射`专长时，它只会发射3发而不是5发子弹，且可在只剩三发子弹时发动。没有点射专长的角色无法以此模式发动点射，无点射专长的角色用点射模式攻击，相当于进行了一次普通攻击，并浪费掉多射出的两发子弹。
 
-##### Uzi
+##### 乌兹冲锋枪
 
-Designed in the 1950s for the Israeli army, the Uzi has become the most popular submachine gun in the world. It features a collapsible stock, making it extremely compact.
+乌兹冲锋枪是20世纪50年代为以色列军队设计的武器，现在是世界上最流行的冲锋枪。它自带折叠枪托，极度紧凑。
 
-##### Winchester 94
+##### 温彻斯特 94
 
-The Winchester Model 94 Big Bore is a lever-action rifle typical of big-bore hunting rifles found around the world.
+温彻斯特M94是一款大口径杠杆猎枪，全世界都能见到。
 
-#### Heavy Weapons
+#### 重武器
 
-The weapons covered in this section fall under the Exotic Firearms Proficiency feat. Someone who wields a heavy weapon without the appropriate proficiency takes a –4 penalty on all attack rolls with the weapon.
+这一节所列的武器都需要对应武器的`擅长异种火器`专长。无对应此武器的专长的角色使用此武器，攻击骰将受到4点减值。
 
 ##### M2HB
 
-This heavy-duty .50-caliber machine gun has been in service since World War II, and remains a very common vehicle-mounted military weapon around the world. The Exotic Firearms Proficiency (heavy machine guns) feat applies to this weapon.
+这种.50口径的重型机枪从二战时便开始服役，如今仍是非常常见的军用车载武器。此武器要求`擅长异种武器（重机枪）`专长。
 
 ##### M72A3 LAW
 
-The LAW (light antitank weapon) is a disposable, one-shot rocket launcher. It comes as a short, telescoped fiberglass and aluminum tube. Before using the weapon, the firer must first arm and extend the tube, which is a move action.
+LAW（轻型反坦克武器）是一种一次性使用的火箭筒。它就是一个玻璃纤维的管子套在铝制管子里。在使用武器前，发射者必须先举起并展开武器，这是一个移动动作。
 
-When the LAW hits its target, it explodes like a grenade or other explosive, dealing its 10d6 points of damage to all creatures within a 10-foot radius (Reflex save DC 18 for half damage). Because its explosive features a shaped charge designed to penetrate the armor of military vehicles, the LAW ignores up to 10 points of hardness if it strikes a vehicle, building, or object. However, this only applies to the target struck, not to other objects within the burst radius.
+当LAW击中目标，它将会像榴弹或其他爆炸物一样爆炸，给半径为10尺的区域的所有生物造成10d6的伤害（可进行DC18的反射豁免以使伤害减半）。因为它是为了穿甲而设计成锥形装药，LAW在击中载具、建筑物或其他物体时会无视10点硬度。但这只对正中的目标生效，爆炸范围波及的其他目标无效。
 
-The M72 has a minimum range of 30 feet. If fired against a target closer than 30 feet away, it does not arm and will not explode.
+M72最低射程为30尺。如果对30尺内的目标发射，它不会击发更不会爆炸。
 
-The Exotic Firearms Proficiency (rocket launchers) feat applies to this weapon.
+此武器要求`擅长异种武器（火箭筒）`专长。
 
 ##### M79
 
-This simple weapon is a single-shot grenade launcher. It fires 40mm grenades (see under Grenades and Explosives, below). These grenades look like huge bullets an inch and a half across; they can’t be used as hand grenades, and the M79 can’t shoot hand grenades.
+这种简单武器是一种一次性榴弹发射器。它可发射40mm的榴弹（见下文，榴弹与爆炸物）。这些榴弹长得像口径一寸半的超大号的子弹，不能作为手榴弹使用，M79也不能发射手榴弹。
 
-Attacking with an M79 is identical to throwing an explosive: you make a ranged attack against a specific 5-foot square (instead of targeting a person or creature). The differences between using the M79 and throwing an explosive lie in the range of the weapon (which far exceeds the distance a hand grenade can be thrown) and the fact that the M79 requires a weapon proficiency to operate without penalty.
+使用M79攻击相当于将爆炸物投掷出去：是以一个5尺方格为目标（而不是以人或生物为目标）。使用M79与直接投掷爆炸物的区别在于射程（榴弹发射器能射得更远），当然，要拥有对应的专长才能无惩罚使用M79。
 
-The Exotic Firearms Proficiency (grenade launchers) feat applies to this weapon.
+此武器要求`擅长异种武器（榴弹发射器）`专长。
 
-#### Other Ranged Weapons
+#### 其他远程武器
 
-Ranged weapons that are not firearms include such diverse objects as crossbows, tasers, and pepper spray. The feat that provides proficiency with these weapons varies from weapon to weapon, as indicated on Table: Ranged Weapons.
+非火器远程武器包括各种弓弩、电击枪、辣椒喷雾器。每一种武器要求的精通专长都不一样，如表：远程武器所示。
 
-##### Compound Bow
+##### 复合弓
 
-Bow hunting remains a popular sport in North America. A character’s Strength modifier applies to damage rolls made when using this weapon.
+弓箭狩猎在北美仍是一个流行的运动。使用此武器时，角色的力量调整值将应用于伤害骰。
 
-##### Crossbow
+##### 弩
 
-A crossbow requires two hands to use. Pulling a lever draws the bow. Loading a crossbow is a move action that provokes attacks of opportunity.
+弩必须双手操作。拉动杠杆来张开弩。装载弩矢是一个移动动作，且会引发借机攻击。
 
-##### Flamethrower
+##### 火焰喷射器
 
-A flamethrower consists of a pressurized backpack containing fuel, connected to a tube with a nozzle. It shoots a 5-foot-wide, 30-foot-long line of flame that deals 3d6 points of fire damage to all creatures and objects in its path. No attack roll is necessary, and thus no feat is needed to operate the weapon effectively. Any creature caught in the line of flame can make a Reflex save (DC 15) to take half damage. Creatures with cover get a bonus on their Reflex save.
+火焰喷射器由一个装着燃料的高压背包组成，用一个管子连者喷嘴。它会射出一条5尺宽、30尺长的火焰，给所到之处的所有生物和物体造成3d6点火焰伤害。不需要掷攻击骰，所以也不要求有什么专长来操作。被火焰击中的生物都可以做一个反射豁免（DC15）使伤害减半。在掩体后的生物的反射豁免会得到一个加值。
 
-A flamethrower’s backpack has hardness 5 and 5 hit points. When worn, the backpack has a Defense equal to 9 + the wearer’s Dexterity modifier + the wearer’s class bonus. A backpack reduced to 0 hit points ruptures and explodes, dealing 6d6 points of fire damage to the wearer (no save allowed) and 3d6 points of splash damage to creatures and objects in adjacent 5-foot squares (Reflex save, DC 15, for half damage).
+发射者的背包有5点硬度和5点生命值。穿戴后，背包的防御值等于9+穿戴者敏捷调整值+穿戴者职业加值。背包的生命值减至0将会破裂并爆炸，给穿戴者造成6d6点火焰伤害（无法豁免），并给邻近的5尺以内所有的方格上的生物和物体造成3d6点溅射伤害（反射豁免，DC15，可使伤害减半）。
 
-Any creature or flammable object that takes damage from a flamethrower catches on fire, taking 1d6 points of fire damage each subsequent round until the flames are extinguished. A fire engulfing a single creature or object can be doused or smothered as a full-round action. Discharging a fire extinguisher is a move action and instantly smothers flames in a 10-foot-by-10-foot area.
+任何被伤害到的生物或可燃物将会着火，接下来的每一轮都要受到1d6点火焰伤害，直到火焰熄灭。单个生物身上的火焰可以用一个整轮动作浇灭或扑灭。开启灭火器是一个移动动作，可持续熄灭10尺×10尺范围的火焰。
 
-A flamethrower can shoot 10 times before the fuel supply is depleted. Refilling or replacing a fuel pack has a purchase DC of 13.
+火焰喷射器射击10次就必须补充燃料。补充或替换燃料罐需要13点购买DC。
 
-##### Javelin
+##### 标枪
 
-This light, flexible spear built for throwing can be used in melee, but since it’s not designed for it, characters using it in this manner are always considered nonproficient and take a –4 penalty on their melee attack rolls.
+这种轻便灵活的标枪，可投掷可近战，但由于标枪并不是转为近战而设计，角色用近战的方式来攻击总是视为`不擅长`，近战时攻击骰总是会受到4点减值。
 
-##### Pepper Spray
+##### 辣椒喷雾器
 
-A chemical irritant that can temporarily blind a target, pepper spray comes in a single-shot container. To use it, make a ranged touch attack against the target. The target must make a Fortitude saving throw (DC 15) or be blinded for 1d4 rounds.  Pepper spray is limited to 5 range increments.
+辣椒喷雾器是一种化学刺激物，可以使目标短暂失明，一罐的用量只够使用一次。攻击方式是对目标进行一次远程的接触攻击。目标必须做一个强韧豁免（DC15），失败则目盲1d4轮。辣椒喷雾器的射程只有一个射程跨度，即5尺。
 
-##### Shuriken
+##### 手里剑
 
-A shuriken is a thrown, star-shaped projectile with four to eight razor-sharp points. A character may draw a shuriken as a free action.
+手里剑是星形的投掷武器，有4到8个带刃的尖端。角色可用一个即时动作投掷手里剑。
 
-##### Taser
+##### 电击枪
 
-A taser uses springs or compressed air to fire a pair of darts at a target. On impact, the darts release a powerful electrical current. On a successful hit, the darts deal 1d4 points of electricity damage and the target must make a Fortitude saving throw (DC 15) or be paralyzed for 1d6 rounds. Reloading a taser is a full-round action that provokes attacks of opportunity.
+电击枪用弹簧或气压来向目标发射一对电极。击中目标时，电极将释放一股高压电流。成功击中时，电极将造成1d4点电能伤害，目标必须进行一次强韧豁免（DC15），失败则麻痹1d6轮。装填电击枪是一个整轮动作，且会引发借机攻击。
 
-##### Whip
+##### 鞭子
 
-Whips deal a small amount of lethal damage. Although a character doesn’t “fire” the weapon, treat a whip as a ranged weapon with a maximum range of 15 feet and no range penalties.
+鞭子会造成少量的致命伤害。虽然武器不是“发射”出来的，鞭子仍算作远程武器，最大射程为15尺，且无射程惩罚。
 
-Because a whip can wrap around an enemy’s leg or other limb, a character can make a trip attack with it by succeeding at a ranged touch attack. The character does not provoke an attack of opportunity when using a whip in this way. If the character is tripped during his or her own trip attempt, the character can drop the whip to avoid being tripped.
+因为鞭子可以缠绕敌人的脚或其他肢体，角色可以在远程接触攻击成功后进行绊摔攻击。用这种方式进行攻击时，角色不会引发借机攻击。如果角色绊摔时自己反被绊摔了，角色可以扔掉鞭子以避免。
 
-When using a whip, a character gets a +2 bonus on your opposed attack roll when attempting to disarm an opponent (including the roll to keep from being disarmed if the character fails to disarm the opponent).
+当试图使用鞭子来卸除对手的武器时，角色的对抗攻击骰会受到2点加值（如果角色卸除对手武器失败，对对方卸除自己武器的对抗检定也有2点加值）。
 
-#### Ammunition
+#### 弹药
 
-Ammunition for firearms and other ranged weapons is covered on Table: Ammunition.
+火器以及其他远程武器的弹药见表：弹药。
 
-Table: Ammunition
+表：弹药
 
-|Ammunition Type (Quantity)|Purchase DC|
+|弹药类型（一个购买检定所买的量）|购买 DC|
 |--------------------------|:---------:|
-|5.56mm (20)|4|
-|7.62mm (20)|4|
-|7.62mmR (20)|4|
-|.444 caliber (20)|6|
-|.50 caliber (20)|6|
-|9mm (50)|5|
-|10mm (50)|5|
-|.22 caliber (50)|4|
-|.32 caliber (50)|5|
-|.38 special (50)|5|
-|.357 caliber (50)|5|
-|.44 caliber (50)|5|
-|.45 caliber (50)|5|
-|.50AE caliber (50)|6|
-|10-gauge buckshot (10)|5|
-|12-gauge buckshot (10)|4|
-|Arrow (12)|8|
-|Crossbow bolt (12)|7|
+|5.56mm （20）|4|
+|7.62mm （20）|4|
+|7.62mmR （20）|4|
+|.444 英寸口径 （20）|6|
+|.50 英寸口径  （20）|6|
+|9mm （50）|5|
+|10mm （50）|5|
+|.22 英寸口径  （50）|4|
+|.32 英寸口径  （50）|5|
+|.38 英寸口径  （50）|5|
+|.357 英寸口径  (50)|5|
+|.44 英寸口径  （50）|5|
+|.45 英寸口径  （50）|5|
+|.50AE 英寸口径 （50）|6|
+|10号鹿弹 （10）10|5|
+|12号鹿弹 （10）|4|
+|箭 （12）|8|
+|弩箭 （12）|7|
 
-##### 5.56mm, 7.62mm, 7.62mmR, .444, .50
+##### 5.56mm、7.62mm、7.62mmR、.444、.50
 
-These calibers of ammunition are generally used in rifles, assault rifles, or machine guns, and are sold in boxes of 20 bullets each. The 7.62mmR is used in the AKM and other ex-Soviet weapon types, and is not compatible with the larger 7.62mm cartridge. The .50 caliber is a huge cartridge generally fired from heavy machine guns, but also adapted to a few models of powerful sniper rifles.
+这几种口径的弹药一般用于步枪、突击步枪以及机枪，按20发一盒装卖。7.62mmR用于AKM以及其他前苏联武器，不兼容西方的7.62mm弹药。.50大口径弹药一般用于重机枪，也适用于少数几种大威力狙击枪。
 
-##### 9mm, 10mm, .22, .32, .38 S, .357, .44, .45, .50AE
+##### 9mm、10mm、.22、.32、.38 S、.357、.44、.45、.50AE
 
-These calibers are generally used in pistols or submachine guns, and are sold in boxes of 50 bullets each. The .50AE pistol round is not compatible with the much larger .50 rifle-caliber cartridge (see above).
+这几种口径的弹药一般用于手枪以及冲锋枪，按50发一盒装卖。.50AE圆头手枪弹不兼容.50步枪弹（理由同上）。
 
-##### 10-gauge Buckshot, 12-gauge Buckshot
+##### 10号鹿弹、12号鹿弹
 
-Shotgun cartridges, also known as buckshot, are sold in boxes of ten.
+霰弹枪弹药，也称为鹿弹，按10发一盒装卖。
 
-##### Arrow
+##### 箭
 
-Arrows come in quivers of 12 and are used with the compound bow and other types of archery weapons. These missile weapons consist of a slender shaft and a pointed head.
+箭在游戏中是作为一袋12只装的箭袋存在，用于复合弓以及其他弓箭类武器。一枚这种弹药由长长的箭柄和锋利的箭头组成。
 
-##### Crossbow Bolt
+##### 弩箭
 
-A shaft or missile designed to be shot from a crossbow, bolts come in quivers of 12.
+弩箭用于弩，在游戏中作为一袋12只装的弩箭袋存在。
 
-##### Ammunition weight
+##### 弹药重量
 
-To determine how much a loaded magazine weighs, look it up on the table, rounding the number of rounds in the magazine up.
+装满的弹匣全重为多少，详见下表，向上取整。
 
-Shotgun shells are a little heavier; use the weight value for one damage step higher.
+霰弹要稍微重一点，重量相当于更高一级伤害对应的重量。
 
-|Damage\\Weight per Number of Rounds|10|20|30|40|50|100|
+|伤害\\弹药数量对应的重量|10|20|30|40|50|100|
 |------------------------------|:-:|:-:|:-:|:-:|:-:|:-:|
-|2d4|0.5lb|0.5lb|0.5lb|0.5lb|1.0lb|1.5lb|
-|2d6|0.5lb|0.5lb|0.5lb|1.0lb|1.0lb|2.0lb|
-|2d8|0.5lb|0.5lb|0.5lb|1.0lb|1.0lb|2.0lb|
-|2d10|0.5lb|1.0lb|1.0lb|1.5lb|1.5lb|3.0lb|
-|2d12|1.0lb|2.0lb|3.0lb|4.0lb|5.0lb|10.0lb|
+|2d4|0.5磅|0.5磅|0.5磅|0.5磅|1.0磅|1.5磅|
+|2d6|0.5磅|0.5磅|0.5磅|1.0磅|1.0磅|2.0磅|
+|2d8|0.5磅|0.5磅|0.5磅|1.0磅|1.0磅|2.0磅|
+|2d10|0.5磅|1.0磅|1.0磅|1.5磅|1.5磅|3.0磅|
+|2d12|1.0磅|2.0磅|3.0磅|4.0磅|5.0磅|10.0磅|
 
-### Explosives and Splash Weapons
+### 爆炸物与溅射武器
 
-These weapons explode or burst, dealing damage to creatures or objects within an area.
+这些武器以爆炸或喷射的形式攻击，对特定范围内的生物或物体造成伤害。
 
-Explosives can be thrown or set off in place, depending on the type of explosive device. Dynamite and hand grenades are examples of these weapons.
+根据爆炸装置的类型，爆炸物可投掷或在指定地点引爆。比如炸药要引爆，手榴弹要投掷。
 
-All explosives must be detonated. Some, such as grenades, include built-in detonators. (Pulling the pin on a grenade is a free action.) Others require timers or other devices to set them off. Detonators are covered in Weapon Accessories.
+所有的爆炸物必须被触发才能爆炸。一些爆炸物的起爆器是内置的，比如手榴弹。（拔掉手榴弹的保险是一个即时动作。）其他的则需要计时器或其他装置来引爆。起爆器在武器附件一节列举。
 
-A splash weapon is a projectile that bursts on impact, spewing its contents over an area and damaging any creature or object within that area. Generally, creatures directly hit by splash weapons take the most damage, while those nearby take less damage. Splash weapons usually must be thrown to have effect.
+溅射武器指的是在撞击时爆发的抛射物，溅射波及一片区域，并伤害区域内的所有生物或物体。通常来说，被溅射武器直接命中的生物承受最严重的伤害，邻近的其他目标承受更少的伤害。溅射武器一般要投掷出去才会生效。
 
-Explosives and splash weapons require no feat to use with proficiency unless they are fired or propelled from some sort of launcher or other device, in which case the appropriate Weapon Proficiency feat for the launcher is necessary to avoid the –4 nonproficient penalty.
+爆炸物和溅射武器不需要`擅长专长`，除非它是由发射器或其他装置辅助发射的，后者要求拥有发射器相关的`擅长专长`以免受4点`不擅长`惩罚。
 
-#### Explosives and Splash Weapons Table
+#### 爆炸物与溅射武器表
 
-Explosives and splash weapons are described by a number of statistics, as shown on Table: Explosives and Splash Weapons.
+爆炸物与溅射武器有各种属性，见表：爆炸物与溅射武器。
 
-**Damage/Direct Hit Damage:** The primary damage dealt by the weapon. For explosives, the Damage column shows the damage dealt to all creatures within the explosive’s burst radius. For splash weapons, the Direct Hit Damage column is used for a target directly struck by the weapon.
+**伤害/直接伤害：** 武器造成的首次伤害。对于爆炸物而言，伤害指的是爆炸半径内所有生物受到的伤害。对于溅射武器而言，直接伤害指的是被武器直接击中所造成的伤害。
 
-**Burst Radius/Splash Damage:** For explosives, the burst radius is the area affected by the explosive. All creatures or objects within the burst radius take damage from the explosive.
+**爆炸半径/溅射伤害：** 对于爆炸物而言，爆炸半径决定了爆炸的区域。爆炸半径内所有生物或物体都将受到爆炸伤害。
 
-For splash weapons, all creatures within 5 feet of the weapon’s impact point take splash damage equal to the amount shown in this column.
+对于溅射武器，击中位置5尺内所有生物都受到溅射伤害。
 
-**Damage Type:** Damage from explosives and splash weapons is classified according to type: energy (of a specific type) or slashing. Some creatures or characters may be resistant or immune to some forms of damage.
+**伤害类型：** 爆炸和溅射武器伤害分为几个类型：（特定类型的）能量或劈砍。一些生物或角色能抵抗甚至免疫某些类型的伤害。
 
-**Critical:** The threat range for a critical hit. If the threat is confirmed, a weapon deals double damage on a critical hit (roll damage twice, as if hitting the target two times).
+**重击：** 重击威胁区间。重击威胁发生时，武器重击，造成两次伤害（即掷伤害骰两次，视为两次击中目标）。
 
-**Reflex DC:** Any creature caught within the burst radius of an explosive may make a Reflex save against the DC given in this column for half damage.
+**反射DC：** 爆炸半径覆盖到的所有生物的反射豁免的DC，豁免成功可使伤害减半。
 
-**Range Increment:** If the weapon can be thrown, its range increment is shown in this column. Explosives with no range increment must be set in place before being detonated. (See the Demolitions skill)
+**射程跨度：** 如果武器可投掷，该列将有射程跨度。无射程跨度的爆炸物必须在引爆前安置在目的地。（见爆破技能）
 
-**Size:** Size categories for weapons and other objects are defined differently from the size categories for creatures. The relationship between a weapon’s size and that of its wielder defines whether it can be used one-handed, if it requires two hands, and if it’s a light weapon.
+**尺寸：** 武器与其他物品的尺寸范围定义与生物的体型定义不同。武器的尺寸与携带者体型的关系决定了武器是否可单手操作，是否需要双手操作，以及是否算作轻武器。
 
-A Medium-size or smaller weapon can be used one-handed or two-handed.
+普通及以下尺寸的武器能单手或双手操作。
 
-A Small or smaller weapon is considered a light weapon. It can be used one-handed and, as a light weapon, is easier to use in a character’s off hand.
+小型及以下的武器视为轻武器。轻武器可以单手使用，也更容易用副手操作。
 
-**Weight:** This column gives the weapon’s weight.
+**重量：** 此项为武器的重量。
 
-**Purchase DC:** This is the purchase DC for a Wealth check to acquire the weapon. This number reflects the base price and doesn’t include any modifier for purchasing the weapon on the black market.
+**购买 DC:** 获得此武器所需财富检定的购买DC。此值指基本价格，并未把黑市加值算在内。
 
-**Restriction:** The restriction rating for the weapon, if any, and the appropriate black market purchase DC modifier. Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the weapon on the black market.
+**限制级：** 武器的管制等级，如果有，还会列出相应的黑市购买DC调整值。记住一定要在黑市购买进行财富检定时加上这些调整值。
 
-Table: Explosives and Splash Weapons
+表：爆炸物与溅射武器
 
-**Grenades and Explosives**
+**榴弹与爆炸物**
 
-|Weapon|Damage|Critical|Damage Type|Burst Radius|Reflex DC|Range Increment|Size|Weight|Purchase DC|Restriction|
+|武器|伤害|重击|伤害类型|爆炸半径|反射 DC|射程跨度|尺寸|重量|购买 DC|限制级|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|40mm fragmentation grenade|3d6|—|Slashing|10 ft|15|—|Tiny|1 lb|16|Mil (+3)|
-|C4/Semtex|4d6|—|Concussion|10 ft|18|—|Small|1 lb|12|Mil (+3)|
-|Det cord|2d6|—|Fire|See text|12|—|Med|2 lb|8|Res (+2)|
-|Dynamite|2d6|—|Concussion|5 ft|15|10 ft|Tiny|1 lb|12|Lic (+1)|
-|Fragmentation grenade|4d6|—|Slashing|20 ft|15|10 ft|Tiny|1 lb|15|Mil (+3)|
-|Smoke grenade|—|—|—|See text|—|10 ft|Small|2 lb|10|—|
-|Tear gas grenade|See text|—|—|See text|—|10 ft|Small|2 lb|12|Res (+2)|
-|Thermite grenade|6d6|—|Fire|5 ft|12|10 ft|Small|2 lb|17|Mil (+3)|
-|White phosphorus grenade|2d6|—|Fire|20 ft|12|10 ft|Small|2 lb|15|Mil (+3)|
+|40mm破片榴弹|3d6|—|劈砍|10尺|15|—|超小型|1磅|16|军用（+3）|
+|C4/塞姆汀炸药|4d6|—|震荡|10尺|18|—|小型|1磅|12|军用（+3）|
+|引信|2d6|—|火焰|见下文|12|—|普通|2磅|8|管制（+2）|
+|炸药|2d6|—|震荡|5尺|15|10尺|超小型|1磅|12|执照（+1）|
+|破片手雷|4d6|—|劈砍|20尺|15|10尺|超小型|1磅|15|军用（+3）|
+|烟雾弹|—|—|—|见下文|—|10尺|小型|2磅|10|—|
+|催泪弹|见下文|—|—|见下文|—|10尺|小型|2磅|12|管制（+2）|
+|铝热弹|6d6|—|火焰|5尺|12|10尺|小型|2磅|17|军用（+3）|
+|白磷弹|2d6|—|火焰|20尺|12|10尺|小型|2磅|15|军用（+3）|
 
-**Splash Weapons**
+**溅射武器**
 
-|Weapon|Direct Hit Damage|Splash Damage|Critical\*\*|Damage Type|Reflex DC|Range Increment|Size|Weight|Purchase DC|Restriction|
+|武器|直接伤害|溅射伤害|重击\*\*|伤害类型|反射 DC|射程跨度|尺寸|重量|购买 DC|限制级|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Acid, mild|1d6|1|20|Acid|—|10 ft|Tiny|1 lb|6|—|
-|Molotov cocktail\* 1d6|1|20|Fire|—|10 ft|Small|1 lb|3|—||
+|弱酸|1d6|1|20|酸|—|10尺|超小型|1磅|6|—|
+|莫洛托夫鸡尾酒\*|1d6|1|20|火焰|—|10尺|小型|1磅|3|—|
 
-\* This weapon cannot be purchased as an item; the purchase DC given is for the weapon’s components.
+\* 这种武器不能作为成品购买；给出的购买DC是部件的总价。
 
-\*\* Threat range applies to direct hits only; splash damage does not threaten a critical hit.
+\*\* 重击威胁区间只对直接攻击有效；溅射伤害无重击。
 
-#### Grenades and Explosives
+#### 榴弹与爆炸物
 
-Many explosives require detonators, which are described in Weapon Accessories.
+许多爆炸物需要起爆器，武器附件里有描述。
 
-##### 40mm Fragmentation Grenade
+##### 40mm 破片榴弹
 
-This small explosive device must be fired from a 40mm grenade launcher, such as the M79. It sprays shrapnel in all directions when it explodes.
+这种小型爆炸物必须用40mm口径榴弹发射器发射，比如M79。它在爆炸时会向四面八方迸溅弹片。
 
-The 40mm fragmentation grenade has a minimum range of 40 feet. If fired against a target closer than 40 feet away, it does not arm and will not explode.
+40mm破片榴弹最低射程为40尺。如果对40尺内的目标发射，它不会击发更不会爆炸。
 
-The purchase DC given is for a box of 6 grenades.
+购买DC能够买6发的量。
 
-##### C4/Semtex
+##### C4/塞姆汀炸药
 
-So-called “plastic” explosives resemble slabs of wax. Hard and translucent when cold, these explosives warm up when kneaded, and then can be coaxed to take various shapes. The information on the table represents a 1-pound block. Additional blocks can be wired together, increasing the damage and burst radius; each additional block increases the damage by +2d6 and the burst radius by 2 feet, and requires a Demolitions check (DC 15) to link them.
+因其像蜡制的板条，所以也被称为“塑胶炸药”。它在低温下坚硬且半透明，经过揉捏后会发热，可塑成任何形状。表中的信息是以一磅的块为单位计算的。多块C4可连接起来，以增加伤害和爆炸半径；每多一磅，伤害增加2d6，爆炸半径增加2尺，连接需要一个爆破检定（DC15）。
 
-Although the damage statistics on the table represent a 1-pound block, C4 is sold in 4-block packages. The purchase DC given represents a package of 4 blocks.
+虽然表中的数据是一磅的，但C4是以一包4块的量出售的。购买DC能够买4块的量。
 
-C4/Semtex requires a detonator to set off. It is considered to be a moderate explosive for the purpose of using a Craft (chemical) check to manufacture it.
+C4/塞姆汀炸药需要起爆器来引爆。此操作视为制造一个中等爆炸物，要做一次制造（化学）检定来完成。
 
-##### Det Cord
+##### 引信
 
-Det cord is an explosive in a ropelike form. Technically, det cord doesn’t explode—but it burns so fast (4,000 yards per second) that it might as well be exploding. Normally used to string multiple explosive charges together for simultaneous detonation (allowing a single detonator to set them all off), det cord can also be looped around a tree or post or other object to cut it neatly in half.
+引信是绳索样的爆炸物。引信本身不会爆炸——但烧得很快（每秒12000尺），也有可能爆炸。通常可以将多个爆炸物的引信缠在一起（以便单个起爆器将它们同时引爆），也可以将引信缠绕在树、标杆或其他物体上，使其不至于过长。
 
-The information on the table represents a 50-foot length. A length of det cord can be spread out to pass through up to ten 5-foot squares. When this is the case, it deals the indicated damage to all creatures in each 5-foot square through which it passes.
+表中的信息是以50尺为单位计算的。也就是说一单位引信可以穿过10格距离。这种情况下，它会给途径的所有方格上的生物造成伤害。
 
-It can also be doubled up; for each additional 5 feet of cord within a single 5-foot square, increase the damage by +1d6 to a maximum increase of +4d6.
+引信可重叠在一个方块上，一格内每多一条引信，伤害增加1d6，伤害最多增加4d6。
 
-Det cord requires a detonator to set it off. It is considered to be a simple explosive for the purpose of using a Craft (chemical) check to manufacture it.
+引信需要起爆器来引爆。此操作视为制造一个简单爆炸物，要做一次制造（化学）检定来完成。
 
-##### Dynamite
+##### 炸药
 
-Perhaps one of the most common and straightforward explosives, dynamite is very stable under normal conditions. A stick of dynamite requires a fuse or detonator to set it off. Additional sticks can be set off at the same time if they are within the burst radius of the first stick, increasing the damage and burst radius of the explosion. Each additional stick increases the damage by +1d6 (maximum 10d6) and the burst radius by 5 feet (maximum 20 feet).
+炸药可能是最普遍最常用的爆炸物了，在一般情况下，炸药非常稳定。一根炸药需要一根导火索或起爆器引爆。爆炸波及到的其他炸药也会被引爆，这可增加爆炸伤害与半径。每多一根炸药增加1d6点伤害（最多增加10d6）爆炸半径增加5尺（最多20尺）。
 
-It’s possible to wire together several sticks of dynamite for even greater explosive effect. Doing so requires a Demolitions check (DC 10 + 1 per stick). If the character succeeds on the check, the damage or the burst radius of the explosion increases by 50% (the character’s choice).
+可以将几根炸药绑在一块以增加爆炸效果。这么做需要爆破检定（DC为10+炸药根数）。若检定成功，角色可选择增加50%伤害还是增加50%爆炸半径。
 
-Dynamite is sold in boxes of 12 sticks. It is considered to be a simple explosive for the purpose of using a Craft (chemical) check to manufacture it.
+炸药按12根一盒装卖。此操作视为制造一个简单爆炸物，要做一次制造（化学）检定来完成。
 
-To set off dynamite using a fuse, the fuse must first be lit, requiring a move action (and a lighter or other source of flame). The amount of time until the dynamite explodes depends on the length of the fuse—a fuse can be cut short enough for the dynamite to detonate in the same round (allowing it to be used much like a grenade), or long enough to take several minutes to detonate. Cutting the fuse to the appropriate length requires a move action.
+若要用导火索引爆，应先点燃导火索，这需要一个移动动作（以及一个打火机或其他火源）。点燃导火索到爆炸的时间取决于导火索的长度——导火索可以裁短，让炸药在同一轮内爆炸（如榴弹一般使用），或长到几分钟。将导火索裁减到合适长度需要一个移动动作。
 
-##### Fragmentation Grenade
+##### 破片手雷
 
-The most common military grenade, this is a small explosive device that sprays shrapnel in all directions when it explodes.
+最常用的军用手雷，它在爆炸时会向四面八方迸溅弹片。
 
-The purchase DC given is for a box of 6 grenades.
+购买DC能够买6发的量。
 
-##### Smoke Grenade
+##### 烟雾弹
 
-Military and police forces use these weapons to create temporary concealment. On the round when it is thrown, a smoke grenade fills the four squares around it with smoke. On the following round, it fills all squares within 10 feet, and on the third round it fills all squares within 15 feet. The smoke obscures all sight, including the darkvision ability granted by night vision goggles. Any creature within the area has total concealment (attacks suffer a 50% miss chance, and the attacker can’t use sight to locate the target). It disperses after 10 rounds, though a moderate wind (11+ mph) disperses the smoke in 4 rounds and a strong wind (21+ mph) disperses it in 1 round. Smoke grenades are available in several colors, including white, red, yellow, green, and purple. As such, they can be used as signal devices.
+军队和警察用它来制造临时的隐蔽环境。扔出的那一轮，在目的地相邻的4格生成烟雾。下一轮，距离目的地10尺内的方格都充满烟雾，第三轮则为15尺内。烟雾遮挡所有视线，包括夜视仪赋予的黑暗视觉能力。区域内所有生物都将处于全隐蔽状态（对其的攻击将有50%失手几率，攻击方无法用目力确定目标位置）。催泪瓦斯将在10轮后消散，中等风速下（11里每小时以上）消散时间为4轮，强风（21里每小时以上）为1轮。烟雾弹有多种颜色可供选择，包括白、红、黄、绿、紫。因此烟雾弹可以用来发射信号。
 
-The purchase DC given is for a box of 6 grenades.
+购买DC能够买6发的量。
 
-##### Tear Gas Grenade
+##### 催泪弹
 
-Military and police forces use these weapons to disperse crowds and smoke out hostage takers. On the round that it is thrown, a tear gas grenade fills a 5-foot radius with a cloud of irritant that causes eyes to fill with tears. On the following round, it fills a 10-foot radius, and on the third round it fills a 15-foot radius. It disperses after 10 rounds, though a moderate wind (11+ mph) disperses the smoke in 4 rounds and a strong wind (21+ mph) disperses it in 1 round.
+军队和警察用它来驱散人群和逼出劫持者。扔出的那一轮，在目的地相邻的4格生成催泪瓦斯。下一轮，距离目的地10尺内的方格都充满催泪瓦斯，第三轮则为15尺内。催泪瓦斯将在10轮后消散，中等风速下（11里每小时以上）消散时间为4轮，强风（21里每小时以上）为1轮。
 
-A character caught in a cloud of tear gas must make a Fortitude save (DC 15) or be nauseated.  This effect lasts as long as the character is in the cloud and for 1d6 rounds after he or she leaves the cloud. Those who succeed at their saves but remain in the cloud must continue to save each round. A gas mask renders the target immune to the effects. A wet cloth held over the eyes, nose, and mouth provides a +2 bonus on the Fortitude save.
+在催泪瓦斯内的角色必须进行一次强韧豁免（DC15），失败则`反胃`。效果将持续到角色脱离瓦斯区域1d6轮后。豁免成功但仍在瓦斯区域内的角色每一轮都要进行豁免。防毒面具可使角色免疫这个效果。用湿布覆盖眼睛与口鼻可为强韧豁免提供2点加值。
 
-The purchase DC given is for a box of 6 grenades.
+购买DC能够买6发的量。
 
-##### Thermite Grenade
+##### 铝热弹
 
-Thermite does not technically explode. Instead, it creates intense heat meant to burn or melt through an object upon which the grenade is set. Military forces use thermite grenades to quickly destroy key pieces of equipment.
+铝热弹本身不会爆炸。它会在安置处释放高温以熔穿物体。军队用它来快速熔融破坏设施的关键部位。
 
-The purchase DC given is for a box of 6 grenades.
+购买DC能够买6发的量。
 
-##### White Phosphorus Grenade
+##### 白磷弹
 
-White phosphorus grenades use an explosive charge to distribute burning phosphorus across the burst radius. Any target that takes damage from a White Phosphorus grenade is dealt an additional 1d6 points of fire damage in the following round and risks catching on fire.
+白磷弹通过爆炸来将燃烧的白磷覆盖到爆炸半径内的所有区域。被白磷弹伤害到的目标会在下一轮受到额外的1d6点火焰伤害，且会着火。
 
-In addition, a WP grenade creates a cloud of smoke. Treat a white phosphorus grenade as a smoke grenade (see above), except that it only fills squares within 5 feet of the explosion point.
+另外，白磷弹是会生成烟雾的。其机制与烟雾弹相同（见上文），不同的是它只会蔓延到5尺距离内的方格。
 
-The purchase DC given is for a box of 6 grenades.
+购买DC能够买6发的量。
 
-#### Splash Weapons
+#### 溅射武器
 
-Many splash weapons, such as Molotov cocktails, are essentially homemade devices (improvised explosives). The purchase DC given in Table: Explosives and Splash Weapons reflects the typical cost of the necessary components. See the Craft (chemical) skill for details on making improvised explosives.
+许多溅射武器，如莫洛托夫鸡尾酒，都是手工自制的（算作临时爆炸物）。表：爆炸物与溅射武器给出的购买DC指的是制造必需的材料的一般价格。制造临时爆炸物的细节详见`制造（化学）`技能。
 
-##### Acid, Mild
+##### 弱酸
 
-A character can throw a flask of acid as a grenadelike weapon. A flask is made of ceramic, metal, or glass (depending on the substance it has to hold), with a tight stopper, and holds about 1 pint of liquid. This entry represents any mild caustic substance. Acid may be purchased in many places, including hardware stores.
+角色可以将一瓶酸液作为手雷投掷出去。瓶子可以是陶瓷的、金属的、玻璃的（取决于其装着的物质），带有一个紧密的瓶塞，并装着一品脱液体。此条目泛指所有有轻微腐蚀性的物质。许多地方都能买到酸，包括五金店。
 
-##### Molotov Cocktail
+##### 莫洛托夫鸡尾酒
 
-A Molotov cocktail is a flask containing a flammable liquid, plugged with a rag. A Molotov cocktail is easily made by hand (Craft \[chemical\] check DC 10 or Intelligence check DC 15). The purchase DC given is for the components. To use it, the rag must first be lit, requiring a move action (and a lighter or other source of flame). The cocktail detonates in 2 rounds or on impact with a solid object, whichever comes first. A target that takes a direct hit is dealt an additional 1d6 points of fire damage in the following round and risks catching on fire.
+莫洛托夫鸡尾酒是一瓶装着可燃液体，瓶口塞着一块破布的燃烧弹。莫洛托夫鸡尾酒可以很容易用手工制造出来（做 DC10 的制造\[化学\]检定或 DC15 的智力检定）。给出的购买DC指的是材料的价格。使用方式是点燃破布，这需要一个移动动作（打火机或其他火源是必需的）。鸡尾酒会在2轮后或撞倒硬物时引爆。被直接击中的目标会在下一轮受到额外的1d6点火焰伤害，且会着火。
 
-### Melee Weapons
+### 近战武器
 
-Melee weapons are used in close combat, and they are generally among the simplest types of weapons. The feat that provides proficiency with these weapons varies from weapon to weapon; some are considered simple weapons (covered by the Simple Weapons Proficiency feat); others are archaic (Archaic Weapons Proficiency) or exotic (Exotic Melee Weapon Proficiency).
+近战武器用于近距离格斗，它们的构造一般都很简单。每一种武器要求的精通专长都不一样：有的属于简单武器（受`擅长简单武器`专长加成）、有的属于古典武器（`擅长古典武器`）、有的属于异种武器（`擅长异种近战武器`）。
 
-A character’s Strength modifier is always added to a melee weapon’s attack roll and damage roll.
+近战武器的攻击骰和伤害骰总是要加上角色的力量调整值。
 
-#### Melee Weapons Table
+#### 近战武器表
 
-Melee weapons are described by a number of statistics, as shown on Table: Melee Weapons.
+近战武器有各种属性，见表：近战武器。
 
-**Damage:** The damage the weapon deals on a successful hit.
+**伤害：** 武器成功命中时所造成的伤害。
 
-**Critical:** The threat range for a critical hit. If the threat is confirmed, a weapon deals double damage on a critical hit (roll damage twice, as if hitting the target two times).
+**重击：** 重击威胁区间。重击威胁发生时，武器重击，造成两次伤害（即掷伤害骰两次，视为两次击中目标）。
 
-**Damage Type:** Melee weapon damage is classified according to type: bludgeoning (weapons with a blunt striking surface), energy (of a specific type), piercing (weapons with a sharp point), and slashing (weapons with an edged blade). Some creatures or characters may be resistant or immune to some forms of damage.
+**伤害类型：** 近战武器的伤害分为几类：钝击（钝器），能量（一些特殊武器）、穿刺（锐器）、以及劈砍（开刃的武器）。一些生物或角色能抵抗甚至免疫某些类型的伤害。
 
-**Range Increment:** Melee weapons that are designed to be thrown can be used to make ranged attacks. As such, they have a range increment just as other ranged weapons do—but the maximum range for a thrown weapon is five range increments instead of ten.
+**射程跨度：**有投掷功能的近战武器可进行投掷攻击。这种情形下，它们就像其他远程武器一样有射程跨度，但最大射程为5倍跨度而非10倍跨度。
 
-Any attack at less than the given range increment is not penalized for range. However, each full range increment causes a cumulative –2 penalty on the attack roll.
+距离低于一跨度的任何攻击都不会因射程受到惩罚。超过射程跨度时，每超过一倍射程跨度，攻击骰都要受到2点减值。
 
-**Size:** Size categories for weapons and other objects are defined differently from the size categories for creatures. The relationship between a weapon’s size and that of its wielder defines whether it can be used one-handed, if it requires two hands, and if it’s a light weapon.
+**尺寸：** 武器与其他物品的尺寸范围定义与生物的体型定义不同。武器的尺寸与携带者体型的关系决定了武器是否可单手操作，是否需要双手操作，以及是否算作轻武器。
 
-A Medium-size or smaller weapon can be used one-handed or two-handed. A Large weapon requires two hands.
+普通及以下尺寸的武器能单手或双手操作。大型的武器必须双手操作。
 
-A Small or smaller weapon is considered a light weapon. It can be used one-handed and, as a light weapon, is easier to use in a character’s off hand.
+小型及以下的武器视为轻武器。轻武器可以单手使用，也更容易用副手操作。
 
-**Weight:** This column gives the weapon’s weight.
+**重量：** 此项为武器的重量。
 
-**Purchase DC:** This is the purchase DC for a Wealth check to acquire the weapon.
+**购买 DC:** 获得此武器所需财富检定的购买DC。
 
-**Restriction:** None of the following melee weapons have restrictions on their purchase.
+**限制级：** 下列所有近战武器都不受管制。
 
-Table: Melee Weapons
+表：近战武器
 
-|Weapon|Damage|Critical|Damage Type|Range Increment|Size|Weight|Purchase DC|Restriction|
+|武器|伤害|重击|伤害类型|射程跨度|尺寸|重量|购买DC|限制级|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|**Simple Weapons (require the Simple Weapons Proficiency feat)**|||||||||
-|Brass knuckles|1|20|Bludgeoning|—|Tiny|1 lb|5|—|
-|Cleaver|1d6|19–20|Slashing|—|Small|2 lb|5|—|
-|Club|1d6|20|Bludgeoning|10 ft|Med|3 lb|4|—|
-|Knife|1d4|19–20|Piercing|10 ft|Tiny|1 lb|7|—|
-|Metal baton|1d6|19–20|Bludgeoning|—|Med|2 lb|8|—|
-|Pistol whip|1d4|20|Bludgeoning|—|Small|—|—|—|
-|Rifle butt|1d6|20|Bludgeoning|—|Large|—|—|—|
-|Sap|1d6\*|20|Bludgeoning|—|Small|3 lb|2|—|
-|Stun gun\*|1d3|20|Electricity|—|Tiny|1 lb|5|—|
-|Tonfa\*|1d4|20|Bludgeoning|—|Med|2 lb|6|—|
+|**简单武器（需要`擅长简单武器`专长）**|||||||||
+|指虎|1|20|钝击|—|超小型|1磅|5|—|
+|菜刀|1d6|19–20|劈砍|—|小型|2磅|5|—|
+|木棒|1d6|20|钝击|10尺|普通|3磅|4|—|
+|小刀|1d4|19–20|穿刺|10尺|超小型|1磅|7|—|
+|甩棍|1d6|19–20|钝击|—|普通|2磅|8|—|
+|手枪托|1d4|20|钝击|—|小型|—|—|—|
+|步枪托|1d6|20|钝击|—|大型|—|—|—|
+|闷棍|1d6\*|20|钝击|—|小型|3磅|2|—|
+|电棍\*|1d3|20|电能|—|超小型|1磅|5|—|
+|卜字拐\*|1d4|20|钝击|—|普通|2磅|6|—|
 ||||||||||
-|**Archaic Weapons (require the Archaic Weapons Proficiency feat)**|||||||||
-|Bayonet (fixed)\*|1d4/1d6|20|Piercing|—|Large|1 lb|7|—|
-|Hatchet|1d6|20|Slashing|10 ft|Small|4 lb|4|—|
-|Longsword|1d8|19–20|Slashing|—|Med|4 lb|11|—|
-|Machete|1d6|19–20|Slashing|—|Small|2 lb|5|—|
-|Rapier|1d6|18–20|Piercing|—|Med|3 lb|10|—|
-|Spear|1d8|20|Piercing|—|Large|9 lb|6|—|
-|Straight razor|1d4|19–20|Slashing|—|Tiny|0.5 lb|4|—|
-|Sword cane\*|1d6|18–20|Piercing|—|Med|3 lb|9|—|
+|**古典武器（需要`擅长古典武器`专长）**|||||||||
+|刺刀（已安装）\*|1d4/1d6|20|穿刺|—|大型|1磅|7|—|
+|手斧|1d6|20|劈砍|10尺|小型|4磅|4|—|
+|长剑|1d8|19–20|劈砍|—|普通|4磅|11|—|
+|弯刀|1d6|19–20|劈砍|—|小型|2磅|5|—|
+|细剑|1d6|18–20|穿刺|—|普通|3磅|10|—|
+|矛|1d8|20|穿刺|—|大型|9磅|6|—|
+|刮脸刀|1d4|19–20|劈砍|—|超小型|0.5磅|4|—|
+|手杖剑\*|1d6|18–20|穿刺|—|普通|3磅|9|—|
 ||||||||||
-|**Exotic Melee Weapons (each requires a specific Exotic Melee Weapon Proficiency feat)**|||||||||
-|Chain\*|1d6/1d6|20|Bludgeoning|—|Large|5 lb|5|—|
-|Chain saw|3d6|20|Slashing|—|Large|10 lb|9|—|
-|Kama|1d6|20|Slashing|—|Small|2 lb|5|—|
-|Katana|2d6|19–20|Slashing|—|Large|6 lb|12|—|
-|Kukri|1d4|18–20|Slashing|—|Small|1 lb|5|—|
-|Nunchaku|1d6|20|Bludgeoning|—|Small|2 lb|3|—|
-|Three-section staff\*|1d10/1d10|20|Bludgeoning|—|Large|3 lb|4|—|
+|**异种近战武器（每种武器都需要该武器的`擅长异种武器`专长）**|||||||||
+|锁链\*|1d6/1d6|20|钝击|—|大型|5磅|5|—|
+|链锯|3d6|20|劈砍|—|大型|10磅|9|—|
+|日本镰|1d6|20|劈砍|—|小型|2磅|5|—|
+|打刀|2d6|19–20|劈砍|—|大型|6磅|12|—|
+|反曲刀|1d4|18–20|劈砍|—|小型|1磅|5|—|
+|双节棍|1d6|20|钝击|—|小型|2磅|3|—|
+|三节棍\*|1d10/1d10|20|钝击|—|大型|3磅|4|—|
 
-\* See the description of this weapon for special rules.
+\* 此武器的特别规则见武器描述。
 
-#### Simple Melee Weapons
+#### 简单近战武器
 
-Generally inexpensive and light in weight, simple weapons get the job done nevertheless.
+这些武器廉价、轻便、结构简单，却能很好地胜任一些工作。
 
-##### Brass Knuckles
+##### 指虎
 
-These pieces of molded metal fit over the outside of a character’s fingers and allow him or her to deal lethal damage with an unarmed strike instead of nonlethal damage. A strike with brass knuckles is otherwise considered an unarmed attack.
+这种金属指套可以让角色的徒手击打造成的伤害由非致命的变为致命的。用指虎造成攻击仍算是徒手击打。
 
-When used by a character with the Brawl feat, brass knuckles increase the base damage dealt by an unarmed strike by +1 and turn the damage into lethal damage.
+当拥有拳法专长的角色使用时，指虎会让徒手攻击的基础伤害+1，并将伤害转为致命伤害。
 
-The cost and weight given are for a single item.
+所示的价格和重量是一只的。
 
-##### Cleaver
+##### 菜刀
 
-Heavy kitchen knives can be snatched up for use as weapons in homes and restaurants. These weapons are essentially similar to the twin butterfly swords used in some kung fu styles.
+家里或餐馆里可直接抓起来当武器用的重型餐刀。这种菜刀形似中国功夫中的合掌刀。
 
-##### Club
+##### 木棒
 
-Almost anything can be used as a club. This entry represents the wooden nightsticks sometimes carried by police forces.
+几乎所有物品都可当作木棒使用。此项泛指类似警棍的武器。
 
-##### Knife
+##### 小刀
 
-This category of weapon includes hunting knives, butterfly or “balisong” knives, switchblades, and bayonets (when not attached to rifles). A character can select the Weapon Finesse feat to apply his or her Dexterity modifier instead of Strength modifier to attack rolls with a knife.
+此类武器包括猎刀、蝴蝶刀、弹簧刀以及刺刀（未安装）等刀具。角色可选择发动`武器娴熟`专长，在使用小刀攻击时用敏捷调整值代替力量调整值应用到攻击骰上。
 
-##### Metal Baton
+##### 甩棍
 
-This weapon can be collapsed to reduce its size and increase its concealability. A collapsed baton is Small and can’t be used as a weapon. Extending or collapsing the baton is a free action.
+这种武器可以收缩，让尺寸更小，更易于隐蔽。收缩的甩棍是小型尺寸，且不能作为武器使用。甩棍的伸缩是一个即时动作。
 
-##### Pistol Whip
+##### 手枪托
 
-Using a pistol as a melee weapon can deal greater damage than attacking unarmed. No weight or purchase DC is given for this weapon, since both vary depending on the pistol used.
+用手枪作为近战武器攻击可以造成比徒手攻击更大的伤害。此项不会列出重量和购买DC，它们取决于手枪本身。
 
-##### Rifle Butt
+##### 步枪托
 
-The butt of a rifle can be used as an impromptu club.
+步枪的枪托可以当作临时的棍棒使用。
 
-##### Sap
+##### 闷棍
 
-This weapon, essentially a smaller version of a club, deals nonlethal damage instead of lethal damage.
+这种武器是小型的木棍，只造成非致命伤害。
 
-##### Stun Gun
+##### 电棍
 
-Although the name suggests a ranged weapon, a stun gun requires physical contact to affect its target. (The taser is a ranged weapon with a similar effect.) On a successful hit, the stun gun deals 1d3 points of electricity damage,(do not add the character’s Str bonus) and the target must make a Fortitude saving throw (DC 15) or be paralyzed for 1d6 rounds.
+电棍需要近距离接触目标来攻击。（电击枪则是远程版的电棍。）成功击中时，电极将造成1d3点电能伤害（不能应用力量加值），目标必须进行一次强韧豁免（DC15），失败则麻痹1d6轮。
 
-##### Tonfa
+##### 卜字拐
 
-This is the melee weapon carried by most police forces, used to subdue and restrain criminals. A character can deal nonlethal damage with a tonfa without taking the usual –4 penalty.
+这种近战武器普遍装备于警察队伍，用于制服与约束罪犯。角色可用卜字拐施加非致命伤害，但伤害骰不再有4点减值。
 
-#### Archaic Melee Weapons
+#### 古典近战武器
 
-Most of these weapons deal damage by means of a blade or a sharp point. Some of them are moderately expensive, reflecting their archaic nature in modern-day society.
+这些武器大多以其刃和尖端造成伤害。一些武器中等偏贵，反映了其在现代社会中的收藏价值。
 
-##### Bayonet (Fixed)
+##### 刺刀（已安装）
 
-The statistics given describe a bayonet fixed at the end of a longarm with an appropriate mount. With the bayonet fixed, the longarm becomes a double weapon—clublike at one end and spearlike at the other. A character can fight with it as if fighting with two weapons, but if the character does so, he or she incurs all the normal attack penalties associated with fighting with two weapons, as if using a one-handed weapon and a light weapon.
+此项给出的是已安装在长杆枪末端的刺刀的属性。安装了刺刀的长杆枪将变成`双头武器`——一头是类木棒武器一头是类矛武器。角色可以使用双头武器的两端同时战斗，就像使用双武器战斗一样，但同时也会受到使用双武器战斗的减值，视为一把单手武器和一把轻武器。
 
-##### Hatchet
+##### 手斧
 
-This light axe is a chopping tool that deals slashing dam-age when employed as a weapon.
+这种轻型斧是一种斫砍工具，当作武器使用时，造成劈砍伤害。
 
-##### Longsword
+##### 长剑
 
-This classic, straight blade is the weapon of knighthood and valor.
+这种经典的直刃武器是勇气与骑士精神的象征。
 
-##### Machete
+##### 弯刀
 
-This long-bladed tool looks much like a short, lightweight sword.
+这种长刃工具形似更短更轻的剑。
 
-##### Rapier
+##### 细剑
 
-The rapier is a lightweight sword with a thin blade. A character can select the Weapon Finesse feat to apply his or her Dexterity modifier instead of Strength modifier to attack rolls with a rapier.
+细剑是一种刃很薄的轻型剑。角色可选择发动`武器娴熟`专长，在使用细剑攻击时用敏捷调整值代替力量调整值应用到攻击骰上。
 
-##### Spear
+##### 矛
 
-This primitive device is a reach weapon. A character can strike opponents 10 feet away with it, but can’t use it against an adjacent foe.
+这种武器是一种长型武器。角色可攻击10尺内的目标，但不能攻击相邻的目标。
 
-##### Straight Razor
+##### 刮脸刀
 
-Favored by old-school organized crime “mechanics,” this item can still be found in some barbershops and shaving kits.
+刮脸刀常见于一些老掉牙的罪案情节，至今仍能在理发店和剃须套件中见到。
 
-##### Sword Cane
+##### 手杖剑
 
-This is a lightweight, concealed sword that hides its blade in the shaft of a walking stick or umbrella. Because of this special construction, a sword cane is always considered to be concealed; it is noticed only with a Spot check (DC 18). (The walking stick or umbrella is not concealed, only the blade within.)
+这是一种轻便的可隐藏的剑，剑刃藏在手杖或雨伞的柄中。因其特殊构造，手杖剑总是视为已隐藏，只能被侦察检定（DC18）注意到。（手杖和雨伞不隐藏，只有剑刃隐藏。）
 
-#### Exotic Melee Weapons
+#### 异种近战武器
 
-Most exotic weapons are either atypical in form or improved variations of other melee weapons. Because each exotic weapon is unique in how it is manipulated and employed, a separate Exotic Melee Weapon Proficiency feat is required for each one in order to avoid the –4 nonproficient penalty.
+异种武器大多要么形态偏门，要么是其他近战武器的变种。因为每种异种武器的操作与使用都是独特的，各种异种武器的`擅长专长`要单独计，以免受4点`不擅长`惩罚。
 
-##### Chain
+##### 锁链
 
-Also called the manriki-gusari, this is a simple chain with weighted ends. It can be whirled quickly, striking with hard blows from the weights. One end can also be swung to entangle an opponent.
+这种简单的、末端有重物的锁链又称“万力锁”。它可以快速旋转，用重物狠狠打击。可将一端甩出以`纠缠`对手。
 
-The chain can be used either as a double weapon or as a reach weapon. A character can fight with it as if fighting with two weapons, incurring all the normal attack penalties as if using a one-handed weapon and a light weapon. In this case, the character can only strike at an adjacent opponent.
+锁链既可作为双头武器使用也可作为长型武器使用。角色可以将其作为双头武器使用，就像使用双武器战斗一样，但同时也会受到使用双武器战斗的减值，视为一把单手武器和一把轻武器。这种情况下，角色只能攻击相邻的对手。
 
-If a character uses the chain as a reach weapon, he or she can strike opponents up to 10 feet away. In addition, unlike other weapons with reach, the character can use it against an adjacent foe. In this case, the character can only use one end of the chain effectively; he or she can’t use it as a double weapon.
+角色如果将其作为长型武器使用，则可攻击10尺内的对手。而且不像其他长型武器，角色可以用锁链攻击到相邻的目标。这种情况下，角色只能有效地使用其中一端；不能将其作为双武器使用。
 
-Because a chain can wrap around an enemy’s leg or other limb, a character can make a trip attack with it by succeeding at a melee touch attack. If the character is tripped during his or her own trip attempt, the character can drop the chain to avoid being tripped.
+因为锁链可以缠绕敌人的脚或其他肢体，角色可以在近距接触攻击成功后进行绊摔攻击。如果角色绊摔时自己反被绊摔了，角色可以扔掉锁链以避免。
 
-When using a chain, the character gets a +2 equipment bonus on his or her opposed attack roll when attempting to disarm an opponent (including the roll to avoid being disarmed if the character fails to disarm the opponent).
+当试图使用锁链来卸除对手的武器时，角色的对抗攻击骰会受到2点加值（如果角色卸除对手武器失败，对对方卸除自己武器的对抗检定也有2点加值）。
 
-A character can select the Weapon Finesse feat to apply his or her Dexterity modifier instead of Strength modifier to attack rolls with a chain.
+角色可选择发动`武器娴熟`专长，在使用锁链攻击时用敏捷调整值代替力量调整值应用到攻击骰上。
 
-##### Chain Saw
+##### 链锯
 
-Military and police units use powered saws to cut through fences and open doors rapidly. They are sometimes pressed into service as weapons, often by people who watch too many movies.
+军队和警察用这种强力的锯子快速锯开栅栏和门。有些人的印象中它也是一种武器，当然这些人电影看多了。
 
-##### Kama
+##### 日本镰
 
-A kama is a wooden shaft with a scythe blade extending at a right angle out from the shaft Kama are traditional weapons in various styles of karate.
+日本镰是一种木柄镰刀头武器，镰刀刃在柄的末端按一定角度延伸出来，是日本武术中常见的武器。
 
-##### Katana
+##### 打刀
 
-The katana is the traditional Japanese samurai sword. When used with the Exotic Melee Weapon Proficiency feat, it can be used with one hand. For a wielder without the feat, the katana must be used with two hands, and the standard –4 nonproficiency penalty applies.
+打刀是传统的日本武士刀。角色拥有该武器的`擅长异种近战武器`专长时，可以单手使用。无此专长的角色必须用双手使用此刀，且会承受4点`不擅长减值`。
 
-##### Kukri
+##### 反曲刀
 
-This heavy, curved dagger has its sharp edge on the inside of the curve.
+这种重型的、弯曲的刀，其刃区在弧内侧。
 
-##### Nunchaku
+##### 双节棍
 
-A popular martial arts weapon, the nunchaku is made of two wooden shafts connected by a short length of rope or chain.
+双节棍是一种流行的武术武器，由两根木柄和连接木柄的短绳或短链组成。
 
-##### Three-Section Staff
+##### 三节棍
 
-Originally a farm implement for threshing grain, this weapon is composed of three sections of wood of equal lengths, joined at the ends by chain, leather, or rope. The three-section staff requires two hands to use.
+三节棍本来是一种打谷的农具，由三根等长的木棍和将三者连接的锁链、皮带或绳子组成。三节棍必须双手操作。
 
-The three-section staff is a double weapon. A character can fight with it as if fighting with two weapons, but if he or she does, the character incurs all the normal attack penalties associated with fighting with two weapons, as if using a one-handed weapon and a light weapon.
+三节棍是一种双头武器。角色可以使用双头武器的两端同时战斗，就像使用双武器战斗一样，但同时也会受到使用双武器战斗的减值，视为一把单手武器和一把轻武器。
 
-### Improvised Weapons
+### 临时武器
 
-Any portable object can be used as a weapon in a pinch. In most cases, an object can be wielded either as a melee weapon or a ranged weapon.
+在紧要关头可以用作武器的便携物品。大多数情况下，物品既可当作近战武器使用，也可当作远程武器使用。
 
-A character takes a –4 penalty on his or her attack roll when wielding or throwing an improvised weapon. An improvised weapon is not considered simple, archaic, or exotic, so weapon proficiency feats cannot offset the –4 penalty.
+角色在使用临时武器攻击或投掷时，攻击骰会有4点减值。临时武器不会再视为为简单、古典、异种武器，所以擅长专长无法免除4点惩罚。
 
-Table: Improvised Weapon Damage by Size
+表：不同尺寸的临时武器伤害。
 
-|Object Size|Examples|Damage|
+|物品尺寸|例子|伤害|
 |-----------|--------|------|
-|Diminutive|Ashtray, CD disk case, crystal paperweight|1|
-|Tiny|Fist-sized rock, mug, screwdriver, softball, flashlight, wrench|1d2|
-|Small|Bottle, drill, fire extinguisher, flower pot, helmet, metal hubcap, vase|1d3|
-|Medium-size|Bar stool, brick, briefcase, bowling ball, garbage can lid, hockey stick, nail gun|1d4|
-|Large|Empty garbage can, guitar, computer monitor, office chair, tire iron|1d6|
-|Huge|10-foot ladder, mailbox, oil barrel, park bench, sawhorse|1d8|
-|Gargantuan|Desk, dumpster, file cabinet, large sofa, soda machine|2d6|
-|Colossal|Junked vehicle, stoplight, telephone pole|2d8|
+|微型|烟灰缸、CD碟盒、水晶镇纸|1|
+|超小型|拳头大小的石头、马克杯、起子、垒球、手电筒、扳手|1d2|
+|小型|瓶子、电钻、灭火器、花盆、头盔、金属轮毂盖、花瓶|1d3|
+|普通|酒吧高脚凳、砖头、公文包、保龄球、垃圾桶盖、曲棍球棍、射钉枪|1d4|
+|大型|空垃圾桶、吉他、电脑显示器、办公椅、撬胎棒|1d6|
+|超大型|10尺长梯、邮箱、油桶、公园长椅、锯木梁|1d8|
+|巨型|桌子、大垃圾桶、文件柜、大沙发、冷饮贩卖机|2d6|
+|超巨型|报废载具、红绿灯、电话线杆|2d8|
 
-A character can effectively wield or throw an object of his or her size category or smaller using one hand. A character can effectively wield or throw an object one size category larger than him or herself using two hands.  An improvised thrown weapon has a range increment of 10 feet. Increase the range increment for creatures of Large size or larger as follows: Large 15 feet, Huge 30 feet, Gargantuan 60 feet, Colossal 120 feet.
+角色可以只用单手手握或投掷小于等于其大小的物品。角色可以用双手手握或投掷比自己大一级的物品。临时投掷武器的射程跨度都是10尺。体型更大的生物射程跨度更高：大型15尺、超大型30尺、巨型60尺、超巨型120尺。
 
-Damage: Improvised weapons deal lethal damage based on their size, although the GM may adjust the damage of an object that is especially light or heavy for its size. The wielder’s Strength modifier applies only to damage from Tiny or larger improvised weapons; do not apply the wielder’s Strength modifier to damage from Diminutive objects. Table: Improvised Weapon Damage by Size gives the damage for improvised weapons of varying size. Improvised weapons threaten a critical hit on a natural roll of 20. Improvised weapons of Fine size deal no damage.
+伤害：临时武器根据其尺寸造成致命伤害，但GM可酌情调整同尺寸下更重或更轻的物品的伤害。使用者的力量调整值只能应用于超小型及以上尺寸的临时武器，微型的武器无法应用力量调整值。表：不同尺寸的临时武器伤害给出了各种尺寸下临时武器的伤害。临时武器的重击威胁区间仅为20。超微型的临时武器不会造成伤害。
 
-Unlike real weapons, improvised weapons are not designed to absorb damage. They tend to shatter, bend, crumple, or fall apart after a few blows. An improvised weapon has a 50% chance of breaking each time it deals damage or, in the case of thrown objects, strikes a surface (such as a wall) or an object larger than itself.
+不像真武器，临时武器不能吸收伤害。它们承受几次攻击后都会粉碎、弯折、破碎、断裂。临时武器在每次造成伤害、投掷、攻击表面（比如墙）、或攻击比自身大的物体后都有50%的几率被破坏掉。
 
-## Armor
+## 护甲
 
-Body armor comes in a variety of shapes and sizes, providing varying degrees of coverage and varying heaviness of materials.
+护甲有各种形态和尺寸，覆盖度、重量、材质各异。
 
-Three feats cover proficiency in the use of armor: Armor Proficiency (light), Armor Proficiency (medium), and Armor Proficiency (heavy).
+有三个专长与护甲的使用相关：擅长护甲（轻型）、擅长护甲（中型）、擅长护甲（重型）。
 
-#### Armor Table
+#### 护甲列表
 
-Armor is described by a number of statistics, as shown on Table: Armor.
+护甲有各种属性，见表：护甲。
 
-**Type:** Armor comes in four types: archaic, impromptu, concealable, and tactical.
+**类型：** 护甲有4种类型：古典、临时、隐藏、战术。
 
-Archaic armor is old-fashioned armor, such as medieval chainmail and plate mail.
+古典护甲指那些过时的盔甲，比如中世纪锁链甲和板链甲。
 
-Impromptu armor includes items that provide protection even though they weren’t designed for that purpose, such as leather biker’s jackets and football pads.
+临时护甲包括那些能提供防护作用，但本不是为防止伤害而设计的护具，比如机车皮衣、橄榄球护具。
 
-Concealable armor is modern body armor designed to fit underneath regular clothing. It can be worn for extended periods of time without fatiguing the wearer.
+隐藏护甲是专为隐藏于便服之下而设计的现代护甲。角色可以一直穿着它而不会感到疲乏。
 
-Tactical armor is modern body armor that fits over clothing and can’t be easily concealed. Its weight and bulk make it impractical to wear all the time, and it’s generally only donned when a specific dangerous confrontation is likely. Because it’s worn over clothing in tactical situations, tactical armor often has pockets, clips, and velcro attachment points for carrying weapons, grenades, ammunition, flashlights, first aid kits, and other items.
+战术护甲是套在衣服外的护甲，难以隐藏。它过于笨重，不适合全天候着装，只有在面临危险情形时才需要穿上。因为它是要在战术情况下穿在衣服外，所以它通常有口袋、夹子、魔术贴搭扣用于携带武器、榴弹、弹药、手电筒、急救箱以及其他物品。
 
-**Equipment Bonus:** The protective value of the armor. This bonus adds to the wearer’s Defense.
+**装备加值：** 护甲的防护值。该加值会加到装备者的防御值上。
 
-**Nonproficient Bonus:** The maximum amount of the armor’s equipment bonus that can be applied to the wearer’s Defense if the wearer is using armor with which he or she isn’t proficient (doesn’t have the appropriate feat).
+**不擅长加值：** 装备者在不擅长此装备时（没有相应的专长），护甲所能给装备者的防御提供的最大装备加值。
 
-**Maximum Dex Bonus:** This number is the maximum Dexterity bonus to Defense that this type of armor allows. Heavier armor limits mobility, reducing a character’s ability to avoid attacks.
+**最大敏捷加值：** 该数值是这种护甲所允许的防御敏捷加值上限。护甲越重，角色越不灵活，避免被击中的能力越差。
 
-Even if A character’s Dexterity bonus drops to +0 because of armor, the character are not considered to have lost his or her Dexterity bonus.
+但即使角色的敏捷加值被护甲限制到0，角色仍不算“失去”了敏捷加值。
 
-**Armor Penalty:** The heavier or bulkier the armor, the more it affects certain skills. This penalty applies to checks involving the following skills: Balance, Climb, Escape Artist, Hide, Jump, Move Silently, and Tumble.
+**护甲减值：** 护甲越笨重，对特定技能的影响越大。此减值在以下技能的检定中有效：平衡、攀爬、脱逃、躲藏、跳跃、潜行、翻滚。
 
-**Speed (30 ft):** Medium and heavy armor slows a character down. The number in this column is the character’s speed while in armor, assuming his or her base speed is 30 feet (the normal speed for most human beings).
+**速度（30尺）：** 中型和重型护甲将减慢角色的速度。此数值是角色穿着护甲时的速度，前提是角色的基础速度为30尺（这是大多数人类的常速）。
 
-**Weight:** This column gives the armor’s weight.
+**重量：** 此项为护甲的重量。
 
-**Purchase DC:** This is the purchase DC for a Wealth check to acquire the armor. This number reflects the base price and doesn’t include any modifier for purchasing the armor on the black market.
+**购买 DC:** 获得此护甲所需财富检定的购买DC。此值指基本价格，并未把黑市加值算在内。
 
-**Restriction:** The restriction rating for the armor, if any, and the appropriate black market purchase DC modifier. Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the armor on the black market.
+**限制级：** 护甲的管制等级，如果有，还会列出相应的黑市购买DC调整值。记住一定要在黑市购买进行财富检定时加上这些调整值。
 
-Table: Armor
+表：护甲
 
-|Armor|Type|Equipment Bonus|Nonprof Bonus|Maximum Dex Bonus|Armor Penalty|Speed (30 ft)|Weight|Purchase DC|Restriction|
+|护甲|类型|装备加值|不擅长加值|最大敏捷加值|护甲减值|速度（30尺）|重量|购买DC|限制级|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|**Light Armor**||||||||||
-|Leather jacket|Impromptu|+1|+1|+8|–0|30|4 lb|10|—|
-|Leather armor|Archaic|+2|+1|+6|–0|30|15 lb|12|—|
-|Light undercover shirt|Concealable|+2|+1|+7|–0|30|2 lb|13|Lic (+1)|
-|Pull-up pouch vest|Concealable|+2|+1|+6|–1|30|2 lb|13|Lic (+1)|
-|Undercover vest|Concealable|+3|+1|+5|–2|30|3 lb|14|Lic (+1)|
+|**轻型护甲**||||||||||
+|皮夹克|临时|+1|+1|+8|–0|30|4磅|10|—|
+|皮甲|古典|+2|+1|+6|–0|30|15磅|12|—|
+|轻型衬甲|隐藏|+2|+1|+7|–0|30|2磅|13|执照（+1）|
+|上拉式便携防弹衣|隐藏|+2|+1|+6|–1|30|2磅|13|执照（+1）|
+|衬甲背心|隐藏|+3|+1|+5|–2|30|3磅|14|执照（+1）|
 |||||||||||
-|**Medium Armor**||||||||||
-|Concealable vest|Concealable|+4|+2|+4|–3|25|4 lb|15|Lic (+1)|
-|Chainmail shirt|Archaic|+5|+2|+2|–5|20|40 lb|18|—|
-|Light-duty vest|Tactical|+5|+2|+3|–4|25|8 lb|16|Lic (+1)|
-|Tactical vest|Tactical|+6|+2|+2|–5|25|10 lb|17|Lic (+1)|
+|**中型护甲**||||||||||
+|内穿防弹衣|隐藏|+4|+2|+4|–3|25|4磅|15|执照（+1）|
+|锁链甲衫|古典|+5|+2|+2|–5|20|40磅|18|—|
+|轻型执勤背心|战术|+5|+2|+3|–4|25|8磅|16|执照（+1）|
+|战术背心|战术|+6|+2|+2|–5|25|10磅|17|执照（+1）|
 |||||||||||
-|**Heavy Armor**||||||||||
-|Special response vest|Tactical|+7|+3|+1|–6|20|15 lb|18|Lic (+1)|
-|Plate mail|Archaic|+8|+3|+1|–6|20|50 lb|23|—|
-|Forced entry unit|Tactical|+9|+3|+0|–8|20|20 lb|19|Lic (+1)|
+|**重型护甲**||||||||||
+|特战背心|战术|+7|+3|+1|–6|20|15磅|18|执照（+1）|
+|板链甲|古典|+8|+3|+1|–6|20|50磅|23|—|
+|攻坚套装|战术|+9|+3|+0|–8|20|20磅|19|执照（+1）|
 
-#### Light Armor
+#### 轻型护甲
 
-For the character who doesn’t want to be bogged down by more cumbersome armor types, a leather garment or some sort of concealable armor is just the ticket.
+对于不想被笨重的护甲拖累的人，皮革衣物或者一些隐藏护甲是理想的选择。
 
-##### Leather Jacket
+##### 皮夹克
 
-This armor is represented by a heavy leather biker’s jacket. A number of other impromptu armors, such as a football pads and a baseball catcher’s pads, offer similar protection and game statistics.
+这种护甲最典型的代表就是机车皮衣。许多其他的临时护甲，例如橄榄球护具和棒球接球手护具，都提供相似的防护，数值上与其相当。
 
-##### Leather Armor
+##### 皮甲
 
-This archaic armor consists of a breastplate made of thick, lacquered leather, along with softer leather coverings for other parts of the body.
+这种古典护甲由轻薄、涂漆的皮革胸甲，以及覆盖着其他身体部分的软革甲组成。
 
-##### Light Undercover Shirt
+##### 轻型衬甲
 
-Designed for deep undercover work in which it’s critical that the wearer not appear to be armed or armored, this garment consists of a T-shirt with a band of light protective material sewn in around the lower torso.
+轻型衬甲就是一件在躯干位置包裹着轻型防护材料的T恤，专为困难的潜入工作设计，让穿戴者便于出入严禁携带武器和护甲的场所。
 
-##### Pull-Up Pouch Vest
+##### 上拉式便携防弹衣
 
-This garment, consisting of a torso apron of light protective material held up by a loop around the neck, can be stored in an innocuous fanny pack.  Deploying the apron is a move action. This garment provides no equipment bonus (and has no armor penalty or maximum Dexterity bonus) when undeployed.
+这种防弹衣是一种由脖套连接着轻型防护材料制成的围裙，平时可以收纳在不起眼的腰包里。展开防弹衣是一个移动动作。防弹衣在收纳状态时，不会提供装备加值（也不会有护甲减值和最大敏捷加值）。
 
-##### Undercover Vest
+##### 衬甲背心
 
-Covering a larger area of the torso, this vest provides better protection than the light undercover shirt—but it’s also more easily noticed. It’s best used when the armor should remain unseen but the wearer doesn’t expect to face much scrutiny, granting a +2 bonus on Spot checks to notice the armor.
+相比于轻型衬甲，能保护更大的面积，提供更好的防护——但也更容易暴露。最好能用在需要隐藏护甲但不被密切监视的地方，注意到此护甲所需的侦察检定会有2点加值。
 
-#### Medium Armor
+#### 中型护甲
 
-Most medium armor (except for the archaic chainmail shirt) is not terribly heavy, but nonetheless provides a significant amount of protection—at the expense of some speed.
+大多数中型护甲（古代的链甲衫除外）不会太重，但也不会提供可观的防护力——也不会太影响速度。
 
-##### Concealable Vest
+##### 内穿防弹衣
 
-Standard issue in many police forces, this vest provides maximum protection in a garment that can be worn all day long under regular clothing. While it may go unnoticed by a quick glance, it is usually visible to anyone looking closely for it, granting a +4 bonus on Spot checks to notice the armor.
+这种防弹背心是全天候内穿防弹衣中，防护力最强的，是许多警察队伍的标配。旁人只是一瞥是不会发现防弹衣的，但凑近观看就很容易发现，注意到此护甲所需的侦察检定会有4点加值。
 
-##### Chainmail Shirt
+##### 锁链甲衫
 
-This medieval-era armor is a long shirt made of interlocking metal rings, with a layer of padding underneath. It’s heavy, making it uncomfortable to wear for long periods of time.
+这种中世纪时期的盔甲是由金属环连缀而成的长摆上衣，内部有垫料。它很重，长时间穿戴会有不适。
 
-##### Light-Duty Vest
+##### 轻型执勤背心
 
-A lightweight tactical vest designed for extended use by riot police and forces on alert for potential attack, this armor sacrifices a degree of protection for a modicum of comfort—at least compared to other tactical body armors.
+这种护甲相比于其他战术护甲，为提高轻便性牺牲了一点防护力，是一种针对镇压暴乱、防御潜在攻击而设计的军警两用轻型战术背心。
 
-##### Tactical Vest
+##### 战术背心
 
-The standard body armor for police tactical units, this vest provides full-torso protection in the toughest flexible protective materials available.
+这种背心提供了整片躯干的防护，以最坚固的灵活防护材料制成，是警方战术小队的标准护甲。
 
-#### Heavy Armor
+#### 重型护甲
 
-For the best protection money can buy, go with heavy armor, but watch out for the armor penalty.
+重型护甲提供了市面所能购买到的最佳防护，然而选用它要留意这种护甲的惩罚。
 
-##### Plate Mail
+##### 板链甲
 
-This medieval-era armor consists of metal plates that cover the entire body. It’s heavy and cumbersome com-pared to most modern armor, but it does provide a great deal of protection.
+这种中世纪时期的盔甲由覆盖全身的金属板组成。相对于绝大多数现代护甲，它笨重臃肿，却能提供强大的防护力。
 
-##### Special Response Vest
+##### 特战背心
 
-Built like the tactical vest, but incorporating groin and neck protection as well as a ceramic plate over the chest, this armor provides additional protection in battles against heavily armed opponents.
+特战背心提供了额外的防护，以应对全副武装的敌人，结构与战术背心相同，但比战术背心多了护胯、护颈和陶瓷胸甲。
 
-##### Forced Entry Unit
+##### 攻坚套装
 
-The most powerful protection available is built into this suit, which consists of a heavy torso jacket with ceramic plates over the chest and back, neck and groin guards, arm protection, and a helmet. Heavy and cumbersome, this armor is generally only donned by tactical officers heading into a dangerous assault.
+此套装集所有最强防护设计于一身，包括了保护胸、背、颈、胯的陶瓷板甲外套，护臂以及头盔。这种护甲常由抢先突入战场的攻坚者装备，笨重且臃肿。

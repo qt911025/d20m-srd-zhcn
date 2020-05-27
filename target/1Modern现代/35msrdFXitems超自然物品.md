@@ -80,7 +80,7 @@ Each entry includes a description of the item and its game effects. Following th
 
 The GM may increase the purchase DC of an item to account for its rarity in the campaign or lower the purchase DC of items that are readily available and easy to mass-produce.
 
-## Armor
+## 护甲
 
 Magic and psionic armor protects the wearer better than armor without any enhancement. Magic and psionic armor provide enhancement bonuses that stack with the equipment bonuses provided by the armor. Further, all armor penalties for magic and psionic armor are reduced by 1.
 
@@ -126,7 +126,7 @@ The wearer of this undercover vest gains a +1 to +3 enhancement bonus to Defense
 
 **Weight:** 3 lb.
 
-## Weapons
+## 武器
 
 As with armor, magic and psionic weapons have enhancement bonuses. The enhancement bonus applies both to attack rolls and damage rolls when the weapon is used in combat. All magic weapons and psionic weapons are considered mastercraft items, but a weapon’s mastercraft bonus does not stack with its enhancement bonus.
 

@@ -203,7 +203,7 @@ equipment	装备
 popular culture	流行文化
 Read/Write Language	读写语言
 Speak Language	口头语言
-Simple Weapons Proficiency	擅长简易武器
+Simple Weapons Proficiency	擅长简单武器
 Extreme Effort	竭尽全力
 Improved	精通
 Improved Extreme Effort	精通竭尽全力
@@ -394,7 +394,7 @@ Improvised Implements	不滞于物
 Skill mastery	稳定发挥
 Improvised weapon damage	举轻若重
 Without a trace	销声匿迹
-improvised weapon	简易武器
+improvised weapon	临时武器
 Nimble	灵巧
 Concentration	专注
 Fearless	无畏
@@ -687,7 +687,7 @@ Very soft	异常松软	地面情况
 Soft	松软	地面情况
 Firm	坚实	地面情况
 Hard	坚硬	地面情况
-rapier	长剑
+rapier	细剑
 chain	锁链
 Whirlwind Attack	旋风攻击
 Skill	技能
@@ -731,7 +731,7 @@ piton	岩钉
 rope	绳索
 load	负载
 discretion	自由裁量
-chain-link fence	铁丝网围栏
+chain-link fence	铁丝网栅栏
 air duct	通风管
 slippery	光滑的
 Find File	查找文件
@@ -760,7 +760,7 @@ base	盐基
 explosive	爆炸物
 substance	物质
 from scratch	从零开始，土法制造
-Improvised	简易的
+Improvised	临时的
 Powerful	大威力的	爆炸物
 Devastating	毁灭性的	爆炸物
 concussion	震荡
@@ -1199,7 +1199,7 @@ ceramic	陶瓷
 caustic	腐蚀性的
 rag	破布
 Brass knuckles	指虎
-Cleaver	砍刀
+Cleaver	菜刀
 Club	木棒
 Knife	小刀
 Metal baton	甩棍
@@ -1211,11 +1211,9 @@ fixed	已安装	刺刀的状态
 Bayonet	刺刀
 Longsword	长剑
 Machete	弯刀
-Rapier	细剑
 Spear	矛
 Straight razor	刮脸刀
 Sword cane	手杖剑
-Chain	锁链
 manriki-gusari	万力锁	日本的武器，锁链两头各有一个重物
 Chain saw	链锯
 Kama	日本镰	一种武器
@@ -1223,3 +1221,46 @@ Katana	打刀
 Kukri	反曲刀
 Nunchaku	双节棍
 Three-section staff	三节棍
+twin butterfly swords	合掌刀	咏春八斩刀（刀法）所用的武器
+switchblades	弹簧刀
+Pistol Whip	手枪托
+Rifle Butt	步枪托
+impromptu	临时的
+Stun Gun	电棍
+double weapon	双头武器
+two weapons	双武器
+reach weapon	长型武器
+fence	栅栏
+shaft	柄
+simple weapon	简单武器
+Ashtray	烟灰缸
+CD disk case	CD碟盒
+paperweight	镇纸
+softball	垒球
+hubcap	轮毂盖
+stool	凳子
+hockey	曲棍球
+nail gun	射钉枪
+tire iron	撬胎棒
+sawhorse	锯木梁
+dumpster	大垃圾桶
+cabinet	橱柜
+soda machine	冷饮贩卖机
+stoplight	红绿灯
+absorb	吸收	伤害
+shatter	粉碎
+bend	弯折
+archaic	古典
+tactical	战术
+concealable	隐藏
+Leather jacket	皮夹克
+Leather armor	皮甲
+Light undercover shirt	轻型衬甲
+Pull-up pouch vest	上拉式便携防弹衣
+Undercover vest	衬甲背心
+Concealable vest	内穿防弹衣
+Chainmail shirt	锁链甲衫
+Light-duty vest	轻型执勤背心
+Tactical vest	战术背心
+Plate mail	板链甲
+Forced entry unit	攻坚套装

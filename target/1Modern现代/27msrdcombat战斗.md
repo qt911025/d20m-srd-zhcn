@@ -60,7 +60,7 @@ Dexterity measures coordination and steadiness, so a character’s Dexterity mod
 
 ### Range Penalty
 
-The range penalty for a ranged weapon depends on what weapon the character is using and how far away the target is. All ranged weapons and thrown weapons have a range increment (see Table: Ranged Weapons and Table: Melee Weapons). Any attack from a distance of less than one range increment is not penalized for range. However, each full range increment causes a cumulative –2 penalty on the attack roll. A thrown weapon has a maximum range of five range increments. Ranged weapons that fire projectiles can shoot up to ten increments.
+The range penalty for a ranged weapon depends on what weapon the character is using and how far away the target is. All ranged weapons and thrown weapons have a range increment (see Table: Ranged Weapons and Table: Melee Weapons). Any attack from a distance of less than one range increment is not penalized for range. 超过射程跨度时，每超过一倍射程跨度，攻击骰都要受到2点减值。A thrown weapon has a maximum range of five range increments. Ranged weapons that fire projectiles can shoot up to ten increments.
 
 ## Damage
 
@@ -959,7 +959,7 @@ Step Three: If the character beats the target’s attack roll, the target is dis
 
 If the character fails the disarm attempt, the target may immediately react and attempt to disarm the character with the same sort of opposed melee attack roll. The opponent’s attempt does not provoke an attack of opportunity from the character. If the opponent fails to disarm, the character does not get a free disarm attempt against the opponent.
 
-### Ranged Weapons
+### 远程武器
 
 To disarm an opponent wielding a ranged weapon, the character makes a melee attack or unarmed attack to strike the weapon in the opponent’s hand (see Attack an Object). If the weapon is held in two hands, it gets a +2 bonus to its Defense. If the character’s attack succeeds, the ranged weapon falls to the ground or winds up in the character’s hands (if the character made the attack unarmed). This kind of disarm attempt provokes an attack of opportunity, but if the character fails, the target does not get to make a disarm attempt against him or her.
 

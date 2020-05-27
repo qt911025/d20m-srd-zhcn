@@ -5,7 +5,7 @@ WEAPONS
 Ranged Weapons
 Descriptions of ranged weapons follow. Some are considered simple weapons (covered by the Simple Weapon Proficiency feat), some are archaic (covered by the Archaic Weapons Proficiency), and some are special in that they do not require a feat to be used effectively.
 
-Table: Ranged Weapons
+表：远程武器
 
 Nonfirearms (feat needed listed in parentheses)
 
@@ -75,7 +75,7 @@ The sticky foam sprayer has a range of 15 feet and fills a 5-foot square per rou
 A character who is glued to the floor can break free with a successful Strength check (DC 20) or by dealing 15 points of damage to the sticky foam with a slashing weapon. A character trying to scrape sticky foam off himself, or another character assisting, does not need to make an attack roll; hitting the sticky foam is automatic, after which the character who hit rolls damage to see how much of the goo he scraped off.
 A character capable of spellcasting who is bound by the sticky foam must make a Concentration check (DC 15) to cast a spell. The sticky foam becomes brittle and breaks apart easily after 10 minutes.
 Super Watergun
-The super watergun is a toy gun that shoots a thin stream of water. The tank holds enough water to shoot 5 times before needing to be refilled. A super watergun has a maximum range of 10 feet. No attack roll is required to hit, and thus no feat is required to operate one effectively. Any creature caught in the path of the stream can make a Reflex save (DC 15) to take half damage (if applicable). Creatures with cover get a bonus on their Reflex save.
+The super watergun is a toy gun that shoots a thin stream of water. The tank holds enough water to shoot 5 times before needing to be refilled. A super watergun has a maximum range of 10 feet. No attack roll is required to hit, and thus no feat is required to operate one effectively. Any creature caught in the path of the stream can make a Reflex save (DC 15) to take half damage (if applicable). 在掩体后的生物的反射豁免会得到一个加值。
 Regular water deals no damage, but special substances (such as holy water) can be used for different effects. If you make a full-round attack against a target, it deals the same amount of damage as a vial of the substance—an attack action does not produce enough of a stream to deal damage.
 The super watergun has a handle that must be pumped to shoot, thus requiring both hands to use effectively. A super watergun cannot hold acid, which will eat through the thin plastic tank in a matter of seconds. The entire tank of water must contain the given substance to be effective— mixing with regular water will negate the effect.
 Water Cannon
@@ -85,7 +85,7 @@ A person struck by a water cannon takes 1d10 points of nonlethal damage per roun
 Ammunition
 This section covers unique and exotic ammunition that a hero might use during an adventure.
 
-Table: Ammunition
+表：弹药
 
 |Ammunition Type|Purchase DC Modifier|Restriction|
 |---------------|:------------------:|:---------:|
@@ -132,7 +132,7 @@ White phosphorous-tipped rounds can inflict terrible burns on a target. These ro
 Melee Weapons
 Melee weapons are used in close combat and are generally among the simplest weapons to use. The feat that provides proficiency with these weapons varies from weapon to weapon; some are considered simple weapons (covered by the Simple Weapon Proficiency feat); others are archaic (covered by the Archaic Weapons Proficiency feat) or exotic (covered by the Exotic Melee Weapons feat).
 
-Table: Melee Weapons
+表：近战武器
 
 |Weapon|Damage|Critical|Damage Type|Range Increment|Size|Weight|Purchase DC|Restriction|
 |------|:----:|:------:|:---------:|---------------|:--:|:----:|:---------:|:---------:|

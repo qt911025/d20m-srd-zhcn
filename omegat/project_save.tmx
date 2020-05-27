@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Armor</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T133810Z" creationid="quentine" creationdate="20200525T133810Z">
+        <seg>## 护甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Athlete</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181104T121952Z" creationid="QuenTine" creationdate="20181104T121952Z">
@@ -3038,6 +3046,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Improvised Weapons</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144700Z" creationid="quentine" creationdate="20200520T143356Z">
+        <seg>### 临时武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Increases in Constitution Score and Current Hit Points</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T114046Z" creationid="quentine" creationdate="20190115T114046Z">
@@ -3578,8 +3594,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>### Simple Weapons Proficiency</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190803T143101Z" creationid="quentine" creationdate="20190803T143101Z">
-        <seg>### 擅长简易武器</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144519Z" creationid="quentine" creationdate="20190803T143101Z">
+        <seg>### 擅长简单武器</seg>
       </tuv>
     </tu>
     <tu>
@@ -4072,6 +4088,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Archaic Melee Weapons</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T132339Z" creationid="quentine" creationdate="20200519T132339Z">
+        <seg>#### 古典近战武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### Armor Table</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T134250Z" creationid="quentine" creationdate="20200525T134250Z">
+        <seg>#### 护甲列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### Banish</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190613T141934Z" creationid="quentine" creationdate="20190613T141934Z">
@@ -4264,6 +4296,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Exotic Melee Weapons</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T140553Z" creationid="quentine" creationdate="20200519T140553Z">
+        <seg>#### 异种近战武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### Expert Healer</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190524T125841Z" creationid="quentine" creationdate="20190524T125841Z">
@@ -4356,6 +4396,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190421T130359Z" creationid="quentine" creationdate="20190421T130359Z">
         <seg>#### 护卫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### Heavy Armor</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T134230Z" creationid="quentine" creationdate="20200527T134230Z">
+        <seg>#### 重型护甲</seg>
       </tuv>
     </tu>
     <tu>
@@ -4472,6 +4520,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#### Light Armor</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200526T141829Z" creationid="quentine" creationdate="20200526T141829Z">
+        <seg>#### 轻型护甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#### Lightning Shot</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190413T134931Z" creationid="quentine" creationdate="20190413T134931Z">
@@ -4548,6 +4604,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190524T125716Z" creationid="quentine" creationdate="20190524T125716Z">
         <seg>#### 医疗专精</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>#### Medium Armor</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T130637Z" creationid="quentine" creationdate="20200527T130637Z">
+        <seg>#### 中型护甲</seg>
       </tuv>
     </tu>
     <tu>
@@ -4746,8 +4810,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>#### Simple Melee Weapons</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200518T152141Z" creationid="quentine" creationdate="20200518T152141Z">
-        <seg>#### 简易近战武器</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T131335Z" creationid="quentine" creationdate="20200518T152141Z">
+        <seg>#### 简单近战武器</seg>
       </tuv>
     </tu>
     <tu>
@@ -5064,6 +5128,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>##### Bayonet (Fixed)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T132739Z" creationid="quentine" creationdate="20200519T132739Z">
+        <seg>##### 刺刀（已安装）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>##### Benelli 121 M1</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T023203Z" creationid="quentine" creationdate="20200419T023203Z">
@@ -5120,10 +5192,50 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>##### Chain</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T141106Z" creationid="quentine" creationdate="20200519T141106Z">
+        <seg>##### 锁链</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Chain Saw</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T142849Z" creationid="quentine" creationdate="20200519T142849Z">
+        <seg>##### 链锯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Chainmail Shirt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T132618Z" creationid="quentine" creationdate="20200527T132618Z">
+        <seg>##### 锁链甲衫</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>##### Charm Talent Tree</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190202T114954Z" creationid="quentine" creationdate="20190202T114954Z">
         <seg>##### 魅惑天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Cleaver</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T125007Z" creationid="quentine" creationdate="20200519T124949Z">
+        <seg>##### 菜刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Club</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T125559Z" creationid="quentine" creationdate="20200519T125559Z">
+        <seg>##### 木棒</seg>
       </tuv>
     </tu>
     <tu>
@@ -5156,6 +5268,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200420T134522Z" creationid="quentine" creationdate="20200420T134522Z">
         <seg>##### 复合弓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Concealable Vest</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T130908Z" creationid="quentine" creationdate="20200527T130908Z">
+        <seg>##### 内穿防弹衣</seg>
       </tuv>
     </tu>
     <tu>
@@ -5280,6 +5400,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>##### Forced Entry Unit</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T135134Z" creationid="quentine" creationdate="20200527T135134Z">
+        <seg>##### 攻坚套装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>##### Fragmentation Grenade</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200507T135506Z" creationid="quentine" creationdate="20200507T135506Z">
@@ -5336,6 +5464,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>##### Hatchet</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T134317Z" creationid="quentine" creationdate="20200519T134317Z">
+        <seg>##### 手斧</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>##### Healing Talent Tree</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190202T042222Z" creationid="quentine" creationdate="20190202T042222Z">
@@ -5376,10 +5512,82 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>##### Kama</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T141753Z" creationid="quentine" creationdate="20200520T141753Z">
+        <seg>##### 日本镰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Katana</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T142027Z" creationid="quentine" creationdate="20200520T142027Z">
+        <seg>##### 打刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Knife</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T125809Z" creationid="quentine" creationdate="20200519T125809Z">
+        <seg>##### 小刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Kukri</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T142551Z" creationid="quentine" creationdate="20200520T142551Z">
+        <seg>##### 反曲刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>##### Leadership Talent Tree</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T072946Z" creationid="quentine" creationdate="20190216T072946Z">
         <seg>##### 领导天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Leather Armor</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T122819Z" creationid="quentine" creationdate="20200527T122819Z">
+        <seg>##### 皮甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Leather Jacket</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T122611Z" creationid="quentine" creationdate="20200527T122611Z">
+        <seg>##### 皮夹克</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Light Undercover Shirt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T123146Z" creationid="quentine" creationdate="20200527T123146Z">
+        <seg>##### 轻型衬甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Light-Duty Vest</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T133543Z" creationid="quentine" creationdate="20200527T133543Z">
+        <seg>##### 轻型执勤背心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Longsword</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T134609Z" creationid="quentine" creationdate="20200519T134609Z">
+        <seg>##### 长剑</seg>
       </tuv>
     </tu>
     <tu>
@@ -5440,10 +5648,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>##### Machete</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T134747Z" creationid="quentine" creationdate="20200519T134747Z">
+        <seg>##### 弯刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>##### Melee Smash Talent Tree</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T130409Z" creationid="quentine" creationdate="20190116T130409Z">
         <seg>##### 近战强击天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Metal Baton</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T130503Z" creationid="quentine" creationdate="20200519T130503Z">
+        <seg>##### 甩棍</seg>
       </tuv>
     </tu>
     <tu>
@@ -5464,6 +5688,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>##### Nunchaku</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T142731Z" creationid="quentine" creationdate="20200520T142731Z">
+        <seg>##### 双节棍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>##### Pathfinder</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200418T024741Z" creationid="quentine" creationdate="20200418T024741Z">
@@ -5480,10 +5712,42 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>##### Pistol Whip</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T130758Z" creationid="quentine" creationdate="20200519T130758Z">
+        <seg>##### 手枪托</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Plate Mail</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T134435Z" creationid="quentine" creationdate="20200527T134435Z">
+        <seg>##### 板链甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>##### Psicraft (Int)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190619T132746Z" creationid="quentine" creationdate="20190619T132746Z">
         <seg>##### 辨识灵能（智）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Pull-Up Pouch Vest</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T125422Z" creationid="quentine" creationdate="20200527T123623Z">
+        <seg>##### 上拉式便携防弹衣</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Rapier</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T134852Z" creationid="quentine" creationdate="20200519T134852Z">
+        <seg>##### 细剑</seg>
       </tuv>
     </tu>
     <tu>
@@ -5512,6 +5776,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>##### Rifle Butt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T131010Z" creationid="quentine" creationdate="20200519T131010Z">
+        <seg>##### 步枪托</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>##### Ruger Service-Six</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200418T030702Z" creationid="quentine" creationdate="20200418T030702Z">
@@ -5532,6 +5804,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T011049Z" creationid="quentine" creationdate="20200419T011049Z">
         <seg>##### 塞茨M9“解决者”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Sap</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T131130Z" creationid="quentine" creationdate="20200519T131130Z">
+        <seg>##### 闷棍</seg>
       </tuv>
     </tu>
     <tu>
@@ -5568,6 +5848,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>##### Spear</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T135214Z" creationid="quentine" creationdate="20200519T135214Z">
+        <seg>##### 矛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Special Response Vest</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T134647Z" creationid="quentine" creationdate="20200527T134647Z">
+        <seg>##### 特战背心</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>##### Spellbooks</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190623T121633Z" creationid="quentine" creationdate="20190623T121633Z">
@@ -5592,6 +5888,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>##### Straight Razor</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T135559Z" creationid="quentine" creationdate="20200519T135559Z">
+        <seg>##### 刮脸刀</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>##### Strategy Talent Tree</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190201T143105Z" creationid="quentine" creationdate="20190201T143105Z">
@@ -5600,10 +5904,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>##### Stun Gun</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T131743Z" creationid="quentine" creationdate="20200519T131230Z">
+        <seg>##### 电棍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Sword Cane</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T140231Z" creationid="quentine" creationdate="20200519T140231Z">
+        <seg>##### 手杖剑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>##### TEC-9</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T012147Z" creationid="quentine" creationdate="20200419T012147Z">
         <seg>##### TEC-9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Tactical Vest</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T133925Z" creationid="quentine" creationdate="20200527T133925Z">
+        <seg>##### 战术背心</seg>
       </tuv>
     </tu>
     <tu>
@@ -5632,10 +5960,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>##### Three-Section Staff</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T142934Z" creationid="quentine" creationdate="20200520T142934Z">
+        <seg>##### 三节棍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Tonfa</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T132039Z" creationid="quentine" creationdate="20200519T132039Z">
+        <seg>##### 卜字拐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>##### Unbreakable Talent Tree</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190117T144637Z" creationid="quentine" creationdate="20190117T144637Z">
         <seg>##### 不破金身天赋树</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>##### Undercover Vest</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T130059Z" creationid="quentine" creationdate="20200527T130059Z">
+        <seg>##### 衬甲背心</seg>
       </tuv>
     </tu>
     <tu>
@@ -6134,10 +6486,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(The taser is a ranged weapon with a similar effect.) On a successful hit, the stun gun deals 1d3 points of electricity damage,(do not add the character’s Str bonus) and the target must make a Fortitude saving throw (DC 15) or be paralyzed for 1d6 rounds.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T132029Z" creationid="quentine" creationdate="20200519T131834Z">
+        <seg>（电击枪则是远程版的电棍。）成功击中时，电极将造成1d3点电能伤害（不能应用力量加值），目标必须进行一次强韧豁免（DC15），失败则麻痹1d6轮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(The user can roll it out onto the road without entering the lane of traffic.) Until the strip is activated, the spikes do not protrude, and cars can pass safely over it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T034418Z" creationid="quentine" creationdate="20200116T034418Z">
         <seg>（使用者无需身处街道上就能将其布设。）在钉障激活前，钉刺未伸出，车辆可安全通过。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(The walking stick or umbrella is not concealed, only the blade within.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T140546Z" creationid="quentine" creationdate="20200519T140546Z">
+        <seg>（手杖和雨伞不隐藏，只有剑刃隐藏。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -6793,6 +7161,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Armor Penalty:** The heavier or bulkier the armor, the more it affects certain skills.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200526T132800Z" creationid="quentine" creationdate="20200526T132800Z">
+        <seg>**护甲减值：** 护甲越笨重，对特定技能的影响越大。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Art:** Fine arts and graphic arts, including art history and artistic techniques.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191022T134818Z" creationid="quentine" creationdate="20191022T134643Z">
@@ -7380,8 +7756,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>**Benefit:** The character makes attack rolls with simple weapons normally.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190803T143237Z" creationid="quentine" creationdate="20190803T143237Z">
-        <seg>**效果：** 角色可以正常地用简易武器掷攻击骰。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144523Z" creationid="quentine" creationdate="20190803T143237Z">
+        <seg>**效果：** 角色可以正常地用简单武器掷攻击骰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8380,8 +8756,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>**Damage Type:** Ranged weapon damage is classified according to type: ballistic (all firearms), energy (of a specific type), piercing (some simple ranged weapons), or slashing (a whip).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200516T142422Z" creationid="quentine" creationdate="20200410T120642Z">
-        <seg>**伤害类型：** 远程武器的伤害分为几类：实弹（所有火器），能量（一些特殊武器）、穿刺（一些简易远程武器）、以及劈砍（鞭子）。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T131245Z" creationid="quentine" creationdate="20200410T120642Z">
+        <seg>**伤害类型：** 远程武器的伤害分为几类：实弹（所有火器），能量（一些特殊武器）、穿刺（一些简单远程武器）、以及劈砍（鞭子）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8574,6 +8950,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T134652Z" creationid="quentine" creationdate="20191030T134652Z">
         <seg>**能量吸取（超自然）：** 此攻击能让对手的能量衰竭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Equipment Bonus:** The protective value of the armor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T141913Z" creationid="quentine" creationdate="20200525T141913Z">
+        <seg>**装备加值：** 护甲的防护值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9362,6 +9746,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Maximum Dex Bonus:** This number is the maximum Dexterity bonus to Defense that this type of armor allows.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200526T132433Z" creationid="quentine" creationdate="20200526T132316Z">
+        <seg>**最大敏捷加值：** 该数值是这种护甲所允许的防御敏捷加值上限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Melee Smash:** The Strong hero receives a +1 bonus on melee damage.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T130511Z" creationid="quentine" creationdate="20190116T130511Z">
@@ -9374,6 +9766,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T133223Z" creationid="quentine" creationdate="20190805T133223Z">
         <seg>**其他调整值：** 其他调整值包括专长和职业专长提供的调整值，以及减值，如不擅长防具带来的减值等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Nonproficient Bonus:** The maximum amount of the armor’s equipment bonus that can be applied to the wearer’s Defense if the wearer is using armor with which he or she isn’t proficient (doesn’t have the appropriate feat).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200526T132207Z" creationid="quentine" creationdate="20200526T032859Z">
+        <seg>**不擅长加值：** 装备者在不擅长此装备时（没有相应的专长），护甲所能给装备者的防御提供的最大装备加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9460,8 +9860,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>**Normal:** A character without this feat takes the –4 nonproficient penalty when making attacks with simple weapons.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190803T143334Z" creationid="quentine" creationdate="20190803T143334Z">
-        <seg>**正常：**无此专长的角色将在使用简易武器掷攻击骰时受到4点`不擅长减值`。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144527Z" creationid="quentine" creationdate="20190803T143334Z">
+        <seg>**正常：**无此专长的角色将在使用简单武器掷攻击骰时受到4点`不擅长减值`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10122,6 +10522,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Purchase DC:** This is the purchase DC for a Wealth check to acquire the armor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200526T133317Z" creationid="quentine" creationdate="20200526T133317Z">
+        <seg>**购买 DC:** 获得此护甲所需财富检定的购买DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Purchase DC:** This is the purchase DC for a Wealth check to acquire the item.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T141745Z" creationid="quentine" creationdate="20191105T141745Z">
@@ -10286,6 +10694,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200513T150225Z" creationid="quentine" creationdate="20200513T150225Z">
         <seg>**限制级：** 下列所有近战武器都不受管制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Restriction:** The restriction rating for the armor, if any, and the appropriate black market purchase DC modifier.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200526T133342Z" creationid="quentine" creationdate="20200526T133342Z">
+        <seg>**限制级：** 护甲的管制等级，如果有，还会列出相应的黑市购买DC调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11395,6 +11811,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Speed (30 ft):** Medium and heavy armor slows a character down.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200526T133100Z" creationid="quentine" creationdate="20200526T133100Z">
+        <seg>**速度（30尺）：** 中型和重型护甲将减慢角色的速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Spell Resistance (Ex):** A creature with spell resistance can avoid the effects of spells and spell-like abilities that directly affect it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191102T020825Z" creationid="quentine" creationdate="20191102T020825Z">
@@ -12291,6 +12715,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Type:** Armor comes in four types: archaic, impromptu, concealable, and tactical.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T134932Z" creationid="quentine" creationdate="20200525T134451Z">
+        <seg>**类型：** 护甲有4种类型：古典、临时、隐藏、战术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Type:** The disease’s method of delivery—ingested, inhaled, or via an injury—and the DC needed to save.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T142148Z" creationid="quentine" creationdate="20190115T142148Z">
@@ -12383,6 +12815,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190522T142530Z" creationid="quentine" creationdate="20190522T142530Z">
         <seg>**财富检定：** 制造机器人所需部件的购买DC取决于其体型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Weight:** This column gives the armor’s weight.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200526T133300Z" creationid="quentine" creationdate="20200526T133300Z">
+        <seg>**重量：** 此项为护甲的重量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13561,6 +14001,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can deal nonlethal damage with a tonfa without taking the usual –4 penalty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T132332Z" creationid="quentine" creationdate="20200519T132332Z">
+        <seg>角色可用卜字拐施加非致命伤害，但伤害骰不再有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can declare the use of 1 action point to alter a d20 roll after the roll is made—but only before the GM reveals the result of that roll (whether the attack or check or saving throw suc-ceeded or failed).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T134456Z" creationid="quentine" creationdate="20190114T134456Z">
@@ -13577,10 +14025,50 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can effectively wield or throw an object of his or her size category or smaller using one hand.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T130410Z" creationid="quentine" creationdate="20200525T130410Z">
+        <seg>角色可以只用单手手握或投掷小于等于其大小的物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can effectively wield or throw an object one size category larger than him or herself using two hands.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T130524Z" creationid="quentine" creationdate="20200525T130524Z">
+        <seg>角色可以用双手手握或投掷比自己大一级的物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can examine up to a 5-foot-by-5-foot area or a volume of goods 5 feet on a side with a single check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T130036Z" creationid="quentine" creationdate="20191027T130036Z">
         <seg>角色一次检定可以检查5×5尺的区域或者5尺大小的货物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can fight with it as if fighting with two weapons, but if he or she does, the character incurs all the normal attack penalties associated with fighting with two weapons, as if using a one-handed weapon and a light weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T143347Z" creationid="quentine" creationdate="20200520T143347Z">
+        <seg>角色可以使用双头武器的两端同时战斗，就像使用双武器战斗一样，但同时也会受到使用双武器战斗的减值，视为一把单手武器和一把轻武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can fight with it as if fighting with two weapons, but if the character does so, he or she incurs all the normal attack penalties associated with fighting with two weapons, as if using a one-handed weapon and a light weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T134312Z" creationid="quentine" creationdate="20200519T134312Z">
+        <seg>角色可以使用双头武器的两端同时战斗，就像使用双武器战斗一样，但同时也会受到使用双武器战斗的减值，视为一把单手武器和一把轻武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can fight with it as if fighting with two weapons, incurring all the normal attack penalties as if using a one-handed weapon and a light weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T142136Z" creationid="quentine" creationdate="20200519T141629Z">
+        <seg>角色可以将其作为双头武器使用，就像使用双武器战斗一样，但同时也会受到使用双武器战斗的减值，视为一把单手武器和一把轻武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13729,6 +14217,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can select the Weapon Finesse feat to apply his or her Dexterity modifier instead of Strength modifier to attack rolls with a chain.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T142830Z" creationid="quentine" creationdate="20200519T142830Z">
+        <seg>角色可选择发动`武器娴熟`专长，在使用锁链攻击时用敏捷调整值代替力量调整值应用到攻击骰上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can select the Weapon Finesse feat to apply his or her Dexterity modifier instead of Strength modifier to attack rolls with a knife.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T130457Z" creationid="quentine" creationdate="20200519T130457Z">
+        <seg>角色可选择发动`武器娴熟`专长，在使用小刀攻击时用敏捷调整值代替力量调整值应用到攻击骰上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can select the Weapon Finesse feat to apply his or her Dexterity modifier instead of Strength modifier to attack rolls with a rapier.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T135209Z" creationid="quentine" creationdate="20200519T135209Z">
+        <seg>角色可选择发动`武器娴熟`专长，在使用细剑攻击时用敏捷调整值代替力量调整值应用到攻击骰上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can spend 1 action point to do one of these things:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T133401Z" creationid="quentine" creationdate="20190114T133401Z">
@@ -13749,6 +14261,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T134701Z" creationid="quentine" creationdate="20190115T134357Z">
         <seg>角色能够对同样体型或者比自己大一级或小一级的目标扼喉或使其窒息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can strike opponents 10 feet away with it, but can’t use it against an adjacent foe.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T142237Z" creationid="quentine" creationdate="20200519T135554Z">
+        <seg>角色可攻击10尺内的目标，但不能攻击相邻的目标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14237,6 +14757,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T135226Z" creationid="quentine" creationdate="20190115T135226Z">
         <seg>角色坠落后，每10尺的高度角色受到1d6的伤害，封顶20d6。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character takes a –4 penalty on his or her attack roll when wielding or throwing an improvised weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144700Z" creationid="quentine" creationdate="20200520T143721Z">
+        <seg>角色在使用临时武器攻击或投掷时，攻击骰会有4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14865,6 +15393,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A collapsed baton is Small and can’t be used as a weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T130654Z" creationid="quentine" creationdate="20200519T130654Z">
+        <seg>收缩的甩棍是小型尺寸，且不能作为武器使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A college-age student should also pick a major field of study.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181104T142645Z" creationid="QuenTine" creationdate="20181104T142645Z">
@@ -15345,6 +15881,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A kama is a wooden shaft with a scythe blade extending at a right angle out from the shaft Kama are traditional weapons in various styles of karate.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T142018Z" creationid="quentine" creationdate="20200520T142018Z">
+        <seg>日本镰是一种木柄镰刀头武器，镰刀刃在柄的末端按一定角度延伸出来，是日本武术中常见的武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A killed creature dies (if it is living) or is destroyed (if it is a construct or an undead).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190611T144208Z" creationid="quentine" creationdate="20190611T144208Z">
@@ -15397,6 +15941,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190808T133234Z" creationid="quentine" creationdate="20190808T133234Z">
         <seg>而一个谎言只是捏造事实而已。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A lightweight tactical vest designed for extended use by riot police and forces on alert for potential attack, this armor sacrifices a degree of protection for a modicum of comfort—at least compared to other tactical body armors.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T133918Z" creationid="quentine" creationdate="20200527T133918Z">
+        <seg>这种护甲相比于其他战术护甲，为提高轻便性牺牲了一点防护力，是一种针对镇压暴乱、防御潜在攻击而设计的军警两用轻型战术背心。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15609,6 +16161,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A number of other impromptu armors, such as a football pads and a baseball catcher’s pads, offer similar protection and game statistics.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T122812Z" creationid="quentine" creationdate="20200527T122812Z">
+        <seg>许多其他的临时护甲，例如橄榄球护具和棒球接球手护具，都提供相似的防护，数值上与其相当。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A number of types of homes are mentioned on Table:Lifestyle.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T115317Z" creationid="quentine" creationdate="20200117T115310Z">
@@ -15677,6 +16237,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T114419Z" creationid="quentine" creationdate="20190116T114419Z">
         <seg>角色每升一级，玩家会投掷指定的骰子。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A popular martial arts weapon, the nunchaku is made of two wooden shafts connected by a short length of rope or chain.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T142926Z" creationid="quentine" creationdate="20200520T142926Z">
+        <seg>双节棍是一种流行的武术武器，由两根木柄和连接木柄的短绳或短链组成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16001,6 +16569,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A strike with brass knuckles is otherwise considered an unarmed attack.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T124624Z" creationid="quentine" creationdate="20200519T124624Z">
+        <seg>用指虎造成攻击仍算是徒手击打。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A student can be in high school, college, or graduate school.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181104T142452Z" creationid="QuenTine" creationdate="20181104T142452Z">
@@ -16180,9 +16756,9 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
         <seg>A surface with sizable ledges to hold on to and stand on, such as a rugged cliff face.|
 |15|Any surface with adequate handholds and footholds (natural or artificial), such as a rough natural rock surface, a tree, or a chain-link fence.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190808T144811Z" creationid="quentine" creationdate="20190808T144811Z">
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T141338Z" creationid="quentine" creationdate="20190808T144811Z">
         <seg>有足够抱住和站立的突出部的表面，比如崎岖的峭壁表面。|
-|15|有足够抓住的把手点和脚踏点（天然或人工）的表面，比如粗糙的天然岩石表面、一棵树、或者铁丝网围栏。</seg>
+|15|有足够抓住的把手点和脚踏点（天然或人工）的表面，比如粗糙的天然岩石表面、一棵树、或者铁丝网栅栏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17075,6 +17651,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Almost anything can be used as a club.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T125633Z" creationid="quentine" creationdate="20200519T125633Z">
+        <seg>几乎所有物品都可当作木棒使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Almost anything is available on the black market.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T124513Z" creationid="quentine" creationdate="20191104T124513Z">
@@ -17087,6 +17671,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190112T062651Z" creationid="quentine" creationdate="20190112T062651Z">
         <seg>任何时候角色购买了购买DC大于等于15的物品或服务，在原基础上额外减少一点财富加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also called the manriki-gusari, this is a simple chain with weighted ends.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T141210Z" creationid="quentine" creationdate="20200519T141210Z">
+        <seg>这种简单的、末端有重物的锁链又称“万力锁”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17319,6 +17911,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200507T132203Z" creationid="quentine" creationdate="20200507T132002Z">
         <seg>虽然表中的数据是一磅的，但C4是以一包4块的量出售的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Although the name suggests a ranged weapon, a stun gun requires physical contact to affect its target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T131839Z" creationid="quentine" creationdate="20200519T131726Z">
+        <seg>电棍需要近距离接触目标来攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17581,8 +18181,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>An exceptionally heavy wire cutter, a bolt cutter can snip through padlocks or chain-link fences.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200116T022113Z" creationid="quentine" creationdate="20200115T072800Z">
-        <seg>格外笨重的剪线钳，断线钳能直接剪断挂锁或铁丝网围栏。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T141338Z" creationid="quentine" creationdate="20200115T072800Z">
+        <seg>格外笨重的剪线钳，断线钳能直接剪断挂锁或铁丝网栅栏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17607,6 +18207,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T095533Z" creationid="quentine" creationdate="20200117T095533Z">
         <seg>挂载手电筒能挂载在火器上，解放一只手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An improvised thrown weapon has a range increment of 10 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T131426Z" creationid="quentine" creationdate="20200525T131426Z">
+        <seg>临时投掷武器的射程跨度都是10尺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An improvised weapon has a 50% chance of breaking each time it deals damage or, in the case of thrown objects, strikes a surface (such as a wall) or an object larger than itself.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T133806Z" creationid="quentine" creationdate="20200525T133806Z">
+        <seg>临时武器在每次造成伤害、投掷、攻击表面（比如墙）、或攻击比自身大的物体后都有50%的几率被破坏掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An improvised weapon is not considered simple, archaic, or exotic, so weapon proficiency feats cannot offset the –4 penalty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144854Z" creationid="quentine" creationdate="20200520T144441Z">
+        <seg>临时武器不会再视为为简单、古典、异种武器，所以擅长专长无法免除4点惩罚。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17955,6 +18579,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Any portable object can be used as a weapon in a pinch.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T143453Z" creationid="quentine" creationdate="20200520T143453Z">
+        <seg>在紧要关头可以用作武器的便携物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Any potion that stores a spell with a costly material component or an XP cost also carries a commensurate cost.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190624T141631Z" creationid="quentine" creationdate="20190624T141631Z">
@@ -18139,10 +18771,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Archaic armor is old-fashioned armor, such as medieval chainmail and plate mail.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T135128Z" creationid="quentine" creationdate="20200525T135128Z">
+        <seg>古典护甲指那些过时的盔甲，比如中世纪锁链甲和板链甲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Armor Proficiency (light), Armor Proficiency (medium), Cautious, Defensive Martial Arts, Dodge, Educated, Im-proved Initiative, Medical Expert, Personal Firearms Proficiency, Surface Vehicle Operation, Vehicle Expert.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190524T131035Z">
         <seg>擅长护甲（轻型）、擅长护甲（中型）、谨慎、防御武术、闪避、良好教育、精通先攻、医药专家、擅长单兵火器、地面载具操作、载具专家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Armor is described by a number of statistics, as shown on Table: Armor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T134308Z" creationid="quentine" creationdate="20200525T134308Z">
+        <seg>护甲有各种属性，见表：护甲。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18693,8 +19341,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>At 2nd level, an Infiltrator no longer takes a –4 penalty when wielding an improvised weapon.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190417T141723Z" creationid="quentine" creationdate="20190417T141723Z">
-        <seg>2级时，渗透者持有简易武器不再有4点减值。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144700Z" creationid="quentine" creationdate="20190417T141723Z">
+        <seg>2级时，渗透者持有临时武器不再有4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19157,8 +19805,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>At 7th level, an Infiltrator’s attacks with improvised weapons deal more damage.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190417T235036Z" creationid="quentine" creationdate="20190417T235036Z">
-        <seg>7级时，渗透者用简易武器攻击时可造成更多伤害。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144700Z" creationid="quentine" creationdate="20190417T235036Z">
+        <seg>7级时，渗透者用临时武器攻击时可造成更多伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19389,8 +20037,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>At the GM’s discretion, impromptu instruments may be employed, but the performer must take a –4 penalty on the check because his or her equipment, although usable, is inappropriate for the skill.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191025T145211Z" creationid="quentine" creationdate="20191025T145211Z">
-        <seg>由GM自由裁量，用即兴的乐器表演，应用最接近的表演类别，检定仍受4点减值。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T134543Z" creationid="quentine" creationdate="20191025T145211Z">
+        <seg>由GM自由裁量，用临时的乐器表演，应用最接近的表演类别，检定仍受4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19691,6 +20339,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Because a chain can wrap around an enemy’s leg or other limb, a character can make a trip attack with it by succeeding at a melee touch attack.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T142554Z" creationid="quentine" creationdate="20200519T142554Z">
+        <seg>因为锁链可以缠绕敌人的脚或其他肢体，角色可以在近距接触攻击成功后进行绊摔攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Because a whip can wrap around an enemy’s leg or other limb, a character can make a trip attack with it by succeeding at a ranged touch attack.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200420T144005Z" creationid="quentine" creationdate="20200420T144005Z">
@@ -19699,10 +20355,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Because each exotic weapon is unique in how it is manipulated and employed, a separate Exotic Melee Weapon Proficiency feat is required for each one in order to avoid the –4 nonproficient penalty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T141051Z" creationid="quentine" creationdate="20200519T141051Z">
+        <seg>因为每种异种武器的操作与使用都是独特的，各种异种武器的`擅长专长`要单独计，以免受4点`不擅长`惩罚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Because its explosive features a shaped charge designed to penetrate the armor of military vehicles, the LAW ignores up to 10 points of hardness if it strikes a vehicle, building, or object.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200420T132832Z" creationid="quentine" creationdate="20200420T132832Z">
         <seg>因为它是为了穿甲而设计成锥形装药，LAW在击中载具、建筑物或其他物体时会无视10点硬度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Because it’s worn over clothing in tactical situations, tactical armor often has pockets, clips, and velcro attachment points for carrying weapons, grenades, ammunition, flashlights, first aid kits, and other items.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T141840Z" creationid="quentine" creationdate="20200525T141840Z">
+        <seg>因为它是要在战术情况下穿在衣服外，所以它通常有口袋、夹子、魔术贴搭扣用于携带武器、榴弹、弹药、手电筒、急救箱以及其他物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Because of this special construction, a sword cane is always considered to be concealed; it is noticed only with a Spot check (DC 18).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T140505Z" creationid="quentine" creationdate="20200519T140505Z">
+        <seg>因其特殊构造，手杖剑总是视为已隐藏，只能被侦察检定（DC18）注意到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19819,6 +20499,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Body armor comes in a variety of shapes and sizes, providing varying degrees of coverage and varying heaviness of materials.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T134020Z" creationid="quentine" creationdate="20200525T134020Z">
+        <seg>护甲有各种形态和尺寸，覆盖度、重量、材质各异。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Body language and attitude aren’t a big part of communication.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190808T133613Z" creationid="quentine" creationdate="20190808T133310Z">
@@ -19895,6 +20583,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190522T141404Z" creationid="quentine" creationdate="20190522T141404Z">
         <seg>构造师、谨慎、寓守于攻、良好教育、技术宅、擅长单兵火器、近程射击、好学。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Built like the tactical vest, but incorporating groin and neck protection as well as a ceramic plate over the chest, this armor provides additional protection in battles against heavily armed opponents.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T135125Z" creationid="quentine" creationdate="20200527T135125Z">
+        <seg>特战背心提供了额外的防护，以应对全副武装的敌人，结构与战术背心相同，但比战术背心多了护胯、护颈和陶瓷胸甲。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20225,8 +20921,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>Choose one light melee weapon, a rapier (if the character can use it with one hand), or a chain.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190804T144808Z" creationid="quentine" creationdate="20190804T144808Z">
-        <seg>选择一个轻型近战武器、长剑（角色需单手就能使用）或者锁链。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T135053Z" creationid="quentine" creationdate="20190804T144808Z">
+        <seg>选择一个轻型近战武器、细剑（角色需单手就能使用）或者锁链。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20431,6 +21127,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Concealable armor is modern body armor designed to fit underneath regular clothing.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T140837Z" creationid="quentine" creationdate="20200525T140837Z">
+        <seg>隐藏护甲是专为隐藏于便服之下而设计的现代护甲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Concealed Carry: A concealed carry holster is designed to help keep a weapon out of sight (see Concealed Weapons and Objects).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T094923Z" creationid="quentine" creationdate="20200117T094923Z">
@@ -20531,6 +21235,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191004T134859Z" creationid="quentine" creationdate="20191004T134859Z">
         <seg>掩体和隐蔽会为躲藏提供情景加值，见下文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Covering a larger area of the torso, this vest provides better protection than the light undercover shirt—but it’s also more easily noticed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T130213Z" creationid="quentine" creationdate="20200527T130213Z">
+        <seg>相比于轻型衬甲，能保护更大的面积，提供更好的防护——但也更容易暴露。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20711,6 +21423,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Damage: Improvised weapons deal lethal damage based on their size, although the GM may adjust the damage of an object that is especially light or heavy for its size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T131943Z" creationid="quentine" creationdate="20200525T131811Z">
+        <seg>伤害：临时武器根据其尺寸造成致命伤害，但GM可酌情调整同尺寸下更重或更轻的物品的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Damaging programming imposes a –4 penalty on all Computer Use checks made with the computer (sometimes this is preferable to destroying the programming, since the user might not know that anything is wrong, and won’t simply decide to use a different computer).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190917T123451Z" creationid="quentine" creationdate="20190917T123113Z">
@@ -20856,6 +21576,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T034222Z" creationid="quentine" creationdate="20200116T034222Z">
         <seg>通过滚动展开将其部署，平铺成平坦而分段的表带状障碍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deploying the apron is a move action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T125948Z" creationid="quentine" creationdate="20200527T125948Z">
+        <seg>展开防弹衣是一个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Designed for deep undercover work in which it’s critical that the wearer not appear to be armed or armored, this garment consists of a T-shirt with a band of light protective material sewn in around the lower torso.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T123726Z" creationid="quentine" creationdate="20200527T123611Z">
+        <seg>轻型衬甲就是一件在躯干位置包裹着轻型防护材料的T恤，专为困难的潜入工作设计，让穿戴者便于出入严禁携带武器和护甲的场所。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21588,6 +22324,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Even if A character’s Dexterity bonus drops to +0 because of armor, the character are not considered to have lost his or her Dexterity bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200526T132720Z" creationid="quentine" creationdate="20200526T132720Z">
+        <seg>但即使角色的敏捷加值被护甲限制到0，角色仍不算“失去”了敏捷加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Even if the character succeeds, he or she typically faces secondary damage 1 minute later.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T141210Z" creationid="quentine" creationdate="20190115T141210Z">
@@ -21804,6 +22548,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Extending or collapsing the baton is a free action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T130713Z" creationid="quentine" creationdate="20200519T130713Z">
+        <seg>甩棍的伸缩是一个即时动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Failure by 10 or more means the explosive goes off as the detonator is being installed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T085741Z" creationid="quentine" creationdate="20190923T132728Z">
@@ -21928,6 +22680,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T134922Z" creationid="quentine" creationdate="20191105T134922Z">
         <seg>有利条件下（光滑的地面、拖动光滑的物品）可拖行重量加倍，不利条件下（破损的地面、推动被阻碍的物品）可拖行重量减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Favored by old-school organized crime “mechanics,” this item can still be found in some barbershops and shaving kits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T140226Z" creationid="quentine" creationdate="20200519T140226Z">
+        <seg>刮脸刀常见于一些老掉牙的罪案情节，至今仍能在理发店和剃须套件中见到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22104,6 +22864,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190926T132019Z" creationid="quentine" creationdate="20190926T132019Z">
         <seg>对于狭窄的空间，只有在空间可容纳角色的头而不能容纳肩膀时需要做检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For a wielder without the feat, the katana must be used with two hands, and the standard –4 nonproficiency penalty applies.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T142517Z" creationid="quentine" creationdate="20200520T142447Z">
+        <seg>无此专长的角色必须用双手使用此刀，且会承受4点`不擅长减值`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22304,6 +23072,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200506T134757Z" creationid="quentine" creationdate="20200506T134757Z">
         <seg>对于溅射武器而言，直接伤害指的是被武器直接击中所造成的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the best protection money can buy, go with heavy armor, but watch out for the armor penalty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T134429Z" creationid="quentine" creationdate="20200527T134429Z">
+        <seg>重型护甲提供了市面所能购买到的最佳防护，然而选用它要留意这种护甲的惩罚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the character who doesn’t want to be bogged down by more cumbersome armor types, a leather garment or some sort of concealable armor is just the ticket.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T122606Z" creationid="quentine" creationdate="20200527T122606Z">
+        <seg>对于不想被笨重的护甲拖累的人，皮革衣物或者一些隐藏护甲是理想的选择。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22692,10 +23476,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Heavier armor limits mobility, reducing a character’s ability to avoid attacks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200526T132536Z" creationid="quentine" creationdate="20200526T132536Z">
+        <seg>护甲越重，角色越不灵活，避免被击中的能力越差。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heavy and cumbersome, this armor is generally only donned by tactical officers heading into a dangerous assault.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T135733Z" creationid="quentine" creationdate="20200527T135733Z">
+        <seg>这种护甲常由抢先突入战场的攻坚者装备，笨重且臃肿。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Heavy clothing or armor provides a –4 penalty on saves against heat but grants a +4 equipment bonus on saves against cold.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T131851Z" creationid="quentine" creationdate="20190115T131851Z">
         <seg>笨重的衣物或护甲对于炎热的豁免检定有4点减值，对于寒冷则有4点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heavy kitchen knives can be snatched up for use as weapons in homes and restaurants.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T125113Z" creationid="quentine" creationdate="20200519T125113Z">
+        <seg>家里或餐馆里可直接抓起来当武器用的重型餐刀。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23072,6 +23880,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T135705Z" creationid="quentine" creationdate="20190114T135705Z">
         <seg>用了行动点发动角色专长就不能再用行动点增强投骰了，反之亦然。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a character uses the chain as a reach weapon, he or she can strike opponents up to 10 feet away.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T142241Z" creationid="quentine" creationdate="20200519T142229Z">
+        <seg>角色如果将其作为长型武器使用，则可攻击10尺内的对手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24128,6 +24944,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190803T142459Z" creationid="quentine" creationdate="20190803T142459Z">
         <seg>如果角色穿着重甲，最大移动速度是正常速度的4倍而不是3倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character is tripped during his or her own trip attempt, the character can drop the chain to avoid being tripped.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T142610Z" creationid="quentine" creationdate="20200519T142610Z">
+        <seg>如果角色绊摔时自己反被绊摔了，角色可以扔掉锁链以避免。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25300,10 +26124,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Impromptu armor includes items that provide protection even though they weren’t designed for that purpose, such as leather biker’s jackets and football pads.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T135743Z" creationid="quentine" creationdate="20200525T135743Z">
+        <seg>临时护甲包括那些能提供防护作用，但本不是为防止伤害而设计的护具，比如机车皮衣、橄榄球护具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Improved evasion can only be used when wearing light armor or no armor.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190417T233220Z" creationid="quentine" creationdate="20190417T233220Z">
         <seg>精通反射闪避只有在穿着轻甲或无甲时生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Improvised weapons of Fine size deal no damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T132837Z" creationid="quentine" creationdate="20200525T132837Z">
+        <seg>超微型的临时武器不会造成伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Improvised weapons threaten a critical hit on a natural roll of 20.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T132817Z" creationid="quentine" creationdate="20200525T132817Z">
+        <seg>临时武器的重击威胁区间仅为20。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25382,48 +26230,48 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>In addition to the two feats all characters get at 1st level, a Charismatic hero begins play with the Simple Weapons Proficiency feat.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190202T113451Z" creationid="quentine" creationdate="20190202T113451Z">
-        <seg>除了所有角色在1级时获得的两个专长，魅力型英雄初始拥有`擅长简易武器`专长。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144457Z" creationid="quentine" creationdate="20190202T113451Z">
+        <seg>除了所有角色在1级时获得的两个专长，魅力型英雄初始拥有`擅长简单武器`专长。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>In addition to the two feats all characters get at 1st level, a Dedicated hero begins play with the Simple Weapons Proficiency feat.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190202T030314Z" creationid="quentine" creationdate="20190202T030314Z">
-        <seg>除了所有角色在1级时获得的两个专长，感知型英雄初始拥有`擅长简易武器`专长。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144456Z" creationid="quentine" creationdate="20190202T030314Z">
+        <seg>除了所有角色在1级时获得的两个专长，感知型英雄初始拥有`擅长简单武器`专长。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>In addition to the two feats all characters get at 1st level, a Fast hero begins play with the Simple Weapons Proficiency feat.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190117T121657Z" creationid="quentine" creationdate="20190117T121657Z">
-        <seg>除了所有角色在1级时获得的两个专长，敏捷型英雄初始拥有`擅长简易武器`专长。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144455Z" creationid="quentine" creationdate="20190117T121657Z">
+        <seg>除了所有角色在1级时获得的两个专长，敏捷型英雄初始拥有`擅长简单武器`专长。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>In addition to the two feats all characters get at 1st level, a Smart hero begins play with the Simple Weapons Proficiency feat.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190201T131635Z" creationid="quentine" creationdate="20190201T131635Z">
-        <seg>除了所有角色在1级时获得的两个专长，智力型英雄初始拥有`擅长简易武器`专长。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144456Z" creationid="quentine" creationdate="20190201T131635Z">
+        <seg>除了所有角色在1级时获得的两个专长，智力型英雄初始拥有`擅长简单武器`专长。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>In addition to the two feats all characters get at 1st level, a Strong hero begins play with the Simple Weapons Proficiency feat.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190116T122552Z" creationid="quentine" creationdate="20190116T122544Z">
-        <seg>除了所有角色在1级时获得的两个专长，力量型英雄初始拥有`擅长简易武器`专长。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144453Z" creationid="quentine" creationdate="20190116T122544Z">
+        <seg>除了所有角色在1级时获得的两个专长，力量型英雄初始拥有`擅长简单武器`专长。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>In addition to the two feats all characters get at 1st level, a Tough hero begins play with the Simple Weapons Proficiency feat.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190117T142716Z" creationid="quentine" creationdate="20190117T142716Z">
-        <seg>除了所有角色在1级时获得的两个专长，体质型英雄初始拥有`擅长简易武器`专长。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144455Z" creationid="quentine" creationdate="20190117T142716Z">
+        <seg>除了所有角色在1级时获得的两个专长，体质型英雄初始拥有`擅长简单武器`专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25528,6 +26376,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T133836Z" creationid="quentine" creationdate="20191105T133836Z">
         <seg>此外，角色的攻击骰和涉及`平衡`、`攀爬`、`脱逃`、`躲藏`、`跳跃`、`潜行`、`翻滚`的检定都承受6点累赘减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, unlike other weapons with reach, the character can use it against an adjacent foe.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T142334Z" creationid="quentine" creationdate="20200519T142334Z">
+        <seg>而且不像其他长型武器，角色可以用锁链攻击到相邻的目标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25656,6 +26512,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190613T134848Z" creationid="quentine" creationdate="20190527T135850Z">
         <seg>在绝大多数冒险里，暗影生物指的是除了人类、动物、虫类之外的生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In most cases, an object can be wielded either as a melee weapon or a ranged weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T143549Z" creationid="quentine" creationdate="20200520T143549Z">
+        <seg>大多数情况下，物品既可当作近战武器使用，也可当作远程武器使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25862,8 +26726,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>In this case, the +2 equipment bonus does not apply.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200115T093437Z" creationid="quentine" creationdate="20200115T093407Z">
-        <seg>这种性况下不能应用2点装备加值。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T141702Z" creationid="quentine" creationdate="20200115T093407Z">
+        <seg>这种情况下不能应用2点装备加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25872,6 +26736,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T135422Z" creationid="quentine" creationdate="20190114T135422Z">
         <seg>花掉的这个行动点不是用来增强d20的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this case, the character can only strike at an adjacent opponent.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T141750Z" creationid="quentine" creationdate="20200519T141651Z">
+        <seg>这种情况下，角色只能攻击相邻的对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this case, the character can only use one end of the chain effectively; he or she can’t use it as a double weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T142500Z" creationid="quentine" creationdate="20200519T142500Z">
+        <seg>这种情况下，角色只能有效地使用其中一端；不能将其作为双武器使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25920,6 +26800,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T120701Z" creationid="quentine" creationdate="20191202T120701Z">
         <seg>购买一次升级会使台式电脑的购买DC+1，笔记本电脑的购买DC+2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase the range increment for creatures of Large size or larger as follows: Large 15 feet, Huge 30 feet, Gargantuan 60 feet, Colossal 120 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T131543Z" creationid="quentine" creationdate="20200525T131543Z">
+        <seg>体型更大的生物射程跨度更高：大型15尺、超大型30尺、巨型60尺、超巨型120尺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26140,10 +27028,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can be whirled quickly, striking with hard blows from the weights.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T141338Z" creationid="quentine" creationdate="20200519T141338Z">
+        <seg>它可以快速旋转，用重物狠狠打击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can be wired into any electrical device, such as a light switch or a car’s ignition switch, with a Demolitions check (DC 10).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T091053Z" creationid="quentine" creationdate="20200117T091053Z">
         <seg>它可以连接至任何电子设备上，比如小开关或者车辆打火开关，这需要做一个爆破检定（DC10）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It can be worn for extended periods of time without fatiguing the wearer.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T141047Z" creationid="quentine" creationdate="20200525T141032Z">
+        <seg>角色可以一直穿着它而不会感到疲乏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26780,6 +27684,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Its weight and bulk make it impractical to wear all the time, and it’s generally only donned when a specific dangerous confrontation is likely.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T141426Z" creationid="quentine" creationdate="20200525T141426Z">
+        <seg>它过于笨重，不适合全天候着装，只有在面临危险情形时才需要穿上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It’s a rare mission that doesn’t end up in the dark somewhere, and heroes need a way to see.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T131251Z" creationid="quentine" creationdate="20190115T131251Z">
@@ -26796,10 +27708,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It’s best used when the armor should remain unseen but the wearer doesn’t expect to face much scrutiny, granting a +2 bonus on Spot checks to notice the armor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T130628Z" creationid="quentine" creationdate="20200527T130628Z">
+        <seg>最好能用在需要隐藏护甲但不被密切监视的地方，注意到此护甲所需的侦察检定会有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It’s generally assumed that a hero owns a reasonable wardrobe of the sorts of clothes that fit his or her lifestyle.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191111T135645Z" creationid="quentine" creationdate="20191111T135344Z">
         <seg>英雄通常自带一个合理的符合其生活方式的衣橱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It’s heavy and cumbersome com-pared to most modern armor, but it does provide a great deal of protection.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T134630Z" creationid="quentine" creationdate="20200527T134630Z">
+        <seg>相对于绝大多数现代护甲，它笨重臃肿，却能提供强大的防护力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It’s heavy, making it uncomfortable to wear for long periods of time.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T132921Z" creationid="quentine" creationdate="20200527T132921Z">
+        <seg>它很重，长时间穿戴会有不适。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27288,8 +28224,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Many splash weapons, such as Molotov cocktails, are essentially homemade devices (improvised explosives).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200513T141126Z" creationid="quentine" creationdate="20200513T141126Z">
-        <seg>许多溅射武器，如莫洛托夫鸡尾酒，都是手工自制的（算作简易爆炸物）。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T131043Z" creationid="quentine" creationdate="20200513T141126Z">
+        <seg>许多溅射武器，如莫洛托夫鸡尾酒，都是手工自制的（算作临时爆炸物）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27370,6 +28306,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200508T124452Z" creationid="quentine" creationdate="20200508T124452Z">
         <seg>军队和警察用它来驱散人群和逼出劫持者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Military and police units use powered saws to cut through fences and open doors rapidly.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T141449Z" creationid="quentine" creationdate="20200520T141337Z">
+        <seg>军队和警察用这种强力的锯子快速锯开栅栏和门。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27462,6 +28406,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most exotic weapons are either atypical in form or improved variations of other melee weapons.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T140730Z" creationid="quentine" creationdate="20200519T140730Z">
+        <seg>异种武器大多要么形态偏门，要么是其他近战武器的变种。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most medium armor (except for the archaic chainmail shirt) is not terribly heavy, but nonetheless provides a significant amount of protection—at the expense of some speed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T130851Z" creationid="quentine" creationdate="20200527T130851Z">
+        <seg>大多数中型护甲（古代的链甲衫除外）不会太重，但也不会提供可观的防护力——也不会太影响速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most of the time, a hero doesn’t decide to use his or her reputation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181106T135332Z" creationid="QuenTine" creationdate="20181106T122736Z">
@@ -27474,6 +28434,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190924T131508Z" creationid="quentine" creationdate="20190924T131508Z">
         <seg>大多数情况下，英雄会见的人对英雄的态度没什么不同，但特别情况下会有不同的初始态度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most of these weapons deal damage by means of a blade or a sharp point.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T132435Z" creationid="quentine" creationdate="20200519T132435Z">
+        <seg>这些武器大多以其刃和尖端造成伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27674,6 +28642,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181022T111824Z" creationid="QuenTine" creationdate="20181022T111824Z">
         <seg>许可证的任何条款都不能增删，除非许可证有特殊说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No weight or purchase DC is given for this weapon, since both vary depending on the pistol used.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T130947Z" creationid="quentine" creationdate="20200519T130947Z">
+        <seg>此项不会列出重量和购买DC，它们取决于手枪本身。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28190,6 +29166,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One end can also be swung to entangle an opponent.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T141451Z" creationid="quentine" creationdate="20200519T141451Z">
+        <seg>可将一端甩出以`纠缠`对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>One hour after a tended, dying character becomes stable, he or she makes a Fortitude save (DC 20) to regain consciousness.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T112800Z" creationid="quentine" creationdate="20190115T112800Z">
@@ -28374,6 +29358,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T122231Z" creationid="quentine" creationdate="20190703T122231Z">
         <seg>路人不会获得基础职业里列出的任何职业专长，无论是天赋还是奖励专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Originally a farm implement for threshing grain, this weapon is composed of three sections of wood of equal lengths, joined at the ends by chain, leather, or rope.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T143254Z" creationid="quentine" creationdate="20200520T143106Z">
+        <seg>三节棍本来是一种打谷的农具，由三根等长的木棍和将三者连接的锁链、皮带或绳子组成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29232,6 +30224,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the armor on the black market.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200526T133402Z" creationid="quentine" creationdate="20200526T133402Z">
+        <seg>记住一定要在黑市购买进行财富检定时加上这些调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the item on the black market.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T141951Z" creationid="quentine" creationdate="20191105T141951Z">
@@ -29482,8 +30482,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>See the Craft (chemical) skill for details on making improvised explosives.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200513T141322Z" creationid="quentine" creationdate="20200513T141322Z">
-        <seg>制造简易爆炸物的细节详见`制造（化学）`技能。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T131110Z" creationid="quentine" creationdate="20200513T141322Z">
+        <seg>制造临时爆炸物的细节详见`制造（化学）`技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30040,6 +31040,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some of them are moderately expensive, reflecting their archaic nature in modern-day society.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T132728Z" creationid="quentine" creationdate="20200519T132728Z">
+        <seg>一些武器中等偏贵，反映了其在现代社会中的收藏价值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some sites can be accessed via the Internet; others are not connected to any outside network and can only be tapped into by a user who physically accesses a computer connected to the site.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T143559Z" creationid="quentine" creationdate="20190916T141417Z">
@@ -30316,6 +31324,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190926T143038Z" creationid="quentine" creationdate="20190926T143038Z">
         <seg>赌注最低购买DC为4，最高可达DC24。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Standard issue in many police forces, this vest provides maximum protection in a garment that can be worn all day long under regular clothing.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T131501Z" creationid="quentine" creationdate="20200527T131501Z">
+        <seg>这种防弹背心是全天候内穿防弹衣中，防护力最强的，是许多警察队伍的标配。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30616,6 +31632,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Table: Armor</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200526T133413Z" creationid="quentine" creationdate="20200526T133413Z">
+        <seg>表：护甲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Table: Carrying Capacity</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T130032Z" creationid="quentine" creationdate="20191105T130032Z">
@@ -30676,6 +31700,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T142004Z" creationid="quentine" creationdate="20191105T142004Z">
         <seg>表：普通装备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table: Improvised Weapon Damage by Size</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144938Z" creationid="quentine" creationdate="20200520T144938Z">
+        <seg>表：不同尺寸的临时武器伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table: Improvised Weapon Damage by Size gives the damage for improvised weapons of varying size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T132707Z" creationid="quentine" creationdate="20200525T132707Z">
+        <seg>表：不同尺寸的临时武器伤害给出了各种尺寸下临时武器的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30748,6 +31788,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T094651Z" creationid="quentine" creationdate="20200116T094651Z">
         <seg>战术地图：战术地图涵盖了小型区域（通常为几里长宽）的详细信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tactical armor is modern body armor that fits over clothing and can’t be easily concealed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T141122Z" creationid="quentine" creationdate="20200525T141122Z">
+        <seg>战术护甲是套在衣服外的护甲，难以隐藏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32154,8 +33202,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>The Infiltrator treats an improvised weapon as one size category larger than it is for the purpose of determining the damage it deals.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190418T000015Z" creationid="quentine" creationdate="20190418T000015Z">
-        <seg>渗透者持有的简易武器在根据尺寸级别确定伤害时，尺寸等价于原尺寸更高一级。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144700Z" creationid="quentine" creationdate="20190418T000015Z">
+        <seg>渗透者持有的临时武器在根据尺寸级别确定伤害时，尺寸等价于原尺寸更高一级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33328,6 +34376,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The butt of a rifle can be used as an impromptu club.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T131121Z" creationid="quentine" creationdate="20200519T131121Z">
+        <seg>步枪的枪托可以当作临时的棍棒使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The caster level has an effect on the purchase DC of the raw materials to brew the potion, the skill check to create the potion, the experience point cost to brew the potion, and the DC of a saving throw (if applicable) to resist the effect of the potion.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190624T140704Z" creationid="quentine" creationdate="20190624T140704Z">
@@ -33340,6 +34396,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190624T140339Z" creationid="quentine" creationdate="20190624T140339Z">
         <seg>此施法者等级必须足以施展该法术，而且不可高于你本身的等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The chain can be used either as a double weapon or as a reach weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T141535Z" creationid="quentine" creationdate="20200519T141535Z">
+        <seg>锁链既可作为双头武器使用也可作为长型武器使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34244,6 +35308,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The cost and weight given are for a single item.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T124900Z" creationid="quentine" creationdate="20200519T124900Z">
+        <seg>所示的价格和重量是一只的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The cost of a mastercraft +3 object would add +9 to the normal purchase DC.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T135156Z" creationid="quentine" creationdate="20191104T135156Z">
@@ -34638,8 +35710,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>The feat that provides proficiency with these weapons varies from weapon to weapon; some are considered simple weapons (covered by the Simple Weapons Proficiency feat); others are archaic (Archaic Weapons Proficiency) or exotic (Exotic Melee Weapon Proficiency).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200513T144805Z" creationid="quentine" creationdate="20200513T144743Z">
-        <seg>每一种武器要求的精通专长都不一样：有的属于简易武器（受`擅长简易武器`专长加成）、有的属于古典武器（`擅长古典武器`）、有的属于异种武器（`擅长异种近战武器`）。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144543Z" creationid="quentine" creationdate="20200513T144743Z">
+        <seg>每一种武器要求的精通专长都不一样：有的属于简单武器（受`擅长简单武器`专长加成）、有的属于古典武器（`擅长古典武器`）、有的属于异种武器（`擅长异种近战武器`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35172,6 +36244,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The katana is the traditional Japanese samurai sword.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T142109Z" creationid="quentine" creationdate="20200520T142109Z">
+        <seg>打刀是传统的日本武士刀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The key ability of a skill is noted in its description.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T132944Z" creationid="quentine" creationdate="20190805T132944Z">
@@ -35316,6 +36396,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The most powerful protection available is built into this suit, which consists of a heavy torso jacket with ceramic plates over the chest and back, neck and groin guards, arm protection, and a helmet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T135510Z" creationid="quentine" creationdate="20200527T135342Z">
+        <seg>此套装集所有最强防护设计于一身，包括了保护胸、背、颈、胯的陶瓷板甲外套，护臂以及头盔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The normal Concentration skill expands to include arcane applications, as defined below.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190612T120724Z" creationid="quentine" creationdate="20190612T120615Z">
@@ -35344,6 +36432,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T131456Z" creationid="QuenTine" creationdate="20181103T131456Z">
         <seg>正常人类的数值范围是3到18。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The number in this column is the character’s speed while in armor, assuming his or her base speed is 30 feet (the normal speed for most human beings).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200526T133237Z" creationid="quentine" creationdate="20200526T133237Z">
+        <seg>此数值是角色穿着护甲时的速度，前提是角色的基础速度为30尺（这是大多数人类的常速）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35764,6 +36860,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The rapier is a lightweight sword with a thin blade.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T135147Z" creationid="quentine" creationdate="20200519T135147Z">
+        <seg>细剑是一种刃很薄的轻型剑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The relationship between a weapon’s size and that of its wielder defines whether it can be used one-handed, if it requires two hands, and if it’s a light weapon.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T133630Z" creationid="quentine" creationdate="20200410T133630Z">
@@ -35973,10 +37077,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The standard body armor for police tactical units, this vest provides full-torso protection in the toughest flexible protective materials available.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T134222Z" creationid="quentine" creationdate="20200527T134222Z">
+        <seg>这种背心提供了整片躯干的防护，以最坚固的灵活防护材料制成，是警方战术小队的标准护甲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The standard service pistol of the United States military and many American law enforcement agencies.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200418T020508Z" creationid="quentine" creationdate="20200418T020508Z">
         <seg>美国军队以及许多美国执法机关通行的标准现役手枪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The statistics given describe a bayonet fixed at the end of a longarm with an appropriate mount.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T133823Z" creationid="quentine" creationdate="20200519T133823Z">
+        <seg>此项给出的是已安装在长杆枪末端的刺刀的属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36253,6 +37373,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The three-section staff is a double weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T143332Z" creationid="quentine" creationdate="20200520T143332Z">
+        <seg>三节棍是一种双头武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The three-section staff requires two hands to use.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T143316Z" creationid="quentine" creationdate="20200520T143316Z">
+        <seg>三节棍必须双手操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The tool is useful for certain tasks, as determined by the GM, but may not be useful in all situations.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T022929Z" creationid="quentine" creationdate="20200116T022917Z">
@@ -36401,6 +37537,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T022217Z" creationid="quentine" creationdate="20200116T022217Z">
         <seg>这些全都能折叠在一个钳子里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The wielder’s Strength modifier applies only to damage from Tiny or larger improvised weapons; do not apply the wielder’s Strength modifier to damage from Diminutive objects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T132853Z" creationid="quentine" creationdate="20200525T132617Z">
+        <seg>使用者的力量调整值只能应用于超小型及以上尺寸的临时武器，微型的武器无法应用力量调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36653,6 +37797,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These pieces of molded metal fit over the outside of a character’s fingers and allow him or her to deal lethal damage with an unarmed strike instead of nonlethal damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T124431Z" creationid="quentine" creationdate="20200519T124431Z">
+        <seg>这种金属指套可以让角色的徒手击打造成的伤害由非致命的变为致命的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These robots serve as the Techie’s eyes, ears, or hands out to a predetermined distance away from the character when the Techie wants to use one of the following skills: Computer Use, Demolitions, Disable Device, Listen, Repair, or Spot.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190522T141943Z" creationid="quentine" creationdate="20190522T141943Z">
@@ -36741,6 +37893,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These weapons are essentially similar to the twin butterfly swords used in some kung fu styles.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T130133Z" creationid="quentine" creationdate="20200519T125554Z">
+        <seg>这种菜刀形似中国功夫中的合掌刀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These weapons explode or burst, dealing damage to creatures or objects within an area.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200424T130910Z" creationid="quentine" creationdate="20200424T130910Z">
@@ -36793,6 +37953,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200418T015433Z" creationid="quentine" creationdate="20200418T015433Z">
         <seg>机制比转轮枪更复杂，但比转轮枪更流行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are sometimes pressed into service as weapons, often by people who watch too many movies.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T141733Z" creationid="quentine" creationdate="20200520T141733Z">
+        <seg>有些人的印象中它也是一种武器，当然这些人电影看多了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36929,6 +38097,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T020646Z" creationid="quentine" creationdate="20200419T020646Z">
         <seg>它们威力更大，但射程较短。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They tend to shatter, bend, crumple, or fall apart after a few blows.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T133517Z" creationid="quentine" creationdate="20200525T133517Z">
+        <seg>它们承受几次攻击后都会粉碎、弯折、破碎、断裂。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37134,6 +38310,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This archaic armor consists of a breastplate made of thick, lacquered leather, along with softer leather coverings for other parts of the body.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T123139Z" creationid="quentine" creationdate="20200527T123139Z">
+        <seg>这种古典护甲由轻薄、涂漆的皮革胸甲，以及覆盖着其他身体部分的软革甲组成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This armor is represented by a heavy leather biker’s jacket.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T122639Z" creationid="quentine" creationdate="20200527T122639Z">
+        <seg>这种护甲最典型的代表就是机车皮衣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This assault rifle of the old Soviet Union is one of the most popular firearms in the world, having found common use in scores of bush wars and insurrections—on all sides of such conflicts.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T022049Z" creationid="quentine" creationdate="20200419T022041Z">
@@ -37178,6 +38370,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T114600Z" creationid="quentine" creationdate="20190703T114600Z">
         <seg>鼓舞效果将持续10轮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This bonus adds to the wearer’s Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200526T132207Z" creationid="quentine" creationdate="20200525T141951Z">
+        <seg>该加值会加到装备者的防御值上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37254,6 +38454,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This category of weapon includes hunting knives, butterfly or “balisong” knives, switchblades, and bayonets (when not attached to rifles).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T130259Z" creationid="quentine" creationdate="20200519T130124Z">
+        <seg>此类武器包括猎刀、蝴蝶刀、弹簧刀以及刺刀（未安装）等刀具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This check can only be made if the intruder is accessing the character’s site for the entire length of the check—if the intruder’s session ends before the character finishes the check, the character automatically fails.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190917T112046Z" creationid="quentine" creationdate="20190917T112046Z">
@@ -37274,6 +38482,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190627T131940Z">
         <seg>此选择将为角色增加善良（正能量）或邪恶（负能量）阵营，侍僧将在各方面受其信仰左右。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This classic, straight blade is the weapon of knighthood and valor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T134741Z" creationid="quentine" creationdate="20200519T134741Z">
+        <seg>这种经典的直刃武器是勇气与骑士精神的象征。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37478,6 +38694,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This entry represents the wooden nightsticks sometimes carried by police forces.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T125759Z" creationid="quentine" creationdate="20200519T125759Z">
+        <seg>此项泛指类似警棍的武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This entry tells which ability is typically associated with that class.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T114340Z" creationid="quentine" creationdate="20190116T114340Z">
@@ -37582,6 +38806,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This garment provides no equipment bonus (and has no armor penalty or maximum Dexterity bonus) when undeployed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T130052Z" creationid="quentine" creationdate="20200527T130052Z">
+        <seg>防弹衣在收纳状态时，不会提供装备加值（也不会有护甲减值和最大敏捷加值）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This garment, consisting of a torso apron of light protective material held up by a loop around the neck, can be stored in an innocuous fanny pack.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T125906Z" creationid="quentine" creationdate="20200527T125906Z">
+        <seg>这种防弹衣是一种由脖套连接着轻型防护材料制成的围裙，平时可以收纳在不起眼的腰包里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This grants the character a +2 circumstance bonus on his or her next attack roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190731T122113Z" creationid="quentine" creationdate="20190731T122113Z">
@@ -37626,6 +38866,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T025724Z" creationid="quentine" creationdate="20200419T025724Z">
         <seg>这种重型长杆枪使用的是最大号的霰弹枪弹——10号霰弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This heavy, curved dagger has its sharp edge on the inside of the curve.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T142721Z" creationid="quentine" creationdate="20200520T142721Z">
+        <seg>这种重型的、弯曲的刀，其刃区在弧内侧。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37750,6 +38998,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is a lightweight, concealed sword that hides its blade in the shaft of a walking stick or umbrella.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T140326Z" creationid="quentine" creationdate="20200519T140326Z">
+        <seg>这是一种轻便的可隐藏的剑，剑刃藏在手杖或雨伞的柄中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is a mind-affecting ability.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190201T154948Z" creationid="quentine" creationdate="20190201T154948Z">
@@ -37800,6 +39056,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is the melee weapon carried by most police forces, used to subdue and restrain criminals.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T132234Z" creationid="quentine" creationdate="20200519T132234Z">
+        <seg>这种近战武器普遍装备于警察队伍，用于制服与约束罪犯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is usually a particular faith or religion, but can also be a specific philosophy or school of thought.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181104T075815Z" creationid="QuenTine" creationdate="20181104T075500Z">
@@ -37832,10 +39096,18 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This light axe is a chopping tool that deals slashing dam-age when employed as a weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T134603Z" creationid="quentine" creationdate="20200519T134603Z">
+        <seg>这种轻型斧是一种斫砍工具，当作武器使用时，造成劈砍伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This light, flexible spear built for throwing can be used in melee, but since it’s not designed for it, characters using it in this manner are always considered nonproficient and take a –4 penalty on their melee attack rolls.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200420T142007Z" creationid="quentine" creationdate="20200420T142007Z">
-        <seg>这种轻便灵活的标枪，可投掷可近战，但由于标枪并不是转为近战而设计，角色用近战的方式来攻击总是视为不专业，近战时攻击骰总是会受到4点减值。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T142528Z" creationid="quentine" creationdate="20200420T142007Z">
+        <seg>这种轻便灵活的标枪，可投掷可近战，但由于标枪并不是转为近战而设计，角色用近战的方式来攻击总是视为`不擅长`，近战时攻击骰总是会受到4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37860,6 +39132,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T071511Z" creationid="quentine" creationdate="20191027T071511Z">
         <seg>语言包括但不限于此——还有更多语族，语族也包含更多语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This long-bladed tool looks much like a short, lightweight sword.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T134824Z" creationid="quentine" creationdate="20200519T134824Z">
+        <seg>这种长刃工具形似更短更轻的剑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37928,6 +39208,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This medieval-era armor consists of metal plates that cover the entire body.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T134524Z" creationid="quentine" creationdate="20200527T134524Z">
+        <seg>这种中世纪时期的盔甲由覆盖全身的金属板组成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This medieval-era armor is a long shirt made of interlocking metal rings, with a layer of padding underneath.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T132853Z" creationid="quentine" creationdate="20200527T132853Z">
+        <seg>这种中世纪时期的盔甲是由金属环连缀而成的长摆上衣，内部有垫料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This mental picture provides a physical description, including distinguishing markings and visible mannerisms.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190526T074617Z" creationid="quentine" creationdate="20190526T074617Z">
@@ -37964,6 +39260,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190731T113503Z" creationid="quentine" creationdate="20190731T113503Z">
         <seg>此值不能高于角色的基础攻击加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This number reflects the base price and doesn’t include any modifier for purchasing the armor on the black market.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200526T133331Z" creationid="quentine" creationdate="20200526T133331Z">
+        <seg>此值指基本价格，并未把黑市加值算在内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38008,6 +39312,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This penalty applies to checks involving the following skills: Balance, Climb, Escape Artist, Hide, Jump, Move Silently, and Tumble.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200526T133016Z" creationid="quentine" creationdate="20200526T133016Z">
+        <seg>此减值在以下技能的检定中有效：平衡、攀爬、脱逃、躲藏、跳跃、潜行、翻滚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This penalty is in addition to the normal –4 penalty for firing into melee, making the penalty to target to character –8.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190731T131657Z" creationid="quentine" creationdate="20190731T131519Z">
@@ -38036,6 +39348,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190627T132733Z" creationid="quentine" creationdate="20190627T132733Z">
         <seg>财产可以是宗教器物或者一些个人珍藏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This primitive device is a reach weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T135507Z" creationid="quentine" creationdate="20200519T135507Z">
+        <seg>这种武器是一种长型武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38114,8 +39434,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>This simple weapon is a single-shot grenade launcher.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200420T133241Z" creationid="quentine" creationdate="20200420T133241Z">
-        <seg>这种简易武器是一种一次性榴弹发射器。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144536Z" creationid="quentine" creationdate="20200420T133241Z">
+        <seg>这种简单武器是一种一次性榴弹发射器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38378,10 +39698,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This weapon can be collapsed to reduce its size and increase its concealability.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T130609Z" creationid="quentine" creationdate="20200519T130609Z">
+        <seg>这种武器可以收缩，让尺寸更小，更易于隐蔽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This weapon features a three-round burst setting.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200418T021158Z" creationid="quentine" creationdate="20200418T021046Z">
         <seg>它有一个三发点射模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This weapon, essentially a smaller version of a club, deals nonlethal damage instead of lethal damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T131225Z" creationid="quentine" creationdate="20200519T131225Z">
+        <seg>这种武器是小型的木棍，只造成非致命伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38422,6 +39758,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200508T124934Z" creationid="quentine" creationdate="20200508T124934Z">
         <seg>豁免成功但仍在瓦斯区域内的角色每一轮都要进行豁免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Three feats cover proficiency in the use of armor: Armor Proficiency (light), Armor Proficiency (medium), and Armor Proficiency (heavy).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T134244Z" creationid="quentine" creationdate="20200525T134244Z">
+        <seg>有三个专长与护甲的使用相关：擅长护甲（轻型）、擅长护甲（中型）、擅长护甲（重型）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39194,6 +40538,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unlike real weapons, improvised weapons are not designed to absorb damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T133102Z" creationid="quentine" creationdate="20200525T133102Z">
+        <seg>不像真武器，临时武器不能吸收伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unlike with attack rolls and saving throws, a natural roll of 20 on the d20 is not an automatic success when making a skill check, and a natural roll of 1 is not an automatic failure.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T134813Z" creationid="quentine" creationdate="20190805T134813Z">
@@ -39350,6 +40702,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200417T134455Z" creationid="quentine" creationdate="20200417T134455Z">
         <seg>无此专长的角色使用手枪，攻击骰会有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using a pistol as a melee weapon can deal greater damage than attacking unarmed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T130852Z" creationid="quentine" creationdate="20200519T130852Z">
+        <seg>用手枪作为近战武器攻击可以造成比徒手攻击更大的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40146,6 +41506,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When used by a character with the Brawl feat, brass knuckles increase the base damage dealt by an unarmed strike by +1 and turn the damage into lethal damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T124816Z" creationid="quentine" creationdate="20200519T124816Z">
+        <seg>当拥有拳法专长的角色使用时，指虎会让徒手攻击的基础伤害+1，并将伤害转为致命伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When used in a place not served by regular cellular service, each call requires a Wealth check (DC 6).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T123415Z" creationid="quentine" creationdate="20191202T123415Z">
@@ -40162,10 +41530,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When used with the Exotic Melee Weapon Proficiency feat, it can be used with one hand.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T142231Z" creationid="quentine" creationdate="20200520T142231Z">
+        <seg>角色拥有该武器的`擅长异种近战武器`专长时，可以单手使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When using Survival with the Track feat to track a character or animal, checks are made according to distance, as described in the Track feat.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T141449Z" creationid="quentine" creationdate="20191027T141449Z">
         <seg>当使用生存检定和追踪专长来追踪角色或动物时，检定根据追踪专长所述，根据距离进行结算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When using a chain, the character gets a +2 equipment bonus on his or her opposed attack roll when attempting to disarm an opponent (including the roll to avoid being disarmed if the character fails to disarm the opponent).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T142806Z" creationid="quentine" creationdate="20200519T142806Z">
+        <seg>当试图使用锁链来卸除对手的武器时，角色的对抗攻击骰会受到2点加值（如果角色卸除对手武器失败，对对方卸除自己武器的对抗检定也有2点加值）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40270,6 +41654,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T094306Z" creationid="quentine" creationdate="20200116T094306Z">
         <seg>指南针或GPS接收器只能帮助角色在野外找到方向，只有地图才能告诉角色所去的是什么地方、目的地有什么。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While it may go unnoticed by a quick glance, it is usually visible to anyone looking closely for it, granting a +4 bonus on Spot checks to notice the armor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T132610Z" creationid="quentine" creationdate="20200527T132610Z">
+        <seg>旁人只是一瞥是不会发现防弹衣的，但凑近观看就很容易发现，注意到此护甲所需的侦察检定会有4点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40502,6 +41894,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T140913Z" creationid="quentine" creationdate="20191027T140913Z">
         <seg>若有追踪专长，角色可以使用生存检定来跨越各种地形追踪一个角色或动物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With the bayonet fixed, the longarm becomes a double weapon—clublike at one end and spearlike at the other.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T134121Z" creationid="quentine" creationdate="20200519T134040Z">
+        <seg>安装了刺刀的长杆枪将变成`双头武器`——一头是类木棒武器一头是类矛武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41644,6 +43044,50 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |轻型|10%|20%|
 |中型|20%|30%|
 |重型|30%|40%|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Armor|Type|Equipment Bonus|Nonprof Bonus|Maximum Dex Bonus|Armor Penalty|Speed (30 ft)|Weight|Purchase DC|Restriction|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**Light Armor**||||||||||
+|Leather jacket|Impromptu|+1|+1|+8|–0|30|4 lb|10|—|
+|Leather armor|Archaic|+2|+1|+6|–0|30|15 lb|12|—|
+|Light undercover shirt|Concealable|+2|+1|+7|–0|30|2 lb|13|Lic (+1)|
+|Pull-up pouch vest|Concealable|+2|+1|+6|–1|30|2 lb|13|Lic (+1)|
+|Undercover vest|Concealable|+3|+1|+5|–2|30|3 lb|14|Lic (+1)|
+|||||||||||
+|**Medium Armor**||||||||||
+|Concealable vest|Concealable|+4|+2|+4|–3|25|4 lb|15|Lic (+1)|
+|Chainmail shirt|Archaic|+5|+2|+2|–5|20|40 lb|18|—|
+|Light-duty vest|Tactical|+5|+2|+3|–4|25|8 lb|16|Lic (+1)|
+|Tactical vest|Tactical|+6|+2|+2|–5|25|10 lb|17|Lic (+1)|
+|||||||||||
+|**Heavy Armor**||||||||||
+|Special response vest|Tactical|+7|+3|+1|–6|20|15 lb|18|Lic (+1)|
+|Plate mail|Archaic|+8|+3|+1|–6|20|50 lb|23|—|
+|Forced entry unit|Tactical|+9|+3|+0|–8|20|20 lb|19|Lic (+1)|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200527T125406Z" creationid="quentine" creationdate="20200526T141822Z">
+        <seg>|护甲|类型|装备加值|不擅长加值|最大敏捷加值|护甲减值|速度（30尺）|重量|购买DC|限制级|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**轻型护甲**||||||||||
+|皮夹克|临时|+1|+1|+8|–0|30|4磅|10|—|
+|皮甲|古典|+2|+1|+6|–0|30|15磅|12|—|
+|轻型衬甲|隐藏|+2|+1|+7|–0|30|2磅|13|执照（+1）|
+|上拉式便携防弹衣|隐藏|+2|+1|+6|–1|30|2磅|13|执照（+1）|
+|衬甲背心|隐藏|+3|+1|+5|–2|30|3磅|14|执照（+1）|
+|||||||||||
+|**中型护甲**||||||||||
+|内穿防弹衣|隐藏|+4|+2|+4|–3|25|4磅|15|执照（+1）|
+|锁链甲衫|古典|+5|+2|+2|–5|20|40磅|18|—|
+|轻型执勤背心|战术|+5|+2|+3|–4|25|8磅|16|执照（+1）|
+|战术背心|战术|+6|+2|+2|–5|25|10磅|17|执照（+1）|
+|||||||||||
+|**重型护甲**||||||||||
+|特战背心|战术|+7|+3|+1|–6|20|15磅|18|执照（+1）|
+|板链甲|古典|+8|+3|+1|–6|20|50磅|23|—|
+|攻坚套装|战术|+9|+3|+0|–8|20|20磅|19|执照（+1）|</seg>
       </tuv>
     </tu>
     <tu>
@@ -43646,6 +45090,32 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|Object Size|Examples|Damage|
+|-----------|--------|------|
+|Diminutive|Ashtray, CD disk case, crystal paperweight|1|
+|Tiny|Fist-sized rock, mug, screwdriver, softball, flashlight, wrench|1d2|
+|Small|Bottle, drill, fire extinguisher, flower pot, helmet, metal hubcap, vase|1d3|
+|Medium-size|Bar stool, brick, briefcase, bowling ball, garbage can lid, hockey stick, nail gun|1d4|
+|Large|Empty garbage can, guitar, computer monitor, office chair, tire iron|1d6|
+|Huge|10-foot ladder, mailbox, oil barrel, park bench, sawhorse|1d8|
+|Gargantuan|Desk, dumpster, file cabinet, large sofa, soda machine|2d6|
+|Colossal|Junked vehicle, stoplight, telephone pole|2d8|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T151354Z" creationid="quentine" creationdate="20200520T150223Z">
+        <seg>|物品尺寸|例子|伤害|
+|-----------|--------|------|
+|微型|烟灰缸、CD碟盒、水晶镇纸|1|
+|超小型|拳头大小的石头、马克杯、起子、垒球、手电筒、扳手|1d2|
+|小型|瓶子、电钻、灭火器、花盆、头盔、金属轮毂盖、花瓶|1d3|
+|普通|酒吧高脚凳、砖头、公文包、保龄球、垃圾桶盖、曲棍球棍、射钉枪|1d4|
+|大型|空垃圾桶、吉他、电脑显示器、办公椅、撬胎棒|1d6|
+|超大型|10尺长梯、邮箱、油桶、公园长椅、锯木梁|1d8|
+|巨型|桌子、大垃圾桶、文件柜、大沙发、冷饮贩卖机|2d6|
+|超巨型|报废载具、红绿灯、电话线杆|2d8|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|Object Size|Examples|Initial Damage|Reflex Save DC|Strength Check DC|
 |-------------------|------------|:--------------------:|:---------------------:|:-------------------------:|
 |Fine|Penny|0|n/a|n/a|
@@ -43887,10 +45357,10 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |Complex (mechanical or electronic device)|10|20|1 hr.|
 |Advanced (cutting-edge mechanical or electronic device)|13|25|10 hr.|</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191027T080051Z" creationid="quentine" creationdate="20191027T080051Z">
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144531Z" creationid="quentine" creationdate="20191027T080051Z">
         <seg>|修理任务（例子）|购买 DC|修理 DC|时间|
 |---------------------|:---------:|:-------:|:--:|
-|简单（工具、简易武器）|4|10|1 分钟|
+|简单（工具、简单武器）|4|10|1 分钟|
 |中等（机械或电子部件）|7|15|10 分钟|
 |复杂（机械或电子设备）|10|20|1 小时|
 |高级（尖端的机械或电子设备）|13|25|10 小时|</seg>
@@ -44551,10 +46021,10 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |Powerful (8d6/20 feet)|25|30|15|12 hr.|
 |Devastating (10d6/25 feet)|30|35|18|24 hr.|</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190921T123327Z" creationid="quentine" creationdate="20190918T142353Z">
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T131214Z" creationid="quentine" creationdate="20190918T142353Z">
         <seg>|土制爆炸物类型|购买DC|制造DC|反射DC（半伤豁免所需）|时间|
 |-------------------------------|:---------:|:------:|:------------------------------:|:--:|
-|简易（1d6/5尺）\*|6|10|10|1 round|
+|临时（1d6/5尺）\*|6|10|10|1 round|
 |简单（2d6/5尺）|12|15|12|10 min|
 |中等（4d6/10尺）|16|20|12|1 hr.|
 |复杂（6d6/15尺）|20|25|15|3 hr.|
@@ -44607,12 +46077,12 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |Medium voltage|Industrial transformer, electric fence|4d6|15|
 |High voltage|Power line, electric chair, lightning|8d6|20|</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190115T144023Z" creationid="quentine" creationdate="20190115T144023Z">
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T141338Z" creationid="quentine" creationdate="20190115T144023Z">
         <seg>|类型|例子|伤害|强韧DC|
 |--------|-------------|:--------:|:-----------:|
 |短触|汽车电池、电击枪|1d3|10|
 |低压|保险丝盒、电源插座|2d6|15|
-|中压|变压器、电围栏|4d6|15|
+|中压|变压器、电栅栏|4d6|15|
 |高压|输电线、电椅、闪电|8d6|20|</seg>
       </tuv>
     </tu>
@@ -44876,7 +46346,7 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |Taser (Simple)|1d4\*\*|—|Electricity|5 ft|1|1 int.|Small|2 lb|7|—|
 |Whip (Simple)|1d2|20|Slashing|15 ft\*\*\*|1|—|Small|2 lb|4|—|</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200516T142422Z" creationid="quentine" creationdate="20200417T133755Z">
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200525T131335Z" creationid="quentine" creationdate="20200417T133755Z">
         <seg>|武器|伤害|重击|伤害类型|射程跨度|射击模式|弹仓|尺寸|重量|购买DC|限制级|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |**手枪（要求`擅长单兵火器`专长）**|||||||||||
@@ -44925,13 +46395,13 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 ||||||||||||
 |**其他远程武器（要求括号内所示的专长）**|||||||||||
 |复合弓（古典）\*\*|1d8|20|穿刺|40尺|单发|—|大型|3磅|10|—|
-|弩（简易）|1d10|19–20|穿刺|40尺|单发|1发内置|普通|7磅|9|—|
+|弩（简单）|1d10|19–20|穿刺|40尺|单发|1发内置|普通|7磅|9|—|
 |火焰喷射器（无）\*\*\*|3d6|—|火焰|—|单发|10发内置|大型|50磅|17|军用（+3）|
-|标枪（简易）|1d6|20|穿刺|30尺|单发|—|普通|2磅|4|—|
-|辣椒喷雾器（简易）|特别\*\*|—|特别\*\*|5尺|单发|1发内置|超小型|0.5磅|5|—|
+|标枪（简单）|1d6|20|穿刺|30尺|单发|—|普通|2磅|4|—|
+|辣椒喷雾器（简单）|特别\*\*|—|特别\*\*|5尺|单发|1发内置|超小型|0.5磅|5|—|
 |手里剑（古典）|1|20|穿刺|10尺|单发|—|超小型|0.5磅|3|—|
-|电击枪（简易）|1d4\*\*|—|电能|5尺|单发|1发内置|小型|2磅|7|—|
-|鞭子（简易）|1d2|20|劈砍|15尺\*\*\*|单发|—|小型|2磅|4|—|</seg>
+|电击枪（简单）|1d4\*\*|—|电能|5尺|单发|1发内置|小型|2磅|7|—|
+|鞭子（简单）|1d2|20|劈砍|15尺\*\*\*|单发|—|小型|2磅|4|—|</seg>
       </tuv>
     </tu>
     <tu>
@@ -44969,19 +46439,19 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |Nunchaku|1d6|20|Bludgeoning|—|Small|2 lb|3|—|
 |Three-section staff\*|1d10/1d10|20|Bludgeoning|—|Large|3 lb|4|—|</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200518T152103Z" creationid="quentine" creationdate="20200513T150343Z">
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144552Z" creationid="quentine" creationdate="20200513T150343Z">
         <seg>|武器|伤害|重击|伤害类型|射程跨度|尺寸|重量|购买DC|限制级|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|**简易武器（需要`擅长简易武器`专长）**|||||||||
+|**简单武器（需要`擅长简单武器`专长）**|||||||||
 |指虎|1|20|钝击|—|超小型|1磅|5|—|
-|砍刀|1d6|19–20|劈砍|—|小型|2磅|5|—|
+|菜刀|1d6|19–20|劈砍|—|小型|2磅|5|—|
 |木棒|1d6|20|钝击|10尺|普通|3磅|4|—|
 |小刀|1d4|19–20|穿刺|10尺|超小型|1磅|7|—|
 |甩棍|1d6|19–20|钝击|—|普通|2磅|8|—|
 |手枪托|1d4|20|钝击|—|小型|—|—|—|
 |步枪托|1d6|20|钝击|—|大型|—|—|—|
 |闷棍|1d6\*|20|钝击|—|小型|3磅|2|—|
-|电击枪\*|1d3|20|电能|—|超小型|1磅|5|—|
+|电棍\*|1d3|20|电能|—|超小型|1磅|5|—|
 |卜字拐\*|1d4|20|钝击|—|普通|2磅|6|—|
 ||||||||||
 |**古典武器（需要`擅长古典武器`专长）**|||||||||

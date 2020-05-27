@@ -401,7 +401,7 @@ Equipment Bonus: The equipment bonus that the integrated armor provides to the r
 Weight: How much weight integrated armor adds to the robot’s weight.
 Speed Penalty: The amount by which the armor reduces the robot’s speed, given in feet. If a robot’s speed drops to zero because of the penalty, it cannot move (the armor is too heavy for its frame).
 Purchase DC: The cost of the integrated armor (or its components).
-Restriction: Some types of armor have a restriction rating and an appropriate black market purchase DC modifier. Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the armor on the black market.
+Restriction: Some types of armor have a restriction rating and an appropriate black market purchase DC modifier. 记住一定要在黑市购买进行财富检定时加上这些调整值。
 ALUMISTEEL ARMOR (PL 5)
 This easy-to-acquire alloy is lightweight and reasonably strong. Bioreplica robots and liquid-state robots cannot have integrated aluminsteel armor.
 Equipment Bonus: +5.
@@ -611,7 +611,7 @@ A character can install a home-built or factory-built robot accessory with a suc
 Size: A robot accessory, as an object, is usually two size categories smaller than the robot for which it’s designed; for example, a tool mount designed for a Huge robot can be considered a Medium-size object. An accessory’s size is usually important only for portability and concealment purposes.
 Weight: Robot accessories vary in weight depending on the size of the robot for which they’re designed. However, they do not add a significant amount of weight to the robot’s frame.
 Purchase DC: The cost of the accessory.
-Restriction: Some robot accessories have a restriction rating and an appropriate black market purchase DC modifier. Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the armor on the black market.
+Restriction: Some robot accessories have a restriction rating and an appropriate black market purchase DC modifier. 记住一定要在黑市购买进行财富检定时加上这些调整值。
 AV RECORDER (PL 5)
 This audio and video recorder unit uses the robot’s video and audio sensors to record and store up to 8 hours of information.
 Purchase DC: 13.
