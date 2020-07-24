@@ -1264,3 +1264,48 @@ Light-duty vest	轻型执勤背心
 Tactical vest	战术背心
 Plate mail	板链甲
 Forced entry unit	攻坚套装
+Crew	车组位
+Passengers	乘员位
+Cargo Capacity	货容量
+square	方格
+chase	追逐
+Bell Jet Ranger	贝尔206A喷气突击队员	直升机
+Bell Model 212	贝尔212型	直升机
+prop	螺旋桨
+Cessna 172 Skyhawk	塞斯纳172天鹰	螺旋桨飞机
+Learjet Model 45	里尔喷气45型	商务喷气机
+Acura	讴歌	汽车
+sedan	轿车
+Aston-Martin Vanquish	阿斯顿·马丁-万奎仕	车
+coupe	轿跑/双座轿车
+BMW	宝马
+Chevrolet	雪佛兰
+Chevrolet Cavalier	雪佛兰科沃兹
+Chevrolet Corvette	雪佛兰科尔维特
+Dodge Neon	道奇霓虹
+Ford Crown Victoria	福特维多利亚皇冠
+Jaguar	捷豹
+Lamborghini Diablo	兰博基尼迪亚波罗
+Mercedes	梅赛德斯
+Volkswagen	大众
+Jetta	捷达
+wagon	旅行车	（RV）轿车后备箱与车顶齐平，但又不是SUV
+Ducati	杜卡迪
+Harley Davidson	哈雷戴维森	摩托
+AM General	美国汽车综合公司
+Hummer	悍马
+Chevrolet Suburban	雪佛兰萨博班	未引进中国，无中文名
+Dodge Caravan	道奇凯领
+minivan	多功能休旅车
+Ford Escape	福特锐际
+pickup	皮卡
+Toyota Tacoma	丰田塔科马
+Civilian Water Vehicles	民用船只
+Bayliner	贝琳娜	游艇
+Capri	卡普里	意大利的一个岛，这里指游艇型号
+runabout	轻型汽艇
+Fairline	菲尔兰	游艇
+Targa	塔尔加	菲尔兰游艇型号
+cabin cruiser	大游艇
+Sea-Doo	喜度	摩托艇
+personal watercraft	摩托艇	单人开的汽艇
