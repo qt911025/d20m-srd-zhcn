@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -498,6 +498,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T122509Z" creationid="quentine" creationdate="20190703T122509Z">
         <seg>## 儿童</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Civilian Aircraft</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T143554Z" creationid="quentine" creationdate="20200803T143554Z">
+        <seg>## 民用航空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Civilian Cars</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T150541Z" creationid="quentine" creationdate="20200803T150541Z">
+        <seg>## 民用汽车</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,6 +2198,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Bell Jet Ranger</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T144101Z" creationid="quentine" creationdate="20200803T144101Z">
+        <seg>### 贝尔206A喷气突击队员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Bell Model 212</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T144415Z" creationid="quentine" creationdate="20200803T144415Z">
+        <seg>### 贝尔212型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Binoculars</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T084239Z" creationid="quentine" creationdate="20200116T084239Z">
@@ -2314,6 +2346,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T132257Z" creationid="quentine" creationdate="20191202T132257Z">
         <seg>### 无线拦截器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Cessna 172 Skyhawk</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T145437Z" creationid="quentine" creationdate="20200803T145437Z">
+        <seg>###  塞斯纳172天鹰</seg>
       </tuv>
     </tu>
     <tu>
@@ -3138,6 +3178,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T095631Z" creationid="quentine" creationdate="20200117T095631Z">
         <seg>### 激光瞄具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Learjet Model 45</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T145808Z" creationid="quentine" creationdate="20200803T145808Z">
+        <seg>### 里尔喷气45型</seg>
       </tuv>
     </tu>
     <tu>
@@ -13529,6 +13577,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A Cessna 172 is seven squares wide (including wings; fuselage is one square wide) and six squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T150257Z" creationid="quentine" creationdate="20200803T145746Z">
+        <seg>塞斯纳172有7格宽（包括机翼；机身1格宽）6格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A Charismatic hero can concentrate to keep a target captivated for additional rounds.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190215T133114Z" creationid="quentine" creationdate="20190215T133051Z">
@@ -13645,6 +13701,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T133754Z" creationid="quentine" creationdate="20200410T133754Z">
         <seg>大型的武器必须双手操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A Learjet is ten squares wide (including wings; fuselage is two squares wide) and twelve squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T150308Z" creationid="quentine" creationdate="20200803T150252Z">
+        <seg>里尔喷气机有10格宽（包括机翼；机身2格宽）12格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15825,6 +15889,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A few examples are provided here from the variety of airgoing vehicles that might be available to characters.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T144044Z" creationid="quentine" creationdate="20200803T144044Z">
+        <seg>以下是众多角色可用的飞行载具的几个典型代表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A figure under a ghillie suit is nearly impossible to discern.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191113T141918Z" creationid="quentine" creationdate="20191113T141918Z">
@@ -17539,6 +17611,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All aircraft, from one-seaters to jumbo jets, are controlled by the use of the Pilot skill.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T143843Z" creationid="quentine" creationdate="20200803T143843Z">
+        <seg>从单人飞机到巨型喷气机，所有的飞行器的操控都依赖于`驾机`技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All computers come with dial-up modems, which allow connection to the Internet but without the speed of broadband or the flexibility of cellular.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T121911Z" creationid="quentine" creationdate="20191202T121708Z">
@@ -18951,6 +19031,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T140805Z" creationid="QuenTine" creationdate="20181103T140805Z">
         <seg>当角色年龄变化时，部分属性值会提高而另一些则可能会降低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As a civilian aircraft, it is a sturdy, reliable helicopter used for passenger and cargo work all over the world.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T145227Z" creationid="quentine" creationdate="20200803T145214Z">
+        <seg>作为一款民用直升机，它结实耐用、客货两用的特点深受世界喜爱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27652,6 +27740,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It provides three-quarters cover for crew and nine-tenths cover for passengers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T150448Z" creationid="quentine" creationdate="20200803T150448Z">
+        <seg>它为机组提供3/4掩体，为乘客提供9/10掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It provides three-quarters cover for crew and passengers (one-quarter cover for passengers if the cargo doors are open).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T150454Z" creationid="quentine" creationdate="20200803T145419Z">
+        <seg>它为乘员和机组提供3/4掩体（货舱门打开则只能提供1/4掩体）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It provides three-quarters cover for crew and passengers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T150501Z" creationid="quentine" creationdate="20200803T144359Z">
+        <seg>它为乘员和机组提供3/4掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It provides total protection from eye and lung irritants.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T093430Z" creationid="quentine" creationdate="20200116T093430Z">
@@ -28482,6 +28594,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200508T125401Z" creationid="quentine" creationdate="20200508T125401Z">
         <seg>军队用它来快速熔融破坏设施的关键部位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Military versions are still in use in many countries.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T145300Z" creationid="quentine" creationdate="20200803T145300Z">
+        <seg>军用版也广泛服役于军队中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32336,6 +32456,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Bell 212 is three squares wide and seven squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T145326Z" creationid="quentine" creationdate="20200803T145326Z">
+        <seg>贝尔212型有3格宽7格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Benelli 121 M1 semiautomatic shotgun is reliable, simple, and sturdy, with one of the fastest shotgun actions in the world.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T023803Z" creationid="quentine" creationdate="20200419T023803Z">
@@ -33420,6 +33548,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190524T133518Z" creationid="quentine" creationdate="20190524T133518Z">
         <seg>调查员的本职技能（及相关属性）有：唬骗（魅）、计算机使用（智）、解除装置（敏）、驾驶（敏）、伪造文书（智）、收集信息（魅）、威吓（魅）、调查（智）、知识（行为科学、政法、时事、街头智慧）（智）、聆听（感）、专业（感）、读写语言（无）、研究（智）、搜索（智）、察言观色（感）、口头语言（无）、侦察（感）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Jet Ranger is two squares wide and seven squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T144311Z" creationid="quentine" creationdate="20200803T144311Z">
+        <seg>喷气突击队员有2格宽7格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36372,6 +36508,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The interior includes luxury accommodations and a lavatory.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T150201Z" creationid="quentine" creationdate="20200803T150201Z">
+        <seg>内部包括了一间起居室和一间厕所。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The intruder might be able to defeat the character’s security and access his or her site again, but the intruder will have to start the hacking process all over.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T145857Z" creationid="quentine" creationdate="20190916T145857Z">
@@ -38686,6 +38830,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This common single-engine propeller plane is relatively inexpensive.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T145551Z" creationid="quentine" creationdate="20200803T145551Z">
+        <seg>这种常见的单发螺旋桨飞机相对便宜些。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This condition typically lasts 1 round.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T121530Z" creationid="quentine" creationdate="20190115T121444Z">
@@ -39192,6 +39344,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is a sleek business jet introduced in the late 90s.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T145918Z" creationid="quentine" creationdate="20200803T145918Z">
+        <seg>这种圆润的商用喷气机在上世纪90年代晚期问世。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is a small backpack, the sort often used by students to carry their books around, or by outdoor enthusiasts on short hikes.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191111T132923Z" creationid="quentine" creationdate="20191111T132923Z">
@@ -39216,6 +39376,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is perhaps the most common civilian helicopter worldwide; it has also been adopted by many military forces as a light utility helicopter.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T144226Z" creationid="quentine" creationdate="20200803T144226Z">
+        <seg>这可以说是世界上最普遍的民用直升机了；它同样作为轻型通用直升机在军中服役。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the case with most shotguns, as well as some rifles.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T132731Z" creationid="quentine" creationdate="20200410T132731Z">
@@ -39236,6 +39404,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200519T132234Z" creationid="quentine" creationdate="20200519T132234Z">
         <seg>这种近战武器普遍装备于警察队伍，用于制服与约束罪犯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is the twin-engine, civilian version of the ubiquitous Huey helicopter.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T144829Z" creationid="quentine" creationdate="20200803T144821Z">
+        <seg>这是随处可见的修伊直升机的双发民用版。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40550,6 +40726,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T142052Z" creationid="quentine" creationdate="20190115T142052Z">
         <seg>连续两次成功的豁免则使角色战胜疾病，不再受到伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Two turbofans, set on the fuselage above and behind the wings, provide the power.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T150045Z" creationid="quentine" creationdate="20200803T150045Z">
+        <seg>由安装在机身上方、机翼后方的双发涡轮提供动力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45327,7 +45511,7 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |M113A1 Gavin (tracked APC)|2|11|200 lb.|–2|–2|62 (6)|8|10|48|H|39|Mil (+3)|
 |UH-60 Black Hawk (helicopter)|2|14|9,000 lb.|–4|–4|325 (32)|6|5|46|G|47|Mil (+3)|</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200715T141349Z" creationid="quentine" creationdate="20200701T115352Z">
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T143532Z" creationid="quentine" creationdate="20200701T115352Z">
         <seg>|名称|车组位|乘员位|货容量|先攻|机动性|极速|防御|硬度|生命值|尺寸|购买 DC|限制级|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |**民用航空**|||||||||||||
@@ -45367,19 +45551,19 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |菲尔兰塔尔加 30 （大游艇）|1|3|2100 磅|–4|–4|80 （8）|6|5|40|巨型|32|执照（+1）|
 |喜度 XP （摩托艇）|1|1|60 磅|–1|+1|105 （10）|9|5|22|大型|24|执照（+1）|
 ||||||||||||||
-|**Other Civilian Vehicles**|||||||||||||
-|Armored truck|2|0|3,600 lb.|–2|–2|175 (17)|8|10|36|H|34|Res (+2)|
-|Honda TRX400FW (4-wheel ATV)|1|0|675 lb.|–1|+1|95 (9)|9|5|22|L|23|Lic (+1)|
-|Limousine|1|7|425 lb.|–4|–4|195 (19)|6|5|38|G|36|Lic (+1)|
-|Moving truck|1|2|33,000 lb.|–4|–4|165 (16)|6|5|44|G|34|Lic (+1)|
-|NABI Model 40LFW (city bus)|1|39|0 lb.|–4|–4|120 (12)|6|5|48|G|38|Lic (+1)|
+|**其他民用载具**|||||||||||||
+|武装卡车|2|0|3600 磅|–2|–2|175 （17）|8|10|36|超大型|34|管制（+2）|
+|本田TRX400FW（四轮沙滩车）|1|0|675 磅|–1|+1|95 （9）|9|5|22|大型|23|执照（+1）|
+|豪华轿车|1|7|425 磅|–4|–4|195 （19）|6|5|38|巨型|36|执照（+1）|
+|大卡车|1|2|33000 磅|–4|–4|165 （16）|6|5|44|巨型|34|执照（+1）|
+|北美客车40LFW型 （城市公交）|1|39|0 磅|–4|–4|120 （12）|6|5|48|巨型|38|执照（+1）|
 ||||||||||||||
-|**Military Vehicles**|||||||||||||
-|BMP-2 (tracked APC)|3|7|250 lb.|–2|–2|70 (7)|8|10|52|H|40|Mil (+3)|
-|M1A2 Abrams (tracked tank)|4|0|425 lb.|–4|–4|80 (8)|6|20|64|G|47|Mil (+3)|
-|M2A2 Bradley (tracked APC)|3|7|425 lb.|–4|–4|70 (7)|6|15|58|G|45|Mil (+3)|
-|M113A1 Gavin (tracked APC)|2|11|200 lb.|–2|–2|62 (6)|8|10|48|H|39|Mil (+3)|
-|UH-60 Black Hawk (helicopter)|2|14|9,000 lb.|–4|–4|325 (32)|6|5|46|G|47|Mil (+3)|</seg>
+|**军用载具**|||||||||||||
+|BMP-2 （履带式步兵战车）|3|7|250 磅|–2|–2|70 （7）|8|10|52|超大型|40|军用（+3）|
+|M1A2艾布拉姆斯 （履带式坦克）|4|0|425 磅|–4|–4|80 （8）|6|20|64|巨型|47|军用（+3）|
+|M2A2布雷德利 （履带式步兵战车）|3|7|425 磅|–4|–4|70 （7）|6|15|58|巨型|45|军用（+3）|
+|M113A1盖文（履带式步兵战车）|2|11|200 磅|–2|–2|62 （6）|8|10|48|超大型|39|军用（+3）|
+|UH-60黑鹰 （直升机）|2|14|9000 磅|–4|–4|325 （32）|6|5|46|巨型|47|军用（+3）|</seg>
       </tuv>
     </tu>
     <tu>

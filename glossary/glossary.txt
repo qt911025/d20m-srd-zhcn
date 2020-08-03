@@ -1309,3 +1309,16 @@ Targa	塔尔加	菲尔兰游艇型号
 cabin cruiser	大游艇
 Sea-Doo	喜度	摩托艇
 personal watercraft	摩托艇	单人开的汽艇
+Armored truck	武装卡车
+Honda TRX400FW	本田TRX400FW
+ATV	沙滩车
+Limousine	豪华轿车
+Moving truck	大卡车
+NABI	北美客车
+APC	步兵战车
+M1A2 Abrams	M1A2艾布拉姆斯
+M2A2 Bradley	M2A2布雷德利
+M113A1 Gavin	M113A1盖文
+UH-60 Black Hawk	UH-60黑鹰
+Huey helicopter	修伊直升机	Huey helicopter
+fuselage	机身	飞机
