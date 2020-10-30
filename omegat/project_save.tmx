@@ -518,6 +518,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Civilian Motorcycles</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T120353Z" creationid="quentine" creationdate="20201029T120353Z">
+        <seg>## 民用摩托车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Civilian Trucks</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T122730Z" creationid="quentine" creationdate="20201029T122730Z">
+        <seg>## 民用卡车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Civilian Water Vehicles</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T130350Z" creationid="quentine" creationdate="20201029T130350Z">
+        <seg>## 民用船只</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Class Bonus</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T115513Z" creationid="quentine" creationdate="20190114T115513Z">
@@ -1206,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Military Vehicles</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T130732Z" creationid="quentine" creationdate="20201030T130732Z">
+        <seg>## 军用载具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Modifier Types and Stacking</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T140612Z" creationid="quentine" creationdate="20190806T140612Z">
@@ -1322,6 +1354,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T123936Z" creationid="quentine" creationdate="20190114T123936Z">
         <seg>## 其他调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Other Vehicles</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T124017Z" creationid="quentine" creationdate="20201030T124017Z">
+        <seg>## 其他载具</seg>
       </tuv>
     </tu>
     <tu>
@@ -1990,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### AM General Hummer</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T123445Z" creationid="quentine" creationdate="20201029T123429Z">
+        <seg>### AMG悍马</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Ability</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T114328Z" creationid="quentine" creationdate="20190116T114328Z">
@@ -2018,6 +2066,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T114609Z" creationid="quentine" creationdate="20190116T114609Z">
         <seg>### 行动点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Acura 3.2 TL</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200813T150305Z" creationid="quentine" creationdate="20200813T150305Z">
+        <seg>### 讴歌 3.2 TL</seg>
       </tuv>
     </tu>
     <tu>
@@ -2142,6 +2198,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Armored Truck</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T124449Z" creationid="quentine" creationdate="20201030T124449Z">
+        <seg>### 武装卡车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Aston-Martin Vanquish</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200813T150416Z" creationid="quentine" creationdate="20200813T150416Z">
+        <seg>### 阿斯顿·马丁-万奎仕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Athletic</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190730T132005Z" creationid="quentine" creationdate="20190730T132005Z">
@@ -2174,6 +2246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### BMW M3</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200815T033448Z" creationid="quentine" creationdate="20200815T033448Z">
+        <seg>### 宝马 M3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Backpack</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T083658Z" creationid="quentine" creationdate="20200116T083658Z">
@@ -2194,6 +2274,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T082645Z" creationid="quentine" creationdate="20190216T082645Z">
         <seg>### 基础攻击加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Bayliner 1802 Capri</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T130443Z" creationid="quentine" creationdate="20201029T130443Z">
+        <seg>### 贝琳娜 1802 卡普里</seg>
       </tuv>
     </tu>
     <tu>
@@ -2370,6 +2458,30 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T090049Z" creationid="quentine" creationdate="20200116T090049Z">
         <seg>### 化学荧光棒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Chevrolet Cavalier</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200815T033645Z" creationid="quentine" creationdate="20200815T033645Z">
+        <seg>### 雪佛兰科沃兹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Chevrolet Corvette</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200815T033835Z" creationid="quentine" creationdate="20200815T033835Z">
+        <seg>### 雪佛兰科尔维特</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Chevrolet Suburban</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T125222Z" creationid="quentine" creationdate="20201029T125222Z">
+        <seg>### 雪佛兰萨博班</seg>
       </tuv>
     </tu>
     <tu>
@@ -2678,6 +2790,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Dodge Caravan</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T125416Z" creationid="quentine" creationdate="20201029T125416Z">
+        <seg>### 道奇凯领</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Dodge Neon</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T114608Z" creationid="quentine" creationdate="20201029T114608Z">
+        <seg>### 道奇霓虹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Double Tap</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190731T123449Z" creationid="quentine" creationdate="20190731T123449Z">
@@ -2690,6 +2818,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190731T125101Z" creationid="quentine" creationdate="20190731T125101Z">
         <seg>### 驾驶攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Ducati 998R</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T120743Z" creationid="quentine" creationdate="20201029T120743Z">
+        <seg>### 杜卡迪 998R</seg>
       </tuv>
     </tu>
     <tu>
@@ -2790,6 +2926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Fairline Targa 30</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T122103Z" creationid="quentine" creationdate="20201030T122103Z">
+        <seg>### 菲尔兰塔尔加 30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Fake ID</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200115T093515Z" creationid="quentine" creationdate="20200115T093515Z">
@@ -2858,6 +3002,30 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190731T133822Z" creationid="quentine" creationdate="20190731T133822Z">
         <seg>### 逼停</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Ford Crown Victoria</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T114751Z" creationid="quentine" creationdate="20201029T114751Z">
+        <seg>### 福特维多利亚皇冠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Ford Escape XLT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T125926Z" creationid="quentine" creationdate="20201029T125926Z">
+        <seg>### 福特锐际 XLT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Ford F-150 XL</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T130106Z" creationid="quentine" creationdate="20201029T130106Z">
+        <seg>### 福特 F-150 XL</seg>
       </tuv>
     </tu>
     <tu>
@@ -2950,6 +3118,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Harley-Davidson FLSTF Fat Boy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T121216Z" creationid="quentine" creationdate="20201029T121216Z">
+        <seg>### 哈雷戴维森 FLSTF 胖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Healing</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T113045Z" creationid="quentine" creationdate="20190115T113045Z">
@@ -2994,6 +3170,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T094335Z" creationid="quentine" creationdate="20200117T094335Z">
         <seg>### 装具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Honda TRX400FW</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T124939Z" creationid="quentine" creationdate="20201030T124939Z">
+        <seg>### 本田 TRX400FW</seg>
       </tuv>
     </tu>
     <tu>
@@ -3158,10 +3342,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Jaguar XJ Sedan</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T115454Z" creationid="quentine" creationdate="20201029T115454Z">
+        <seg>### 捷豹XJ轿车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Knockout Punch</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190802T150851Z" creationid="quentine" creationdate="20190802T150851Z">
         <seg>### 终结之拳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Lamborghini Diablo</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T115532Z" creationid="quentine" creationdate="20201029T115532Z">
+        <seg>### 兰博基尼迪亚波罗</seg>
       </tuv>
     </tu>
     <tu>
@@ -3206,6 +3406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Limousine</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T125027Z" creationid="quentine" creationdate="20201030T125027Z">
+        <seg>### 豪华轿车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Lineman’s Buttset</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T132910Z" creationid="quentine" creationdate="20191202T132910Z">
@@ -3234,6 +3442,30 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190803T134109Z" creationid="quentine" creationdate="20190803T134109Z">
         <seg>### 低调</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### M113A1 Gavin</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T133108Z" creationid="quentine" creationdate="20201030T133108Z">
+        <seg>### M113A1 盖文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### M1A2 Abrams</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T132035Z" creationid="quentine" creationdate="20201030T132035Z">
+        <seg>### M1A2 艾布拉姆斯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### M2A2 Bradley</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T132758Z" creationid="quentine" creationdate="20201030T132758Z">
+        <seg>### M2A2 布雷德利</seg>
       </tuv>
     </tu>
     <tu>
@@ -3310,6 +3542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Mercedes E55 AMG</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T115942Z" creationid="quentine" creationdate="20201029T115942Z">
+        <seg>### 梅赛德斯 E55 AMG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Mesh Vest</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T095100Z" creationid="quentine" creationdate="20200116T095100Z">
@@ -3350,10 +3590,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Moving Truck</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T130019Z" creationid="quentine" creationdate="20201030T130019Z">
+        <seg>### 大卡车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Multipurpose Tool</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T022542Z" creationid="quentine" creationdate="20200116T021637Z">
         <seg>### 多功能工具钳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### NABI Model 40LFW</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T130511Z" creationid="quentine" creationdate="20201030T130511Z">
+        <seg>### 北美客车 40LFW型</seg>
       </tuv>
     </tu>
     <tu>
@@ -3636,6 +3892,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T095937Z" creationid="quentine" creationdate="20200117T095937Z">
         <seg>### 瞄准镜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Sea-Doo XP</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T123433Z" creationid="quentine" creationdate="20201030T123433Z">
+        <seg>### 喜度 XP</seg>
       </tuv>
     </tu>
     <tu>
@@ -3976,6 +4240,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Toyota Tacoma Xtracab</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T130240Z" creationid="quentine" creationdate="20201029T130240Z">
+        <seg>### 丰田塔科马 Xtracab</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Track</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T135148Z" creationid="quentine" creationdate="20190804T135148Z">
@@ -4016,6 +4288,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### UH-60 Black Hawk</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T133615Z" creationid="quentine" creationdate="20201030T133615Z">
+        <seg>### UH-60 黑鹰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Unbalance Opponent</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T143330Z" creationid="quentine" creationdate="20190804T143330Z">
@@ -4036,6 +4316,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T144505Z" creationid="quentine" creationdate="20190804T144505Z">
         <seg>### 载具专家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Volkswagen Jetta</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T120141Z" creationid="quentine" creationdate="20201029T120141Z">
+        <seg>### 大众捷达</seg>
       </tuv>
     </tu>
     <tu>
@@ -4084,6 +4372,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T150920Z" creationid="quentine" creationdate="20190804T150920Z">
         <seg>### 横财</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Yamaha YZ250F</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T121629Z" creationid="quentine" creationdate="20201029T121629Z">
+        <seg>### 雅马哈 YZ250F</seg>
       </tuv>
     </tu>
     <tu>
@@ -6514,6 +6810,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T120204Z" creationid="quentine" creationdate="20191104T120204Z">
         <seg>（GM决定此章未体积的物品的购买DC，以相同价位物品作参考。）财富检定过程与购买此物品相同，但角色检定有10点减值，且不可取10取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(The driver’s position cannot be reached from the other positions, which are all in the turret.) It takes a full-round action to enter a tank and another full-round action to start it moving.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T132449Z" creationid="quentine" creationdate="20201030T132449Z">
+        <seg>（驾驶员的位置不与炮塔上的其他乘员位相通。）进入坦克是一个整轮动作，发动也会死一个整轮动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12091,6 +12395,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Table: Vehicle Weapons**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T134014Z" creationid="quentine" creationdate="20201030T134014Z">
+        <seg>**表：载具武器**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Table: Vehicles**</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200701T115112Z" creationid="quentine" creationdate="20200701T115112Z">
@@ -13697,6 +14009,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A Hummer is two squares wide and four squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T125204Z" creationid="quentine" creationdate="20201029T125204Z">
+        <seg>悍马有2格宽4格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A Large weapon requires two hands.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T133754Z" creationid="quentine" creationdate="20200410T133754Z">
@@ -13853,6 +14173,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190201T150144Z" creationid="quentine" creationdate="20190201T150144Z">
         <seg>这个检定不能取10取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A Soviet-era armored personnel carrier, the BMP is used by the Russian army and more than twenty ex-Soviet states or clients.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T131447Z" creationid="quentine" creationdate="20201030T131447Z">
+        <seg>BMP是前苏联时代的装甲输送车，为俄罗斯军队和超过20个前苏联国家和军售客户使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15569,6 +15897,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A classic dirt bike, this is very similar to the motorcycle used by United States Army cavalry scouts.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T122707Z" creationid="quentine" creationdate="20201029T122707Z">
+        <seg>这是一款经典的越野摩托，与美军机动侦察兵使用的摩托相似。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A cloudy night provides sufficient ambient light, but a pitch-black cave or a sealed room doesn’t.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T134720Z" creationid="quentine" creationdate="20191202T134720Z">
@@ -15897,6 +16233,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A few types of vehicles don’t fit neatly into the categories covered above.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T124138Z" creationid="quentine" creationdate="20201030T124138Z">
+        <seg>这些是无法归类到以上范畴的载具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A figure under a ghillie suit is nearly impossible to discern.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191113T141918Z" creationid="quentine" creationdate="20191113T141918Z">
@@ -16153,6 +16497,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A limousine is a big, comfortable car.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T125059Z" creationid="quentine" creationdate="20201030T125059Z">
+        <seg>豪华轿车就是宽敞而舒适的小汽车。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A limousine is two squares wide and five squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T125910Z" creationid="quentine" creationdate="20201030T125910Z">
+        <seg>豪华轿车有2格宽5格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A lineman’s buttset is a common tool for telephone repair personnel.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T133726Z" creationid="quentine" creationdate="20191202T133726Z">
@@ -16281,6 +16641,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A moving truck is two squares wide and five squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T130258Z" creationid="quentine" creationdate="20201030T130258Z">
+        <seg>大卡车有2格宽5格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A multiclass character increases one ability score by +1 every four character levels, regardless of individual class level.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T122247Z" creationid="quentine" creationdate="20190216T091219Z">
@@ -16397,6 +16765,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T125052Z" creationid="quentine" creationdate="20200117T124934Z">
         <seg>邻里皆处上流的黄金地段或市中心，购买DC+2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A partition divides the front seat from the rest of the vehicle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T125822Z" creationid="quentine" creationdate="20201030T125822Z">
+        <seg>前座和其他部分有一个隔板。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16661,6 +17037,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T141941Z" creationid="quentine" creationdate="20190916T135913Z">
         <seg>`站点`则是一个保存了文件、数据、或者应用程序的虚拟地点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A six-speed manual transmission with overdrive is standard.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200813T151042Z" creationid="quentine" creationdate="20200813T151042Z">
+        <seg>标配6速的带有超速档的手动变速杆。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17031,6 +17415,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T110712Z" creationid="quentine" creationdate="20190703T110712Z">
         <seg>它们会持续逃跑10轮（1分钟）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A two-door family coupe, the Cavalier is two squares wide and four squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200815T033822Z" creationid="quentine" creationdate="20200815T033722Z">
+        <seg>科沃兹是家用双门轿车，2格宽4格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19015,6 +19407,38 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200418T024612Z" creationid="quentine" creationdate="20200418T024612Z">
         <seg>美国军队、古巴和秘鲁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Army, this tracked armored personnel carrier is now in use by more than fifty countries.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T133424Z" creationid="quentine" creationdate="20201030T133424Z">
+        <seg>陆军的中坚力量。如今超过50个国家都在使用这种履带式装甲输送车。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Army’s main battle tank, probably the most advanced and powerful tank in the world.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T132125Z" creationid="quentine" creationdate="20201030T132125Z">
+        <seg>陆军的主战坦克，可能是全世界最先进最强大的坦克。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Army’s primary utility helicopter.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T133907Z" creationid="quentine" creationdate="20201030T133907Z">
+        <seg>陆军首选的多功能直升机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Army’s principal armored personnel carrier.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T132810Z" creationid="quentine" creationdate="20201030T132810Z">
+        <seg>陆军的装甲运输车。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26396,6 +26820,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In addition to its own armament, the Bradley’s passenger compartment has ports that allow passengers to fire their personal weapons from within the vehicle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T133025Z" creationid="quentine" creationdate="20201030T133025Z">
+        <seg>除了自带的武器外，布雷德利的乘员位上都有射击口，乘员可用自己的武器在车内向外射击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition to keeping a character warm and dry, coats and jackets provide additional concealment for things a character is carrying (they often qualify as loose or bulky clothing; see Concealed Weapons and Objects).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191113T142623Z" creationid="quentine" creationdate="20191113T142623Z">
@@ -26544,6 +26976,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T131259Z" creationid="quentine" creationdate="20191027T131259Z">
         <seg>此外，角色可以使用此技能评估社交氛围。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, a number of the civilian vehicles covered above, such as the AM General Hummer and the Bell Model 212 helicopter, are commonly seen in military service.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T131227Z" creationid="quentine" creationdate="20201030T131053Z">
+        <seg>此外，许多之前提到的民用载具，比如悍马和贝尔212型直升机，也在军中服役。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26704,6 +27144,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181024T042644Z" creationid="QuenTine" creationdate="20181024T042644Z">
         <seg>通常情况结果若有小数，则一律舍去，即便该小数大于或等于0.5。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In general, these luxury amenities can be added to a nonluxury car with an increase of 1 to the vehicle’s purchase DC.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200813T145650Z" creationid="quentine" creationdate="20200813T145650Z">
+        <seg>一般来说，这些豪华配置可以加装到非豪华车上，这会给载具增加1点购买DC。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27172,6 +27620,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Introduced in 1960s and for many years a mainstay of the U.S.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T133322Z" creationid="quentine" creationdate="20201030T133322Z">
+        <seg>M113A1于20世纪60年代问世，在很长一段时间内作为美国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Introduced in the 1980s to replace the aging UH-1, the Black Hawk is the U.S.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T133828Z" creationid="quentine" creationdate="20201030T133828Z">
+        <seg>黑鹰直升机于20世纪80年代问世，用于取代陈旧的UH-1休伊直升机。它是美国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Introduced in the Vietnam War era, this medium machine gun is still in widespread use with the U.S.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T042957Z" creationid="quentine" creationdate="20200419T042957Z">
@@ -27332,6 +27796,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It comes equipped with a powerful 6.5-liter, 195-horsepower V8 turbo diesel engine.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T124223Z" creationid="quentine" creationdate="20201029T124223Z">
+        <seg>它搭载了强劲的6.5升排量、195马力的V8涡轮柴油机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It comes equipped with four berths and a fully equipped galley.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T123400Z" creationid="quentine" creationdate="20201030T122457Z">
+        <seg>它有4个卧铺和配置齐全的小厨房。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It comes with a trailer; loading or unloading it requires a paved boat ramp and 10 minutes of work.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T120928Z" creationid="quentine" creationdate="20201030T120928Z">
+        <seg>它可由拖车运载，需要从人造的船坡下水。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It contains a wide variety of medical supplies and equipment.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T021325Z" creationid="quentine" creationdate="20200116T021325Z">
@@ -27468,6 +27956,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It has a door at the front and a second door about halfway down the right-hand side.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T130645Z" creationid="quentine" creationdate="20201030T130645Z">
+        <seg>它在前端有一个门，车中间的右侧有另一道门。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It has a range of 15 miles.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T125833Z" creationid="quentine" creationdate="20191202T125833Z">
@@ -27504,6 +28000,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T084118Z" creationid="quentine" creationdate="20200116T084118Z">
         <seg>它有一到两个中间夹层，以及几个外袋和绑带，用于搭载帐篷、铺盖卷和其他装备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It has three top hatches, one above each crew position, and a large door in back for infantry soldiers to load or disembark.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T131742Z" creationid="quentine" creationdate="20201030T131742Z">
+        <seg>它有三个顶盖、每个车组成员各一个，车尾有一个大门供运载的步兵出入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It has three top hatches, one for the driver and two on the turret.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T132330Z" creationid="quentine" creationdate="20201030T132330Z">
+        <seg>它有三个顶盖，驾驶员一个、炮塔上两个。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27588,6 +28100,38 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is crewed by a driver and a commander, and features a top hatch above each position as well as a rear door.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T133555Z" creationid="quentine" creationdate="20201030T133555Z">
+        <seg>车组包括一个驾驶员和一个车长，每个车组各一个顶盖，车尾有一个舱门。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is crewed by a driver, a gunner, a gun loader, and a commander.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T132221Z" creationid="quentine" creationdate="20201030T132221Z">
+        <seg>车组包括一个驾驶员、一个炮手、一个装填手和一个车长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is crewed by a driver, a gunner, and a commander.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T132248Z" creationid="quentine" creationdate="20201030T131513Z">
+        <seg>车组包括一个驾驶员、一个炮手和一个车长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is equipped with puncture-resistant tires.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T124933Z" creationid="quentine" creationdate="20201030T124933Z">
+        <seg>它还装备了防刺轮胎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is immune to all mind-influencing effects (charms, compulsions, phantasms, patterns and morale effects) and automatically fails Intelligence checks.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T140203Z" creationid="QuenTine" creationdate="20181103T135512Z">
@@ -27612,6 +28156,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is one square wide and two squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T121620Z" creationid="quentine" creationdate="20201029T121620Z">
+        <seg>它有1格宽2格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is opposed by others’ Spot check results.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190925T125514Z" creationid="quentine" creationdate="20190925T125514Z">
@@ -27624,6 +28176,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T131721Z" creationid="QuenTine" creationdate="20181103T131642Z">
         <seg>有的生物的某个属性值可以为“无”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is two squares wide and four squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200815T033631Z" creationid="quentine" creationdate="20200813T150359Z">
+        <seg>它有2格宽4格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is two squares wide and three squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T114735Z" creationid="quentine" creationdate="20201029T114735Z">
+        <seg>它有2格宽3格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27648,6 +28216,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190612T134037Z" creationid="quentine" creationdate="20190612T133727Z">
         <seg>这只能让你拥有物品要求拥有的职业专长来启动物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It lacks the luxury accessories of the civilian version, but it is equipped with puncture-resistant tires.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T125146Z" creationid="quentine" creationdate="20201029T125146Z">
+        <seg>相比民用版它没有豪华内饰，但装备了防刺轮胎。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27740,6 +28316,38 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It provides full cover to its occupants.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T131853Z" creationid="quentine" creationdate="20201030T131853Z">
+        <seg>它为乘客提供全掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It provides nine-tenths cover for its occupants.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T124918Z" creationid="quentine" creationdate="20201030T124918Z">
+        <seg>它为乘客提供9/10掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It provides no cover for its riders.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T125021Z" creationid="quentine" creationdate="20201030T125021Z">
+        <seg>它不为乘员提供任何掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It provides one-half cover to occupants in the cockpit or stern, full cover to occupants below deck, and no cover to those forward of the cockpit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T122618Z" creationid="quentine" creationdate="20201030T122618Z">
+        <seg>它为驾驶位和船尾的乘客提供半掩体，为甲板下的乘客提供全掩体，而驾驶位之前的船头不提供任何掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It provides three-quarters cover for crew and nine-tenths cover for passengers.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200803T150448Z" creationid="quentine" creationdate="20200803T150448Z">
@@ -27760,6 +28368,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200803T150501Z" creationid="quentine" creationdate="20200803T144359Z">
         <seg>它为乘员和机组提供3/4掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It provides three-quarters cover for its occupants.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T130013Z" creationid="quentine" creationdate="20201030T130013Z">
+        <seg>它为乘客提供3/4掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It provides three-quarters cover for occupants in the cab and full cover for any in the back.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T130354Z" creationid="quentine" creationdate="20201030T130354Z">
+        <seg>它为驾驶舱的乘客提供3/4掩体，为货舱内乘客提供全掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It provides three-quarters cover to crew and passengers (one-quarter cover to passengers if the cargo doors are open).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T134000Z" creationid="quentine" creationdate="20201030T134000Z">
+        <seg>它为乘员和机组提供3/4掩体（货舱门打开则只能提供1/4掩体）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27876,6 +28508,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It takes a full-round action to enter the vehicle through a top hatch and another full-round action to start it moving.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T131820Z" creationid="quentine" creationdate="20201030T131820Z">
+        <seg>从顶盖进入载具是一个整轮动作，发动载具也是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It takes a full-round action to enter the vehicle through a top hatch, and another full-round action to start it moving.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T132908Z" creationid="quentine" creationdate="20201030T132908Z">
+        <seg>从顶盖进入载具是一个整轮动作，发动载具也是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It takes a full-round action to make an object with scientific improvisation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190518T125900Z" creationid="quentine" creationdate="20190518T125900Z">
@@ -27968,6 +28616,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200527T130628Z" creationid="quentine" creationdate="20200527T130628Z">
         <seg>最好能用在需要隐藏护甲但不被密切监视的地方，注意到此护甲所需的侦察检定会有2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It’s designed to look cool and compete for space on the roads with automobiles.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T121540Z" creationid="quentine" creationdate="20201029T121540Z">
+        <seg>它设计狂霸酷炫，敢跟汽车争路权。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28084,6 +28740,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Large and durable, it is a favorite of police forces (police cruisers are commonly Crown Victorias).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T115243Z" creationid="quentine" creationdate="20201029T115243Z">
+        <seg>它巨大而耐用，深受警察部门的喜爱（警用巡逻车大多是维多利亚皇冠）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Larger bipedal creatures can carry more weight depending on size category: Large x2, Huge x4, Gargantuan x8, and Colossal x16.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T135248Z" creationid="quentine" creationdate="20191105T135248Z">
@@ -28164,6 +28828,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Like cars, trucks generally provide three-quarters cover to their occupants.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T123302Z" creationid="quentine" creationdate="20201029T123302Z">
+        <seg>和小汽车一样，卡车也为乘客提供3/4掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Likewise, a maximized 2nd-level spell is treated as a 5th-level spell.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190624T143611Z" creationid="quentine" creationdate="20190624T143611Z">
@@ -28176,6 +28848,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190731T122514Z" creationid="quentine" creationdate="20190731T122514Z">
         <seg>同样，如果角色的注意力被扰乱，或者角色在下一次行动前就被攻击，角色将失去瞄准效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Limousines feature virtually every available luxury feature, often including televisions and small refrigerators.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T125730Z" creationid="quentine" creationdate="20201030T125730Z">
+        <seg>豪华轿车几乎拥有了所有的豪华配置，常常包括电视和小冰箱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28272,6 +28952,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190926T142345Z" creationid="quentine" creationdate="20190926T142345Z">
         <seg>更长更复杂的文件每页需要1d4分钟或更长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Luxury vehicles often also include extras such as heated side mirrors, power seats, leather upholstery, and sunroofs.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200813T145526Z" creationid="quentine" creationdate="20200813T145526Z">
+        <seg>豪华车通常还有额外的功能，比如有加热功能的侧后视镜、电动座椅、皮制内饰、以及天窗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28466,6 +29154,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T140544Z" creationid="quentine" creationdate="20191105T140544Z">
         <seg>本节许多物品是电池驱动的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Many of these (such as the armored truck and the limousine) are usually custom built, so the model name isn’t specified as it is with most other vehicles in this section.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T124342Z" creationid="quentine" creationdate="20201030T124342Z">
+        <seg>它们大多是定制的（比如武装卡车和豪华轿车），所以不像本章里的其他载具一样有型号。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28694,6 +29390,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most new civilian cars include such standard features as air conditioning, air bags, antilock brakes, cruise control, keyless entry, and an AM/FM radio with CD player.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200813T144946Z" creationid="quentine" creationdate="20200813T144946Z">
+        <seg>大多数新型民用汽车都包括这些基本功能：空调、安全气囊、防抱死、恒速控制、遥控门锁、收音机和CD机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most of the time, a hero doesn’t decide to use his or her reputation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181106T135332Z" creationid="QuenTine" creationdate="20181106T122736Z">
@@ -28738,6 +29442,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190619T131154Z" creationid="quentine" creationdate="20190619T131145Z">
         <seg>大多数自我催眠都是攻击动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Motorcycles tend to perform better than automobiles, but they provide no cover to their occupants.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T120736Z" creationid="quentine" creationdate="20201029T120618Z">
+        <seg>摩托车性能表现比汽车更好，但无法给乘客提供任何掩体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29462,6 +30174,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One of the largest sport utility vans on the market, the Suburban is a four-door truck equipped with a standard 6.0-liter, 320-horsepower V8 engine.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T125449Z" creationid="quentine" creationdate="20201029T125401Z">
+        <seg>萨博班是一款四门卡车，市面上最大型的SUV之一，标配6.0升排量、320马力的V8引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>One of these spells can be selected by the Occultist if she makes a successful Research check (DC 20); the other two spells are selected randomly.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190613T132340Z" creationid="quentine" creationdate="20190613T125529Z">
@@ -29838,6 +30558,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T093158Z" creationid="quentine" creationdate="20190216T093005Z">
         <seg>新职业升一级并不等于以这个职业新建1级的角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Piloting a water vehicle is covered by the Drive skill.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T130420Z" creationid="quentine" creationdate="20201029T130420Z">
+        <seg>驾驶水上载具也是应用`驾驶`技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30900,6 +31628,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T131600Z" creationid="quentine" creationdate="20200117T131600Z">
         <seg>服务如`表：服务`所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Several military vehicles are covered here.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T130951Z" creationid="quentine" creationdate="20201030T130951Z">
+        <seg>这里有几种军用载具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32280,6 +33016,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The 3.2 TL is a four-door luxury sedan.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200813T150344Z" creationid="quentine" creationdate="20200813T150344Z">
+        <seg>3.2 TL型讴歌是一款4门豪华轿车。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The 40mm fragmentation grenade has a minimum range of 40 feet.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200507T130607Z" creationid="quentine" creationdate="20200507T130607Z">
@@ -32296,10 +33040,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The 998R is one square wide and two squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T121101Z" creationid="quentine" creationdate="20201029T121101Z">
+        <seg>998R有1格宽2格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The AKM is a slightly more modern version of the AK-47, but functions essentially the same.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T022218Z" creationid="quentine" creationdate="20200419T022218Z">
         <seg>AKM是AK-47的现代版，但内部机制大同小异。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Abrams is three squares wide and six squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T132524Z" creationid="quentine" creationdate="20201030T132524Z">
+        <seg>艾布拉姆斯有3格宽6格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32388,6 +33148,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190627T135415Z" creationid="quentine" creationdate="20190627T135415Z">
         <seg>侍僧的最重要的特点就是施展神术法术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The BMP-2 is three squares wide and four squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T131839Z" creationid="quentine" creationdate="20201030T131839Z">
+        <seg>BMP-2有3格宽4格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32544,10 +33312,42 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Bradley is three squares wide and four squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T133036Z" creationid="quentine" creationdate="20201030T133036Z">
+        <seg>布雷德利有3格宽4格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The CZ61 Skorpion is a Czech machine pistol seen increasingly in the West since the collapse of the Soviet Union.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T011341Z" creationid="quentine" creationdate="20200419T011341Z">
         <seg>CZ61蝎式是一款捷克产冲锋枪，苏联解体后，此枪在西方越来越常见。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Capri is two squares wide and four squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T122026Z" creationid="quentine" creationdate="20201030T122026Z">
+        <seg>卡普里有2格宽4格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Capri provides one-half cover to occupants in the cockpit or stern, full cover to occupants in the cabin, and no cover to those forward of the cockpit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T122014Z" creationid="quentine" creationdate="20201030T121114Z">
+        <seg>卡普里为驾驶位和船尾的乘客提供半掩体，为小型舱室内的乘客提供全掩体，而驾驶位之前的船头不提供任何掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Caravan is a minivan with two conventional doors up front, sliding doors on the side, and a rear hatch-style door.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T125854Z" creationid="quentine" creationdate="20201029T125442Z">
+        <seg>凯领是一款多功能休旅车，其前座是常见的双前门、中间是滑动门，还有一个后舱门。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32592,6 +33392,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Corvette is a two-door sports car equipped with a 5.7-liter, 350-horsepower V8 engine.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T114949Z" creationid="quentine" creationdate="20200815T033908Z">
+        <seg>科尔维特是一款双门运动型车，搭载5.7升排量、350马力的V8引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Corvette is two squares wide and three squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T114556Z" creationid="quentine" creationdate="20201029T114556Z">
+        <seg>科尔维特有2格宽3格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Craft (pharmaceutical) check is based on the severity of the disease to be countered as measured by the DC of the Fortitude save needed to resist it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190922T140332Z" creationid="quentine" creationdate="20190922T140332Z">
@@ -32604,6 +33420,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190523T141650Z" creationid="quentine" creationdate="20190523T141650Z">
         <seg>制造大师级工艺的物品的制造DC基础值等同于对应普通物品的DC，再根据以下规则添加DC调整值：为物品+1则+3DC，为物品+2则+5DC，为物品+3则+10DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Crown Victoria is a large four-door family sedan equipped with a 4.6-liter, 220-horsepower V8 engine.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T114922Z" creationid="quentine" creationdate="20201029T114922Z">
+        <seg>福特维多利亚皇冠是一款大型四门家用轿车，搭载4.6升排量、220马力的V8引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Crown Victoria is two squares wide and four squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T115315Z" creationid="quentine" creationdate="20201029T115315Z">
+        <seg>维多利亚皇冠有2格宽4格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33064,6 +33896,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Diablo is a top-of-the-line exotic sports car—a two-door coupe equipped with a standard 6.0-liter, 550-horsepower V12 engine.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T115910Z" creationid="quentine" creationdate="20201029T115910Z">
+        <seg>兰博基尼迪亚波罗是一款顶级且前卫的运动型轿跑，双门双座、标配6.0升排量、550马力的V12发动机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Diablo is two squares wide and three squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T115927Z" creationid="quentine" creationdate="20201029T115927Z">
+        <seg>迪亚波罗有2格宽3格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Difficulty Class for a save is determined by the attack itself.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T130528Z" creationid="quentine" creationdate="20190114T130528Z">
@@ -33088,6 +33936,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The E-Class is a four-door luxury sedan equipped with a powerful 5.5-liter, 349-horsepower V8 engine.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T120127Z" creationid="quentine" creationdate="20201029T120127Z">
+        <seg>梅赛德斯E系是一款四门豪华轿车，搭载强劲的5.5升排量、349马力的V8引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Escape is a four-door SUV with a 3.0-liter, 201-horsepower V6 engine.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T130028Z" creationid="quentine" creationdate="20201029T130028Z">
+        <seg>锐际是一款4门SUV，搭载了3.0升排量、201马力的V6引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Exotic Firearms Proficiency (grenade launchers) feat applies to this weapon.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200420T134243Z" creationid="quentine" creationdate="20200420T134243Z">
@@ -33108,6 +33972,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200420T133140Z" creationid="quentine" creationdate="20200420T133140Z">
         <seg>此武器要求`擅长异种武器（火箭筒）`专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The F-150 is two squares wide and four squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T130221Z" creationid="quentine" creationdate="20201029T130221Z">
+        <seg>F-150有2格宽4格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33456,6 +34328,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Gavin is three squares wide and four squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T133609Z" creationid="quentine" creationdate="20201030T133609Z">
+        <seg>盖文有3格宽4格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Glock is typical of 9mm self-loading pistols carried by many police officers and military personnel.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200418T024127Z" creationid="quentine" creationdate="20200418T024127Z">
@@ -33560,6 +34440,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Jetta is a four-door station wagon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T120322Z" creationid="quentine" creationdate="20201029T120322Z">
+        <seg>捷达是一款4门旅行车（RV）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The LAW (light antitank weapon) is a disposable, one-shot rocket launcher.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T153341Z" creationid="quentine" creationdate="20200419T153341Z">
@@ -33588,6 +34476,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T010705Z" creationid="quentine" creationdate="20200419T010705Z">
         <seg>M29因其震耳欲聋的响声、眩目的火光和强劲的后座力闻名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The M3 is a two-door luxury sports car equipped with a standard 3.2-liter, 333-horsepower engine.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200815T033920Z" creationid="quentine" creationdate="20200815T033544Z">
+        <seg>M3是一款双门豪华运动型轿跑，标配3.2升排量、333马力的发动机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The M3 is two squares wide and three squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200815T033619Z" creationid="quentine" creationdate="20200815T033619Z">
+        <seg>M3有2格宽3格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33856,6 +34760,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Neon is an inexpensive four-door family sedan.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T114719Z" creationid="quentine" creationdate="20201029T114719Z">
+        <seg>道奇霓虹是一款实惠的四门家用轿车。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Occultist gains 1d6 hit points per level.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190612T114252Z" creationid="quentine" creationdate="20190612T114252Z">
@@ -33972,6 +34884,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T131322Z" creationid="QuenTine" creationdate="20181103T131322Z">
         <seg>以上属性的数值从0到无穷大不等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Sea-Doo XP is one square wide and two squares long, and provides no cover for its riders.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T124012Z" creationid="quentine" creationdate="20201030T124012Z">
+        <seg>喜度XP有1格宽2格长，不为乘员提供任何掩体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34136,6 +35056,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Tacoma is a two-door pickup with a back seat in its extended cab.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T130329Z" creationid="quentine" creationdate="20201029T130329Z">
+        <seg>塔科马是一款双门皮卡，后舱还有两个座位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Targa is three squares wide and six squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T123421Z" creationid="quentine" creationdate="20201030T123421Z">
+        <seg>塔尔加有3格宽6格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Techie can only control one robot at a time, and only one of his robots can be active at any time.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190522T142409Z" creationid="quentine" creationdate="20190522T142409Z">
@@ -34264,6 +35200,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The UH-60 is three squares wide and twelve squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T133927Z" creationid="quentine" creationdate="20201030T133927Z">
+        <seg>UH-60有3格宽12格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Vanquish is a two-door luxury sports car powered by a 5.9-liter, 460-horsepower V12 engine.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200815T033914Z" creationid="quentine" creationdate="20200813T150825Z">
+        <seg>万奎仕是一款双门豪华运动型轿跑，发动机是5.9升排量、460马力的V12发动机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Vanquish is two squares wide and four squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200815T033625Z" creationid="quentine" creationdate="20200813T151109Z">
+        <seg>万奎仕有2格宽4格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Wealth bonus is fluid.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181106T134358Z" creationid="QuenTine" creationdate="20181106T134358Z">
@@ -34276,6 +35236,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T152640Z" creationid="quentine" creationdate="20200419T152640Z">
         <seg>温彻斯特M94是一款大口径杠杆猎枪，全世界都能见到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The XJ is a four-door luxury sedan.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T115515Z" creationid="quentine" creationdate="20201029T115515Z">
+        <seg>捷豹XJ是一款四门豪华轿车。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34300,6 +35268,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190523T134509Z" creationid="quentine" creationdate="20190523T134509Z">
         <seg>经验值必须在检定前就消耗掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The YZ250F is one square wide and two squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T122724Z" creationid="quentine" creationdate="20201029T122724Z">
+        <seg>YZ250F有1格宽2格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34396,6 +35372,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200507T135416Z" creationid="quentine" creationdate="20200507T135416Z">
         <seg>点燃导火索到爆炸的时间取决于导火索的长度——导火索可以裁短，让炸药在同一轮内爆炸（如榴弹一般使用），或长到几分钟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The armored truck is two squares wide and four squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T124853Z" creationid="quentine" creationdate="20201030T124853Z">
+        <seg>武装卡车有2格宽4格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35788,6 +36772,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The description and stats reflect a typical model.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T124444Z" creationid="quentine" creationdate="20201030T124444Z">
+        <seg>描述与数据指的是一般常见的款式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The detonator comes with 100 feet of wire, but longer lengths can be spliced in with a Demolitions check (DC 10).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T094331Z" creationid="quentine" creationdate="20200117T094331Z">
@@ -36316,6 +37308,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The four-door Hummer is a civilian version of the military’s all-terrain “humvee” utility vehicle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T124033Z" creationid="quentine" creationdate="20201029T124033Z">
+        <seg>四门的悍马是军用“高机动性多用途轮式车辆”的民用版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The fourteen Knowledge categories, and the topics each one encompasses, are as follows.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T090227Z" creationid="quentine" creationdate="20191022T134440Z">
@@ -36456,6 +37456,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190927T125130Z" creationid="quentine" creationdate="20190927T125049Z">
         <seg>检定结果越高，信息就越准确。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The hummer is decked out like a luxury vehicle inside, but this vehicle is every bit as rugged as the military version.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T124537Z" creationid="quentine" creationdate="20201029T124524Z">
+        <seg>悍马的内部装饰得很豪华，但其粗犷丝毫不输军用版。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36672,6 +37680,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190613T141210Z" creationid="quentine" creationdate="20190613T141210Z">
         <seg>方式和过程都是术士独有的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The military version can be configured in a variety of ways, including a two-door pickup, a four-door pickup with a short bed, and a completely enclosed, SUVlike body with a hatchback and four doors.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T125020Z" creationid="quentine" creationdate="20201029T124709Z">
+        <seg>军用版可以改装成许多形态，包括双门皮卡、四门短尾皮卡和四门全包SUV。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37180,6 +38196,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The rear bed of a pickup truck, however, provides only one-half cover.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T124925Z" creationid="quentine" creationdate="20201029T123403Z">
+        <seg>而皮卡的尾舱只提供半掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The relationship between a weapon’s size and that of its wielder defines whether it can be used one-handed, if it requires two hands, and if it’s a light weapon.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T133630Z" creationid="quentine" creationdate="20200410T133630Z">
@@ -37401,6 +38425,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200418T020508Z" creationid="quentine" creationdate="20200418T020508Z">
         <seg>美国军队以及许多美国执法机关通行的标准现役手枪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The statistics given are for a moderate-sized vehicle, rather than a stretch limo or a conventional car with a professional driver.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T125528Z" creationid="quentine" creationdate="20201030T125528Z">
+        <seg>其数据对应的是中等体积的载具，而非那种配备专业司机的老爷车或加长豪华轿车。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37713,6 +38745,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200513T145336Z" creationid="quentine" creationdate="20191102T030133Z">
         <seg>践踏产生`钝击`伤害，伤害量见生物的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The truck has three doors and firing ports that allow the crew to use their firearms without leaving the vehicle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T124841Z" creationid="quentine" creationdate="20201030T124841Z">
+        <seg>卡车有三道门和射击口，让车组人员可以在车内向外射击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38213,6 +39253,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These weapons are part of the vehicles on which they are mounted.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T135010Z" creationid="quentine" creationdate="20201030T135010Z">
+        <seg>这些武器是所在载具的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These weapons explode or burst, dealing damage to creatures or objects within an area.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200424T130910Z" creationid="quentine" creationdate="20200424T130910Z">
@@ -38353,6 +39401,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200115T095701Z" creationid="quentine" creationdate="20200115T095701Z">
         <seg>手铐适用于体型为普通或小型的人类，或者有合适身体构造的生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They generally have the same features as civilian cars.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T123208Z" creationid="quentine" creationdate="20201029T123208Z">
+        <seg>它们的民用用途大致相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38582,6 +39638,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This all-terrain vehicle is something like a four-wheeled motorcycle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T125002Z" creationid="quentine" creationdate="20201030T125002Z">
+        <seg>这种全地形车长得像4轮的摩托车。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This allows a Strong hero to ignore some of an object’s hardness when making a melee attack to break it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T125747Z" creationid="quentine" creationdate="20190116T125747Z">
@@ -38738,6 +39802,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190413T140041Z" creationid="quentine" creationdate="20190413T140041Z">
         <seg>加值与前置的加值叠加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This cabin cruiser is a motor yacht with two internal diesel engines.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T122318Z" creationid="quentine" creationdate="20201030T122318Z">
+        <seg>这款大游艇是一款用两台活塞引擎发动的游艇。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39214,6 +40286,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This huge motorcycle sports a 1,450cc engine.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T121300Z" creationid="quentine" creationdate="20201029T121300Z">
+        <seg>这种巨大的摩托车搭载了1450cc的引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This illicit starting occupation reveals a background from the wrong side of the law.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181104T130353Z" creationid="QuenTine" creationdate="20181104T130353Z">
@@ -39310,6 +40390,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is a large cargo truck used to move furniture or deliver freight.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T130114Z" creationid="quentine" creationdate="20201030T130114Z">
+        <seg>这是一种大货车，用于搬运家具或其他货物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a large runabout—a powerboat with an outboard engine and an open cockpit with a tiny cabin (about the size of the interior of an economy car) forward.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T121716Z" creationid="quentine" creationdate="20201029T130810Z">
+        <seg>这是一款大型轻型汽艇——一种引擎安在甲板上且前部有一个带小型舱室（约与经适车的客舱一样的大小）的露天驾驶舱的汽艇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is a lightweight vest with a series of pockets for items such as a compass, spare ammunition magazines, pressure bandages, and a radio, along with loops for attaching grenades, knives, or tools.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T095412Z" creationid="quentine" creationdate="20200116T095412Z">
@@ -39360,6 +40456,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is a top-of-the-line street bike with a strong heritage of winning races.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T121039Z" creationid="quentine" creationdate="20201029T120813Z">
+        <seg>这是一款顶级街车，在赛场上战绩赫赫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a two-seat jet ski that propels itself with a powerful jet of water.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T123932Z" creationid="quentine" creationdate="20201030T123932Z">
+        <seg>这是一款双座喷气式摩托艇，用一台强劲的喷气机驱水而动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is a typical city bus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T130531Z" creationid="quentine" creationdate="20201030T130531Z">
+        <seg>这是一款常见的城市公交车。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is an attack action, and the character can’t take 10 on this check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T134418Z" creationid="quentine" creationdate="20190806T134418Z">
@@ -39380,6 +40500,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200803T144226Z" creationid="quentine" creationdate="20200803T144226Z">
         <seg>这可以说是世界上最普遍的民用直升机了；它同样作为轻型通用直升机在军中服役。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is the U.S.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T132048Z" creationid="quentine" creationdate="20201030T132048Z">
+        <seg>这是美国</seg>
       </tuv>
     </tu>
     <tu>
@@ -40002,6 +41130,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This two-door pickup truck has a 4.2-liter, 202-horsepower V6 engine.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T130204Z" creationid="quentine" creationdate="20201029T130204Z">
+        <seg>这款双门的皮卡搭载了4.2升排量、202马力的V6引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This unswerving belief allows the Dedicated hero to add his or her Wisdom modifier to the die roll whenever the hero spends 1 action point to improve the result of an attack roll, skill check, saving throw, or ability check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190202T104608Z" creationid="quentine" creationdate="20190202T104608Z">
@@ -40046,6 +41182,38 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190612T142043Z" creationid="quentine" creationdate="20190612T142043Z">
         <seg>使用此技能可以让你像魔杖要求的职业一样使用此魔杖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This vehicle comes equipped with a 25mm cannon (see Table: Vehicle Weapons) mounted in a full turret.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T133101Z" creationid="quentine" creationdate="20201030T133101Z">
+        <seg>此载具装备了一个带25mm加农炮（见表：载具武器）的全包式炮塔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This vehicle comes equipped with a 30mm cannon (see Table: Vehicle Weapons) mounted in a full turret.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T132029Z" creationid="quentine" creationdate="20201030T132029Z">
+        <seg>此载具装备了一个带30mm加农炮（见表：载具武器）的全包式炮塔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This vehicle comes equipped with a tank cannon (see Table: Vehicle Weapons) and an M2HB heavy machine gun (see Table: Ranged Weapons), both mounted in full turrets.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T134447Z" creationid="quentine" creationdate="20201030T132750Z">
+        <seg>此载具装备了一门坦克加农炮（见表：载具武器）和一挺M2HB重机枪（见表：远程武器），两者都搭载在全包式炮塔上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This vehicle is two squares wide and eight squares long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T130726Z" creationid="quentine" creationdate="20201030T130726Z">
+        <seg>这种载具有2格宽8格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40698,6 +41866,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Trucks include pickups, sport utility vehicles, vans, and minivans.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T123139Z" creationid="quentine" creationdate="20201029T123139Z">
+        <seg>卡车包括皮卡、运动型多用途车（SUV）、面包车以及多功能休旅车。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Trucks of this sort are often available as rentals.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T130227Z" creationid="quentine" creationdate="20201030T130227Z">
+        <seg>这类大卡车通常可以租赁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tumble can provide a +2 synergy bonus on Jump checks (see Skill Synergy).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191021T143254Z" creationid="quentine" creationdate="20191021T143254Z">
@@ -40834,6 +42018,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unless otherwise noted, civilian cars provide three-quarters cover for their occupants (although passengers who lean out of windows or sunroofs, perhaps to fire weapons, may be reduced to one-half or even one-quarter cover).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20200813T150035Z" creationid="quentine" creationdate="20200813T150035Z">
+        <seg>除非特别说明，民用汽车为乘客提供3/4掩体（但如果在乘客伸出窗外或天窗，还有面对火焰武器的情况下，只会提供半掩体甚至1/4掩体）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unless otherwise stated, improved grab works only against opponents at least one size category smaller than the creature.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T131021Z" creationid="quentine" creationdate="20191031T131021Z">
@@ -40878,6 +42070,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T132328Z" creationid="quentine" creationdate="20200410T132328Z">
         <seg>不像弹匣，转轮不能随便拆卸，必需手动装填。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlike getting into a car, mounting a motorcycle is a free action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T120437Z" creationid="quentine" creationdate="20201029T120437Z">
+        <seg>与进入汽车不同，骑上摩托车是一个即时动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41030,6 +42230,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190808T143448Z" creationid="quentine" creationdate="20190808T143448Z">
         <seg>角色最多能拉动两倍于自身最大负载的重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Used to transport money between businesses and financial institutions, armored trucks are designed to deter would-be thieves.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T124745Z" creationid="quentine" creationdate="20201030T124745Z">
+        <seg>武装卡车用于押运金钱，往来于商务与金融机构之间，专为防范可能的盗抢活动而设计。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45511,7 +46719,7 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |M113A1 Gavin (tracked APC)|2|11|200 lb.|–2|–2|62 (6)|8|10|48|H|39|Mil (+3)|
 |UH-60 Black Hawk (helicopter)|2|14|9,000 lb.|–4|–4|325 (32)|6|5|46|G|47|Mil (+3)|</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T143532Z" creationid="quentine" creationdate="20200701T115352Z">
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T115435Z" creationid="quentine" creationdate="20200701T115352Z">
         <seg>|名称|车组位|乘员位|货容量|先攻|机动性|极速|防御|硬度|生命值|尺寸|购买 DC|限制级|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |**民用航空**|||||||||||||
@@ -45528,7 +46736,7 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |雪佛兰科尔维特（运动型轿跑）|1|1|250 磅|–2|+0|310 （31）|8|5|32|超大型|30|执照（+1）|
 |道奇霓虹 （经济型轿车）|1|4|275 磅|–1|–1|220 （22）|9|5|30|大型|26|执照（+1）|
 |福特维多利亚皇冠 （中型轿车）|1|5|425 磅|–2|–1|185 （18）|8|5|34|超大型|28|执照（+1）|
-|捷豹 XJS （奢侈型轿车）|1|4|275 磅|–2|–1|230 （23）|8|5|34|超大型|32|执照（+1）|
+|捷豹 XJ轿车 （奢侈型轿车）|1|4|275 磅|–2|–1|230 （23）|8|5|34|超大型|32|执照（+1）|
 |兰博基尼迪亚波罗 （运动型轿跑）|1|1|100 磅|–2|+1|360 （36）|8|5|34|超大型|37|执照（+1）|
 |梅赛德斯 E55 AMG （奢侈型轿车）|1|4|325 磅|–2|+0|280 （28）|8|5|34|超大型|32|执照（+1）|
 |大众捷达 （中型旅行车）|1|4|275 磅|–2|+0|230 （23）|8|5|32|超大型|28|执照（+1）|
@@ -46896,6 +48104,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |手里剑（古典）|1|20|穿刺|10尺|单发|—|超小型|0.5磅|3|—|
 |电击枪（简单）|1d4\*\*|—|电能|5尺|单发|1发内置|小型|2磅|7|—|
 |鞭子（简单）|1d2|20|劈砍|15尺\*\*\*|单发|—|小型|2磅|4|—|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Weapon|Damage|Critical|Damage Type|Range Increment|Rate of Fire|Magazine|Size|Weight|Purchase DC|Restriction|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Cannons (require the Exotic Firearms Proficiency \[cannons\] feat)|||||||||||
+|BMP-2 30mm cannon|4d12|20|Ballistic|300 ft.|A|Linked|Huge|\*|\*|\*|
+|M1A2 Abrams tank cannon|10d12|20|Ballistic|400 ft.|Single|1|Huge|\*|\*|\*|
+|M2A2 Bradley 25mm cannon|4d12|20|Ballistic|350 ft.|A|Linked|Huge|\*|\*|\*|
+\* Weight, purchase DC, and restriction rating do not apply.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T135239Z" creationid="quentine" creationdate="20201030T134049Z">
+        <seg>|武器|伤害|重击|伤害类型|射程跨度|射击模式|弹仓|尺寸|重量|购买 DC|限制级|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|加农炮（需要`擅长异种火器 \[加农炮\]` 专长)|||||||||||
+|BMP-2 30mm 加农炮|4d12|20|实弹|300尺|全|弹链|超大型|\*|\*|\*|
+|M1A2 艾布拉姆斯坦克加农炮|10d12|20|实弹|400尺|手动|1|超大型|\*|\*|\*|
+|M2A2 布雷德利 25mm 加农炮|4d12|20|实弹|350尺|全|弹链|超大型|\*|\*|\*|
+\* 重量、购买DC和限制级无效。</seg>
       </tuv>
     </tu>
     <tu>

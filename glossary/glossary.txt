@@ -1322,3 +1322,17 @@ M113A1 Gavin	M113A1盖文
 UH-60 Black Hawk	UH-60黑鹰
 Huey helicopter	修伊直升机	Huey helicopter
 fuselage	机身	飞机
+cruise control	恒速控制	汽车会自动适应一个速度，脚可以离开油门
+antilock brakes	防抱死
+air bags	安全气囊
+keyless entry	遥控门锁
+cavalry scouts	机动侦察兵	美军把乘车或乘机进行机动的侦察兵沿用骑兵编制，所以这个词就是指乘坐载具的侦察兵兵种。
+van	面包车
+sport utility vehicle	运动型多用途车
+stern	船尾
+stretch	弹性的
+stretch limo	加长豪华轿车
+rental	租赁
+hatch	舱口
+gunner	炮手	车组成员
+Single	手动	射击模式
