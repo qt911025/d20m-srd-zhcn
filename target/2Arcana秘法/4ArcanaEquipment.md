@@ -502,10 +502,10 @@ For game purposes, skis and snowboards operate the same way. When moving downhil
 VEHICLES
 Crew: The standard crew. In most cases, only one crewperson is needed to drive the vehicle; others serve as gunners or co-pilots.
 Passengers: The number of passengers the vehicle is designed to carry. This is in addition to the crew. Vehicles that carry passengers can use passenger space to carry additional cargo when passengers aren’t present. Each unused passenger slot allows the vehicle to carry an additional 250 pounds of cargo.
-Cargo Capacity: The amount of cargo the vehicle is designed to carry. Many vehicles can, in a pinch, carry extra passengers instead of cargo, but doing so is usually a cramped, uncomfortable, and often unsafe experience for those passengers. As a rule of thumb, one additional passenger can be carried for each 250 pounds of unused cargo capacity.
+Cargo Capacity: The amount of cargo the vehicle is designed to carry. Many vehicles can, in a pinch, carry extra passengers instead of cargo, but doing so is usually a cramped, uncomfortable, and often unsafe experience for those passengers. 一般来说，每250磅货容量能搭载一个乘客。
 Initiative: The modifier added to initiative rolls when driving the vehicle.
 Maneuver: The modifier added to any Drive or Pilot checks attempted with the vehicle.
-Max Speed: The maximum number of squares the vehicle can cover in a single round at character scale (with the number of squares at chase scale in parentheses). This is the fastest the vehicle can move.
+Max Speed: The maximum number of squares the vehicle can cover in a single round at character scale (with the number of squares at chase scale in parentheses). 这是载具所能移动的最快速度。
 Defense: The vehicle’s Defense.
 Hardness: The vehicle’s hardness. Subtract this number from any weapon damage dealt to the vehicle.
 Hit Points: The vehicle’s maximum hit points.
@@ -578,7 +578,7 @@ The rider must use a full-round action to climb up a significant slope and can o
 
 General Purpose Cars
 Most new general purpose cars include such standard features as air conditioning, air bags, antilock brakes, cruise control, keyless entry, and AM/FM radio with CD player. Luxury vehicles also include extras like heated side mirrors, power seats, leather upholstery, and sunroofs. In general, these luxury amenities can be added to a non-luxury car with a +1 increase in the vehicle’s purchase DC.
-Unless otherwise noted, civilian cars provide three-quarters cover for their occupants (although passengers who lean out of windows or sunroofs, perhaps to fire weapons, may be reduced to one-half or even one-quarter cover).
+除非特别说明，民用汽车为乘客提供3/4掩体（但如果在乘客伸出窗外或天窗，还有面对火焰武器的情况下，只会提供半掩体甚至1/4掩体）。
 1967 Chevrolet Camaro
 A good example of a “muscle car,” a 1967 Chevy Camaro has a 350 cubic inch V8 engine that produces 295 horsepower. This does not include additional upgrades such as turbocharging and racing tires. A Camaro is two squares wide and four squares long.
 Police Cruiser
@@ -587,9 +587,9 @@ Dodge Intrepid Police Interceptor
 With faster sports cars on the streets, the police occasionally need faster cars to catch them. Only the largest and best-funded police departments can afford this vehicle. It contains the same equipment as a regular police cruiser. Police interceptors are two squares wide and four squares long.
 
 General Purpose Trucks
-Trucks include pickups, sport-utility vehicles, vans and minivans. They generally have the same range of features as civilian cars. Like cars, trucks generally provide three-quarters cover to their occupants. The rear beds of pickup trucks, however, provide only one-half cover.
+Trucks include pickups, sport-utility vehicles, vans and minivans. They generally have the same range of features as civilian cars. 和小汽车一样，卡车也为乘客提供3/4掩体。The rear beds of pickup trucks, however, provide only one-half cover.
 Ford Econoline 150
-A typical full-sized van used for hauling cargo or passengers, the Ford Econoline 150 comes with two conventional doors up front, sliding doors on the side, and a rear hatch-style door. It is two squares wide and four squares long.
+A typical full-sized van used for hauling cargo or passengers, the Ford Econoline 150 comes with two conventional doors up front, sliding doors on the side, and a rear hatch-style door. 它有2格宽4格长。
 Jeep Wrangler
 The Wrangler is a small truck designed for serious off-roading. It sports oversized tires, a roll bar, and heavy-duty shock absorbers. It’s not fast, but can get through difficult terrain much better than a normal car. A Wrangler is two squares wide and three squares long.
 Peterbilt 379
@@ -598,7 +598,7 @@ Tow Truck
 A tow truck is a large diesel-powered vehicle with a professional grade tow bar/winch used for hauling inoperative cars. It takes 2d10 minutes to hook up a car with the tow bar—a successful Repair check (DC 10) can halve the time. Most tow trucks also carry a basic mechanical tool kit, CB radio, and one-gallon gas can. A tow truck is two squares wide and four squares long.
 
 General Purpose Motorcycles
-Unlike getting into a car, mounting a motorcycle is a free action. Motorcycles tend to perform better than automobiles, but they provide no cover to their occupants.
+Unlike getting into a car, mounting a motorcycle is a free action. 摩托车性能表现比汽车更好，但无法给乘客提供任何掩体。
 V-Rod
 The V-Rod combines the aesthetics of a traditional Harley with the engine of a racing bike. Using a liquid-cooled engine that kicks out 115 horsepower, this monster combines the “biker” mystique with the speed of a racing bike. The V-Rod is one square wide by two squares long.
 Police Motorcycle

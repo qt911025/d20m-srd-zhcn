@@ -60,7 +60,7 @@ Creatures that fly can make dive attacks. A dive attack works just like a charge
 
 **Swim:** A creature with a swim speed can move through water at the given speed without making Swim checks. It gains a +8 species bonus on any Swim check to perform some special action or avoid a hazard. The creature always can choose to take 10, even if distracted or endangered when swimming. Creatures can use the run action while swimming, provided they swim in a straight line.
 
-## Defense
+## 防御
 
 A creature’s Defense includes a parenthetical mention of the modifiers contributing to it. The creature’s “touch” Defense (discounting natural armor and other armor modifiers) and “flat-footed” Defense (discounting Dexterity bonus and class bonus, if any) are provided as well.
 

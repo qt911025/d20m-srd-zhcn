@@ -111,7 +111,7 @@ Table: Crew Improvement
 |Ace |3 years or more |12+|
 
 DAMAGE
-When a starship hits with a weapon, it deals damage according to the type of weapon (see Table: Starship Weapons). Damage is deducted from the target’s current hit points. If a starship’s hit points are reduced to 0 or fewer, the ship is in bad shape (see Hit Points, below).
+When a starship hits with a weapon, it deals damage according to the type of weapon (see Table: Starship Weapons). 目标的当前生命值将扣除此次造成的伤害值。If a starship’s hit points are reduced to 0 or fewer, the ship is in bad shape (see Hit Points, below).
 MULTIPLYING DAMAGE
 Sometimes a starship weapon multiplies damage by some factor, such as when it scores a critical hit. Just as in character combat, you can either roll the damage (with all modifiers) multiple times and total the results, or roll the damage once and multiply the result by the given multiplier.
 Bonus damage represented as extra dice, such as from the Engineer’s weapon upgrade class ability, is an exception. Do not multiply bonus damage dice when a starship scores a critical hit.

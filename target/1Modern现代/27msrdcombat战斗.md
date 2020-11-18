@@ -1,160 +1,160 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
 
-# COMBAT
+# 战斗
 
-Combat is played out in rounds, and in each round everybody acts in turn in a regular cycle. Com-bat usually runs in the following way.
+战斗是循环的，每个人都在一个正常轮组成的循环中轮流行动。战斗按照以下顺序进行：
 
-1. Each combatant starts the battle flat-footed. Once a combatant acts, he or she is no longer flat-footed.
-2. The GM determines which characters are aware of their opponents at the start of the battle. If some but not all of the combatants are aware of their opponents, a surprise round happens before regular rounds begin. The combatants who are aware of their opponents can act in the surprise round, so they roll for initiative. In initiative order (highest to lowest), combatants who started the battle aware of their opponents each take one move or attack action. Combatants who were unaware don’t get to act in the surprise round. If no one or everyone starts the battle aware, there is no surprise round.
-3. Combatants who have not yet rolled initiative do so. All combatants are now ready to begin their first regular round.
-4. Combatants act in initiative order.
-5. When everyone has had a turn, the combatant with the highest initiative acts again, and steps 4 and 5 repeat until combat ends.
+1. 每个作战者开始时都处于`措手不及`（flat-footed）状态。作战者行动以后，则不再处于措手不及状态。
+2. GM决定哪些作战者在作战开始时觉察到他们的敌人。如果只有一部分作战者觉察到敌人，那么在作战的`正常轮`（regular round）开始前有一个突袭轮（surprise round）。觉察到敌人的作战者可以在突袭轮中行动，因此他们要投一个先攻。按照先攻顺序（高骰点先），每个觉察到敌人的作战者可以在突袭轮中做一个`动作`（移动或攻击）。那些没觉察到敌人的作战者在突袭轮中不能做动作。如果在战斗开始时没有人觉察到对方，或者所有人都彼此发现，那么没有突袭轮。
+3. 还没有投过先攻的作战者投先攻。现在所有的作战者都将开始进行第一个正常轮。
+4. 作战者按先攻顺序行动。
+5. 当所有人都过了一轮后，先攻最高的作战者再次行动，并且重复步骤4和5直到作战结束。
 
-## Combat Statistics
+## 战斗数据
 
-This section summarizes the fundamental combat statistics.
+这一部分列举了战斗所需的基本数据。
 
-## Attack Roll
+## 攻击骰
 
-An attack roll represents a character’s attempts to strike an opponent on the character’s turn in a round. When a character makes an attack roll, he or she rolls 1d20 and adds his or her attack bonus. If the result equals or beats the target’s Defense, the character hits and deals damage. Many modifiers can affect the attack roll.
+攻击骰代表角色在自己的一个回合中试图攻击对手的行为。角色做一个攻击骰，即投1d20再加上角色的攻击加值。若结果大于等于对方的防御值，则角色命中并造成伤害。许多调整值也会作用于攻击骰。
 
-A natural 1 (the d20 comes up 1) on the attack roll is always a miss. A natural 20 (the d20 comes up 20) is always a hit. A natural 20 is also always a threat—a possible critical hit.
+投1（d20结果为1）在攻击骰中直接判定为失手。投20（d20结果为20）直接判定命中。投出20点`自然骰`一定会造成威胁——可以打出重击。
 
-If the character is not proficient in the weapon he or she is attacking with (the character doesn’t have the appropriate Weapon Proficiency feat), that character takes a –4 penalty on the attack roll.
+若角色不擅长其使用的武器（无相应的擅长专长），角色的攻击骰要受4点减值。
 
-## Attack Bonus
+## 攻击加值
 
-A character’s attack bonus with a melee weapon is:
+角色使用近战武器的攻击加值为：
 
-Base attack bonus + Strength modifier + size modifier
+基础攻击加值 + 力量调整值 + 体型调整值
 
-With a ranged weapon, a character’s attack bonus is:
+角色使用远程武器的攻击加值为：
 
-Base attack bonus + Dexterity modifier + range penalty + size modifier
+基础攻击加值 + 敏捷调整值 + 体型调整值
 
-### Strength Modifier
+### 力量调整值
 
-Strength helps a character swing a weapon harder and faster, so a character’s Strength modifier applies to melee attack rolls.
+力量让角色能更快更有力地挥舞武器，所以角色的力量调整值作用于近战攻击骰。
 
-### Size Modifier
+### 体型调整值
 
-Creature size categories are defined differently from the size categories for weapons and other objects. Since this size modifier applies to Defense against a melee weapon attack or a ranged weapon attack, two creatures of the same size strike each other normally, regardless of what size they actually are. Creature sizes are compatible with vehicle sizes.
+生物的体型与武器及其他物品的尺寸不是一个概念。因为体型调整值也用于对抗近战或远程的防御值计算，所以两个体型相同的生物互相攻击，体型调整值抵消，可不计。生物的体型可与载具的体型是一个概念，将参与对抗计算。
 
-**Table: Size Modifiers**
+**表：体型调整值**
 
-|Size (Example)|Size Modifier|
+|体型（范例）|体型调整值|
 |--------------|:-----------:|
-|Colossal (blue whale \[90 ft. long\])|–8|
-|Gargantuan (gray whale \[40 ft. long\])|–4|
-|Huge (elephant)|–2|
-|Large (lion)|–1|
-|Medium-size (human)|+0|
-|Small (German shepherd)|+1|
-|Tiny (housecat)|+2|
-|Diminutive (rat)|+4|
-|Fine (horsefly)|+8|
+|超巨型（蓝鲸 \[90 尺长\])|–8|
+|巨型 （灰鲸 \[40 尺长\])|–4|
+|超大型（大象）|–2|
+|大型（狮子）|–1|
+|普通（人类）|+0|
+|小型（德国牧羊犬）|+1|
+|超小型（大家鼠）|+2|
+|微型（大鼠）|+4|
+|超微型（马蝇）|+8|
 
-### Dexterity Modifier
+### 敏捷调整值
 
-Dexterity measures coordination and steadiness, so a character’s Dexterity modifier applies when the character attacks with a ranged weapon.
+敏捷是身体协调性与稳定性的综合指标，所以角色的敏捷调整值应用于远程攻击骰。
 
-### Range Penalty
+### 距离减值
 
-The range penalty for a ranged weapon depends on what weapon the character is using and how far away the target is. All ranged weapons and thrown weapons have a range increment (see Table: Ranged Weapons and Table: Melee Weapons). Any attack from a distance of less than one range increment is not penalized for range. 超过射程跨度时，每超过一倍射程跨度，攻击骰都要受到2点减值。A thrown weapon has a maximum range of five range increments. Ranged weapons that fire projectiles can shoot up to ten increments.
+远程武器攻击骰的距离减值取决于角色使用何种武器和目标有多远。所有远程武器与投掷武器都有`射程跨度`（见表：远程武器与表：近战武器）。距离低于一跨度的任何攻击都不会因射程受到惩罚。超过射程跨度时，每超过一倍射程跨度，攻击骰都要受到2点减值。投掷武器最大射程为射程跨度的5倍。射弹的远程武器的最大射程为射程跨度的10倍
 
-## Damage
+## 伤害
 
-When a character hits with a weapon, he or she deals damage according to the type of weapon. Effects that modify weapon damage also apply to unarmed strikes and the natural physical attack forms of creatures.
+角色以武器成功命中时，将按武器类型结算伤害。对武器伤害的数值修正的`效果`，同样应用于徒手击打和生物的天生武器攻击。
 
-Damage is deducted from the target’s current hit points.
+目标的当前生命值将扣除此次造成的伤害值。
 
-### Minimum Weapon Damage
+### 最低武器伤害
 
-If penalties to damage bring the damage result below 1, a hit still deals 1 point of damage.
+如果因为减值导致伤害值低于1，那么依然可以造成1点伤害。
 
-### Strength Bonus
+### 力量加值
 
-When a character hits with a melee weapon or thrown weapon, add his or her Strength modifier to the damage.
+当角色使用近战武器或投掷武器命中时，其力量调整值将应用在伤害上。
 
-Off-Hand Weapon: When a character deals damage with a weap-on in his or her off hand, add only half of the character’s Strength bonus.
+副手武器（Off-Hand Weapon）： 当用副手武器造成伤害时，只能加上一半的强壮加值。
 
-Wielding a Weapon Two-Handed: When a character deals damage with a weapon that he or she is wielding two-handed, add 1.5 times the character’s Strength bonus. However, the character doesn’t get this higher Strength bonus when using a light weapon two-handed; in such a case, only the character’s normal Strength bonus applies to the damage roll.
+双手持用武器：当双手持用武器造成伤害时，伤害值可以加上力量加值的1.5倍。但该规则不适用于双手使用轻武器；这种情形下，伤害骰只能应用一倍力量加值。
 
-## Multiplying Damage
+## 伤害倍增
 
-Sometimes damage is multiplied by some factor. Roll the damage (with all modifiers) multiple times and total the results.
+有时候由于种种原因，造成的伤害是倍增的。进行多次伤害掷骰（每次都应用全部调整值）并计算总和。
 
-Bonus damage represented as extra dice is an exception. Do not multiply bonus damage dice when a character scores a critical hit.
+以额外骰表示的额外伤害不可倍增。造成重击时，额外伤害在此次攻击中不参与倍增。
 
-## Critical Hits
+## 重击
 
-When a character makes an attack roll and gets a natural 20 (the d20 shows 20), the character hits regardless of the target’s Defense, and the character has scored a threat of a critical hit. To find out if it is actually a critical hit, the character immediately makes another attack roll with all the same modifiers as the attack roll that scored the threat. If the second roll also results in a hit against the target’s Defense, the attack is a critical hit. (The second roll just needs to hit to confirm a critical hit; the character doesn’t need to roll a second 20.) If the second roll is a miss, then the attack just deals the damage of a regular hit.
+当角色掷攻击骰时，自然骰结果为20点，角色将无视目标的防御值直接命中，并产生一个`重击威胁`。要判断该攻击是否真的是重击，角色需立即再以完全相同的调整值掷一次攻击骰。如果第二次攻击骰与目标的防御值对抗的结果为`命中`，则此次攻击为一次重击。（第二次掷骰是判定是否为重击的，角色不需要再掷出20）如果第二次掷骰结果为失手，则该攻击只是一次普通命中。
 
-A critical hit multiplies the character’s damage. Unless otherwise specified, the multiplier is x2. (It is possible for some weapons to have higher multipliers, doing more damage on a critical hit.) Some weapons have expanded threat ranges, making a critical hit more likely. However, even with these weapons, only a 20 is an automatic hit. The Critical column on Table: Ranged Weapons and Table: Melee Weapons indicates the threat range for each weapon on the tables.
+重击将使角色的伤害倍增。除非特别说明，倍增值为2。（有的武器可能有更高的倍增值，重击造成更多伤害。）有的武器有更宽的重击威胁区间，造成重击的可能性更高。但即使是这些武器，也只能在自然骰为20时为必然命中。`表：远程武器`和`表：近战武器`的`重击`一列给出了每种武器的重击威胁区间。
 
-Bonus damage represented as extra dice is not multiplied when a character scores a critical hit.
+造成重击时，以额外骰表示的额外伤害不可倍增。
 
-Objects (including vehicles) and some types of creatures are immune to critical hits.  A 20 is always a successful hit, but deals no extra damage against these targets.
+物品（包括载具）以及一些种类的生物免疫重击。投20仍为必然命中，但无法对这些目标施加倍增的伤害。
 
-## Defense
+## 防御
 
-A character’s Defense represents how hard it is for opponents to land a solid, damaging blow on the character. It’s the attack roll result that an opponent needs to achieve to hit the character. 一般一个没有武装的平民防御值为10。A character’s Defense is equal to:
+角色的防御值代表了对方对自己成功施加结实有力的一次打击的难度。对手必须掷出大于等于自身防御值的攻击骰才能造成命中。一般一个没有武装的平民防御值为10。角色的防御值等于：
 
 10 + 敏捷调整值 + 职业加值 + 装备加值 + 体型调整值
 
-### Dexterity Modifier
+### 敏捷调整值
 
-If a character’s Dexterity is high, he or she is particularly adept at dodging blows or gunfire. If a character’s Dexterity is low, he or she is particularly inept at it. Characters apply their Dexterity modifier to Defense.
+高敏捷意味着角色能熟练地闪避击打和火器射击。低敏捷则意味着角色在这方面十分笨拙。角色的敏捷调整值将应用于防御值。
 
-Sometimes a character can’t use his or her Dexterity bonus. If a character can’t react to a blow, that character can’t use his or her Dexterity bonus to Defense.
+有时角色无法使用敏捷加值。若角色无法对攻击做出反应则无法在防御中算上敏捷加值。
 
-### Class Bonus
+### 职业加值
 
-A character’s class and level grant the character an innate bonus to Defense. This bonus applies in all situations, even when the character is flat-footed or when the character would lose his or her Dexterity bonus for some other reason.
+角色的职业和等级给角色提供了一个固有的防御加值。这些加值在所有情况下都生效，甚至在角色措手不及或是由于其他原因失去敏捷加值的情况下。
 
-### Equipment Bonus
+### 装备加值
 
-If a character wears armor, it provides a bonus to his or her Defense. 这一加值代表护甲为角色抵挡击打的能力。
+角色穿着护甲也能提供防御加值。这一加值代表护甲为角色抵挡击打的能力。
 
 护甲为穿戴的角色提供了一个最小装备加值，而擅长或精通特定类型护甲的角色可以获得更高的防御加值。
 
-Sometimes a character can’t use his or her equipment bonus to Defense. If an attack will damage the character just by touching him or her, that character can’t add his or her equipment bonus (see Touch Attacks, below).
+有时角色无法将装备加值应用于防御。如果一次攻击仅通过接触攻击对角色造成伤害，角色不能算上装备加值（见下文`接触攻击`）。
 
-### Size Modifier
+### 体型调整值
 
-目标的个头越大，在战斗中越容易被击中。越小则越难被击中。Since this same modifier applies to attack rolls a creature doesn’t have a hard time attacking another creature of the same size. Size modifiers are shown on Table: Size Modifiers.
+目标的个头越大，在战斗中越容易被击中。越小则越难被击中。因为该调整值也应用于攻击骰，相同体型的生物之间的攻击不会受此影响。体型调整值将在`表：体型调整值`中列出。
 
-### Other Modifiers
+### 其他调整值
 
-Other factors can add to a character’s Defense.
+其他要素也可影响角色的防御值。
 
-Feats: Some feats give a bonus to a character’s Defense.
+专长：有的专长为角色的防御提供加值。
 
 天生护甲：有的生物具有天生护甲，通常为鳞片、毛皮或厚肉。
 
-闪避加值：主动闪避攻击同样会为防御提供加值。这类加值被称为闪避加值。Any situation that denies a character his or her Dexterity bonus also denies his or her dodge bonuses. 同大多数加值不同，闪避加值可以相互叠加。
+闪避加值：主动闪避攻击同样会为防御提供加值。这类加值被称为闪避加值。任何敏捷调整值无效的情况，闪避加值同样无效。同大多数加值不同，闪避加值可以相互叠加。
 
 魔法效果：有的冒险可能会加入魔法内容。部分魔法效果能够为护甲提供加成，或是提供偏斜加值以使对方的攻击失效。
 
-### Touch Attacks
+### 接触攻击
 
-有的攻击无视护甲。这种情况下，攻击方需要进行接触攻击投掷（远程接触攻击或近战接触攻击）。The attacker makes his or her attack roll as normal, but a character’s Defense does not include any equipment bonus or armor bonus. 其他调整值，如职业加值、敏捷调整值和体型调整值照常计算。
+有的攻击无视护甲。这种情况下，攻击方需要掷一个接触攻击骰（远程接触攻击或近战接触攻击）。攻击方攻击骰照常计算，但防御方的护甲或装备加值不算在内。其他调整值，如职业加值、敏捷调整值和体型调整值照常计算。
 
 ## 生命值
 
-A character’s hit points tell how much punishment he or she can take before dropping. Hit points are based on the character’s class and level, and the character’s Constitution modifier applies.
+角色的生命值表示角色在倒下前还能承受多少伤害。生命值由角色的职业和等级决定，角色的体质调整值共同作用。
 
-When a character’s hit point total drops to 0, he or she is disabled. When it drops to –1, he or she is dying. When it drops to –10, the character is dead.
+角色的生命值降到0，角色瘫痪。降到-1，角色濒死。降到-10，角色死亡。
 
-## Speed
+## 速度
 
-A character’s speed tells how far he or she can move in a move action. Humans normally move 30 feet, but some creatures move faster or slower.  Wearing armor can slow a character down.
+角色的速度表示角色能在一个移动动作中移动多远。人类一般能移动30尺，而一些生物移动得更快或更慢。穿着护甲会减慢角色的移动速度。
 
-A character normally moves as a move action, leaving an attack action to attack. The character can, however, use his or her attack action as a second move action. This could let the character move again, for a total movement of up to double his or her normal speed. Another option is to run all out (a full-round action). This lets the character move up to four times his or her normal speed, but a character can only run all out in a straight line, and doing so affects the character’s Defense (see Run).
+角色通常以一个移动动作移动，剩下一个攻击动作。但角色可以把攻击动作当作第二个移动动作使用。这能让角色再次移动，最多可以移动正常速度的两倍距离。此外还可以`全力奔跑`（一个整轮动作）。这可以让角色以四倍的速度移动，但角色一次只能在一条直线上奔跑，而且这么做会影响角色的防御（见`奔跑`）。
 
-## Saving Throws
+## 豁免
 
-Generally, when a character is subject to an unusual or magical attack, he or she gets a saving throw to avoid or reduce the effect. A saving throw is a 1d20 roll plus a bonus based on the character’s class and level (the character’s base save bonus) and an ability modifier.
+通常，当角色受到特殊攻击或魔法攻击时，需要掷一个豁免骰以避免或者减少这种攻击的效果。豁免骰是1d20加上基于角色职业与等级的加值（角色的基础豁免加值）再加上属性调整值。
 
 投1（d20结果为1）在豁免骰中直接判定失败。投20（d20结果为20）直接判定成功。
 
@@ -164,17 +164,17 @@ Generally, when a character is subject to an unusual or magical attack, he or sh
 
 豁免的DC由攻击本身决定。
 
-### Saving Throw Types
+### 豁免骰类型
 
 三种豁免骰类型为：
 
-Fortitude: These saves measure a character’s ability to stand up to massive physical punishment or attacks against his or her vitality and health such as poison and paralysis. Apply a character’s Constitution modifier to his or her Fortitude saving throws.
+强韧豁免： 这一豁免代表角色在重大攻击下屹立不倒的能力和在受到类似毒素和麻痹攻击时保持活力的能力。计算强韧豁免骰需要加上角色的体质调整值。
 
-Reflex: These saves test a character’s ability to dodge massive attacks such as explosions or car wrecks. (Often, when damage is inevitable, a character gets to make a Reflex save to take only half damage.) Apply the character’s Dexterity modifier to his or her Reflex saving throws.
+反射豁免： 这一豁免代表角色闪避重大攻击——如爆炸或车祸——的能力。（当伤害不可避免时，角色可以通过成功的反射豁免只承受一半伤害。）计算反射豁免骰需要加上角色的敏捷调整值。
 
-Will: These saves reflect a character’s resistance to mental influence and domination as well as to many magical effects. 计算意志豁免骰需要加上角色的感知调整值。
+意志豁免： 这一豁免反映了角色对精神上的影响和控制和许多魔法效果的抵抗能力。计算意志豁免骰需要加上角色的感知调整值。
 
-## Initiative
+## 先攻
 
 Every round, each combatant gets to do something. The combatants’ initiative checks, from highest to lowest, determine the order in which they act, from first to last.
 
@@ -194,7 +194,7 @@ When a combat starts, if a character was not aware of his or her enemies and the
 
 ### The Surprise Round
 
-If some but not all of the combatants are aware of their opponents, a surprise round happens before regular rounds begin. The combatants who are aware of the opponents can act in the surprise round, so they roll for initiative. In initiative order (highest to lowest), combatants who started the battle aware of their opponents each take an attack action or move action during the surprise round (see Action Types, below). If no one or everyone is surprised, a surprise round does not occur.
+如果只有一部分作战者觉察到敌人，那么在作战的`正常轮`（regular round）开始前有一个突袭轮（surprise round）。The combatants who are aware of the opponents can act in the surprise round, so they roll for initiative. In initiative order (highest to lowest), combatants who started the battle aware of their opponents each take an attack action or move action during the surprise round (see Action Types, below). If no one or everyone is surprised, a surprise round does not occur.
 
 ### Unaware Combatants
 

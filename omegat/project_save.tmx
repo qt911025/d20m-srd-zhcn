@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -66,6 +66,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190527T131915Z" creationid="quentine" creationdate="20190527T131915Z">
         <seg># 战役高级职业</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg># COMBAT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201111T100945Z" creationid="quentine" creationdate="20201111T100945Z">
+        <seg># 战斗</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,6 +382,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Attack Bonus</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T013937Z" creationid="quentine" creationdate="20201114T013937Z">
+        <seg>## 攻击加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Attack Roll</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T011809Z" creationid="quentine" creationdate="20201114T011809Z">
+        <seg>## 攻击骰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## BATTLE MIND</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190620T141806Z" creationid="quentine" creationdate="20190620T141806Z">
@@ -574,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Combat Statistics</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T011124Z" creationid="quentine" creationdate="20201114T011124Z">
+        <seg>## 战斗数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Computer Use (Int)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T131233Z" creationid="quentine" creationdate="20190916T131233Z">
@@ -646,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Critical Hits</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T112340Z" creationid="quentine" creationdate="20201118T112340Z">
+        <seg>## 重击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## DAREDEVIL</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190421T094334Z" creationid="quentine" creationdate="20190421T094334Z">
@@ -658,6 +698,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181024T041216Z" creationid="QuenTine" creationdate="20181024T041216Z">
         <seg>## 骰子记法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Damage</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T105116Z" creationid="quentine" creationdate="20201118T105116Z">
+        <seg>## 伤害</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +746,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190923T130411Z" creationid="quentine" creationdate="20190923T130401Z">
         <seg>## 文件解读（智） 需受训</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Defense</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T114934Z" creationid="quentine" creationdate="20201118T114934Z">
+        <seg>## 防御</seg>
       </tuv>
     </tu>
     <tu>
@@ -1094,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Initiative</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T123023Z" creationid="quentine" creationdate="20201118T123023Z">
+        <seg>## 先攻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Injury and Death</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T140818Z" creationid="quentine" creationdate="20190114T140818Z">
@@ -1266,6 +1330,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T081505Z" creationid="quentine" creationdate="20190216T081505Z">
         <seg>## 跨职角色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Multiplying Damage</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T113506Z" creationid="quentine" creationdate="20201118T110557Z">
+        <seg>## 伤害倍增</seg>
       </tuv>
     </tu>
     <tu>
@@ -1550,6 +1622,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Saving Throws</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T122529Z" creationid="quentine" creationdate="20201118T122529Z">
+        <seg>## 豁免</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Search (Int)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T125349Z" creationid="quentine" creationdate="20191027T125349Z">
@@ -1658,6 +1738,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T134048Z" creationid="quentine" creationdate="20191027T134048Z">
         <seg>## 口头语言（无）需受训</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Speed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121359Z" creationid="quentine" creationdate="20201118T121359Z">
+        <seg>## 速度</seg>
       </tuv>
     </tu>
     <tu>
@@ -2486,6 +2574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Class Bonus</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T120004Z" creationid="quentine" creationdate="20201118T115616Z">
+        <seg>### 职业加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Class Features</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T120123Z" creationid="quentine" creationdate="20190116T120123Z">
@@ -2750,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Dexterity Modifier</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T021927Z" creationid="quentine" creationdate="20201114T021927Z">
+        <seg>### 敏捷调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Die rolls are expressed in the format:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181024T041618Z" creationid="QuenTine" creationdate="20181024T041618Z">
@@ -2890,6 +2994,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T125056Z" creationid="quentine" creationdate="20200117T125056Z">
         <seg>### 娱乐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Equipment Bonus</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T115937Z" creationid="quentine" creationdate="20201118T115937Z">
+        <seg>### 装备加值</seg>
       </tuv>
     </tu>
     <tu>
@@ -3574,6 +3686,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Minimum Weapon Damage</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T105617Z" creationid="quentine" creationdate="20201118T105617Z">
+        <seg>### 最低武器伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Mobility</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190803T134355Z" creationid="quentine" creationdate="20190803T134355Z">
@@ -3642,6 +3762,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T150821Z" creationid="quentine" creationdate="20190114T150821Z">
         <seg>### 非致命伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Other Modifiers</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T120638Z" creationid="quentine" creationdate="20201118T120638Z">
+        <seg>### 其他调整值</seg>
       </tuv>
     </tu>
     <tu>
@@ -3808,6 +3936,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Range Penalty</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T022145Z" creationid="quentine" creationdate="20201114T022145Z">
+        <seg>### 距离减值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Ranged Weapons</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T114214Z" creationid="quentine" creationdate="20200410T114214Z">
@@ -3872,6 +4008,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Saving Throw Types</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T122838Z" creationid="quentine" creationdate="20201118T122838Z">
+        <seg>### 豁免骰类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Saving Throws</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T083924Z" creationid="quentine" creationdate="20190216T083924Z">
@@ -3924,6 +4068,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144519Z" creationid="quentine" creationdate="20190803T143101Z">
         <seg>### 擅长简单武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Size Modifier</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T014316Z" creationid="quentine" creationdate="20201114T014316Z">
+        <seg>### 体型调整值</seg>
       </tuv>
     </tu>
     <tu>
@@ -4044,6 +4196,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T123916Z" creationid="quentine" creationdate="20190804T123916Z">
         <seg>### 街头战斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Strength Bonus</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T105702Z" creationid="quentine" creationdate="20201118T105702Z">
+        <seg>### 力量加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Strength Modifier</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T014156Z" creationid="quentine" creationdate="20201114T014156Z">
+        <seg>### 力量调整值</seg>
       </tuv>
     </tu>
     <tu>
@@ -4228,6 +4396,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191115T125445Z" creationid="quentine" creationdate="20191115T125445Z">
         <seg>### 工具腰带</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Touch Attacks</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T120759Z" creationid="quentine" creationdate="20201118T120759Z">
+        <seg>### 接触攻击</seg>
       </tuv>
     </tu>
     <tu>
@@ -6658,6 +6834,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(It is possible for some weapons to have higher multipliers, doing more damage on a critical hit.) Some weapons have expanded threat ranges, making a critical hit more likely.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T113832Z" creationid="quentine" creationdate="20201118T113832Z">
+        <seg>（有的武器可能有更高的倍增值，重击造成更多伤害。）有的武器有更宽的重击威胁区间，造成重击的可能性更高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Moving twice the character’s speed in a round requires two checks, one for each move action.)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190807T123218Z" creationid="quentine" creationdate="20190807T123218Z">
@@ -6674,6 +6858,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
         <seg>（同种类的一般生物的智力不如魔宠。）
 &gt;
 &gt;**警觉（Ex）：**魔宠在场时，主人的感觉更敏锐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Often, when damage is inevitable, a character gets to make a Reflex save to take only half damage.) Apply the character’s Dexterity modifier to his or her Reflex saving throws.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T122959Z" creationid="quentine" creationdate="20201118T122959Z">
+        <seg>（当伤害不可避免时，角色可以通过成功的反射豁免只承受一半伤害。）计算反射豁免骰需要加上角色的敏捷调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6834,6 +7026,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T125745Z" creationid="quentine" creationdate="20190216T084716Z">
         <seg>（职业技能级数上限=3+角色等级）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(The second roll just needs to hit to confirm a critical hit; the character doesn’t need to roll a second 20.) If the second roll is a miss, then the attack just deals the damage of a regular hit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T113405Z" creationid="quentine" creationdate="20201118T113405Z">
+        <seg>（第二次掷骰是判定是否为重击的，角色不需要再掷出20）如果第二次掷骰结果为失手，则该攻击只是一次普通命中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11333,8 +11533,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>**Size:** Size categories for weapons and other objects are defined differently from the size categories for creatures.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200702T134811Z" creationid="quentine" creationdate="20200410T133230Z">
-        <seg>**尺寸：** 武器及其他物品的尺寸所涵盖的范围与生物的体型所涵盖的范围不同。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T020145Z" creationid="quentine" creationdate="20200410T133230Z">
+        <seg>**尺寸：** 武器及其他物品的尺寸与生物的体型不是一个概念。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11349,8 +11549,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>**Size:** Vehicle size categories are defined differently from the size categories for weapons and other objects.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200702T135200Z" creationid="quentine" creationdate="20200701T114943Z">
-        <seg>**尺寸：** 载具的尺寸所涵盖的范围与武器及其他物品的尺寸涵盖的范围不同。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T015909Z" creationid="quentine" creationdate="20200701T114943Z">
+        <seg>**体型：** 载具的体型与武器及其他物品的尺寸不是一个概念。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12387,6 +12587,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Table: Size Modifiers**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T020247Z" creationid="quentine" creationdate="20201114T020247Z">
+        <seg>**表：体型调整值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Table: Skill Points per Level**</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T134146Z" creationid="quentine" creationdate="20190805T134146Z">
@@ -13387,6 +13595,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201111T102257Z" creationid="quentine" creationdate="20201111T102257Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>10 + Dexterity modifier + class bonus + equipment bonus + size modifier</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T114245Z" creationid="quentine" creationdate="20190114T114245Z">
@@ -13459,10 +13675,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201111T102503Z" creationid="quentine" creationdate="20201111T102503Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2\.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181022T110741Z" creationid="QuenTine" creationdate="20181022T110741Z">
         <seg>2、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T011002Z" creationid="quentine" creationdate="20201114T011002Z">
+        <seg>3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13483,10 +13715,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T011006Z" creationid="quentine" creationdate="20201114T011006Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>4\.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181022T111921Z" creationid="QuenTine" creationdate="20181022T111921Z">
         <seg>4、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T011009Z" creationid="quentine" creationdate="20201114T011009Z">
+        <seg>5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13853,6 +14101,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T123429Z" creationid="quentine" creationdate="20190703T123429Z">
         <seg>1级路人的挑战等级是1/2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A 20 is always a successful hit, but deals no extra damage against these targets.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T114928Z" creationid="quentine" creationdate="20201118T114928Z">
+        <seg>投20仍为必然命中，但无法对这些目标施加倍增的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15209,6 +15465,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character normally moves as a move action, leaving an attack action to attack.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121626Z" creationid="quentine" creationdate="20201118T121626Z">
+        <seg>角色通常以一个移动动作移动，剩下一个攻击动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character not properly equipped to counteract the heat or cold must attempt a Fortitude saving throw each hour (DC 15, +1 for each previous check).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T131804Z" creationid="quentine" creationdate="20190115T131804Z">
@@ -15753,6 +16017,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character’s Defense is equal to:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T115407Z" creationid="quentine" creationdate="20201118T115407Z">
+        <seg>角色的防御值等于：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character’s Defense represents how hard it is for opponents to land a solid, damaging blow on the character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T115306Z" creationid="quentine" creationdate="20201118T115153Z">
+        <seg>角色的防御值代表了对方对自己成功施加结实有力的一次打击的难度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character’s Intelligence modifier is applied to determine the total skill points gained each level (but always at least 1 point per level, even for a character with an Intelligence penalty).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T115101Z" creationid="quentine" creationdate="20190116T115101Z">
@@ -15841,6 +16121,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character’s attack bonus with a melee weapon is:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T014008Z" creationid="quentine" creationdate="20201114T014008Z">
+        <seg>角色使用近战武器的攻击加值为：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character’s carrying capacity depends directly on the character’s Strength score, as shown on Table: Carrying Capacity.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T130027Z" creationid="quentine" creationdate="20191105T130027Z">
@@ -15853,6 +16141,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T115706Z" creationid="quentine" creationdate="20190114T115706Z">
         <seg>角色的职业和等级提供了一个固有的防御加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character’s class and level grant the character an innate bonus to Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T115721Z" creationid="quentine" creationdate="20201118T115721Z">
+        <seg>角色的职业和等级给角色提供了一个固有的防御加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character’s hit points tell how much punishment he or she can take before dropping.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121001Z" creationid="quentine" creationdate="20201118T121001Z">
+        <seg>角色的生命值表示角色在倒下前还能承受多少伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15877,6 +16181,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T130544Z" creationid="quentine" creationdate="20190114T130405Z">
         <seg>角色的豁免骰加值为：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character’s speed tells how far he or she can move in a move action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121428Z" creationid="quentine" creationdate="20201118T121428Z">
+        <seg>角色的速度表示角色能在一个移动动作中移动多远。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16045,6 +16357,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T144710Z" creationid="quentine" creationdate="20191031T144644Z">
         <seg>有灵敏嗅觉的生物可以追踪气味，这需要一个感知检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A critical hit multiplies the character’s damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T113549Z" creationid="quentine" creationdate="20201118T113549Z">
+        <seg>重击将使角色的伤害倍增。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16689,10 +17009,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A natural 1 (the d20 comes up 1) on the attack roll is always a miss.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T013058Z" creationid="quentine" creationdate="20201114T013058Z">
+        <seg>投1（d20结果为1）在攻击骰中直接判定为失手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A natural 20 (the d20 comes up 20) is always a hit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T013222Z" creationid="quentine" creationdate="20201114T013222Z">
+        <seg>投20（d20结果为20）直接判定命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A natural 20 (the d20 comes up 20) is always a success.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T130347Z" creationid="quentine" creationdate="20190114T130339Z">
         <seg>投20（d20结果为20）直接判定成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A natural 20 is also always a threat—a possible critical hit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T013503Z" creationid="quentine" creationdate="20201114T013503Z">
+        <seg>投出20点`自然骰`一定会造成威胁——可以打出重击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16917,6 +17261,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200115T090004Z" creationid="quentine" creationdate="20200115T090004Z">
         <seg>一卷胶带能提供70尺长、两寸宽的胶带。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A saving throw is a 1d20 roll plus a bonus based on the character’s class and level (the character’s base save bonus) and an ability modifier.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T122819Z" creationid="quentine" creationdate="20201118T122819Z">
+        <seg>豁免骰是1d20加上基于角色职业与等级的加值（角色的基础豁免加值）再加上属性调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17391,6 +17743,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T083822Z" creationid="quentine" creationdate="20200117T083822Z">
         <seg>帐篷可以让角色在极端天气中保持温暖干燥，为对抗寒冷天气效果所做的强韧豁免提供2点装备加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A thrown weapon has a maximum range of five range increments.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T105016Z" creationid="quentine" creationdate="20201118T105016Z">
+        <seg>投掷武器最大射程为射程跨度的5倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18011,6 +18371,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All combatants are now ready to begin their first regular round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T010911Z" creationid="quentine" creationdate="20201114T010911Z">
+        <seg>现在所有的作战者都将开始进行第一个正常轮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All computers come with dial-up modems, which allow connection to the Internet but without the speed of broadband or the flexibility of cellular.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T121911Z" creationid="quentine" creationdate="20191202T121708Z">
@@ -18191,6 +18559,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T143104Z" creationid="quentine" creationdate="20190806T143104Z">
         <seg>所有减值完全叠加，不管学名是什么。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All ranged weapons and thrown weapons have a range increment (see Table: Ranged Weapons and Table: Melee Weapons).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T022354Z" creationid="quentine" creationdate="20201114T022354Z">
+        <seg>所有远程武器与投掷武器都有`射程跨度`（见表：远程武器与表：近战武器）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18691,6 +19067,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An attack roll represents a character’s attempts to strike an opponent on the character’s turn in a round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T012231Z" creationid="quentine" creationdate="20201114T012047Z">
+        <seg>攻击骰代表角色在自己的一个回合中试图攻击对手的行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An attacker can attempt a coup de grace against a helpless character.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T123656Z" creationid="quentine" creationdate="20190115T123656Z">
@@ -19011,6 +19395,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Another option is to run all out (a full-round action).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T122330Z" creationid="quentine" creationdate="20201118T122330Z">
+        <seg>此外还可以`全力奔跑`（一个整轮动作）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Antiques, modern art, photography, and performance art forms such as music and dance, among others.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191022T134925Z" creationid="quentine" creationdate="20191022T134925Z">
@@ -19022,6 +19414,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
         <seg>Any attack at less than the given range increment is not penalized for range.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200513T150045Z" creationid="quentine" creationdate="20200513T150045Z">
+        <seg>距离低于一跨度的任何攻击都不会因射程受到惩罚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Any attack from a distance of less than one range increment is not penalized for range.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T022456Z" creationid="quentine" creationdate="20201114T022456Z">
         <seg>距离低于一跨度的任何攻击都不会因射程受到惩罚。</seg>
       </tuv>
     </tu>
@@ -19195,6 +19595,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Any situation that denies a character his or her Dexterity bonus also denies his or her dodge bonuses.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T120747Z" creationid="quentine" creationdate="20201118T120747Z">
+        <seg>任何敏捷调整值无效的情况，闪避加值同样无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Any situation that denies the character his or her Dexterity bonus also denies the character dodge bonuses.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T124319Z" creationid="quentine" creationdate="20190114T124309Z">
@@ -19287,6 +19695,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T140352Z" creationid="QuenTine" creationdate="20181103T140352Z">
         <seg>任何不具备感知的存在都不具备魅力属性，反之亦然。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply a character’s Constitution modifier to his or her Fortitude saving throws.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T122922Z" creationid="quentine" creationdate="20201118T122922Z">
+        <seg>计算强韧豁免骰需要加上角色的体质调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20915,6 +21331,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Base attack bonus + Dexterity modifier + range penalty + size modifier</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T014144Z" creationid="quentine" creationdate="20201114T014144Z">
+        <seg>基础攻击加值 + 敏捷调整值 + 体型调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Base attack bonus + Strength modifier + size modifier</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T014101Z" creationid="quentine" creationdate="20201114T014101Z">
+        <seg>基础攻击加值 + 力量调整值 + 体型调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Base save bonus + ability modifier</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T130443Z" creationid="quentine" creationdate="20190114T130424Z">
@@ -21151,6 +21583,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190808T133613Z" creationid="quentine" creationdate="20190808T133310Z">
         <seg>肢体语言和神态并不是交流的重心，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bonus damage represented as extra dice is an exception.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T112103Z" creationid="quentine" creationdate="20201118T111504Z">
+        <seg>以额外骰表示的额外伤害不可倍增。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bonus damage represented as extra dice is not multiplied when a character scores a critical hit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T114736Z" creationid="quentine" creationdate="20201118T114736Z">
+        <seg>造成重击时，以额外骰表示的额外伤害不可倍增。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21415,6 +21863,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Characters apply their Dexterity modifier to Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T115535Z" creationid="quentine" creationdate="20201118T115535Z">
+        <seg>角色的敏捷调整值将应用于防御值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Characters bound with duct tape must make a Strength or Escape Artist check (DC 20) to free themselves.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200115T085905Z" creationid="quentine" creationdate="20200115T085905Z">
@@ -21659,6 +22115,46 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191021T133536Z" creationid="quentine" creationdate="20191021T133536Z">
         <seg>收集证据需要取证工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Com-bat usually runs in the following way.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201111T102124Z" creationid="quentine" creationdate="20201111T102124Z">
+        <seg>战斗按照以下顺序进行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combat is played out in rounds, and in each round everybody acts in turn in a regular cycle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201111T102059Z" creationid="quentine" creationdate="20201111T102059Z">
+        <seg>战斗是循环的，每个人都在一个正常轮组成的循环中轮流行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combatants act in initiative order.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T010944Z" creationid="quentine" creationdate="20201114T010944Z">
+        <seg>作战者按先攻顺序行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combatants who have not yet rolled initiative do so.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T010822Z" creationid="quentine" creationdate="20201114T010822Z">
+        <seg>还没有投过先攻的作战者投先攻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combatants who were unaware don’t get to act in the surprise round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T010701Z" creationid="quentine" creationdate="20201114T010701Z">
+        <seg>那些没觉察到敌人的作战者在突袭轮中不能做动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21967,6 +22463,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creature size categories are defined differently from the size categories for weapons and other objects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T015326Z" creationid="quentine" creationdate="20201114T014435Z">
+        <seg>生物的体型与武器及其他物品的尺寸不是一个概念。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creature sizes are compatible with vehicle sizes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T015518Z" creationid="quentine" creationdate="20201114T015041Z">
+        <seg>生物的体型可与载具的体型是一个概念，将参与对抗计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creatures immune to critical hits are also immune to the effects of massive damage.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T144403Z" creationid="quentine" creationdate="20190114T144403Z">
@@ -22051,6 +22563,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T133115Z" creationid="quentine" creationdate="20190115T133115Z">
         <seg>饥饿与口渴造成的伤害无法恢复，直到主角获得水或食物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Damage is deducted from the target’s current hit points.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T105557Z" creationid="quentine" creationdate="20201118T105557Z">
+        <seg>目标的当前生命值将扣除此次造成的伤害值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22332,6 +22852,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dexterity measures coordination and steadiness, so a character’s Dexterity modifier applies when the character attacks with a ranged weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T022104Z" creationid="quentine" creationdate="20201114T022104Z">
+        <seg>敏捷是身体协调性与稳定性的综合指标，所以角色的敏捷调整值应用于远程攻击骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Digital audio recorders don’t have extremely sensitive microphones; they only pick up sounds within 10 feet.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T121211Z" creationid="quentine" creationdate="20191202T121211Z">
@@ -22424,6 +22952,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T140540Z" creationid="quentine" creationdate="20191022T133036Z">
         <seg>不要擅自编造新的类别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do not multiply bonus damage dice when a character scores a critical hit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T112321Z" creationid="quentine" creationdate="20201118T111637Z">
+        <seg>造成重击时，额外伤害在此次攻击中不参与倍增。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22624,6 +23160,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200507T134601Z" creationid="quentine" creationdate="20200507T134601Z">
         <seg>每多一根炸药增加1d6点伤害（最多增加10d6）爆炸半径增加5尺（最多20尺）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each combatant starts the battle flat-footed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201111T102407Z" creationid="quentine" creationdate="20201111T102407Z">
+        <seg>每个作战者开始时都处于`措手不及`（flat-footed）状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22848,6 +23392,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T043615Z" creationid="quentine" creationdate="20191027T043615Z">
         <seg>每个载具的描述包括了机动性调整值，应用在对此载具的驾机检定上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Effects that modify weapon damage also apply to unarmed strikes and the natural physical attack forms of creatures.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T105446Z" creationid="quentine" creationdate="20201118T105446Z">
+        <seg>对武器伤害的数值修正的`效果`，同样应用于徒手击打和生物的天生武器攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23364,6 +23916,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Feats: Some feats give a bonus to a character’s Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T120719Z" creationid="quentine" creationdate="20201118T120719Z">
+        <seg>专长：有的专长为角色的防御提供加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Film Developing: In most areas, drugstores and photo shops provide 1-hour service; in others, it takes 24 hours.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T114649Z" creationid="quentine" creationdate="20191202T114510Z">
@@ -23788,6 +24348,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fortitude: These saves measure a character’s ability to stand up to massive physical punishment or attacks against his or her vitality and health such as poison and paralysis.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T122905Z" creationid="quentine" creationdate="20201118T122905Z">
+        <seg>强韧豁免： 这一豁免代表角色在重大攻击下屹立不倒的能力和在受到类似毒素和麻痹攻击时保持活力的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From that point on, the Mage can prepare these spells without referring to a spellbook.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190624T142444Z" creationid="quentine" creationdate="20190624T142444Z">
@@ -23940,10 +24508,18 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Generally, when a character is subject to an unusual or magical attack, he or she gets a saving throw to avoid or reduce the effect.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T122702Z" creationid="quentine" creationdate="20201118T122702Z">
+        <seg>通常，当角色受到特殊攻击或魔法攻击时，需要掷一个豁免骰以避免或者减少这种攻击的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Generally, when a hero is subject to an unusual or magical attack, he or she gets a saving throw to avoid or reduce the effect.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190114T130033Z" creationid="quentine" creationdate="20190114T130033Z">
-        <seg>通常，当英雄遭遇特殊攻击或魔法攻击时，则需要掷一个豁免骰以避免或者减少这种攻击的效果。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T122605Z" creationid="quentine" creationdate="20190114T130033Z">
+        <seg>通常，当英雄遭遇特殊攻击或魔法攻击时，需要掷一个豁免骰以避免或者减少这种攻击的效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24244,6 +24820,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hit points are based on the character’s class and level, and the character’s Constitution modifier applies.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121159Z" creationid="quentine" creationdate="20201118T121159Z">
+        <seg>生命值由角色的职业和等级决定，角色的体质调整值共同作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hit points mean two things in the game world: the ability to take physical punishment and keep going, and the ability to turn a serious blow into a less serious one.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T141606Z" creationid="quentine" creationdate="20190114T141548Z">
@@ -24364,6 +24948,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, even with these weapons, only a 20 is an automatic hit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T114155Z" creationid="quentine" creationdate="20201118T114033Z">
+        <seg>但即使是这些武器，也只能在自然骰为20时为必然命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, few of them have the maximum number of action points for their level (because they will have spent some of them).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T124255Z" creationid="quentine" creationdate="20190703T124203Z">
@@ -24416,6 +25008,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191113T142341Z" creationid="quentine" creationdate="20191113T142116Z">
         <seg>但这种庞大的套装会给所有敏捷检定、基于敏捷的技能检定（除了躲藏）、以及近战攻击骰带来4点减值。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, the character doesn’t get this higher Strength bonus when using a light weapon two-handed; in such a case, only the character’s normal Strength bonus applies to the damage roll.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T110531Z" creationid="quentine" creationdate="20201118T110531Z">
+        <seg>但该规则不适用于双手使用轻武器；这种情形下，伤害骰只能应用一倍力量加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24476,6 +25076,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Humans normally move 30 feet, but some creatures move faster or slower.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121513Z" creationid="quentine" creationdate="20201118T121513Z">
+        <seg>人类一般能移动30尺，而一些生物移动得更快或更慢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181022T113004Z" creationid="QuenTine" creationdate="20181022T113004Z">
@@ -24504,6 +25112,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190924T135515Z" creationid="quentine" creationdate="20190924T135515Z">
         <seg>如果不需要贿赂，英雄可以附加贿赂来为交涉技能检定提供加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a character can’t react to a blow, that character can’t use his or her Dexterity bonus to Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T115610Z" creationid="quentine" creationdate="20201118T115610Z">
+        <seg>若角色无法对攻击做出反应则无法在防御中算上敏捷加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24540,10 +25156,34 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a character wears armor, it provides a bonus to his or her Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T120031Z" creationid="quentine" creationdate="20201118T120031Z">
+        <seg>角色穿着护甲也能提供防御加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If a character's Constitution changes enough to alter his or her Constitution modifier, his or her hit points also increase or decrease accordingly at the same time.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T134406Z" creationid="QuenTine" creationdate="20181103T134406Z">
         <seg>角色的生命值受到体质调整值的影响，若体质属性值变化足够引起体质调整值的变化，则该角色生命值亦将随即发生变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a character’s Dexterity is high, he or she is particularly adept at dodging blows or gunfire.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T115447Z" creationid="quentine" creationdate="20201118T115447Z">
+        <seg>高敏捷意味着角色能熟练地闪避击打和火器射击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a character’s Dexterity is low, he or she is particularly inept at it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T115453Z" creationid="quentine" creationdate="20201118T115453Z">
+        <seg>低敏捷则意味着角色在这方面十分笨拙。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24628,10 +25268,18 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If an attack will damage the character just by touching him or her, that character can’t add his or her equipment bonus (see Touch Attacks, below).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T120249Z" creationid="quentine" creationdate="20201118T120249Z">
+        <seg>如果一次攻击仅通过接触攻击对角色造成伤害，角色不能算上装备加值（见下文`接触攻击`）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If an attack will damage the character just by touching him or her, the character can’t add an equipment bonus (see Touch Attacks).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190114T123613Z" creationid="quentine" creationdate="20190114T123613Z">
-        <seg>如果一次攻击仅通过接触攻击对角色造成伤害，角色不能算上装备加值。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T120308Z" creationid="quentine" creationdate="20190114T123613Z">
+        <seg>如果一次攻击仅通过接触攻击对角色造成伤害，角色不能算上装备加值（见`接触攻击`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24812,6 +25460,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If no one or everyone starts the battle aware, there is no surprise round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T010732Z" creationid="quentine" creationdate="20201114T010732Z">
+        <seg>如果在战斗开始时没有人觉察到对方，或者所有人都彼此发现，那么没有突袭轮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If no one tends to the stable character (see below), he or she remains unconscious for 1 hour, at which point he or she makes a Fortitude save (DC 20).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T111954Z" creationid="quentine" creationdate="20190115T111954Z">
@@ -24852,10 +25508,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If penalties to damage bring the damage result below 1, a hit still deals 1 point of damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T105652Z" creationid="quentine" creationdate="20201118T105652Z">
+        <seg>如果因为减值导致伤害值低于1，那么依然可以造成1点伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If people are observing the character, even casually, he or she can’t hide.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191004T134639Z" creationid="quentine" creationdate="20191004T134639Z">
         <seg>如果有人注视着角色，即使不是刻意注视，角色就不能躲藏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If some but not all of the combatants are aware of their opponents, a surprise round happens before regular rounds begin.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201111T104003Z" creationid="quentine" creationdate="20201111T102649Z">
+        <seg>如果只有一部分作战者觉察到敌人，那么在作战的`正常轮`（regular round）开始前有一个突袭轮（surprise round）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25596,6 +26268,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character is not proficient in the weapon he or she is attacking with (the character doesn’t have the appropriate Weapon Proficiency feat), that character takes a –4 penalty on the attack roll.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T013929Z" creationid="quentine" creationdate="20201114T013929Z">
+        <seg>若角色不擅长其使用的武器（无相应的擅长专长），角色的攻击骰要受4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character is tripped during his or her own trip attempt, the character can drop the chain to avoid being tripped.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200519T142610Z" creationid="quentine" creationdate="20200519T142610Z">
@@ -26220,6 +26900,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the result equals or beats the target’s Defense, the character hits and deals damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T012837Z" creationid="quentine" creationdate="20201114T012700Z">
+        <seg>若结果大于等于对方的防御值，则角色命中并造成伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the result equals or exceeds the creature’s power resistance, the power works normally, although the creature is still allowed a saving throw.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T140423Z" creationid="quentine" creationdate="20191031T140254Z">
@@ -26360,6 +27048,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190201T153653Z" creationid="quentine" creationdate="20190201T153653Z">
         <seg>如果豁免失败，目标会陷入眩晕1轮（无法行动，但可保护自己）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the second roll also results in a hit against the target’s Defense, the attack is a critical hit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T113144Z" creationid="quentine" creationdate="20201118T113144Z">
+        <seg>如果第二次攻击骰与目标的防御值对抗的结果为`命中`，则此次攻击为一次重击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27164,6 +27860,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In initiative order (highest to lowest), combatants who started the battle aware of their opponents each take one move or attack action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T010543Z" creationid="quentine" creationdate="20201114T010543Z">
+        <seg>按照先攻顺序（高骰点先），每个觉察到敌人的作战者可以在突袭轮中做一个`动作`（移动或攻击）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In many cases, a character’s help won’t be beneficial, or only a lim-ited number of characters can help at the same time.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T134728Z" creationid="quentine" creationdate="20190806T134728Z">
@@ -27374,8 +28078,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>In these cases, the attacker makes a touch attack roll (either a ranged touch attack roll or a melee touch attack roll).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190114T125015Z" creationid="quentine" creationdate="20190114T124825Z">
-        <seg>这种情况下，攻击方需要进行接触攻击投掷（远程接触攻击或近战接触攻击）。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T005949Z" creationid="quentine" creationdate="20190114T124825Z">
+        <seg>这种情况下，攻击方需要掷一个接触攻击骰（远程接触攻击或近战接触攻击）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28692,6 +29396,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It’s the attack roll result that an opponent needs to achieve to hit the character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T115353Z" creationid="quentine" creationdate="20201118T115302Z">
+        <seg>对手必须掷出大于等于自身防御值的攻击骰才能造成命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jet fighters include military fighter and ground attack jets.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190704T130852Z" creationid="quentine" creationdate="20190704T130852Z">
@@ -29146,6 +29858,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T023859Z" creationid="quentine" creationdate="20200419T023859Z">
         <seg>许多军队和执法部门都在使用这款或相近型号的霰弹枪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Many modifiers can affect the attack roll.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T012947Z" creationid="quentine" creationdate="20201114T012947Z">
+        <seg>许多调整值也会作用于攻击骰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29774,6 +30494,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Objects (including vehicles) and some types of creatures are immune to critical hits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T114837Z" creationid="quentine" creationdate="20201118T114837Z">
+        <seg>物品（包括载具）以及一些种类的生物免疫重击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Objects deal the initial damage given in Table: Damage from Falling Objects if they fall 10 feet or less.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T135742Z" creationid="quentine" creationdate="20190115T135742Z">
@@ -29826,6 +30554,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T132805Z" creationid="quentine" creationdate="20191202T132712Z">
         <seg>当然，要在目标手机使用时才能截获该手机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Off-Hand Weapon: When a character deals damage with a weap-on in his or her off hand, add only half of the character’s Strength bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T105959Z" creationid="quentine" creationdate="20201118T105959Z">
+        <seg>副手武器（Off-Hand Weapon）： 当用副手武器造成伤害时，只能加上一半的强壮加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29994,6 +30730,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T142119Z" creationid="quentine" creationdate="20190916T142119Z">
         <seg>一旦角色退出访问，会话结束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once a combatant acts, he or she is no longer flat-footed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201111T102502Z" creationid="quentine" creationdate="20201111T102502Z">
+        <seg>作战者行动以后，则不再处于措手不及状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30398,6 +31142,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T123957Z" creationid="quentine" creationdate="20190114T123957Z">
         <seg>其他要素也可影响防御值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other factors can add to a character’s Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T120700Z" creationid="quentine" creationdate="20201118T120700Z">
+        <seg>其他要素也可影响角色的防御值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31056,6 +31808,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ranged weapons that fire projectiles can shoot up to ten increments.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T105106Z" creationid="quentine" creationdate="20201118T105106Z">
+        <seg>射弹的远程武器的最大射程为射程跨度的10倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ranged weapons that use box magazines come with one full magazine.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200418T020133Z" creationid="quentine" creationdate="20200418T020133Z">
@@ -31116,6 +31876,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200420T141731Z" creationid="quentine" creationdate="20200420T141731Z">
         <seg>补充或替换燃料罐需要13点购买DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reflex: These saves test a character’s ability to dodge massive attacks such as explosions or car wrecks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T122936Z" creationid="quentine" creationdate="20201118T122936Z">
+        <seg>反射豁免： 这一豁免代表角色闪避重大攻击——如爆炸或车祸——的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31372,6 +32140,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T141706Z" creationid="quentine" creationdate="20191027T141706Z">
         <seg>每轮掷骰一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Roll the damage (with all modifiers) multiple times and total the results.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T110920Z" creationid="quentine" creationdate="20201118T110920Z">
+        <seg>进行多次伤害掷骰（每次都应用全部调整值）并计算总和。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31800,10 +32576,34 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Since this same modifier applies to attack rolls a creature doesn’t have a hard time attacking another creature of the same size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T120551Z" creationid="quentine" creationdate="20201118T120551Z">
+        <seg>因为该调整值也应用于攻击骰，相同体型的生物之间的攻击不会受此影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Since this size modifier applies to Defense against a melee weapon attack or a ranged weapon attack, two creatures of the same size strike each other normally, regardless of what size they actually are.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T014847Z" creationid="quentine" creationdate="20201114T014847Z">
+        <seg>因为体型调整值也用于对抗近战或远程的防御值计算，所以两个体型相同的生物互相攻击，体型调整值抵消，可不计。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Situations such as taking damage, working in a bouncing vehicle, or dealing with severe weather can require a character to make a Concentration check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190917T130328Z" creationid="quentine" creationdate="20190917T130328Z">
         <seg>诸如受到伤害、在颠簸的载具上工作、或者应对极端天气等情形都需要角色做一次专注检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Size modifiers are shown on Table: Size Modifiers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T120629Z" creationid="quentine" creationdate="20201118T120629Z">
+        <seg>体型调整值将在`表：体型调整值`中列出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32168,6 +32968,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sometimes a character can’t use his or her Dexterity bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T115551Z" creationid="quentine" creationdate="20201118T115551Z">
+        <seg>有时角色无法使用敏捷加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes a character can’t use his or her equipment bonus to Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T120145Z" creationid="quentine" creationdate="20201118T120145Z">
+        <seg>有时角色无法将装备加值应用于防御。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sometimes a character tries to do something to which no specific skill applies.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T135657Z" creationid="quentine" creationdate="20190806T135657Z">
@@ -32188,6 +33004,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181024T042829Z" creationid="QuenTine" creationdate="20181024T042829Z">
         <seg>有时一些特殊的规则可能会需要玩家在游戏是对骰点或特定数字进行乘法计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes damage is multiplied by some factor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T112013Z" creationid="quentine" creationdate="20201118T110731Z">
+        <seg>有时候由于种种原因，造成的伤害是倍增的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32492,6 +33316,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191115T131148Z" creationid="quentine" creationdate="20191115T131148Z">
         <seg>照相机能让角色记录看到的景象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strength helps a character swing a weapon harder and faster, so a character’s Strength modifier applies to melee attack rolls.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T014305Z" creationid="quentine" creationdate="20201114T014305Z">
+        <seg>力量让角色能更快更有力地挥舞武器，所以角色的力量调整值作用于近战攻击骰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33424,6 +34256,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Critical column on Table: Ranged Weapons and Table: Melee Weapons indicates the threat range for each weapon on the tables.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T114539Z" creationid="quentine" creationdate="20201118T114524Z">
+        <seg>`表：远程武器`和`表：近战武器`的`重击`一列给出了每种武器的重击威胁区间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Crown Victoria is a large four-door family sedan equipped with a 4.6-liter, 220-horsepower V8 engine.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201029T114922Z" creationid="quentine" creationdate="20201029T114922Z">
@@ -34132,6 +34972,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190612T131211Z" creationid="quentine" creationdate="20190612T131211Z">
         <seg>GM决定严重失误的后果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The GM determines which characters are aware of their opponents at the start of the battle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201111T102549Z" creationid="quentine" creationdate="20201111T102549Z">
+        <seg>GM决定哪些作战者在作战开始时觉察到他们的敌人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35400,6 +36248,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The attacker makes his or her attack roll as normal, but a character’s Defense does not include any equipment bonus or armor bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T120846Z" creationid="quentine" creationdate="20201118T120846Z">
+        <seg>攻击方攻击骰照常计算，但防御方的护甲或装备加值不算在内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The attacker makes his or her attack roll as normal, but the character’s Defense does not include any equipment bonus or armor bonus.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T125008Z" creationid="quentine" creationdate="20190114T125008Z">
@@ -35886,6 +36742,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190730T142102Z" creationid="quentine" creationdate="20190730T142102Z">
         <seg>角色每轮只能使用一次本专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The character can, however, use his or her attack action as a second move action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121732Z" creationid="quentine" creationdate="20201118T121732Z">
+        <seg>但角色可以把攻击动作当作第二个移动动作使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36544,6 +37408,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T124222Z" creationid="quentine" creationdate="20191202T124222Z">
         <seg>喷墨打印机用于将电脑上的文字和图像文件创建硬拷贝。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The combatants who are aware of their opponents can act in the surprise round, so they roll for initiative.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T005617Z" creationid="quentine" creationdate="20201114T005617Z">
+        <seg>觉察到敌人的作战者可以在突袭轮中行动，因此他们要投一个先攻。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38188,6 +39060,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The range penalty for a ranged weapon depends on what weapon the character is using and how far away the target is.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T022308Z" creationid="quentine" creationdate="20201114T022308Z">
+        <seg>远程武器攻击骰的距离减值取决于角色使用何种武器和目标有多远。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The rapier is a lightweight sword with a thin blade.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200519T135147Z" creationid="quentine" creationdate="20200519T135147Z">
@@ -39758,6 +40638,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This bonus applies in all situations, even when the character is flat-footed or when the character would lose his or her Dexterity bonus for some other reason.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T115931Z" creationid="quentine" creationdate="20201118T115931Z">
+        <seg>这些加值在所有情况下都生效，甚至在角色措手不及或是由于其他原因失去敏捷加值的情况下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This bonus can be applied to all skill checks and attack rolls made by the Smart hero and his or her allies, but the bonus only lasts for the first 3 rounds after making the plan.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190201T151406Z" creationid="quentine" creationdate="20190201T150153Z">
@@ -39930,6 +40818,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T092003Z" creationid="quentine" creationdate="20190216T092003Z">
         <seg>可以选择一个基本职业，如果角色有资格选择，还可以选一个高级职业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This could let the character move again, for a total movement of up to double his or her normal speed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121845Z" creationid="quentine" creationdate="20201118T121845Z">
+        <seg>这能让角色再次移动，最多可以移动正常速度的两倍距离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40576,6 +41472,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This lets the character move up to four times his or her normal speed, but a character can only run all out in a straight line, and doing so affects the character’s Defense (see Run).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T122516Z" creationid="quentine" creationdate="20201118T122516Z">
+        <seg>这可以让角色以四倍的速度移动，但角色一次只能在一条直线上奔跑，而且这么做会影响角色的防御（见`奔跑`）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This light axe is a chopping tool that deals slashing dam-age when employed as a weapon.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200519T134603Z" creationid="quentine" creationdate="20200519T134603Z">
@@ -40900,6 +41804,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T114719Z" creationid="quentine" creationdate="20190116T114719Z">
         <seg>本节提供了一个本职技能的列表，并给出新角色1级时的技能点数和角色升级时所得技能点数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This section summarizes the fundamental combat statistics.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T011755Z" creationid="quentine" creationdate="20201114T011755Z">
+        <seg>这一部分列举了战斗所需的基本数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41474,6 +42386,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To find out if it is actually a critical hit, the character immediately makes another attack roll with all the same modifiers as the attack roll that scored the threat.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T113010Z" creationid="quentine" creationdate="20201118T113010Z">
+        <seg>要判断该攻击是否真的是重击，角色需立即再以完全相同的调整值掷一次攻击骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To forge a document the character needs to have seen a similar document before.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190926T134530Z" creationid="quentine" creationdate="20190926T134530Z">
@@ -42026,6 +42946,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unless otherwise specified, the multiplier is x2.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T113638Z" creationid="quentine" creationdate="20201118T113638Z">
+        <seg>除非特别说明，倍增值为2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unless otherwise stated, improved grab works only against opponents at least one size category smaller than the creature.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T131021Z" creationid="quentine" creationdate="20191031T131021Z">
@@ -42402,6 +43330,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wearing armor can slow a character down.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121534Z" creationid="quentine" creationdate="20201118T121534Z">
+        <seg>穿着护甲会减慢角色的移动速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What constitutes an item of interest to an animal can vary.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190929T123601Z" creationid="quentine" creationdate="20190929T123601Z">
@@ -42506,6 +43442,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a character hits with a melee weapon or thrown weapon, add his or her Strength modifier to the damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T105832Z" creationid="quentine" creationdate="20201118T105832Z">
+        <seg>当角色使用近战武器或投掷武器命中时，其力量调整值将应用在伤害上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a character hits with a weapon, he or she deals damage according to the type of weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T105220Z" creationid="quentine" creationdate="20201118T105220Z">
+        <seg>角色以武器成功命中时，将按武器类型结算伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a character is exposed to a treatable disease, the character must make an immediate Fortitude saving throw.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T141839Z" creationid="quentine" creationdate="20190115T141839Z">
@@ -42526,6 +43478,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T134255Z" creationid="quentine" creationdate="20190115T134255Z">
         <seg>当角色被器械或攻击者扼喉时，按照以下规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a character makes an attack roll and gets a natural 20 (the d20 shows 20), the character hits regardless of the target’s Defense, and the character has scored a threat of a critical hit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T112712Z" creationid="quentine" creationdate="20201118T112712Z">
+        <seg>当角色掷攻击骰时，自然骰结果为20点，角色将无视目标的防御值直接命中，并产生一个`重击威胁`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a character makes an attack roll, he or she rolls 1d20 and adds his or her attack bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T013104Z" creationid="quentine" creationdate="20201114T012529Z">
+        <seg>角色做一个攻击骰，即投1d20再加上角色的攻击加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42630,6 +43598,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T111234Z" creationid="quentine" creationdate="20190115T111234Z">
         <seg>当角色当前的生命值减至-10或更低，角色死亡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a character’s hit point total drops to 0, he or she is disabled.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121256Z" creationid="quentine" creationdate="20201118T121256Z">
+        <seg>角色的生命值降到0，角色瘫痪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42794,6 +43770,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When everyone has had a turn, the combatant with the highest initiative acts again, and steps 4 and 5 repeat until combat ends.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T011101Z" creationid="quentine" creationdate="20201114T011101Z">
+        <seg>当所有人都过了一轮后，先攻最高的作战者再次行动，并且重复步骤4和5直到作战结束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When faced with multiple choices, such as at a branch in a tunnel, a character can make a Navigate check (DC 20) to intuit the choice that takes the character toward a known destination.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T134525Z" creationid="quentine" creationdate="20191025T134302Z">
@@ -42814,6 +43798,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T123119Z" creationid="quentine" creationdate="20190115T122923Z">
         <seg>英雄被擒抱时无法施展除了空手攻击、轻武器攻击或试图挣脱擒抱者以外的动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When it drops to –1, he or she is dying.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121334Z" creationid="quentine" creationdate="20201118T121334Z">
+        <seg>降到-1，角色濒死。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When it drops to –10, the character is dead.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121351Z" creationid="quentine" creationdate="20201118T121351Z">
+        <seg>降到-10，角色死亡。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43322,6 +44322,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wielding a Weapon Two-Handed: When a character deals damage with a weapon that he or she is wielding two-handed, add 1.5 times the character’s Strength bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T110304Z" creationid="quentine" creationdate="20201118T110304Z">
+        <seg>双手持用武器：当双手持用武器造成伤害时，伤害值可以加上力量加值的1.5倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Will: These saves reflect a character’s resistance to mental influence and domination as well as to many magical effects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201118T123011Z" creationid="quentine" creationdate="20201118T123011Z">
+        <seg>意志豁免： 这一豁免反映了角色对精神上的影响和控制和许多魔法效果的抵抗能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Willpower is a free action that can be attempted once per round.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190619T131233Z" creationid="quentine" creationdate="20190619T131233Z">
@@ -43398,6 +44414,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190413T135313Z" creationid="quentine" creationdate="20190413T135056Z">
         <seg>枪手的连射，即在一轮内以最高的基础攻击加值额外进行一次远程攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With a ranged weapon, a character’s attack bonus is:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T014115Z" creationid="quentine" creationdate="20201114T014115Z">
+        <seg>角色使用远程武器的攻击加值为：</seg>
       </tuv>
     </tu>
     <tu>
@@ -44456,6 +45480,38 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181024T045310Z" creationid="QuenTine" creationdate="20181024T045310Z">
         <seg>d20 + 调整值（Modifiers） vs. 目标数值（Target Number）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>long\])|–4|
+|Huge (elephant)|–2|
+|Large (lion)|–1|
+|Medium-size (human)|+0|
+|Small (German shepherd)|+1|
+|Tiny (housecat)|+2|
+|Diminutive (rat)|+4|
+|Fine (horsefly)|+8|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T021914Z" creationid="quentine" creationdate="20201114T021914Z">
+        <seg>长\])|–4|
+|超大型（大象）|–2|
+|大型（狮子）|–1|
+|普通（人类）|+0|
+|小型（德国牧羊犬）|+1|
+|超小型（大家鼠）|+2|
+|微型（大鼠）|+4|
+|超微型（马蝇）|+8|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>long\])|–8|
+|Gargantuan (gray whale \[40 ft.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T020708Z" creationid="quentine" creationdate="20201114T020708Z">
+        <seg>长\])|–8|
+|巨型 （灰鲸 \[40 尺</seg>
       </tuv>
     </tu>
     <tu>
@@ -46719,8 +47775,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |M113A1 Gavin (tracked APC)|2|11|200 lb.|–2|–2|62 (6)|8|10|48|H|39|Mil (+3)|
 |UH-60 Black Hawk (helicopter)|2|14|9,000 lb.|–4|–4|325 (32)|6|5|46|G|47|Mil (+3)|</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T115435Z" creationid="quentine" creationdate="20200701T115352Z">
-        <seg>|名称|车组位|乘员位|货容量|先攻|机动性|极速|防御|硬度|生命值|尺寸|购买 DC|限制级|
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T020017Z" creationid="quentine" creationdate="20200701T115352Z">
+        <seg>|名称|车组位|乘员位|货容量|先攻|机动性|极速|防御|硬度|生命值|体型|购买 DC|限制级|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |**民用航空**|||||||||||||
 |贝尔206A喷气突击队员（直升机）|1|4|250磅|–4|–4|245 （25）|6|5|28|巨型|39|执照（+1）|
@@ -47202,6 +48258,18 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |该英雄威名或者骂名远扬|+10|
 |GM 角色是该英雄行业领域或社交圈内部的人|+5|
 |该英雄小有名声|+2|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size (Example)|Size Modifier|
+|--------------|:-----------:|
+|Colossal (blue whale \[90 ft.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20201114T020448Z" creationid="quentine" creationdate="20201114T020323Z">
+        <seg>|体型（范例）|体型调整值|
+|--------------|:-----------:|
+|超巨型（蓝鲸 \[90 尺</seg>
       </tuv>
     </tu>
     <tu>

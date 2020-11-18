@@ -1336,3 +1336,14 @@ rental	租赁
 hatch	舱口
 gunner	炮手	车组成员
 Single	手动	射击模式
+combatant	作战者
+Statistic	数据
+attempt	试图
+natural	自然骰
+Range Penalty	距离减值
+Multiplying Damage	伤害倍增
+Bonus damage	额外伤害	除了主要伤害外，武器自带的其他附带伤害。
+extra dice	额外骰
+automatic hit	必然命中
+innate	固有的
+run all out	全力奔跑	以一个整轮动作奔跑

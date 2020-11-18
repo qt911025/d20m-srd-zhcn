@@ -1,286 +1,286 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
 
-# EQUIPMENT (VEHICLES)
+# 装备（载具）
 
-# Vehicles
+# 载具
 
-Vehicles are described by a number of statistics, as shown on Table: Vehicles.
+载具有各种属性，见表：载具。
 
-**Crew:** The standard number of crew. In most cases, only one person is needed to drive the vehicle; other crew members serve as gunners or copilots.
+**车组位：** 标配的车组成员数量。一般来说，载具的驾驶员只有一个，其他车组成员为机枪手以及副驾驶。
 
-**Passengers:** The number of passengers (in addition to the crew) the vehicle is designed to carry. Vehicles that carry passengers can use that space to carry additional cargo when passengers aren’t present. Each unused passenger slot allows the vehicle to carry an additional 100 pounds of cargo.
+**乘员位：** 载具核载的（除车组外的）乘员数量。乘员位空置时，可用空余空间承运货物。每有一个空置的乘员位，载具能多承运100磅货物。
 
-**Cargo Capacity:** The amount of cargo the vehicle is designed to carry. Many vehicles can carry extra passengers instead of cargo, but doing so is usually a cramped, uncomfortable, and often unsafe experience for those passengers. As a rule of thumb, one additional passenger can be carried for each 250 pounds of unused cargo capacity.
+**货容量：** 载具核载的货物量。许多载具可在载货位上搭载乘客，但货舱的乘坐体验不佳，乘客会感到拥挤、不适，而且也不安全。一般来说，每250磅货容量能搭载一个乘客。
 
-**Initiative:** The modifier added to the driver’s or pilot’s initiative check when operating the vehicle.
+**先攻：** 操作载具时，驾驶员的先攻检定会获得此调整值。
 
-**Maneuver:** The modifier added to any Drive or Pilot checks attempted with the vehicle.
+**机动性：** 使用此载具时的驾驶或驾机检定会加上此调整值。
 
-**Top Speed:** The maximum number of squares the vehicle can cover in 1 round at character scale (with the number of squares at chase scale in parentheses). This is the fastest the vehicle can move.
+**极速：** 角色尺度上，载具每轮最多能移动的方格数（括号内的数为追逐尺度上）。这是载具所能移动的最快速度。
 
-**Defense:** The vehicle’s Defense.
+**防御：** 载具的防御。
 
-**Hardness:** The vehicle’s hardness. Subtract this number from any damage dealt to the vehicle.
+**硬度：** 载具的硬度。任何对该载具的伤害都应减去该值。
 
-**Hit Points:** The vehicle’s full normal hit points.
+**生命值：** 载具正常情况下的最大生命值。
 
-**Size:** Vehicle size categories are defined differently from the size categories for weapons and other objects.
+**体型：** 载具的体型与武器及其他物品的尺寸不是一个概念。
 
-**Purchase DC:** This is the purchase DC for a Wealth check to acquire the vehicle. This number reflects the base price and doesn’t include any modifier for purchasing the vehicle on the black market.
+**购买 DC:** 获得此载具所需财富检定的购买DC。此值指基本价格，并未把黑市加值算在内。
 
-**Restriction:** The restriction rating for the vehicle, if any, and the appropriate black market purchase DC modifier. Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the vehicle on the black market.
+**限制级：** 载具的管制等级，如果有，还会列出相应的黑市购买DC调整值。记住一定要在黑市购买进行财富检定时加上这些调整值。
 
-**Table: Vehicles**
+**表：载具**
 
-|Name|Crew|Pass|Cargo|Init|Maneuver|Top Speed|Defense|Hardness|Hit Points|Size|Purchase DC|Restriction|
+|名称|车组位|乘员位|货容量|先攻|机动性|极速|防御|硬度|生命值|体型|购买 DC|限制级|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|**Civilian Aircraft**|||||||||||||
-|Bell Jet Ranger (helicopter)|1|4|250 lb.|–4|–4|245 (25)|6|5|28|G|39|Lic (+1)|
-|Bell Model 212 (helicopter)|2|13|5,000 lb.|–4|–4|200(20)|6|5|36|G|45|Res (+2)|
-|Cessna 172 Skyhawk (prop plane)|1|3|120 lb.|–4|–4|210 (21)|6|5|30|G|36|Lic (+1)|
-|Learjet Model 45 (corporate jet)|2|10|500 lb.|–4|–4|1,100 (110)|6|5|44|G|40|Lic (+1)|
+|**民用航空**|||||||||||||
+|贝尔206A喷气突击队员（直升机）|1|4|250磅|–4|–4|245 （25）|6|5|28|巨型|39|执照（+1）|
+|贝尔212型（直升机）|2|13|5000 磅|–4|–4|200（20）|6|5|36|巨型|45|管制（+2）|
+|塞斯纳172天鹰（螺旋桨飞机）|1|3|120 磅|–4|–4|210 （21）|6|5|30|巨型|36|执照（+1）|
+|里尔喷气45型（商务喷气机）|2|10|500 磅|–4|–4|1100 （110）|6|5|44|巨型|40|执照（+1）|
 ||||||||||||||
-|**Civilian Cars**|||||||||||||
-|Acura 3.2 TL (mid-size sedan)|1|4|300 lb.|–2|–1|265 (26)|8|5|34|H|29|Lic (+1)|
-|Aston-Martin Vanquish (sports coupe)|1|1|175 lb.|–2|+0|335 (33)|8|5|34|H|36|Lic (+1)|
-|BMW M3 (sports coupe)|1|4|200 lb.|–2|+1|275 (27)|8|5|32|H|30|Lic (+1)|
-|Chevrolet Cavalier (economy coupe)|1|4|275 lb.|–1|–1|185 (18)|9|5|30|L|26|Lic (+1)|
-|Chevrolet Corvette (sports coupe)|1|1|250 lb.|–2|+0|310 (31)|8|5|32|H|30|Lic (+1)|
-|Dodge Neon (economy sedan)|1|4|275 lb.|–1|–1|220 (22)|9|5|30|L|26|Lic (+1)|
-|Ford Crown Victoria (mid-size sedan)|1|5|425 lb.|–2|–1|185 (18)|8|5|34|H|28|Lic (+1)|
-|Jaguar XJS (luxury sedan)|1|4|275 lb.|–2|–1|230 (23)|8|5|34|H|32|Lic (+1)|
-|Lamborghini Diablo (sports coupe)|1|1|100 lb.|–2|+1|360 (36)|8|5|34|H|37|Lic (+1)|
-|Mercedes E55 AMG (luxury sedan)|1|4|325 lb.|–2|+0|280 (28)|8|5|34|H|32|Lic (+1)|
-|Volkswagen Jetta (mid-size wagon)|1|4|275 lb.|–2|+0|230 (23)|8|5|32|H|28|Lic (+1)|
+|**民用汽车**|||||||||||||
+|讴歌 3.2 TL （中型轿车）|1|4|300 磅|–2|–1|265 （26）|8|5|34|超大型|29|执照（+1）|
+|阿斯顿·马丁-万奎仕 （运动型轿跑）|1|1|175 磅|–2|+0|335 （33）|8|5|34|超大型|36|执照（+1）|
+|宝马 M3 （运动型轿跑）|1|4|200 磅|–2|+1|275 （27）|8|5|32|超大型|30|执照（+1）|
+|雪佛兰科沃兹（经济型双座）|1|4|275 |–1|–1|185 （18）|9|5|30|大型|26|执照（+1）|
+|雪佛兰科尔维特（运动型轿跑）|1|1|250 磅|–2|+0|310 （31）|8|5|32|超大型|30|执照（+1）|
+|道奇霓虹 （经济型轿车）|1|4|275 磅|–1|–1|220 （22）|9|5|30|大型|26|执照（+1）|
+|福特维多利亚皇冠 （中型轿车）|1|5|425 磅|–2|–1|185 （18）|8|5|34|超大型|28|执照（+1）|
+|捷豹 XJ轿车 （奢侈型轿车）|1|4|275 磅|–2|–1|230 （23）|8|5|34|超大型|32|执照（+1）|
+|兰博基尼迪亚波罗 （运动型轿跑）|1|1|100 磅|–2|+1|360 （36）|8|5|34|超大型|37|执照（+1）|
+|梅赛德斯 E55 AMG （奢侈型轿车）|1|4|325 磅|–2|+0|280 （28）|8|5|34|超大型|32|执照（+1）|
+|大众捷达 （中型旅行车）|1|4|275 磅|–2|+0|230 （23）|8|5|32|超大型|28|执照（+1）|
 ||||||||||||||
-|**Civilian Motorcycles**|||||||||||||
-|Ducati 998R (racing bike)|1|0|0 lb.|+0|+3|370 (37)|10|5|18|M|27|Lic (+1)|
-|Harley Davidson FLSTF (street bike) |1|1|0 lb.|–1|+1|275 (27)|9|5|22|L|26|Lic (+1)|
-|Yamaha YZ250F (dirt bike)|1|1|0 lb.|+0|+2|165 (16)|10|5|18|M|23|Lic (+1)|
+|**民用摩托车**|||||||||||||
+|杜卡迪 998R （跑车）|1|0|0 磅|+0|+3|370 （37）|10|5|18|普通|27|执照（+1）|
+|哈雷戴维森 FLSTF （街车） |1|1|0 磅|–1|+1|275 （27）|9|5|22|大型|26|执照（+1）|
+|雅马哈 YZ250F （越野车）|1|1|0 磅|+0|+2|165 （16）|10|5|18|普通|23|执照（+1）|
 ||||||||||||||
-|**Civilian Trucks**|||||||||||||
-|AM General Hummer (SUV)|1|3|1,000 lb.|–2|–2|140 (14)|8|5|38|H|34|Lic (+1)|
-|Chevrolet Suburban (SUV)|1|8|500 lb.|–2|–2|175 (17)|8|5|38|H|30|Lic (+1)|
-|Dodge Caravan (minivan)|1|4|325 lb.|–2|–2|195 (19)|8|5|34|H|28|Lic (+1)|
-|Ford Escape XLT (SUV)|1|4|300 lb.|–2|–2|200 (20)|8|5|32|H|29|Lic (+1)|
-|Ford F-150 XL (pickup)|1|2|1,700 lb.|–2|–2|175 (17)|8|5|36|H|28|Lic (+1)|
-|Toyota Tacoma Xtracab (pickup)|1|3|1,600 lb.|–2|–2|185 (18)|8|5|34|H|27|Lic (+1)|
+|**民用卡车**|||||||||||||
+|AMG悍马（SUV）|1|3|1000 磅|–2|–2|140 （14）|8|5|38|超大型|34|执照（+1）|
+|雪佛兰萨博班（SUV）|1|8|500 磅|–2|–2|175（17）|8|5|38|超大型|30|执照（+1）|
+|道奇凯领 （多功能休旅车）|1|4|325 磅|–2|–2|195 （19）|8|5|34|超大型|28|执照（+1）|
+|福特锐际 XLT （SUV）|1|4|300 磅|–2|–2|200 （20）|8|5|32|超大型|29|执照（+1）|
+|福特 F-150 XL （皮卡）|1|2|1700 磅|–2|–2|175 （17）|8|5|36|超大型|28|执照（+1）|
+|丰田塔科马 Xtracab （皮卡）|1|3|1600 磅|–2|–2|185 （18）|8|5|34|超大型|27|执照（+1）|
 ||||||||||||||
-|**Civilian Water Vehicles**|||||||||||||
-|Bayliner 1802 Capri (runabout)|1|5|2,100 lb.|–2|–2|55 (5)|8|5|28|H|28|Lic (+1)|
-|Fairline Targa 30 (cabin cruiser)|1|3|2,100 lb.|–4|–4|80 (8)|6|5|40|G|32|Lic (+1)|
-|Sea-Doo XP (personal watercraft)|1|1|60 lb.|–1|+1|105 (10)|9|5|22|L|24|Lic (+1)|
+|**民用船只**|||||||||||||
+|贝琳娜 1802 卡普里 （轻型汽艇）|1|5|2100 磅|–2|–2|55 （5）|8|5|28|超大型|28|执照（+1）|
+|菲尔兰塔尔加 30 （大游艇）|1|3|2100 磅|–4|–4|80 （8）|6|5|40|巨型|32|执照（+1）|
+|喜度 XP （摩托艇）|1|1|60 磅|–1|+1|105 （10）|9|5|22|大型|24|执照（+1）|
 ||||||||||||||
-|**Other Civilian Vehicles**|||||||||||||
-|Armored truck|2|0|3,600 lb.|–2|–2|175 (17)|8|10|36|H|34|Res (+2)|
-|Honda TRX400FW (4-wheel ATV)|1|0|675 lb.|–1|+1|95 (9)|9|5|22|L|23|Lic (+1)|
-|Limousine|1|7|425 lb.|–4|–4|195 (19)|6|5|38|G|36|Lic (+1)|
-|Moving truck|1|2|33,000 lb.|–4|–4|165 (16)|6|5|44|G|34|Lic (+1)|
-|NABI Model 40LFW (city bus)|1|39|0 lb.|–4|–4|120 (12)|6|5|48|G|38|Lic (+1)|
+|**其他民用载具**|||||||||||||
+|武装卡车|2|0|3600 磅|–2|–2|175 （17）|8|10|36|超大型|34|管制（+2）|
+|本田TRX400FW（四轮沙滩车）|1|0|675 磅|–1|+1|95 （9）|9|5|22|大型|23|执照（+1）|
+|豪华轿车|1|7|425 磅|–4|–4|195 （19）|6|5|38|巨型|36|执照（+1）|
+|大卡车|1|2|33000 磅|–4|–4|165 （16）|6|5|44|巨型|34|执照（+1）|
+|北美客车40LFW型 （城市公交）|1|39|0 磅|–4|–4|120 （12）|6|5|48|巨型|38|执照（+1）|
 ||||||||||||||
-|**Military Vehicles**|||||||||||||
-|BMP-2 (tracked APC)|3|7|250 lb.|–2|–2|70 (7)|8|10|52|H|40|Mil (+3)|
-|M1A2 Abrams (tracked tank)|4|0|425 lb.|–4|–4|80 (8)|6|20|64|G|47|Mil (+3)|
-|M2A2 Bradley (tracked APC)|3|7|425 lb.|–4|–4|70 (7)|6|15|58|G|45|Mil (+3)|
-|M113A1 Gavin (tracked APC)|2|11|200 lb.|–2|–2|62 (6)|8|10|48|H|39|Mil (+3)|
-|UH-60 Black Hawk (helicopter)|2|14|9,000 lb.|–4|–4|325 (32)|6|5|46|G|47|Mil (+3)|
+|**军用载具**|||||||||||||
+|BMP-2 （履带式步兵战车）|3|7|250 磅|–2|–2|70 （7）|8|10|52|超大型|40|军用（+3）|
+|M1A2艾布拉姆斯 （履带式坦克）|4|0|425 磅|–4|–4|80 （8）|6|20|64|巨型|47|军用（+3）|
+|M2A2布雷德利 （履带式步兵战车）|3|7|425 磅|–4|–4|70 （7）|6|15|58|巨型|45|军用（+3）|
+|M113A1盖文（履带式步兵战车）|2|11|200 磅|–2|–2|62 （6）|8|10|48|超大型|39|军用（+3）|
+|UH-60黑鹰 （直升机）|2|14|9000 磅|–4|–4|325 （32）|6|5|46|巨型|47|军用（+3）|
 
-## Civilian Aircraft
+## 民用航空
 
-All aircraft, from one-seaters to jumbo jets, are controlled by the use of the Pilot skill. A few examples are provided here from the variety of airgoing vehicles that might be available to characters.
+从单人飞机到巨型喷气机，所有的飞行器的操控都依赖于`驾机`技能。以下是众多角色可用的飞行载具的几个典型代表。
 
-### Bell Jet Ranger
+### 贝尔206A喷气突击队员
 
-This is perhaps the most common civilian helicopter worldwide; it has also been adopted by many military forces as a light utility helicopter. The Jet Ranger is two squares wide and seven squares long. It provides three-quarters cover for crew and passengers.
+这可以说是世界上最普遍的民用直升机了；它同样作为轻型通用直升机在军中服役。喷气突击队员有2格宽7格长。它为乘员和机组提供3/4掩体。
 
-### Bell Model 212
+### 贝尔212型
 
-This is the twin-engine, civilian version of the ubiquitous Huey helicopter. As a civilian aircraft, it is a sturdy, reliable helicopter used for passenger and cargo work all over the world. Military versions are still in use in many countries. The Bell 212 is three squares wide and seven squares long. It provides three-quarters cover for crew and passengers (one-quarter cover for passengers if the cargo doors are open).
+这是随处可见的修伊直升机的双发民用版。作为一款民用直升机，它结实耐用、客货两用的特点深受世界喜爱。军用版也广泛服役于军队中。贝尔212型有3格宽7格长。它为乘员和机组提供3/4掩体（货舱门打开则只能提供1/4掩体）。
 
-### Cessna 172 Skyhawk
+###  塞斯纳172天鹰
 
-This common single-engine propeller plane is relatively inexpensive. A Cessna 172 is seven squares wide (including wings; fuselage is one square wide) and six squares long. It provides three-quarters cover for crew and passengers.
+这种常见的单发螺旋桨飞机相对便宜些。塞斯纳172有7格宽（包括机翼；机身1格宽）6格长。它为乘员和机组提供3/4掩体。
 
-### Learjet Model 45
+### 里尔喷气45型
 
-This is a sleek business jet introduced in the late 90s. Two turbofans, set on the fuselage above and behind the wings, provide the power. The interior includes luxury accommodations and a lavatory. A Learjet is ten squares wide (including wings; fuselage is two squares wide) and twelve squares long. It provides three-quarters cover for crew and nine-tenths cover for passengers.
+这种圆润的商用喷气机在上世纪90年代晚期问世。由安装在机身上方、机翼后方的双发涡轮提供动力。内部包括了一间起居室和一间厕所。里尔喷气机有10格宽（包括机翼；机身2格宽）12格长。它为机组提供3/4掩体，为乘客提供9/10掩体。
 
-## Civilian Cars
+## 民用汽车
 
-Most new civilian cars include such standard features as air conditioning, air bags, antilock brakes, cruise control, keyless entry, and an AM/FM radio with CD player. Luxury vehicles often also include extras such as heated side mirrors, power seats, leather upholstery, and sunroofs. In general, these luxury amenities can be added to a nonluxury car with an increase of 1 to the vehicle’s purchase DC.
+大多数新型民用汽车都包括这些基本功能：空调、安全气囊、防抱死、恒速控制、遥控门锁、收音机和CD机。豪华车通常还有额外的功能，比如有加热功能的侧后视镜、电动座椅、皮制内饰、以及天窗。一般来说，这些豪华配置可以加装到非豪华车上，这会给载具增加1点购买DC。
 
-Unless otherwise noted, civilian cars provide three-quarters cover for their occupants (although passengers who lean out of windows or sunroofs, perhaps to fire weapons, may be reduced to one-half or even one-quarter cover).
+除非特别说明，民用汽车为乘客提供3/4掩体（但如果在乘客伸出窗外或天窗，还有面对火焰武器的情况下，只会提供半掩体甚至1/4掩体）。
 
-### Acura 3.2 TL
+### 讴歌 3.2 TL
 
-The 3.2 TL is a four-door luxury sedan. It is two squares wide and four squares long.
+3.2 TL型讴歌是一款4门豪华轿车。它有2格宽4格长。
 
-### Aston-Martin Vanquish
+### 阿斯顿·马丁-万奎仕
 
-The Vanquish is a two-door luxury sports car powered by a 5.9-liter, 460-horsepower V12 engine. A six-speed manual transmission with overdrive is standard. The Vanquish is two squares wide and four squares long.
+万奎仕是一款双门豪华运动型轿跑，发动机是5.9升排量、460马力的V12发动机。标配6速的带有超速档的手动变速杆。万奎仕有2格宽4格长。
 
-### BMW M3
+### 宝马 M3
 
-The M3 is a two-door luxury sports car equipped with a standard 3.2-liter, 333-horsepower engine. The M3 is two squares wide and three squares long.
+M3是一款双门豪华运动型轿跑，标配3.2升排量、333马力的发动机。M3有2格宽3格长。
 
-### Chevrolet Cavalier
+### 雪佛兰科沃兹
 
-A two-door family coupe, the Cavalier is two squares wide and four squares long.
+科沃兹是家用双门轿车，2格宽4格长。
 
-### Chevrolet Corvette
+### 雪佛兰科尔维特
 
-The Corvette is a two-door sports car equipped with a 5.7-liter, 350-horsepower V8 engine. The Corvette is two squares wide and three squares long.
+科尔维特是一款双门运动型车，搭载5.7升排量、350马力的V8引擎。科尔维特有2格宽3格长。
 
-### Dodge Neon
+### 道奇霓虹
 
-The Neon is an inexpensive four-door family sedan. It is two squares wide and three squares long.
+道奇霓虹是一款实惠的四门家用轿车。它有2格宽3格长。
 
-### Ford Crown Victoria
+### 福特维多利亚皇冠
 
-The Crown Victoria is a large four-door family sedan equipped with a 4.6-liter, 220-horsepower V8 engine. Large and durable, it is a favorite of police forces (police cruisers are commonly Crown Victorias). The Crown Victoria is two squares wide and four squares long.
+福特维多利亚皇冠是一款大型四门家用轿车，搭载4.6升排量、220马力的V8引擎。它巨大而耐用，深受警察部门的喜爱（警用巡逻车大多是维多利亚皇冠）。维多利亚皇冠有2格宽4格长。
 
-### Jaguar XJ Sedan
+### 捷豹XJ轿车
 
-The XJ is a four-door luxury sedan. It is two squares wide and four squares long.
+捷豹XJ是一款四门豪华轿车。它有2格宽4格长。
 
-### Lamborghini Diablo
+### 兰博基尼迪亚波罗
 
-The Diablo is a top-of-the-line exotic sports car—a two-door coupe equipped with a standard 6.0-liter, 550-horsepower V12 engine. The Diablo is two squares wide and three squares long.
+兰博基尼迪亚波罗是一款顶级且前卫的运动型轿跑，双门双座、标配6.0升排量、550马力的V12发动机。迪亚波罗有2格宽3格长。
 
-### Mercedes E55 AMG
+### 梅赛德斯 E55 AMG
 
-The E-Class is a four-door luxury sedan equipped with a powerful 5.5-liter, 349-horsepower V8 engine. It is two squares wide and four squares long.
+梅赛德斯E系是一款四门豪华轿车，搭载强劲的5.5升排量、349马力的V8引擎。它有2格宽4格长。
 
-### Volkswagen Jetta
+### 大众捷达
 
-The Jetta is a four-door station wagon. It is two squares wide and three squares long.
+捷达是一款4门旅行车（RV）。它有2格宽3格长。
 
-## Civilian Motorcycles
+## 民用摩托车
 
-Unlike getting into a car, mounting a motorcycle is a free action. Motorcycles tend to perform better than automobiles, but they provide no cover to their occupants.
+与进入汽车不同，骑上摩托车是一个即时动作。摩托车性能表现比汽车更好，但无法给乘客提供任何掩体。
 
-### Ducati 998R
+### 杜卡迪 998R
 
-This is a top-of-the-line street bike with a strong heritage of winning races. The 998R is one square wide and two squares long.
+这是一款顶级街车，在赛场上战绩赫赫。998R有1格宽2格长。
 
-### Harley-Davidson FLSTF Fat Boy
+### 哈雷戴维森 FLSTF 胖子
 
-This huge motorcycle sports a 1,450cc engine. It’s designed to look cool and compete for space on the roads with automobiles. It is one square wide and two squares long.
+这种巨大的摩托车搭载了1450cc的引擎。它设计狂霸酷炫，敢跟汽车争路权。它有1格宽2格长。
 
-### Yamaha YZ250F
+### 雅马哈 YZ250F
 
-A classic dirt bike, this is very similar to the motorcycle used by United States Army cavalry scouts. The YZ250F is one square wide and two squares long.
+这是一款经典的越野摩托，与美军机动侦察兵使用的摩托相似。YZ250F有1格宽2格长。
 
-## Civilian Trucks
+## 民用卡车
 
-Trucks include pickups, sport utility vehicles, vans, and minivans. They generally have the same features as civilian cars.
+卡车包括皮卡、运动型多用途车（SUV）、面包车以及多功能休旅车。它们的民用用途大致相同。
 
-Like cars, trucks generally provide three-quarters cover to their occupants. The rear bed of a pickup truck, however, provides only one-half cover.
+和小汽车一样，卡车也为乘客提供3/4掩体。而皮卡的尾舱只提供半掩体。
 
-### AM General Hummer
+### AMG悍马
 
-The four-door Hummer is a civilian version of the military’s all-terrain “humvee” utility vehicle. It comes equipped with a powerful 6.5-liter, 195-horsepower V8 turbo diesel engine. The hummer is decked out like a luxury vehicle inside, but this vehicle is every bit as rugged as the military version.
+四门的悍马是军用“高机动性多用途轮式车辆”的民用版。它搭载了强劲的6.5升排量、195马力的V8涡轮柴油机。悍马的内部装饰得很豪华，但其粗犷丝毫不输军用版。
 
-The military version can be configured in a variety of ways, including a two-door pickup, a four-door pickup with a short bed, and a completely enclosed, SUVlike body with a hatchback and four doors. It lacks the luxury accessories of the civilian version, but it is equipped with puncture-resistant tires.
+军用版可以改装成许多形态，包括双门皮卡、四门短尾皮卡和四门全包SUV。相比民用版它没有豪华内饰，但装备了防刺轮胎。
 
-A Hummer is two squares wide and four squares long.
+悍马有2格宽4格长。
 
-### Chevrolet Suburban
+### 雪佛兰萨博班
 
-One of the largest sport utility vans on the market, the Suburban is a four-door truck equipped with a standard 6.0-liter, 320-horsepower V8 engine. It is two squares wide and four squares long.
+萨博班是一款四门卡车，市面上最大型的SUV之一，标配6.0升排量、320马力的V8引擎。它有2格宽4格长。
 
-### Dodge Caravan
+### 道奇凯领
 
-The Caravan is a minivan with two conventional doors up front, sliding doors on the side, and a rear hatch-style door. It is two squares wide and four squares long.
+凯领是一款多功能休旅车，其前座是常见的双前门、中间是滑动门，还有一个后舱门。它有2格宽4格长。
 
-### Ford Escape XLT
+### 福特锐际 XLT
 
-The Escape is a four-door SUV with a 3.0-liter, 201-horsepower V6 engine. It is two squares wide and three squares long.
+锐际是一款4门SUV，搭载了3.0升排量、201马力的V6引擎。它有2格宽3格长。
 
-### Ford F-150 XL
+### 福特 F-150 XL
 
-This two-door pickup truck has a 4.2-liter, 202-horsepower V6 engine. The F-150 is two squares wide and four squares long.
+这款双门的皮卡搭载了4.2升排量、202马力的V6引擎。F-150有2格宽4格长。
 
-### Toyota Tacoma Xtracab
+### 丰田塔科马 Xtracab
 
-The Tacoma is a two-door pickup with a back seat in its extended cab. It is two squares wide and four squares long.
+塔科马是一款双门皮卡，后舱还有两个座位。它有2格宽4格长。
 
-## Civilian Water Vehicles
+## 民用船只
 
-Piloting a water vehicle is covered by the Drive skill.
+驾驶水上载具也是应用`驾驶`技能。
 
-### Bayliner 1802 Capri
+### 贝琳娜 1802 卡普里
 
-This is a large runabout—a powerboat with an outboard engine and an open cockpit with a tiny cabin (about the size of the interior of an economy car) forward. It comes with a trailer; loading or unloading it requires a paved boat ramp and 10 minutes of work. The Capri provides one-half cover to occupants in the cockpit or stern, full cover to occupants in the cabin, and no cover to those forward of the cockpit. The Capri is two squares wide and four squares long.
+这是一款大型轻型汽艇——一种引擎安在甲板上且前部有一个带小型舱室（约与经适车的客舱一样的大小）的露天驾驶舱的汽艇。它可由拖车运载，需要从人造的船坡下水。卡普里为驾驶位和船尾的乘客提供半掩体，为小型舱室内的乘客提供全掩体，而驾驶位之前的船头不提供任何掩体。卡普里有2格宽4格长。
 
-### Fairline Targa 30
+### 菲尔兰塔尔加 30
 
-This cabin cruiser is a motor yacht with two internal diesel engines. It comes equipped with four berths and a fully equipped galley. It provides one-half cover to occupants in the cockpit or stern, full cover to occupants below deck, and no cover to those forward of the cockpit. The Targa is three squares wide and six squares long.
+这款大游艇是一款用两台活塞引擎发动的游艇。它有4个卧铺和配置齐全的小厨房。它为驾驶位和船尾的乘客提供半掩体，为甲板下的乘客提供全掩体，而驾驶位之前的船头不提供任何掩体。塔尔加有3格宽6格长。
 
-### Sea-Doo XP
+### 喜度 XP
 
-This is a two-seat jet ski that propels itself with a powerful jet of water. The Sea-Doo XP is one square wide and two squares long, and provides no cover for its riders.
+这是一款双座喷气式摩托艇，用一台强劲的喷气机驱水而动。喜度XP有1格宽2格长，不为乘员提供任何掩体。
 
-## Other Vehicles
+## 其他载具
 
-A few types of vehicles don’t fit neatly into the categories covered above. Many of these (such as the armored truck and the limousine) are usually custom built, so the model name isn’t specified as it is with most other vehicles in this section. The description and stats reflect a typical model.
+这些是无法归类到以上范畴的载具。它们大多是定制的（比如武装卡车和豪华轿车），所以不像本章里的其他载具一样有型号。描述与数据指的是一般常见的款式。
 
-### Armored Truck
+### 武装卡车
 
-Used to transport money between businesses and financial institutions, armored trucks are designed to deter would-be thieves. The truck has three doors and firing ports that allow the crew to use their firearms without leaving the vehicle. The armored truck is two squares wide and four squares long. It provides nine-tenths cover for its occupants. It is equipped with puncture-resistant tires.
+武装卡车用于押运金钱，往来于商务与金融机构之间，专为防范可能的盗抢活动而设计。卡车有三道门和射击口，让车组人员可以在车内向外射击。武装卡车有2格宽4格长。它为乘客提供9/10掩体。它还装备了防刺轮胎。
 
-### Honda TRX400FW
+### 本田 TRX400FW
 
-This all-terrain vehicle is something like a four-wheeled motorcycle. It is one square wide and two squares long. It provides no cover for its riders.
+这种全地形车长得像4轮的摩托车。它有1格宽2格长。它不为乘员提供任何掩体。
 
-### Limousine
+### 豪华轿车
 
-A limousine is a big, comfortable car. The statistics given are for a moderate-sized vehicle, rather than a stretch limo or a conventional car with a professional driver. Limousines feature virtually every available luxury feature, often including televisions and small refrigerators. A partition divides the front seat from the rest of the vehicle. A limousine is two squares wide and five squares long. It provides three-quarters cover for its occupants.
+豪华轿车就是宽敞而舒适的小汽车。其数据对应的是中等体积的载具，而非那种配备专业司机的老爷车或加长豪华轿车。豪华轿车几乎拥有了所有的豪华配置，常常包括电视和小冰箱。前座和其他部分有一个隔板。豪华轿车有2格宽5格长。它为乘客提供3/4掩体。
 
-### Moving Truck
+### 大卡车
 
-This is a large cargo truck used to move furniture or deliver freight. Trucks of this sort are often available as rentals. A moving truck is two squares wide and five squares long. It provides three-quarters cover for occupants in the cab and full cover for any in the back.
+这是一种大货车，用于搬运家具或其他货物。这类大卡车通常可以租赁。大卡车有2格宽5格长。它为驾驶舱的乘客提供3/4掩体，为货舱内乘客提供全掩体。
 
-### NABI Model 40LFW
+### 北美客车 40LFW型
 
-This is a typical city bus. It has a door at the front and a second door about halfway down the right-hand side. This vehicle is two squares wide and eight squares long. It provides three-quarters cover for crew and passengers.
+这是一款常见的城市公交车。它在前端有一个门，车中间的右侧有另一道门。这种载具有2格宽8格长。它为乘员和机组提供3/4掩体。
 
-## Military Vehicles
+## 军用载具
 
-Several military vehicles are covered here. In addition, a number of the civilian vehicles covered above, such as the AM General Hummer and the Bell Model 212 helicopter, are commonly seen in military service.
+这里有几种军用载具。此外，许多之前提到的民用载具，比如悍马和贝尔212型直升机，也在军中服役。
 
 ### BMP-2
 
-A Soviet-era armored personnel carrier, the BMP is used by the Russian army and more than twenty ex-Soviet states or clients. It is crewed by a driver, a gunner, and a commander. It has three top hatches, one above each crew position, and a large door in back for infantry soldiers to load or disembark. It takes a full-round action to enter the vehicle through a top hatch and another full-round action to start it moving. The BMP-2 is three squares wide and four squares long. It provides full cover to its occupants.
+BMP是前苏联时代的装甲输送车，为俄罗斯军队和超过20个前苏联国家和军售客户使用。车组包括一个驾驶员、一个炮手和一个车长。它有三个顶盖、每个车组成员各一个，车尾有一个大门供运载的步兵出入。从顶盖进入载具是一个整轮动作，发动载具也是一个整轮动作。BMP-2有3格宽4格长。它为乘客提供全掩体。
 
-This vehicle comes equipped with a 30mm cannon (see Table: Vehicle Weapons) mounted in a full turret.
+此载具装备了一个带30mm加农炮（见表：载具武器）的全包式炮塔。
 
-### M1A2 Abrams
+### M1A2 艾布拉姆斯
 
-This is the U.S. Army’s main battle tank, probably the most advanced and powerful tank in the world. It is crewed by a driver, a gunner, a gun loader, and a commander. It has three top hatches, one for the driver and two on the turret. (The driver’s position cannot be reached from the other positions, which are all in the turret.) It takes a full-round action to enter a tank and another full-round action to start it moving. The Abrams is three squares wide and six squares long. It provides full cover to its occupants.
+这是美国陆军的主战坦克，可能是全世界最先进最强大的坦克。车组包括一个驾驶员、一个炮手、一个装填手和一个车长。它有三个顶盖，驾驶员一个、炮塔上两个。（驾驶员的位置不与炮塔上的其他乘员位相通。）进入坦克是一个整轮动作，发动也会死一个整轮动作。艾布拉姆斯有3格宽6格长。它为乘客提供全掩体。
 
-This vehicle comes equipped with a tank cannon (see Table: Vehicle Weapons) and an M2HB heavy machine gun (see Table: Ranged Weapons), both mounted in full turrets.
+此载具装备了一门坦克加农炮（见表：载具武器）和一挺M2HB重机枪（见表：远程武器），两者都搭载在全包式炮塔上。
 
-### M2A2 Bradley
+### M2A2 布雷德利
 
-This is the U.S. Army’s principal armored personnel carrier. It is crewed by a driver, a gunner, and a commander. It has three top hatches, one above each crew position, and a large door in back for infantry soldiers to load or disembark. It takes a full-round action to enter the vehicle through a top hatch, and another full-round action to start it moving. In addition to its own armament, the Bradley’s passenger compartment has ports that allow passengers to fire their personal weapons from within the vehicle. The Bradley is three squares wide and four squares long. It provides full cover to its occupants.
+这是美国陆军的装甲运输车。车组包括一个驾驶员、一个炮手和一个车长。它有三个顶盖、每个车组成员各一个，车尾有一个大门供运载的步兵出入。从顶盖进入载具是一个整轮动作，发动载具也是一个整轮动作。除了自带的武器外，布雷德利的乘员位上都有射击口，乘员可用自己的武器在车内向外射击。布雷德利有3格宽4格长。它为乘客提供全掩体。
 
-This vehicle comes equipped with a 25mm cannon (see Table: Vehicle Weapons) mounted in a full turret.
+此载具装备了一个带25mm加农炮（见表：载具武器）的全包式炮塔。
 
-### M113A1 Gavin
+### M113A1 盖文
 
-Introduced in 1960s and for many years a mainstay of the U.S. Army, this tracked armored personnel carrier is now in use by more than fifty countries. It is crewed by a driver and a commander, and features a top hatch above each position as well as a rear door. It takes a full-round action to enter the vehicle through a top hatch and another full-round action to start it moving. The Gavin is three squares wide and four squares long. It provides full cover to its occupants.
+M113A1于20世纪60年代问世，在很长一段时间内作为美国陆军的中坚力量。如今超过50个国家都在使用这种履带式装甲输送车。车组包括一个驾驶员和一个车长，每个车组各一个顶盖，车尾有一个舱门。从顶盖进入载具是一个整轮动作，发动载具也是一个整轮动作。盖文有3格宽4格长。它为乘客提供全掩体。
 
-### UH-60 Black Hawk
+### UH-60 黑鹰
 
-Introduced in the 1980s to replace the aging UH-1, the Black Hawk is the U.S. Army’s primary utility helicopter. The UH-60 is three squares wide and twelve squares long. It provides three-quarters cover to crew and passengers (one-quarter cover to passengers if the cargo doors are open).
+黑鹰直升机于20世纪80年代问世，用于取代陈旧的UH-1休伊直升机。它是美国陆军首选的多功能直升机。UH-60有3格宽12格长。它为乘员和机组提供3/4掩体（货舱门打开则只能提供1/4掩体）。
 
-**Table: Vehicle Weapons**
+**表：载具武器**
 
-|Weapon|Damage|Critical|Damage Type|Range Increment|Rate of Fire|Magazine|Size|Weight|Purchase DC|Restriction|
+|武器|伤害|重击|伤害类型|射程跨度|射击模式|弹仓|尺寸|重量|购买 DC|限制级|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Cannons (require the Exotic Firearms Proficiency \[cannons\] feat)|||||||||||
-|BMP-2 30mm cannon|4d12|20|Ballistic|300 ft.|A|Linked|Huge|\*|\*|\*|
-|M1A2 Abrams tank cannon|10d12|20|Ballistic|400 ft.|Single|1|Huge|\*|\*|\*|
-|M2A2 Bradley 25mm cannon|4d12|20|Ballistic|350 ft.|A|Linked|Huge|\*|\*|\*|
-\* Weight, purchase DC, and restriction rating do not apply. These weapons are part of the vehicles on which they are mounted.
+|加农炮（需要`擅长异种火器 \[加农炮\]` 专长)|||||||||||
+|BMP-2 30mm 加农炮|4d12|20|实弹|300尺|全|弹链|超大型|\*|\*|\*|
+|M1A2 艾布拉姆斯坦克加农炮|10d12|20|实弹|400尺|手动|1|超大型|\*|\*|\*|
+|M2A2 布雷德利 25mm 加农炮|4d12|20|实弹|350尺|全|弹链|超大型|\*|\*|\*|
+\* 重量、购买DC和限制级无效。这些武器是所在载具的一部分。

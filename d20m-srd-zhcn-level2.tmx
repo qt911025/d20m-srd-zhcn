@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx14.dtd">
 <tmx version="1.4">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg># COMBAT</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201111T100945Z" creationid="quentine" creationdate="20201111T100945Z">
+        <seg># 战斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg># CONDITION SUMMARY</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T115433Z" creationid="quentine" creationdate="20190115T115433Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191105T140217Z" creationid="quentine" creationdate="20191105T140217Z">
         <seg># 装备（综述）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg># EQUIPMENT (VEHICLES)</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200614T062326Z" creationid="quentine" creationdate="20200614T062326Z">
+        <seg># 装备（载具）</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +254,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg># Vehicles</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200614T062330Z" creationid="quentine" creationdate="20200614T062330Z">
+        <seg># 载具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg># WEALTH</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181106T132715Z" creationid="QuenTine" creationdate="20181106T132715Z">
@@ -354,6 +378,22 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181104T121952Z" creationid="QuenTine" creationdate="20181104T121952Z">
         <seg>## 运动员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Attack Bonus</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T013937Z" creationid="quentine" creationdate="20201114T013937Z">
+        <seg>## 攻击加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Attack Roll</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T011809Z" creationid="quentine" creationdate="20201114T011809Z">
+        <seg>## 攻击骰</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,6 +526,46 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>## Civilian Aircraft</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T143554Z" creationid="quentine" creationdate="20200803T143554Z">
+        <seg>## 民用航空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Civilian Cars</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T150541Z" creationid="quentine" creationdate="20200803T150541Z">
+        <seg>## 民用汽车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Civilian Motorcycles</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T120353Z" creationid="quentine" creationdate="20201029T120353Z">
+        <seg>## 民用摩托车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Civilian Trucks</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T122730Z" creationid="quentine" creationdate="20201029T122730Z">
+        <seg>## 民用卡车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Civilian Water Vehicles</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T130350Z" creationid="quentine" creationdate="20201029T130350Z">
+        <seg>## 民用船只</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>## Class Bonus</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T115513Z" creationid="quentine" creationdate="20190114T115513Z">
@@ -514,6 +594,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191111T134856Z" creationid="quentine" creationdate="20191111T134856Z">
         <seg>## 衣物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Combat Statistics</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T011124Z" creationid="quentine" creationdate="20201114T011124Z">
+        <seg>## 战斗数据</seg>
       </tuv>
     </tu>
     <tu>
@@ -590,6 +678,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>## Critical Hits</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T112340Z" creationid="quentine" creationdate="20201118T112340Z">
+        <seg>## 重击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>## DAREDEVIL</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190421T094334Z" creationid="quentine" creationdate="20190421T094334Z">
@@ -602,6 +698,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181024T041216Z" creationid="QuenTine" creationdate="20181024T041216Z">
         <seg>## 骰子记法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Damage</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T105116Z" creationid="quentine" creationdate="20201118T105116Z">
+        <seg>## 伤害</seg>
       </tuv>
     </tu>
     <tu>
@@ -642,6 +746,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190923T130411Z" creationid="quentine" creationdate="20190923T130401Z">
         <seg>## 文件解读（智） 需受训</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Defense</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T114934Z" creationid="quentine" creationdate="20201118T114934Z">
+        <seg>## 防御</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,6 +1134,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>## Initiative</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T123023Z" creationid="quentine" creationdate="20201118T123023Z">
+        <seg>## 先攻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>## Injury and Death</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T140818Z" creationid="quentine" creationdate="20190114T140818Z">
@@ -1150,6 +1270,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>## Military Vehicles</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T130732Z" creationid="quentine" creationdate="20201030T130732Z">
+        <seg>## 军用载具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>## Modifier Types and Stacking</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190806T140612Z" creationid="quentine" creationdate="20190806T140612Z">
@@ -1178,6 +1306,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190216T081505Z" creationid="quentine" creationdate="20190216T081505Z">
         <seg>## 跨职角色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Multiplying Damage</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T113506Z" creationid="quentine" creationdate="20201118T110557Z">
+        <seg>## 伤害倍增</seg>
       </tuv>
     </tu>
     <tu>
@@ -1258,6 +1394,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T123936Z" creationid="quentine" creationdate="20190114T123936Z">
         <seg>## 其他调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Other Vehicles</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T124017Z" creationid="quentine" creationdate="20201030T124017Z">
+        <seg>## 其他载具</seg>
       </tuv>
     </tu>
     <tu>
@@ -1446,6 +1590,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>## Saving Throws</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T122529Z" creationid="quentine" creationdate="20201118T122529Z">
+        <seg>## 豁免</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>## Search (Int)</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T125349Z" creationid="quentine" creationdate="20191027T125349Z">
@@ -1554,6 +1706,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T134048Z" creationid="quentine" creationdate="20191027T134048Z">
         <seg>## 口头语言（无）需受训</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Speed</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T121359Z" creationid="quentine" creationdate="20201118T121359Z">
+        <seg>## 速度</seg>
       </tuv>
     </tu>
     <tu>
@@ -1926,6 +2086,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### AM General Hummer</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T123445Z" creationid="quentine" creationdate="20201029T123429Z">
+        <seg>### AMG悍马</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Ability</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190116T114328Z" creationid="quentine" creationdate="20190116T114328Z">
@@ -1954,6 +2122,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190116T114609Z" creationid="quentine" creationdate="20190116T114609Z">
         <seg>### 行动点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Acura 3.2 TL</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200813T150305Z" creationid="quentine" creationdate="20200813T150305Z">
+        <seg>### 讴歌 3.2 TL</seg>
       </tuv>
     </tu>
     <tu>
@@ -2078,6 +2254,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Armored Truck</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T124449Z" creationid="quentine" creationdate="20201030T124449Z">
+        <seg>### 武装卡车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Aston-Martin Vanquish</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200813T150416Z" creationid="quentine" creationdate="20200813T150416Z">
+        <seg>### 阿斯顿·马丁-万奎仕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Athletic</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190730T132005Z" creationid="quentine" creationdate="20190730T132005Z">
@@ -2110,6 +2302,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### BMW M3</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200815T033448Z" creationid="quentine" creationdate="20200815T033448Z">
+        <seg>### 宝马 M3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Backpack</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200116T083658Z" creationid="quentine" creationdate="20200116T083658Z">
@@ -2130,6 +2330,30 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190216T082645Z" creationid="quentine" creationdate="20190216T082645Z">
         <seg>### 基础攻击加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Bayliner 1802 Capri</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T130443Z" creationid="quentine" creationdate="20201029T130443Z">
+        <seg>### 贝琳娜 1802 卡普里</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Bell Jet Ranger</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T144101Z" creationid="quentine" creationdate="20200803T144101Z">
+        <seg>### 贝尔206A喷气突击队员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Bell Model 212</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T144415Z" creationid="quentine" creationdate="20200803T144415Z">
+        <seg>### 贝尔212型</seg>
       </tuv>
     </tu>
     <tu>
@@ -2270,6 +2494,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Cessna 172 Skyhawk</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T145437Z" creationid="quentine" creationdate="20200803T145437Z">
+        <seg>###  塞斯纳172天鹰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Chemical Kit</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200115T074636Z" creationid="quentine" creationdate="20200115T074636Z">
@@ -2282,6 +2514,38 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200116T090049Z" creationid="quentine" creationdate="20200116T090049Z">
         <seg>### 化学荧光棒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Chevrolet Cavalier</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200815T033645Z" creationid="quentine" creationdate="20200815T033645Z">
+        <seg>### 雪佛兰科沃兹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Chevrolet Corvette</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200815T033835Z" creationid="quentine" creationdate="20200815T033835Z">
+        <seg>### 雪佛兰科尔维特</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Chevrolet Suburban</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T125222Z" creationid="quentine" creationdate="20201029T125222Z">
+        <seg>### 雪佛兰萨博班</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Class Bonus</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T120004Z" creationid="quentine" creationdate="20201118T115616Z">
+        <seg>### 职业加值</seg>
       </tuv>
     </tu>
     <tu>
@@ -2550,6 +2814,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Dexterity Modifier</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T021927Z" creationid="quentine" creationdate="20201114T021927Z">
+        <seg>### 敏捷调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Die rolls are expressed in the format:</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181024T041618Z" creationid="QuenTine" creationdate="20181024T041618Z">
@@ -2590,6 +2862,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Dodge Caravan</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T125416Z" creationid="quentine" creationdate="20201029T125416Z">
+        <seg>### 道奇凯领</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Dodge Neon</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T114608Z" creationid="quentine" creationdate="20201029T114608Z">
+        <seg>### 道奇霓虹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Double Tap</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190731T123449Z" creationid="quentine" creationdate="20190731T123449Z">
@@ -2602,6 +2890,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190731T125101Z" creationid="quentine" creationdate="20190731T125101Z">
         <seg>### 驾驶攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Ducati 998R</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T120743Z" creationid="quentine" creationdate="20201029T120743Z">
+        <seg>### 杜卡迪 998R</seg>
       </tuv>
     </tu>
     <tu>
@@ -2670,6 +2966,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Equipment Bonus</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T115937Z" creationid="quentine" creationdate="20201118T115937Z">
+        <seg>### 装备加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Evidence Kits</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200115T091203Z" creationid="quentine" creationdate="20200115T091203Z">
@@ -2698,6 +3002,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200424T130810Z" creationid="quentine" creationdate="20200424T130810Z">
         <seg>### 爆炸物与溅射武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Fairline Targa 30</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T122103Z" creationid="quentine" creationdate="20201030T122103Z">
+        <seg>### 菲尔兰塔尔加 30</seg>
       </tuv>
     </tu>
     <tu>
@@ -2770,6 +3082,30 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190731T133822Z" creationid="quentine" creationdate="20190731T133822Z">
         <seg>### 逼停</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Ford Crown Victoria</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T114751Z" creationid="quentine" creationdate="20201029T114751Z">
+        <seg>### 福特维多利亚皇冠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Ford Escape XLT</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T125926Z" creationid="quentine" creationdate="20201029T125926Z">
+        <seg>### 福特锐际 XLT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Ford F-150 XL</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T130106Z" creationid="quentine" creationdate="20201029T130106Z">
+        <seg>### 福特 F-150 XL</seg>
       </tuv>
     </tu>
     <tu>
@@ -2862,6 +3198,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Harley-Davidson FLSTF Fat Boy</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T121216Z" creationid="quentine" creationdate="20201029T121216Z">
+        <seg>### 哈雷戴维森 FLSTF 胖子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Healing</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T113045Z" creationid="quentine" creationdate="20190115T113045Z">
@@ -2906,6 +3250,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T094335Z" creationid="quentine" creationdate="20200117T094335Z">
         <seg>### 装具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Honda TRX400FW</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T124939Z" creationid="quentine" creationdate="20201030T124939Z">
+        <seg>### 本田 TRX400FW</seg>
       </tuv>
     </tu>
     <tu>
@@ -3070,10 +3422,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Jaguar XJ Sedan</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T115454Z" creationid="quentine" creationdate="20201029T115454Z">
+        <seg>### 捷豹XJ轿车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Knockout Punch</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190802T150851Z" creationid="quentine" creationdate="20190802T150851Z">
         <seg>### 终结之拳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Lamborghini Diablo</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T115532Z" creationid="quentine" creationdate="20201029T115532Z">
+        <seg>### 兰博基尼迪亚波罗</seg>
       </tuv>
     </tu>
     <tu>
@@ -3094,6 +3462,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Learjet Model 45</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T145808Z" creationid="quentine" creationdate="20200803T145808Z">
+        <seg>### 里尔喷气45型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Level</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190216T082157Z" creationid="quentine" creationdate="20190216T082157Z">
@@ -3106,6 +3482,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190803T134035Z" creationid="quentine" creationdate="20190803T134035Z">
         <seg>### 闪电反射</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Limousine</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T125027Z" creationid="quentine" creationdate="20201030T125027Z">
+        <seg>### 豪华轿车</seg>
       </tuv>
     </tu>
     <tu>
@@ -3138,6 +3522,30 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190803T134109Z" creationid="quentine" creationdate="20190803T134109Z">
         <seg>### 低调</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### M113A1 Gavin</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T133108Z" creationid="quentine" creationdate="20201030T133108Z">
+        <seg>### M113A1 盖文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### M1A2 Abrams</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T132035Z" creationid="quentine" creationdate="20201030T132035Z">
+        <seg>### M1A2 艾布拉姆斯</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### M2A2 Bradley</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T132758Z" creationid="quentine" creationdate="20201030T132758Z">
+        <seg>### M2A2 布雷德利</seg>
       </tuv>
     </tu>
     <tu>
@@ -3214,6 +3622,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Mercedes E55 AMG</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T115942Z" creationid="quentine" creationdate="20201029T115942Z">
+        <seg>### 梅赛德斯 E55 AMG</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Mesh Vest</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200116T095100Z" creationid="quentine" creationdate="20200116T095100Z">
@@ -3238,6 +3654,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Minimum Weapon Damage</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T105617Z" creationid="quentine" creationdate="20201118T105617Z">
+        <seg>### 最低武器伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Mobility</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190803T134355Z" creationid="quentine" creationdate="20190803T134355Z">
@@ -3254,10 +3678,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Moving Truck</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T130019Z" creationid="quentine" creationdate="20201030T130019Z">
+        <seg>### 大卡车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Multipurpose Tool</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200116T022542Z" creationid="quentine" creationdate="20200116T021637Z">
         <seg>### 多功能工具钳</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### NABI Model 40LFW</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T130511Z" creationid="quentine" creationdate="20201030T130511Z">
+        <seg>### 北美客车 40LFW型</seg>
       </tuv>
     </tu>
     <tu>
@@ -3290,6 +3730,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T150821Z" creationid="quentine" creationdate="20190114T150821Z">
         <seg>### 非致命伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Other Modifiers</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T120638Z" creationid="quentine" creationdate="20201118T120638Z">
+        <seg>### 其他调整值</seg>
       </tuv>
     </tu>
     <tu>
@@ -3446,6 +3894,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Range Penalty</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T022145Z" creationid="quentine" creationdate="20201114T022145Z">
+        <seg>### 距离减值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Ranged Weapons</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T114214Z" creationid="quentine" creationdate="20200410T114214Z">
@@ -3510,6 +3966,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Saving Throw Types</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T122838Z" creationid="quentine" creationdate="20201118T122838Z">
+        <seg>### 豁免骰类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Saving Throws</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190216T083924Z" creationid="quentine" creationdate="20190216T083924Z">
@@ -3534,6 +3998,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Sea-Doo XP</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T123433Z" creationid="quentine" creationdate="20201030T123433Z">
+        <seg>### 喜度 XP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Search-and-Rescue Kit</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200116T023240Z" creationid="quentine" creationdate="20200116T023240Z">
@@ -3554,6 +4026,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200520T144519Z" creationid="quentine" creationdate="20190803T143101Z">
         <seg>### 擅长简单武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Size Modifier</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T014316Z" creationid="quentine" creationdate="20201114T014316Z">
+        <seg>### 体型调整值</seg>
       </tuv>
     </tu>
     <tu>
@@ -3674,6 +4154,22 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190804T123916Z" creationid="quentine" creationdate="20190804T123916Z">
         <seg>### 街头战斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Strength Bonus</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T105702Z" creationid="quentine" creationdate="20201118T105702Z">
+        <seg>### 力量加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Strength Modifier</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T014156Z" creationid="quentine" creationdate="20201114T014156Z">
+        <seg>### 力量调整值</seg>
       </tuv>
     </tu>
     <tu>
@@ -3862,10 +4358,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Touch Attacks</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T120759Z" creationid="quentine" creationdate="20201118T120759Z">
+        <seg>### 接触攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Toughness</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190804T135100Z" creationid="quentine" creationdate="20190804T135100Z">
         <seg>### 健壮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Toyota Tacoma Xtracab</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T130240Z" creationid="quentine" creationdate="20201029T130240Z">
+        <seg>### 丰田塔科马 Xtracab</seg>
       </tuv>
     </tu>
     <tu>
@@ -3910,6 +4422,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### UH-60 Black Hawk</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T133615Z" creationid="quentine" creationdate="20201030T133615Z">
+        <seg>### UH-60 黑鹰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Unbalance Opponent</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190804T143330Z" creationid="quentine" creationdate="20190804T143330Z">
@@ -3930,6 +4450,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190804T144505Z" creationid="quentine" creationdate="20190804T144505Z">
         <seg>### 载具专家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Volkswagen Jetta</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T120141Z" creationid="quentine" creationdate="20201029T120141Z">
+        <seg>### 大众捷达</seg>
       </tuv>
     </tu>
     <tu>
@@ -3978,6 +4506,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190804T150920Z" creationid="quentine" creationdate="20190804T150920Z">
         <seg>### 横财</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Yamaha YZ250F</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T121629Z" creationid="quentine" creationdate="20201029T121629Z">
+        <seg>### 雅马哈 YZ250F</seg>
       </tuv>
     </tu>
     <tu>
@@ -6256,6 +6792,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>(It is possible for some weapons to have higher multipliers, doing more damage on a critical hit.) Some weapons have expanded threat ranges, making a critical hit more likely.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T113832Z" creationid="quentine" creationdate="20201118T113832Z">
+        <seg>（有的武器可能有更高的倍增值，重击造成更多伤害。）有的武器有更宽的重击威胁区间，造成重击的可能性更高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>(Moving twice the character’s speed in a round requires two checks, one for each move action.)</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190807T123218Z" creationid="quentine" creationdate="20190807T123218Z">
@@ -6272,6 +6816,14 @@
         <seg>（同种类的一般生物的智力不如魔宠。）
 &gt;
 &gt;**警觉（Ex）：**魔宠在场时，主人的感觉更敏锐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(Often, when damage is inevitable, a character gets to make a Reflex save to take only half damage.) Apply the character’s Dexterity modifier to his or her Reflex saving throws.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T122959Z" creationid="quentine" creationdate="20201118T122959Z">
+        <seg>（当伤害不可避免时，角色可以通过成功的反射豁免只承受一半伤害。）计算反射豁免骰需要加上角色的敏捷调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6412,6 +6964,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>(The driver’s position cannot be reached from the other positions, which are all in the turret.) It takes a full-round action to enter a tank and another full-round action to start it moving.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T132449Z" creationid="quentine" creationdate="20201030T132449Z">
+        <seg>（驾驶员的位置不与炮塔上的其他乘员位相通。）进入坦克是一个整轮动作，发动也会死一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>(The hero still loses his or her Dexterity bonus to Defense if the hero is immobilized.)</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190117T123048Z" creationid="quentine" creationdate="20190117T123048Z">
@@ -6424,6 +6984,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190805T125745Z" creationid="quentine" creationdate="20190216T084716Z">
         <seg>（职业技能级数上限=3+角色等级）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(The second roll just needs to hit to confirm a critical hit; the character doesn’t need to roll a second 20.) If the second roll is a miss, then the attack just deals the damage of a regular hit.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T113405Z" creationid="quentine" creationdate="20201118T113405Z">
+        <seg>（第二次掷骰是判定是否为重击的，角色不需要再掷出20）如果第二次掷骰结果为失手，则该攻击只是一次普通命中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8104,6 +8672,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>**Cargo Capacity:** The amount of cargo the vehicle is designed to carry.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200614T063603Z" creationid="quentine" creationdate="20200614T063603Z">
+        <seg>**货容量：** 载具核载的货物量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>**Catching Yourself When Falling:** It’s practically impossible for a character to catch him or herself on a wall while falling.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190808T142851Z" creationid="quentine" creationdate="20190808T142851Z">
@@ -8640,6 +9216,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>**Crew:** The standard number of crew.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200614T062836Z" creationid="quentine" creationdate="20200614T062836Z">
+        <seg>**车组位：** 标配的车组成员数量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>**Critical:** The threat range for a critical hit.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T115450Z" creationid="quentine" creationdate="20200410T115450Z">
@@ -8796,6 +9380,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190116T120012Z" creationid="quentine" creationdate="20190116T120012Z">
         <seg>**防御加值：** 角色的防御加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Defense:** The vehicle’s Defense.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200701T114424Z" creationid="quentine" creationdate="20200701T114424Z">
+        <seg>**防御：** 载具的防御。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9264,6 +9856,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>**Hardness:** The vehicle’s hardness.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200701T114435Z" creationid="quentine" creationdate="20200701T114435Z">
+        <seg>**硬度：** 载具的硬度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>**Healing Knack:** The hero has a knack for the healing arts.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190202T043506Z" creationid="quentine" creationdate="20190202T042622Z">
@@ -9364,6 +9964,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190623T124847Z" creationid="quentine" creationdate="20190623T124847Z">
         <seg>**生命值：** 法师的总生命值的一半，向下取整。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Hit Points:** The vehicle’s full normal hit points.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200701T114541Z" creationid="quentine" creationdate="20200701T114541Z">
+        <seg>**生命值：** 载具正常情况下的最大生命值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9500,6 +10108,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T142255Z" creationid="quentine" creationdate="20190115T142255Z">
         <seg>**初始伤害：** 潜伏期过后病患受到的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Initiative:** The modifier added to the driver’s or pilot’s initiative check when operating the vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200701T113503Z" creationid="quentine" creationdate="20200701T113503Z">
+        <seg>**先攻：** 操作载具时，驾驶员的先攻检定会获得此调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9700,6 +10316,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190808T142316Z" creationid="quentine" creationdate="20190808T142316Z">
         <seg>**制造把手点和脚踏点：** 角色可以将岩钉打入墙中，制造把手点和脚踏点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Maneuver:** The modifier added to any Drive or Pilot checks attempted with the vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200701T113603Z" creationid="quentine" creationdate="20200701T113603Z">
+        <seg>**机动性：** 使用此载具时的驾驶或驾机检定会加上此调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9988,6 +10612,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190117T130331Z" creationid="quentine" creationdate="20190117T130331Z">
         <seg>**乘势攻击：** 敏捷型英雄可以使用1点行动点来使用这一天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Passengers:** The number of passengers (in addition to the crew) the vehicle is designed to carry.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200614T063157Z" creationid="quentine" creationdate="20200614T063157Z">
+        <seg>**乘员位：** 载具核载的（除车组外的）乘员数量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10496,6 +11128,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>**Purchase DC:** This is the purchase DC for a Wealth check to acquire the vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200701T115023Z" creationid="quentine" creationdate="20200701T115023Z">
+        <seg>**购买 DC:** 获得此载具所需财富检定的购买DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>**Purchase DC:** This is the purchase DC for a Wealth check to acquire the weapon.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T134326Z" creationid="quentine" creationdate="20200410T134326Z">
@@ -10680,6 +11320,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>**Restriction:** The restriction rating for the vehicle, if any, and the appropriate black market purchase DC modifier.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200701T115050Z" creationid="quentine" creationdate="20200701T115050Z">
+        <seg>**限制级：** 载具的管制等级，如果有，还会列出相应的黑市购买DC调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>**Restriction:** The restriction rating for the weapon, if any, and the appropriate black market purchase DC modifier.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T134409Z" creationid="quentine" creationdate="20200410T134409Z">
@@ -10843,8 +11491,8 @@
       <tuv xml:lang="en-US">
         <seg>**Size:** Size categories for weapons and other objects are defined differently from the size categories for creatures.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T133459Z" creationid="quentine" creationdate="20200410T133230Z">
-        <seg>**尺寸：** 武器与其他物品的尺寸范围定义与生物的体型定义不同。</seg>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T020145Z" creationid="quentine" creationdate="20200410T133230Z">
+        <seg>**尺寸：** 武器及其他物品的尺寸与生物的体型不是一个概念。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10853,6 +11501,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191105T141441Z" creationid="quentine" creationdate="20191105T141441Z">
         <seg>**尺寸：** 装备的尺寸决定隐蔽物品的难度，也决定了该用单手还是双手使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Size:** Vehicle size categories are defined differently from the size categories for weapons and other objects.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T015909Z" creationid="quentine" creationdate="20200701T114943Z">
+        <seg>**体型：** 载具的体型与武器及其他物品的尺寸不是一个概念。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11889,10 +12545,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>**Table: Size Modifiers**</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T020247Z" creationid="quentine" creationdate="20201114T020247Z">
+        <seg>**表：体型调整值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>**Table: Skill Points per Level**</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190805T134146Z" creationid="quentine" creationdate="20190805T134146Z">
         <seg>**表：每级技能点**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Table: Vehicle Weapons**</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T134014Z" creationid="quentine" creationdate="20201030T134014Z">
+        <seg>**表：载具武器**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Table: Vehicles**</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200701T115112Z" creationid="quentine" creationdate="20200701T115112Z">
+        <seg>**表：载具**</seg>
       </tuv>
     </tu>
     <tu>
@@ -12325,6 +13005,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190703T105053Z" creationid="quentine" creationdate="20190703T105053Z">
         <seg>**每日驱散次数：**侍僧每天可以尝试驱散的次数为3+魅力调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Top Speed:** The maximum number of squares the vehicle can cover in 1 round at character scale (with the number of squares at chase scale in parentheses).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200701T114331Z" creationid="quentine" creationdate="20200701T113958Z">
+        <seg>**极速：** 角色尺度上，载具每轮最多能移动的方格数（括号内的数为追逐尺度上）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12857,6 +13545,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>1.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201111T102257Z" creationid="quentine" creationdate="20201111T102257Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>10 + Dexterity modifier + class bonus + equipment bonus + size modifier</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T114245Z" creationid="quentine" creationdate="20190114T114245Z">
@@ -12929,10 +13625,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>2.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201111T102503Z" creationid="quentine" creationdate="20201111T102503Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>2\.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181022T110741Z" creationid="QuenTine" creationdate="20181022T110741Z">
         <seg>2、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>3.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T011002Z" creationid="quentine" creationdate="20201114T011002Z">
+        <seg>3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12953,10 +13665,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>4.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T011006Z" creationid="quentine" creationdate="20201114T011006Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>4\.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181022T111921Z" creationid="QuenTine" creationdate="20181022T111921Z">
         <seg>4、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>5.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T011009Z" creationid="quentine" creationdate="20201114T011009Z">
+        <seg>5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13327,6 +14055,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A 20 is always a successful hit, but deals no extra damage against these targets.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T114928Z" creationid="quentine" creationdate="20201118T114928Z">
+        <seg>投20仍为必然命中，但无法对这些目标施加倍增的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A Battle Mind can manifest a certain number of powers per day based on her available power points.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190621T131601Z" creationid="quentine" creationdate="20190621T131601Z">
@@ -13355,6 +14091,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190421T133530Z" creationid="quentine" creationdate="20190421T133530Z">
         <seg>5级时，保镖可以不按直线冲锋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A Cessna 172 is seven squares wide (including wings; fuselage is one square wide) and six squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T150257Z" creationid="quentine" creationdate="20200803T145746Z">
+        <seg>塞斯纳172有7格宽（包括机翼；机身1格宽）6格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13471,10 +14215,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A Hummer is two squares wide and four squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T125204Z" creationid="quentine" creationdate="20201029T125204Z">
+        <seg>悍马有2格宽4格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A Large weapon requires two hands.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T133754Z" creationid="quentine" creationdate="20200410T133754Z">
         <seg>大型的武器必须双手操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A Learjet is ten squares wide (including wings; fuselage is two squares wide) and twelve squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T150308Z" creationid="quentine" creationdate="20200803T150252Z">
+        <seg>里尔喷气机有10格宽（包括机翼；机身2格宽）12格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13611,6 +14371,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190201T150144Z" creationid="quentine" creationdate="20190201T150144Z">
         <seg>这个检定不能取10取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A Soviet-era armored personnel carrier, the BMP is used by the Russian army and more than twenty ex-Soviet states or clients.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T131447Z" creationid="quentine" creationdate="20201030T131447Z">
+        <seg>BMP是前苏联时代的装甲输送车，为俄罗斯军队和超过20个前苏联国家和军售客户使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14639,6 +15407,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A character normally moves as a move action, leaving an attack action to attack.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T121626Z" creationid="quentine" creationdate="20201118T121626Z">
+        <seg>角色通常以一个移动动作移动，剩下一个攻击动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A character not properly equipped to counteract the heat or cold must attempt a Fortitude saving throw each hour (DC 15, +1 for each previous check).</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T131804Z" creationid="quentine" creationdate="20190115T131804Z">
@@ -15183,6 +15959,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A character’s Defense is equal to:</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T115407Z" creationid="quentine" creationdate="20201118T115407Z">
+        <seg>角色的防御值等于：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character’s Defense represents how hard it is for opponents to land a solid, damaging blow on the character.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T115306Z" creationid="quentine" creationdate="20201118T115153Z">
+        <seg>角色的防御值代表了对方对自己成功施加结实有力的一次打击的难度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A character’s Intelligence modifier is applied to determine the total skill points gained each level (but always at least 1 point per level, even for a character with an Intelligence penalty).</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190116T115101Z" creationid="quentine" creationdate="20190116T115101Z">
@@ -15271,6 +16063,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A character’s attack bonus with a melee weapon is:</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T014008Z" creationid="quentine" creationdate="20201114T014008Z">
+        <seg>角色使用近战武器的攻击加值为：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A character’s carrying capacity depends directly on the character’s Strength score, as shown on Table: Carrying Capacity.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191105T130027Z" creationid="quentine" creationdate="20191105T130027Z">
@@ -15283,6 +16083,22 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T115706Z" creationid="quentine" creationdate="20190114T115706Z">
         <seg>角色的职业和等级提供了一个固有的防御加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character’s class and level grant the character an innate bonus to Defense.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T115721Z" creationid="quentine" creationdate="20201118T115721Z">
+        <seg>角色的职业和等级给角色提供了一个固有的防御加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character’s hit points tell how much punishment he or she can take before dropping.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T121001Z" creationid="quentine" creationdate="20201118T121001Z">
+        <seg>角色的生命值表示角色在倒下前还能承受多少伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15311,6 +16127,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A character’s speed tells how far he or she can move in a move action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T121428Z" creationid="quentine" creationdate="20201118T121428Z">
+        <seg>角色的速度表示角色能在一个移动动作中移动多远。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A charging or running creature must immediately stop if it steps on a caltrop.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200115T074050Z" creationid="quentine" creationdate="20200115T074050Z">
@@ -15323,6 +16147,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200420T142205Z" creationid="quentine" creationdate="20200420T142205Z">
         <seg>辣椒喷雾器是一种化学刺激物，可以使目标短暂失明，一罐的用量只够使用一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A classic dirt bike, this is very similar to the motorcycle used by United States Army cavalry scouts.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T122707Z" creationid="quentine" creationdate="20201029T122707Z">
+        <seg>这是一款经典的越野摩托，与美军机动侦察兵使用的摩托相似。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15467,6 +16299,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191031T144710Z" creationid="quentine" creationdate="20191031T144644Z">
         <seg>有灵敏嗅觉的生物可以追踪气味，这需要一个感知检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A critical hit multiplies the character’s damage.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T113549Z" creationid="quentine" creationdate="20201118T113549Z">
+        <seg>重击将使角色的伤害倍增。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15643,6 +16483,22 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T071057Z" creationid="quentine" creationdate="20191027T071057Z">
         <seg>少数列举在此，按其所属语族排序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few examples are provided here from the variety of airgoing vehicles that might be available to characters.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T144044Z" creationid="quentine" creationdate="20200803T144044Z">
+        <seg>以下是众多角色可用的飞行载具的几个典型代表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A few types of vehicles don’t fit neatly into the categories covered above.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T124138Z" creationid="quentine" creationdate="20201030T124138Z">
+        <seg>这些是无法归类到以上范畴的载具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15903,6 +16759,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A limousine is a big, comfortable car.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T125059Z" creationid="quentine" creationdate="20201030T125059Z">
+        <seg>豪华轿车就是宽敞而舒适的小汽车。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A limousine is two squares wide and five squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T125910Z" creationid="quentine" creationdate="20201030T125910Z">
+        <seg>豪华轿车有2格宽5格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A lineman’s buttset is a common tool for telephone repair personnel.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191202T133726Z" creationid="quentine" creationdate="20191202T133726Z">
@@ -16031,6 +16903,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A moving truck is two squares wide and five squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T130258Z" creationid="quentine" creationdate="20201030T130258Z">
+        <seg>大卡车有2格宽5格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A multiclass character increases one ability score by +1 every four character levels, regardless of individual class level.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191030T122247Z" creationid="quentine" creationdate="20190216T091219Z">
@@ -16071,10 +16951,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A natural 1 (the d20 comes up 1) on the attack roll is always a miss.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T013058Z" creationid="quentine" creationdate="20201114T013058Z">
+        <seg>投1（d20结果为1）在攻击骰中直接判定为失手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A natural 20 (the d20 comes up 20) is always a hit.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T013222Z" creationid="quentine" creationdate="20201114T013222Z">
+        <seg>投20（d20结果为20）直接判定命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A natural 20 (the d20 comes up 20) is always a success.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T130347Z" creationid="quentine" creationdate="20190114T130339Z">
         <seg>投20（d20结果为20）直接判定成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A natural 20 is also always a threat—a possible critical hit.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T013503Z" creationid="quentine" creationdate="20201114T013503Z">
+        <seg>投出20点`自然骰`一定会造成威胁——可以打出重击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16147,6 +17051,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T125052Z" creationid="quentine" creationdate="20200117T124934Z">
         <seg>邻里皆处上流的黄金地段或市中心，购买DC+2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A partition divides the front seat from the rest of the vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T125822Z" creationid="quentine" creationdate="20201030T125822Z">
+        <seg>前座和其他部分有一个隔板。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16295,6 +17207,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A saving throw is a 1d20 roll plus a bonus based on the character’s class and level (the character’s base save bonus) and an ability modifier.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T122819Z" creationid="quentine" creationdate="20201118T122819Z">
+        <seg>豁免骰是1d20加上基于角色职业与等级的加值（角色的基础豁免加值）再加上属性调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A scope is a sighting device that makes it easier to hit targets at long range.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T100011Z" creationid="quentine" creationdate="20200117T100011Z">
@@ -16411,6 +17331,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190916T141941Z" creationid="quentine" creationdate="20190916T135913Z">
         <seg>`站点`则是一个保存了文件、数据、或者应用程序的虚拟地点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A six-speed manual transmission with overdrive is standard.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200813T151042Z" creationid="quentine" creationdate="20200813T151042Z">
+        <seg>标配6速的带有超速档的手动变速杆。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16761,6 +17689,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A thrown weapon has a maximum range of five range increments.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T105016Z" creationid="quentine" creationdate="20201118T105016Z">
+        <seg>投掷武器最大射程为射程跨度的5倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A travel case is a reinforced metal box with foam inserts.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191111T131348Z" creationid="quentine" creationdate="20191111T131348Z">
@@ -16781,6 +17717,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190703T110712Z" creationid="quentine" creationdate="20190703T110712Z">
         <seg>它们会持续逃跑10轮（1分钟）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A two-door family coupe, the Cavalier is two squares wide and four squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200815T033822Z" creationid="quentine" creationdate="20200815T033722Z">
+        <seg>科沃兹是家用双门轿车，2格宽4格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17361,6 +18305,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>All aircraft, from one-seaters to jumbo jets, are controlled by the use of the Pilot skill.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T143843Z" creationid="quentine" creationdate="20200803T143843Z">
+        <seg>从单人飞机到巨型喷气机，所有的飞行器的操控都依赖于`驾机`技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All combatants are now ready to begin their first regular round.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T010911Z" creationid="quentine" creationdate="20201114T010911Z">
+        <seg>现在所有的作战者都将开始进行第一个正常轮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>All computers come with dial-up modems, which allow connection to the Internet but without the speed of broadband or the flexibility of cellular.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191202T121911Z" creationid="quentine" creationdate="20191202T121708Z">
@@ -17541,6 +18501,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190806T143104Z" creationid="quentine" creationdate="20190806T143104Z">
         <seg>所有减值完全叠加，不管学名是什么。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All ranged weapons and thrown weapons have a range increment (see Table: Ranged Weapons and Table: Melee Weapons).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T022354Z" creationid="quentine" creationdate="20201114T022354Z">
+        <seg>所有远程武器与投掷武器都有`射程跨度`（见表：远程武器与表：近战武器）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18041,6 +19009,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>An attack roll represents a character’s attempts to strike an opponent on the character’s turn in a round.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T012231Z" creationid="quentine" creationdate="20201114T012047Z">
+        <seg>攻击骰代表角色在自己的一个回合中试图攻击对手的行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>An attacker can attempt a coup de grace against a helpless character.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T123656Z" creationid="quentine" creationdate="20190115T123656Z">
@@ -18361,6 +19337,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Another option is to run all out (a full-round action).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T122330Z" creationid="quentine" creationdate="20201118T122330Z">
+        <seg>此外还可以`全力奔跑`（一个整轮动作）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Antiques, modern art, photography, and performance art forms such as music and dance, among others.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191022T134925Z" creationid="quentine" creationdate="20191022T134925Z">
@@ -18372,6 +19356,14 @@
         <seg>Any attack at less than the given range increment is not penalized for range.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200513T150045Z" creationid="quentine" creationdate="20200513T150045Z">
+        <seg>距离低于一跨度的任何攻击都不会因射程受到惩罚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Any attack from a distance of less than one range increment is not penalized for range.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T022456Z" creationid="quentine" creationdate="20201114T022456Z">
         <seg>距离低于一跨度的任何攻击都不会因射程受到惩罚。</seg>
       </tuv>
     </tu>
@@ -18545,6 +19537,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Any situation that denies a character his or her Dexterity bonus also denies his or her dodge bonuses.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T120747Z" creationid="quentine" creationdate="20201118T120747Z">
+        <seg>任何敏捷调整值无效的情况，闪避加值同样无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Any situation that denies the character his or her Dexterity bonus also denies the character dodge bonuses.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T124319Z" creationid="quentine" creationdate="20190114T124309Z">
@@ -18637,6 +19637,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181103T140352Z" creationid="QuenTine" creationdate="20181103T140352Z">
         <seg>任何不具备感知的存在都不具备魅力属性，反之亦然。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Apply a character’s Constitution modifier to his or her Fortitude saving throws.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T122922Z" creationid="quentine" creationdate="20201118T122922Z">
+        <seg>计算强韧豁免骰需要加上角色的体质调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18761,6 +19769,38 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Army, this tracked armored personnel carrier is now in use by more than fifty countries.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T133424Z" creationid="quentine" creationdate="20201030T133424Z">
+        <seg>陆军的中坚力量。如今超过50个国家都在使用这种履带式装甲输送车。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Army’s main battle tank, probably the most advanced and powerful tank in the world.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T132125Z" creationid="quentine" creationdate="20201030T132125Z">
+        <seg>陆军的主战坦克，可能是全世界最先进最强大的坦克。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Army’s primary utility helicopter.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T133907Z" creationid="quentine" creationdate="20201030T133907Z">
+        <seg>陆军首选的多功能直升机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Army’s principal armored personnel carrier.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T132810Z" creationid="quentine" creationdate="20201030T132810Z">
+        <seg>陆军的装甲运输车。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Arrows come in quivers of 12 and are used with the compound bow and other types of archery weapons.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200424T120446Z" creationid="quentine" creationdate="20200424T120141Z">
@@ -18773,6 +19813,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181103T140805Z" creationid="QuenTine" creationdate="20181103T140805Z">
         <seg>当角色年龄变化时，部分属性值会提高而另一些则可能会降低。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a civilian aircraft, it is a sturdy, reliable helicopter used for passenger and cargo work all over the world.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T145227Z" creationid="quentine" creationdate="20200803T145214Z">
+        <seg>作为一款民用直升机，它结实耐用、客货两用的特点深受世界喜爱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18829,6 +19877,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181104T074106Z">
         <seg>所以，具备选择阵营能力的角色至少需要3点智力及感知。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As a rule of thumb, one additional passenger can be carried for each 250 pounds of unused cargo capacity.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200701T113359Z" creationid="quentine" creationdate="20200701T113359Z">
+        <seg>一般来说，每250磅货容量能搭载一个乘客。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20209,6 +21265,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Base attack bonus + Dexterity modifier + range penalty + size modifier</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T014144Z" creationid="quentine" creationdate="20201114T014144Z">
+        <seg>基础攻击加值 + 敏捷调整值 + 体型调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Base attack bonus + Strength modifier + size modifier</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T014101Z" creationid="quentine" creationdate="20201114T014101Z">
+        <seg>基础攻击加值 + 力量调整值 + 体型调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Base save bonus + ability modifier</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T130443Z" creationid="quentine" creationdate="20190114T130424Z">
@@ -20445,6 +21517,22 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190808T133613Z" creationid="quentine" creationdate="20190808T133310Z">
         <seg>肢体语言和神态并不是交流的重心，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bonus damage represented as extra dice is an exception.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T112103Z" creationid="quentine" creationdate="20201118T111504Z">
+        <seg>以额外骰表示的额外伤害不可倍增。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Bonus damage represented as extra dice is not multiplied when a character scores a critical hit.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T114736Z" creationid="quentine" creationdate="20201118T114736Z">
+        <seg>造成重击时，以额外骰表示的额外伤害不可倍增。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20709,6 +21797,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Characters apply their Dexterity modifier to Defense.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T115535Z" creationid="quentine" creationdate="20201118T115535Z">
+        <seg>角色的敏捷调整值将应用于防御值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Characters bound with duct tape must make a Strength or Escape Artist check (DC 20) to free themselves.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200115T085905Z" creationid="quentine" creationdate="20200115T085905Z">
@@ -20953,6 +22049,46 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191021T133536Z" creationid="quentine" creationdate="20191021T133536Z">
         <seg>收集证据需要取证工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Com-bat usually runs in the following way.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201111T102124Z" creationid="quentine" creationdate="20201111T102124Z">
+        <seg>战斗按照以下顺序进行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Combat is played out in rounds, and in each round everybody acts in turn in a regular cycle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201111T102059Z" creationid="quentine" creationdate="20201111T102059Z">
+        <seg>战斗是循环的，每个人都在一个正常轮组成的循环中轮流行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Combatants act in initiative order.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T010944Z" creationid="quentine" creationdate="20201114T010944Z">
+        <seg>作战者按先攻顺序行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Combatants who have not yet rolled initiative do so.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T010822Z" creationid="quentine" creationdate="20201114T010822Z">
+        <seg>还没有投过先攻的作战者投先攻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Combatants who were unaware don’t get to act in the surprise round.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T010701Z" creationid="quentine" creationdate="20201114T010701Z">
+        <seg>那些没觉察到敌人的作战者在突袭轮中不能做动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21261,6 +22397,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Creature size categories are defined differently from the size categories for weapons and other objects.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T015326Z" creationid="quentine" creationdate="20201114T014435Z">
+        <seg>生物的体型与武器及其他物品的尺寸不是一个概念。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Creature sizes are compatible with vehicle sizes.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T015518Z" creationid="quentine" creationdate="20201114T015041Z">
+        <seg>生物的体型可与载具的体型是一个概念，将参与对抗计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Creatures immune to critical hits are also immune to the effects of massive damage.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T144403Z" creationid="quentine" creationdate="20190114T144403Z">
@@ -21345,6 +22497,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T133115Z" creationid="quentine" creationdate="20190115T133115Z">
         <seg>饥饿与口渴造成的伤害无法恢复，直到主角获得水或食物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Damage is deducted from the target’s current hit points.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T105557Z" creationid="quentine" creationdate="20201118T105557Z">
+        <seg>目标的当前生命值将扣除此次造成的伤害值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21626,6 +22786,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Dexterity measures coordination and steadiness, so a character’s Dexterity modifier applies when the character attacks with a ranged weapon.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T022104Z" creationid="quentine" creationdate="20201114T022104Z">
+        <seg>敏捷是身体协调性与稳定性的综合指标，所以角色的敏捷调整值应用于远程攻击骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Digital audio recorders don’t have extremely sensitive microphones; they only pick up sounds within 10 feet.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191202T121211Z" creationid="quentine" creationdate="20191202T121211Z">
@@ -21718,6 +22886,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191025T140540Z" creationid="quentine" creationdate="20191022T133036Z">
         <seg>不要擅自编造新的类别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Do not multiply bonus damage dice when a character scores a critical hit.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T112321Z" creationid="quentine" creationdate="20201118T111637Z">
+        <seg>造成重击时，额外伤害在此次攻击中不参与倍增。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21918,6 +23094,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200507T134601Z" creationid="quentine" creationdate="20200507T134601Z">
         <seg>每多一根炸药增加1d6点伤害（最多增加10d6）爆炸半径增加5尺（最多20尺）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each combatant starts the battle flat-footed.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201111T102407Z" creationid="quentine" creationdate="20201111T102407Z">
+        <seg>每个作战者开始时都处于`措手不及`（flat-footed）状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22130,10 +23314,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Each unused passenger slot allows the vehicle to carry an additional 100 pounds of cargo.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200614T063445Z" creationid="quentine" creationdate="20200614T063401Z">
+        <seg>每有一个空置的乘员位，载具能多承运100磅货物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Each vehicle’s description includes a maneuver modifier that applies to Pilot checks made by the operator of the vehicle.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T043615Z" creationid="quentine" creationdate="20191027T043615Z">
         <seg>每个载具的描述包括了机动性调整值，应用在对此载具的驾机检定上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Effects that modify weapon damage also apply to unarmed strikes and the natural physical attack forms of creatures.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T105446Z" creationid="quentine" creationdate="20201118T105446Z">
+        <seg>对武器伤害的数值修正的`效果`，同样应用于徒手击打和生物的天生武器攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22650,6 +23850,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Feats: Some feats give a bonus to a character’s Defense.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T120719Z" creationid="quentine" creationdate="20201118T120719Z">
+        <seg>专长：有的专长为角色的防御提供加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Film Developing: In most areas, drugstores and photo shops provide 1-hour service; in others, it takes 24 hours.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191202T114649Z" creationid="quentine" creationdate="20191202T114510Z">
@@ -23074,6 +24282,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Fortitude: These saves measure a character’s ability to stand up to massive physical punishment or attacks against his or her vitality and health such as poison and paralysis.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T122905Z" creationid="quentine" creationdate="20201118T122905Z">
+        <seg>强韧豁免： 这一豁免代表角色在重大攻击下屹立不倒的能力和在受到类似毒素和麻痹攻击时保持活力的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>From that point on, the Mage can prepare these spells without referring to a spellbook.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190624T142444Z" creationid="quentine" creationdate="20190624T142444Z">
@@ -23226,10 +24442,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Generally, when a character is subject to an unusual or magical attack, he or she gets a saving throw to avoid or reduce the effect.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T122702Z" creationid="quentine" creationdate="20201118T122702Z">
+        <seg>通常，当角色受到特殊攻击或魔法攻击时，需要掷一个豁免骰以避免或者减少这种攻击的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Generally, when a hero is subject to an unusual or magical attack, he or she gets a saving throw to avoid or reduce the effect.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T130033Z" creationid="quentine" creationdate="20190114T130033Z">
-        <seg>通常，当英雄遭遇特殊攻击或魔法攻击时，则需要掷一个豁免骰以避免或者减少这种攻击的效果。</seg>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T122605Z" creationid="quentine" creationdate="20190114T130033Z">
+        <seg>通常，当英雄遭遇特殊攻击或魔法攻击时，需要掷一个豁免骰以避免或者减少这种攻击的效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23530,6 +24754,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Hit points are based on the character’s class and level, and the character’s Constitution modifier applies.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T121159Z" creationid="quentine" creationdate="20201118T121159Z">
+        <seg>生命值由角色的职业和等级决定，角色的体质调整值共同作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Hit points mean two things in the game world: the ability to take physical punishment and keep going, and the ability to turn a serious blow into a less serious one.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T141606Z" creationid="quentine" creationdate="20190114T141548Z">
@@ -23650,6 +24882,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>However, even with these weapons, only a 20 is an automatic hit.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T114155Z" creationid="quentine" creationdate="20201118T114033Z">
+        <seg>但即使是这些武器，也只能在自然骰为20时为必然命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>However, few of them have the maximum number of action points for their level (because they will have spent some of them).</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190703T124255Z" creationid="quentine" creationdate="20190703T124203Z">
@@ -23702,6 +24942,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191113T142341Z" creationid="quentine" creationdate="20191113T142116Z">
         <seg>但这种庞大的套装会给所有敏捷检定、基于敏捷的技能检定（除了躲藏）、以及近战攻击骰带来4点减值。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, the character doesn’t get this higher Strength bonus when using a light weapon two-handed; in such a case, only the character’s normal Strength bonus applies to the damage roll.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T110531Z" creationid="quentine" creationdate="20201118T110531Z">
+        <seg>但该规则不适用于双手使用轻武器；这种情形下，伤害骰只能应用一倍力量加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23762,6 +25010,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Humans normally move 30 feet, but some creatures move faster or slower.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T121513Z" creationid="quentine" creationdate="20201118T121513Z">
+        <seg>人类一般能移动30尺，而一些生物移动得更快或更慢。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181022T113004Z" creationid="QuenTine" creationdate="20181022T113004Z">
@@ -23790,6 +25046,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190924T135515Z" creationid="quentine" creationdate="20190924T135515Z">
         <seg>如果不需要贿赂，英雄可以附加贿赂来为交涉技能检定提供加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character can’t react to a blow, that character can’t use his or her Dexterity bonus to Defense.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T115610Z" creationid="quentine" creationdate="20201118T115610Z">
+        <seg>若角色无法对攻击做出反应则无法在防御中算上敏捷加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23826,10 +25090,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If a character wears armor, it provides a bonus to his or her Defense.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T120031Z" creationid="quentine" creationdate="20201118T120031Z">
+        <seg>角色穿着护甲也能提供防御加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If a character's Constitution changes enough to alter his or her Constitution modifier, his or her hit points also increase or decrease accordingly at the same time.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181103T134406Z" creationid="QuenTine" creationdate="20181103T134406Z">
         <seg>角色的生命值受到体质调整值的影响，若体质属性值变化足够引起体质调整值的变化，则该角色生命值亦将随即发生变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character’s Dexterity is high, he or she is particularly adept at dodging blows or gunfire.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T115447Z" creationid="quentine" creationdate="20201118T115447Z">
+        <seg>高敏捷意味着角色能熟练地闪避击打和火器射击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character’s Dexterity is low, he or she is particularly inept at it.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T115453Z" creationid="quentine" creationdate="20201118T115453Z">
+        <seg>低敏捷则意味着角色在这方面十分笨拙。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23914,10 +25202,18 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If an attack will damage the character just by touching him or her, that character can’t add his or her equipment bonus (see Touch Attacks, below).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T120249Z" creationid="quentine" creationdate="20201118T120249Z">
+        <seg>如果一次攻击仅通过接触攻击对角色造成伤害，角色不能算上装备加值（见下文`接触攻击`）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If an attack will damage the character just by touching him or her, the character can’t add an equipment bonus (see Touch Attacks).</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T123613Z" creationid="quentine" creationdate="20190114T123613Z">
-        <seg>如果一次攻击仅通过接触攻击对角色造成伤害，角色不能算上装备加值。</seg>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T120308Z" creationid="quentine" creationdate="20190114T123613Z">
+        <seg>如果一次攻击仅通过接触攻击对角色造成伤害，角色不能算上装备加值（见`接触攻击`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24098,6 +25394,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If no one or everyone starts the battle aware, there is no surprise round.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T010732Z" creationid="quentine" creationdate="20201114T010732Z">
+        <seg>如果在战斗开始时没有人觉察到对方，或者所有人都彼此发现，那么没有突袭轮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If no one tends to the stable character (see below), he or she remains unconscious for 1 hour, at which point he or she makes a Fortitude save (DC 20).</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T111954Z" creationid="quentine" creationdate="20190115T111954Z">
@@ -24138,10 +25442,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If penalties to damage bring the damage result below 1, a hit still deals 1 point of damage.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T105652Z" creationid="quentine" creationdate="20201118T105652Z">
+        <seg>如果因为减值导致伤害值低于1，那么依然可以造成1点伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If people are observing the character, even casually, he or she can’t hide.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191004T134639Z" creationid="quentine" creationdate="20191004T134639Z">
         <seg>如果有人注视着角色，即使不是刻意注视，角色就不能躲藏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If some but not all of the combatants are aware of their opponents, a surprise round happens before regular rounds begin.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201111T104003Z" creationid="quentine" creationdate="20201111T102649Z">
+        <seg>如果只有一部分作战者觉察到敌人，那么在作战的`正常轮`（regular round）开始前有一个突袭轮（surprise round）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24874,6 +26194,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If the character is not proficient in the weapon he or she is attacking with (the character doesn’t have the appropriate Weapon Proficiency feat), that character takes a –4 penalty on the attack roll.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T013929Z" creationid="quentine" creationdate="20201114T013929Z">
+        <seg>若角色不擅长其使用的武器（无相应的擅长专长），角色的攻击骰要受4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If the character is tripped during his or her own trip attempt, the character can drop the chain to avoid being tripped.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200519T142610Z" creationid="quentine" creationdate="20200519T142610Z">
@@ -25498,6 +26826,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If the result equals or beats the target’s Defense, the character hits and deals damage.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T012837Z" creationid="quentine" creationdate="20201114T012700Z">
+        <seg>若结果大于等于对方的防御值，则角色命中并造成伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If the result equals or exceeds the creature’s power resistance, the power works normally, although the creature is still allowed a saving throw.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191031T140423Z" creationid="quentine" creationdate="20191031T140254Z">
@@ -25638,6 +26974,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190201T153653Z" creationid="quentine" creationdate="20190201T153653Z">
         <seg>如果豁免失败，目标会陷入眩晕1轮（无法行动，但可保护自己）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the second roll also results in a hit against the target’s Defense, the attack is a critical hit.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T113144Z" creationid="quentine" creationdate="20201118T113144Z">
+        <seg>如果第二次攻击骰与目标的防御值对抗的结果为`命中`，则此次攻击为一次重击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26098,6 +27442,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>In addition to its own armament, the Bradley’s passenger compartment has ports that allow passengers to fire their personal weapons from within the vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T133025Z" creationid="quentine" creationdate="20201030T133025Z">
+        <seg>除了自带的武器外，布雷德利的乘员位上都有射击口，乘员可用自己的武器在车内向外射击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>In addition to keeping a character warm and dry, coats and jackets provide additional concealment for things a character is carrying (they often qualify as loose or bulky clothing; see Concealed Weapons and Objects).</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191113T142623Z" creationid="quentine" creationdate="20191113T142623Z">
@@ -26246,6 +27598,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T131259Z" creationid="quentine" creationdate="20191027T131259Z">
         <seg>此外，角色可以使用此技能评估社交氛围。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In addition, a number of the civilian vehicles covered above, such as the AM General Hummer and the Bell Model 212 helicopter, are commonly seen in military service.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T131227Z" creationid="quentine" creationdate="20201030T131053Z">
+        <seg>此外，许多之前提到的民用载具，比如悍马和贝尔212型直升机，也在军中服役。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26410,10 +27770,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>In general, these luxury amenities can be added to a nonluxury car with an increase of 1 to the vehicle’s purchase DC.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200813T145650Z" creationid="quentine" creationdate="20200813T145650Z">
+        <seg>一般来说，这些豪华配置可以加装到非豪华车上，这会给载具增加1点购买DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>In general, using a skill that requires concentration while in close combat is dangerous.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190806T130202Z" creationid="quentine" creationdate="20190806T130202Z">
         <seg>一般来说，在靠近战斗的地方使用一个需要专注的技能是很危险的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In initiative order (highest to lowest), combatants who started the battle aware of their opponents each take one move or attack action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T010543Z" creationid="quentine" creationdate="20201114T010543Z">
+        <seg>按照先攻顺序（高骰点先），每个觉察到敌人的作战者可以在突袭轮中做一个`动作`（移动或攻击）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26446,6 +27822,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200520T143549Z" creationid="quentine" creationdate="20200520T143549Z">
         <seg>大多数情况下，物品既可当作近战武器使用，也可当作远程武器使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In most cases, only one person is needed to drive the vehicle; other crew members serve as gunners or copilots.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200614T062948Z" creationid="quentine" creationdate="20200614T062948Z">
+        <seg>一般来说，载具的驾驶员只有一个，其他车组成员为机枪手以及副驾驶。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26620,8 +28004,8 @@
       <tuv xml:lang="en-US">
         <seg>In these cases, the attacker makes a touch attack roll (either a ranged touch attack roll or a melee touch attack roll).</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T125015Z" creationid="quentine" creationdate="20190114T124825Z">
-        <seg>这种情况下，攻击方需要进行接触攻击投掷（远程接触攻击或近战接触攻击）。</seg>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T005949Z" creationid="quentine" creationdate="20190114T124825Z">
+        <seg>这种情况下，攻击方需要掷一个接触攻击骰（远程接触攻击或近战接触攻击）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26866,6 +28250,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Introduced in 1960s and for many years a mainstay of the U.S.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T133322Z" creationid="quentine" creationdate="20201030T133322Z">
+        <seg>M113A1于20世纪60年代问世，在很长一段时间内作为美国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Introduced in the 1980s to replace the aging UH-1, the Black Hawk is the U.S.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T133828Z" creationid="quentine" creationdate="20201030T133828Z">
+        <seg>黑鹰直升机于20世纪80年代问世，用于取代陈旧的UH-1休伊直升机。它是美国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Introduced in the Vietnam War era, this medium machine gun is still in widespread use with the U.S.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200419T042957Z" creationid="quentine" creationdate="20200419T042957Z">
@@ -26924,8 +28324,8 @@
       <tuv xml:lang="en-US">
         <seg>It can also be doubled up; for each additional 5 feet of cord within a single 5-foot square, increase the damage by +1d6 to a maximum increase of +4d6.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200507T134028Z" creationid="quentine" creationdate="20200507T134028Z">
-        <seg>引信可重叠在一个方块上，一格内每多一条引信，伤害增加1d6，伤害最多增加4d6。</seg>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200701T114005Z" creationid="quentine" creationdate="20200507T134028Z">
+        <seg>引信可重叠在一个方格上，一格内每多一条引信，伤害增加1d6，伤害最多增加4d6。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27022,6 +28422,30 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200420T131858Z" creationid="quentine" creationdate="20200420T131858Z">
         <seg>它就是一个玻璃纤维的管子套在铝制管子里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It comes equipped with a powerful 6.5-liter, 195-horsepower V8 turbo diesel engine.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T124223Z" creationid="quentine" creationdate="20201029T124223Z">
+        <seg>它搭载了强劲的6.5升排量、195马力的V8涡轮柴油机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It comes equipped with four berths and a fully equipped galley.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T123400Z" creationid="quentine" creationdate="20201030T122457Z">
+        <seg>它有4个卧铺和配置齐全的小厨房。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It comes with a trailer; loading or unloading it requires a paved boat ramp and 10 minutes of work.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T120928Z" creationid="quentine" creationdate="20201030T120928Z">
+        <seg>它可由拖车运载，需要从人造的船坡下水。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27162,6 +28586,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>It has a door at the front and a second door about halfway down the right-hand side.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T130645Z" creationid="quentine" creationdate="20201030T130645Z">
+        <seg>它在前端有一个门，车中间的右侧有另一道门。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>It has a range of 15 miles.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191202T125833Z" creationid="quentine" creationdate="20191202T125833Z">
@@ -27198,6 +28630,22 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200116T084118Z" creationid="quentine" creationdate="20200116T084118Z">
         <seg>它有一到两个中间夹层，以及几个外袋和绑带，用于搭载帐篷、铺盖卷和其他装备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It has three top hatches, one above each crew position, and a large door in back for infantry soldiers to load or disembark.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T131742Z" creationid="quentine" creationdate="20201030T131742Z">
+        <seg>它有三个顶盖、每个车组成员各一个，车尾有一个大门供运载的步兵出入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It has three top hatches, one for the driver and two on the turret.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T132330Z" creationid="quentine" creationdate="20201030T132330Z">
+        <seg>它有三个顶盖，驾驶员一个、炮塔上两个。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27282,6 +28730,38 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>It is crewed by a driver and a commander, and features a top hatch above each position as well as a rear door.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T133555Z" creationid="quentine" creationdate="20201030T133555Z">
+        <seg>车组包括一个驾驶员和一个车长，每个车组各一个顶盖，车尾有一个舱门。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is crewed by a driver, a gunner, a gun loader, and a commander.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T132221Z" creationid="quentine" creationdate="20201030T132221Z">
+        <seg>车组包括一个驾驶员、一个炮手、一个装填手和一个车长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is crewed by a driver, a gunner, and a commander.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T132248Z" creationid="quentine" creationdate="20201030T131513Z">
+        <seg>车组包括一个驾驶员、一个炮手和一个车长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is equipped with puncture-resistant tires.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T124933Z" creationid="quentine" creationdate="20201030T124933Z">
+        <seg>它还装备了防刺轮胎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>It is immune to all mind-influencing effects (charms, compulsions, phantasms, patterns and morale effects) and automatically fails Intelligence checks.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181103T140203Z" creationid="QuenTine" creationdate="20181103T135512Z">
@@ -27306,6 +28786,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>It is one square wide and two squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T121620Z" creationid="quentine" creationdate="20201029T121620Z">
+        <seg>它有1格宽2格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>It is opposed by others’ Spot check results.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190925T125514Z" creationid="quentine" creationdate="20190925T125514Z">
@@ -27318,6 +28806,22 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181103T131721Z" creationid="QuenTine" creationdate="20181103T131642Z">
         <seg>有的生物的某个属性值可以为“无”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is two squares wide and four squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200815T033631Z" creationid="quentine" creationdate="20200813T150359Z">
+        <seg>它有2格宽4格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It is two squares wide and three squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T114735Z" creationid="quentine" creationdate="20201029T114735Z">
+        <seg>它有2格宽3格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27342,6 +28846,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190612T134037Z" creationid="quentine" creationdate="20190612T133727Z">
         <seg>这只能让你拥有物品要求拥有的职业专长来启动物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It lacks the luxury accessories of the civilian version, but it is equipped with puncture-resistant tires.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T125146Z" creationid="quentine" creationdate="20201029T125146Z">
+        <seg>相比民用版它没有豪华内饰，但装备了防刺轮胎。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27430,6 +28942,86 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190216T115758Z" creationid="quentine" creationdate="20190216T115758Z">
         <seg>这些职业给角色提供了更专门化的能力，细分了角色的种类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It provides full cover to its occupants.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T131853Z" creationid="quentine" creationdate="20201030T131853Z">
+        <seg>它为乘客提供全掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It provides nine-tenths cover for its occupants.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T124918Z" creationid="quentine" creationdate="20201030T124918Z">
+        <seg>它为乘客提供9/10掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It provides no cover for its riders.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T125021Z" creationid="quentine" creationdate="20201030T125021Z">
+        <seg>它不为乘员提供任何掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It provides one-half cover to occupants in the cockpit or stern, full cover to occupants below deck, and no cover to those forward of the cockpit.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T122618Z" creationid="quentine" creationdate="20201030T122618Z">
+        <seg>它为驾驶位和船尾的乘客提供半掩体，为甲板下的乘客提供全掩体，而驾驶位之前的船头不提供任何掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It provides three-quarters cover for crew and nine-tenths cover for passengers.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T150448Z" creationid="quentine" creationdate="20200803T150448Z">
+        <seg>它为机组提供3/4掩体，为乘客提供9/10掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It provides three-quarters cover for crew and passengers (one-quarter cover for passengers if the cargo doors are open).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T150454Z" creationid="quentine" creationdate="20200803T145419Z">
+        <seg>它为乘员和机组提供3/4掩体（货舱门打开则只能提供1/4掩体）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It provides three-quarters cover for crew and passengers.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T150501Z" creationid="quentine" creationdate="20200803T144359Z">
+        <seg>它为乘员和机组提供3/4掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It provides three-quarters cover for its occupants.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T130013Z" creationid="quentine" creationdate="20201030T130013Z">
+        <seg>它为乘客提供3/4掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It provides three-quarters cover for occupants in the cab and full cover for any in the back.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T130354Z" creationid="quentine" creationdate="20201030T130354Z">
+        <seg>它为驾驶舱的乘客提供3/4掩体，为货舱内乘客提供全掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It provides three-quarters cover to crew and passengers (one-quarter cover to passengers if the cargo doors are open).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T134000Z" creationid="quentine" creationdate="20201030T134000Z">
+        <seg>它为乘员和机组提供3/4掩体（货舱门打开则只能提供1/4掩体）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27546,6 +29138,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>It takes a full-round action to enter the vehicle through a top hatch and another full-round action to start it moving.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T131820Z" creationid="quentine" creationdate="20201030T131820Z">
+        <seg>从顶盖进入载具是一个整轮动作，发动载具也是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>It takes a full-round action to enter the vehicle through a top hatch, and another full-round action to start it moving.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T132908Z" creationid="quentine" creationdate="20201030T132908Z">
+        <seg>从顶盖进入载具是一个整轮动作，发动载具也是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>It takes a full-round action to make an object with scientific improvisation.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190518T125900Z" creationid="quentine" creationdate="20190518T125900Z">
@@ -27642,6 +29250,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>It’s designed to look cool and compete for space on the roads with automobiles.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T121540Z" creationid="quentine" creationdate="20201029T121540Z">
+        <seg>它设计狂霸酷炫，敢跟汽车争路权。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>It’s generally assumed that a hero owns a reasonable wardrobe of the sorts of clothes that fit his or her lifestyle.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191111T135645Z" creationid="quentine" creationdate="20191111T135344Z">
@@ -27706,6 +29322,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>It’s the attack roll result that an opponent needs to achieve to hit the character.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T115353Z" creationid="quentine" creationdate="20201118T115302Z">
+        <seg>对手必须掷出大于等于自身防御值的攻击骰才能造成命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Jet fighters include military fighter and ground attack jets.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190704T130852Z" creationid="quentine" creationdate="20190704T130852Z">
@@ -27750,6 +29374,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T071400Z" creationid="quentine" creationdate="20191027T071400Z">
         <seg>语族的划分用于智力型英雄的`语言专家`天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Large and durable, it is a favorite of police forces (police cruisers are commonly Crown Victorias).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T115243Z" creationid="quentine" creationdate="20201029T115243Z">
+        <seg>它巨大而耐用，深受警察部门的喜爱（警用巡逻车大多是维多利亚皇冠）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27834,6 +29466,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Like cars, trucks generally provide three-quarters cover to their occupants.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T123302Z" creationid="quentine" creationdate="20201029T123302Z">
+        <seg>和小汽车一样，卡车也为乘客提供3/4掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Likewise, a maximized 2nd-level spell is treated as a 5th-level spell.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190624T143611Z" creationid="quentine" creationdate="20190624T143611Z">
@@ -27846,6 +29486,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190731T122514Z" creationid="quentine" creationdate="20190731T122514Z">
         <seg>同样，如果角色的注意力被扰乱，或者角色在下一次行动前就被攻击，角色将失去瞄准效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Limousines feature virtually every available luxury feature, often including televisions and small refrigerators.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T125730Z" creationid="quentine" creationdate="20201030T125730Z">
+        <seg>豪华轿车几乎拥有了所有的豪华配置，常常包括电视和小冰箱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27942,6 +29590,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190926T142345Z" creationid="quentine" creationdate="20190926T142345Z">
         <seg>更长更复杂的文件每页需要1d4分钟或更长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Luxury vehicles often also include extras such as heated side mirrors, power seats, leather upholstery, and sunroofs.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200813T145526Z" creationid="quentine" creationdate="20200813T145526Z">
+        <seg>豪华车通常还有额外的功能，比如有加热功能的侧后视镜、电动座椅、皮制内饰、以及天窗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28114,10 +29770,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Many modifiers can affect the attack roll.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T012947Z" creationid="quentine" creationdate="20201114T012947Z">
+        <seg>许多调整值也会作用于攻击骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Many of the objects in this section are battery--operated.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191105T140544Z" creationid="quentine" creationdate="20191105T140544Z">
         <seg>本节许多物品是电池驱动的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many of these (such as the armored truck and the limousine) are usually custom built, so the model name isn’t specified as it is with most other vehicles in this section.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T124342Z" creationid="quentine" creationdate="20201030T124342Z">
+        <seg>它们大多是定制的（比如武装卡车和豪华轿车），所以不像本章里的其他载具一样有型号。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28142,6 +29814,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181104T084844Z" creationid="QuenTine" creationdate="20181104T084844Z">
         <seg>很多起始职业背景都对角色的基本属性有要求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many vehicles can carry extra passengers instead of cargo, but doing so is usually a cramped, uncomfortable, and often unsafe experience for those passengers.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200701T113226Z" creationid="quentine" creationdate="20200701T113226Z">
+        <seg>许多载具可在载货位上搭载乘客，但货舱的乘坐体验不佳，乘客会感到拥挤、不适，而且也不安全。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28242,6 +29922,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Military versions are still in use in many countries.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T145300Z" creationid="quentine" creationdate="20200803T145300Z">
+        <seg>军用版也广泛服役于军队中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Military: The object is sold primarily to legitimate police and military organizations.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191104T122538Z" creationid="quentine" creationdate="20191104T122538Z">
@@ -28330,6 +30018,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Most new civilian cars include such standard features as air conditioning, air bags, antilock brakes, cruise control, keyless entry, and an AM/FM radio with CD player.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200813T144946Z" creationid="quentine" creationdate="20200813T144946Z">
+        <seg>大多数新型民用汽车都包括这些基本功能：空调、安全气囊、防抱死、恒速控制、遥控门锁、收音机和CD机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Most of the time, a hero doesn’t decide to use his or her reputation.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181106T135332Z" creationid="QuenTine" creationdate="20181106T122736Z">
@@ -28374,6 +30070,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190619T131154Z" creationid="quentine" creationdate="20190619T131145Z">
         <seg>大多数自我催眠都是攻击动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Motorcycles tend to perform better than automobiles, but they provide no cover to their occupants.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T120736Z" creationid="quentine" creationdate="20201029T120618Z">
+        <seg>摩托车性能表现比汽车更好，但无法给乘客提供任何掩体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28698,6 +30402,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Objects (including vehicles) and some types of creatures are immune to critical hits.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T114837Z" creationid="quentine" creationdate="20201118T114837Z">
+        <seg>物品（包括载具）以及一些种类的生物免疫重击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Objects deal the initial damage given in Table: Damage from Falling Objects if they fall 10 feet or less.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T135742Z" creationid="quentine" creationdate="20190115T135742Z">
@@ -28750,6 +30462,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191202T132805Z" creationid="quentine" creationdate="20191202T132712Z">
         <seg>当然，要在目标手机使用时才能截获该手机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Off-Hand Weapon: When a character deals damage with a weap-on in his or her off hand, add only half of the character’s Strength bonus.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T105959Z" creationid="quentine" creationdate="20201118T105959Z">
+        <seg>副手武器（Off-Hand Weapon）： 当用副手武器造成伤害时，只能加上一半的强壮加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28918,6 +30638,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190916T142119Z" creationid="quentine" creationdate="20190916T142119Z">
         <seg>一旦角色退出访问，会话结束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once a combatant acts, he or she is no longer flat-footed.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201111T102502Z" creationid="quentine" creationdate="20201111T102502Z">
+        <seg>作战者行动以后，则不再处于措手不及状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29094,6 +30822,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190703T104038Z">
         <seg>邪恶阵营的角色可以用负能量斥喝不死生物，使不死生物遇到角色便`畏缩`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>One of the largest sport utility vans on the market, the Suburban is a four-door truck equipped with a standard 6.0-liter, 320-horsepower V8 engine.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T125449Z" creationid="quentine" creationdate="20201029T125401Z">
+        <seg>萨博班是一款四门卡车，市面上最大型的SUV之一，标配6.0升排量、320马力的V8引擎。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29318,6 +31054,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Other factors can add to a character’s Defense.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T120700Z" creationid="quentine" creationdate="20201118T120700Z">
+        <seg>其他要素也可影响角色的防御值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Other operations can be carried out according to the Computer Use skill description.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190916T145129Z" creationid="quentine" creationdate="20190916T145129Z">
@@ -29474,6 +31218,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190216T093158Z" creationid="quentine" creationdate="20190216T093005Z">
         <seg>新职业升一级并不等于以这个职业新建1级的角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Piloting a water vehicle is covered by the Drive skill.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T130420Z" creationid="quentine" creationdate="20201029T130420Z">
+        <seg>驾驶水上载具也是应用`驾驶`技能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29956,6 +31708,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Ranged weapons that fire projectiles can shoot up to ten increments.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T105106Z" creationid="quentine" creationdate="20201118T105106Z">
+        <seg>射弹的远程武器的最大射程为射程跨度的10倍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Ranged weapons that use box magazines come with one full magazine.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200418T020133Z" creationid="quentine" creationdate="20200418T020133Z">
@@ -30016,6 +31776,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200420T141731Z" creationid="quentine" creationdate="20200420T141731Z">
         <seg>补充或替换燃料罐需要13点购买DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reflex: These saves test a character’s ability to dodge massive attacks such as explosions or car wrecks.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T122936Z" creationid="quentine" creationdate="20201118T122936Z">
+        <seg>反射豁免： 这一豁免代表角色闪避重大攻击——如爆炸或车祸——的能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30148,6 +31916,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the vehicle on the black market.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200701T115104Z" creationid="quentine" creationdate="20200701T115104Z">
+        <seg>记住一定要在黑市购买进行财富检定时加上这些调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the weapon on the black market.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T134430Z" creationid="quentine" creationdate="20200410T134430Z">
@@ -30264,6 +32040,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T141706Z" creationid="quentine" creationdate="20191027T141706Z">
         <seg>每轮掷骰一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Roll the damage (with all modifiers) multiple times and total the results.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T110920Z" creationid="quentine" creationdate="20201118T110920Z">
+        <seg>进行多次伤害掷骰（每次都应用全部调整值）并计算总和。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30524,6 +32308,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Several military vehicles are covered here.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T130951Z" creationid="quentine" creationdate="20201030T130951Z">
+        <seg>这里有几种军用载具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Several typical meal costs are provided.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T125345Z" creationid="quentine" creationdate="20200117T125345Z">
@@ -30684,10 +32476,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Since this same modifier applies to attack rolls a creature doesn’t have a hard time attacking another creature of the same size.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T120551Z" creationid="quentine" creationdate="20201118T120551Z">
+        <seg>因为该调整值也应用于攻击骰，相同体型的生物之间的攻击不会受此影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Since this size modifier applies to Defense against a melee weapon attack or a ranged weapon attack, two creatures of the same size strike each other normally, regardless of what size they actually are.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T014847Z" creationid="quentine" creationdate="20201114T014847Z">
+        <seg>因为体型调整值也用于对抗近战或远程的防御值计算，所以两个体型相同的生物互相攻击，体型调整值抵消，可不计。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Situations such as taking damage, working in a bouncing vehicle, or dealing with severe weather can require a character to make a Concentration check.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190917T130328Z" creationid="quentine" creationdate="20190917T130328Z">
         <seg>诸如受到伤害、在颠簸的载具上工作、或者应对极端天气等情形都需要角色做一次专注检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Size modifiers are shown on Table: Size Modifiers.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T120629Z" creationid="quentine" creationdate="20201118T120629Z">
+        <seg>体型调整值将在`表：体型调整值`中列出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31052,6 +32868,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Sometimes a character can’t use his or her Dexterity bonus.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T115551Z" creationid="quentine" creationdate="20201118T115551Z">
+        <seg>有时角色无法使用敏捷加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sometimes a character can’t use his or her equipment bonus to Defense.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T120145Z" creationid="quentine" creationdate="20201118T120145Z">
+        <seg>有时角色无法将装备加值应用于防御。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Sometimes a character tries to do something to which no specific skill applies.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190806T135657Z" creationid="quentine" creationdate="20190806T135657Z">
@@ -31072,6 +32904,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181024T042829Z" creationid="QuenTine" creationdate="20181024T042829Z">
         <seg>有时一些特殊的规则可能会需要玩家在游戏是对骰点或特定数字进行乘法计算。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Sometimes damage is multiplied by some factor.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T112013Z" creationid="quentine" creationdate="20201118T110731Z">
+        <seg>有时候由于种种原因，造成的伤害是倍增的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31380,6 +33220,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Strength helps a character swing a weapon harder and faster, so a character’s Strength modifier applies to melee attack rolls.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T014305Z" creationid="quentine" creationdate="20201114T014305Z">
+        <seg>力量让角色能更快更有力地挥舞武器，所以角色的力量调整值作用于近战攻击骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Strong scents can be detected at twice the ranges noted above.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191031T144212Z" creationid="quentine" creationdate="20191031T144212Z">
@@ -31392,6 +33240,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200419T020858Z" creationid="quentine" creationdate="20200419T020811Z">
         <seg>冲锋枪是发射手枪弹的，更小巧的一类长杆枪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Subtract this number from any damage dealt to the vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200701T114510Z" creationid="quentine" creationdate="20200701T114510Z">
+        <seg>任何对该载具的伤害都应减去该值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31892,6 +33748,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The 3.2 TL is a four-door luxury sedan.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200813T150344Z" creationid="quentine" creationdate="20200813T150344Z">
+        <seg>3.2 TL型讴歌是一款4门豪华轿车。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The 40mm fragmentation grenade has a minimum range of 40 feet.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200507T130607Z" creationid="quentine" creationdate="20200507T130607Z">
@@ -31908,10 +33772,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The 998R is one square wide and two squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T121101Z" creationid="quentine" creationdate="20201029T121101Z">
+        <seg>998R有1格宽2格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The AKM is a slightly more modern version of the AK-47, but functions essentially the same.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200419T022218Z" creationid="quentine" creationdate="20200419T022218Z">
         <seg>AKM是AK-47的现代版，但内部机制大同小异。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Abrams is three squares wide and six squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T132524Z" creationid="quentine" creationdate="20201030T132524Z">
+        <seg>艾布拉姆斯有3格宽6格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32004,6 +33884,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The BMP-2 is three squares wide and four squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T131839Z" creationid="quentine" creationdate="20201030T131839Z">
+        <seg>BMP-2有3格宽4格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Battle Mind can apply the Weapon Focus or Weapon Finesse feats to her psi-blade.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190621T133052Z" creationid="quentine" creationdate="20190621T133052Z">
@@ -32064,6 +33952,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190621T131307Z" creationid="quentine" creationdate="20190621T131307Z">
         <seg>灵战士可释放的灵力种类极少，与战斗紧密相关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Bell 212 is three squares wide and seven squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T145326Z" creationid="quentine" creationdate="20200803T145326Z">
+        <seg>贝尔212型有3格宽7格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32148,10 +34044,42 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The Bradley is three squares wide and four squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T133036Z" creationid="quentine" creationdate="20201030T133036Z">
+        <seg>布雷德利有3格宽4格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The CZ61 Skorpion is a Czech machine pistol seen increasingly in the West since the collapse of the Soviet Union.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200419T011341Z" creationid="quentine" creationdate="20200419T011341Z">
         <seg>CZ61蝎式是一款捷克产冲锋枪，苏联解体后，此枪在西方越来越常见。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Capri is two squares wide and four squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T122026Z" creationid="quentine" creationdate="20201030T122026Z">
+        <seg>卡普里有2格宽4格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Capri provides one-half cover to occupants in the cockpit or stern, full cover to occupants in the cabin, and no cover to those forward of the cockpit.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T122014Z" creationid="quentine" creationdate="20201030T121114Z">
+        <seg>卡普里为驾驶位和船尾的乘客提供半掩体，为小型舱室内的乘客提供全掩体，而驾驶位之前的船头不提供任何掩体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Caravan is a minivan with two conventional doors up front, sliding doors on the side, and a rear hatch-style door.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T125854Z" creationid="quentine" creationdate="20201029T125442Z">
+        <seg>凯领是一款多功能休旅车，其前座是常见的双前门、中间是滑动门，还有一个后舱门。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32196,6 +34124,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The Corvette is a two-door sports car equipped with a 5.7-liter, 350-horsepower V8 engine.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T114949Z" creationid="quentine" creationdate="20200815T033908Z">
+        <seg>科尔维特是一款双门运动型车，搭载5.7升排量、350马力的V8引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Corvette is two squares wide and three squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T114556Z" creationid="quentine" creationdate="20201029T114556Z">
+        <seg>科尔维特有2格宽3格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Craft (pharmaceutical) check is based on the severity of the disease to be countered as measured by the DC of the Fortitude save needed to resist it.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190922T140332Z" creationid="quentine" creationdate="20190922T140332Z">
@@ -32208,6 +34152,30 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190523T141650Z" creationid="quentine" creationdate="20190523T141650Z">
         <seg>制造大师级工艺的物品的制造DC基础值等同于对应普通物品的DC，再根据以下规则添加DC调整值：为物品+1则+3DC，为物品+2则+5DC，为物品+3则+10DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Critical column on Table: Ranged Weapons and Table: Melee Weapons indicates the threat range for each weapon on the tables.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T114539Z" creationid="quentine" creationdate="20201118T114524Z">
+        <seg>`表：远程武器`和`表：近战武器`的`重击`一列给出了每种武器的重击威胁区间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Crown Victoria is a large four-door family sedan equipped with a 4.6-liter, 220-horsepower V8 engine.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T114922Z" creationid="quentine" creationdate="20201029T114922Z">
+        <seg>福特维多利亚皇冠是一款大型四门家用轿车，搭载4.6升排量、220马力的V8引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Crown Victoria is two squares wide and four squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T115315Z" creationid="quentine" creationdate="20201029T115315Z">
+        <seg>维多利亚皇冠有2格宽4格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32668,6 +34636,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The Diablo is a top-of-the-line exotic sports car—a two-door coupe equipped with a standard 6.0-liter, 550-horsepower V12 engine.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T115910Z" creationid="quentine" creationdate="20201029T115910Z">
+        <seg>兰博基尼迪亚波罗是一款顶级且前卫的运动型轿跑，双门双座、标配6.0升排量、550马力的V12发动机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Diablo is two squares wide and three squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T115927Z" creationid="quentine" creationdate="20201029T115927Z">
+        <seg>迪亚波罗有2格宽3格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Difficulty Class for a save is determined by the attack itself.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T130528Z" creationid="quentine" creationdate="20190114T130528Z">
@@ -32692,6 +34676,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The E-Class is a four-door luxury sedan equipped with a powerful 5.5-liter, 349-horsepower V8 engine.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T120127Z" creationid="quentine" creationdate="20201029T120127Z">
+        <seg>梅赛德斯E系是一款四门豪华轿车，搭载强劲的5.5升排量、349马力的V8引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Escape is a four-door SUV with a 3.0-liter, 201-horsepower V6 engine.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T130028Z" creationid="quentine" creationdate="20201029T130028Z">
+        <seg>锐际是一款4门SUV，搭载了3.0升排量、201马力的V6引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Exotic Firearms Proficiency (grenade launchers) feat applies to this weapon.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200420T134243Z" creationid="quentine" creationdate="20200420T134243Z">
@@ -32712,6 +34712,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200420T133140Z" creationid="quentine" creationdate="20200420T133140Z">
         <seg>此武器要求`擅长异种武器（火箭筒）`专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The F-150 is two squares wide and four squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T130221Z" creationid="quentine" creationdate="20201029T130221Z">
+        <seg>F-150有2格宽4格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32864,6 +34872,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190612T131211Z" creationid="quentine" creationdate="20190612T131211Z">
         <seg>GM决定严重失误的后果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The GM determines which characters are aware of their opponents at the start of the battle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201111T102549Z" creationid="quentine" creationdate="20201111T102549Z">
+        <seg>GM决定哪些作战者在作战开始时觉察到他们的敌人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33060,6 +35076,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The Gavin is three squares wide and four squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T133609Z" creationid="quentine" creationdate="20201030T133609Z">
+        <seg>盖文有3格宽4格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Glock is typical of 9mm self-loading pistols carried by many police officers and military personnel.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200418T024127Z" creationid="quentine" creationdate="20200418T024127Z">
@@ -33156,6 +35180,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The Jet Ranger is two squares wide and seven squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T144311Z" creationid="quentine" creationdate="20200803T144311Z">
+        <seg>喷气突击队员有2格宽7格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Jetta is a four-door station wagon.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T120322Z" creationid="quentine" creationdate="20201029T120322Z">
+        <seg>捷达是一款4门旅行车（RV）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The LAW (light antitank weapon) is a disposable, one-shot rocket launcher.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200419T153341Z" creationid="quentine" creationdate="20200419T153341Z">
@@ -33184,6 +35224,22 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200419T010705Z" creationid="quentine" creationdate="20200419T010705Z">
         <seg>M29因其震耳欲聋的响声、眩目的火光和强劲的后座力闻名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The M3 is a two-door luxury sports car equipped with a standard 3.2-liter, 333-horsepower engine.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200815T033920Z" creationid="quentine" creationdate="20200815T033544Z">
+        <seg>M3是一款双门豪华运动型轿跑，标配3.2升排量、333马力的发动机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The M3 is two squares wide and three squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200815T033619Z" creationid="quentine" creationdate="20200815T033619Z">
+        <seg>M3有2格宽3格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33452,6 +35508,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The Neon is an inexpensive four-door family sedan.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T114719Z" creationid="quentine" creationdate="20201029T114719Z">
+        <seg>道奇霓虹是一款实惠的四门家用轿车。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Occultist gains 1d6 hit points per level.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190612T114252Z" creationid="quentine" creationdate="20190612T114252Z">
@@ -33568,6 +35632,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181103T131322Z" creationid="QuenTine" creationdate="20181103T131322Z">
         <seg>以上属性的数值从0到无穷大不等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Sea-Doo XP is one square wide and two squares long, and provides no cover for its riders.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T124012Z" creationid="quentine" creationdate="20201030T124012Z">
+        <seg>喜度XP有1格宽2格长，不为乘员提供任何掩体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33732,6 +35804,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The Tacoma is a two-door pickup with a back seat in its extended cab.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T130329Z" creationid="quentine" creationdate="20201029T130329Z">
+        <seg>塔科马是一款双门皮卡，后舱还有两个座位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Targa is three squares wide and six squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T123421Z" creationid="quentine" creationdate="20201030T123421Z">
+        <seg>塔尔加有3格宽6格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Techie can only control one robot at a time, and only one of his robots can be active at any time.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190522T142409Z" creationid="quentine" creationdate="20190522T142409Z">
@@ -33860,6 +35948,30 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The UH-60 is three squares wide and twelve squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T133927Z" creationid="quentine" creationdate="20201030T133927Z">
+        <seg>UH-60有3格宽12格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Vanquish is a two-door luxury sports car powered by a 5.9-liter, 460-horsepower V12 engine.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200815T033914Z" creationid="quentine" creationdate="20200813T150825Z">
+        <seg>万奎仕是一款双门豪华运动型轿跑，发动机是5.9升排量、460马力的V12发动机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The Vanquish is two squares wide and four squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200815T033625Z" creationid="quentine" creationdate="20200813T151109Z">
+        <seg>万奎仕有2格宽4格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Wealth bonus is fluid.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181106T134358Z" creationid="QuenTine" creationdate="20181106T134358Z">
@@ -33872,6 +35984,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200419T152640Z" creationid="quentine" creationdate="20200419T152640Z">
         <seg>温彻斯特M94是一款大口径杠杆猎枪，全世界都能见到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The XJ is a four-door luxury sedan.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T115515Z" creationid="quentine" creationdate="20201029T115515Z">
+        <seg>捷豹XJ是一款四门豪华轿车。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33896,6 +36016,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190523T134509Z" creationid="quentine" creationdate="20190523T134509Z">
         <seg>经验值必须在检定前就消耗掉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The YZ250F is one square wide and two squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T122724Z" creationid="quentine" creationdate="20201029T122724Z">
+        <seg>YZ250F有1格宽2格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33996,6 +36124,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The armored truck is two squares wide and four squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T124853Z" creationid="quentine" creationdate="20201030T124853Z">
+        <seg>武装卡车有2格宽4格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The associations between basic classes and advanced classes are summarized on the following table.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190216T120301Z" creationid="quentine" creationdate="20190216T120301Z">
@@ -34008,6 +36144,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191031T124328Z" creationid="quentine" creationdate="20191031T124328Z">
         <seg>攻击会产生任何形式的效果：石化、死亡、魅惑等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The attacker makes his or her attack roll as normal, but a character’s Defense does not include any equipment bonus or armor bonus.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T120846Z" creationid="quentine" creationdate="20201118T120846Z">
+        <seg>攻击方攻击骰照常计算，但防御方的护甲或装备加值不算在内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34498,6 +36642,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190730T142102Z" creationid="quentine" creationdate="20190730T142102Z">
         <seg>角色每轮只能使用一次本专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character can, however, use his or her attack action as a second move action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T121732Z" creationid="quentine" creationdate="20201118T121732Z">
+        <seg>但角色可以把攻击动作当作第二个移动动作使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35160,6 +37312,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The combatants who are aware of their opponents can act in the surprise round, so they roll for initiative.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T005617Z" creationid="quentine" creationdate="20201114T005617Z">
+        <seg>觉察到敌人的作战者可以在突袭轮中行动，因此他们要投一个先攻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The communication is limited by the Intelligence of the conversing creatures.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190624T133143Z" creationid="quentine" creationdate="20190624T133143Z">
@@ -35380,6 +37540,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190612T131450Z" creationid="quentine" creationdate="20190612T131248Z">
         <seg>默认的后果是物品施加到了错误的目标，或者不受控制的魔法能量对你造成2d6点伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The description and stats reflect a typical model.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T124444Z" creationid="quentine" creationdate="20201030T124444Z">
+        <seg>描述与数据指的是一般常见的款式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35912,6 +38080,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The four-door Hummer is a civilian version of the military’s all-terrain “humvee” utility vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T124033Z" creationid="quentine" creationdate="20201029T124033Z">
+        <seg>四门的悍马是军用“高机动性多用途轮式车辆”的民用版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The fourteen Knowledge categories, and the topics each one encompasses, are as follows.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T090227Z" creationid="quentine" creationdate="20191022T134440Z">
@@ -36056,6 +38232,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The hummer is decked out like a luxury vehicle inside, but this vehicle is every bit as rugged as the military version.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T124537Z" creationid="quentine" creationdate="20201029T124524Z">
+        <seg>悍马的内部装饰得很豪华，但其粗犷丝毫不输军用版。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The ill effects depend on the Hit Dice of the creatures, as shown below.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190611T143832Z" creationid="quentine" creationdate="20190611T143832Z">
@@ -36100,6 +38284,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200507T133631Z" creationid="quentine" creationdate="20200507T133631Z">
         <seg>表中的信息是以50尺为单位计算的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The interior includes luxury accommodations and a lavatory.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T150201Z" creationid="quentine" creationdate="20200803T150201Z">
+        <seg>内部包括了一间起居室和一间厕所。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36260,6 +38452,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190613T141210Z" creationid="quentine" creationdate="20190613T141210Z">
         <seg>方式和过程都是术士独有的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The military version can be configured in a variety of ways, including a two-door pickup, a four-door pickup with a short bed, and a completely enclosed, SUVlike body with a hatchback and four doors.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T125020Z" creationid="quentine" creationdate="20201029T124709Z">
+        <seg>军用版可以改装成许多形态，包括双门皮卡、四门短尾皮卡和四门全包SUV。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36760,10 +38960,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The range penalty for a ranged weapon depends on what weapon the character is using and how far away the target is.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T022308Z" creationid="quentine" creationdate="20201114T022308Z">
+        <seg>远程武器攻击骰的距离减值取决于角色使用何种武器和目标有多远。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The rapier is a lightweight sword with a thin blade.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200519T135147Z" creationid="quentine" creationdate="20200519T135147Z">
         <seg>细剑是一种刃很薄的轻型剑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The rear bed of a pickup truck, however, provides only one-half cover.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T124925Z" creationid="quentine" creationdate="20201029T123403Z">
+        <seg>而皮卡的尾舱只提供半掩体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36989,6 +39205,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200418T020508Z" creationid="quentine" creationdate="20200418T020508Z">
         <seg>美国军队以及许多美国执法机关通行的标准现役手枪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The statistics given are for a moderate-sized vehicle, rather than a stretch limo or a conventional car with a professional driver.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T125528Z" creationid="quentine" creationdate="20201030T125528Z">
+        <seg>其数据对应的是中等体积的载具，而非那种配备专业司机的老爷车或加长豪华轿车。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37301,6 +39525,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200513T145336Z" creationid="quentine" creationdate="20191102T030133Z">
         <seg>践踏产生`钝击`伤害，伤害量见生物的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The truck has three doors and firing ports that allow the crew to use their firearms without leaving the vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T124841Z" creationid="quentine" creationdate="20201030T124841Z">
+        <seg>卡车有三道门和射击口，让车组人员可以在车内向外射击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37801,6 +40033,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>These weapons are part of the vehicles on which they are mounted.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T135010Z" creationid="quentine" creationdate="20201030T135010Z">
+        <seg>这些武器是所在载具的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>These weapons explode or burst, dealing damage to creatures or objects within an area.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200424T130910Z" creationid="quentine" creationdate="20200424T130910Z">
@@ -37941,6 +40181,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200115T095701Z" creationid="quentine" creationdate="20200115T095701Z">
         <seg>手铐适用于体型为普通或小型的人类，或者有合适身体构造的生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>They generally have the same features as civilian cars.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T123208Z" creationid="quentine" creationdate="20201029T123208Z">
+        <seg>它们的民用用途大致相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38170,6 +40418,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>This all-terrain vehicle is something like a four-wheeled motorcycle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T125002Z" creationid="quentine" creationdate="20201030T125002Z">
+        <seg>这种全地形车长得像4轮的摩托车。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>This allows a Strong hero to ignore some of an object’s hardness when making a melee attack to break it.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190116T125747Z" creationid="quentine" creationdate="20190116T125747Z">
@@ -38282,6 +40538,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>This bonus applies in all situations, even when the character is flat-footed or when the character would lose his or her Dexterity bonus for some other reason.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T115931Z" creationid="quentine" creationdate="20201118T115931Z">
+        <seg>这些加值在所有情况下都生效，甚至在角色措手不及或是由于其他原因失去敏捷加值的情况下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>This bonus can be applied to all skill checks and attack rolls made by the Smart hero and his or her allies, but the bonus only lasts for the first 3 rounds after making the plan.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190201T151406Z" creationid="quentine" creationdate="20190201T150153Z">
@@ -38326,6 +40590,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190413T140041Z" creationid="quentine" creationdate="20190413T140041Z">
         <seg>加值与前置的加值叠加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This cabin cruiser is a motor yacht with two internal diesel engines.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T122318Z" creationid="quentine" creationdate="20201030T122318Z">
+        <seg>这款大游艇是一款用两台活塞引擎发动的游艇。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38418,6 +40690,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>This common single-engine propeller plane is relatively inexpensive.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T145551Z" creationid="quentine" creationdate="20200803T145551Z">
+        <seg>这种常见的单发螺旋桨飞机相对便宜些。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>This condition typically lasts 1 round.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T121530Z" creationid="quentine" creationdate="20190115T121444Z">
@@ -38438,6 +40718,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190216T092003Z" creationid="quentine" creationdate="20190216T092003Z">
         <seg>可以选择一个基本职业，如果角色有资格选择，还可以选一个高级职业。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This could let the character move again, for a total movement of up to double his or her normal speed.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T121845Z" creationid="quentine" creationdate="20201118T121845Z">
+        <seg>这能让角色再次移动，最多可以移动正常速度的两倍距离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38794,6 +41082,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>This huge motorcycle sports a 1,450cc engine.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T121300Z" creationid="quentine" creationdate="20201029T121300Z">
+        <seg>这种巨大的摩托车搭载了1450cc的引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>This illicit starting occupation reveals a background from the wrong side of the law.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181104T130353Z" creationid="QuenTine" creationdate="20181104T130353Z">
@@ -38890,6 +41186,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>This is a large cargo truck used to move furniture or deliver freight.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T130114Z" creationid="quentine" creationdate="20201030T130114Z">
+        <seg>这是一种大货车，用于搬运家具或其他货物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is a large runabout—a powerboat with an outboard engine and an open cockpit with a tiny cabin (about the size of the interior of an economy car) forward.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T121716Z" creationid="quentine" creationdate="20201029T130810Z">
+        <seg>这是一款大型轻型汽艇——一种引擎安在甲板上且前部有一个带小型舱室（约与经适车的客舱一样的大小）的露天驾驶舱的汽艇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>This is a lightweight vest with a series of pockets for items such as a compass, spare ammunition magazines, pressure bandages, and a radio, along with loops for attaching grenades, knives, or tools.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200116T095412Z" creationid="quentine" creationdate="20200116T095412Z">
@@ -38924,10 +41236,42 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>This is a sleek business jet introduced in the late 90s.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T145918Z" creationid="quentine" creationdate="20200803T145918Z">
+        <seg>这种圆润的商用喷气机在上世纪90年代晚期问世。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>This is a small backpack, the sort often used by students to carry their books around, or by outdoor enthusiasts on short hikes.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191111T132923Z" creationid="quentine" creationdate="20191111T132923Z">
         <seg>这是一种小型背包，常见于学生装书，或户外运动爱好者短程徒步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is a top-of-the-line street bike with a strong heritage of winning races.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T121039Z" creationid="quentine" creationdate="20201029T120813Z">
+        <seg>这是一款顶级街车，在赛场上战绩赫赫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is a two-seat jet ski that propels itself with a powerful jet of water.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T123932Z" creationid="quentine" creationdate="20201030T123932Z">
+        <seg>这是一款双座喷气式摩托艇，用一台强劲的喷气机驱水而动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is a typical city bus.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T130531Z" creationid="quentine" creationdate="20201030T130531Z">
+        <seg>这是一款常见的城市公交车。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38948,6 +41292,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>This is perhaps the most common civilian helicopter worldwide; it has also been adopted by many military forces as a light utility helicopter.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T144226Z" creationid="quentine" creationdate="20200803T144226Z">
+        <seg>这可以说是世界上最普遍的民用直升机了；它同样作为轻型通用直升机在军中服役。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is the U.S.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T132048Z" creationid="quentine" creationdate="20201030T132048Z">
+        <seg>这是美国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>This is the case with most shotguns, as well as some rifles.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T132731Z" creationid="quentine" creationdate="20200410T132731Z">
@@ -38956,10 +41316,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>This is the fastest the vehicle can move.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200701T114410Z" creationid="quentine" creationdate="20200701T114410Z">
+        <seg>这是载具所能移动的最快速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>This is the melee weapon carried by most police forces, used to subdue and restrain criminals.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200519T132234Z" creationid="quentine" creationdate="20200519T132234Z">
         <seg>这种近战武器普遍装备于警察队伍，用于制服与约束罪犯。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is the twin-engine, civilian version of the ubiquitous Huey helicopter.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T144829Z" creationid="quentine" creationdate="20200803T144821Z">
+        <seg>这是随处可见的修伊直升机的双发民用版。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38992,6 +41368,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200115T095042Z" creationid="quentine" creationdate="20200115T095042Z">
         <seg>该工具包含了伪造文书技能所需准备的所有伪造工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This lets the character move up to four times his or her normal speed, but a character can only run all out in a straight line, and doing so affects the character’s Defense (see Run).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T122516Z" creationid="quentine" creationdate="20201118T122516Z">
+        <seg>这可以让角色以四倍的速度移动，但角色一次只能在一条直线上奔跑，而且这么做会影响角色的防御（见`奔跑`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39180,6 +41564,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>This number reflects the base price and doesn’t include any modifier for purchasing the vehicle on the black market.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200701T115036Z" creationid="quentine" creationdate="20200701T115036Z">
+        <seg>此值指基本价格，并未把黑市加值算在内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>This number reflects the base price and doesn’t include any modifier for purchasing the weapon on the black market.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T134358Z" creationid="quentine" creationdate="20200410T134358Z">
@@ -39312,6 +41704,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190116T114719Z" creationid="quentine" creationdate="20190116T114719Z">
         <seg>本节提供了一个本职技能的列表，并给出新角色1级时的技能点数和角色升级时所得技能点数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This section summarizes the fundamental combat statistics.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T011755Z" creationid="quentine" creationdate="20201114T011755Z">
+        <seg>这一部分列举了战斗所需的基本数据。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39542,6 +41942,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>This two-door pickup truck has a 4.2-liter, 202-horsepower V6 engine.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T130204Z" creationid="quentine" creationdate="20201029T130204Z">
+        <seg>这款双门的皮卡搭载了4.2升排量、202马力的V6引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>This unswerving belief allows the Dedicated hero to add his or her Wisdom modifier to the die roll whenever the hero spends 1 action point to improve the result of an attack roll, skill check, saving throw, or ability check.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190202T104608Z" creationid="quentine" creationdate="20190202T104608Z">
@@ -39586,6 +41994,38 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190612T142043Z" creationid="quentine" creationdate="20190612T142043Z">
         <seg>使用此技能可以让你像魔杖要求的职业一样使用此魔杖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This vehicle comes equipped with a 25mm cannon (see Table: Vehicle Weapons) mounted in a full turret.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T133101Z" creationid="quentine" creationdate="20201030T133101Z">
+        <seg>此载具装备了一个带25mm加农炮（见表：载具武器）的全包式炮塔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This vehicle comes equipped with a 30mm cannon (see Table: Vehicle Weapons) mounted in a full turret.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T132029Z" creationid="quentine" creationdate="20201030T132029Z">
+        <seg>此载具装备了一个带30mm加农炮（见表：载具武器）的全包式炮塔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This vehicle comes equipped with a tank cannon (see Table: Vehicle Weapons) and an M2HB heavy machine gun (see Table: Ranged Weapons), both mounted in full turrets.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T134447Z" creationid="quentine" creationdate="20201030T132750Z">
+        <seg>此载具装备了一门坦克加农炮（见表：载具武器）和一挺M2HB重机枪（见表：远程武器），两者都搭载在全包式炮塔上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This vehicle is two squares wide and eight squares long.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T130726Z" creationid="quentine" creationdate="20201030T130726Z">
+        <seg>这种载具有2格宽8格长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39842,6 +42282,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190703T114315Z" creationid="quentine" creationdate="20190703T113434Z">
         <seg>侍僧要像进行斥喝检定那样做一次`驱散检定`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To find out if it is actually a critical hit, the character immediately makes another attack roll with all the same modifiers as the attack roll that scored the threat.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T113010Z" creationid="quentine" creationdate="20201118T113010Z">
+        <seg>要判断该攻击是否真的是重击，角色需立即再以完全相同的调整值掷一次攻击骰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40238,6 +42686,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Trucks include pickups, sport utility vehicles, vans, and minivans.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T123139Z" creationid="quentine" creationdate="20201029T123139Z">
+        <seg>卡车包括皮卡、运动型多用途车（SUV）、面包车以及多功能休旅车。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Trucks of this sort are often available as rentals.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T130227Z" creationid="quentine" creationdate="20201030T130227Z">
+        <seg>这类大卡车通常可以租赁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Tumble can provide a +2 synergy bonus on Jump checks (see Skill Synergy).</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191021T143254Z" creationid="quentine" creationdate="20191021T143254Z">
@@ -40266,6 +42730,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T142052Z" creationid="quentine" creationdate="20190115T142052Z">
         <seg>连续两次成功的豁免则使角色战胜疾病，不再受到伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Two turbofans, set on the fuselage above and behind the wings, provide the power.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T150045Z" creationid="quentine" creationdate="20200803T150045Z">
+        <seg>由安装在机身上方、机翼后方的双发涡轮提供动力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40366,6 +42838,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Unless otherwise noted, civilian cars provide three-quarters cover for their occupants (although passengers who lean out of windows or sunroofs, perhaps to fire weapons, may be reduced to one-half or even one-quarter cover).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200813T150035Z" creationid="quentine" creationdate="20200813T150035Z">
+        <seg>除非特别说明，民用汽车为乘客提供3/4掩体（但如果在乘客伸出窗外或天窗，还有面对火焰武器的情况下，只会提供半掩体甚至1/4掩体）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unless otherwise specified, the multiplier is x2.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T113638Z" creationid="quentine" creationdate="20201118T113638Z">
+        <seg>除非特别说明，倍增值为2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Unless otherwise stated, improved grab works only against opponents at least one size category smaller than the creature.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191031T131021Z" creationid="quentine" creationdate="20191031T131021Z">
@@ -40410,6 +42898,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T132328Z" creationid="quentine" creationdate="20200410T132328Z">
         <seg>不像弹匣，转轮不能随便拆卸，必需手动装填。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unlike getting into a car, mounting a motorcycle is a free action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T120437Z" creationid="quentine" creationdate="20201029T120437Z">
+        <seg>与进入汽车不同，骑上摩托车是一个即时动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40566,6 +43062,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Used to transport money between businesses and financial institutions, armored trucks are designed to deter would-be thieves.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T124745Z" creationid="quentine" creationdate="20201030T124745Z">
+        <seg>武装卡车用于押运金钱，往来于商务与金融机构之间，专为防范可能的盗抢活动而设计。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Using Bluff as a feint in combat is an attack action.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190808T140639Z" creationid="quentine" creationdate="20190808T140639Z">
@@ -40686,6 +43190,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Vehicles are described by a number of statistics, as shown on Table: Vehicles.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200614T062416Z" creationid="quentine" creationdate="20200614T062416Z">
+        <seg>载具有各种属性，见表：载具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Vehicles that carry passengers can use that space to carry additional cargo when passengers aren’t present.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200614T063301Z" creationid="quentine" creationdate="20200614T063301Z">
+        <seg>乘员位空置时，可用空余空间承运货物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Wealth checks are used to determine what characters can afford and what gear they might reasonably have access to.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181106T134208Z" creationid="QuenTine" creationdate="20181106T134208Z">
@@ -40706,6 +43226,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191104T133934Z" creationid="quentine" creationdate="20191104T133934Z">
         <seg>武器、护甲、以及其他类型的装备可以以大师级工艺水准制造。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Wearing armor can slow a character down.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T121534Z" creationid="quentine" creationdate="20201118T121534Z">
+        <seg>穿着护甲会减慢角色的移动速度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40814,6 +43342,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>When a character hits with a melee weapon or thrown weapon, add his or her Strength modifier to the damage.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T105832Z" creationid="quentine" creationdate="20201118T105832Z">
+        <seg>当角色使用近战武器或投掷武器命中时，其力量调整值将应用在伤害上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a character hits with a weapon, he or she deals damage according to the type of weapon.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T105220Z" creationid="quentine" creationdate="20201118T105220Z">
+        <seg>角色以武器成功命中时，将按武器类型结算伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>When a character is exposed to a treatable disease, the character must make an immediate Fortitude saving throw.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T141839Z" creationid="quentine" creationdate="20190115T141839Z">
@@ -40834,6 +43378,22 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T134255Z" creationid="quentine" creationdate="20190115T134255Z">
         <seg>当角色被器械或攻击者扼喉时，按照以下规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a character makes an attack roll and gets a natural 20 (the d20 shows 20), the character hits regardless of the target’s Defense, and the character has scored a threat of a critical hit.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T112712Z" creationid="quentine" creationdate="20201118T112712Z">
+        <seg>当角色掷攻击骰时，自然骰结果为20点，角色将无视目标的防御值直接命中，并产生一个`重击威胁`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a character makes an attack roll, he or she rolls 1d20 and adds his or her attack bonus.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T013104Z" creationid="quentine" creationdate="20201114T012529Z">
+        <seg>角色做一个攻击骰，即投1d20再加上角色的攻击加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40938,6 +43498,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T111234Z" creationid="quentine" creationdate="20190115T111234Z">
         <seg>当角色当前的生命值减至-10或更低，角色死亡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a character’s hit point total drops to 0, he or she is disabled.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T121256Z" creationid="quentine" creationdate="20201118T121256Z">
+        <seg>角色的生命值降到0，角色瘫痪。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41102,6 +43670,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>When everyone has had a turn, the combatant with the highest initiative acts again, and steps 4 and 5 repeat until combat ends.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T011101Z" creationid="quentine" creationdate="20201114T011101Z">
+        <seg>当所有人都过了一轮后，先攻最高的作战者再次行动，并且重复步骤4和5直到作战结束。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>When faced with multiple choices, such as at a branch in a tunnel, a character can make a Navigate check (DC 20) to intuit the choice that takes the character toward a known destination.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191025T134525Z" creationid="quentine" creationdate="20191025T134302Z">
@@ -41122,6 +43698,22 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T123119Z" creationid="quentine" creationdate="20190115T122923Z">
         <seg>英雄被擒抱时无法施展除了空手攻击、轻武器攻击或试图挣脱擒抱者以外的动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When it drops to –1, he or she is dying.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T121334Z" creationid="quentine" creationdate="20201118T121334Z">
+        <seg>降到-1，角色濒死。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When it drops to –10, the character is dead.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T121351Z" creationid="quentine" creationdate="20201118T121351Z">
+        <seg>降到-10，角色死亡。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41630,6 +44222,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Wielding a Weapon Two-Handed: When a character deals damage with a weapon that he or she is wielding two-handed, add 1.5 times the character’s Strength bonus.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T110304Z" creationid="quentine" creationdate="20201118T110304Z">
+        <seg>双手持用武器：当双手持用武器造成伤害时，伤害值可以加上力量加值的1.5倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Will: These saves reflect a character’s resistance to mental influence and domination as well as to many magical effects.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T123011Z" creationid="quentine" creationdate="20201118T123011Z">
+        <seg>意志豁免： 这一豁免反映了角色对精神上的影响和控制和许多魔法效果的抵抗能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Willpower is a free action that can be attempted once per round.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190619T131233Z" creationid="quentine" creationdate="20190619T131233Z">
@@ -41706,6 +44314,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190413T135313Z" creationid="quentine" creationdate="20190413T135056Z">
         <seg>枪手的连射，即在一轮内以最高的基础攻击加值额外进行一次远程攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With a ranged weapon, a character’s attack bonus is:</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T014115Z" creationid="quentine" creationdate="20201114T014115Z">
+        <seg>角色使用远程武器的攻击加值为：</seg>
       </tuv>
     </tu>
     <tu>
@@ -42764,6 +45380,38 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181024T045310Z" creationid="QuenTine" creationdate="20181024T045310Z">
         <seg>d20 + 调整值（Modifiers） vs. 目标数值（Target Number）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>long\])|–4|
+|Huge (elephant)|–2|
+|Large (lion)|–1|
+|Medium-size (human)|+0|
+|Small (German shepherd)|+1|
+|Tiny (housecat)|+2|
+|Diminutive (rat)|+4|
+|Fine (horsefly)|+8|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T021914Z" creationid="quentine" creationdate="20201114T021914Z">
+        <seg>长\])|–4|
+|超大型（大象）|–2|
+|大型（狮子）|–1|
+|普通（人类）|+0|
+|小型（德国牧羊犬）|+1|
+|超小型（大家鼠）|+2|
+|微型（大鼠）|+4|
+|超微型（马蝇）|+8|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>long\])|–8|
+|Gargantuan (gray whale \[40 ft.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T020708Z" creationid="quentine" creationdate="20201114T020708Z">
+        <seg>长\])|–8|
+|巨型 （灰鲸 \[40 尺</seg>
       </tuv>
     </tu>
     <tu>
@@ -44944,6 +47592,116 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>|Name|Crew|Pass|Cargo|Init|Maneuver|Top Speed|Defense|Hardness|Hit Points|Size|Purchase DC|Restriction|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**Civilian Aircraft**|||||||||||||
+|Bell Jet Ranger (helicopter)|1|4|250 lb.|–4|–4|245 (25)|6|5|28|G|39|Lic (+1)|
+|Bell Model 212 (helicopter)|2|13|5,000 lb.|–4|–4|200(20)|6|5|36|G|45|Res (+2)|
+|Cessna 172 Skyhawk (prop plane)|1|3|120 lb.|–4|–4|210 (21)|6|5|30|G|36|Lic (+1)|
+|Learjet Model 45 (corporate jet)|2|10|500 lb.|–4|–4|1,100 (110)|6|5|44|G|40|Lic (+1)|
+||||||||||||||
+|**Civilian Cars**|||||||||||||
+|Acura 3.2 TL (mid-size sedan)|1|4|300 lb.|–2|–1|265 (26)|8|5|34|H|29|Lic (+1)|
+|Aston-Martin Vanquish (sports coupe)|1|1|175 lb.|–2|+0|335 (33)|8|5|34|H|36|Lic (+1)|
+|BMW M3 (sports coupe)|1|4|200 lb.|–2|+1|275 (27)|8|5|32|H|30|Lic (+1)|
+|Chevrolet Cavalier (economy coupe)|1|4|275 lb.|–1|–1|185 (18)|9|5|30|L|26|Lic (+1)|
+|Chevrolet Corvette (sports coupe)|1|1|250 lb.|–2|+0|310 (31)|8|5|32|H|30|Lic (+1)|
+|Dodge Neon (economy sedan)|1|4|275 lb.|–1|–1|220 (22)|9|5|30|L|26|Lic (+1)|
+|Ford Crown Victoria (mid-size sedan)|1|5|425 lb.|–2|–1|185 (18)|8|5|34|H|28|Lic (+1)|
+|Jaguar XJS (luxury sedan)|1|4|275 lb.|–2|–1|230 (23)|8|5|34|H|32|Lic (+1)|
+|Lamborghini Diablo (sports coupe)|1|1|100 lb.|–2|+1|360 (36)|8|5|34|H|37|Lic (+1)|
+|Mercedes E55 AMG (luxury sedan)|1|4|325 lb.|–2|+0|280 (28)|8|5|34|H|32|Lic (+1)|
+|Volkswagen Jetta (mid-size wagon)|1|4|275 lb.|–2|+0|230 (23)|8|5|32|H|28|Lic (+1)|
+||||||||||||||
+|**Civilian Motorcycles**|||||||||||||
+|Ducati 998R (racing bike)|1|0|0 lb.|+0|+3|370 (37)|10|5|18|M|27|Lic (+1)|
+|Harley Davidson FLSTF (street bike) |1|1|0 lb.|–1|+1|275 (27)|9|5|22|L|26|Lic (+1)|
+|Yamaha YZ250F (dirt bike)|1|1|0 lb.|+0|+2|165 (16)|10|5|18|M|23|Lic (+1)|
+||||||||||||||
+|**Civilian Trucks**|||||||||||||
+|AM General Hummer (SUV)|1|3|1,000 lb.|–2|–2|140 (14)|8|5|38|H|34|Lic (+1)|
+|Chevrolet Suburban (SUV)|1|8|500 lb.|–2|–2|175 (17)|8|5|38|H|30|Lic (+1)|
+|Dodge Caravan (minivan)|1|4|325 lb.|–2|–2|195 (19)|8|5|34|H|28|Lic (+1)|
+|Ford Escape XLT (SUV)|1|4|300 lb.|–2|–2|200 (20)|8|5|32|H|29|Lic (+1)|
+|Ford F-150 XL (pickup)|1|2|1,700 lb.|–2|–2|175 (17)|8|5|36|H|28|Lic (+1)|
+|Toyota Tacoma Xtracab (pickup)|1|3|1,600 lb.|–2|–2|185 (18)|8|5|34|H|27|Lic (+1)|
+||||||||||||||
+|**Civilian Water Vehicles**|||||||||||||
+|Bayliner 1802 Capri (runabout)|1|5|2,100 lb.|–2|–2|55 (5)|8|5|28|H|28|Lic (+1)|
+|Fairline Targa 30 (cabin cruiser)|1|3|2,100 lb.|–4|–4|80 (8)|6|5|40|G|32|Lic (+1)|
+|Sea-Doo XP (personal watercraft)|1|1|60 lb.|–1|+1|105 (10)|9|5|22|L|24|Lic (+1)|
+||||||||||||||
+|**Other Civilian Vehicles**|||||||||||||
+|Armored truck|2|0|3,600 lb.|–2|–2|175 (17)|8|10|36|H|34|Res (+2)|
+|Honda TRX400FW (4-wheel ATV)|1|0|675 lb.|–1|+1|95 (9)|9|5|22|L|23|Lic (+1)|
+|Limousine|1|7|425 lb.|–4|–4|195 (19)|6|5|38|G|36|Lic (+1)|
+|Moving truck|1|2|33,000 lb.|–4|–4|165 (16)|6|5|44|G|34|Lic (+1)|
+|NABI Model 40LFW (city bus)|1|39|0 lb.|–4|–4|120 (12)|6|5|48|G|38|Lic (+1)|
+||||||||||||||
+|**Military Vehicles**|||||||||||||
+|BMP-2 (tracked APC)|3|7|250 lb.|–2|–2|70 (7)|8|10|52|H|40|Mil (+3)|
+|M1A2 Abrams (tracked tank)|4|0|425 lb.|–4|–4|80 (8)|6|20|64|G|47|Mil (+3)|
+|M2A2 Bradley (tracked APC)|3|7|425 lb.|–4|–4|70 (7)|6|15|58|G|45|Mil (+3)|
+|M113A1 Gavin (tracked APC)|2|11|200 lb.|–2|–2|62 (6)|8|10|48|H|39|Mil (+3)|
+|UH-60 Black Hawk (helicopter)|2|14|9,000 lb.|–4|–4|325 (32)|6|5|46|G|47|Mil (+3)|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T020017Z" creationid="quentine" creationdate="20200701T115352Z">
+        <seg>|名称|车组位|乘员位|货容量|先攻|机动性|极速|防御|硬度|生命值|体型|购买 DC|限制级|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|**民用航空**|||||||||||||
+|贝尔206A喷气突击队员（直升机）|1|4|250磅|–4|–4|245 （25）|6|5|28|巨型|39|执照（+1）|
+|贝尔212型（直升机）|2|13|5000 磅|–4|–4|200（20）|6|5|36|巨型|45|管制（+2）|
+|塞斯纳172天鹰（螺旋桨飞机）|1|3|120 磅|–4|–4|210 （21）|6|5|30|巨型|36|执照（+1）|
+|里尔喷气45型（商务喷气机）|2|10|500 磅|–4|–4|1100 （110）|6|5|44|巨型|40|执照（+1）|
+||||||||||||||
+|**民用汽车**|||||||||||||
+|讴歌 3.2 TL （中型轿车）|1|4|300 磅|–2|–1|265 （26）|8|5|34|超大型|29|执照（+1）|
+|阿斯顿·马丁-万奎仕 （运动型轿跑）|1|1|175 磅|–2|+0|335 （33）|8|5|34|超大型|36|执照（+1）|
+|宝马 M3 （运动型轿跑）|1|4|200 磅|–2|+1|275 （27）|8|5|32|超大型|30|执照（+1）|
+|雪佛兰科沃兹（经济型双座）|1|4|275 |–1|–1|185 （18）|9|5|30|大型|26|执照（+1）|
+|雪佛兰科尔维特（运动型轿跑）|1|1|250 磅|–2|+0|310 （31）|8|5|32|超大型|30|执照（+1）|
+|道奇霓虹 （经济型轿车）|1|4|275 磅|–1|–1|220 （22）|9|5|30|大型|26|执照（+1）|
+|福特维多利亚皇冠 （中型轿车）|1|5|425 磅|–2|–1|185 （18）|8|5|34|超大型|28|执照（+1）|
+|捷豹 XJ轿车 （奢侈型轿车）|1|4|275 磅|–2|–1|230 （23）|8|5|34|超大型|32|执照（+1）|
+|兰博基尼迪亚波罗 （运动型轿跑）|1|1|100 磅|–2|+1|360 （36）|8|5|34|超大型|37|执照（+1）|
+|梅赛德斯 E55 AMG （奢侈型轿车）|1|4|325 磅|–2|+0|280 （28）|8|5|34|超大型|32|执照（+1）|
+|大众捷达 （中型旅行车）|1|4|275 磅|–2|+0|230 （23）|8|5|32|超大型|28|执照（+1）|
+||||||||||||||
+|**民用摩托车**|||||||||||||
+|杜卡迪 998R （跑车）|1|0|0 磅|+0|+3|370 （37）|10|5|18|普通|27|执照（+1）|
+|哈雷戴维森 FLSTF （街车） |1|1|0 磅|–1|+1|275 （27）|9|5|22|大型|26|执照（+1）|
+|雅马哈 YZ250F （越野车）|1|1|0 磅|+0|+2|165 （16）|10|5|18|普通|23|执照（+1）|
+||||||||||||||
+|**民用卡车**|||||||||||||
+|AMG悍马（SUV）|1|3|1000 磅|–2|–2|140 （14）|8|5|38|超大型|34|执照（+1）|
+|雪佛兰萨博班（SUV）|1|8|500 磅|–2|–2|175（17）|8|5|38|超大型|30|执照（+1）|
+|道奇凯领 （多功能休旅车）|1|4|325 磅|–2|–2|195 （19）|8|5|34|超大型|28|执照（+1）|
+|福特锐际 XLT （SUV）|1|4|300 磅|–2|–2|200 （20）|8|5|32|超大型|29|执照（+1）|
+|福特 F-150 XL （皮卡）|1|2|1700 磅|–2|–2|175 （17）|8|5|36|超大型|28|执照（+1）|
+|丰田塔科马 Xtracab （皮卡）|1|3|1600 磅|–2|–2|185 （18）|8|5|34|超大型|27|执照（+1）|
+||||||||||||||
+|**民用船只**|||||||||||||
+|贝琳娜 1802 卡普里 （轻型汽艇）|1|5|2100 磅|–2|–2|55 （5）|8|5|28|超大型|28|执照（+1）|
+|菲尔兰塔尔加 30 （大游艇）|1|3|2100 磅|–4|–4|80 （8）|6|5|40|巨型|32|执照（+1）|
+|喜度 XP （摩托艇）|1|1|60 磅|–1|+1|105 （10）|9|5|22|大型|24|执照（+1）|
+||||||||||||||
+|**其他民用载具**|||||||||||||
+|武装卡车|2|0|3600 磅|–2|–2|175 （17）|8|10|36|超大型|34|管制（+2）|
+|本田TRX400FW（四轮沙滩车）|1|0|675 磅|–1|+1|95 （9）|9|5|22|大型|23|执照（+1）|
+|豪华轿车|1|7|425 磅|–4|–4|195 （19）|6|5|38|巨型|36|执照（+1）|
+|大卡车|1|2|33000 磅|–4|–4|165 （16）|6|5|44|巨型|34|执照（+1）|
+|北美客车40LFW型 （城市公交）|1|39|0 磅|–4|–4|120 （12）|6|5|48|巨型|38|执照（+1）|
+||||||||||||||
+|**军用载具**|||||||||||||
+|BMP-2 （履带式步兵战车）|3|7|250 磅|–2|–2|70 （7）|8|10|52|超大型|40|军用（+3）|
+|M1A2艾布拉姆斯 （履带式坦克）|4|0|425 磅|–4|–4|80 （8）|6|20|64|巨型|47|军用（+3）|
+|M2A2布雷德利 （履带式步兵战车）|3|7|425 磅|–4|–4|70 （7）|6|15|58|巨型|45|军用（+3）|
+|M113A1盖文（履带式步兵战车）|2|11|200 磅|–2|–2|62 （6）|8|10|48|超大型|39|军用（+3）|
+|UH-60黑鹰 （直升机）|2|14|9000 磅|–4|–4|325 （32）|6|5|46|巨型|47|军用（+3）|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>|Narrow Surface|DC\*|Difficult Surface|DC|
 |--------------|:-:|-----------------|:-:|
 |7–12 in wide|10|Uneven or angled|10|
@@ -45370,6 +48128,18 @@
 |该英雄威名或者骂名远扬|+10|
 |GM 角色是该英雄行业领域或社交圈内部的人|+5|
 |该英雄小有名声|+2|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>|Size (Example)|Size Modifier|
+|--------------|:-----------:|
+|Colossal (blue whale \[90 ft.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T020448Z" creationid="quentine" creationdate="20201114T020323Z">
+        <seg>|体型（范例）|体型调整值|
+|--------------|:-----------:|
+|超巨型（蓝鲸 \[90 尺</seg>
       </tuv>
     </tu>
     <tu>
@@ -46156,6 +48926,26 @@
 |手里剑（古典）|1|20|穿刺|10尺|单发|—|超小型|0.5磅|3|—|
 |电击枪（简单）|1d4\*\*|—|电能|5尺|单发|1发内置|小型|2磅|7|—|
 |鞭子（简单）|1d2|20|劈砍|15尺\*\*\*|单发|—|小型|2磅|4|—|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>|Weapon|Damage|Critical|Damage Type|Range Increment|Rate of Fire|Magazine|Size|Weight|Purchase DC|Restriction|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Cannons (require the Exotic Firearms Proficiency \[cannons\] feat)|||||||||||
+|BMP-2 30mm cannon|4d12|20|Ballistic|300 ft.|A|Linked|Huge|\*|\*|\*|
+|M1A2 Abrams tank cannon|10d12|20|Ballistic|400 ft.|Single|1|Huge|\*|\*|\*|
+|M2A2 Bradley 25mm cannon|4d12|20|Ballistic|350 ft.|A|Linked|Huge|\*|\*|\*|
+\* Weight, purchase DC, and restriction rating do not apply.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T135239Z" creationid="quentine" creationdate="20201030T134049Z">
+        <seg>|武器|伤害|重击|伤害类型|射程跨度|射击模式|弹仓|尺寸|重量|购买 DC|限制级|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|加农炮（需要`擅长异种火器 \[加农炮\]` 专长)|||||||||||
+|BMP-2 30mm 加农炮|4d12|20|实弹|300尺|全|弹链|超大型|\*|\*|\*|
+|M1A2 艾布拉姆斯坦克加农炮|10d12|20|实弹|400尺|手动|1|超大型|\*|\*|\*|
+|M2A2 布雷德利 25mm 加农炮|4d12|20|实弹|350尺|全|弹链|超大型|\*|\*|\*|
+\* 重量、购买DC和限制级无效。</seg>
       </tuv>
     </tu>
     <tu>
