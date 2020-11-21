@@ -1347,3 +1347,14 @@ extra dice	额外骰
 automatic hit	必然命中
 innate	固有的
 run all out	全力奔跑	以一个整轮动作奔跑
+Special Initiative Action	特殊先攻动作
+Special Attack	特殊攻击
+Ready	准备	准备攻击
+Crawl	匍匐
+Full attack	全力攻击	用一个整轮动作来攻击
+Overrun	闯越
+Withdraw	撤退
+Varies	可变
+Delay	等待
+Two-Handed	双手	注意双手和双持的区别
+Actions in Combat	战斗中的动作
