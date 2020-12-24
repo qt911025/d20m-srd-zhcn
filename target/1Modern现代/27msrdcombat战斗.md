@@ -78,7 +78,7 @@
 
 副手武器（Off-Hand Weapon）： 当用副手武器造成伤害时，只能加上一半的强壮加值。
 
-双手持用武器：当双手持用武器造成伤害时，伤害值可以加上力量加值的1.5倍。但该规则不适用于双手使用轻武器；这种情形下，伤害骰只能应用一倍力量加值。
+双手武器：当以双手武器造成伤害时，伤害值可以加上力量加值的1.5倍。但该规则不适用于双手使用一把轻武器；这种情形下，伤害骰只能应用一倍力量加值。
 
 ## 伤害倍增
 
@@ -176,171 +176,171 @@
 
 ## 先攻
 
-Every round, each combatant gets to do something. The combatants’ initiative checks, from highest to lowest, determine the order in which they act, from first to last.
+每一轮，每个作战者都执行某些动作。作战者的先攻检定结果的高低，决定了他们行动顺序的先后。
 
-### Initiative Checks
+### 先攻检定
 
-At the start of a battle, each combatant makes a single initiative check. An initiative check is a Dexterity check. Each character applies his or her Dexterity modifier to the roll, and anyone with the Improved Initiative feat gets an additional +4 bonus on the check. The GM finds out what order characters are acting in, counting down from highest result to lowest, and each character acts in turn. On all following rounds, the characters act in the same order (unless a character takes an action that results in his or her initiative changing; see Special Initiative Actions).  If two or more combatants have the same initiative check result, the combatants who are tied go in order of total initiative modifier (including Dexterity modifier and Improved Initiative bonus, if applicable). If there is still a tie, roll a die.
+一场战斗开始时，每个作战者都做一个先攻检定。一个先攻检定是一次敏捷检定。每个角色将敏捷调整值应用于骰点，拥有`精通先攻`专长的角色的检定拥有额外的4点加值。GM决出角色的行动顺序，结果从高到低，每个角色依次行动。接下来的所有轮里，角色都依照相同的顺序行动（除非角色采取的行动造成其先攻值的改变：详见`特殊先攻动作`）。如果两个或者更多的作战者有相同的先攻值，那么有较高总先攻调整值（包括敏捷调整值和可能有的精通先攻加值）的作战者先行动。如果还是相同，相同的人物再掷一次骰决出他们的先后。
 
-Flat-Footed: At the start of a battle, before the character has had a chance to act (specifically, before the character’s first turn in the initiative order), the character is flat-footed. A character can’t use his or her Dexterity bonus to Defense or make attacks of opportunity while flat-footed.
+措手不及：战斗开始时，在角色有机会行动前（特别是在角色先攻顺序下的第一回合前），角色是措手不及的。措手不及时，角色不能将敏捷加值应用于防御，也不能做出借机攻击。
 
-### Joining a Battle
+### 加入战斗
 
-If characters enter a battle after it has begun, they roll initiative at that time and act whenever their turn comes up in the existing order.
+如果角色进入一场已经开始的战斗，他们将在加入时立即进行一次先攻检定，按检定结果插入队列中，并在轮到自己时行动。
 
-## Surprise
+## 突袭
 
-When a combat starts, if a character was not aware of his or her enemies and they were aware of the character, that character is surprised. Likewise, a character can surprise his or her enemies if the character knows about them before they’re aware of the character.
+战斗开始时，如果角色未`觉察`到敌人，而敌人觉察到了自己，角色就被`突袭`了。同理，角色如果觉察到敌人而敌人未觉察到角色，角色则可以突袭敌人。
 
-### The Surprise Round
+### 突袭轮
 
-如果只有一部分作战者觉察到敌人，那么在作战的`正常轮`（regular round）开始前有一个突袭轮（surprise round）。The combatants who are aware of the opponents can act in the surprise round, so they roll for initiative. In initiative order (highest to lowest), combatants who started the battle aware of their opponents each take an attack action or move action during the surprise round (see Action Types, below). If no one or everyone is surprised, a surprise round does not occur.
+如果只有一部分作战者觉察到敌人，那么在作战的`正常轮`（regular round）开始前有一个突袭轮（surprise round）。觉察到敌人的作战者可以在突袭轮中行动，因此他们要投一个先攻。在突袭轮中，按照先攻顺序（高骰点先），每个觉察到敌人的作战者可以在突袭轮中做一个攻击动作或一个移动动作（见下文`动作类型`）。如果没有人觉察到对方，或者所有人都彼此发现，那么没有突袭轮。
 
-### Unaware Combatants
+### 未觉察的作战者
 
-Combatants who are unaware at the start of battle do not get to act in the surprise round. Unaware combatants are still flat-footed because they have not acted yet. Because of this, they lose any Dexterity bonus to Defense.
+那些没觉察到敌人的作战者在突袭轮中不能做动作。未觉察的作战者仍是措手不及的，因为他们还没有行动。于是他们在防御中失去所有的敏捷加值。
 
-## Actions in Combat
+## 战斗中的动作
 
-The fundamental actions of moving and attacking cover most of what a character wants to do in a battle. They’re described here. Other, more specialized options are touched on in Table: Actions in Combat, and covered in Special Initiative Actions and Special Attacks.
+基本的移动和攻击动作涵盖了角色在战斗中想要做的大多数行为，如下所述。更细化的选项将在`表：战斗中的动作`介绍，`特殊先攻动作`和`特殊攻击`也有所涉及。
 
-### The Combat Round
+### 战斗轮
 
-Each round represents about 6 seconds in the game world. A round is an opportunity for each character involved in a combat to take an action. Anything a person could reasonably do in 6 seconds, a character can do in 1 round.
+每一轮代表游戏世界的6秒钟。每个参与战斗的角色行动一回合便是一轮。角色能在一轮内完成任何现实中一个人在6秒内完成的事。
 
-Each round’s activity begins with the character with the highest initiative result and then proceeds, in order, from there. Each round of a combat uses the same initiative order. When a character’s turn comes up in the initiative sequence, that character performs his or her entire round’s worth of actions. (For exceptions, see Attacks of Opportunity and Special Initiative Actions.)
+每轮是从有最高先攻的角色开始的，然后按顺序继续下去。每一轮都使用相同的先攻序列。当轮到角色的回合时，角色能做一轮的时间所能做的动作。（对于例外情况，见`借机攻击`和`特殊先攻动作`。）
 
-For almost all purposes, there is no relevance to the end of a round or the beginning of a round. A round can be a segment of game time starting with the first character to act and ending with the last, but it usually means a span of time from a certain round to the same initiative number in the next round. Effects that last a certain number of rounds end just before the same initiative count that they began on.
+对于绝大多数情况，并没有所谓“轮的结束”与“轮的开始”之分。一轮可以是从第一个行动的角色到最后一个行动角色之间的游戏时间，但更多是指从某一个先攻值代表的回合开始到下一轮相同先攻值代表的回合结束的这段时间。持续特定轮数的效果，会在计数达到该特定轮数的轮的首个回合之前结束。
 
-**Table: Actions in Combat**
+**表：战斗中的动作**
 
-|Attack Actions|Attack of Opportunity\*|
+|攻击动作|是否会遭到借机攻击\*|
 |--------------|----------------------:|
-|Attack (melee)|No|
-|Attack (ranged)|Yes|
-|Attack (unarmed)|Yes|
-|Attack (aid another)|No|
-|Bull rush (attack)|No|
-|Escape a grapple|No|
-|Feint (see the Bluff skill)|No|
-|Ready (triggers an attack action)|No|
-|Make a dying character stable|Yes|
-|Attack a weapon|Yes|
-|Attack an object|Maybe\*\*|
-|Total defense|No|
-|Use a skill that takes an attack action|Usually|
-|Start/complete full-round action|Varies|
+|攻击（近战）|否|
+|攻击（远程）|是|
+|攻击（徒手）|是|
+|攻击（协助他人）|否|
+|冲撞（攻击）|否|
+|挣脱擒抱|否|
+|虚招（见`唬骗`技能）|否|
+|准备（触发一个攻击动作）|否|
+|稳定一个濒死角色|是|
+|对武器攻击|是|
+|对物品攻击|可能\*\*|
+|全防御|否|
+|使用一个需要攻击动作的技能|通常会|
+|开始/完成一个整轮动作|可变|
 
-|Move Actions|Attack of Opportunity\*|
+|移动动作|是否会遭到借机攻击\*|
 |------------|----------------------:|
-|Move your speed|Yes|
-|Use a piece of equipment|No|
-|Climb (one-quarter speed)|No|
-|Climb, accelerated (one-half speed)|No|
-|Crawl|No|
-|Draw a weapon\*\*\*|No|
-|Holster a weapon|Yes|
-|Move a heavy object|Yes|
-|Open a door|No|
-|Pick up an object|Yes|
-|Reload a firearm with a box magazine or speed loader|Yes|
-|Retrieve a stored object|Yes|
-|Stand up from prone, sitting, or kneeling|Yes|
-|Swim|No|
-|Use a skill that takes a move action|Usually|
+|移动|是|
+|使用装备|否|
+|攀爬（四分之一速）|否|
+|加速攀爬（半速）|是|
+|匍匐|否|
+|拔出武器\*\*\*|否|
+|收回武器|是|
+|移动重物|是|
+|开门|否|
+|捡起物品|是|
+|用弹匣或快速装弹器装填|是|
+|取出装起来的物品|是|
+|从卧、坐、跪的姿态站起|是|
+|游泳|否|
+|使用一个需要移动动作的技能|通常会|
 
-|Full-Round Actions|Attack of Opportunity\*|
+|整轮动作|是否会遭到借机攻击\*|
 |------------------|----------------------:|
-|Bull rush (charge)|No|
-|Charge|No|
-|Coup de grace |Yes|
-|Full attack|No|
-|Overrun (charge)|No|
-|Run|Yes|
-|Withdraw|No|
-|Extinguish flames|No|
-|Use a skill that takes a full round|Usually|
-|Reload a firearm with an internal magazine|Yes|
+|冲撞（冲锋）|否|
+|冲锋|否|
+|致命一击|是|
+|全力攻击|否|
+|闯越（冲锋）|否|
+|奔跑|是|
+|撤退|否|
+|扑灭火焰|否|
+|使用一个需要整轮动作的技能|通常会|
+|装填内置式弹仓的火器|是|
 
-|Free Actions|Attack of Opportunity\*|
+|即时动作|是否会遭到借机攻击\*|
 |------------|----------------------:|
-|Drop an object|No|
-|Drop to prone, sitting, or kneeling|No|
-|Speak|No|
+|扔掉物品|否|
+|向下卧倒、坐、跪|否|
+|说话|否|
 
-|Action Type Varies|Attack of Opportunity\*|
+|可变动作类型|是否会遭到借机攻击\*|
 |------------------|----------------------:|
-|Disarm\*\*\*\*|Yes|
-|Grapple\*\*\*\*|Yes|
-|Load a weapon|Yes|
-|Trip an opponent\*\*\*\*|No (Yes if unarmed)|
-|Use a feat\*\*\*\*\*|Varies|
+|卸除武器\*\*\*\*|是|
+|擒抱\*\*\*\*|是|
+|装载武器|是|
+|绊摔对手\*\*\*\*|否（若为徒手则是）|
+|使用专长\*\*\*\*\*|可变|
 
-|No Action|Attack of Opportunity\*|
+|无动作|是否会遭到借机攻击\*|
 |---------|----------------------:|
-|Delay|No|
-|5-foot step|No|
+|等待|否|
+|五尺快步|否|
 
-\* Regardless of the action, if a character moves out of a threatened square, the character usually provokes an attack of opportunity. This column indicates whether the action itself, not moving, provokes an attack of opportunity.
+\* 不管是什么动作，只要角色移出威胁范围，角色通常都会引发一次借机攻击。该列指的是动作本身是否会引发借机攻击，而非移动部分。
 
-\*\* If the object is being held, carried, or worn by a creature, yes. If not, no.
+\*\* 如果物品被一个生物拿着、携带着、穿着，则会。否则不会。
 
-\*\*\* If the character has a base attack bonus of +1 or higher, he or she can combine this action with a regular move. If the character has the Two-Weapon Fighting feat, he or she can draw two light or one-handed weapons in the time it would normally take to draw one.
+\*\*\* 如果角色的基础攻击加值至少有1点，则可以将此动作与一个常规的移动合并。如果角色有`双持`专长，则可以同时拔出两把轻武器或单手武器。
 
-\*\*\*\* These attack forms substitute for a melee attack, not an action. As melee attacks, they can be used once in an attack or charge action, one or more times in a full attack action, or even as an attack of opportunity.
+\*\*\*\* 这些攻击类型替代了一次近战攻击，并非动作。因此它们可以像攻击一样在每次攻击或冲锋动作中使用，也可以在全力攻击中一次或多次使用，甚至还可以在借机攻击中使用。
 
-\*\*\*\*\* The description of a feat defines its effect.
+\*\*\*\*\* 效果见对应专长说明。
 
-## Action Types
+## 动作类型
 
-The four types of actions are attack actions, move actions, full-round actions, and free actions. In a normal round, a character can perform an attack action and a move action (or two move actions; a character can always take a move action in place of an attack action), or a character can perform a full-round action. A character can also perform as many free actions as the GM allows.
+有四种动作类型，分别为攻击动作、移动动作、整轮动作和即使动作。在一个正常轮内，角色可以做一个攻击动作和一个移动动作（或两个移动动作；角色总是可以将移动动作代替攻击动作），或者做一个整轮动作。角色也可以做几个即时动作，只要GM允许。
 
-In some situations (such as in the surprise round) a character may be limited to taking only a single attack or move action.
+在某些情况下（如在突袭轮中），角色可能被限制只能做一个单独的攻击动作或移动动作。
 
-### Attack Action
+### 攻击动作
 
-An attack action allows a character to do something. A character can make an attack, use a skill or a feat (unless the skill or feat requires a full-round action to perform; see below), or perform other similar actions. During a combat round, a character can take an attack action and a move action. A character can take a move action before or after performing an attack action.
+角色可以一个攻击动作做一些事情。角色可以攻击、使用技能或专长（除非技能或专长要求一个整轮动作来执行；见下文），或做其他类似的动作。在一个战斗轮中，角色可以执行一个攻击动作和一个移动动作。角色可以在攻击动作之前或之后做一个移动动作。
 
-### Move Action
+### 移动动作
 
-A move action allows a character to move his or her speed or perform an action that takes a similar amount of time. A character can move his or her speed, climb one-quarter of his or her speed, draw or stow a weapon or other object, stand up, pick up an object, or perform some equivalent action (see Table: Actions in Combat).
+角色可以用一个移动动作进行常速移动，或做需要花费相同时间的类似动作。角色可以以一倍的速度移动、以四分之一的速度攀爬、拔出或收回武器以及其他物品、起立、捡起物品、或做等价于此的动作（见表：战斗中的动作）。
 
-A character can take a move action in the place of an attack action.
+角色可以花费一个攻击动作做一个移动动作。
 
-If a character moves no actual distance in a round, that character can take one 5-foot step before, during, or after the action.
+如果角色在一轮内没有任何移动，角色可以在动作前、动作时、动作后做一个`五尺快步`移动。
 
-### Full-Round Action
+### 整轮动作
 
-A full-round action consumes all a character’s effort during a round. The only movement the character can take during a full-round action is a 5-foot step before, during, or after the action. Some full-round actions do not allow a character to take a 5-foot step. A character can also per-form free actions (see below) as the GM allows.
+一个整轮动作将用掉角色一整轮的时间。角色在一个整轮动作中唯一能做的移动行为只有五尺快步，在之前、同时、之后做都行。一些整轮动作不允许角色做五尺快步。角色同时可以在GM的允许下做即时动作（见下文）。
 
-### Free Action
+### 即时动作
 
-Free actions consume a very small amount of time and effort, and over the span of the round, their impact is so minor that they are considered free. A character can perform one or more free actions while taking another action normally. However, the GM puts reasonable limits on what a character can really do for free. For instance, dropping an object, dropping to a prone position, speaking a sentence or two, and ceasing to concentrate on a magic spell (if magic is available in the campaign) are all free actions.
+即时动作只会花费极小的时间和精力，在一轮中，即时动作影响极小所以可以自由地执行。角色在做其他常规动作的同时可以做一到多个即时动作。但GM将对角色真正能做的即时动作做出合理的限制。比如说，扔一件物品、卧倒、说一两句话、全神贯注于施法（如果游戏允许魔法内容）都是即时动作。
 
 
-## Attack Actions
+## 攻击动作
 
-Most common attack actions are described below. More specialized attack actions are mentioned in Table: Actions in Combat, and covered in Special Attacks.
+大多数常见的攻击动作将如下所述。更多具体的攻击动作将在`表：战斗中的动作`中介绍，`特殊攻击`也有所涉及。
 
-### Melee Attacks
+### 近战攻击
 
-With a normal melee weapon, a character can strike any enemy within 5 feet. (Enemies within 5 feet are considered adjacent to the character.)
+在持有一般的近战武器时，角色可以攻击5尺内的任意敌人。（5尺内的敌人被视为与角色相邻。）
 
-A character capable of making more than one melee attack per round must use the full attack action (see Full-Round Actions, below) in order to make more than one attack.
+可做一次以上攻击动作的角色必须使用`全力攻击`动作（见下文`整轮动作`）来执行多次攻击。
 
-Fighting Defensively: A character can choose to fight defensively while making a melee attack. If the character does so, he or she takes a –4 penalty on his or her attack in a round to gain a +2 dodge bonus to Defense in the same round.
+防御式战斗：角色在近战时也可采取防御式战斗。如果角色这么做，将在一轮中的攻击骰承受4点减值，以换取在相同轮的防御中获得2点闪避加值。
 
-### Unarmed Attacks
+### 徒手攻击
 
-Striking for damage with punches, kicks, and head butts is much like attacking with a melee weapon, except that an unarmed attack deals nonlethal damage. Unarmed strikes count as light melee weapons (for purposes of two-weapon attack penalties and so on). The following exceptions to normal melee rules apply to unarmed attacks.
+徒手攻击指用拳打、脚踢、头槌等造成伤害，类似于使用近战武器攻击，区别在于徒手攻击只造成非致命伤害。徒手击打算作用轻近战武器攻击（为了应用双武器惩罚等效果）。徒手攻击应用一般的近战规则，但有如下例外。
 
-Attacks of Opportunity: Making an unarmed attack against an armed opponent provokes an attack of opportunity from the character attacked. The attack of opportunity comes before the character’s attack. An unarmed attack does not provoke attacks of opportunity from other foes, nor does it provoke an attack of opportunity from an unarmed foe.
+借机攻击：对持有武器的对手进行徒手攻击会引发被攻击者的借机攻击。借机攻击会在角色攻击前发生。徒手攻击不会引发第三方的借机攻击，也不会引发徒手对手的借机攻击。
 
-“Armed” Unarmed Attacks: Sometimes a character or creature attacks unarmed but the attack still counts as armed. A creature with claws, fangs, and similar natural physical weapons, for example, counts as armed. Being armed counts for both offense and defense—not only does a creature not provoke an attack of opportunity when attacking an armed foe, but a character provokes an attack of opportunity from that creature if the character makes an unarmed attack against it. The Combat Martial Arts feat makes a character’s unarmed attacks count as armed.
+“武装”徒手攻击： 有时角色或生物的徒手攻击仍被视为非徒手攻击（武装攻击）。比如带有爪子、尖牙及类似天生物理武器的生物被视为非徒手。武装是进攻和防御都算的——生物不止在进攻时不会引发武装对手的借机攻击，也在被徒手的对手攻击自己时发动借机攻击。`实战武术`专长可使角色的徒手攻击视为武装攻击。
 
-Unarmed Strike Damage: An unarmed strike from a Medium-size character deals 1d3 points (plus the character’s Strength modifier, as normal) of nonlethal damage.
+徒手击打伤害：普通体型角色的徒手击打会造成1d3点（还要像往常一样加上角色的力量调整值）非致命伤害。
 
-A character can specify that his or her unarmed strike will deal lethal damage before the character makes his or her attack roll, but the character takes a –4 penalty on the attack roll because he or she has to strike a particularly vulnerable spot to deal lethal damage.
+角色在掷攻击骰前可指定此次攻击将造成致命伤害，但攻击骰要受到4点减值，因为角色要瞄准致命部位击打。
 
 ### Ranged Attacks
 
@@ -354,7 +354,7 @@ If the target is so big that part of it is 10 feet or farther from the nearest a
 
 Because of the weapon’s unwieldy shape and size, an attacker using a longarm takes a –4 penalty on attacks against adjacent opponents.
 
-Fighting Defensively: A character can choose to fight defensively while making a ranged attack. If the character does so, he or she takes a –4 penalty on his or her attack in a round to gain a +2 dodge bonus to Defense in the same round.
+Fighting Defensively: A character can choose to fight defensively while making a ranged attack. 如果角色这么做，将在一轮中的攻击骰承受4点减值，以换取在相同轮的防御中获得2点闪避加值。
 
 ### Total Defense
 

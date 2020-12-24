@@ -237,7 +237,7 @@ Every round, each starship gets to do something. The starships’ initiative che
 
 INITIATIVE CHECKS
 At the start of a battle, each starship makes a single initiative check. An initiative check is a Dexterity check that uses the starship pilot’s Dexterity modifier. (A ship without a pilot has an initiative check modifier of +0.) A pilot with the Improved Initiative feat gets a +4 bonus on the check.
-The GM determines what order starships are acting in, counting down from highest initiative result to lowest, and each starship acts in turn. On all following rounds, the starships act in the same order (unless a starship takes an action that changes its initiative; see Special Initiative Actions). If two or more starships have the same initiative check result, the starships that are tied go in order of total initiative modifier (including Dexterity modifier and Improved Initiative feat bonus, if applicable). If there is still a tie, roll a die.
+The GM determines what order starships are acting in, counting down from highest initiative result to lowest, and each starship acts in turn. On all following rounds, the starships act in the same order (unless a starship takes an action that changes its initiative; see Special Initiative Actions). If two or more starships have the same initiative check result, the starships that are tied go in order of total initiative modifier (including Dexterity modifier and Improved Initiative feat bonus, if applicable). 如果还是相同，相同的人物再掷一次骰决出他们的先后。
 Flat-Footed Starships: At the start of a battle, before a starship has had a chance to act (specifically, before its first turn in the initiative order), it is flat-footed. It can’t apply the pilot’s Dexterity bonus to Defense while flat-footed.
 
 JOINING A BATTLE
@@ -254,7 +254,7 @@ UNAWARE STARSHIPS
 Starships that are unaware at the start of battle do not get to act in the surprise round. Unaware combatants are flat-footed because they have not acted yet. A flat-footed starship loses its pilot’s Dexterity bonus to Defense.
 
 STARSHIP ACTIONS
-The fundamental actions of moving and attacking cover most of what a starship wants to do in a battle. They’re described here. Other, more specialized options are touched on in Table: Starship Actions, and covered later in Special Initiative Actions.
+The fundamental actions of moving and attacking cover most of what a starship wants to do in a battle. 如下所述。Other, more specialized options are touched on in Table: Starship Actions, and covered later in Special Initiative Actions.
 A starship gets two move actions and one attack action each round. It can take two move actions followed by an attack action, an attack action followed by two move actions, or an attack action sandwiched between two move actions. A ship may choose to not take an attack action on its turn, but it gets only two move actions regardless. It can also forgo all of the above combinations and take a single full-round action. All of these options are discussed below, under Action Types.
 A starship’s choices of actions can be summarized as follows.
 Attack action → move action → move action, or
@@ -265,7 +265,7 @@ Full-round action
 THE COMBAT ROUND
 As with character-scale combat, each round of starship combat represents about 6 seconds in the game world.
 Each round’s activity begins with the starship with the highest initiative result and then proceeds, in order, from there.
-Each round of a combat uses the same initiative order. When a starship’s turn comes up in the initiative sequence, that ship performs its entire round’s worth of actions. (For exceptions, see Attacks of Opportunity and Special Initiative Actions.)
+每一轮都使用相同的先攻序列。When a starship’s turn comes up in the initiative sequence, that ship performs its entire round’s worth of actions. （对于例外情况，见`借机攻击`和`特殊先攻动作`。）
 
 ACTION TYPES
 As in character combat, starships may make attack actions, full-round actions, move actions, and free actions. In a normal round, a starship can perform an attack action and two move actions (in any order), two move actions, or a single full-round action. It can also perform as many free actions as the GM allows.

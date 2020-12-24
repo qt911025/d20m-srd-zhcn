@@ -1358,3 +1358,7 @@ Varies	可变
 Delay	等待
 Two-Handed	双手	注意双手和双持的区别
 Actions in Combat	战斗中的动作
+Melee Attack	近战攻击
+adjacent	相邻
+nonlethal	非致命
+fang	尖牙

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx14.dtd">
 <tmx version="1.4">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -334,6 +334,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>## Action Types</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T125506Z" creationid="quentine" creationdate="20201119T125506Z">
+        <seg>## 动作类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Actions in Combat</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T143740Z" creationid="quentine" creationdate="20201118T143740Z">
+        <seg>## 战斗中的动作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>## Advanced Classes</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190703T122236Z" creationid="quentine" creationdate="20190703T122236Z">
@@ -378,6 +394,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181104T121952Z" creationid="QuenTine" creationdate="20181104T121952Z">
         <seg>## 运动员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Attack Actions</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T133447Z" creationid="qt911" creationdate="20201224T133447Z">
+        <seg>## 攻击动作</seg>
       </tuv>
     </tu>
     <tu>
@@ -1798,6 +1822,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>## Surprise</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T143023Z" creationid="quentine" creationdate="20201118T143023Z">
+        <seg>## 突袭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>## Surveillance Gear</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191202T125915Z" creationid="quentine" creationdate="20191202T125915Z">
@@ -2274,6 +2306,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190730T132005Z" creationid="quentine" creationdate="20190730T132005Z">
         <seg>### 竞技</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Attack Action</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T130057Z" creationid="quentine" creationdate="20201119T130057Z">
+        <seg>### 攻击动作</seg>
       </tuv>
     </tu>
     <tu>
@@ -3118,10 +3158,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Free Action</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T131648Z" creationid="quentine" creationdate="20201119T131634Z">
+        <seg>### 即时动作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Frightful Presence</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190802T131014Z" creationid="quentine" creationdate="20190802T131014Z">
         <seg>### 气势凶猛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Full-Round Action</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T131209Z" creationid="quentine" creationdate="20201119T131209Z">
+        <seg>### 整轮动作</seg>
       </tuv>
     </tu>
     <tu>
@@ -3382,6 +3438,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Initiative Checks</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T140928Z" creationid="quentine" creationdate="20201118T140928Z">
+        <seg>### 先攻检定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Instrument, Keyboard</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200116T014030Z" creationid="quentine" creationdate="20200116T014030Z">
@@ -3426,6 +3490,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T115454Z" creationid="quentine" creationdate="20201029T115454Z">
         <seg>### 捷豹XJ轿车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Joining a Battle</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T142802Z" creationid="quentine" creationdate="20201118T142802Z">
+        <seg>### 加入战斗</seg>
       </tuv>
     </tu>
     <tu>
@@ -3614,6 +3686,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Melee Attacks</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T133821Z" creationid="qt911" creationdate="20201224T133821Z">
+        <seg>### 近战攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Melee Weapons</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200513T144237Z" creationid="quentine" creationdate="20200513T144237Z">
@@ -3674,6 +3754,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191202T121229Z" creationid="quentine" creationdate="20191202T121229Z">
         <seg>### 调制解调器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Move Action</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T130405Z" creationid="quentine" creationdate="20201119T130405Z">
+        <seg>### 移动动作</seg>
       </tuv>
     </tu>
     <tu>
@@ -4342,6 +4430,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### The Combat Round</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T144522Z" creationid="quentine" creationdate="20201118T144522Z">
+        <seg>### 战斗轮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### The Surprise Round</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T143242Z" creationid="quentine" creationdate="20201118T143242Z">
+        <seg>### 突袭轮</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### These rules use the following die notations:</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181024T041303Z" creationid="QuenTine" creationdate="20181024T041303Z">
@@ -4426,6 +4530,22 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T133615Z" creationid="quentine" creationdate="20201030T133615Z">
         <seg>### UH-60 黑鹰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Unarmed Attacks</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T134827Z" creationid="qt911" creationdate="20201224T134827Z">
+        <seg>### 徒手攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Unaware Combatants</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T143531Z" creationid="quentine" creationdate="20201118T143531Z">
+        <seg>### 未觉察的作战者</seg>
       </tuv>
     </tu>
     <tu>
@@ -6734,6 +6854,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>(Enemies within 5 feet are considered adjacent to the character.)</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T134203Z" creationid="qt911" creationdate="20201224T134203Z">
+        <seg>（5尺内的敌人被视为与角色相邻。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(For exceptions, see Attacks of Opportunity and Special Initiative Actions.)</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T113407Z" creationid="quentine" creationdate="20201119T113407Z">
+        <seg>（对于例外情况，见`借机攻击`和`特殊先攻动作`。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>(For this Gather Information check, no money changes hands.)</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190526T075610Z" creationid="quentine" creationdate="20190526T075610Z">
@@ -8466,8 +8602,8 @@
       <tuv xml:lang="en-US">
         <seg>**Benefit:** When the character performs a full-round action, the character can give up his or her regular attacks and instead make one melee attack at the character’s highest base attack bonus against each adjacent opponent.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190804T150159Z" creationid="quentine" creationdate="20190804T150159Z">
-        <seg>**效果：** 当发动整轮攻击时，角色可以放弃常规攻击，代之以用最高基本攻击加值对每个相邻对手作一次近战攻击。</seg>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T122905Z" creationid="quentine" creationdate="20190804T150159Z">
+        <seg>**效果：** 使用一个整轮动作，角色可以放弃常规攻击，代之以用最高基本攻击加值对每个相邻对手作一次近战攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8498,8 +8634,8 @@
       <tuv xml:lang="en-US">
         <seg>**Benefit:** When the character uses the attack action or the full attack action in melee, the character can take a penalty of up to –5 on his or her attack roll and add the same number (up to +5) to the character’s Defense.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190731T113405Z" creationid="quentine" creationdate="20190731T113405Z">
-        <seg>**效果：** 当角色近战时使用攻击动作或整轮攻击动作时，角色可以以受到至多5点攻击骰减值为代价，让防御检定获得等值的加值（也是至多5点）。</seg>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T122524Z" creationid="quentine" creationdate="20190731T113405Z">
+        <seg>**效果：** 当角色近战时使用攻击动作或全力攻击动作时，角色可以以受到至多5点攻击骰减值为代价，让防御检定获得等值的加值（也是至多5点）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10394,8 +10530,8 @@
       <tuv xml:lang="en-US">
         <seg>**Normal:** A character without the Combat Expertise feat can fight defensively while using the attack or full attack action to take a –4 penalty on attacks and gain a +2 dodge bonus to Defense.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190731T114240Z" creationid="quentine" creationdate="20190731T114240Z">
-        <seg>**正常：** 没有寓守于攻专长的角色可以在攻击动作或整轮攻击动作时采取防御式战斗，以受到4点攻击骰减值为代价在防御时获得2点闪避加值。</seg>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T122524Z" creationid="quentine" creationdate="20190731T114240Z">
+        <seg>**正常：** 没有寓守于攻专长的角色可以在攻击动作或全力攻击动作时采取防御式战斗，以受到4点攻击骰减值为代价在防御时获得2点闪避加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12529,6 +12665,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>**Table: Actions in Combat**</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T115556Z" creationid="quentine" creationdate="20201119T115556Z">
+        <seg>**表：战斗中的动作**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>**Table: Difficulty Class Examples**</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190805T135122Z" creationid="quentine" creationdate="20190805T135122Z">
@@ -13307,8 +13451,8 @@
       <tuv xml:lang="en-US">
         <seg>**Tumble past Opponents:** With a successful Tumble check (DC 15), the character can weave, dodge, and roll up to 20 feet through squares adjacent to opponents, risking no attacks of opportunity.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191028T135218Z" creationid="quentine" creationdate="20191028T134904Z">
-        <seg>**绕过对手：** 翻滚检定成功时（DC15），角色可以迂回、闪避、翻滚穿过以对手为中心，半径20尺内的邻近方格，而不引发借机攻击。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T134128Z" creationid="quentine" creationdate="20191028T134904Z">
+        <seg>**绕过对手：** 翻滚检定成功时（DC15），角色可以迂回、闪避、翻滚穿过以对手为中心，半径20尺内的相邻方格，而不引发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14481,8 +14625,8 @@
       <tuv xml:lang="en-US">
         <seg>A backpack reduced to 0 hit points ruptures and explodes, dealing 6d6 points of fire damage to the wearer (no save allowed) and 3d6 points of splash damage to creatures and objects in adjacent 5-foot squares (Reflex save, DC 15, for half damage).</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200420T140312Z" creationid="quentine" creationdate="20200420T140312Z">
-        <seg>背包的生命值减至0将会破裂并爆炸，给穿戴者造成6d6点火焰伤害（无法豁免），并给邻近的5尺以内所有的方格上的生物和物体造成3d6点溅射伤害（反射豁免，DC15，可使伤害减半）。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T134128Z" creationid="quentine" creationdate="20200420T140312Z">
+        <seg>背包的生命值减至0将会破裂并爆炸，给穿戴者造成6d6点火焰伤害（无法豁免），并给相邻的5尺以内所有的方格上的生物和物体造成3d6点溅射伤害（反射豁免，DC15，可使伤害减半）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14679,6 +14823,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A character can also per-form free actions (see below) as the GM allows.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T131629Z" creationid="quentine" creationdate="20201119T131629Z">
+        <seg>角色同时可以在GM的允许下做即时动作（见下文）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character can also perform as many free actions as the GM allows.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T125927Z" creationid="quentine" creationdate="20201119T125927Z">
+        <seg>角色也可以做几个即时动作，只要GM允许。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A character can also use jury-rig to hot-wire a car or jump-start an engine or electronic device.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T085017Z" creationid="quentine" creationdate="20191027T085017Z">
@@ -14871,6 +15031,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A character can make an attack, use a skill or a feat (unless the skill or feat requires a full-round action to perform; see below), or perform other similar actions.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T130247Z" creationid="quentine" creationdate="20201119T130247Z">
+        <seg>角色可以攻击、使用技能或专长（除非技能或专长要求一个整轮动作来执行；见下文），或做其他类似的动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A character can make an explosive difficult to disarm.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190923T133043Z" creationid="quentine" creationdate="20190923T132803Z">
@@ -14895,6 +15063,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A character can move his or her speed, climb one-quarter of his or her speed, draw or stow a weapon or other object, stand up, pick up an object, or perform some equivalent action (see Table: Actions in Combat).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T130910Z" creationid="quentine" creationdate="20201119T130846Z">
+        <seg>角色可以以一倍的速度移动、以四分之一的速度攀爬、拔出或收回武器以及其他物品、起立、捡起物品、或做等价于此的动作（见表：战斗中的动作）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A character can move up to half his or her normal speed at no penalty.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191025T131835Z" creationid="quentine" creationdate="20191025T131835Z">
@@ -14907,6 +15083,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T135516Z" creationid="quentine" creationdate="20190114T135516Z">
         <seg>角色在一轮内只能用掉1点行动点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character can perform one or more free actions while taking another action normally.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T132913Z" creationid="qt911" creationdate="20201224T132913Z">
+        <seg>角色在做其他常规动作的同时可以做一到多个即时动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14947,6 +15131,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200519T135209Z" creationid="quentine" creationdate="20200519T135209Z">
         <seg>角色可选择发动`武器娴熟`专长，在使用细剑攻击时用敏捷调整值代替力量调整值应用到攻击骰上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character can specify that his or her unarmed strike will deal lethal damage before the character makes his or her attack roll, but the character takes a –4 penalty on the attack roll because he or she has to strike a particularly vulnerable spot to deal lethal damage.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T142114Z" creationid="qt911" creationdate="20201224T142114Z">
+        <seg>角色在掷攻击骰前可指定此次攻击将造成致命伤害，但攻击骰要受到4点减值，因为角色要瞄准致命部位击打。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15103,6 +15295,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A character can take a move action before or after performing an attack action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T130356Z" creationid="quentine" creationdate="20201119T130356Z">
+        <seg>角色可以在攻击动作之前或之后做一个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character can take a move action in the place of an attack action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T131004Z" creationid="quentine" creationdate="20201119T131004Z">
+        <seg>角色可以花费一个攻击动作做一个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A character can tend up to as many patients as he or she has ranks in the skill.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191028T123924Z" creationid="quentine" creationdate="20191028T123924Z">
@@ -15239,10 +15447,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A character can’t use his or her Dexterity bonus to Defense or make attacks of opportunity while flat-footed.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T142649Z" creationid="quentine" creationdate="20201118T142649Z">
+        <seg>措手不及时，角色不能将敏捷加值应用于防御，也不能做出借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A character can’t use this feat if he or she is carrying a heavy load or wearing heavy armor.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190804T123408Z" creationid="quentine" creationdate="20190804T123408Z">
         <seg>角色不能在重度负载或穿着重甲时使用此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character capable of making more than one melee attack per round must use the full attack action (see Full-Round Actions, below) in order to make more than one attack.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T134431Z" creationid="qt911" creationdate="20201224T134431Z">
+        <seg>可做一次以上攻击动作的角色必须使用`全力攻击`动作（见下文`整轮动作`）来执行多次攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15489,8 +15713,8 @@
       <tuv xml:lang="en-US">
         <seg>A character takes a –4 penalty on the attack roll when firing at an adjacent target.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200419T021538Z" creationid="quentine" creationdate="20200419T021538Z">
-        <seg>射击邻近目标时，攻击骰会有4点减值。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T134128Z" creationid="quentine" creationdate="20200419T021538Z">
+        <seg>射击相邻目标时，攻击骰会有4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16263,6 +16487,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A creature with claws, fangs, and similar natural physical weapons, for example, counts as armed.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T140827Z" creationid="qt911" creationdate="20201224T140827Z">
+        <seg>比如带有爪子、尖牙及类似天生物理武器的生物被视为非徒手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A creature with no Constitution has no body or no metabolism.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181103T134502Z" creationid="QuenTine" creationdate="20181103T134502Z">
@@ -16591,6 +16823,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A full-round action consumes all a character’s effort during a round.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T131303Z" creationid="quentine" creationdate="20201119T131303Z">
+        <seg>一个整轮动作将用掉角色一整轮的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A gas mask renders the target immune to the effects.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200508T125002Z" creationid="quentine" creationdate="20200508T125002Z">
@@ -16903,6 +17143,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A move action allows a character to move his or her speed or perform an action that takes a similar amount of time.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T130505Z" creationid="quentine" creationdate="20201119T130505Z">
+        <seg>角色可以用一个移动动作进行常速移动，或做需要花费相同时间的类似动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A moving truck is two squares wide and five squares long.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T130258Z" creationid="quentine" creationdate="20201030T130258Z">
@@ -17203,6 +17451,22 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200115T090004Z" creationid="quentine" creationdate="20200115T090004Z">
         <seg>一卷胶带能提供70尺长、两寸宽的胶带。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A round can be a segment of game time starting with the first character to act and ending with the last, but it usually means a span of time from a certain round to the same initiative number in the next round.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T115518Z" creationid="quentine" creationdate="20201119T114814Z">
+        <seg>一轮可以是从第一个行动的角色到最后一个行动角色之间的游戏时间，但更多是指从某一个先攻值代表的回合开始到下一轮相同先攻值代表的回合结束的这段时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A round is an opportunity for each character involved in a combat to take an action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T112629Z" creationid="quentine" creationdate="20201119T112629Z">
+        <seg>每个参与战斗的角色行动一回合便是一轮。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19009,6 +19273,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>An attack action allows a character to do something.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T130114Z" creationid="quentine" creationdate="20201119T130114Z">
+        <seg>角色可以一个攻击动作做一些事情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>An attack roll represents a character’s attempts to strike an opponent on the character’s turn in a round.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T012231Z" creationid="quentine" creationdate="20201114T012047Z">
@@ -19185,6 +19457,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>An initiative check is a Dexterity check.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T141025Z" creationid="quentine" creationdate="20201118T141025Z">
+        <seg>一个先攻检定是一次敏捷检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>An inspired ally gains a +2 morale bonus on saving throws, attack rolls, and damage rolls.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190216T074809Z" creationid="quentine" creationdate="20190216T074809Z">
@@ -19253,6 +19533,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T112533Z" creationid="quentine" creationdate="20190115T112331Z">
         <seg>未受救治的稳定状态，负生命值的有意识的角色（也是瘫痪的）不会自然恢复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An unarmed attack does not provoke attacks of opportunity from other foes, nor does it provoke an attack of opportunity from an unarmed foe.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T140245Z" creationid="qt911" creationdate="20201224T140245Z">
+        <seg>徒手攻击不会引发第三方的借机攻击，也不会引发徒手对手的借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19617,6 +19905,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Anything a person could reasonably do in 6 seconds, a character can do in 1 round.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T112931Z" creationid="quentine" creationdate="20201119T112931Z">
+        <seg>角色能在一轮内完成任何现实中一个人在6秒内完成的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Anything not concealed can be spotted in a sweep with a successful check (DC 10).</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190730T141618Z" creationid="quentine" creationdate="20190417T141144Z">
@@ -19925,6 +20221,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181024T044234Z" creationid="QuenTine" creationdate="20181024T043009Z">
         <seg>若只有一个乘数要乘，则直接与骰点或被乘数相乘。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As melee attacks, they can be used once in an attack or charge action, one or more times in a full attack action, or even as an attack of opportunity.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T125354Z" creationid="quentine" creationdate="20201119T125354Z">
+        <seg>因此它们可以像攻击一样在每次攻击或冲锋动作中使用，也可以在全力攻击中一次或多次使用，甚至还可以在借机攻击中使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21073,6 +21377,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>At the start of a battle, each combatant makes a single initiative check.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T141004Z" creationid="quentine" creationdate="20201118T141004Z">
+        <seg>一场战斗开始时，每个作战者都做一个先攻检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>At –10 or lower, a character is dead.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T141747Z" creationid="quentine" creationdate="20190114T141747Z">
@@ -21109,6 +21421,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200420T140636Z" creationid="quentine" creationdate="20200420T133901Z">
         <seg>使用M79攻击相当于将爆炸物投掷出去：是以一个5尺方格为目标（而不是以人或生物为目标）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Attacks of Opportunity: Making an unarmed attack against an armed opponent provokes an attack of opportunity from the character attacked.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T135600Z" creationid="qt911" creationdate="20201224T135600Z">
+        <seg>借机攻击：对持有武器的对手进行徒手攻击会引发被攻击者的借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21393,6 +21713,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Because of this, they lose any Dexterity bonus to Defense.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T143710Z" creationid="quentine" creationdate="20201118T143710Z">
+        <seg>于是他们在防御中失去所有的敏捷加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Before the hero can select a talent from this tree the hero must have previously selected at least one talent from the Energy Resistance or Unbreakable Talent Tree.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190117T143331Z" creationid="quentine" creationdate="20190117T143331Z">
@@ -21405,6 +21733,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200420T132148Z" creationid="quentine" creationdate="20200420T132134Z">
         <seg>在使用武器前，发射者必须先举起并展开武器，这是一个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Being armed counts for both offense and defense—not only does a creature not provoke an attack of opportunity when attacking an armed foe, but a character provokes an attack of opportunity from that creature if the character makes an unarmed attack against it.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T141331Z" creationid="qt911" creationdate="20201224T141331Z">
+        <seg>武装是进攻和防御都算的——生物不止在进攻时不会引发武装对手的借机攻击，也在被徒手的对手攻击自己时发动借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22073,6 +22409,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T010944Z" creationid="quentine" creationdate="20201114T010944Z">
         <seg>作战者按先攻顺序行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Combatants who are unaware at the start of battle do not get to act in the surprise round.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T143551Z" creationid="quentine" creationdate="20201118T143551Z">
+        <seg>那些没觉察到敌人的作战者在突袭轮中不能做动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23058,6 +23402,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>During a combat round, a character can take an attack action and a move action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T130321Z" creationid="quentine" creationdate="20201119T130321Z">
+        <seg>在一个战斗轮中，角色可以执行一个攻击动作和一个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Dynamite and hand grenades are examples of these weapons.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200424T131622Z" creationid="quentine" creationdate="20200424T131114Z">
@@ -23098,6 +23450,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Each character applies his or her Dexterity modifier to the roll, and anyone with the Improved Initiative feat gets an additional +4 bonus on the check.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T141209Z" creationid="quentine" creationdate="20201118T141209Z">
+        <seg>每个角色将敏捷调整值应用于骰点，拥有`精通先攻`专长的角色的检定拥有额外的4点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Each combatant starts the battle flat-footed.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201111T102407Z" creationid="quentine" creationdate="20201111T102407Z">
@@ -23126,6 +23486,22 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191031T124842Z" creationid="quentine" creationdate="20191031T124842Z">
         <seg>每个在凝视攻击范围内的对手每当其回合开始时都要进行一次豁免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each round of a combat uses the same initiative order.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T113107Z" creationid="quentine" creationdate="20201119T113107Z">
+        <seg>每一轮都使用相同的先攻序列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each round represents about 6 seconds in the game world.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T144557Z" creationid="quentine" creationdate="20201118T144557Z">
+        <seg>每一轮代表游戏世界的6秒钟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23166,6 +23542,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191031T125342Z" creationid="quentine" creationdate="20191031T125316Z">
         <seg>每一轮，对手有50%几率无需对凝视攻击进行豁免检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each round’s activity begins with the character with the highest initiative result and then proceeds, in order, from there.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T113039Z" creationid="quentine" creationdate="20201119T113039Z">
+        <seg>每轮是从有最高先攻的角色开始的，然后按顺序继续下去。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23326,6 +23710,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T043615Z" creationid="quentine" creationdate="20191027T043615Z">
         <seg>每个载具的描述包括了机动性调整值，应用在对此载具的驾机检定上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Effects that last a certain number of rounds end just before the same initiative count that they began on.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T115459Z" creationid="quentine" creationdate="20201119T115459Z">
+        <seg>持续特定轮数的效果，会在计数达到该特定轮数的轮的首个回合之前结束。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23558,6 +23950,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181106T134252Z" creationid="QuenTine" creationdate="20181106T134252Z">
         <seg>每个物品和服务都有一个购买难度等级（DC）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Every round, each combatant gets to do something.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T140756Z" creationid="quentine" creationdate="20201118T140756Z">
+        <seg>每一轮，每个作战者都执行某些动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23858,6 +24258,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Fighting Defensively: A character can choose to fight defensively while making a melee attack.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T134606Z" creationid="qt911" creationdate="20201224T134606Z">
+        <seg>防御式战斗：角色在近战时也可采取防御式战斗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Film Developing: In most areas, drugstores and photo shops provide 1-hour service; in others, it takes 24 hours.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191202T114649Z" creationid="quentine" creationdate="20191202T114510Z">
@@ -23970,6 +24378,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Flat-Footed: At the start of a battle, before the character has had a chance to act (specifically, before the character’s first turn in the initiative order), the character is flat-footed.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T142530Z" creationid="quentine" creationdate="20201118T142530Z">
+        <seg>措手不及：战斗开始时，在角色有机会行动前（特别是在角色先攻顺序下的第一回合前），角色是措手不及的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Follow these steps to build a robot.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190522T142435Z" creationid="quentine" creationdate="20190522T142435Z">
@@ -24030,6 +24446,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190623T123551Z" creationid="quentine" creationdate="20190623T123551Z">
         <seg>所有魔宠的特殊能力基于主人的法师等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For almost all purposes, there is no relevance to the end of a round or the beginning of a round.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T113612Z" creationid="quentine" creationdate="20201119T113612Z">
+        <seg>对于绝大多数情况，并没有所谓“轮的结束”与“轮的开始”之分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24134,6 +24558,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T110543Z" creationid="quentine" creationdate="20200117T110543Z">
         <seg>对于手枪而言，武器唯一的响声来自击发（聆听检定听到的DC为15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For instance, dropping an object, dropping to a prone position, speaking a sentence or two, and ceasing to concentrate on a magic spell (if magic is available in the campaign) are all free actions.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T133439Z" creationid="qt911" creationdate="20201224T133439Z">
+        <seg>比如说，扔一件物品、卧倒、说一两句话、全神贯注于施法（如果游戏允许魔法内容）都是即时动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24290,6 +24722,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Free actions consume a very small amount of time and effort, and over the span of the round, their impact is so minor that they are considered free.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T132709Z" creationid="quentine" creationdate="20201120T131656Z">
+        <seg>即时动作只会花费极小的时间和精力，在一轮中，即时动作影响极小所以可以自由地执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>From that point on, the Mage can prepare these spells without referring to a spellbook.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190624T142444Z" creationid="quentine" creationdate="20190624T142444Z">
@@ -24396,8 +24836,8 @@
       <tuv xml:lang="en-US">
         <seg>Generally, creatures directly hit by splash weapons take the most damage, while those nearby take less damage.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200424T132330Z" creationid="quentine" creationdate="20200424T132330Z">
-        <seg>通常来说，被溅射武器直接命中的生物承受最严重的伤害，邻近的其他目标承受更少的伤害。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T134128Z" creationid="quentine" creationdate="20200424T132330Z">
+        <seg>通常来说，被溅射武器直接命中的生物承受最严重的伤害，相邻的其他目标承受更少的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24938,6 +25378,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>However, the GM puts reasonable limits on what a character can really do for free.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T133109Z" creationid="qt911" creationdate="20201224T133109Z">
+        <seg>但GM将对角色真正能做的即时动作做出合理的限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>However, the bulky suit imposes a penalty of –4 on all Dexterity checks, Dexterity-based skill checks (except Hide), and melee attack rolls.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191113T142341Z" creationid="quentine" creationdate="20191113T142116Z">
@@ -24948,8 +25396,8 @@
       <tuv xml:lang="en-US">
         <seg>However, the character doesn’t get this higher Strength bonus when using a light weapon two-handed; in such a case, only the character’s normal Strength bonus applies to the damage roll.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T110531Z" creationid="quentine" creationdate="20201118T110531Z">
-        <seg>但该规则不适用于双手使用轻武器；这种情形下，伤害骰只能应用一倍力量加值。</seg>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T124612Z" creationid="quentine" creationdate="20201118T110531Z">
+        <seg>但该规则不适用于双手使用一把轻武器；这种情形下，伤害骰只能应用一倍力量加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25070,6 +25518,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190803T141505Z" creationid="quentine" creationdate="20190803T141505Z">
         <seg>如果角色的基础攻击加值至少有1点，则可以在移动的同时以一个即时动作拔出武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character moves no actual distance in a round, that character can take one 5-foot step before, during, or after the action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T131158Z" creationid="quentine" creationdate="20201119T131158Z">
+        <seg>如果角色在一轮内没有任何移动，角色可以在动作前、动作时、动作后做一个`五尺快步`移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25266,6 +25722,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If characters enter a battle after it has begun, they roll initiative at that time and act whenever their turn comes up in the existing order.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T143019Z" creationid="quentine" creationdate="20201118T143019Z">
+        <seg>如果角色进入一场已经开始的战斗，他们将在加入时立即进行一次先攻检定，按检定结果插入队列中，并在轮到自己时行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If fired against a target closer than 30 feet away, it does not arm and will not explode.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200420T133122Z" creationid="quentine" creationdate="20200420T133032Z">
@@ -25394,6 +25858,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If no one or everyone is surprised, a surprise round does not occur.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T143519Z" creationid="quentine" creationdate="20201118T143519Z">
+        <seg>如果没有人觉察到对方，或者所有人都彼此发现，那么没有突袭轮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If no one or everyone starts the battle aware, there is no surprise round.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T010732Z" creationid="quentine" creationdate="20201114T010732Z">
@@ -25430,6 +25902,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T153617Z" creationid="quentine" creationdate="20200117T153617Z">
         <seg>如果不是，将购买DC提高5点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If not, no.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T124133Z" creationid="quentine" creationdate="20201119T124133Z">
+        <seg>否则不会。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25866,6 +26346,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If the character does so, he or she takes a –4 penalty on his or her attack in a round to gain a +2 dodge bonus to Defense in the same round.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T134819Z" creationid="qt911" creationdate="20201224T134819Z">
+        <seg>如果角色这么做，将在一轮中的攻击骰承受4点减值，以换取在相同轮的防御中获得2点闪避加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If the character doesn’t draw any attention to him or herself, however, others don’t get to make Spot checks.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190925T125755Z" creationid="quentine" creationdate="20190925T125755Z">
@@ -26174,6 +26662,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190802T131758Z" creationid="quentine" creationdate="20190802T131758Z">
         <seg>若角色有`闻名`专长，意志豁免的DC将提高5点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character has the Two-Weapon Fighting feat, he or she can draw two light or one-handed weapons in the time it would normally take to draw one.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T124810Z" creationid="quentine" creationdate="20201119T124810Z">
+        <seg>如果角色有`双持`专长，则可以同时拔出两把轻武器或单手武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27210,6 +27706,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If there is still a tie, roll a die.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T142252Z" creationid="quentine" creationdate="20201118T142205Z">
+        <seg>如果还是相同，相同的人物再掷一次骰决出他们的先后。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If they do not make attacks of opportunity, trampled opponents can attempt Reflex saves for half damage.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191102T030307Z" creationid="quentine" creationdate="20191102T030307Z">
@@ -27262,6 +27766,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190806T130518Z" creationid="quentine" creationdate="20190806T130518Z">
         <seg>如果技能需要工具，技能描述会提到需要哪些物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If two or more combatants have the same initiative check result, the combatants who are tied go in order of total initiative modifier (including Dexterity modifier and Improved Initiative bonus, if applicable).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T141957Z" creationid="quentine" creationdate="20201118T141957Z">
+        <seg>如果两个或者更多的作战者有相同的先攻值，那么有较高总先攻调整值（包括敏捷调整值和可能有的精通先攻加值）的作战者先行动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27438,6 +27950,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T154518Z" creationid="quentine" creationdate="20200117T154518Z">
         <seg>在医院的环境，必要的医疗检定必定成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In a normal round, a character can perform an attack action and a move action (or two move actions; a character can always take a move action in place of an attack action), or a character can perform a full-round action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T125830Z" creationid="quentine" creationdate="20201119T125830Z">
+        <seg>在一个正常轮内，角色可以做一个攻击动作和一个移动动作（或两个移动动作；角色总是可以将移动动作代替攻击动作），或者做一个整轮动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27786,6 +28306,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>In initiative order (highest to lowest), combatants who started the battle aware of their opponents each take an attack action or move action during the surprise round (see Action Types, below).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T143440Z" creationid="quentine" creationdate="20201118T143440Z">
+        <seg>在突袭轮中，按照先攻顺序（高骰点先），每个觉察到敌人的作战者可以在突袭轮中做一个攻击动作或一个移动动作（见下文`动作类型`）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>In initiative order (highest to lowest), combatants who started the battle aware of their opponents each take one move or attack action.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T010543Z" creationid="quentine" creationdate="20201114T010543Z">
@@ -27918,6 +28446,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190623T122906Z" creationid="quentine" creationdate="20190623T122906Z">
         <seg>在一些情境下，魔宠与其主人是一体的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some situations (such as in the surprise round) a character may be limited to taking only a single attack or move action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T130051Z" creationid="quentine" creationdate="20201119T130051Z">
+        <seg>在某些情况下（如在突袭轮中），角色可能被限制只能做一个单独的攻击动作或移动动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29474,6 +30010,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Likewise, a character can surprise his or her enemies if the character knows about them before they’re aware of the character.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T143233Z" creationid="quentine" creationdate="20201118T143233Z">
+        <seg>同理，角色如果觉察到敌人而敌人未觉察到角色，角色则可以突袭敌人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Likewise, a maximized 2nd-level spell is treated as a 5th-level spell.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190624T143611Z" creationid="quentine" creationdate="20190624T143611Z">
@@ -29986,10 +30530,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>More specialized attack actions are mentioned in Table: Actions in Combat, and covered in Special Attacks.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T133758Z" creationid="qt911" creationdate="20201224T133745Z">
+        <seg>更多具体的攻击动作将在`表：战斗中的动作`中介绍，`特殊攻击`也有所涉及。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Most characters with a high Reputation bonus (+4 or higher) are considered well known within their profession or social circle.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181106T123401Z" creationid="QuenTine" creationdate="20181106T123401Z">
         <seg>大多数具有高声望加值（+4及以上）的角色都是其领域或社交圈当中相当出名的人物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Most common attack actions are described below.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T133524Z" creationid="qt911" creationdate="20201224T133524Z">
+        <seg>大多数常见的攻击动作将如下所述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30570,6 +31130,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>On all following rounds, the characters act in the same order (unless a character takes an action that results in his or her initiative changing; see Special Initiative Actions).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T141633Z" creationid="quentine" creationdate="20201118T141633Z">
+        <seg>接下来的所有轮里，角色都依照相同的顺序行动（除非角色采取的行动造成其先攻值的改变：详见`特殊先攻动作`）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>On average, it takes twice as long to build a mastercraft object as it does to build an ordinary object of the same type.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190523T133312Z" creationid="quentine" creationdate="20190523T133312Z">
@@ -31082,6 +31650,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190926T130936Z" creationid="quentine" creationdate="20190926T130936Z">
         <seg>其他类型的机动载具（重型轮式载具、汽艇、帆船、舰、以及履带式载具）需要相应的`地表载具操作`专长，否则角色在驾驶检定中有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Other, more specialized options are touched on in Table: Actions in Combat, and covered in Special Initiative Actions and Special Attacks.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T144506Z" creationid="quentine" creationdate="20201118T144404Z">
+        <seg>更细化的选项将在`表：战斗中的动作`介绍，`特殊先攻动作`和`特殊攻击`也有所涉及。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32708,6 +33284,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Some full-round actions do not allow a character to take a 5-foot step.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T131520Z" creationid="quentine" creationdate="20201119T131520Z">
+        <seg>一些整轮动作不允许角色做五尺快步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Some injury diseases can be transmitted by a wound as small as an insect bite.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T142202Z" creationid="quentine" creationdate="20190115T142202Z">
@@ -33224,6 +33808,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T014305Z" creationid="quentine" creationdate="20201114T014305Z">
         <seg>力量让角色能更快更有力地挥舞武器，所以角色的力量调整值作用于近战攻击骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Striking for damage with punches, kicks, and head butts is much like attacking with a melee weapon, except that an unarmed attack deals nonlethal damage.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T135059Z" creationid="qt911" creationdate="20201224T135059Z">
+        <seg>徒手攻击指用拳打、脚踢、头槌等造成伤害，类似于使用近战武器攻击，区别在于徒手攻击只造成非致命伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34124,6 +34716,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The Combat Martial Arts feat makes a character’s unarmed attacks count as armed.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T141425Z" creationid="qt911" creationdate="20201224T141425Z">
+        <seg>`实战武术`专长可使角色的徒手攻击视为武装攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Corvette is a two-door sports car equipped with a 5.7-liter, 350-horsepower V8 engine.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T114949Z" creationid="quentine" creationdate="20200815T033908Z">
@@ -34880,6 +35480,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201111T102549Z" creationid="quentine" creationdate="20201111T102549Z">
         <seg>GM决定哪些作战者在作战开始时觉察到他们的敌人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The GM finds out what order characters are acting in, counting down from highest result to lowest, and each character acts in turn.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T141357Z" creationid="quentine" creationdate="20201118T141357Z">
+        <seg>GM决出角色的行动顺序，结果从高到低，每个角色依次行动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35918,8 +36526,8 @@
       <tuv xml:lang="en-US">
         <seg>The Tough hero has an innate talent to ignore a set amount of damage from most weapons, but not from energy or special attack forms (which may or may not exist, depending on the campaign).</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190117T143110Z" creationid="quentine" creationdate="20190117T143110Z">
-        <seg>体质型英雄能够减免大多数武器伤害，但不能减免能量或特殊伤害（根据跑团内容决定是否存在这种伤害类型）。</seg>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T144441Z" creationid="quentine" creationdate="20190117T143110Z">
+        <seg>体质型英雄能够减免大多数武器伤害，但不能减免能量或特殊攻击的伤害（根据跑团内容决定是否存在这种伤害类型）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36144,6 +36752,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191031T124328Z" creationid="quentine" creationdate="20191031T124328Z">
         <seg>攻击会产生任何形式的效果：石化、死亡、魅惑等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The attack of opportunity comes before the character’s attack.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T135615Z" creationid="qt911" creationdate="20201224T135615Z">
+        <seg>借机攻击会在角色攻击前发生。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37312,10 +37928,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The combatants who are aware of the opponents can act in the surprise round, so they roll for initiative.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T143300Z" creationid="quentine" creationdate="20201118T143300Z">
+        <seg>觉察到敌人的作战者可以在突袭轮中行动，因此他们要投一个先攻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The combatants who are aware of their opponents can act in the surprise round, so they roll for initiative.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T005617Z" creationid="quentine" creationdate="20201114T005617Z">
         <seg>觉察到敌人的作战者可以在突袭轮中行动，因此他们要投一个先攻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The combatants’ initiative checks, from highest to lowest, determine the order in which they act, from first to last.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T140921Z" creationid="quentine" creationdate="20201118T140921Z">
+        <seg>作战者的先攻检定结果的高低，决定了他们行动顺序的先后。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37466,8 +38098,8 @@
       <tuv xml:lang="en-US">
         <seg>The creature is not considered grappled while it holds the opponent, so it still threatens adjacent squares and retains its Dexterity bonus.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191031T133119Z" creationid="quentine" creationdate="20191031T133119Z">
-        <seg>生物在抓握对手时不会视为被擒抱状态，所以仍会威胁邻近方格并保留敏捷加值。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T134128Z" creationid="quentine" creationdate="20191031T133119Z">
+        <seg>生物在抓握对手时不会视为被擒抱状态，所以仍会威胁相邻方格并保留敏捷加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37840,6 +38472,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The following exceptions to normal melee rules apply to unarmed attacks.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T135436Z" creationid="qt911" creationdate="20201224T135436Z">
+        <seg>徒手攻击应用一般的近战规则，但有如下例外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The following features pertain to the Bodyguard advanced class.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190421T130352Z" creationid="quentine" creationdate="20190421T130352Z">
@@ -38080,6 +38720,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The four types of actions are attack actions, move actions, full-round actions, and free actions.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T125557Z" creationid="quentine" creationdate="20201119T125557Z">
+        <seg>有四种动作类型，分别为攻击动作、移动动作、整轮动作和即使动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The four-door Hummer is a civilian version of the military’s all-terrain “humvee” utility vehicle.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T124033Z" creationid="quentine" creationdate="20201029T124033Z">
@@ -38100,6 +38748,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190922T132559Z" creationid="quentine" creationdate="20190115T143543Z">
         <seg>大多数酸的挥发气也是吸入性毒素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The fundamental actions of moving and attacking cover most of what a character wants to do in a battle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T144002Z" creationid="quentine" creationdate="20201118T143852Z">
+        <seg>基本的移动和攻击动作涵盖了角色在战斗中想要做的大多数行为，</seg>
       </tuv>
     </tu>
     <tu>
@@ -38628,6 +39284,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T123848Z" creationid="quentine" creationdate="20190115T123848Z">
         <seg>每回合，反胃的角色只能做单个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The only movement the character can take during a full-round action is a 5-foot step before, during, or after the action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T131457Z" creationid="quentine" creationdate="20201119T131457Z">
+        <seg>角色在一个整轮动作中唯一能做的移动行为只有五尺快步，在之前、同时、之后做都行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40265,6 +40929,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>They’re described here.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T143936Z" creationid="quentine" creationdate="20201118T143936Z">
+        <seg>如下所述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>They’re rugged, comfortable, and provide lots of pockets.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191113T140439Z" creationid="quentine" creationdate="20191113T140439Z">
@@ -40686,6 +41358,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200116T015215Z" creationid="quentine" creationdate="20200115T090335Z">
         <seg>该工具集一般包含了各式各样的钳子、起子、剪子、紧固件、电力工具、导线和线缆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This column indicates whether the action itself, not moving, provokes an attack of opportunity.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T123955Z" creationid="quentine" creationdate="20201119T123955Z">
+        <seg>该列指的是动作本身是否会引发借机攻击，而非移动部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42790,10 +43470,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Unarmed Strike Damage: An unarmed strike from a Medium-size character deals 1d3 points (plus the character’s Strength modifier, as normal) of nonlethal damage.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T141633Z" creationid="qt911" creationdate="20201224T141633Z">
+        <seg>徒手击打伤害：普通体型角色的徒手击打会造成1d3点（还要像往常一样加上角色的力量调整值）非致命伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Unarmed attacks normally provoke attacks of opportunity, and unarmed combatants cannot normally make attacks of opportunity.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190802T141333Z" creationid="quentine" creationdate="20190731T115127Z">
         <seg>徒手攻击一般都会引发对手借机攻击，且不能进行借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unarmed strikes count as light melee weapons (for purposes of two-weapon attack penalties and so on).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T135259Z" creationid="qt911" creationdate="20201224T135259Z">
+        <seg>徒手击打算作用轻近战武器攻击（为了应用双武器惩罚等效果）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Unaware combatants are still flat-footed because they have not acted yet.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T143635Z" creationid="quentine" creationdate="20201118T143635Z">
+        <seg>未觉察的作战者仍是措手不及的，因为他们还没有行动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43510,10 +44214,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>When a character’s turn comes up in the initiative sequence, that character performs his or her entire round’s worth of actions.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T113322Z" creationid="quentine" creationdate="20201119T113322Z">
+        <seg>当轮到角色的回合时，角色能做一轮的时间所能做的动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>When a child turns 12, he or she is considered a young adult and takes his or her first level in one of the six basic classes.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190703T123230Z" creationid="quentine" creationdate="20190703T123230Z">
         <seg>当儿童到了12岁，将视为青少年，将获得第一个基础职业等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a combat starts, if a character was not aware of his or her enemies and they were aware of the character, that character is surprised.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T143140Z" creationid="quentine" creationdate="20201118T143140Z">
+        <seg>战斗开始时，如果角色未`觉察`到敌人，而敌人觉察到了自己，角色就被`突袭`了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44224,8 +44944,8 @@
       <tuv xml:lang="en-US">
         <seg>Wielding a Weapon Two-Handed: When a character deals damage with a weapon that he or she is wielding two-handed, add 1.5 times the character’s Strength bonus.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T110304Z" creationid="quentine" creationdate="20201118T110304Z">
-        <seg>双手持用武器：当双手持用武器造成伤害时，伤害值可以加上力量加值的1.5倍。</seg>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T124550Z" creationid="quentine" creationdate="20201118T110304Z">
+        <seg>双手武器：当以双手武器造成伤害时，伤害值可以加上力量加值的1.5倍。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44314,6 +45034,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190413T135313Z" creationid="quentine" creationdate="20190413T135056Z">
         <seg>枪手的连射，即在一轮内以最高的基础攻击加值额外进行一次远程攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With a normal melee weapon, a character can strike any enemy within 5 feet.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T133926Z" creationid="qt911" creationdate="20201224T133926Z">
+        <seg>在持有一般的近战武器时，角色可以攻击5尺内的任意敌人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44796,6 +45524,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>\* Regardless of the action, if a character moves out of a threatened square, the character usually provokes an attack of opportunity.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T123839Z" creationid="quentine" creationdate="20201119T123839Z">
+        <seg>\* 不管是什么动作，只要角色移出威胁范围，角色通常都会引发一次借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>\* Requires a 20-foot move.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191021T135741Z" creationid="quentine" creationdate="20191021T135741Z">
@@ -44932,6 +45668,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>\*\* If the object is being held, carried, or worn by a creature, yes.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T124147Z" creationid="quentine" creationdate="20201119T124108Z">
+        <seg>\*\* 如果物品被一个生物拿着、携带着、穿着，则会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>\*\* Select one or more of the options in this category.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190522T144533Z" creationid="quentine" creationdate="20190522T144533Z">
@@ -44972,6 +45716,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>\*\*\* If the character has a base attack bonus of +1 or higher, he or she can combine this action with a regular move.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T124308Z" creationid="quentine" creationdate="20201119T124308Z">
+        <seg>\*\*\* 如果角色的基础攻击加值至少有1点，则可以将此动作与一个常规的移动合并。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>\*\*\* Necessary for a robot built to use any skill except Listen or Spot.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190522T144627Z" creationid="quentine" creationdate="20190522T144627Z">
@@ -44984,6 +45736,22 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200417T133941Z" creationid="quentine" creationdate="20200417T133941Z">
         <seg>\*\*\* 此武器的特别规则见武器描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>\*\*\*\* These attack forms substitute for a melee attack, not an action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T125226Z" creationid="quentine" creationdate="20201119T125226Z">
+        <seg>\*\*\*\* 这些攻击类型替代了一次近战攻击，并非动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>\*\*\*\*\* The description of a feat defines its effect.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T125436Z" creationid="quentine" creationdate="20201119T125436Z">
+        <seg>\*\*\*\*\* 效果见对应专长说明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45512,6 +46280,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>|Action Type Varies|Attack of Opportunity\*|
+|------------------|----------------------:|
+|Disarm\*\*\*\*|Yes|
+|Grapple\*\*\*\*|Yes|
+|Load a weapon|Yes|
+|Trip an opponent\*\*\*\*|No (Yes if unarmed)|
+|Use a feat\*\*\*\*\*|Varies|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T123608Z" creationid="quentine" creationdate="20201119T123416Z">
+        <seg>|可变动作类型|是否会遭到借机攻击\*|
+|------------------|----------------------:|
+|卸除武器\*\*\*\*|是|
+|擒抱\*\*\*\*|是|
+|装载武器|是|
+|绊摔对手\*\*\*\*|否（若为徒手则是）|
+|使用专长\*\*\*\*\*|可变|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>|Age Category|Ability Adjustments|
 |:-----------|:------------------|
 |Child (1–11)|–3 to Str and Con; –1 to Dex, Int, Wis, and Cha|
@@ -45636,6 +46424,44 @@
 |特战背心|战术|+7|+3|+1|–6|20|15磅|18|执照（+1）|
 |板链甲|古典|+8|+3|+1|–6|20|50磅|23|—|
 |攻坚套装|战术|+9|+3|+0|–8|20|20磅|19|执照（+1）|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>|Attack Actions|Attack of Opportunity\*|
+|--------------|----------------------:|
+|Attack (melee)|No|
+|Attack (ranged)|Yes|
+|Attack (unarmed)|Yes|
+|Attack (aid another)|No|
+|Bull rush (attack)|No|
+|Escape a grapple|No|
+|Feint (see the Bluff skill)|No|
+|Ready (triggers an attack action)|No|
+|Make a dying character stable|Yes|
+|Attack a weapon|Yes|
+|Attack an object|Maybe\*\*|
+|Total defense|No|
+|Use a skill that takes an attack action|Usually|
+|Start/complete full-round action|Varies|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T123301Z" creationid="quentine" creationdate="20201119T115650Z">
+        <seg>|攻击动作|是否会遭到借机攻击\*|
+|--------------|----------------------:|
+|攻击（近战）|否|
+|攻击（远程）|是|
+|攻击（徒手）|是|
+|攻击（协助他人）|否|
+|冲撞（攻击）|否|
+|挣脱擒抱|否|
+|虚招（见`唬骗`技能）|否|
+|准备（触发一个攻击动作）|否|
+|稳定一个濒死角色|是|
+|对武器攻击|是|
+|对物品攻击|可能\*\*|
+|全防御|否|
+|使用一个需要攻击动作的技能|通常会|
+|开始/完成一个整轮动作|可变|</seg>
       </tuv>
     </tu>
     <tu>
@@ -47232,6 +48058,52 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>|Free Actions|Attack of Opportunity\*|
+|------------|----------------------:|
+|Drop an object|No|
+|Drop to prone, sitting, or kneeling|No|
+|Speak|No|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T123138Z" creationid="quentine" creationdate="20201119T122959Z">
+        <seg>|即时动作|是否会遭到借机攻击\*|
+|------------|----------------------:|
+|扔掉物品|否|
+|向下卧倒、坐、跪|否|
+|说话|否|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>|Full-Round Actions|Attack of Opportunity\*|
+|------------------|----------------------:|
+|Bull rush (charge)|No|
+|Charge|No|
+|Coup de grace |Yes|
+|Full attack|No|
+|Overrun (charge)|No|
+|Run|Yes|
+|Withdraw|No|
+|Extinguish flames|No|
+|Use a skill that takes a full round|Usually|
+|Reload a firearm with an internal magazine|Yes|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T122522Z" creationid="quentine" creationdate="20201119T122522Z">
+        <seg>|整轮动作|是否会遭到借机攻击\*|
+|------------------|----------------------:|
+|冲撞（冲锋）|否|
+|冲锋|否|
+|致命一击|是|
+|全力攻击|否|
+|闯越（冲锋）|否|
+|奔跑|是|
+|撤退|否|
+|扑灭火焰|否|
+|使用一个需要整轮动作的技能|通常会|
+|装填内置式弹仓的火器|是|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>|HD|Effect|
 |--|------|
 |12 or more|Dazed|
@@ -47592,6 +48464,46 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>|Move Actions|Attack of Opportunity\*|
+|------------|----------------------:|
+|Move your speed|Yes|
+|Use a piece of equipment|No|
+|Climb (one-quarter speed)|No|
+|Climb, accelerated (one-half speed)|No|
+|Crawl|No|
+|Draw a weapon\*\*\*|No|
+|Holster a weapon|Yes|
+|Move a heavy object|Yes|
+|Open a door|No|
+|Pick up an object|Yes|
+|Reload a firearm with a box magazine or speed loader|Yes|
+|Retrieve a stored object|Yes|
+|Stand up from prone, sitting, or kneeling|Yes|
+|Swim|No|
+|Use a skill that takes a move action|Usually|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T121600Z" creationid="quentine" creationdate="20201119T121600Z">
+        <seg>|移动动作|是否会遭到借机攻击\*|
+|------------|----------------------:|
+|移动|是|
+|使用装备|否|
+|攀爬（四分之一速）|否|
+|加速攀爬（半速）|是|
+|匍匐|否|
+|拔出武器\*\*\*|否|
+|收回武器|是|
+|移动重物|是|
+|开门|否|
+|捡起物品|是|
+|用弹匣或快速装弹器装填|是|
+|取出装起来的物品|是|
+|从卧、坐、跪的姿态站起|是|
+|游泳|否|
+|使用一个需要移动动作的技能|通常会|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>|Name|Crew|Pass|Cargo|Init|Maneuver|Top Speed|Defense|Hardness|Hit Points|Size|Purchase DC|Restriction|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |**Civilian Aircraft**|||||||||||||
@@ -47714,6 +48626,20 @@
 |7–12寸宽|10|不平坦或者有棱角的|10|
 |2–6寸宽|15|光滑的表面|10|
 |低于2寸宽|20|||</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>|No Action|Attack of Opportunity\*|
+|---------|----------------------:|
+|Delay|No|
+|5-foot step|No|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T123722Z" creationid="quentine" creationdate="20201119T123722Z">
+        <seg>|无动作|是否会遭到借机攻击\*|
+|---------|----------------------:|
+|等待|否|
+|五尺快步|否|</seg>
       </tuv>
     </tu>
     <tu>
@@ -49068,6 +49994,14 @@
 |唬骗内容有点难以置信或者会让目标冒一定风险。|+5|
 |唬骗内容难以置信或者会让目标冒很大的风险。|+10|
 |唬骗内容非常荒谬，太难以置信了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>“Armed” Unarmed Attacks: Sometimes a character or creature attacks unarmed but the attack still counts as armed.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T140522Z" creationid="qt911" creationdate="20201224T140522Z">
+        <seg>“武装”徒手攻击： 有时角色或生物的徒手攻击仍被视为非徒手攻击（武装攻击）。</seg>
       </tuv>
     </tu>
     <tu>

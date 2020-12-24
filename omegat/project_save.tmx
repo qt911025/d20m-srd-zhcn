@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -394,6 +394,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181104T121952Z" creationid="QuenTine" creationdate="20181104T121952Z">
         <seg>## 运动员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Attack Actions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T133447Z" creationid="qt911" creationdate="20201224T133447Z">
+        <seg>## 攻击动作</seg>
       </tuv>
     </tu>
     <tu>
@@ -3710,6 +3718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Melee Attacks</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T133821Z" creationid="qt911" creationdate="20201224T133821Z">
+        <seg>### 近战攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Melee Weapons</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200513T144237Z" creationid="quentine" creationdate="20200513T144237Z">
@@ -4556,6 +4572,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201030T133615Z" creationid="quentine" creationdate="20201030T133615Z">
         <seg>### UH-60 黑鹰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Unarmed Attacks</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T134827Z" creationid="qt911" creationdate="20201224T134827Z">
+        <seg>### 徒手攻击</seg>
       </tuv>
     </tu>
     <tu>
@@ -6868,6 +6892,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T142424Z" creationid="quentine" creationdate="20191027T142424Z">
         <seg>（这等价于角色在战斗中只能坚持闭气平常一半的时间。）此环节后，角色必须每轮进行一次体质检定（DC10）以继续闭气。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Enemies within 5 feet are considered adjacent to the character.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T134203Z" creationid="qt911" creationdate="20201224T134203Z">
+        <seg>（5尺内的敌人被视为与角色相邻。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -13469,8 +13501,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>**Tumble past Opponents:** With a successful Tumble check (DC 15), the character can weave, dodge, and roll up to 20 feet through squares adjacent to opponents, risking no attacks of opportunity.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191028T135218Z" creationid="quentine" creationdate="20191028T134904Z">
-        <seg>**绕过对手：** 翻滚检定成功时（DC15），角色可以迂回、闪避、翻滚穿过以对手为中心，半径20尺内的邻近方格，而不引发借机攻击。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T134128Z" creationid="quentine" creationdate="20191028T134904Z">
+        <seg>**绕过对手：** 翻滚检定成功时（DC15），角色可以迂回、闪避、翻滚穿过以对手为中心，半径20尺内的相邻方格，而不引发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14651,8 +14683,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>A backpack reduced to 0 hit points ruptures and explodes, dealing 6d6 points of fire damage to the wearer (no save allowed) and 3d6 points of splash damage to creatures and objects in adjacent 5-foot squares (Reflex save, DC 15, for half damage).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200420T140312Z" creationid="quentine" creationdate="20200420T140312Z">
-        <seg>背包的生命值减至0将会破裂并爆炸，给穿戴者造成6d6点火焰伤害（无法豁免），并给邻近的5尺以内所有的方格上的生物和物体造成3d6点溅射伤害（反射豁免，DC15，可使伤害减半）。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T134128Z" creationid="quentine" creationdate="20200420T140312Z">
+        <seg>背包的生命值减至0将会破裂并爆炸，给穿戴者造成6d6点火焰伤害（无法豁免），并给相邻的5尺以内所有的方格上的生物和物体造成3d6点溅射伤害（反射豁免，DC15，可使伤害减半）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15113,6 +15145,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can perform one or more free actions while taking another action normally.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T132913Z" creationid="qt911" creationdate="20201224T132913Z">
+        <seg>角色在做其他常规动作的同时可以做一到多个即时动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can rig simple devices to work normally for a while and then fail some time later (usually after 1d4 rounds or minutes of use).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190925T115953Z" creationid="quentine" creationdate="20190925T115953Z">
@@ -15149,6 +15189,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200519T135209Z" creationid="quentine" creationdate="20200519T135209Z">
         <seg>角色可选择发动`武器娴熟`专长，在使用细剑攻击时用敏捷调整值代替力量调整值应用到攻击骰上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can specify that his or her unarmed strike will deal lethal damage before the character makes his or her attack roll, but the character takes a –4 penalty on the attack roll because he or she has to strike a particularly vulnerable spot to deal lethal damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T142114Z" creationid="qt911" creationdate="20201224T142114Z">
+        <seg>角色在掷攻击骰前可指定此次攻击将造成致命伤害，但攻击骰要受到4点减值，因为角色要瞄准致命部位击打。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15473,6 +15521,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character capable of making more than one melee attack per round must use the full attack action (see Full-Round Actions, below) in order to make more than one attack.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T134431Z" creationid="qt911" creationdate="20201224T134431Z">
+        <seg>可做一次以上攻击动作的角色必须使用`全力攻击`动作（见下文`整轮动作`）来执行多次攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character caught in a cloud of tear gas must make a Fortitude save (DC 15) or be nauseated.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200508T124753Z" creationid="quentine" creationdate="20200508T124753Z">
@@ -15715,8 +15771,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>A character takes a –4 penalty on the attack roll when firing at an adjacent target.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200419T021538Z" creationid="quentine" creationdate="20200419T021538Z">
-        <seg>射击邻近目标时，攻击骰会有4点减值。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T134128Z" creationid="quentine" creationdate="20200419T021538Z">
+        <seg>射击相邻目标时，攻击骰会有4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16485,6 +16541,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191102T023801Z" creationid="quentine" creationdate="20191102T023801Z">
         <seg>施展神术法术的生物必须像如常准备法术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A creature with claws, fangs, and similar natural physical weapons, for example, counts as armed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T140827Z" creationid="qt911" creationdate="20201224T140827Z">
+        <seg>比如带有爪子、尖牙及类似天生物理武器的生物被视为非徒手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19531,6 +19595,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An unarmed attack does not provoke attacks of opportunity from other foes, nor does it provoke an attack of opportunity from an unarmed foe.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T140245Z" creationid="qt911" creationdate="20201224T140245Z">
+        <seg>徒手攻击不会引发第三方的借机攻击，也不会引发徒手对手的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An unconscious character is unable to defend him or herself.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T125440Z" creationid="quentine" creationdate="20190115T125440Z">
@@ -21419,6 +21491,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attacks of Opportunity: Making an unarmed attack against an armed opponent provokes an attack of opportunity from the character attacked.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T135600Z" creationid="qt911" creationdate="20201224T135600Z">
+        <seg>借机攻击：对持有武器的对手进行徒手攻击会引发被攻击者的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Attempting to cut off access takes a full round.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T145929Z" creationid="quentine" creationdate="20190916T145929Z">
@@ -21719,6 +21799,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200420T132148Z" creationid="quentine" creationdate="20200420T132134Z">
         <seg>在使用武器前，发射者必须先举起并展开武器，这是一个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Being armed counts for both offense and defense—not only does a creature not provoke an attack of opportunity when attacking an armed foe, but a character provokes an attack of opportunity from that creature if the character makes an unarmed attack against it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T141331Z" creationid="qt911" creationdate="20201224T141331Z">
+        <seg>武装是进攻和防御都算的——生物不止在进攻时不会引发武装对手的借机攻击，也在被徒手的对手攻击自己时发动借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24236,6 +24324,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fighting Defensively: A character can choose to fight defensively while making a melee attack.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T134606Z" creationid="qt911" creationdate="20201224T134606Z">
+        <seg>防御式战斗：角色在近战时也可采取防御式战斗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Film Developing: In most areas, drugstores and photo shops provide 1-hour service; in others, it takes 24 hours.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T114649Z" creationid="quentine" creationdate="20191202T114510Z">
@@ -24532,6 +24628,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For instance, dropping an object, dropping to a prone position, speaking a sentence or two, and ceasing to concentrate on a magic spell (if magic is available in the campaign) are all free actions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T133439Z" creationid="qt911" creationdate="20201224T133439Z">
+        <seg>比如说，扔一件物品、卧倒、说一两句话、全神贯注于施法（如果游戏允许魔法内容）都是即时动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For instance, if the target gets a +10 bonus because the bluff demands something risky of the target, and the target’s Sense Motive check succeeds by 10 or less, then the target didn’t so much see through the bluff as prove reluctant to go along with it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190808T131247Z" creationid="quentine" creationdate="20190808T131247Z">
@@ -24686,8 +24790,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>Free actions consume a very small amount of time and effort, and over the span of the round, their impact is so minor that they are considered free.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201120T131656Z" creationid="quentine" creationdate="20201120T131656Z">
-        <seg>即时动作只会</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T132709Z" creationid="quentine" creationdate="20201120T131656Z">
+        <seg>即时动作只会花费极小的时间和精力，在一轮中，即时动作影响极小所以可以自由地执行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24798,8 +24902,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>Generally, creatures directly hit by splash weapons take the most damage, while those nearby take less damage.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200424T132330Z" creationid="quentine" creationdate="20200424T132330Z">
-        <seg>通常来说，被溅射武器直接命中的生物承受最严重的伤害，邻近的其他目标承受更少的伤害。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T134128Z" creationid="quentine" creationdate="20200424T132330Z">
+        <seg>通常来说，被溅射武器直接命中的生物承受最严重的伤害，相邻的其他目标承受更少的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25336,6 +25440,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T134114Z" creationid="quentine" creationdate="20190805T134046Z">
         <seg>然而，GM可以根据实际情况强行限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, the GM puts reasonable limits on what a character can really do for free.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T133109Z" creationid="qt911" creationdate="20201224T133109Z">
+        <seg>但GM将对角色真正能做的即时动作做出合理的限制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26296,6 +26408,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T135950Z" creationid="quentine" creationdate="20190114T135950Z">
         <seg>结果取数次投骰结果的最高值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character does so, he or she takes a –4 penalty on his or her attack in a round to gain a +2 dodge bonus to Defense in the same round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T134819Z" creationid="qt911" creationdate="20201224T134819Z">
+        <seg>如果角色这么做，将在一轮中的攻击骰承受4点减值，以换取在相同轮的防御中获得2点闪避加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30502,10 +30622,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>More specialized attack actions are mentioned in Table: Actions in Combat, and covered in Special Attacks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T133758Z" creationid="qt911" creationdate="20201224T133745Z">
+        <seg>更多具体的攻击动作将在`表：战斗中的动作`中介绍，`特殊攻击`也有所涉及。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most characters with a high Reputation bonus (+4 or higher) are considered well known within their profession or social circle.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181106T123401Z" creationid="QuenTine" creationdate="20181106T123401Z">
         <seg>大多数具有高声望加值（+4及以上）的角色都是其领域或社交圈当中相当出名的人物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most common attack actions are described below.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T133524Z" creationid="qt911" creationdate="20201224T133524Z">
+        <seg>大多数常见的攻击动作将如下所述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33776,6 +33912,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Striking for damage with punches, kicks, and head butts is much like attacking with a melee weapon, except that an unarmed attack deals nonlethal damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T135059Z" creationid="qt911" creationdate="20201224T135059Z">
+        <seg>徒手攻击指用拳打、脚踢、头槌等造成伤害，类似于使用近战武器攻击，区别在于徒手攻击只造成非致命伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Strong scents can be detected at twice the ranges noted above.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T144212Z" creationid="quentine" creationdate="20191031T144212Z">
@@ -34668,6 +34812,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190202T111810Z" creationid="quentine" creationdate="20190202T111810Z">
         <seg>魅力型英雄的本职技能（以及技能的关键属性）如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Combat Martial Arts feat makes a character’s unarmed attacks count as armed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T141425Z" creationid="qt911" creationdate="20201224T141425Z">
+        <seg>`实战武术`专长可使角色的徒手攻击视为武装攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36704,6 +36856,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The attack of opportunity comes before the character’s attack.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T135615Z" creationid="qt911" creationdate="20201224T135615Z">
+        <seg>借机攻击会在角色攻击前发生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The attacker makes his or her attack roll as normal, but a character’s Defense does not include any equipment bonus or armor bonus.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T120846Z" creationid="quentine" creationdate="20201118T120846Z">
@@ -38038,8 +38198,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>The creature is not considered grappled while it holds the opponent, so it still threatens adjacent squares and retains its Dexterity bonus.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191031T133119Z" creationid="quentine" creationdate="20191031T133119Z">
-        <seg>生物在抓握对手时不会视为被擒抱状态，所以仍会威胁邻近方格并保留敏捷加值。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T134128Z" creationid="quentine" creationdate="20191031T133119Z">
+        <seg>生物在抓握对手时不会视为被擒抱状态，所以仍会威胁相邻方格并保留敏捷加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38408,6 +38568,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T122854Z" creationid="quentine" creationdate="20190116T122854Z">
         <seg>下文为力量型英雄的职业专长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The following exceptions to normal melee rules apply to unarmed attacks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T135436Z" creationid="qt911" creationdate="20201224T135436Z">
+        <seg>徒手攻击应用一般的近战规则，但有如下例外。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43402,10 +43570,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unarmed Strike Damage: An unarmed strike from a Medium-size character deals 1d3 points (plus the character’s Strength modifier, as normal) of nonlethal damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T141633Z" creationid="qt911" creationdate="20201224T141633Z">
+        <seg>徒手击打伤害：普通体型角色的徒手击打会造成1d3点（还要像往常一样加上角色的力量调整值）非致命伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unarmed attacks normally provoke attacks of opportunity, and unarmed combatants cannot normally make attacks of opportunity.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190802T141333Z" creationid="quentine" creationdate="20190731T115127Z">
         <seg>徒手攻击一般都会引发对手借机攻击，且不能进行借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unarmed strikes count as light melee weapons (for purposes of two-weapon attack penalties and so on).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T135259Z" creationid="qt911" creationdate="20201224T135259Z">
+        <seg>徒手击打算作用轻近战武器攻击（为了应用双武器惩罚等效果）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44950,6 +45134,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190413T135313Z" creationid="quentine" creationdate="20190413T135056Z">
         <seg>枪手的连射，即在一轮内以最高的基础攻击加值额外进行一次远程攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With a normal melee weapon, a character can strike any enemy within 5 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T133926Z" creationid="qt911" creationdate="20201224T133926Z">
+        <seg>在持有一般的近战武器时，角色可以攻击5尺内的任意敌人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50062,6 +50254,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |唬骗内容有点难以置信或者会让目标冒一定风险。|+5|
 |唬骗内容难以置信或者会让目标冒很大的风险。|+10|
 |唬骗内容非常荒谬，太难以置信了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Armed” Unarmed Attacks: Sometimes a character or creature attacks unarmed but the attack still counts as armed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T140522Z" creationid="qt911" creationdate="20201224T140522Z">
+        <seg>“武装”徒手攻击： 有时角色或生物的徒手攻击仍被视为非徒手攻击（武装攻击）。</seg>
       </tuv>
     </tu>
     <tu>
