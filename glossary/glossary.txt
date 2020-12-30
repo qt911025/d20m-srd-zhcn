@@ -236,7 +236,7 @@ Elusive Target	凌波微步
 Focused	全神贯注
 Disarm	卸除武器
 Mobility	灵活移动
-Personal Firearms	单兵火器
+Personal Firearms	单兵枪械
 Point Blank Shot	近程射击
 Stealthy	隐秘
 Weapon Finesse	武器娴熟
@@ -306,7 +306,7 @@ Skill Emphasis	技能专精
 Aware	觉察
 Faith	信念
 Cool Under Pressure	沉着
-Advanced Firearms Proficiency	高级擅长火器
+Advanced Firearms Proficiency	高级擅长枪械
 Attentive	听者有心
 Deceptive	欺诈
 Far Shot	远程射击
@@ -491,7 +491,7 @@ Lingers	残留	气场（aura）的残留
 Shadow Slayer	暗影猎手
 natural	天生
 natural weapon	天生武器	生物自带的武器，比如爪子
-Exotic Firearms	异种火器
+Exotic Firearms	异种枪械
 empower	强效化
 magic weapon	魔化武器
 enhancement bonus	增强加值
@@ -1020,7 +1020,7 @@ Electro-Optical	光电	双筒望远镜
 Chemical Light Stick	化学荧光棒
 Climbing Gear	攀爬装备
 Compass	指南针
-Fire Extinguisher	灭火器
+Fire Extinguisher	灭枪械
 Flashlight	手电筒
 Penlight	小手电
 Standard	标准	手电筒
@@ -1228,7 +1228,7 @@ Rifle Butt	步枪托
 impromptu	临时的
 Stun Gun	电棍
 double weapon	双头武器
-two weapons	双武器
+two weapons	双持武器
 reach weapon	长型武器
 fence	栅栏
 shaft	柄
@@ -1362,3 +1362,4 @@ Melee Attack	近战攻击
 adjacent	相邻
 nonlethal	非致命
 fang	尖牙
+engaged in melee	处于近战
