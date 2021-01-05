@@ -1363,3 +1363,4 @@ adjacent	相邻
 nonlethal	非致命
 fang	尖牙
 engaged in melee	处于近战
+Standing Up	站起

@@ -104,7 +104,7 @@
 
 ### 敏捷调整值
 
-高敏捷意味着角色能熟练地闪避击打和火器射击。低敏捷则意味着角色在这方面十分笨拙。角色的敏捷调整值将应用于防御值。
+高敏捷意味着角色能熟练地闪避击打和枪械射击。低敏捷则意味着角色在这方面十分笨拙。角色的敏捷调整值将应用于防御值。
 
 有时角色无法使用敏捷加值。若角色无法对攻击做出反应则无法在防御中算上敏捷加值。
 
@@ -260,7 +260,7 @@
 |撤退|否|
 |扑灭火焰|否|
 |使用一个需要整轮动作的技能|通常会|
-|装填内置式弹仓的火器|是|
+|装填内置式弹仓的枪械|是|
 
 |即时动作|是否会遭到借机攻击\*|
 |------------|----------------------:|
@@ -326,13 +326,13 @@
 
 在持有一般的近战武器时，角色可以攻击5尺内的任意敌人。（5尺内的敌人被视为与角色相邻。）
 
-可做一次以上攻击动作的角色必须使用`全力攻击`动作（见下文`整轮动作`）来执行多次攻击。
+可做一次以上近战攻击动作的角色必须使用`全力攻击`动作（见下文`整轮动作`）来执行多次攻击。
 
 防御式战斗：角色在近战时也可采取防御式战斗。如果角色这么做，将在一轮中的攻击骰承受4点减值，以换取在相同轮的防御中获得2点闪避加值。
 
 ### 徒手攻击
 
-徒手攻击指用拳打、脚踢、头槌等造成伤害，类似于使用近战武器攻击，区别在于徒手攻击只造成非致命伤害。徒手击打算作用轻近战武器攻击（为了应用双武器惩罚等效果）。徒手攻击应用一般的近战规则，但有如下例外。
+徒手攻击指用拳打、脚踢、头槌等造成伤害，类似于使用近战武器攻击，区别在于徒手攻击只造成非致命伤害。徒手击打算作用轻近战武器攻击（为了应用双持武器惩罚等效果）。徒手攻击应用一般的近战规则，但有如下例外。
 
 借机攻击：对持有武器的对手进行徒手攻击会引发被攻击者的借机攻击。借机攻击会在角色攻击前发生。徒手攻击不会引发第三方的借机攻击，也不会引发徒手对手的借机攻击。
 
@@ -342,99 +342,99 @@
 
 角色在掷攻击骰前可指定此次攻击将造成致命伤害，但攻击骰要受到4点减值，因为角色要瞄准致命部位击打。
 
-### Ranged Attacks
+### 远程攻击
 
-With a ranged weapon, a character can shoot or throw at any target that is within the ranged weapon’s maximum range and in line of sight. A target is in line of sight if there are no solid obstructions between the character and the target. The maximum range for a thrown weapon is five range increments. For weapons that fire projectiles, it is ten range increments.
+角色使用远程武器可以对目标发射或投掷，目标必须在武器最大射程内，且在视线内。目标在视线内意即角色与目标之间没有固体障碍物。投掷武器的最大射程是5射程跨度。而射弹的远程武器，其最大射程为10射程跨度。
 
-A character capable of making more than one ranged attack per round must use the full attack action (see Full-Round Actions, below) in order to make more than one attack.
+可做一次以上远程攻击动作的角色必须使用`全力攻击`动作（见下文`整轮动作`）来执行多次攻击。
 
-Shooting or Throwing into a Melee: If a character shoots or throws a ranged weapon at a target that is engaged in melee with an ally, the character takes a –4 penalty on his or her attack roll be-cause the character has to aim carefully to avoid hitting the ally. Two characters are engaged in melee if they are enemies and they are adjacent to one another. (An unconscious or otherwise immobilized character is not considered engaged unless he or she is actually being attacked.)
+射击或投掷攻击近战中的对手：如果角色用远程武器射击或投掷攻击一个正在与盟友处于近战的敌人时，角色的攻击骰会承受4点减值，因为角色要小心地瞄准以免误伤友方。处于近战意即两个角色互为敌对且相邻。（失去意识或处于其他不可移动状态的角色不处于近战，除非该角色正在被攻击。）
 
-If the target is so big that part of it is 10 feet or farther from the nearest ally, the character can avoid the –4 penalty, even if it’s engaged in melee with an ally.
+如果目标过于庞大，目标的一些部位与最近的盟友的距离大于等于10尺，角色可射击此处于近战的敌人且不用承受4点减值。
 
-Because of the weapon’s unwieldy shape and size, an attacker using a longarm takes a –4 penalty on attacks against adjacent opponents.
+由于长杆枪过于笨重，角色用长杆枪攻击与自己相邻的对手要承受4点减值。
 
-Fighting Defensively: A character can choose to fight defensively while making a ranged attack. 如果角色这么做，将在一轮中的攻击骰承受4点减值，以换取在相同轮的防御中获得2点闪避加值。
+防御式战斗：角色在远程攻击时也可采取防御式战斗。如果角色这么做，将在一轮中的攻击骰承受4点减值，以换取在相同轮的防御中获得2点闪避加值。
 
-### Total Defense
+### 全防御
 
-Instead of attacking, a character can use his or her attack action simply to defend. This is called a total defense action. The character doesn’t get to attack or perform any other activity, but does get a +4 dodge bonus to his or her Defense for 1 round. The character’s Defense improves at the start of this action, so it helps against any attacks of opportunity the character is subject to while performing his or her move action.
+角色可以不攻击，而用攻击动作来做纯粹的防御行为，即`全防御`。角色不会攻击或做其他动作，以在本轮的防御中获得4点闪避加值。角色在该动作开始时就获得防御加成，所以角色此时移动将不会引发借机攻击。
 
-### Start/Complete Full-Round Action
+### 开始/完成整轮动作
 
-The “start/complete full-round action” attack action lets a character start undertaking a full-round action (such as those listed on Table: Actions in Combat) at the end of his or her turn, or complete a full-round action by using an attack action at the beginning of his or her turn in the round following the round when the character started the full-round action.
+即角色可在回合的末尾用一个攻击动作来开始一个整轮动作（如`表：战斗中的动作`所列出的），或在开始后的下一个自己的回合完成这个整轮动作。
 
-If the character starts a full-round action at the end of his or her turn, the next action that character takes must be to complete the full-round action.
+如果角色在其回合末尾开始了一个整轮动作，角色的下一次行动必须为完成这个整轮动作。
 
-Start/complete full-round action cannot be used with a full attack, charge, run, or withdraw action.
+开始/完成整轮动作不能用于全力攻击、冲锋、奔跑或撤退。
 
-## Move Actions
+## 移动动作
 
-With the exception of specific movement-related skills, most move actions don’t require a check. In some cases, ability checks might be required.
+除了一些特别的移动相关的技能，大多数移动动作不需要检定。有些情况下需要属性检定。
 
-### Movement
+### 移动
 
-The simplest move action is moving the character’s speed. If a character takes this kind of move action during his or her turn, the character cannot also take a 5-foot step.
+最简单的移动动作是以角色自己的速度移动。如果角色在回合内进行了这样的移动，则不可进行五尺快步。
 
-Many nonstandard modes of movement are also covered under this category, including climbing and swimming (up to one-quarter the character’s speed), crawling (up to 5 feet), and entering a vehicle.
+大多数非标准移动方式都属于此范畴，包括攀爬和游泳（四分之一速度内）、匍匐（5尺速度内）以及进入载具。
 
-### Manipulating Objects
+### 操作物品
 
-In most cases, moving or manipulating an object is a move action. This includes drawing or holstering a weapon, retrieving or putting away a stored object, picking up an object, moving a heavy object, and opening a door.
+大多数情况下，移动或操作一个物品是一个移动动作。这包括拔出或收起武器、取出或装回储存的物品、捡起物品、移动重物以及开门。
 
-If the character has a base attack bonus of +1 or higher, he or she can draw a weapon as part of his or her normal movement.
+如果角色的基础攻击加值大于等于1，角色可以在常规移动的同时拔出武器。
 
-### Standing Up
+### 站起
 
-Standing up from a prone position requires a move action. It provokes an attack of opportunity from opponents who threaten the character.
+从俯卧姿态站起需要一个移动动作。这会引发威胁自己的对手的借机攻击。
 
-## Full-Round Actions
+## 整轮动作
 
-A full-round action requires an entire round to complete. If it doesn’t involve moving any distance, a character can combine it with a 5-foot step.
+整轮动作需要一整轮来完成。如果这个动作不会造成任何位移，角色可附带进行一次五尺快步。
 
-### Charge
+### 冲锋
 
-Charging is a special full-round action that allows a character to move more than his or her speed and attack during the action. However, there are tight restrictions on how and when a character can charge.
+冲锋时一种特殊的整轮动作，角色可以在这个动作中以超过常速的速度移动并攻击。但执行这个动作的时机和条件都很苛刻。
 
-Movement during a Charge: The character must move before his or her attack, not after. The character must move at least 10 feet and may move up to twice his or her speed. All movement must be in a straight line, with no backing up allowed. The character must stop as soon as he or she is within striking range of his or her target (the character can’t run past the target and attack from another direction). A character can’t take a 5-foot step during the same round as a full charge.
+冲锋时的移动：角色必须在攻击前移动，而非之后。角色必须至少移动10尺且可以两倍速移动。所有的移动必须在一条直线内，不可倒退。目标一旦进入角色的打击范围内，角色必须停下（角色不能越过目标并从另一个方向攻击）。角色不能在冲锋的这一轮内做五尺快步。
 
-During the surprise round (or any other time a character is limited to taking no more than a single attack action on his or her turn) the character can still use the charge action, but he or she is only allowed to move up to his or her speed (instead of up to twice his or her speed).
+在突袭轮中（或其他限做一个攻击动作的回合），角色仍可以冲锋，但最多只能移动一倍速的距离，而非两倍速。
 
-Attacking after a Charge: After moving, the character may make a single melee attack. The character gets a +2 bonus on the attack roll. The character also takes a –2 penalty to his or her Defense for 1 round (until the beginning of the character’s turn in the following round).
+冲锋后的攻击：移动后角色可以进行一次近战攻击。角色的攻击骰获得2点加值。角色在本轮的防御也将收到2点减值（直到下一轮角色回合的开头）。
 
-Even if the character has extra attacks, such as from having a high enough base attack bonus or from using multiple weapons, a character only gets to make one attack after a charge.
+即使角色有额外的攻击次数，比如基础攻击加值高到可以多次攻击或者使用多把武器，角色还是只能在冲锋后攻击一次。
 
-Instead of attacking the target, a character can attempt to push the target back. See Bull Rush.
+除了可以攻击，角色也可以尝试将目标撞退。详见`冲撞`。
 
-### Full Attack
+### 全力攻击
 
-If a character gets more than one attack per action because his or her base attack bonus is high enough, because he or she fights with two weapons, because he or she is using a double weapon, or for some special reason, the character must use the full attack action to get his or her additional attacks. The character does not need to specify the targets of his or her attacks ahead of time. The character can see how the earlier attacks turn out before assigning the later ones.
+如果角色的基础攻击加值足够高、或是使用双武器以及双头武器、或是特殊原因，可以让每个动作攻击多次，角色必须使用全力攻击来执行额外的攻击。角色并不是一次性决定一个目标并全力攻击，而是可以在攻击一次得出结果后再决定下一击的目标。
 
-Full attack is a full-round action. Because of this, the only movement a character can take during a full attack is a 5-foot step. The character may take the step before, after, or between the attacks.
+全力攻击是一个整轮动作。因此角色在全力攻击时只能用五尺快步来移动。角色可以在攻击之前、之后、中途五尺快步。
 
-If a character gets multiple attacks based on his or her base attack bonus, the character must make the attacks in order from highest bonus to lowest. If the character is using two weapons, the character can strike with either weapon first. If the character is using a double wea-pon, the character can strike with either part of the weapon first.
+如果角色因其基础攻击加值进行了多次攻击，角色必须按加值从高到低的顺序进行这些攻击。如果角色使用双武器，首先使用哪一把先攻击都可以。如果角色使用双头武器，首先使用哪一头先攻击都可以。
 
-Committing to a Full Attack Action: A character doesn’t have to commit to a full attack until after the first attack. The character can then decide whether to make his or her remaining attacks or to take a move action. Of course, if the character has already taken a 5-foot step, he or she can’t use his or her move action to move any distance, but the character could still draw or put away a weapon, for instance (see Move Actions, above).
+决定要全力攻击：角色不需要一开始就决定全力攻击，可以在第一次攻击之后再决定是要完成余下的攻击，还是做一个移动动作。当然如果角色已经做了五尺快步，则不可以用移动动作移动了，但角色仍可以拔出或收起武器等不位移的动作（见上文`移动动作`）。
 
-Fighting Defensively: A character can choose to fight defensively when taking a full attack action. If the character does so, he or she takes a –4 penalty on all attacks in a round to gain a +2 dodge bonus to Defense in the same round.
+防御式战斗：角色在全力攻击时，也可选择防御式战斗。如果角色这么做，将在一轮中的所有攻击骰都承受4点减值，以换取在相同轮的防御中获得2点闪避加值。
 
-Attacking with Two Weapons: If the character wields a second weapon in his or her off hand, the character can get one extra attack per round with that weapon. Fighting in this way is very difficult, how-ever—the character takes a –6 penalty on the regular attack or attacks with his or her primary hand and a –10 penalty on the attack with his or her off hand. A character can reduce these penalties in two ways.
+双武器攻击：如果角色在副手装备了武器，每一轮角色都可以用该武器进行额外的攻击。但这么战斗是非常困难的——角色用主手进行的一次或多次常规攻击都将承受6点减值，副手进行的攻击将承受10点减值。角色可以以两种方式减轻惩罚。
 
-1. If the off-hand weapon is light, the penalties are reduced by 2 each. (An unarmed strike is always considered light.)
-2. The Two-Weapon Fighting feat lessens the primary hand penalty by 2, and the off-hand penalty by 6.
+1. 如果副手武器是轻武器，两只手的攻击减值都要少2点。（徒手击打永远视为轻武器。）
+2. `双持`专长使主手攻击减值减少2点，使副手攻击减值减少6点。
 
-Table: Two-Weapon Fighting Penalties summarizes the interaction of all these factors.
+`表：双武器战斗减值`列举了所有因素的综合结果。
 
-Double Weapons: A character can use a double weapon to make an extra attack as if he or she were fighting with two weapons. The penalties apply as if the off-hand weapon were light.
+双头武器：角色可以用一个双头武器做额外的攻击，等效于双武器战斗。应用的减值等效于副手武器为轻武器。
 
-**Table: Two-Weapon Fighting Penalties**
+**表：双武器战斗减值**
 
-|Circumstances|Primary Hand|Off Hand|
+|情景|主手|副手|
 |-------------|:----------:|:------:|
-|Normal penalties|–6|–10|
-|Off-hand weapon is light|–4|–8|
-|Two-Weapon Fighting feat|–4|–4|
-|Off-hand weapon is light and Two-Weapon Fighting feat|–2|–2|
+|常规减值|–6|–10|
+|副手为轻武器|–4|–8|
+|双持专长|–4|–4|
+|副手为轻武器且有双持专长|–2|–2|
 
 ### 奔跑
 
@@ -717,7 +717,7 @@ A number of other feats allow a character to deal extra damage when he or she fi
 
 As with all forms of ranged weapons, attacking with a firearm while within a threatened square provokes an attack of opportunity.
 
-Because of the weapon’s unwieldy shape and size, an attacker using a longarm takes a –4 penalty on attacks against adjacent opponents.
+由于长杆枪过于笨重，角色用长杆枪攻击与自己相邻的对手要承受4点减值。
 
 ### Autofire
 

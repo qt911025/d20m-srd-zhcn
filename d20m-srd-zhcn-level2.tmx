@@ -1046,6 +1046,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>## Full-Round Actions</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T123036Z" creationid="qt911" creationdate="20210105T123036Z">
+        <seg>## 整轮动作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>## GUNSLINGER</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190227T042218Z" creationid="quentine" creationdate="20190227T042218Z">
@@ -1314,6 +1322,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181104T081355Z" creationid="QuenTine" creationdate="20181104T081355Z">
         <seg>## 道德</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Move Actions</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T121324Z" creationid="qt911" creationdate="20210105T121324Z">
+        <seg>## 移动动作</seg>
       </tuv>
     </tu>
     <tu>
@@ -2184,8 +2200,8 @@
       <tuv xml:lang="en-US">
         <seg>### Advanced Firearms Proficiency</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190704T124410Z" creationid="quentine" creationdate="20190704T124410Z">
-        <seg>### 高级擅长火器</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190704T124410Z">
+        <seg>### 高级擅长枪械</seg>
       </tuv>
     </tu>
     <tu>
@@ -2538,6 +2554,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200803T145437Z" creationid="quentine" creationdate="20200803T145437Z">
         <seg>###  塞斯纳172天鹰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Charge</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T123302Z" creationid="qt911" creationdate="20210105T123302Z">
+        <seg>### 冲锋</seg>
       </tuv>
     </tu>
     <tu>
@@ -3024,8 +3048,8 @@
       <tuv xml:lang="en-US">
         <seg>### Exotic Firearms Proficiency</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190731T132815Z" creationid="quentine" creationdate="20190731T132815Z">
-        <seg>### 擅长异种火器</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190731T132815Z">
+        <seg>### 擅长异种枪械</seg>
       </tuv>
     </tu>
     <tu>
@@ -3080,8 +3104,8 @@
       <tuv xml:lang="en-US">
         <seg>### Fire Extinguisher</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T084255Z" creationid="quentine" creationdate="20200117T084255Z">
-        <seg>### 灭火器</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200117T084255Z">
+        <seg>### 灭枪械</seg>
       </tuv>
     </tu>
     <tu>
@@ -3170,6 +3194,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190802T131014Z" creationid="quentine" creationdate="20190802T131014Z">
         <seg>### 气势凶猛</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Full Attack</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T125024Z" creationid="qt911" creationdate="20210105T125024Z">
+        <seg>### 全力攻击</seg>
       </tuv>
     </tu>
     <tu>
@@ -3630,6 +3662,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Manipulating Objects</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T122020Z" creationid="qt911" creationdate="20210105T122020Z">
+        <seg>### 操作物品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Map</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200116T094057Z" creationid="quentine" creationdate="20200116T094057Z">
@@ -3766,6 +3806,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Movement</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T121521Z" creationid="qt911" creationdate="20210105T121521Z">
+        <seg>### 移动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Moving Truck</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T130019Z" creationid="quentine" creationdate="20201030T130019Z">
@@ -3864,8 +3912,8 @@
       <tuv xml:lang="en-US">
         <seg>### Personal Firearms Proficiency</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190803T135031Z" creationid="quentine" creationdate="20190803T135031Z">
-        <seg>### 擅长单兵火器</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190803T135031Z">
+        <seg>### 擅长单兵枪械</seg>
       </tuv>
     </tu>
     <tu>
@@ -3986,6 +4034,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T022145Z" creationid="quentine" creationdate="20201114T022145Z">
         <seg>### 距离减值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Ranged Attacks</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201229T232442Z" creationid="qt911" creationdate="20201229T232442Z">
+        <seg>### 远程攻击</seg>
       </tuv>
     </tu>
     <tu>
@@ -4210,6 +4266,22 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190804T122756Z" creationid="quentine" creationdate="20190804T122756Z">
         <seg>### 跳跃攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Standing Up</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T122731Z" creationid="qt911" creationdate="20210105T122731Z">
+        <seg>### 站起</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Start/Complete Full-Round Action</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T120650Z" creationid="qt911" creationdate="20210105T120650Z">
+        <seg>### 开始/完成整轮动作</seg>
       </tuv>
     </tu>
     <tu>
@@ -4458,6 +4530,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191115T125445Z" creationid="quentine" creationdate="20191115T125445Z">
         <seg>### 工具腰带</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Total Defense</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201229T235507Z" creationid="qt911" creationdate="20201229T235507Z">
+        <seg>### 全防御</seg>
       </tuv>
     </tu>
     <tu>
@@ -4976,8 +5056,8 @@
       <tuv xml:lang="en-US">
         <seg>#### Greater Weapon Focus</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190413T135740Z" creationid="quentine" creationdate="20190413T135740Z">
-        <seg>#### 高等专攻火器</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190413T135740Z">
+        <seg>#### 高等专攻枪械</seg>
       </tuv>
     </tu>
     <tu>
@@ -6368,8 +6448,8 @@
       <tuv xml:lang="en-US">
         <seg>##### Reloading Firearms</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T134447Z" creationid="quentine" creationdate="20200410T134447Z">
-        <seg>##### 装填火器</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200410T134447Z">
+        <seg>##### 装填枪械</seg>
       </tuv>
     </tu>
     <tu>
@@ -6810,6 +6890,24 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T125148Z" creationid="quentine" creationdate="20191027T125148Z">
         <seg>（角色无剩余移动动作时不可使用此检定，检定自动失败。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(An unarmed strike is always considered light.)
+2.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T132401Z" creationid="qt911" creationdate="20210105T132401Z">
+        <seg>（徒手击打永远视为轻武器。）
+2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(An unconscious or otherwise immobilized character is not considered engaged unless he or she is actually being attacked.)</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201229T234734Z" creationid="qt911" creationdate="20201229T234734Z">
+        <seg>（失去意识或处于其他不可移动状态的角色不处于近战，除非该角色正在被攻击。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8073,8 +8171,8 @@
       <tuv xml:lang="en-US">
         <seg>**Benefit:** Reloading a firearm with an already filled box magazine or speed loader is a free action.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190803T142214Z" creationid="quentine" creationdate="20190803T141710Z">
-        <seg>**效果：** 将一个已装弹的弹匣或快速装填器装填至火器里，是一个即时动作。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190803T141710Z">
+        <seg>**效果：** 将一个已装弹的弹匣或快速装填器装填至枪械里，是一个即时动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8105,17 +8203,17 @@
       <tuv xml:lang="en-US">
         <seg>**Benefit:** The character can fire any personal firearm on autofire without penalty (provided, of course, that it has an auto-fire setting).</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190803T135245Z" creationid="quentine" creationdate="20190704T124606Z">
-        <seg>**效果：** 角色发射任何自动模式的单兵火器不再受到减值惩罚（当然，这个武器得有自动模式）。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190704T124606Z">
+        <seg>**效果：** 角色发射任何自动模式的单兵枪械不再受到减值惩罚（当然，这个武器得有自动模式）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>**Benefit:** The character can fire any personal firearm without penalty.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190803T135527Z" creationid="quentine" creationdate="20190803T135115Z">
-        <seg>**效果：** 角色发射任何单兵火器不再受到惩罚。
-&gt; 译者注：其他专长的缺乏带来的惩罚仍然算数，如高级擅长火器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190803T135115Z">
+        <seg>**效果：** 角色发射任何单兵枪械不再受到惩罚。
+&gt; 译者注：其他专长的缺乏带来的惩罚仍然算数，如高级擅长枪械。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8626,8 +8724,8 @@
       <tuv xml:lang="en-US">
         <seg>**Benefit:** When the character uses a firearm or archaic ranged weapon, its range increment increases by one-half (multiply by 1.5).</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190731T133637Z" creationid="quentine" creationdate="20190731T133637Z">
-        <seg>**效果：** 角色使用火器或古典远程武器时，射程将提高50%（即乘以1.5）。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190731T133637Z">
+        <seg>**效果：** 角色使用枪械或古典远程武器时，射程将提高50%（即乘以1.5）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8650,16 +8748,16 @@
       <tuv xml:lang="en-US">
         <seg>**Benefit:** When using a firearm on autofire, the character can affect an area four 5-foot squares long and one square wide (that is, any four squares in a straight line).</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191031T132932Z" creationid="quentine" creationdate="20190804T123805Z">
-        <seg>**效果：** 当使用自动模式的火器时，角色范围攻击4个5尺方格长、1方格宽（也就是4个方格的直线）的区域。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190804T123805Z">
+        <seg>**效果：** 当使用自动模式的枪械时，角色范围攻击4个5尺方格长、1方格宽（也就是4个方格的直线）的区域。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>**Benefit:** When using a semiautomatic firearm with at least two bullets loaded, the character may fire two bullets as a single attack against a single target.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190731T124747Z" creationid="quentine" creationdate="20190731T124507Z">
-        <seg>**效果：** 当使用至少装填了两发子弹半自动火器时，角色可以用一次攻击发射两发子弹射击单个目标。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190731T124507Z">
+        <seg>**效果：** 当使用至少装填了两发子弹半自动枪械时，角色可以用一次攻击发射两发子弹射击单个目标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8682,8 +8780,8 @@
       <tuv xml:lang="en-US">
         <seg>**Benefit:** When using an automatic firearm with at least five bullets loaded, the character may fire a short burst as a single attack against a single target.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190731T124633Z" creationid="quentine" creationdate="20190730T134942Z">
-        <seg>**效果：** 当使用至少装填了5颗子弹的全自动火器时，角色可以用一个攻击动作对单个目标进行短点射。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190730T134942Z">
+        <seg>**效果：** 当使用至少装填了5颗子弹的全自动枪械时，角色可以用一个攻击动作对单个目标进行短点射。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8738,32 +8836,32 @@
       <tuv xml:lang="en-US">
         <seg>**Bonus Feat:** Select either Brawl or Personal Firearms Proficiency.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181104T130738Z" creationid="QuenTine" creationdate="20181104T130738Z">
-        <seg>**奖励专长：** 选其一：拳法、擅长个人火器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="QuenTine" creationdate="20181104T130738Z">
+        <seg>**奖励专长：** 选其一：拳法、擅长单兵枪械。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>**Bonus Feat:** Select one of the following: Archaic Weapons Proficiency, Brawl, or Personal Firearms Proficiency.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181104T121839Z" creationid="QuenTine" creationdate="20181104T121839Z">
-        <seg>**奖励专长：** 选其一：擅长古典武器、拳法、擅长个人火器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="QuenTine" creationdate="20181104T121839Z">
+        <seg>**奖励专长：** 选其一：擅长古典武器、拳法、擅长单兵枪械。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>**Bonus Feat:** Select one of the following: Brawl, Combat Martial Arts, Armor Proficiency (light), or Personal Firearms Proficiency.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190704T132345Z" creationid="QuenTine" creationdate="20181104T141539Z">
-        <seg>**奖励专长：** 选其一：拳法、实战武术、擅长护甲（轻型）、擅长个人火器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="QuenTine" creationdate="20181104T141539Z">
+        <seg>**奖励专长：** 选其一：拳法、实战武术、擅长护甲（轻型）、擅长单兵枪械。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>**Bonus Feat:** Select one of the following: Combat Martial Arts, Armor Proficiency (light), or Personal Firearms Proficiency.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190704T132345Z" creationid="QuenTine" creationdate="20181104T141140Z">
-        <seg>**奖励专长：** 选其一：实战武术、擅长护甲（轻型）、擅长个人火器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="QuenTine" creationdate="20181104T141140Z">
+        <seg>**奖励专长：** 选其一：实战武术、擅长护甲（轻型）、擅长单兵枪械。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9434,8 +9532,8 @@
       <tuv xml:lang="en-US">
         <seg>**Damage Type:** Ranged weapon damage is classified according to type: ballistic (all firearms), energy (of a specific type), piercing (some simple ranged weapons), or slashing (a whip).</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200525T131245Z" creationid="quentine" creationdate="20200410T120642Z">
-        <seg>**伤害类型：** 远程武器的伤害分为几类：实弹（所有火器），能量（一些特殊武器）、穿刺（一些简单远程武器）、以及劈砍（鞭子）。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200410T120642Z">
+        <seg>**伤害类型：** 远程武器的伤害分为几类：实弹（所有枪械），能量（一些特殊武器）、穿刺（一些简单远程武器）、以及劈砍（鞭子）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9778,8 +9876,8 @@
       <tuv xml:lang="en-US">
         <seg>**Feat:** Personal Firearms Proficiency.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190221T134539Z" creationid="quentine" creationdate="20190221T134539Z">
-        <seg>**专长：** 擅长单兵火器</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190221T134539Z">
+        <seg>**专长：** 擅长单兵枪械</seg>
       </tuv>
     </tu>
     <tu>
@@ -10602,8 +10700,8 @@
       <tuv xml:lang="en-US">
         <seg>**Normal:** A firearm on autofire normally affects a 10-foot-by-10-foot area.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190804T123912Z" creationid="quentine" creationdate="20190804T123912Z">
-        <seg>**正常：** 自动模式火器一般攻击的范围是10尺×10尺的区域。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190804T123912Z">
+        <seg>**正常：** 自动模式枪械一般攻击的范围是10尺×10尺的区域。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10650,16 +10748,16 @@
       <tuv xml:lang="en-US">
         <seg>**Normal:** Characters without this feat take a –4 penalty on attack rolls made with personal firearms set on auto-fire.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190704T124708Z" creationid="quentine" creationdate="20190704T124708Z">
-        <seg>**正常：** 无此专长的角色使用自动模式的火器攻击骰会有4点减值。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190704T124708Z">
+        <seg>**正常：** 无此专长的角色使用自动模式的枪械攻击骰会有4点减值。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>**Normal:** Characters without this feat take a –4 penalty on attack rolls made with personal firearms.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190803T135401Z" creationid="quentine" creationdate="20190803T135401Z">
-        <seg>**正常：** 无此专长的角色使用单兵火器攻击骰会有4点减值。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190803T135401Z">
+        <seg>**正常：** 无此专长的角色使用单兵枪械攻击骰会有4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10674,8 +10772,8 @@
       <tuv xml:lang="en-US">
         <seg>**Normal:** Reloading a firearm with an already filled box magazine or speed loader is a move action.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T134815Z" creationid="quentine" creationdate="20190803T142154Z">
-        <seg>**正常：** 将一个已装弹的弹匣或快速装填器装填至火器里，是一个移动动作。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190803T142154Z">
+        <seg>**正常：** 将一个已装弹的弹匣或快速装填器装填至枪械里，是一个移动动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10954,8 +11052,8 @@
       <tuv xml:lang="en-US">
         <seg>**Prerequisite:** Personal Firearms Proficiency.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190704T124425Z" creationid="quentine" creationdate="20190704T124425Z">
-        <seg>**要求：** 擅长火器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190704T124425Z">
+        <seg>**要求：** 擅长单兵枪械。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11170,8 +11268,8 @@
       <tuv xml:lang="en-US">
         <seg>**Prerequisites:** Personal Firearms Proficiency, Advanced Firearms Proficiency.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190731T133101Z" creationid="quentine" creationdate="20190731T133101Z">
-        <seg>**要求：** 擅长单兵火器、高级擅长火器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190731T133101Z">
+        <seg>**要求：** 擅长单兵枪械、高级擅长枪械。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11218,8 +11316,8 @@
       <tuv xml:lang="en-US">
         <seg>**Prerequisites:** Wisdom 13, Personal Firearms Proficiency, Advanced Firearms Proficiency.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190730T140121Z" creationid="quentine" creationdate="20190730T134729Z">
-        <seg>**要求：** 13感知、擅长单兵火器、高级擅长火器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190730T134729Z">
+        <seg>**要求：** 13感知、擅长单兵枪械、高级擅长枪械。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11571,8 +11669,8 @@
       <tuv xml:lang="en-US">
         <seg>**Semiautomatic (S):** Most firearms have the semiautomatic rate of fire.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T124206Z" creationid="quentine" creationdate="20200410T124206Z">
-        <seg>**半自动（半）：** 大多数火器都有半自动射击模式。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200410T124206Z">
+        <seg>**半自动（半）：** 大多数枪械都有半自动射击模式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12411,8 +12509,8 @@
       <tuv xml:lang="en-US">
         <seg>**Special:** If the firearm has a three-round burst setting, firing a burst expends three bullets instead of five and can be used if the weapon has only three bullets in it.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190730T135830Z" creationid="quentine" creationdate="20190730T135830Z">
-        <seg>**特别：** 如果火器有三发点射模式，短点射只消耗三发子弹而非5发，只要还剩3发子弹就能发动。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190730T135830Z">
+        <seg>**特别：** 如果枪械有三发点射模式，短点射只消耗三发子弹而非5发，只要还剩3发子弹就能发动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12701,6 +12799,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190805T134146Z" creationid="quentine" creationdate="20190805T134146Z">
         <seg>**表：每级技能点**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Table: Two-Weapon Fighting Penalties**</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T132912Z" creationid="qt911" creationdate="20210105T132912Z">
+        <seg>**表：双武器战斗减值**</seg>
       </tuv>
     </tu>
     <tu>
@@ -14921,24 +15027,24 @@
       <tuv xml:lang="en-US">
         <seg>A character can fight with it as if fighting with two weapons, but if he or she does, the character incurs all the normal attack penalties associated with fighting with two weapons, as if using a one-handed weapon and a light weapon.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200520T143347Z" creationid="quentine" creationdate="20200520T143347Z">
-        <seg>角色可以使用双头武器的两端同时战斗，就像使用双武器战斗一样，但同时也会受到使用双武器战斗的减值，视为一把单手武器和一把轻武器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000413Z" creationid="quentine" creationdate="20200520T143347Z">
+        <seg>角色可以使用双头武器的两端同时战斗，就像使用双持武器战斗一样，但同时也会受到使用双持武器战斗的减值，视为一把单手武器和一把轻武器。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>A character can fight with it as if fighting with two weapons, but if the character does so, he or she incurs all the normal attack penalties associated with fighting with two weapons, as if using a one-handed weapon and a light weapon.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200519T134312Z" creationid="quentine" creationdate="20200519T134312Z">
-        <seg>角色可以使用双头武器的两端同时战斗，就像使用双武器战斗一样，但同时也会受到使用双武器战斗的减值，视为一把单手武器和一把轻武器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000413Z" creationid="quentine" creationdate="20200519T134312Z">
+        <seg>角色可以使用双头武器的两端同时战斗，就像使用双持武器战斗一样，但同时也会受到使用双持武器战斗的减值，视为一把单手武器和一把轻武器。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>A character can fight with it as if fighting with two weapons, incurring all the normal attack penalties as if using a one-handed weapon and a light weapon.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200519T142136Z" creationid="quentine" creationdate="20200519T141629Z">
-        <seg>角色可以将其作为双头武器使用，就像使用双武器战斗一样，但同时也会受到使用双武器战斗的减值，视为一把单手武器和一把轻武器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000413Z" creationid="quentine" creationdate="20200519T141629Z">
+        <seg>角色可以将其作为双头武器使用，就像使用双持武器战斗一样，但同时也会受到使用双持武器战斗的减值，视为一把单手武器和一把轻武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15091,6 +15197,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T132913Z" creationid="qt911" creationdate="20201224T132913Z">
         <seg>角色在做其他常规动作的同时可以做一到多个即时动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character can reduce these penalties in two ways.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T132149Z" creationid="qt911" creationdate="20210105T132149Z">
+        <seg>角色可以以两种方式减轻惩罚。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15431,6 +15545,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A character can’t take a 5-foot step during the same round as a full charge.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T124135Z" creationid="qt911" creationdate="20210105T124135Z">
+        <seg>角色不能在冲锋的这一轮内做五尺快步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A character can’t use a feat if the character has lost a prerequisite.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190704T122706Z" creationid="quentine" creationdate="20190704T122706Z">
@@ -15465,8 +15587,16 @@
       <tuv xml:lang="en-US">
         <seg>A character capable of making more than one melee attack per round must use the full attack action (see Full-Round Actions, below) in order to make more than one attack.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T134431Z" creationid="qt911" creationdate="20201224T134431Z">
-        <seg>可做一次以上攻击动作的角色必须使用`全力攻击`动作（见下文`整轮动作`）来执行多次攻击。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201229T233319Z" creationid="qt911" creationdate="20201224T134431Z">
+        <seg>可做一次以上近战攻击动作的角色必须使用`全力攻击`动作（见下文`整轮动作`）来执行多次攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A character capable of making more than one ranged attack per round must use the full attack action (see Full-Round Actions, below) in order to make more than one attack.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201229T233307Z" creationid="qt911" creationdate="20201229T233307Z">
+        <seg>可做一次以上远程攻击动作的角色必须使用`全力攻击`动作（见下文`整轮动作`）来执行多次攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16831,6 +16961,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A full-round action requires an entire round to complete.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T123048Z" creationid="qt911" creationdate="20210105T123048Z">
+        <seg>整轮动作需要一整轮来完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A gas mask renders the target immune to the effects.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200508T125002Z" creationid="quentine" creationdate="20200508T125002Z">
@@ -16841,8 +16979,8 @@
       <tuv xml:lang="en-US">
         <seg>A handgun is a personal firearm that can be used one-handed without penalty.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200417T134130Z" creationid="quentine" creationdate="20200417T134130Z">
-        <seg>手枪是可以无惩罚单手使用的单兵火器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200417T134130Z">
+        <seg>手枪是可以无惩罚单手使用的单兵枪械。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17313,8 +17451,8 @@
       <tuv xml:lang="en-US">
         <seg>A personal firearm is any firearm designed to be carried and used by a single person.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T115316Z" creationid="quentine" creationdate="20200410T115316Z">
-        <seg>单兵火器包括了所有专供单人携带与操作的热兵器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200410T115316Z">
+        <seg>单兵枪械包括了所有专供单人携带与操作的热兵器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17913,6 +18051,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A target is in line of sight if there are no solid obstructions between the character and the target.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201229T233053Z" creationid="qt911" creationdate="20201229T233028Z">
+        <seg>目标在视线内意即角色与目标之间没有固体障碍物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A target that takes a direct hit is dealt an additional 1d6 points of fire damage in the following round and risks catching on fire.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200513T144140Z" creationid="quentine" creationdate="20200513T144140Z">
@@ -18163,8 +18309,8 @@
       <tuv xml:lang="en-US">
         <seg>Acrobatic, Combat Expertise, Combat Throw, Defensive Martial Arts, Double Tap, Elusive Target, Focused, Improved Disarm, Mobility, Personal Firearms Proficiency, Point Blank Shot, Stealthy, Weapon Finesse.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190117T142233Z" creationid="quentine" creationdate="20190117T134416Z">
-        <seg>杂技、寓守于攻、摔投技巧、防御武术、双发快射、凌波微步、全神贯注、精通卸除武器、灵活移动、擅长单兵火器、近程射击、隐秘、武器娴熟。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190117T134416Z">
+        <seg>杂技、寓守于攻、摔投技巧、防御武术、双发快射、凌波微步、全神贯注、精通卸除武器、灵活移动、擅长单兵枪械、近程射击、隐秘、武器娴熟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18323,48 +18469,48 @@
       <tuv xml:lang="en-US">
         <seg>Advanced Firearms Proficiency, Advanced Two-Weapon Fighting, Burst Fire, Dead Aim, Double Tap, Far Shot, Improved Two-Weapon Fighting, Precise Shot, Quick Draw, Quick Reload, Shot on the Run, Skip Shot, Strafe, Two-Weapon Fighting.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190413T134633Z" creationid="quentine" creationdate="20190413T131641Z">
-        <seg>高级擅长火器、高级双持、点射、屏息瞄准、双发快射、远程射击、精通双持、精准射击、快速拔出、快速装填、移动射击、扫射、双持。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190413T131641Z">
+        <seg>高级擅长枪械、高级双持、点射、屏息瞄准、双发快射、远程射击、精通双持、精准射击、快速拔出、快速装填、移动射击、扫射、双持。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Advanced Firearms Proficiency, Alertness, Archaic Weapons Proficiency, Attentive, Blind-Fight, Deceptive, Educated, Far Shot, Iron Will, Medical Expert, Meticulous, Surgery, Track, Weapon Focus.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190730T142250Z" creationid="quentine" creationdate="20190202T110016Z">
-        <seg>高级擅长火器、警觉、擅长古典武器、听者有心、盲斗、欺诈、良好教育、远程射击、钢铁意志、医药专家、一丝不苟、手术、追踪、专攻武器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190202T110016Z">
+        <seg>高级擅长枪械、警觉、擅长古典武器、听者有心、盲斗、欺诈、良好教育、远程射击、钢铁意志、医药专家、一丝不苟、手术、追踪、专攻武器。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Advanced Firearms Proficiency, Archaic Weapons Proficiency, Armor Proficiency (light), Armor Proficiency (medium), Armor Proficiency (heavy), Brawl, Burst Fire, Cleave, Combat Reflexes, Exotic Firearms Proficiency, Exotic Melee Weapon Proficiency, Far Shot, Great Cleave, Im-proved Brawl, Improved Knockout Punch, Knockout Punch, Power Attack.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190226T125336Z">
-        <seg>高级擅长火器、擅长古典武器、擅长护甲（轻型）、擅长护甲（中型）、擅长护甲（重型）、拳法、点射、顺势斩、战斗反射、擅长异种火器、擅长异种近战武器、远程射击、强力顺势斩、精通拳法、精通终结之拳、终结之拳、猛力攻击。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190226T125336Z">
+        <seg>高级擅长枪械、擅长古典武器、擅长护甲（轻型）、擅长护甲（中型）、擅长护甲（重型）、拳法、点射、顺势斩、战斗反射、擅长异种枪械、擅长异种近战武器、远程射击、强力顺势斩、精通拳法、精通终结之拳、终结之拳、猛力攻击。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Advanced Firearms Proficiency, Armor Proficiency (light), Armor Proficiency (medium), Attentive, Combat Expertise, Combat Reflexes, Double Tap, Improved Brawl, Improved Feint, Improved Knockout Punch, Knockout Punch, Precise Shot, Quick Draw, Quick Reload, Streetfighting, Vehicle Expert.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190421T132505Z">
-        <seg>高级擅长火器、擅长护甲（轻型）、擅长护甲（中型）、听者有心、寓守于攻、战斗反射、双发快射、精通拳法、精通虚招、精通终结之拳、终结之拳、精准射击、快速拔出、快速装填、街头战斗、载具专家。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190421T132505Z">
+        <seg>高级擅长枪械、擅长护甲（轻型）、擅长护甲（中型）、听者有心、寓守于攻、战斗反射、双发快射、精通拳法、精通虚招、精通终结之拳、终结之拳、精准射击、快速拔出、快速装填、街头战斗、载具专家。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Advanced Firearms Proficiency, Armor Proficiency (light), Armor Proficiency (medium), Attentive, Confident, Dead Aim, Deceptive, Educated, Far Shot, Iron Will, Personal Firearms Proficiency, Trustworthy.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190526T130809Z">
-        <seg>高级擅长火器、擅长护甲（轻型）、擅长护甲（中型）、听着有心、自信、屏息瞄准、欺诈、良好教育、远程射击、钢铁意志、擅长单兵火器、值得信赖。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190526T130809Z">
+        <seg>高级擅长枪械、擅长护甲（轻型）、擅长护甲（中型）、听着有心、自信、屏息瞄准、欺诈、良好教育、远程射击、钢铁意志、擅长单兵枪械、值得信赖。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Advanced Firearms Proficiency, Armor Proficiency (light), Armor Proficiency (medium), Brawl, Defensive Martial Arts, Dodge, Double Tap, Educated, Knockout Punch, Personal Firearms Proficiency, Point Blank Shot.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190526T084706Z">
-        <seg>高级擅长火器、擅长护甲（轻型）、擅长护甲（中型）、拳法、防御武术、闪避、双发快射、良好教育、终结之拳、擅长单兵火器、近程射击。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190526T084706Z">
+        <seg>高级擅长枪械、擅长护甲（轻型）、擅长护甲（中型）、拳法、防御武术、闪避、双发快射、良好教育、终结之拳、擅长单兵枪械、近程射击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18539,8 +18685,8 @@
       <tuv xml:lang="en-US">
         <seg>Alertness, Archaic Weapons Proficiency, Attentive, Confident, Defensive Martial Arts, Focused, Frightful Presence, Iron Will, Personal Firearms Proficiency, Point Blank Shot.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190613T132745Z" creationid="quentine" creationdate="20190613T132745Z">
-        <seg>警觉、擅长古典武器、听着有心、自信、防御武术、全神贯注、气势凶猛、钢铁意志、擅长单兵火器、近程射击。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190613T132745Z">
+        <seg>警觉、擅长古典武器、听着有心、自信、防御武术、全神贯注、气势凶猛、钢铁意志、擅长单兵枪械、近程射击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18611,8 +18757,8 @@
       <tuv xml:lang="en-US">
         <seg>All handguns require the Personal Firearms Proficiency feat.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200417T134409Z" creationid="quentine" creationdate="20200417T134409Z">
-        <seg>所有的手枪都要求`擅长单兵火器`专长。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200417T134409Z">
+        <seg>所有的手枪都要求`擅长单兵枪械`专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18627,8 +18773,16 @@
       <tuv xml:lang="en-US">
         <seg>All longarms are covered by the Personal Firearms Proficiency feat.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200419T021416Z" creationid="quentine" creationdate="20200419T021416Z">
-        <seg>所有的长杆枪都要求`擅长单兵火器`专长。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200419T021416Z">
+        <seg>所有的长杆枪都要求`擅长单兵枪械`专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>All movement must be in a straight line, with no backing up allowed.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T123927Z" creationid="qt911" creationdate="20210105T123927Z">
+        <seg>所有的移动必须在一条直线内，不可倒退。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19099,8 +19253,8 @@
       <tuv xml:lang="en-US">
         <seg>Ammunition for firearms and other ranged weapons is covered on Table: Ammunition.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200424T114014Z" creationid="quentine" creationdate="20200424T114014Z">
-        <seg>火器以及其他远程武器的弹药见表：弹药。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200424T114014Z">
+        <seg>枪械以及其他远程武器的弹药见表：弹药。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19395,8 +19549,8 @@
       <tuv xml:lang="en-US">
         <seg>An illuminator is a small flashlight that mounts to a firearm, freeing up one of the user’s hands.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T095533Z" creationid="quentine" creationdate="20200117T095533Z">
-        <seg>挂载手电筒能挂载在火器上，解放一只手。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200117T095533Z">
+        <seg>挂载手电筒能挂载在枪械上，解放一只手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20011,8 +20165,8 @@
       <tuv xml:lang="en-US">
         <seg>Archaic Weapons Proficiency, Attentive, Cautious, Combat Expertise, Educated, Gearhead, Personal Firearms Proficiency, Point Blank Shot, Renown, Studious.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190518T130625Z" creationid="quentine" creationdate="20190518T130625Z">
-        <seg>擅长古典武器、听着有心、谨慎、寓守于攻、良好教育、技术宅、擅长单兵火器、近程射击、闻名、好学。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190518T130625Z">
+        <seg>擅长古典武器、听着有心、谨慎、寓守于攻、良好教育、技术宅、擅长单兵枪械、近程射击、闻名、好学。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20027,8 +20181,8 @@
       <tuv xml:lang="en-US">
         <seg>Armor Proficiency (light), Armor Proficiency (medium), Cautious, Defensive Martial Arts, Dodge, Educated, Im-proved Initiative, Medical Expert, Personal Firearms Proficiency, Surface Vehicle Operation, Vehicle Expert.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190704T132345Z" creationid="quentine" creationdate="20190524T131035Z">
-        <seg>擅长护甲（轻型）、擅长护甲（中型）、谨慎、防御武术、闪避、良好教育、精通先攻、医药专家、擅长单兵火器、地面载具操作、载具专家。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190524T131035Z">
+        <seg>擅长护甲（轻型）、擅长护甲（中型）、谨慎、防御武术、闪避、良好教育、精通先攻、医药专家、擅长单兵枪械、地面载具操作、载具专家。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20371,8 +20525,8 @@
       <tuv xml:lang="en-US">
         <seg>At 10th level, a Gunslinger becomes so adept at using the firearm to which he or she has applied Weapon Focus and Greater Weapon Focus that the gunslinger’s attacks with that firearm can deal extra damage.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190413T140301Z" creationid="quentine" creationdate="20190413T140211Z">
-        <seg>10级时，枪手指定专攻专精的火器将造成额外的伤害。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190413T140211Z">
+        <seg>10级时，枪手指定专攻专精的枪械将造成额外的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20491,8 +20645,8 @@
       <tuv xml:lang="en-US">
         <seg>At 1st level, a Gunslinger gains the ability to make a ranged attack with a Medium-size or smaller firearm while in a threatened area without provoking an attack of opportunity.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190802T141127Z" creationid="quentine" creationdate="20190413T130712Z">
-        <seg>1级时，枪手在威胁区域内用普通大小以及更小的火器进行远程攻击时，不会引发借机攻击。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190413T130712Z">
+        <seg>1级时，枪手在威胁区域内用普通大小以及更小的枪械进行远程攻击时，不会引发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21123,8 +21277,8 @@
       <tuv xml:lang="en-US">
         <seg>At 7th level, if the Gunslinger uses a personal firearm to attack a target, the cover bonus to the target’s Defense for one-quarter, one-half, three-quarters, or nine-tenths cover is reduced by 2.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190413T135727Z" creationid="quentine" creationdate="20190413T135727Z">
-        <seg>7级时，枪手用单兵火器攻击一个处于1/4、1/2、3/4或9/10掩体目标时，目标的掩体加值-2。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190413T135727Z">
+        <seg>7级时，枪手用单兵枪械攻击一个处于1/4、1/2、3/4或9/10掩体目标时，目标的掩体加值-2。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21171,8 +21325,8 @@
       <tuv xml:lang="en-US">
         <seg>At 8th level, a Gunslinger receives a +1 competence bonus on attack rolls made with the firearm selected for the Weapon Focus ability at 2nd level.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190413T140240Z" creationid="quentine" creationdate="20190413T135949Z">
-        <seg>8级时，枪手使用2级时指定专攻的火器攻击时，攻击骰获得1点表现加值。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190413T135949Z">
+        <seg>8级时，枪手使用2级时指定专攻的枪械攻击时，攻击骰获得1点表现加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21401,6 +21555,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Attacking after a Charge: After moving, the character may make a single melee attack.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T124600Z" creationid="qt911" creationdate="20210105T124600Z">
+        <seg>冲锋后的攻击：移动后角色可以进行一次近战攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Attacking this way uses both shotgun shells.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200419T151537Z" creationid="quentine" creationdate="20200419T151537Z">
@@ -21413,6 +21575,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190802T145106Z" creationid="quentine" creationdate="20190802T141756Z">
         <seg>这种绊摔攻击即使是徒手发动的，也不会引发借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Attacking with Two Weapons: If the character wields a second weapon in his or her off hand, the character can get one extra attack per round with that weapon.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T131855Z" creationid="qt911" creationdate="20210105T131747Z">
+        <seg>双武器攻击：如果角色在副手装备了武器，每一轮角色都可以用该武器进行额外的攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21705,10 +21875,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Because of the weapon’s unwieldy shape and size, an attacker using a longarm takes a –4 penalty on attacks against adjacent opponents.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201229T235432Z" creationid="qt911" creationdate="20201229T235432Z">
+        <seg>由于长杆枪过于笨重，角色用长杆枪攻击与自己相邻的对手要承受4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Because of this special construction, a sword cane is always considered to be concealed; it is noticed only with a Spot check (DC 18).</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200519T140505Z" creationid="quentine" creationdate="20200519T140505Z">
         <seg>因其特殊构造，手杖剑总是视为已隐藏，只能被侦察检定（DC18）注意到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Because of this, the only movement a character can take during a full attack is a 5-foot step.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T130022Z" creationid="qt911" creationdate="20210105T130022Z">
+        <seg>因此角色在全力攻击时只能用五尺快步来移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21939,8 +22125,8 @@
       <tuv xml:lang="en-US">
         <seg>Builder, Cautious, Combat Expertise, Educated, Gearhead, Personal Firearms Proficiency, Point Blank Shot, Studious.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190522T141404Z" creationid="quentine" creationdate="20190522T141404Z">
-        <seg>构造师、谨慎、寓守于攻、良好教育、技术宅、擅长单兵火器、近程射击、好学。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190522T141404Z">
+        <seg>构造师、谨慎、寓守于攻、良好教育、技术宅、擅长单兵枪械、近程射击、好学。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22189,6 +22375,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Charging is a special full-round action that allows a character to move more than his or her speed and attack during the action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T123436Z" creationid="qt911" creationdate="20210105T123436Z">
+        <seg>冲锋时一种特殊的整轮动作，角色可以在这个动作中以超过常速的速度移动并攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Charging requires one Balance check at a –5 penalty for each multiple of the character’s speed (or fraction thereof) that the character charges.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190807T123937Z" creationid="quentine" creationdate="20190807T123937Z">
@@ -22351,8 +22545,8 @@
       <tuv xml:lang="en-US">
         <seg>Clothes also help to hide firearms, body armor, and small objects.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191111T140127Z" creationid="quentine" creationdate="20191111T140127Z">
-        <seg>衣物同样可以隐藏火器、躯干护甲以及细小物件。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20191111T140127Z">
+        <seg>衣物同样可以隐藏枪械、躯干护甲以及细小物件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22433,6 +22627,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T010701Z" creationid="quentine" creationdate="20201114T010701Z">
         <seg>那些没觉察到敌人的作战者在突袭轮中不能做动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Committing to a Full Attack Action: A character doesn’t have to commit to a full attack until after the first attack.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T131147Z" creationid="qt911" creationdate="20210105T131015Z">
+        <seg>决定要全力攻击：角色不需要一开始就决定全力攻击，</seg>
       </tuv>
     </tu>
     <tu>
@@ -23196,8 +23398,8 @@
       <tuv xml:lang="en-US">
         <seg>Discharging a fire extinguisher is a move action and instantly smothers flames in a 10-foot-by-10-foot area.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200420T141552Z" creationid="quentine" creationdate="20200420T141552Z">
-        <seg>开启灭火器是一个移动动作，可持续熄灭10尺×10尺范围的火焰。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200420T141552Z">
+        <seg>开启灭枪械是一个移动动作，可持续熄灭10尺×10尺范围的火焰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23338,6 +23540,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Double Weapons: A character can use a double weapon to make an extra attack as if he or she were fighting with two weapons.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T132759Z" creationid="qt911" creationdate="20210105T132759Z">
+        <seg>双头武器：角色可以用一个双头武器做额外的攻击，等效于双武器战斗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Drawing a concealed weapon is more difficult than drawing a regularly holstered weapon, and normally requires an attack action.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191104T140413Z" creationid="quentine" creationdate="20191104T135456Z">
@@ -23406,6 +23616,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T130321Z" creationid="quentine" creationdate="20201119T130321Z">
         <seg>在一个战斗轮中，角色可以执行一个攻击动作和一个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>During the surprise round (or any other time a character is limited to taking no more than a single attack action on his or her turn) the character can still use the charge action, but he or she is only allowed to move up to his or her speed (instead of up to twice his or her speed).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T124519Z" creationid="qt911" creationdate="20210105T124519Z">
+        <seg>在突袭轮中（或其他限做一个攻击动作的回合），角色仍可以冲锋，但最多只能移动一倍速的距离，而非两倍速。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23858,6 +24076,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Even if the character has extra attacks, such as from having a high enough base attack bonus or from using multiple weapons, a character only gets to make one attack after a charge.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T124900Z" creationid="qt911" creationdate="20210105T124900Z">
+        <seg>即使角色有额外的攻击次数，比如基础攻击加值高到可以多次攻击或者使用多把武器，角色还是只能在冲锋后攻击一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Even if the character succeeds, he or she typically faces secondary damage 1 minute later.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T141210Z" creationid="quentine" creationdate="20190115T141210Z">
@@ -24258,10 +24484,34 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Fighting Defensively: A character can choose to fight defensively when taking a full attack action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T131628Z" creationid="qt911" creationdate="20210105T131628Z">
+        <seg>防御式战斗：角色在全力攻击时，也可选择防御式战斗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Fighting Defensively: A character can choose to fight defensively while making a melee attack.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T134606Z" creationid="qt911" creationdate="20201224T134606Z">
         <seg>防御式战斗：角色在近战时也可采取防御式战斗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fighting Defensively: A character can choose to fight defensively while making a ranged attack.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201229T235455Z" creationid="qt911" creationdate="20201229T235455Z">
+        <seg>防御式战斗：角色在远程攻击时也可采取防御式战斗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Fighting in this way is very difficult, how-ever—the character takes a –6 penalty on the regular attack or attacks with his or her primary hand and a –10 penalty on the attack with his or her off hand.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T132129Z" creationid="qt911" creationdate="20210105T132129Z">
+        <seg>但这么战斗是非常困难的——角色用主手进行的一次或多次常规攻击都将承受6点减值，副手进行的攻击将承受10点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24332,8 +24582,8 @@
       <tuv xml:lang="en-US">
         <seg>Firearms, which operate through many different forms of internal mechanisms, have varying rates of fire.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T123302Z" creationid="quentine" creationdate="20200410T122758Z">
-        <seg>一些火器的机制允许多种射击模式。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200410T122758Z">
+        <seg>一些枪械的机制允许多种射击模式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24698,6 +24948,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>For weapons that fire projectiles, it is ten range increments.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201229T233223Z" creationid="qt911" creationdate="20201229T233223Z">
+        <seg>而射弹的远程武器，其最大射程为10射程跨度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>For weapons that use box magazines, a character can purchase extras.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T084946Z" creationid="quentine" creationdate="20200117T084946Z">
@@ -24758,6 +25016,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190526T085537Z" creationid="quentine" creationdate="20190526T085414Z">
         <seg>从现在开始，调查员可以（如果手上有）用通常会造成致命伤害的武器施加非致命伤害，伤害骰不再有4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Full attack is a full-round action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T125901Z" creationid="qt911" creationdate="20210105T125901Z">
+        <seg>全力攻击是一个整轮动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24964,8 +25230,8 @@
       <tuv xml:lang="en-US">
         <seg>Handguns and longarms are personal firearms.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T115128Z" creationid="quentine" creationdate="20200410T115128Z">
-        <seg>手枪与长杆枪属于单兵火器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200410T115128Z">
+        <seg>手枪与长杆枪属于单兵枪械。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25220,8 +25486,8 @@
       <tuv xml:lang="en-US">
         <seg>Holsters are generally available for all Medium-size or smaller firearms.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T094420Z" creationid="quentine" creationdate="20200117T094420Z">
-        <seg>装具通常用于装载普通或小型尺寸的火器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200117T094420Z">
+        <seg>装具通常用于装载普通或小型尺寸的枪械。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25244,8 +25510,8 @@
       <tuv xml:lang="en-US">
         <seg>How the firearm is reloaded depends upon its magazine type.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T131408Z" creationid="quentine" creationdate="20200410T125728Z">
-        <seg>火器如何装填取决于弹仓类型。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200410T125728Z">
+        <seg>枪械如何装填取决于弹仓类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25442,6 +25708,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>However, there are tight restrictions on how and when a character can charge.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T123520Z" creationid="qt911" creationdate="20210105T123520Z">
+        <seg>但执行这个动作的时机和条件都很苛刻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>However, this only applies to the target struck, not to other objects within the burst radius.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200420T132920Z" creationid="quentine" creationdate="20200420T132920Z">
@@ -25514,6 +25788,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If a character gets more than one attack per action because his or her base attack bonus is high enough, because he or she fights with two weapons, because he or she is using a double weapon, or for some special reason, the character must use the full attack action to get his or her additional attacks.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T125429Z" creationid="qt911" creationdate="20210105T125429Z">
+        <seg>如果角色的基础攻击加值足够高、或是使用双武器以及双头武器、或是特殊原因，可以让每个动作攻击多次，角色必须使用全力攻击来执行额外的攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character gets multiple attacks based on his or her base attack bonus, the character must make the attacks in order from highest bonus to lowest.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T130725Z" creationid="qt911" creationdate="20210105T130353Z">
+        <seg>如果角色因其基础攻击加值进行了多次攻击，角色必须按加值从高到低的顺序进行这些攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If a character has a base attack bonus of +1 or higher, the character can draw a weapon as a free action when moving.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190803T141505Z" creationid="quentine" creationdate="20190803T141505Z">
@@ -25534,6 +25824,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T135705Z" creationid="quentine" creationdate="20190114T135705Z">
         <seg>用了行动点发动角色专长就不能再用行动点增强投骰了，反之亦然。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character takes this kind of move action during his or her turn, the character cannot also take a 5-foot step.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T122705Z" creationid="qt911" creationdate="20210105T121714Z">
+        <seg>如果角色在回合内进行了这样的移动，则不可进行五尺快步。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25564,8 +25862,8 @@
       <tuv xml:lang="en-US">
         <seg>If a character’s Dexterity is high, he or she is particularly adept at dodging blows or gunfire.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T115447Z" creationid="quentine" creationdate="20201118T115447Z">
-        <seg>高敏捷意味着角色能熟练地闪避击打和火器射击。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20201118T115447Z">
+        <seg>高敏捷意味着角色能熟练地闪避击打和枪械射击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25782,6 +26080,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191031T133157Z" creationid="quentine" creationdate="20191031T131920Z">
         <seg>如果选择后者，其擒抱检定将受到20点减值，但自己不会视为处于被擒抱状态；擒抱者此时防御不会失去敏捷调整值，仍然有威胁范围，并可使用其他的部位攻击其他对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If it doesn’t involve moving any distance, a character can combine it with a 5-foot step.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T123328Z" creationid="qt911" creationdate="20210105T123256Z">
+        <seg>如果这个动作不会造成任何位移，角色可附带进行一次五尺快步。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26346,6 +26652,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If the character does so, he or she takes a –4 penalty on all attacks in a round to gain a +2 dodge bonus to Defense in the same round.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T131721Z" creationid="qt911" creationdate="20210105T131721Z">
+        <seg>如果角色这么做，将在一轮中的所有攻击骰都承受4点减值，以换取在相同轮的防御中获得2点闪避加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If the character does so, he or she takes a –4 penalty on his or her attack in a round to gain a +2 dodge bonus to Defense in the same round.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T134819Z" creationid="qt911" creationdate="20201224T134819Z">
@@ -26634,6 +26948,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If the character has a base attack bonus of +1 or higher, he or she can draw a weapon as part of his or her normal movement.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T122522Z" creationid="qt911" creationdate="20210105T122522Z">
+        <seg>如果角色的基础攻击加值大于等于1，角色可以在常规移动的同时拔出武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If the character has access to a crime lab, the character uses the Investigate skill to collect and prepare samples for the lab.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191020T021021Z" creationid="quentine" creationdate="20191020T021021Z">
@@ -26722,6 +27044,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If the character is using a double wea-pon, the character can strike with either part of the weapon first.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T130545Z" creationid="qt911" creationdate="20210105T130545Z">
+        <seg>如果角色使用双头武器，首先使用哪一头先攻击都可以。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character is using two weapons, the character can strike with either weapon first.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T130510Z" creationid="qt911" creationdate="20210105T130510Z">
+        <seg>如果角色使用双武器，首先使用哪一把先攻击都可以。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If the character just wants to look at records, no additional check is needed.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190916T144742Z" creationid="quentine" creationdate="20190916T144742Z">
@@ -26742,6 +27080,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T113011Z" creationid="quentine" creationdate="20190115T113011Z">
         <seg>如果角色仍旧昏迷，角色每小时都会进行强韧豁免直到恢复意识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character starts a full-round action at the end of his or her turn, the next action that character takes must be to complete the full-round action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T121233Z" creationid="qt911" creationdate="20210105T121131Z">
+        <seg>如果角色在其回合末尾开始了一个整轮动作，角色的下一次行动必须为完成这个整轮动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26956,8 +27302,8 @@
       <tuv xml:lang="en-US">
         <seg>If the character’s Dexterity is high, the character is particularly adept at dodging blows or gunfire.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T114954Z" creationid="quentine" creationdate="20190114T114709Z">
-        <seg>高敏捷意味着角色能熟练地闪避击打和火器射击。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190114T114709Z">
+        <seg>高敏捷意味着角色能熟练地闪避击打和枪械射击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27306,6 +27652,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If the off-hand weapon is light, the penalties are reduced by 2 each.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T132317Z" creationid="qt911" creationdate="20210105T132317Z">
+        <seg>如果副手武器是轻武器，两只手的攻击减值都要少2点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If the opponent is upwind, the range increases to 60 feet; if downwind, it drops to 15 feet.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191031T144138Z" creationid="quentine" creationdate="20191031T144138Z">
@@ -27590,6 +27944,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190526T120110Z" creationid="quentine" creationdate="20190526T120110Z">
         <seg>如果豁免失败，目标将如下述规则产生情绪效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the target is so big that part of it is 10 feet or farther from the nearest ally, the character can avoid the –4 penalty, even if it’s engaged in melee with an ally.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201229T235121Z" creationid="qt911" creationdate="20201229T235121Z">
+        <seg>如果目标过于庞大，目标的一些部位与最近的盟友的距离大于等于10尺，角色可射击此处于近战的敌人且不用承受4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28354,6 +28716,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>In most cases, moving or manipulating an object is a move action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T122045Z" creationid="qt911" creationdate="20210105T122045Z">
+        <seg>大多数情况下，移动或操作一个物品是一个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>In most cases, only one person is needed to drive the vehicle; other crew members serve as gunners or copilots.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200614T062948Z" creationid="quentine" creationdate="20200614T062948Z">
@@ -28438,6 +28808,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190806T135919Z" creationid="quentine" creationdate="20190806T135919Z">
         <seg>有些情况下，对角色能力的考验与运气无关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In some cases, ability checks might be required.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T121515Z" creationid="qt911" creationdate="20210105T121515Z">
+        <seg>有些情况下需要属性检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28596,8 +28974,8 @@
       <tuv xml:lang="en-US">
         <seg>In this case, the character can only use one end of the chain effectively; he or she can’t use it as a double weapon.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200519T142500Z" creationid="quentine" creationdate="20200519T142500Z">
-        <seg>这种情况下，角色只能有效地使用其中一端；不能将其作为双武器使用。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000413Z" creationid="quentine" creationdate="20200519T142500Z">
+        <seg>这种情况下，角色只能有效地使用其中一端；不能将其作为双持武器使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28694,6 +29072,22 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200115T013404Z" creationid="quentine" creationdate="20200115T013404Z">
         <seg>安装需要做一次修理检定（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Instead of attacking the target, a character can attempt to push the target back.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T125005Z" creationid="qt911" creationdate="20210105T125005Z">
+        <seg>除了可以攻击，角色也可以尝试将目标撞退。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Instead of attacking, a character can use his or her attack action simply to defend.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T115932Z" creationid="qt911" creationdate="20210105T115829Z">
+        <seg>角色可以不攻击，而用攻击动作来做纯粹的防御行为，</seg>
       </tuv>
     </tu>
     <tu>
@@ -29570,6 +29964,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>It provokes an attack of opportunity from opponents who threaten the character.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T123030Z" creationid="qt911" creationdate="20210105T123030Z">
+        <seg>这会引发威胁自己的对手的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>It remains in widespread service among European police, military, and government agencies.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200419T015626Z" creationid="quentine" creationdate="20200419T015626Z">
@@ -30124,8 +30526,8 @@
       <tuv xml:lang="en-US">
         <seg>Longarms are personal firearms that require two hands to be fired without penalty.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200419T015759Z" creationid="quentine" creationdate="20200419T015759Z">
-        <seg>长杆枪是一类必须双手操持才能不受惩罚地使用的单兵火器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200419T015759Z">
+        <seg>长杆枪是一类必须双手操持才能不受惩罚地使用的单兵枪械。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30318,6 +30720,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T012947Z" creationid="quentine" creationdate="20201114T012947Z">
         <seg>许多调整值也会作用于攻击骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Many nonstandard modes of movement are also covered under this category, including climbing and swimming (up to one-quarter the character’s speed), crawling (up to 5 feet), and entering a vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T121958Z" creationid="qt911" creationdate="20210105T121958Z">
+        <seg>大多数非标准移动方式都属于此范畴，包括攀爬和游泳（四分之一速度内）、匍匐（5尺速度内）以及进入载具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30662,6 +31072,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T140216Z" creationid="quentine" creationdate="20191027T140216Z">
         <seg>在捕猎和觅食时以半速移动（不需要食物和水补给）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Movement during a Charge: The character must move before his or her attack, not after.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T123550Z" creationid="qt911" creationdate="20210105T123550Z">
+        <seg>冲锋时的移动：角色必须在攻击前移动，而非之后。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31022,6 +31440,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191202T132805Z" creationid="quentine" creationdate="20191202T132712Z">
         <seg>当然，要在目标手机使用时才能截获该手机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Of course, if the character has already taken a 5-foot step, he or she can’t use his or her move action to move any distance, but the character could still draw or put away a weapon, for instance (see Move Actions, above).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T131533Z" creationid="qt911" creationdate="20210105T131533Z">
+        <seg>当然如果角色已经做了五尺快步，则不可以用移动动作移动了，但角色仍可以拔出或收起武器等不位移的动作（见上文`移动动作`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32278,8 +32704,8 @@
       <tuv xml:lang="en-US">
         <seg>Ranged weapons that are not firearms include such diverse objects as crossbows, tasers, and pepper spray.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200420T134414Z" creationid="quentine" creationdate="20200420T134414Z">
-        <seg>非火器远程武器包括各种弓弩、电击枪、辣椒喷雾器。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200420T134414Z">
+        <seg>非枪械远程武器包括各种弓弩、电击枪、辣椒喷雾器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32430,24 +32856,24 @@
       <tuv xml:lang="en-US">
         <seg>Reloading a firearm with an already filled box magazine or speed loader is a move action.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T134805Z" creationid="quentine" creationdate="20200410T134559Z">
-        <seg>将一个已装弹的弹匣或快速装填器装填至火器里，是一个移动动作。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200410T134559Z">
+        <seg>将一个已装弹的弹匣或快速装填器装填至枪械里，是一个移动动作。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Reloading a revolver without a speed loader, or reloading any firearm with an internal magazine, is a full-round action.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T131955Z" creationid="quentine" creationdate="20190803T142252Z">
-        <seg>不用快速装填器装填转轮枪，或将弹药装填至火器的内置弹匣里，是一个整轮动作。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190803T142252Z">
+        <seg>不用快速装填器装填转轮枪，或将弹药装填至枪械的内置弹匣里，是一个整轮动作。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="en-US">
         <seg>Reloading a revolver without a speed loader, or reloading any firearm with an internal magazine, is a move action.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T131955Z" creationid="quentine" creationdate="20190803T142118Z">
-        <seg>不用快速装填器装填转轮枪，或将弹药装填至火器的内置弹匣里，是一个移动动作。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190803T142118Z">
+        <seg>不用快速装填器装填转轮枪，或将弹药装填至枪械的内置弹匣里，是一个移动动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32692,6 +33118,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>See Bull Rush.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T125019Z" creationid="qt911" creationdate="20210105T125019Z">
+        <seg>详见`冲撞`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>See Chapter Ten: FX Abilities for more about tattoos.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190624T142132Z" creationid="quentine" creationdate="20190624T142132Z">
@@ -32910,8 +33344,8 @@
       <tuv xml:lang="en-US">
         <seg>Shadow immunity doesn’t reduce the damage dealt by firearms, melee weapons, or hazardous effects.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190611T134443Z" creationid="quentine" creationdate="20190611T134443Z">
-        <seg>暗影免疫不能减免火器、近战武器以及危险的效果。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190611T134443Z">
+        <seg>暗影免疫不能减免枪械、近战武器以及危险的效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32984,6 +33418,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190804T132405Z" creationid="quentine" creationdate="20190804T132405Z">
         <seg>舰是大型的、由多船员操控的舰艇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Shooting or Throwing into a Melee: If a character shoots or throws a ranged weapon at a target that is engaged in melee with an ally, the character takes a –4 penalty on his or her attack roll be-cause the character has to aim carefully to avoid hitting the ally.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201229T234414Z" creationid="qt911" creationdate="20201229T234227Z">
+        <seg>射击或投掷攻击近战中的对手：如果角色用远程武器射击或投掷攻击一个正在与盟友处于近战的敌人时，角色的攻击骰会承受4点减值，因为角色要小心地瞄准以免误伤友方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33692,6 +34134,22 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Standing up from a prone position requires a move action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T122803Z" creationid="qt911" creationdate="20210105T122803Z">
+        <seg>从俯卧姿态站起需要一个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Start/complete full-round action cannot be used with a full attack, charge, run, or withdraw action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T121319Z" creationid="qt911" creationdate="20210105T121319Z">
+        <seg>开始/完成整轮动作不能用于全力攻击、冲锋、奔跑或撤退。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Starting at 2nd level, a Battle Mind can create create tattoos on his body or someone else’s that can be used to invoke psionic powers.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190621T133248Z" creationid="quentine" creationdate="20190621T133248Z">
@@ -34128,6 +34586,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T123850Z" creationid="quentine" creationdate="20190114T123850Z">
         <seg>表：体型调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Table: Two-Weapon Fighting Penalties summarizes the interaction of all these factors.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T132617Z" creationid="qt911" creationdate="20210105T132617Z">
+        <seg>`表：双武器战斗减值`列举了所有因素的综合结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35702,8 +36168,8 @@
       <tuv xml:lang="en-US">
         <seg>The Gunslinger must choose a specific personal firearm.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190413T131444Z" creationid="quentine" creationdate="20190413T131444Z">
-        <seg>枪手必须选定一种单兵火器，</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190413T131444Z">
+        <seg>枪手必须选定一种单兵枪械，</seg>
       </tuv>
     </tu>
     <tu>
@@ -36556,6 +37022,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The Two-Weapon Fighting feat lessens the primary hand penalty by 2, and the off-hand penalty by 6.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T132534Z" creationid="qt911" creationdate="20210105T132534Z">
+        <seg>`双持`专长使主手攻击减值减少2点，使副手攻击减值减少6点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The UH-60 is three squares wide and twelve squares long.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T133927Z" creationid="quentine" creationdate="20201030T133927Z">
@@ -37076,6 +37550,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The character also takes a –2 penalty to his or her Defense for 1 round (until the beginning of the character’s turn in the following round).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T124714Z" creationid="qt911" creationdate="20210105T124714Z">
+        <seg>角色在本轮的防御也将收到2点减值（直到下一轮角色回合的开头）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The character can also use the skill to tell when someone is behaving oddly or to assess someone’s trustworthiness.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T131118Z" creationid="quentine" creationdate="20191027T131118Z">
@@ -37182,6 +37664,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The character can see how the earlier attacks turn out before assigning the later ones.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T125820Z" creationid="qt911" creationdate="20210105T125614Z">
+        <seg>而是可以在攻击一次得出结果后再决定下一击的目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The character can select a new opponent on any action.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190731T123402Z" creationid="quentine" creationdate="20190731T123402Z">
@@ -37234,6 +37724,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190927T133940Z" creationid="quentine" creationdate="20190927T133940Z">
         <seg>角色可以教会动物只听自己的命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character can then decide whether to make his or her remaining attacks or to take a move action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T131315Z" creationid="qt911" creationdate="20210105T131315Z">
+        <seg>可以在第一次攻击之后再决定是要完成余下的攻击，还是做一个移动动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37366,6 +37864,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The character does not need to specify the targets of his or her attacks ahead of time.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T125845Z" creationid="qt911" creationdate="20210105T125547Z">
+        <seg>角色并不是一次性决定一个目标并全力攻击，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The character does not provoke an attack of opportunity when using a whip in this way.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200420T144044Z" creationid="quentine" creationdate="20200420T144044Z">
@@ -37386,6 +37892,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190924T132407Z" creationid="quentine" creationdate="20190924T132407Z">
         <seg>角色不能挑选自己理想的交涉结果，只能检定并对照第二张表得出结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character doesn’t get to attack or perform any other activity, but does get a +4 dodge bonus to his or her Defense for 1 round.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T120112Z" creationid="qt911" creationdate="20210105T120112Z">
+        <seg>角色不会攻击或做其他动作，以在本轮的防御中获得4点闪避加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37434,6 +37948,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190731T121521Z" creationid="quentine" creationdate="20190731T121521Z">
         <seg>角色在这两个技能检定上获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character gets a +2 bonus on the attack roll.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T124627Z" creationid="qt911" creationdate="20210105T124627Z">
+        <seg>角色的攻击骰获得2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37576,6 +38098,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The character may take the step before, after, or between the attacks.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T130106Z" creationid="qt911" creationdate="20210105T130049Z">
+        <seg>角色可以在攻击之前、之后、中途五尺快步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The character may use Heroic Surge a number of times per day depending on his or her character level (as shown below), but never more than once per round.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190802T133158Z" creationid="quentine" creationdate="20190802T133158Z">
@@ -37648,10 +38178,26 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The character must move at least 10 feet and may move up to twice his or her speed.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T123901Z" creationid="qt911" creationdate="20210105T123901Z">
+        <seg>角色必须至少移动10尺且可以两倍速移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The character must point out a specific object, or else the animal fetches some random object.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190929T122714Z" creationid="quentine" creationdate="20190929T122714Z">
         <seg>角色应该指向特定的物品，否则动物会随机拿些物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character must stop as soon as he or she is within striking range of his or her target (the character can’t run past the target and attack from another direction).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T124101Z" creationid="qt911" creationdate="20210105T124101Z">
+        <seg>目标一旦进入角色的打击范围内，角色必须停下（角色不能越过目标并从另一个方向攻击）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37772,6 +38318,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T085754Z" creationid="quentine" creationdate="20190923T133310Z">
         <seg>角色安装起爆器的DC等于拆除的DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The character’s Defense improves at the start of this action, so it helps against any attacks of opportunity the character is subject to while performing his or her move action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T120553Z" creationid="qt911" creationdate="20210105T120553Z">
+        <seg>角色在该动作开始时就获得防御加成，所以角色此时移动将不会引发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38770,8 +39324,8 @@
       <tuv xml:lang="en-US">
         <seg>The gunslinger adds +1 to all attack rolls you make using the selected personal firearm.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190413T131523Z" creationid="quentine" creationdate="20190413T131523Z">
-        <seg>用选定的单兵火器掷攻击骰都可以获得1点加值。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190413T131523Z">
+        <seg>用选定的单兵枪械掷攻击骰都可以获得1点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39072,6 +39626,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The maximum range for a thrown weapon is five range increments.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201229T233130Z" creationid="qt911" creationdate="20201229T233121Z">
+        <seg>投掷武器的最大射程是5射程跨度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The maximum rank in a class skill is equal to character level + 3.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190805T131521Z" creationid="quentine" creationdate="20190805T131521Z">
@@ -39348,6 +39910,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191028T124021Z" creationid="quentine" creationdate="20191028T124021Z">
         <seg>病人必须全天在床上休息（一整天什么也不干）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The penalties apply as if the off-hand weapon were light.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T132854Z" creationid="qt911" creationdate="20210105T132854Z">
+        <seg>应用的减值等效于副手武器为轻武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39748,6 +40318,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190621T135227Z" creationid="quentine" creationdate="20190621T135227Z">
         <seg>释放护盾需要一个移动动作，护盾将持续等同于灵战士等级的轮数，也可由灵战士自行收回。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The simplest move action is moving the character’s speed.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T122654Z" creationid="qt911" creationdate="20210105T121546Z">
+        <seg>最简单的移动动作是以角色自己的速度移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40243,8 +40821,8 @@
       <tuv xml:lang="en-US">
         <seg>The typical fire extinguisher ejects enough extinguishing chemicals to put out a fire in a 10-foot-by-10-foot area as a move action.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200116T091933Z" creationid="quentine" creationdate="20200116T091933Z">
-        <seg>标准的灭火器在一个移动动作内会喷射出足以灭掉10尺×10尺区域火焰的阻燃剂。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200116T091933Z">
+        <seg>标准的灭枪械在一个移动动作内会喷射出足以灭掉10尺×10尺区域火焰的阻燃剂。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40315,8 +40893,8 @@
       <tuv xml:lang="en-US">
         <seg>The weapons covered in this section fall under the Exotic Firearms Proficiency feat.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200419T152814Z" creationid="quentine" creationdate="20200419T152814Z">
-        <seg>这一节所列的武器都需要对应武器的`擅长异种火器`专长。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200419T152814Z">
+        <seg>这一节所列的武器都需要对应武器的`擅长异种枪械`专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40349,6 +40927,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190611T143732Z" creationid="quentine" creationdate="20190611T143732Z">
         <seg>暗影之言将杀伤15尺内的暗影生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The “start/complete full-round action” attack action lets a character start undertaking a full-round action (such as those listed on Table: Actions in Combat) at the end of his or her turn, or complete a full-round action by using an attack action at the beginning of his or her turn in the round following the round when the character started the full-round action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T121148Z" creationid="qt911" creationdate="20210105T121104Z">
+        <seg>即角色可在回合的末尾用一个攻击动作来开始一个整轮动作（如`表：战斗中的动作`所列出的），或在开始后的下一个自己的回合完成这个整轮动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40571,8 +41157,8 @@
       <tuv xml:lang="en-US">
         <seg>These firearms feed and cock themselves with each shot.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T124250Z" creationid="quentine" creationdate="20200410T124250Z">
-        <seg>这些火器每次射击都会自行制退、复进。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200410T124250Z">
+        <seg>这些枪械每次射击都会自行制退、复进。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41802,6 +42388,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>This includes drawing or holstering a weapon, retrieving or putting away a stored object, picking up an object, moving a heavy object, and opening a door.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T122346Z" creationid="qt911" creationdate="20210105T122346Z">
+        <seg>这包括拔出或收起武器、取出或装回储存的物品、捡起物品、移动重物以及开门。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>This income provides a Wealth bonus increase of +4.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190526T112224Z" creationid="quentine" creationdate="20190526T112008Z">
@@ -41968,6 +42562,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190226T142805Z" creationid="quentine" creationdate="20190226T142805Z">
         <seg>这可替换增强实战武术的伤害骰，但无法用于拳法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This is called a total defense action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T115942Z" creationid="qt911" creationdate="20210105T115915Z">
+        <seg>即`全防御`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42310,8 +42912,8 @@
       <tuv xml:lang="en-US">
         <seg>This portable apparatus uses a chemical spray to extinguish small fires.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200116T091717Z" creationid="quentine" creationdate="20200116T091717Z">
-        <seg>这种便携式灭火器使用化学喷雾扑灭小型火源。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200116T091717Z">
+        <seg>这种便携式灭枪械使用化学喷雾扑灭小型火源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42518,8 +43120,8 @@
       <tuv xml:lang="en-US">
         <seg>This small laser mounts on a firearm, and projects a tiny red dot on the weapon’s target.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T095721Z" creationid="quentine" creationdate="20200117T095721Z">
-        <seg>这种小型瞄具挂载在火器上，射出微小的红点，照在目标上。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200117T095721Z">
+        <seg>这种小型瞄具挂载在枪械上，射出微小的红点，照在目标上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43398,6 +44000,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Two characters are engaged in melee if they are enemies and they are adjacent to one another.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201229T234514Z" creationid="qt911" creationdate="20201229T234514Z">
+        <seg>处于近战意即两个角色互为敌对且相邻。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Two circumstances can work against the character: The bluff is hard to believe, or the action that the bluff requires the target to take goes against the target’s self-interest, nature, personality, or orders.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190808T130636Z" creationid="quentine" creationdate="20190808T130636Z">
@@ -43488,8 +44098,8 @@
       <tuv xml:lang="en-US">
         <seg>Unarmed strikes count as light melee weapons (for purposes of two-weapon attack penalties and so on).</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T135259Z" creationid="qt911" creationdate="20201224T135259Z">
-        <seg>徒手击打算作用轻近战武器攻击（为了应用双武器惩罚等效果）。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000413Z" creationid="qt911" creationdate="20201224T135259Z">
+        <seg>徒手击打算作用轻近战武器攻击（为了应用双持武器惩罚等效果）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45046,6 +45656,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>With a ranged weapon, a character can shoot or throw at any target that is within the ranged weapon’s maximum range and in line of sight.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201229T232755Z" creationid="qt911" creationdate="20201229T232755Z">
+        <seg>角色使用远程武器可以对目标发射或投掷，目标必须在武器最大射程内，且在视线内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>With a ranged weapon, a character’s attack bonus is:</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T014115Z" creationid="quentine" creationdate="20201114T014115Z">
@@ -45146,6 +45764,14 @@
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200519T134121Z" creationid="quentine" creationdate="20200519T134040Z">
         <seg>安装了刺刀的长杆枪将变成`双头武器`——一头是类木棒武器一头是类矛武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>With the exception of specific movement-related skills, most move actions don’t require a check.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T121443Z" creationid="qt911" creationdate="20210105T121443Z">
+        <seg>除了一些特别的移动相关的技能，大多数移动动作不需要检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45956,7 +46582,7 @@
 |Pistol|Tiny|1 lb.|12|Mil (+3)|
 |Rifle|Small|4 lb.|14|Mil (+3)|</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T105957Z" creationid="quentine" creationdate="20191106T140313Z">
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20191106T140313Z">
         <seg>容量|大型|15 磅|12|—|
 ||||||
 |公文包|普通|2 磅|7|—|
@@ -46090,7 +46716,7 @@
 |化学荧光棒（5）|超小型|1磅|2|—|
 |攀爬装备|大型|10 磅|11|—|
 |指南针|微型|0.5 磅|5|—|
-|灭火器|普通|3 磅|8|—|
+|灭枪械|普通|3 磅|8|—|
 |防闪光护目镜|超小型|2 磅|15|—|
 ||||||
 |手电筒|||||
@@ -46708,6 +47334,24 @@
 |现场被轻度破坏|+2|
 |现场被中度破坏|+4|
 |现场被重度破坏|+6|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>|Circumstances|Primary Hand|Off Hand|
+|-------------|:----------:|:------:|
+|Normal penalties|–6|–10|
+|Off-hand weapon is light|–4|–8|
+|Two-Weapon Fighting feat|–4|–4|
+|Off-hand weapon is light and Two-Weapon Fighting feat|–2|–2|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T133106Z" creationid="qt911" creationdate="20210105T133106Z">
+        <seg>|情景|主手|副手|
+|-------------|:----------:|:------:|
+|常规减值|–6|–10|
+|副手为轻武器|–4|–8|
+|双持专长|–4|–4|
+|副手为轻武器且有双持专长|–2|–2|</seg>
       </tuv>
     </tu>
     <tu>
@@ -48087,7 +48731,7 @@
 |Use a skill that takes a full round|Usually|
 |Reload a firearm with an internal magazine|Yes|</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T122522Z" creationid="quentine" creationdate="20201119T122522Z">
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20201119T122522Z">
         <seg>|整轮动作|是否会遭到借机攻击\*|
 |------------------|----------------------:|
 |冲撞（冲锋）|否|
@@ -48099,7 +48743,7 @@
 |撤退|否|
 |扑灭火焰|否|
 |使用一个需要整轮动作的技能|通常会|
-|装填内置式弹仓的火器|是|</seg>
+|装填内置式弹仓的枪械|是|</seg>
       </tuv>
     </tu>
     <tu>
@@ -48655,12 +49299,12 @@
 |Gargantuan|Desk, dumpster, file cabinet, large sofa, soda machine|2d6|
 |Colossal|Junked vehicle, stoplight, telephone pole|2d8|</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200520T151354Z" creationid="quentine" creationdate="20200520T150223Z">
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200520T150223Z">
         <seg>|物品尺寸|例子|伤害|
 |-----------|--------|------|
 |微型|烟灰缸、CD碟盒、水晶镇纸|1|
 |超小型|拳头大小的石头、马克杯、起子、垒球、手电筒、扳手|1d2|
-|小型|瓶子、电钻、灭火器、花盆、头盔、金属轮毂盖、花瓶|1d3|
+|小型|瓶子、电钻、灭枪械、花盆、头盔、金属轮毂盖、花瓶|1d3|
 |普通|酒吧高脚凳、砖头、公文包、保龄球、垃圾桶盖、曲棍球棍、射钉枪|1d4|
 |大型|空垃圾桶、吉他、电脑显示器、办公椅、撬胎棒|1d6|
 |超大型|10尺长梯、邮箱、油桶、公园长椅、锯木梁|1d8|
@@ -49796,10 +50440,10 @@
 |Taser (Simple)|1d4\*\*|—|Electricity|5 ft|1|1 int.|Small|2 lb|7|—|
 |Whip (Simple)|1d2|20|Slashing|15 ft\*\*\*|1|—|Small|2 lb|4|—|</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200525T131335Z" creationid="quentine" creationdate="20200417T133755Z">
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200417T133755Z">
         <seg>|武器|伤害|重击|伤害类型|射程跨度|射击模式|弹仓|尺寸|重量|购买DC|限制级|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|**手枪（要求`擅长单兵火器`专长）**|||||||||||
+|**手枪（要求`擅长单兵枪械`专长）**|||||||||||
 |伯莱塔92F （9毫米半自动）|2d6|20|实弹|40尺|半|15发弹匣|小型|3磅|16|执照（+1）|
 |伯莱塔93R（9毫米冲锋）|2d6|20|实弹|30尺|半、全|20发弹匣|普通|3磅|18|管制（+2）|
 |柯尔特双鹰（10毫米半自动）|2d6|20|实弹|30尺|半|9发弹匣|小型|3磅|16|执照（+1）|
@@ -49818,7 +50462,7 @@
 |TEC-9冲锋枪 （9毫米冲锋）|2d6|20|实弹|40尺|半或全|32发弹匣|普通|4磅|14|管制（+2）|
 |瓦尔特PPK（.32半自动）|2d4|20|实弹|30尺|半|7发弹匣|小型|1磅|15|执照（+1）|
 ||||||||||||
-|**长杆枪（要求`擅长单兵火器`专长）**|||||||||||
+|**长杆枪（要求`擅长单兵枪械`专长）**|||||||||||
 |AKM/AK-47 (7.62mmR突击步枪)|2d8|20|实弹|70尺|半、全|30发弹匣|大型|10磅|15|管制（+2）|
 |巴雷特“轻50”M82A1（.50狙击步枪）|2d12|20|实弹|120尺|半|11发弹匣|超大型|35磅|22|执照（+1）|
 |贝纳利 121 M1（12号霰弹）|2d8|20|实弹|40尺|半|7发内置|大型|8磅|17|执照（+1）|
@@ -49838,7 +50482,7 @@
 |乌兹（9mm冲锋枪）|2d6|20|实弹|40尺|半、全|20发弹匣|大型|8磅|18|管制（+2）|
 |温彻斯特94（.444猎枪）|2d10|20|实弹|90尺|半|6发内置|大型|7磅|15|执照（+1）|
 ||||||||||||
-|**重武器（每种武器都要求有该武器对应的`擅长异种火器`专长）**|||||||||||
+|**重武器（每种武器都要求有该武器对应的`擅长异种枪械`专长）**|||||||||||
 |M2HB（重机枪）|2d12|20|实弹|110尺|全|弹链|超大型|75磅|22|军用（+3）|
 |M72A3 LAW（火箭筒）|10d6\*\*|—|—|150尺|单发|1发内置|大型|5磅|15|军用（+3）|
 |M79（榴弹发射器）|各种\*\*|—|—|70尺|单发|1发内置|大型|7磅|14|军用（+3）|
@@ -49864,10 +50508,10 @@
 |M2A2 Bradley 25mm cannon|4d12|20|Ballistic|350 ft.|A|Linked|Huge|\*|\*|\*|
 \* Weight, purchase DC, and restriction rating do not apply.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T135239Z" creationid="quentine" creationdate="20201030T134049Z">
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20201030T134049Z">
         <seg>|武器|伤害|重击|伤害类型|射程跨度|射击模式|弹仓|尺寸|重量|购买 DC|限制级|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|加农炮（需要`擅长异种火器 \[加农炮\]` 专长)|||||||||||
+|加农炮（需要`擅长异种枪械 \[加农炮\]` 专长)|||||||||||
 |BMP-2 30mm 加农炮|4d12|20|实弹|300尺|全|弹链|超大型|\*|\*|\*|
 |M1A2 艾布拉姆斯坦克加农炮|10d12|20|实弹|400尺|手动|1|超大型|\*|\*|\*|
 |M2A2 布雷德利 25mm 加农炮|4d12|20|实弹|350尺|全|弹链|超大型|\*|\*|\*|

@@ -28,6 +28,8 @@
 * Markdown不支持上下标，所以注释的标记由数字改为\\\*，如有多个注释则用多个\\\*。
 
 * **打开项目时OmegaT会提示你检测到3.6版本的项目，提示是否要转换，一定要点`取消`！否则会删掉你的git配置换成别的配置，导致你无法提交。也就是说不要用OmegaT自带的提交功能，而是要手动提交git！**
+* **项目文件的换行符都是Linux的LF格式的，而非Windows的CRLF。在Windows中安装Git时要选择默认的那个“自动转换CRLF到LF”选项，如果设置错了，还可以用记事本打开`Git安装目录\etc\gitconfig`，在\[core\]一栏加上`autocrlf = true`。（若用 WSL 下的 Git 则autocrlf设为auto，若为Linux系统则什么都不用改）**
+
 * 当遇到排版问题时可以修改source文件，但不要手动修改target文件，目标文件必须Ctrl+D翻译生成。一定要生成翻译后再提交。
 * 文件名格式为`序号原文件名译名.md`，而索引列表为`原名 译名`。文件名需要在source文件里修改名称，修改名称后源文件会与目标文件对应不上，所以要先改文件名再排版再翻译。
 * 索引的排列顺序，章的顺序按照 [出品时间](https://en.wikipedia.org/wiki/D20_Modern#Rulebooks) 先后排序，节的顺序按照原文的索引排序，如 [这里](http://www.wizards.com/default.asp?x=d20/article/msrd) 给出的。

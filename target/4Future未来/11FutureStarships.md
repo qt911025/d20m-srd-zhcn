@@ -357,7 +357,7 @@ A starship can help an ally attack or defend by distracting or interfering with 
 FEINT
 See the expanded Bluff skill description for details.
 TOTAL DEFENSE
-Instead of attacking, a ship can use its attack action to defend itself by performing complex evasive maneuvers. This is called a total defense action. A ship that uses the total defense action doesn’t get to attack, but it gains a +4 dodge bonus to its Defense for 1 round. The ship’s Defense improves at the start of this action, so it helps against any attacks of opportunity the ship is subject to during its move action.
+Instead of attacking, a ship can use its attack action to defend itself by performing complex evasive maneuvers. 即`全防御`。A ship that uses the total defense action doesn’t get to attack, but it gains a +4 dodge bonus to its Defense for 1 round. The ship’s Defense improves at the start of this action, so it helps against any attacks of opportunity the ship is subject to during its move action.
 Fighting Defensively: Instead of diverting all of its attention to defending itself, a starship can choose to fight defensively while taking a regular attack action. If it does so, it takes a –4 penalty on its attacks in a round to gain a +2 dodge bonus to Defense during the same round.
 
 MOVE ACTIONS
