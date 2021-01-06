@@ -1364,3 +1364,4 @@ nonlethal	非致命
 fang	尖牙
 engaged in melee	处于近战
 Standing Up	站起
+unencumbered	无负担的

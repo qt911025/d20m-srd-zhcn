@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Attacks of Opportunity</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T130332Z" creationid="qt911" creationdate="20210106T130332Z">
+        <seg>## 借机攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## BATTLE MIND</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190620T141806Z" creationid="quentine" creationdate="20190620T141806Z">
@@ -1334,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Miscellaneous Actions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T124735Z" creationid="qt911" creationdate="20210106T124735Z">
+        <seg>## 其他动作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Modifier Types and Stacking</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T140612Z" creationid="quentine" creationdate="20190806T140612Z">
@@ -2082,6 +2098,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T122613Z" creationid="quentine" creationdate="20190806T122613Z">
         <seg>## 未受训技能检定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Use Feat, Skill, or Talent</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T125508Z" creationid="qt911" creationdate="20210106T125508Z">
+        <seg>## 使用专长、技能或天赋</seg>
       </tuv>
     </tu>
     <tu>
@@ -3694,6 +3718,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Making an Attack of Opportunity</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T133400Z" creationid="qt911" creationdate="20210106T133400Z">
+        <seg>### 进行借机攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Manipulating Objects</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T122020Z" creationid="qt911" creationdate="20210105T122020Z">
@@ -4018,6 +4050,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T123918Z" creationid="quentine" creationdate="20191202T123918Z">
         <seg>### 打印机</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Provoking an Attack of Opportunity</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T131832Z" creationid="qt911" creationdate="20210106T131832Z">
+        <seg>### 引发借机攻击</seg>
       </tuv>
     </tu>
     <tu>
@@ -4568,6 +4608,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Threatened Squares</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T131305Z" creationid="qt911" creationdate="20210106T131305Z">
+        <seg>### 威胁范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Tool Belt</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191115T125445Z" creationid="quentine" creationdate="20191115T125445Z">
@@ -4728,6 +4776,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Weapon Type</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T130923Z" creationid="qt911" creationdate="20210106T130923Z">
+        <seg>### 武器种类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Whirlwind Attack</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T145656Z" creationid="quentine" creationdate="20190804T145656Z">
@@ -4748,6 +4804,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T150920Z" creationid="quentine" creationdate="20190804T150920Z">
         <seg>### 横财</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Withdraw</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T124049Z" creationid="qt911" creationdate="20210106T124049Z">
+        <seg>### 撤退</seg>
       </tuv>
     </tu>
     <tu>
@@ -7236,6 +7300,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T120204Z" creationid="quentine" creationdate="20191104T120204Z">
         <seg>（GM决定此章未体积的物品的购买DC，以相同价位物品作参考。）财富检定过程与购买此物品相同，但角色检定有10点减值，且不可取10取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(The character does not get a 5-foot step.) The character loses any Dexterity bonus to Defense since he or she can’t avoid attacks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T122523Z" creationid="qt911" creationdate="20210106T122357Z">
+        <seg>（角色不能做五尺快步。）角色此时无法躲闪攻击，所以防御时会失去所有敏捷加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(The character doesn’t also get a 5-foot step.) The square the character starts from is not considered threatened for purposes of withdrawing, and therefore enemies do not get attacks of opportunity against the character when he or she move from that square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T124435Z" creationid="qt911" creationdate="20210106T124435Z">
+        <seg>（角色不能做五尺快步。）角色试图撤退时，起点的方格不算威胁范围，敌人不能借机攻击正在撤退且处于起点方格的角色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15243,6 +15323,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can only make attacks of opportunity with melee weapons, never with ranged weapons.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T131809Z" creationid="qt911" creationdate="20210106T131809Z">
+        <seg>角色只能用近战武器进行借机攻击，没有远程的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can only spend 1 action point in a round.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T135516Z" creationid="quentine" creationdate="20190114T135516Z">
@@ -15271,6 +15359,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190925T115953Z" creationid="quentine" creationdate="20190925T115953Z">
         <seg>角色可以装配设备，让简单设备正常工作一段时间，在一段时间后停转（通常在使用后1d4轮）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can run all out as a full-round action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T122252Z" creationid="qt911" creationdate="20210106T122252Z">
+        <seg>角色可以以一个整轮动作全力奔跑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can run for a number of rounds equal to his or her Constitution score, but after that the character must succeed at a Constitution check (DC 10) to continue running.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T122801Z" creationid="qt911" creationdate="20210106T122801Z">
+        <seg>角色可以持续奔跑等同于其体质值的轮数，而之后角色必须通过体质检定（DC10）才能继续奔跑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15531,6 +15635,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can use a melee weapon to make attacks of opportunity whenever the conditions for such an attack are met (see Provoking an Attack of Opportunity, below).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T131105Z" creationid="qt911" creationdate="20210106T131105Z">
+        <seg>角色可以在符合下列任意情况（见下文`引发借机攻击`）时使用近战武器进行借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can use the Search skill to find individual footprints, but cannot follow tracks using Search.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T141600Z" creationid="quentine" creationdate="20190804T141600Z">
@@ -15683,6 +15795,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character does not have to make an attack of opportunity if he or she doesn’t want to.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T133511Z" creationid="qt911" creationdate="20210106T133511Z">
+        <seg>角色如果不想借机攻击，可以不做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character doesn’t provoke an attack of opportunity if all he or she moves is a 5-foot step, or if the character withdraws.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T132357Z" creationid="qt911" creationdate="20210106T132357Z">
+        <seg>角色的移动是一个五尺快步，或者角色在撤退。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character either knows how to read and write a specific language or doesn’t.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T051032Z" creationid="quentine" creationdate="20191027T051032Z">
@@ -15755,6 +15883,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character makes his or her attack of opportunity, however, at his or her normal attack bonus—even if the character has already attacked in this round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T134139Z" creationid="qt911" creationdate="20210106T134139Z">
+        <seg>即使角色在本轮已经攻击过了，仍可以以平常的攻击加值进行借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character may add a +2 bonus to his or her Intimidate check for every size category the character is larger than his or her target.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191016T141438Z" creationid="quentine" creationdate="20191016T141438Z">
@@ -15807,6 +15943,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T133717Z" creationid="quentine" creationdate="20191025T133717Z">
         <seg>角色要再进行第二次寻路检定（DC20）以找到正确的道路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character may not withdraw using a form of movement for which that character must make a skill check.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T124729Z" creationid="qt911" creationdate="20210106T124715Z">
+        <seg>角色不能用需要进行技能检定的移动方式进行撤退。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15907,6 +16051,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character threatens the squares into which he or she can make a melee attack, even when it is not the character’s action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T131549Z" creationid="qt911" creationdate="20210106T131549Z">
+        <seg>角色会威胁到所有可以近战攻击到的方格，即使此时未轮到角色行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character undergoing complete bed rest (doing nothing for an entire day) recovers 2 hit points per character level.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T113450Z" creationid="quentine" creationdate="20190115T113450Z">
@@ -15943,6 +16095,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T122707Z" creationid="quentine" creationdate="20190115T122707Z">
         <seg>角色战斗时还未行动就是措手不及，不能正常对形势作出反应。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character who has run to his or her limit must rest for 1 minute (10 rounds) before running again.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T123152Z" creationid="qt911" creationdate="20210106T123152Z">
+        <seg>角色若奔跑至极限，必须休息1分钟（10轮）才能再度奔跑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17531,6 +17691,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A player doesn’t have to declare anything special for his or her character to be on the defensive.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T130543Z" creationid="qt911" creationdate="20210106T130543Z">
+        <seg>玩家不需要特意声明角色去防御。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A player rolls one die of the given type each time his or her character gains a new level.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T114419Z" creationid="quentine" creationdate="20190116T114419Z">
@@ -17663,6 +17831,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201119T112629Z" creationid="quentine" creationdate="20201119T112629Z">
         <seg>每个参与战斗的角色行动一回合便是一轮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A run represents a speed of about 14 miles per hour for an unencumbered human.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T124044Z" creationid="qt911" creationdate="20210106T124044Z">
+        <seg>游戏中的奔跑等价于现实中人类以每小时22.53公里每小时的速度无负重奔跑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19493,6 +19669,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An attack of opportunity is a single melee attack, and a character can only make one per round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T133435Z" creationid="qt911" creationdate="20210106T133435Z">
+        <seg>借机攻击是单次近战攻击，角色只能每轮做一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An attack roll represents a character’s attempts to strike an opponent on the character’s turn in a round.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201114T012231Z" creationid="quentine" creationdate="20201114T012047Z">
@@ -19557,6 +19741,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An enemy that takes certain actions while in a threatened square provokes an attack of opportunity from the character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T131727Z" creationid="qt911" creationdate="20210106T131727Z">
+        <seg>敌人在威胁范围采取特定动作将引发角色的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An entangled character takes a –2 penalty on attack rolls in addition to a –4 penalty to Dexterity.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T122116Z" creationid="quentine" creationdate="20190115T122116Z">
@@ -19585,6 +19777,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200520T141338Z" creationid="quentine" creationdate="20200115T072800Z">
         <seg>格外笨重的剪线钳，断线钳能直接剪断挂锁或铁丝网栅栏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An experienced character gets additional regular melee attacks (by using the full attack action), but at a lower attack bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T133926Z" creationid="qt911" creationdate="20210106T133926Z">
+        <seg>高级角色可以进行多次一般的近战攻击（要用到全力攻击），但攻击加值上有惩罚。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22369,6 +22569,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Certain feats, let a character take special actions in combat.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T125606Z" creationid="qt911" creationdate="20210106T125606Z">
+        <seg>特定的专长，将由角色在战斗中执行特殊动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Challenge Rating: A heroic supporting character has a Challenge Rating equal to his or her character level.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T123823Z" creationid="quentine" creationdate="20190703T123738Z">
@@ -23686,6 +23894,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>During a rest period, a character can move normally, but can’t run.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T123215Z" creationid="qt911" creationdate="20210106T123215Z">
+        <seg>休息期间，角色可以以常速移动，但不能奔跑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>During the surprise round (or any other time a character is limited to taking no more than a single attack action on his or her turn) the character can still use the charge action, but he or she is only allowed to move up to his or her speed (instead of up to twice his or her speed).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T124519Z" creationid="qt911" creationdate="20210105T124519Z">
@@ -24758,6 +24974,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For actions not covered in any of this material, the GM determines how long such an action takes to perform and whether doing so provokes attacks of opportunity from threatening enemies.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T125455Z" creationid="qt911" creationdate="20210106T125455Z">
+        <seg>本文未提到过的其他动作，由GM来决定这些动作的花费和是否会引发借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For all familiar special abilities based on the master’s level count only Mage levels.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190623T123551Z" creationid="quentine" creationdate="20190623T123551Z">
@@ -25194,6 +25418,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T133126Z" creationid="quentine" creationdate="20191104T132544Z">
         <seg>一般来说，申调需要24小时才能到货，但如果是特别普遍的物品，或者英雄检定成功5点及以上，则可在1d4后可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generally, that’s all squares adjacent to the character’s position.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T131630Z" creationid="qt911" creationdate="20210106T131630Z">
+        <seg>通常来说，就是与角色位置相邻的所有方格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25730,6 +25962,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201119T124612Z" creationid="quentine" creationdate="20201118T110531Z">
         <seg>但该规则不适用于双手使用一把轻武器；这种情形下，伤害骰只能应用一倍力量加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, the character gets a +2 bonus to Defense against ranged attacks while running.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T122607Z" creationid="qt911" creationdate="20210106T122607Z">
+        <seg>但角色奔跑时，对远程攻击的防御会获得2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26746,6 +26986,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T130603Z" creationid="quentine" creationdate="20190806T130603Z">
         <seg>如果角色没有合适的工具，还是可以使用这个技能，但检定时要受4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character doesn’t start in a threatened square, but moves into one, the character has to stop there, or else he or she provokes an attack of opportunity as he or she leaves that square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T132604Z" creationid="qt911" creationdate="20210106T132604Z">
+        <seg>如果角色从一个非威胁方格移动，但移动到了威胁方格，角色必须在此停止，否则将在移出此方格时引发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28222,6 +28470,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If while withdrawing, the character moves through another threatened square (other than the one started in) without stopping, enemies get attacks of opportunity as normal.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T124546Z" creationid="qt911" creationdate="20210106T124546Z">
+        <seg>角色如果在撤退时经过另一个威胁方格（起点以外的威胁方格）而没有停止移动，敌人可以照常借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you already have a high enough score in the ability, you don’t need to make this check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190612T135429Z" creationid="quentine" creationdate="20190612T135429Z">
@@ -28546,6 +28802,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200508T130050Z" creationid="quentine" creationdate="20200508T125739Z">
         <seg>另外，白磷弹是会生成烟雾的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition, a character can make attacks of opportunity with unarmed attacks if the character’s unarmed attacks count as armed (see “Armed” Unarmed Attacks).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T131259Z" creationid="qt911" creationdate="20210106T131259Z">
+        <seg>此外，如果角色的徒手攻击算作非徒手，角色也可以徒手进行借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29010,6 +29274,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T134940Z" creationid="quentine" creationdate="20191104T134847Z">
         <seg>这种情况下，DC不加（这类物品的定价已经比低质量的类似物品高了）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In this case, combatants near him or her can take advantage of this lapse in defense to attack for free.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T130857Z" creationid="qt911" creationdate="20210106T130857Z">
+        <seg>这时，临近的作战者会利用这个破绽，用即时动作攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31136,6 +31408,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most uses of skills or talents in a combat situation are attack actions, but some might be move actions or full-round actions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T130132Z" creationid="qt911" creationdate="20210106T130132Z">
+        <seg>战斗中大多数技能或天赋的使用是攻击动作，有些可能是移动动作或整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Motorcycles tend to perform better than automobiles, but they provide no cover to their occupants.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201029T120736Z" creationid="quentine" creationdate="20201029T120618Z">
@@ -31188,6 +31468,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T123016Z" creationid="quentine" creationdate="20190804T123016Z">
         <seg>以这种方式移动不会引发防御者的借机攻击（但如常引发其他对手的借机攻击）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moving out of a Threatened Square: When a character moves out of a threatened square, that character generally provokes an attack of opportunity.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T132204Z" creationid="qt911" creationdate="20210106T132204Z">
+        <seg>移动出威胁的方格：当角色移动出一个正在被威胁的方格，角色通常会引发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32148,6 +32436,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other feats are not actions in themselves, but they give a character a bonus when attempting something he or she can already do.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T125719Z" creationid="qt911" creationdate="20210106T125719Z">
+        <seg>其他专长本身不是动作，但可以给角色能做的动作提供加成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other operations can be carried out according to the Computer Use skill description.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T145129Z" creationid="quentine" creationdate="20190916T145129Z">
@@ -32272,6 +32568,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200420T142713Z" creationid="quentine" creationdate="20200420T142713Z">
         <seg>辣椒喷雾器的射程只有一个射程跨度，即5尺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Performing an Action that Distracts the Character: Some actions, when performed in a threatened square, provoke attacks of opportunity because they make a character divert his or her attention from the fight at hand.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T133112Z" creationid="qt911" creationdate="20210106T132835Z">
+        <seg>做让角色分心的动作：在威胁方格内做一些动作会引发借机攻击，因为这些动作会分散角色的注意力，使其无法专注于眼下的战斗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33762,6 +34066,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some actions don’t fit neatly into the above categories.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T124759Z" creationid="qt911" creationdate="20210106T124759Z">
+        <seg>一些动作无法归类到以上范畴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some are autoloader pistols modified to fire a burst of bullets in a single pull of the trigger, while others are modified submachine guns, cut down in size and weight to allow one-handed use.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200418T020000Z" creationid="quentine" creationdate="20200418T020000Z">
@@ -33818,10 +34130,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some feats aren’t meant to be used within the framework of combat.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T125757Z" creationid="qt911" creationdate="20210106T125757Z">
+        <seg>一些专长并不属于战斗机制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some feats have prerequisites that must be met before a character can select them.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T121126Z" creationid="quentine" creationdate="20190116T121126Z">
         <seg>有的专长有先决条件，必须要满足后玩家才能进行选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some forms of movement (such as climbing and swimming) require skill checks from most creatures.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T124719Z" creationid="qt911" creationdate="20210106T124643Z">
+        <seg>对于大多数生物而言，一些移动方式（比如攀爬和游泳）需要技能鉴定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33878,6 +34206,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191115T130247Z" creationid="quentine" creationdate="20191115T130231Z">
         <seg>本节的一些物品的使用除了初始的购买花销外还有月度花销。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Some of the options described below are actions that take the place of or are variations on the actions described earlier.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T125334Z" creationid="qt911" creationdate="20210106T125141Z">
+        <seg>以下介绍的一些动作是上述动作的替代选项或变式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34070,6 +34406,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191111T135504Z" creationid="quentine" creationdate="20191111T135504Z">
         <seg>但有时候角色想要与众不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes, however, a combatant in a melee lets his or her guard down, and doesn’t maintain a defensive posture as usual.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T130720Z" creationid="qt911" creationdate="20210106T130720Z">
+        <seg>然而有时候，近战的角色会露出破绽，无法像往常一样维持防御姿态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34518,6 +34862,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T143317Z" creationid="quentine" creationdate="20190115T143317Z">
         <seg>表：酸性伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table: Actions in Combat notes many additional actions that provoke attacks of opportunity.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T133350Z" creationid="qt911" creationdate="20210106T133350Z">
+        <seg>`表：战斗中的动作`标明了许多会引发借机攻击的其他动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38238,6 +38590,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The character must check again each round in which he or she continues to run, and the DC of this check increases by 1 for each check the character makes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T122936Z" creationid="qt911" creationdate="20210106T122936Z">
+        <seg>角色只要还在继续奔跑，就必须每轮都检定一次，检定DC每轮增加1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The character must have a clear view of the night sky to make this check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T134912Z" creationid="quentine" creationdate="20191025T134912Z">
@@ -39582,6 +39942,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The individual feat descriptions tell a character what he or she needs to know about them.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T130033Z" creationid="qt911" creationdate="20210106T125937Z">
+        <seg>专长的特别说明会告知角色掌握此专长需要哪些前提。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The information on the table represents a 1-pound block.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200507T131628Z" creationid="quentine" creationdate="20200507T131505Z">
@@ -39754,6 +40122,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T125745Z" creationid="quentine" creationdate="20190116T115148Z">
         <seg>本职技能级数最高能升到角色等级+3。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The melee combat rules assume that combatants are actively avoiding attacks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T130551Z" creationid="qt911" creationdate="20210106T130426Z">
+        <seg>近战规则通常默认作战者会自行避免攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41079,6 +41455,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are two important exceptions, however.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T132250Z" creationid="qt911" creationdate="20210106T132250Z">
+        <seg>但有两个重要的例外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There is no penalty for operating a general-purpose fixed-wing aircraft.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T043715Z" creationid="quentine" creationdate="20191027T043715Z">
@@ -41187,6 +41571,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190613T125636Z" creationid="quentine" creationdate="20190613T125636Z">
         <seg>这就是术士所拥有的所有法术卷轴了，直到3级才能获得新的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These attacks are called attacks of opportunity.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T130916Z" creationid="qt911" creationdate="20210106T130916Z">
+        <seg>这种攻击被称为`借机攻击`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44100,6 +44492,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Two actions can provoke attacks of opportunity: moving out of a threatened square, and performing an action within a threatened square that distracts from defending and lets the character’s guard down.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T132851Z" creationid="qt911" creationdate="20210106T132115Z">
+        <seg>两种动作会引发借机攻击：移动出威胁的方格，以及做会让角色疏于防御的动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Two characters are engaged in melee if they are enemies and they are adjacent to one another.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20201229T234514Z" creationid="qt911" creationdate="20201229T234514Z">
@@ -44532,6 +44932,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Using a ranged weapon, in particular, provokes attacks of opportunity.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T133142Z" creationid="qt911" creationdate="20210106T133142Z">
+        <seg>尤其是使用远程武器，会引发借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Using a skill might take a round, several rounds, or even longer.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T125557Z" creationid="quentine" creationdate="20190806T125557Z">
@@ -44836,6 +45244,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a character runs, he or she can move up to four times his or her speed in a straight line.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T122342Z" creationid="qt911" creationdate="20210106T122342Z">
+        <seg>角色奔跑时，可以移动4倍于速度的直线距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a character spends 1 action point to improve a d20 roll, add 1d6 to the d20 roll to help meet or exceed the target number.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T134121Z" creationid="quentine" creationdate="20190114T134054Z">
@@ -44880,6 +45296,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T091442Z" creationid="quentine" creationdate="20190216T091442Z">
         <seg>单职角色升级时都可以选择在原来的职业还是一个新职业上升1级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a character withdraws, he or she can move up to twice his or her speed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T124133Z" creationid="qt911" creationdate="20210106T124133Z">
+        <seg>角色撤退时，可以以两倍速移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45016,6 +45440,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T140821Z" creationid="QuenTine" creationdate="20181103T140821Z">
         <seg>当属性值发生变化时，该属性相关的调整值随即发生变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When appropriate, the description of a talent or a skill provides the time required to use it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T130322Z" creationid="qt911" creationdate="20210106T130322Z">
+        <seg>如果有特别情况，天赋或技能的描述会指明耗费的时间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45304,6 +45736,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T133532Z" creationid="quentine" creationdate="20190115T133532Z">
         <seg>当角色体质检定失败，角色将会开始窒息或溺水。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the character fails this check, he or she must stop running.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T123001Z" creationid="qt911" creationdate="20210106T123001Z">
+        <seg>若角色检定失败，则必须停止奔跑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45920,6 +46360,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190215T134644Z" creationid="quentine" creationdate="20190215T134644Z">
         <seg>拥有此天赋的英雄在为说谎、欺诈或者其他歪曲事实的行为作唬骗、交涉、赌博鉴定时，获得一个等于其魅力等级的加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Withdrawing from melee combat is a full-round action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210106T124111Z" creationid="qt911" creationdate="20210106T124111Z">
+        <seg>从近战中撤退是一个整轮动作。</seg>
       </tuv>
     </tu>
     <tu>
