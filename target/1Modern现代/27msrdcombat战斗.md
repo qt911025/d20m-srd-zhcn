@@ -438,150 +438,150 @@
 
 ### 奔跑
 
-A character can run all out as a full-round action. When a character runs, he or she can move up to four times his or her speed in a straight line. (The character does not get a 5-foot step.) The character loses any Dexterity bonus to Defense since he or she can’t avoid attacks. However, the character gets a +2 bonus to Defense against ranged attacks while running.
+角色可以以一个整轮动作全力奔跑。角色奔跑时，可以移动4倍于速度的直线距离。（角色不能做五尺快步。）角色此时无法躲闪攻击，所以防御时会失去所有敏捷加值。但角色奔跑时，对远程攻击的防御会获得2点加值。
 
-A character can run for a number of rounds equal to his or her Constitution score, but after that the character must succeed at a Constitution check (DC 10) to continue running. The character must check again each round in which he or she continues to run, and the DC of this check increases by 1 for each check the character makes. When the character fails this check, he or she must stop running. A character who has run to his or her limit must rest for 1 minute (10 rounds) before running again. During a rest period, a character can move normally, but can’t run.
+角色可以持续奔跑等同于其体质值的轮数，而之后角色必须通过体质检定（DC10）才能继续奔跑。角色只要还在继续奔跑，就必须每轮都检定一次，检定DC每轮增加1。若角色检定失败，则必须停止奔跑。角色若奔跑至极限，必须休息1分钟（10轮）才能再度奔跑。休息期间，角色可以以常速移动，但不能奔跑。
 
-A run represents a speed of about 14 miles per hour for an unencumbered human.
+游戏中的奔跑等价于现实中人类以每小时22.53公里每小时的速度无负重奔跑。
 
-### Withdraw
+### 撤退
 
-Withdrawing from melee combat is a full-round action. When a character withdraws, he or she can move up to twice his or her speed. (The character doesn’t also get a 5-foot step.) The square the character starts from is not considered threatened for purposes of withdrawing, and therefore enemies do not get attacks of opportunity against the character when he or she move from that square.
+从近战中撤退是一个整轮动作。角色撤退时，可以以两倍速移动。（角色不能做五尺快步。）角色试图撤退时，起点的方格不算威胁范围，敌人不能借机攻击正在撤退且处于起点方格的角色。
 
-If while withdrawing, the character moves through another threatened square (other than the one started in) without stopping, enemies get attacks of opportunity as normal.
+角色如果在撤退时经过另一个威胁方格（起点以外的威胁方格）而没有停止移动，敌人可以照常借机攻击。
 
-Some forms of movement (such as climbing and swimming) require skill checks from most creatures. A character may not withdraw using a form of movement for which that character must make a skill check.
+对于大多数生物而言，一些移动方式（比如攀爬和游泳）需要技能鉴定。角色不能用需要进行技能检定的移动方式进行撤退。
 
-## Miscellaneous Actions
+## 其他动作
 
-Some actions don’t fit neatly into the above categories. Some of the options described below are actions that take the place of or are variations on the actions described earlier. For actions not covered in any of this material, the GM determines how long such an action takes to perform and whether doing so provokes attacks of opportunity from threatening enemies.
+一些动作无法归类到以上范畴。以下介绍的一些动作是上述动作的替代选项或变式。本文未提到过的其他动作，由GM来决定这些动作的花费和是否会引发借机攻击。
 
-## Use Feat, Skill, or Talent
+## 使用专长、技能或天赋
 
-Certain feats, let a character take special actions in combat. Other feats are not actions in themselves, but they give a character a bonus when attempting something he or she can already do. Some feats aren’t meant to be used within the framework of combat. The individual feat descriptions tell a character what he or she needs to know about them.
+特定的专长，将由角色在战斗中执行特殊动作。其他专长本身不是动作，但可以给角色能做的动作提供加成。一些专长并不属于战斗机制。专长的特别说明会告知角色掌握此专长需要哪些前提。
 
-Most uses of skills or talents in a combat situation are attack actions, but some might be move actions or full-round actions. When appropriate, the description of a talent or a skill provides the time required to use it.
+战斗中大多数技能或天赋的使用是攻击动作，有些可能是移动动作或整轮动作。如果有特别情况，天赋或技能的描述会指明耗费的时间。
 
-## Attacks of Opportunity
+## 借机攻击
 
-The melee combat rules assume that combatants are actively avoiding attacks. A player doesn’t have to declare anything special for his or her character to be on the defensive. Sometimes, however, a combatant in a melee lets his or her guard down, and doesn’t maintain a defensive posture as usual. In this case, combatants near him or her can take advantage of this lapse in defense to attack for free. These attacks are called attacks of opportunity.
+近战规则通常默认作战者会自行避免攻击。玩家不需要特意声明角色去防御。然而有时候，近战的角色会露出破绽，无法像往常一样维持防御姿态。这时，临近的作战者会利用这个破绽，用即时动作攻击。这种攻击被称为`借机攻击`。
 
-### Weapon Type
+### 武器种类
 
-A character can use a melee weapon to make attacks of opportunity whenever the conditions for such an attack are met (see Provoking an Attack of Opportunity, below). In addition, a character can make attacks of opportunity with unarmed attacks if the character’s unarmed attacks count as armed (see “Armed” Unarmed Attacks).
+角色可以在符合下列任意情况（见下文`引发借机攻击`）时使用近战武器进行借机攻击。此外，如果角色的徒手攻击算作非徒手，角色也可以徒手进行借机攻击。
 
-### Threatened Squares
+### 威胁范围
 
-A character threatens the squares into which he or she can make a melee attack, even when it is not the character’s action. Generally, that’s all squares adjacent to the character’s position. An enemy that takes certain actions while in a threatened square provokes an attack of opportunity from the character. A character can only make attacks of opportunity with melee weapons, never with ranged weapons.
+角色会威胁到所有可以近战攻击到的方格，即使此时未轮到角色行动。通常来说，就是与角色位置相邻的所有方格。敌人在威胁范围采取特定动作将引发角色的借机攻击。角色只能用近战武器进行借机攻击，没有远程的借机攻击。
 
-### Provoking an Attack of Opportunity
+### 引发借机攻击
 
-Two actions can provoke attacks of opportunity: moving out of a threatened square, and performing an action within a threatened square that distracts from defending and lets the character’s guard down.
+两种动作会引发借机攻击：移动出威胁的方格，以及做会让角色疏于防御的动作。
 
-Moving out of a Threatened Square: When a character moves out of a threatened square, that character generally provokes an attack of opportunity. There are two important exceptions, however. A character doesn’t provoke an attack of opportunity if all he or she moves is a 5-foot step, or if the character withdraws.
+移动出威胁的方格：当角色移动出一个正在被威胁的方格，角色通常会引发借机攻击。但有两个重要的例外。角色的移动是一个五尺快步，或者角色在撤退。
 
-If the character doesn’t start in a threatened square, but moves into one, the character has to stop there, or else he or she provokes an attack of opportunity as he or she leaves that square.
+如果角色从一个非威胁方格移动，但移动到了威胁方格，角色必须在此停止，否则将在移出此方格时引发借机攻击。
 
-Performing an Action that Distracts the Character: Some actions, when performed in a threatened square, provoke attacks of opportunity because they make a character divert his or her attention from the fight at hand. Using a ranged weapon, in particular, provokes attacks of opportunity. Table: Actions in Combat notes many additional actions that provoke attacks of opportunity.
+做让角色分心的动作：在威胁方格内做一些动作会引发借机攻击，因为这些动作会分散角色的注意力，使其无法专注于眼下的战斗。尤其是使用远程武器，会引发借机攻击。`表：战斗中的动作`标明了许多会引发借机攻击的其他动作。
 
-### Making an Attack of Opportunity
+### 进行借机攻击
 
-An attack of opportunity is a single melee attack, and a character can only make one per round. A character does not have to make an attack of opportunity if he or she doesn’t want to.
+借机攻击是单次近战攻击，角色只能每轮做一次。角色如果不想借机攻击，可以不做。
 
-An experienced character gets additional regular melee attacks (by using the full attack action), but at a lower attack bonus. A character makes his or her attack of opportunity, however, at his or her normal attack bonus—even if the character has already attacked in this round.
+高级角色可以进行多次一般的近战攻击（要用到全力攻击），但攻击加值上有惩罚。即使角色在本轮已经攻击过了，仍可以以平常的攻击加值进行借机攻击。
 
-## Movement and Position
+## 移动与位置
 
-When using a grid to represent character’s movement, the standard scale equates 1 inch (or a 1 inch square) to 5 feet in the game world.
+当要用棋盘走子移动来代表角色的移动时，现实中一寸（见方）代表游戏中的5尺（见方）。
 
-### Standard Scale
+### 标准尺度
 
-One inch (or one square) = 5 feet
+一寸（见方） = 5尺（见方）
 
-“Next to” or “adjacent” = 1 inch (5 feet) away
+靠近（或相邻） = 一寸（游戏中5尺）远
 
-(or in adjacent square)
+（或位于相邻方格）
 
-30mm figure = A human-size creature
+30毫米尺寸模型 = 一个人类大小的生物
 
-A human-size creature occupies an area 1 inch (5 feet) across (or one square)
+一个人类大小的生物占据着一寸（游戏中5尺）宽（或者说一个方格）的位置。
 
-One round = 6 seconds
+一轮 = 6秒
 
-### Tactical Movement
+### 战术移动
 
-Where can a character move, how long it takes to get there, and whether he or she is vulnerable to attacks of opportunity while moving are key questions in combat.
+在战斗中，角色能移动的位置、移动所耗时间以及是否引发借机攻击都是至关重要的问题。
 
-### How Far Can a Character Move?
+### 角色能移动的距离
 
-Humans normally move 30 feet, although armor can slow a character down. Some creatures move faster or slower. A character’s speed when unarmored is sometimes called base speed.
+人类一般能移动30尺，但护甲会减慢角色的速度。有的生物会快于或慢于此速度。角色不穿甲时的速度一般叫做`基础速度`。
 
-Encumbrance: A character encumbered by carrying a large amount of gear or a fallen comrade may move slower than normal.
+累赘：角色因搬运重物或倒地同伴而承受的累赘会降低角色的移动速度。
 
-Movement in Combat: Generally, a character can move his or her speed as a move action. If a character uses his or her attack action as a move action, the character can move again (for a total movement of up to twice the character’s normal speed). If the character spends the entire round to run all out, he or she can move up to four times his or her normal speed. If a character does something that requires a full round, he or she can only take a 5-foot step.
+战斗中的移动：角色通常能在一个移动动作中移动一倍于速度的距离。若角色将攻击动作作为移动动作使用，角色可以再移动一次（总计移动了两倍于速度的距离）。若角色以一个整轮动作`全力奔跑`，则可以移动四倍于速度的距离。若角色做了一个非移动的整轮动作，则只能同时做一次五尺快步。
 
-Movement in Darkness: If a character moves when he or she can’t see, such as in total darkness, his or her speed is limited to one-half normal. The Blind-Fight feat reduces this penalty.
+黑暗中的移动：若角色在无法视物时移动，比如在完全黑暗的环境中，角色的速度将被限制在常速的一半以内。`盲斗`专长可减轻此惩罚。
 
-### Passing Through
+### 越过
 
-Sometimes a character can pass through an area occupied by another character or creature.
+有时角色可以越过被其他角色或生物占据的区域。
 
-Friendly Character: A character can move through a square occupied by a friendly character.
+友善角色：角色可越过友善角色占据的方格。
 
-Unfriendly Character: There are two ways to move through a square occupied by a resisting enemy. The character can attempt an overrun. Or the character can attempt to tumble through a square occupied by an enemy (if the character has ranks in the Tumble skill; see the skill description).
+不友善角色：有两种方法可以越过拦路敌人占据的方格。角色可以尝试`闯越`，或者尝试`翻滚`（如果角色有翻滚技能，见技能描述）来穿过敌人占据的方格。
 
-A character can move through a square occupied by an unfriendly character who doesn’t resist as if the character was friendly.
+若不友善角色并未阻拦角色，角色则可以像越过友善角色那样越过去。
 
-Square Occupied by Creature Three Sizes Larger or Smaller: Any creature can move through a square occupied by a creature three size categories larger or three categories smaller than it is.
+被体型大三级或小三级的生物占据的方格：任何生物都可以越过大于或小于自己三级及以上的生物。
 
-### Flanking
+### 夹击
 
-If a character is making a melee attack against an opponent, and an ally directly opposite the character is threatening the opponent, the character and his or her ally flank the opponent. The character gains a +2 bonus on his or her attack roll. The ally must be on the other side of the opponent so that the opponent is directly between the character and the ally.
+若角色正对一个目标发起近战攻击，同时对面有一个盟友正威胁着该目标，则角色与盟友`夹击`了该目标。角色的攻击骰将获得2点夹击加值。该盟友必须在目标的另一端，使目标正好位于盟友与角色连线上，才能夹击。
 
-A character doesn’t gain a bonus for flanking when making a ranged attack.
+角色进行远程攻击将不能获得夹击加值。
 
-## Combat Modifiers
-This section covers offensive and defensive modifiers provided by position.
+## 战斗调整值
+本节涵盖了若干由位置提供的进攻与防御调整值。
 
-### Favorable and Unfavorable Conditions
+### 有利和不利情况
 
-Generally speaking, any situational modifier created by the attacker’s position or tactics applies to the attack roll, while any situational modifier created by the defender’s position, state, or tactics applies to the defender’s Defense. The GM judges what bonuses and penalties apply, using Table: Defense Modifiers and Table: Attack Roll Modifiers as guides.
+通常来说，由进攻者的位置及采用的战术决定的调整值应用于进攻方的攻击骰，而由防御者的位置、状态或战术决定的调整值应用于防御方的防御值。GM参考`表：防御调整值`以及`表：攻击骰调整值`来决定应用哪些加值与减值。
 
-**Table: Defense Modifiers**
+**表：防御调整值**
 
-|Circumstance|Melee|Ranged|
+|情景|近战|远程|
 |------------|:---:|:----:|
-|Defender sitting or kneeling|–2|+2\*|
-|Defender prone|–4|+4\*|
-|Defender stunned or cowering|–2\*\*|–2\*\*|
-|Defender climbing|–2\*\*|–2\*\*|
-|Defender flat-footed|+0\*\*|+0\*\*|
-|Defender running|+0\*\*|+2\*\*|
-|Defender grappling (attacker not)|+0\*\*|+0\*\*\*|
-|Defender pinned|–4\*\*\*\*|+0\*\*\*\*|
-|Defender helpless (such as paralyzed, sleeping, or bound)|+0\*\*|+0\*\*|
-|Defender has cover|—–— See Cover —–—|
-|Defender concealed or invisible|— See Concealment —|
+|防御方坐着或跪着|–2|+2\*|
+|防御方俯卧|–4|+4\*|
+|防御方被震慑或畏缩|–2\*\*|–2\*\*|
+|防御方正在攀爬|–2\*\*|–2\*\*|
+|防御方措手不及|+0\*\*|+0\*\*|
+|防御方正在奔跑|+0\*\*|+2\*\*|
+|防御方正在擒抱（攻击者没有）|+0\*\*|+0\*\*\*|
+|防御方被压制|–4\*\*\*\*|+0\*\*\*\*|
+|防御方陷入无助（诸如麻痹、沉睡或束缚）|+0\*\*|+0\*\*|
+|防御方有掩蔽|—–— 见`掩蔽` —–—|
+|防御方隐蔽或隐形|— 见`隐蔽` —|
 
-\* Does not apply if target is adjacent to attacker. This circumstance may instead improve bonus to Defense granted by cover. See Cover, below.
+\* 若目标与进攻方相邻则无效这种情况下又会提高由掩蔽为防御提供的加值。具体见下文`掩蔽`。
 
-\*\* The defender loses any Dexterity bonus to Defense.
+\*\* 防御方的防御会失去所有敏捷加值。
 
-\*\*\* Roll randomly to see which grappling combatant the character strikes. That defender loses any Dexterity bonus to Defense.
+\*\*\* 掷骰来从擒抱的双方选出一个被进攻方击中的目标。选中的目标作为防御方，其防御或失去所有敏捷加值。
 
-\*\*\*\* Treat the defender’s Dexterity as 0 (–5 modifier).
+\*\*\*\* 将防御方的敏捷视为0（-5调整值）。
 
-**Table: Attack Roll Modifiers**
+**表：攻击骰调整值**
 
-|Circumstance|Melee|Ranged|
+|情景|近战|远程|
 |------------|:---:|:----:|
-|Attacker flanking defender\*|+2|—|
-|Attacker on higher ground|+1|+0|
-|Attacker prone|–4|–2\*\*|
-|Attacker invisible|+2\*\*\*|+2\*\*\*|
-\* A character flanks a defender when he or she has an ally on the opposite side of the defender threatening the defender.
-\*\* Some ranged weapons can’t be used while the attacker is prone.
-\*\*\* The defender loses any Dexterity bonus to Defense.
+|进攻方对防御方形成夹击\*|+2|—|
+|进攻方在高地|+1|+0|
+|进攻方俯卧|–4|–2\*\*|
+|进攻方隐形|+2\*\*\*|+2\*\*\*|
+\* 当角色有一个盟友位于角色面朝防御方方向的正对面，且盟友正在威胁防御方，视为角色`夹击`了防御方。
+\*\* 一些远程武器不能在进攻方俯卧时使用。
+\*\* 防御方的防御会失去所有敏捷加值。
 
 ### Cover
 

@@ -630,6 +630,16 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Combat Modifiers
+This section covers offensive and defensive modifiers provided by position.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T140238Z" creationid="qt911" creationdate="20210530T140141Z">
+        <seg>## 战斗调整值
+本节涵盖了若干由位置提供的进攻与防御调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Combat Statistics</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201114T011124Z" creationid="quentine" creationdate="20201114T011124Z">
@@ -1378,6 +1388,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T131453Z" creationid="quentine" creationdate="20191025T131453Z">
         <seg>## 潜行（敏） 护甲减值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Movement and Position</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T131430Z" creationid="qt911" creationdate="20210530T131430Z">
+        <seg>## 移动与位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -3150,6 +3168,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Favorable and Unfavorable Conditions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T140249Z" creationid="qt911" creationdate="20210530T140249Z">
+        <seg>### 有利和不利情况</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Feats</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T090652Z" creationid="quentine" creationdate="20190216T090652Z">
@@ -3170,6 +3196,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200115T094507Z" creationid="quentine" creationdate="20200115T094507Z">
         <seg>### 急救箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Flanking</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T135531Z" creationid="qt911" creationdate="20210530T135531Z">
+        <seg>### 夹击</seg>
       </tuv>
     </tu>
     <tu>
@@ -3410,6 +3444,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T115211Z" creationid="quentine" creationdate="20200117T115211Z">
         <seg>### 居所</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### How Far Can a Character Move?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T132732Z" creationid="qt911" creationdate="20210530T132732Z">
+        <seg>### 角色能移动的距离</seg>
       </tuv>
     </tu>
     <tu>
@@ -3958,6 +4000,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Passing Through</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T134426Z" creationid="qt911" creationdate="20210530T134426Z">
+        <seg>### 越过</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Patrol Box</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191111T134111Z" creationid="quentine" creationdate="20191111T134111Z">
@@ -4352,6 +4402,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Standard Scale</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T132356Z" creationid="qt911" creationdate="20210530T131832Z">
+        <seg>### 标准尺度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Standing Up</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T122731Z" creationid="qt911" creationdate="20210105T122731Z">
@@ -4532,6 +4590,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190117T142421Z" creationid="quentine" creationdate="20190117T142421Z">
         <seg>### 职业列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Tactical Movement</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T132406Z" creationid="qt911" creationdate="20210530T132406Z">
+        <seg>### 战术移动</seg>
       </tuv>
     </tu>
     <tu>
@@ -7485,6 +7551,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(or in adjacent square)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T132132Z" creationid="qt911" creationdate="20210530T132132Z">
+        <seg>（或位于相邻方格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* +1 for having 1 to 4 ranks in the Profession skill.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T125740Z" creationid="QuenTine" creationdate="20181106T135920Z">
@@ -8213,8 +8287,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>**Benefit:** If the character has a solid, relatively smooth surface on which to skip a bullet (such as a street or a concrete wall), and a target within 10 feet of that surface, the character may ignore cover between the character and the target.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190804T122300Z" creationid="quentine" creationdate="20190804T122158Z">
-        <seg>**效果：** 如果有一个可以反弹子弹的、固态的相对平滑的表面（比如街道或混凝土墙）供角色射击，而这个表面与目标距离在10尺内，角色可以无视角色与目标间的掩体射击目标。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T143912Z" creationid="quentine" creationdate="20190804T122158Z">
+        <seg>**效果：** 如果有一个可以反弹子弹的、固态的相对平滑的表面（比如街道或混凝土墙）供角色射击，而这个表面与目标距离在10尺内，角色可以无视角色与目标间的掩蔽射击目标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9534,8 +9608,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>**Cover (DC 15):** The character can react instantly to drop down and hang alongside his or her mount, using it as one-half cover.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191027T095333Z" creationid="quentine" creationdate="20191027T095127Z">
-        <seg>**掩蔽（DC15）：** 角色可以滑下横靠着悬吊在坐骑旁，用坐骑来为自己提供半掩体。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20191027T095127Z">
+        <seg>**掩蔽（DC15）：** 角色可以滑下横靠着悬吊在坐骑旁，用坐骑来为自己提供半掩蔽。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12893,6 +12967,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Table: Attack Roll Modifiers**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T142845Z" creationid="qt911" creationdate="20210530T142845Z">
+        <seg>**表：攻击骰调整值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Defense Modifiers**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T141010Z" creationid="qt911" creationdate="20210530T141010Z">
+        <seg>**表：防御调整值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Table: Difficulty Class Examples**</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T135122Z" creationid="quentine" creationdate="20190805T135122Z">
@@ -14025,6 +14115,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201114T011002Z" creationid="quentine" creationdate="20201114T011002Z">
         <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>30mm figure = A human-size creature</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T132221Z" creationid="qt911" creationdate="20210530T132221Z">
+        <seg>30毫米尺寸模型 = 一个人类大小的生物</seg>
       </tuv>
     </tu>
     <tu>
@@ -15315,6 +15413,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can move through a square occupied by an unfriendly character who doesn’t resist as if the character was friendly.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T135258Z" creationid="qt911" creationdate="20210530T135258Z">
+        <seg>若不友善角色并未阻拦角色，角色则可以像越过友善角色那样越过去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can move up to half his or her normal speed at no penalty.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T131835Z" creationid="quentine" creationdate="20191025T131835Z">
@@ -15799,6 +15905,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210106T133511Z" creationid="qt911" creationdate="20210106T133511Z">
         <seg>角色如果不想借机攻击，可以不做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character doesn’t gain a bonus for flanking when making a ranged attack.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T140129Z" creationid="qt911" creationdate="20210530T140129Z">
+        <seg>角色进行远程攻击将不能获得夹击加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16707,6 +16821,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character’s speed when unarmored is sometimes called base speed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T133036Z" creationid="qt911" creationdate="20210530T133036Z">
+        <seg>角色不穿甲时的速度一般叫做`基础速度`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A charging or running creature must immediately stop if it steps on a caltrop.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200115T074050Z" creationid="quentine" creationdate="20200115T074050Z">
@@ -17271,6 +17393,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181106T122646Z" creationid="QuenTine" creationdate="20181106T122646Z">
         <seg>但高声望也会使得角色难以掩盖自己的身份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A human-size creature occupies an area 1 inch (5 feet) across (or one square)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T132334Z" creationid="qt911" creationdate="20210530T132334Z">
+        <seg>一个人类大小的生物占据着一寸（游戏中5尺）宽（或者说一个方格）的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17989,8 +18119,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>A sleeping character can make Listen checks, but takes a –10 penalty on the checks.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191024T112826Z" creationid="quentine" creationdate="20191024T112826Z">
-        <seg>睡着的角色可以进行聆听检定，但在检定中受到10点减值。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T141723Z" creationid="quentine" creationdate="20191024T112826Z">
+        <seg>沉睡中的角色可以进行聆听检定，但在检定中受到10点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21543,8 +21673,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>At 7th level, if the Gunslinger uses a personal firearm to attack a target, the cover bonus to the target’s Defense for one-quarter, one-half, three-quarters, or nine-tenths cover is reduced by 2.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190413T135727Z">
-        <seg>7级时，枪手用单兵枪械攻击一个处于1/4、1/2、3/4或9/10掩体目标时，目标的掩体加值-2。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20190413T135727Z">
+        <seg>7级时，枪手用单兵枪械攻击一个处于1/4、1/2、3/4或9/10掩蔽目标时，目标的掩蔽加值-2。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23123,8 +23253,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>Cover and concealment grant circumstance bonuses to Hide checks, as shown below.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191004T134859Z" creationid="quentine" creationdate="20191004T134859Z">
-        <seg>掩体和隐蔽会为躲藏提供情景加值，见下文。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20191004T134859Z">
+        <seg>掩蔽和隐蔽会为躲藏提供情景加值，见下文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23259,8 +23389,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>Creatures with cover get a bonus on their Reflex save.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200420T135639Z" creationid="quentine" creationdate="20200420T135639Z">
-        <seg>在掩体后的生物的反射豁免会得到一个加值。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20200420T135639Z">
+        <seg>在掩蔽后的生物的反射豁免会得到一个加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24278,6 +24408,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Encumbrance: A character encumbered by carrying a large amount of gear or a fallen comrade may move slower than normal.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T133341Z" creationid="qt911" creationdate="20210530T133341Z">
+        <seg>累赘：角色因搬运重物或倒地同伴而承受的累赘会降低角色的移动速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Entrepreneurs have an obsession about being their own boss.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181104T134418Z" creationid="QuenTine" creationdate="20181104T134418Z">
@@ -25278,6 +25416,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Friendly Character: A character can move through a square occupied by a friendly character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T134543Z" creationid="qt911" creationdate="20210530T134543Z">
+        <seg>友善角色：角色可越过友善角色占据的方格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From that point on, the Mage can prepare these spells without referring to a spellbook.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190624T142444Z" creationid="quentine" creationdate="20190624T142444Z">
@@ -25370,6 +25516,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200518T152506Z" creationid="quentine" creationdate="20200518T152506Z">
         <seg>这些武器廉价、轻便、结构简单，却能很好地胜任一些工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generally speaking, any situational modifier created by the attacker’s position or tactics applies to the attack roll, while any situational modifier created by the defender’s position, state, or tactics applies to the defender’s Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T140743Z" creationid="qt911" creationdate="20210530T140743Z">
+        <seg>通常来说，由进攻者的位置及采用的战术决定的调整值应用于进攻方的攻击骰，而由防御者的位置、状态或战术决定的调整值应用于防御方的防御值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26038,6 +26192,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Humans normally move 30 feet, although armor can slow a character down.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T132808Z" creationid="qt911" creationdate="20210530T132808Z">
+        <seg>人类一般能移动30尺，但护甲会减慢角色的速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Humans normally move 30 feet, but some creatures move faster or slower.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121513Z" creationid="quentine" creationdate="20201118T121513Z">
@@ -26086,6 +26248,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a character does something that requires a full round, he or she can only take a 5-foot step.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T133941Z" creationid="qt911" creationdate="20210530T133941Z">
+        <seg>若角色做了一个非移动的整轮动作，则只能同时做一次五尺快步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If a character fails on a skill check, he or she can sometimes try again.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T142515Z" creationid="quentine" creationdate="20190805T142515Z">
@@ -26118,6 +26288,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a character is making a melee attack against an opponent, and an ally directly opposite the character is threatening the opponent, the character and his or her ally flank the opponent.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T135810Z" creationid="qt911" creationdate="20210530T135810Z">
+        <seg>若角色正对一个目标发起近战攻击，同时对面有一个盟友正威胁着该目标，则角色与盟友`夹击`了该目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If a character moves no actual distance in a round, that character can take one 5-foot step before, during, or after the action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201119T131158Z" creationid="quentine" creationdate="20201119T131158Z">
@@ -26138,6 +26316,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T122705Z" creationid="qt911" creationdate="20210105T121714Z">
         <seg>如果角色在回合内进行了这样的移动，则不可进行五尺快步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a character uses his or her attack action as a move action, the character can move again (for a total movement of up to twice the character’s normal speed).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T133816Z" creationid="qt911" creationdate="20210530T133651Z">
+        <seg>若角色将攻击动作作为移动动作使用，角色可以再移动一次（总计移动了两倍于速度的距离）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27402,6 +27588,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T113011Z" creationid="quentine" creationdate="20190115T113011Z">
         <seg>如果角色仍旧昏迷，角色每小时都会进行强韧豁免直到恢复意识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character spends the entire round to run all out, he or she can move up to four times his or her normal speed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T133810Z" creationid="qt911" creationdate="20210530T133810Z">
+        <seg>若角色以一个整轮动作`全力奔跑`，则可以移动四倍于速度的距离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30224,80 +30418,80 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>It provides full cover to its occupants.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T131853Z" creationid="quentine" creationdate="20201030T131853Z">
-        <seg>它为乘客提供全掩体。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20201030T131853Z">
+        <seg>它为乘客提供全掩蔽。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>It provides nine-tenths cover for its occupants.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T124918Z" creationid="quentine" creationdate="20201030T124918Z">
-        <seg>它为乘客提供9/10掩体。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20201030T124918Z">
+        <seg>它为乘客提供9/10掩蔽。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>It provides no cover for its riders.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T125021Z" creationid="quentine" creationdate="20201030T125021Z">
-        <seg>它不为乘员提供任何掩体。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20201030T125021Z">
+        <seg>它不为乘员提供任何掩蔽。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>It provides one-half cover to occupants in the cockpit or stern, full cover to occupants below deck, and no cover to those forward of the cockpit.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T122618Z" creationid="quentine" creationdate="20201030T122618Z">
-        <seg>它为驾驶位和船尾的乘客提供半掩体，为甲板下的乘客提供全掩体，而驾驶位之前的船头不提供任何掩体。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20201030T122618Z">
+        <seg>它为驾驶位和船尾的乘客提供半掩蔽，为甲板下的乘客提供全掩蔽，而驾驶位之前的船头不提供任何掩蔽。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>It provides three-quarters cover for crew and nine-tenths cover for passengers.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T150448Z" creationid="quentine" creationdate="20200803T150448Z">
-        <seg>它为机组提供3/4掩体，为乘客提供9/10掩体。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20200803T150448Z">
+        <seg>它为机组提供3/4掩蔽，为乘客提供9/10掩蔽。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>It provides three-quarters cover for crew and passengers (one-quarter cover for passengers if the cargo doors are open).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T150454Z" creationid="quentine" creationdate="20200803T145419Z">
-        <seg>它为乘员和机组提供3/4掩体（货舱门打开则只能提供1/4掩体）。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20200803T145419Z">
+        <seg>它为乘员和机组提供3/4掩蔽（货舱门打开则只能提供1/4掩蔽）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>It provides three-quarters cover for crew and passengers.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200803T150501Z" creationid="quentine" creationdate="20200803T144359Z">
-        <seg>它为乘员和机组提供3/4掩体。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20200803T144359Z">
+        <seg>它为乘员和机组提供3/4掩蔽。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>It provides three-quarters cover for its occupants.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T130013Z" creationid="quentine" creationdate="20201030T130013Z">
-        <seg>它为乘客提供3/4掩体。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20201030T130013Z">
+        <seg>它为乘客提供3/4掩蔽。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>It provides three-quarters cover for occupants in the cab and full cover for any in the back.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T130354Z" creationid="quentine" creationdate="20201030T130354Z">
-        <seg>它为驾驶舱的乘客提供3/4掩体，为货舱内乘客提供全掩体。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20201030T130354Z">
+        <seg>它为驾驶舱的乘客提供3/4掩蔽，为货舱内乘客提供全掩蔽。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>It provides three-quarters cover to crew and passengers (one-quarter cover to passengers if the cargo doors are open).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T134000Z" creationid="quentine" creationdate="20201030T134000Z">
-        <seg>它为乘员和机组提供3/4掩体（货舱门打开则只能提供1/4掩体）。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20201030T134000Z">
+        <seg>它为乘员和机组提供3/4掩蔽（货舱门打开则只能提供1/4掩蔽）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30752,8 +30946,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>Like cars, trucks generally provide three-quarters cover to their occupants.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T123302Z" creationid="quentine" creationdate="20201029T123302Z">
-        <seg>和小汽车一样，卡车也为乘客提供3/4掩体。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20201029T123302Z">
+        <seg>和小汽车一样，卡车也为乘客提供3/4掩蔽。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31418,8 +31612,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Motorcycles tend to perform better than automobiles, but they provide no cover to their occupants.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T120736Z" creationid="quentine" creationdate="20201029T120618Z">
-        <seg>摩托车性能表现比汽车更好，但无法给乘客提供任何掩体。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20201029T120618Z">
+        <seg>摩托车性能表现比汽车更好，但无法给乘客提供任何掩蔽。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31452,6 +31646,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T123550Z" creationid="qt911" creationdate="20210105T123550Z">
         <seg>冲锋时的移动：角色必须在攻击前移动，而非之后。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Movement in Combat: Generally, a character can move his or her speed as a move action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T133549Z" creationid="qt911" creationdate="20210530T133549Z">
+        <seg>战斗中的移动：角色通常能在一个移动动作中移动一倍于速度的距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Movement in Darkness: If a character moves when he or she can’t see, such as in total darkness, his or her speed is limited to one-half normal.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T134158Z" creationid="qt911" creationdate="20210530T134158Z">
+        <seg>黑暗中的移动：若角色在无法视物时移动，比如在完全黑暗的环境中，角色的速度将被限制在常速的一半以内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31682,8 +31892,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Note that a character can’t hide if he or she has less than one-half cover or concealment.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191004T135243Z" creationid="quentine" creationdate="20191004T135051Z">
-        <seg>注意角色如果处于一半以下的掩体或隐蔽则不可躲藏。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20191004T135051Z">
+        <seg>注意角色如果处于一半以下的掩蔽或隐蔽则不可躲藏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32192,6 +32402,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One inch (or one square) = 5 feet</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T131853Z" creationid="qt911" creationdate="20210530T131853Z">
+        <seg>一寸（见方） = 5尺（见方）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>One of the evil allegiance can use negative energy to rebuke undead, causing the creatures to cower in her presence.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190703T104038Z">
@@ -32220,6 +32438,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T134154Z" creationid="QuenTine" creationdate="20181106T141504Z">
         <seg>一个角色可以在别的角色购买的时候尝试协助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One round = 6 seconds</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T132349Z" creationid="qt911" creationdate="20210530T132349Z">
+        <seg>一轮 = 6秒</seg>
       </tuv>
     </tu>
     <tu>
@@ -32336,6 +32562,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190924T131239Z" creationid="quentine" creationdate="20190924T131239Z">
         <seg>对抗检定也可用于第三方裁判出辩论双方的胜出者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Or the character can attempt to tumble through a square occupied by an enemy (if the character has ranks in the Tumble skill; see the skill description).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T134943Z" creationid="qt911" creationdate="20210530T134841Z">
+        <seg>或者尝试`翻滚`（如果角色有翻滚技能，见技能描述）来穿过敌人占据的方格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32526,8 +32760,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Paralyzed, sleeping, or unconscious characters are helpless.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190115T123531Z" creationid="quentine" creationdate="20190115T123531Z">
-        <seg>麻痹、睡眠及瘫痪的角色处于无助状态。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T141714Z" creationid="quentine" creationdate="20190115T123531Z">
+        <seg>麻痹、沉睡及瘫痪的角色处于无助状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33546,6 +33780,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See Cover, below.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T143827Z" creationid="qt911" creationdate="20210530T142121Z">
+        <seg>具体见下文`掩蔽`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See Driving a Vehicle for more details.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190926T130106Z" creationid="quentine" creationdate="20190926T125915Z">
@@ -34106,6 +34348,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some creatures move faster or slower.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T132831Z" creationid="qt911" creationdate="20210530T132831Z">
+        <seg>有的生物会快于或慢于此速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some creatures or characters may be resistant or immune to some forms of damage.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T120741Z" creationid="quentine" creationdate="20200410T120741Z">
@@ -34330,6 +34580,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sometimes a character can pass through an area occupied by another character or creature.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T134510Z" creationid="qt911" creationdate="20210530T134510Z">
+        <seg>有时角色可以越过被其他角色或生物占据的区域。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sometimes a character can’t use his or her Dexterity bonus.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T115551Z" creationid="quentine" creationdate="20201118T115551Z">
@@ -34460,8 +34718,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Specific bonuses that don’t stack include competence, cover, equipment, morale, natural armor, and size.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190806T141750Z" creationid="quentine" creationdate="20190806T141750Z">
-        <seg>还有一些不可叠加的加值，包括表现加值、掩体加值、装备加值、士气加值、天生护甲加值、体型加值。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20190806T141750Z">
+        <seg>还有一些不可叠加的加值，包括表现加值、掩蔽加值、装备加值、士气加值、天生护甲加值、体型加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34518,6 +34776,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T135050Z" creationid="quentine" creationdate="20191027T135050Z">
         <seg>侦察经常用于发现隐藏的人或生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Square Occupied by Creature Three Sizes Larger or Smaller: Any creature can move through a square occupied by a creature three size categories larger or three categories smaller than it is.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T135527Z" creationid="qt911" creationdate="20210530T135527Z">
+        <seg>被体型大三级或小三级的生物占据的方格：任何生物都可以越过大于或小于自己三级及以上的生物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34644,8 +34910,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Starting at 4th level, the Gunslinger gains an additional +2 cover bonus to Defense and an additional +2 cover bonus on Reflex saves whenever he or she has one-quarter, one-half, three-quarters, or nine-tenths cover.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190413T134921Z" creationid="quentine" creationdate="20190413T134921Z">
-        <seg>4级时，枪手在1/4、1/2、3/4、9/10掩体下，防御值获得2点掩体加值、反射豁免获得两点加值。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20190413T134921Z">
+        <seg>4级时，枪手在1/4、1/2、3/4、9/10掩蔽下，防御值获得2点掩蔽加值、反射豁免获得两点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35186,6 +35452,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That defender loses any Dexterity bonus to Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T142627Z" creationid="qt911" creationdate="20210530T142627Z">
+        <seg>选中的目标作为防御方，其防御或失去所有敏捷加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That opponent doesn’t get to add his or her Strength modifier to attack rolls when targeting the character.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T143659Z" creationid="quentine" creationdate="20190804T143659Z">
@@ -35482,6 +35756,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Blind-Fight feat reduces this penalty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T134333Z" creationid="qt911" creationdate="20210530T134236Z">
+        <seg>`盲斗`专长可减轻此惩罚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Bodyguard can change his or her place in the initiative order, moving higher in the count by a number less than or equal to his or her class level, as the Bodyguard sees fit.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190421T133236Z" creationid="quentine" creationdate="20190421T133236Z">
@@ -35580,8 +35862,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>The Capri provides one-half cover to occupants in the cockpit or stern, full cover to occupants in the cabin, and no cover to those forward of the cockpit.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T122014Z" creationid="quentine" creationdate="20201030T121114Z">
-        <seg>卡普里为驾驶位和船尾的乘客提供半掩体，为小型舱室内的乘客提供全掩体，而驾驶位之前的船头不提供任何掩体。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20201030T121114Z">
+        <seg>卡普里为驾驶位和船尾的乘客提供半掩蔽，为小型舱室内的乘客提供全掩蔽，而驾驶位之前的船头不提供任何掩蔽。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36410,6 +36692,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The GM judges what bonuses and penalties apply, using Table: Defense Modifiers and Table: Attack Roll Modifiers as guides.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T140956Z" creationid="qt911" creationdate="20210530T140956Z">
+        <seg>GM参考`表：防御调整值`以及`表：攻击骰调整值`来决定应用哪些加值与减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The GM limits aid another attempts as he or she sees fit for the conditions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T134809Z" creationid="quentine" creationdate="20190806T134809Z">
@@ -37164,8 +37454,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>The Sea-Doo XP is one square wide and two squares long, and provides no cover for its riders.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T124012Z" creationid="quentine" creationdate="20201030T124012Z">
-        <seg>喜度XP有1格宽2格长，不为乘员提供任何掩体。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20201030T124012Z">
+        <seg>喜度XP有1格宽2格长，不为乘员提供任何掩蔽。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37602,6 +37892,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The ally must be on the other side of the opponent so that the opponent is directly between the character and the ally.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T140101Z" creationid="qt911" creationdate="20210530T140101Z">
+        <seg>该盟友必须在目标的另一端，使目标正好位于盟友与角色连线上，才能夹击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The amount of ammunition a weap-on carries, and hence how many shots it can fire before needing to be reloaded, is determined by its magazine capacity.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T131401Z" creationid="quentine" creationdate="20200410T125651Z">
@@ -38018,6 +38316,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The character can attempt an overrun.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T134846Z" creationid="qt911" creationdate="20210530T134743Z">
+        <seg>角色可以尝试`闯越`，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The character can attempt to charge across a precarious surface.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190807T123256Z" creationid="quentine" creationdate="20190807T123256Z">
@@ -38360,6 +38666,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191021T140038Z" creationid="quentine" creationdate="20191021T140038Z">
         <seg>角色抓住边缘时将结束移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The character gains a +2 bonus on his or her attack roll.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T135905Z" creationid="qt911" creationdate="20210530T135905Z">
+        <seg>角色的攻击骰将获得2点夹击加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40688,8 +41002,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>The rear bed of a pickup truck, however, provides only one-half cover.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201029T124925Z" creationid="quentine" creationdate="20201029T123403Z">
-        <seg>而皮卡的尾舱只提供半掩体。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20201029T123403Z">
+        <seg>而皮卡的尾舱只提供半掩蔽。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41033,8 +41347,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>The target can have no more than nine-tenths cover for A character to attempt a skip shot.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190804T122747Z" creationid="quentine" creationdate="20190804T122747Z">
-        <seg>目标的掩护不超过9/10，角色都可以进行跳弹射击。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T143855Z" creationid="quentine" creationdate="20190804T122747Z">
+        <seg>目标的掩蔽不超过9/10，角色都可以进行跳弹射击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42404,6 +42718,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190627T131940Z">
         <seg>此选择将为角色增加善良（正能量）或邪恶（负能量）阵营，侍僧将在各方面受其信仰左右。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This circumstance may instead improve bonus to Defense granted by cover.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T143750Z" creationid="qt911" creationdate="20210530T142105Z">
+        <seg>这种情况下又会提高由掩蔽为防御提供的加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44628,6 +44950,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unfriendly Character: There are two ways to move through a square occupied by a resisting enemy.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T134711Z" creationid="qt911" creationdate="20210530T134711Z">
+        <seg>不友善角色：有两种方法可以越过拦路敌人占据的方格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Uniform: From the cable guy to a senior Air Force officer, people on the job tend to wear uniforms—making such clothing an essential part of some disguises, since a uniform inclines people to trust the wearer.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191113T141337Z" creationid="quentine" creationdate="20191113T141337Z">
@@ -44654,8 +44984,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Unless otherwise noted, civilian cars provide three-quarters cover for their occupants (although passengers who lean out of windows or sunroofs, perhaps to fire weapons, may be reduced to one-half or even one-quarter cover).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200813T150035Z" creationid="quentine" creationdate="20200813T150035Z">
-        <seg>除非特别说明，民用汽车为乘客提供3/4掩体（但如果在乘客伸出窗外或天窗，还有面对火焰武器的情况下，只会提供半掩体甚至1/4掩体）。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20200813T150035Z">
+        <seg>除非特别说明，民用汽车为乘客提供3/4掩蔽（但如果在乘客伸出窗外或天窗，还有面对火焰武器的情况下，只会提供半掩蔽甚至1/4掩蔽）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45916,6 +46246,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When using a grid to represent character’s movement, the standard scale equates 1 inch (or a 1 inch square) to 5 feet in the game world.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T131754Z" creationid="qt911" creationdate="20210530T131754Z">
+        <seg>当要用棋盘走子移动来代表角色的移动时，现实中一寸（见方）代表游戏中的5尺（见方）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When using a ranged weapon, the wielder applies his or her Dexterity modifier to the attack roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T115032Z" creationid="quentine" creationdate="20200410T115032Z">
@@ -45984,6 +46322,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190201T135638Z" creationid="quentine" creationdate="20190201T135638Z">
         <seg>每当英雄遇到一门陌生的语言，无论是口语还是书面，英雄可以进行一次智力检定来决定英雄是否理解它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Where can a character move, how long it takes to get there, and whether he or she is vulnerable to attacks of opportunity while moving are key questions in combat.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T132713Z" creationid="qt911" creationdate="20210530T132713Z">
+        <seg>在战斗中，角色能移动的位置、移动所耗时间以及是否引发借机攻击都是至关重要的问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46674,6 +47020,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>\* Does not apply if target is adjacent to attacker.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T141904Z" creationid="qt911" creationdate="20210530T141904Z">
+        <seg>\* 若目标与进攻方相邻则无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>\* For a group of mixed sizes, apply only the modifier for the largest size category represented.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T142233Z" creationid="quentine" creationdate="20190804T142208Z">
@@ -46858,10 +47212,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>\*\* Some ranged weapons can’t be used while the attacker is prone.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T143248Z" creationid="qt911" creationdate="20210530T143248Z">
+        <seg>\*\* 一些远程武器不能在进攻方俯卧时使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>\*\* Such as from catching on fire.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190917T134714Z" creationid="quentine" creationdate="20190917T134714Z">
         <seg>\*\* 比如着火。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\*\* The defender loses any Dexterity bonus to Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T142339Z" creationid="qt911" creationdate="20210530T142339Z">
+        <seg>\*\* 防御方的防御会失去所有敏捷加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46906,6 +47276,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>\*\*\* Roll randomly to see which grappling combatant the character strikes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T142557Z" creationid="qt911" creationdate="20210530T142557Z">
+        <seg>\*\*\* 掷骰来从擒抱的双方选出一个被进攻方击中的目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>\*\*\* See the description of this weapon for special rules.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200417T133941Z" creationid="quentine" creationdate="20200417T133941Z">
@@ -46914,10 +47292,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>\*\*\* The defender loses any Dexterity bonus to Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T143340Z" creationid="qt911" creationdate="20210530T143340Z">
+        <seg>\*\* 防御方的防御会失去所有敏捷加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>\*\*\*\* These attack forms substitute for a melee attack, not an action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201119T125226Z" creationid="quentine" creationdate="20201119T125226Z">
         <seg>\*\*\*\* 这些攻击类型替代了一次近战攻击，并非动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\*\*\*\* Treat the defender’s Dexterity as 0 (–5 modifier).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T142829Z" creationid="qt911" creationdate="20210530T142802Z">
+        <seg>\*\*\*\* 将防御方的敏捷视为0（-5调整值）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47904,6 +48298,58 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|Circumstance|Melee|Ranged|
+|------------|:---:|:----:|
+|Attacker flanking defender\*|+2|—|
+|Attacker on higher ground|+1|+0|
+|Attacker prone|–4|–2\*\*|
+|Attacker invisible|+2\*\*\*|+2\*\*\*|
+\* A character flanks a defender when he or she has an ally on the opposite side of the defender threatening the defender.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T143226Z" creationid="qt911" creationdate="20210530T143226Z">
+        <seg>|情景|近战|远程|
+|------------|:---:|:----:|
+|进攻方对防御方形成夹击\*|+2|—|
+|进攻方在高地|+1|+0|
+|进攻方俯卧|–4|–2\*\*|
+|进攻方隐形|+2\*\*\*|+2\*\*\*|
+\* 当角色有一个盟友位于角色面朝防御方方向的正对面，且盟友正在威胁防御方，视为角色`夹击`了防御方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Circumstance|Melee|Ranged|
+|------------|:---:|:----:|
+|Defender sitting or kneeling|–2|+2\*|
+|Defender prone|–4|+4\*|
+|Defender stunned or cowering|–2\*\*|–2\*\*|
+|Defender climbing|–2\*\*|–2\*\*|
+|Defender flat-footed|+0\*\*|+0\*\*|
+|Defender running|+0\*\*|+2\*\*|
+|Defender grappling (attacker not)|+0\*\*|+0\*\*\*|
+|Defender pinned|–4\*\*\*\*|+0\*\*\*\*|
+|Defender helpless (such as paralyzed, sleeping, or bound)|+0\*\*|+0\*\*|
+|Defender has cover|—–— See Cover —–—|
+|Defender concealed or invisible|— See Concealment —|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T143739Z" creationid="qt911" creationdate="20210530T141655Z">
+        <seg>|情景|近战|远程|
+|------------|:---:|:----:|
+|防御方坐着或跪着|–2|+2\*|
+|防御方俯卧|–4|+4\*|
+|防御方被震慑或畏缩|–2\*\*|–2\*\*|
+|防御方正在攀爬|–2\*\*|–2\*\*|
+|防御方措手不及|+0\*\*|+0\*\*|
+|防御方正在奔跑|+0\*\*|+2\*\*|
+|防御方正在擒抱（攻击者没有）|+0\*\*|+0\*\*\*|
+|防御方被压制|–4\*\*\*\*|+0\*\*\*\*|
+|防御方陷入无助（诸如麻痹、沉睡或束缚）|+0\*\*|+0\*\*|
+|防御方有掩蔽|—–— 见`掩蔽` —–—|
+|防御方隐蔽或隐形|— 见`隐蔽` —|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Class Features|Defense Bonus|Reputation Bonus|
 |:-------|------------|------------|---------|-----------|:----------|--------|------------|
 |1st|+1|+1|+0|+0|Talent|+1|+0|
@@ -48843,8 +49289,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |Three-quarters|+5|
 |Nine-tenths|+10|</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191004T135225Z" creationid="quentine" creationdate="20191004T135107Z">
-        <seg>|掩体或隐蔽|情景加值|
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20191004T135107Z">
+        <seg>|掩蔽或隐蔽|情景加值|
 |--------------------|:----------------:|
 |四分之三|+5|
 |十分之九|+10|</seg>
@@ -51370,6 +51816,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T082412Z" creationid="quentine" creationdate="20190216T082412Z">
         <seg>`职业等级` 是角色在特定职业上的等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Next to” or “adjacent” = 1 inch (5 feet) away</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T132121Z" creationid="qt911" creationdate="20210530T132121Z">
+        <seg>靠近（或相邻） = 一寸（游戏中5尺）远</seg>
       </tuv>
     </tu>
     <tu>

@@ -707,7 +707,7 @@ commando	突击队
 Skill Synergy	技能共效
 synergy	共效
 Stack	叠加
-cover	掩体
+cover	掩蔽
 competence	表现
 enlargement	巨化
 haste	加速术
@@ -1365,3 +1365,8 @@ fang	尖牙
 engaged in melee	处于近战
 Standing Up	站起
 unencumbered	无负担的
+base speed	基础速度
+total darkness	完全黑暗
+Passing Through	越过
+bound	束缚
+sleeping	沉睡
