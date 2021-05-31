@@ -561,7 +561,7 @@
 |防御方被压制|–4\*\*\*\*|+0\*\*\*\*|
 |防御方陷入无助（诸如麻痹、沉睡或束缚）|+0\*\*|+0\*\*|
 |防御方有掩蔽|—–— 见`掩蔽` —–—|
-|防御方隐蔽或隐形|— 见`隐蔽` —|
+|防御方隐藏或隐形|— 见`隐藏` —|
 
 \* 若目标与进攻方相邻则无效这种情况下又会提高由掩蔽为防御提供的加值。具体见下文`掩蔽`。
 
@@ -583,43 +583,43 @@
 \*\* 一些远程武器不能在进攻方俯卧时使用。
 \*\* 防御方的防御会失去所有敏捷加值。
 
-### Cover
+### 掩蔽
 
-Cover provides a bonus to Defense. The more cover a character has, the bigger the bonus. In a melee, if a character has cover against an opponent, that opponent probably has cover against the character, too. With ranged weapons, however, it’s easy to have better cover than the opponent.
+掩蔽可为防御提供加值。角色的掩蔽越高，加值越多。在近战战斗中，若角色对对方有掩蔽，对方对角色也会有相同的掩蔽。而在远程战斗中，有掩蔽的一方对对方更有优势。
 
-The GM may impose other penalties or restrictions on attacks depending on the details of the cover.
+GM可以根据掩蔽的具体细节酌情为攻击行为赋予减值与限制。
 
-### Degree of Cover
+### 掩蔽度
 
-Cover is assessed in subjective measurements of how much protection it offers. The GM determines the value of cover. This measure is not a strict mathematical calculation, because a character gains more value from covering the parts of his or her body that are more likely to be struck. If the bottom half of a character’s body is covered, that only gives one-quarter cover, because most vital areas are still fully exposed. If one side or the other of a character’s body is covered, the character gets one-half cover.
+掩蔽度是掩蔽所能提供保护程度的主观估值。这个值由GM决定。这个值并不是由严格的数学计算得出的，因为角色护住更容易受打击的部位时得到的掩蔽度更高，反之则低，具体情况很复杂。如果角色的下半身得到掩蔽，则只能得到1/4掩蔽度，因为最致命的部位完全暴露了。若角色的半边得到掩蔽，角色将获得半掩蔽。
 
-### Cover Defense Bonus
+### 掩蔽防御加值
 
-Table: Cover gives the Defense bonuses for different degrees of cover. Add the relevant number to the character’s Defense. This cover bonus overlaps (does not stack) with certain other bonuses.
+`表：掩蔽`给出了不同掩蔽度提供的防御加值。角色的防御将会加上相应的加值。该掩蔽加值会覆盖（不叠加）特定的其他几种加值。
 
-### Cover Reflex Save Bonus
+### 掩蔽反射豁免加值
 
-Table: Cover gives the Reflex save bonuses for different degrees of cover. Add this bonus to Reflex saves against attacks that affect an area. This bonus only applies to attacks that originate or burst out from a point on the other side of the cover.
+`表：掩蔽`给出了不同掩蔽度提供的反射豁免加值。对抗范围攻击所需的反射豁免检定应用此加值。该加值只对从掩蔽的另一面发起的攻击有效。
 
-### Striking the Cover Instead of a Missed Target
+### 击中掩蔽而非失手
 
-If it ever becomes important to know whether the cover was actually struck by an incoming attack that misses the intended target, the GM should determine if the attack roll would have hit the protected target without the cover. If the attack roll falls within a range low enough to miss the target with cover but high enough to strike the target if there had been no cover, the object used for cover was struck. This can be particularly important to know in cases when a character uses another character as cover. In such a case, if the cover is struck and the attack roll exceeds the Defense of the covering character, the covering character takes the damage intended for the target.
+如果结果是击中掩蔽还是完全失手对于游戏来说很重要，GM应当判定该攻击是否命中了假定未受掩护的目标。如果攻击骰点结果为若受掩蔽未命中，而若未受掩蔽则命中，则视为击中了掩蔽。这个判定在角色以另一个角色为掩蔽时，尤为重要。在此情况下，若掩蔽被击中，而攻击骰大于等于提供掩蔽的角色的防御值，提供掩蔽的角色将替原目标承受伤害。
 
-If the covering character has a Dex-terity bonus to Defense or a dodge bonus, and this bonus keeps the covering character from being hit, then the original target is hit in-stead. The covering character has dodged out of the way and didn’t provide cover after all. A covering character can choose not to apply his or her Dexterity bonus to Defense and/or his or her dodge bonus, if the character so desires.
+若提供掩蔽的角色的防御有敏捷加值或有闪避加值，且此加值正好让角色免于被命中，则原目标将承受伤害。相当于提供掩蔽的角色闪开了，不再提供任何掩蔽。提供掩蔽的角色也可自己选择不应用敏捷加值以及闪避加值。
 
-**Table: Cover**
+**表：掩蔽**
 
-|Degree of Cover (Example)|Cover Bonus to Defense|Reflex Saves|
+|掩蔽度（范例）|防御的掩蔽加值|反射豁免|
 |-------------------------|:--------------------:|:----------:|
-|One-quarter (standing behind a 3-ft. high wall)|+2|+1|
-|One-half (fighting from around a corner or a tree; standing at an open window; behind a creature of same size)|+4|+2|
-|Three-quarters (peering around a corner or a big tree)|+7|+3|
-|Nine-tenths (standing at an arrow slit; behind a door that’s slightly ajar)|+10|+4\*|
-|Total (on the other side of a solid wall)|—|—|
+|1/4（站在三尺高的墙后）|+2|+1|
+|半（在墙角或树后战斗；站在敞开的窗边；在同等体型的生物后）|+4|+2|
+|3/4（在墙角或树后窥视）|+7|+3|
+|9/10（站在射击口之后；在虚掩的门后）|+10|+4\*|
+|全（在坚固的墙的另一边）|—|—|
 
-\* Half damage if save is failed; no damage if successful.
+\* 检定失败则伤害折半；检定成功则免除伤害。
 
-### Concealment
+### 隐藏
 
 Concealment includes all circumstances in which nothing physically blocks a blow or shot, but something interferes with an attacker’s accuracy.
 

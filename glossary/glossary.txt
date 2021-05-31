@@ -646,7 +646,7 @@ spacecraft	太空飞船
 jumbo passenger airplanes	巨型客机
 large cargo planes	大型货运飞机
 non-proficient penalty	不擅长减值
-concealment	隐蔽
+concealment	隐藏
 miss chance roll	失手几率骰
 Unarmed	徒手
 drop	倒下

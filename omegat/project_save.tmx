@@ -666,8 +666,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>## Concealed Weapons and Objects</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191104T135216Z" creationid="quentine" creationdate="20191104T135216Z">
-        <seg>## 隐蔽的武器与物品</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191104T135216Z">
+        <seg>## 隐藏的武器与物品</seg>
       </tuv>
     </tu>
     <tu>
@@ -2808,6 +2808,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Concealment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="qt911" creationdate="20210531T143206Z">
+        <seg>### 隐藏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Confident</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190731T121056Z" creationid="quentine" creationdate="20190731T121056Z">
@@ -2820,6 +2828,30 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191111T131927Z" creationid="quentine" creationdate="20191111T131927Z">
         <seg>### 维修工具包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Cover</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T133846Z" creationid="qt911" creationdate="20210531T133846Z">
+        <seg>### 掩蔽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Cover Defense Bonus</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T135516Z" creationid="qt911" creationdate="20210531T135516Z">
+        <seg>### 掩蔽防御加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Cover Reflex Save Bonus</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T140010Z" creationid="qt911" creationdate="20210531T140010Z">
+        <seg>### 掩蔽反射豁免加值</seg>
       </tuv>
     </tu>
     <tu>
@@ -2932,6 +2964,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190731T122621Z" creationid="quentine" creationdate="20190731T122621Z">
         <seg>### 防御武术</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Degree of Cover</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T134449Z" creationid="qt911" creationdate="20210531T134449Z">
+        <seg>### 掩蔽度</seg>
       </tuv>
     </tu>
     <tu>
@@ -4316,8 +4356,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>### Size and Concealment</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191104T140009Z" creationid="quentine" creationdate="20191104T140009Z">
-        <seg>### 尺寸和隐蔽</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191104T140009Z">
+        <seg>### 尺寸和隐藏</seg>
       </tuv>
     </tu>
     <tu>
@@ -4380,16 +4420,16 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>### Spotting Concealable Armor</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191104T142117Z" creationid="quentine" creationdate="20191104T142117Z">
-        <seg>### 侦察隐蔽护甲</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191104T142117Z">
+        <seg>### 侦察隐藏护甲</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>### Spotting Concealed Objects</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191104T141128Z" creationid="quentine" creationdate="20191104T141128Z">
-        <seg>### 侦察隐蔽物品</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191104T141128Z">
+        <seg>### 侦察隐藏物品</seg>
       </tuv>
     </tu>
     <tu>
@@ -4470,6 +4510,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201114T014156Z" creationid="quentine" creationdate="20201114T014156Z">
         <seg>### 力量调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Striking the Cover Instead of a Missed Target</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T140621Z" creationid="qt911" creationdate="20210531T140621Z">
+        <seg>### 击中掩蔽而非失手</seg>
       </tuv>
     </tu>
     <tu>
@@ -8295,8 +8343,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>**Benefit:** In melee combat, every time the character misses because of concealment, the character can reroll the miss chance roll one time to see if the character actually hits.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190730T141607Z" creationid="quentine" creationdate="20190730T132624Z">
-        <seg>**效果：** 近战时，每次角色若因目标隐蔽而失手，可以重掷一次失手几率以查看自己是否真的命中。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20190730T132624Z">
+        <seg>**效果：** 近战时，每次角色若因目标隐藏而失手，可以重掷一次失手几率以查看自己是否真的命中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11929,8 +11977,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>**Size:** The size category of a piece of equipment helps to determine how easy that object is to conceal, and it also indicates whether using the object requires one hand or two.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191105T141441Z" creationid="quentine" creationdate="20191105T141441Z">
-        <seg>**尺寸：** 装备的尺寸决定隐蔽物品的难度，也决定了该用单手还是双手使用。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191105T141441Z">
+        <seg>**尺寸：** 装备的尺寸决定隐藏物品的难度，也决定了该用单手还是双手使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12971,6 +13019,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T142845Z" creationid="qt911" creationdate="20210530T142845Z">
         <seg>**表：攻击骰调整值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Cover**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T142443Z" creationid="qt911" creationdate="20210531T142443Z">
+        <seg>**表：掩蔽**</seg>
       </tuv>
     </tu>
     <tu>
@@ -15887,8 +15943,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>A character concealing an object before he or she heads out into public can usually take 10 unless he or she is rushed, trying to conceal it when others might see, or under other unusual constraints.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191104T135849Z" creationid="quentine" creationdate="20191104T135849Z">
-        <seg> 角色在公开露面前隐蔽物品通常可以取10，除非角色很匆忙、隐蔽时能被其他人看到、或在其他不寻常的限制下。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191104T135849Z">
+        <seg> 角色在公开露面前隐藏物品通常可以取10，除非角色很匆忙、隐藏时能被其他人看到、或在其他不寻常的限制下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16925,6 +16981,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A covering character can choose not to apply his or her Dexterity bonus to Defense and/or his or her dodge bonus, if the character so desires.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T142437Z" creationid="qt911" creationdate="20210531T142437Z">
+        <seg>提供掩蔽的角色也可自己选择不应用敏捷加值以及闪避加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A creature is im-mune to its own gaze attack unless otherwise noted.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T130308Z" creationid="quentine" creationdate="20191031T130308Z">
@@ -17903,8 +17967,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>A radically shortened version of the MP5, this weapon is optimized to be concealable.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200419T030920Z" creationid="quentine" creationdate="20200419T030904Z">
-        <seg>极短版MP5，此枪专为隐蔽而设计。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20200419T030904Z">
+        <seg>极短版MP5，此枪专为隐藏而设计。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18775,6 +18839,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add the relevant number to the character’s Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T135837Z" creationid="qt911" creationdate="20210531T135837Z">
+        <seg>角色的防御将会加上相应的加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add the result of the three dice together.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181024T041826Z" creationid="QuenTine" creationdate="20181024T041826Z">
@@ -18787,6 +18859,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T114450Z" creationid="quentine" creationdate="20190116T114450Z">
         <seg>将结果加到角色的生命上限上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add this bonus to Reflex saves against attacks that affect an area.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T140330Z" creationid="qt911" creationdate="20210531T140330Z">
+        <seg>对抗范围攻击所需的反射豁免检定应用此加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20265,8 +20345,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>Any creature within the area has total concealment (attacks suffer a 50% miss chance, and the attacker can’t use sight to locate the target).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200508T124039Z" creationid="quentine" creationdate="20200508T124039Z">
-        <seg>区域内所有生物都将处于全隐蔽状态（对其的攻击将有50%失手几率，攻击方无法用目力确定目标位置）。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20200508T124039Z">
+        <seg>区域内所有生物都将处于全隐藏状态（对其的攻击将有50%失手几率，攻击方无法用目力确定目标位置）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20457,8 +20537,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>Anything not concealed can be spotted in a sweep with a successful check (DC 10).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190730T141618Z" creationid="quentine" creationdate="20190417T141144Z">
-        <seg>若检定成功（DC10），任何非隐蔽的目标都会被侦察到。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20190417T141144Z">
+        <seg>若检定成功（DC10），任何非隐藏的目标都会被侦察到。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23141,8 +23221,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>Concealable armor can be worn under clothing if the wearer wants it to go unnoticed.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191104T142201Z" creationid="quentine" creationdate="20191104T142201Z">
-        <seg>如果穿着护甲的人不想引人注目，隐蔽护甲可以穿在衣服内。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191104T142201Z">
+        <seg>如果穿着护甲的人不想引人注目，隐藏护甲可以穿在衣服内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23157,8 +23237,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>Concealed Carry: A concealed carry holster is designed to help keep a weapon out of sight (see Concealed Weapons and Objects).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200117T094923Z" creationid="quentine" creationdate="20200117T094923Z">
-        <seg>隐藏装具：隐蔽的装具专为隐藏武器而设计（详见`隐蔽的武器与物品`）。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20200117T094923Z">
+        <seg>隐藏装具：隐藏的装具专为隐藏武器而设计（详见`隐藏的武器与物品`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23253,8 +23333,24 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>Cover and concealment grant circumstance bonuses to Hide checks, as shown below.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20191004T134859Z">
-        <seg>掩蔽和隐蔽会为躲藏提供情景加值，见下文。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191004T134859Z">
+        <seg>掩蔽和隐藏会为躲藏提供情景加值，见下文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cover is assessed in subjective measurements of how much protection it offers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T134722Z" creationid="qt911" creationdate="20210531T134722Z">
+        <seg>掩蔽度是掩蔽所能提供保护程度的主观估值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cover provides a bonus to Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T133907Z" creationid="qt911" creationdate="20210531T133907Z">
+        <seg>掩蔽可为防御提供加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23938,8 +24034,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>Don’t use the modifiers from Table: Concealing Weapons and Objects when wearing concealable armor.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191104T142243Z" creationid="quentine" creationdate="20191104T142243Z">
-        <seg>穿着隐蔽护甲不是用`表：隐蔽武器与物品`里的调整值，</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191104T142243Z">
+        <seg>穿着隐藏护甲不是用`表：隐藏武器与物品`里的调整值，</seg>
       </tuv>
     </tu>
     <tu>
@@ -23954,8 +24050,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>Drawing a concealed weapon is more difficult than drawing a regularly holstered weapon, and normally requires an attack action.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191104T140413Z" creationid="quentine" creationdate="20191104T135456Z">
-        <seg>拔出隐蔽武器会比从正常的装具中拔出更困难，一般需要一个攻击动作。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191104T135456Z">
+        <seg>拔出隐藏武器会比从正常的装具中拔出更困难，一般需要一个攻击动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26584,6 +26680,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it ever becomes important to know whether the cover was actually struck by an incoming attack that misses the intended target, the GM should determine if the attack roll would have hit the protected target without the cover.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T141213Z" creationid="qt911" creationdate="20210531T141213Z">
+        <seg>如果结果是击中掩蔽还是完全失手对于游戏来说很重要，GM应当判定该攻击是否命中了假定未受掩护的目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If it has mechanical or electronic components, a Techie of 2nd level or higher can get maximum performance out of it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190518T140329Z" creationid="quentine" creationdate="20190518T140329Z">
@@ -26708,6 +26812,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201119T124133Z" creationid="quentine" creationdate="20201119T124133Z">
         <seg>否则不会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If one side or the other of a character’s body is covered, the character gets one-half cover.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T135503Z" creationid="qt911" creationdate="20210531T135503Z">
+        <seg>若角色的半边得到掩蔽，角色将获得半掩蔽。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27008,10 +27120,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the attack roll falls within a range low enough to miss the target with cover but high enough to strike the target if there had been no cover, the object used for cover was struck.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T141551Z" creationid="qt911" creationdate="20210531T141551Z">
+        <seg>如果攻击骰点结果为若受掩蔽未命中，而若未受掩蔽则命中，则视为击中了掩蔽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the attempt is successful, that character provides the purchaser with a +2 bonus on his or her Wealth check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T134201Z" creationid="QuenTine" creationdate="20181106T141532Z">
         <seg>如果尝试成功，协助者会为购买者的财富检定额外+2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the bottom half of a character’s body is covered, that only gives one-quarter cover, because most vital areas are still fully exposed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T135329Z" creationid="qt911" creationdate="20210531T135329Z">
+        <seg>如果角色的下半身得到掩蔽，则只能得到1/4掩蔽度，因为最致命的部位完全暴露了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28048,6 +28176,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the covering character has a Dex-terity bonus to Defense or a dodge bonus, and this bonus keeps the covering character from being hit, then the original target is hit in-stead.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T142228Z" creationid="qt911" creationdate="20210531T142228Z">
+        <seg>若提供掩蔽的角色的防御有敏捷加值或有闪避加值，且此加值正好让角色免于被命中，则原目标将承受伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the creature also has the improved grab ability (see below), it deals constriction damage in addition to damage dealt by the weapon used to grab.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T131311Z" creationid="quentine" creationdate="20191030T131311Z">
@@ -28840,6 +28976,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In a melee, if a character has cover against an opponent, that opponent probably has cover against the character, too.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T134041Z" creationid="qt911" creationdate="20210531T134041Z">
+        <seg>在近战战斗中，若角色对对方有掩蔽，对方对角色也会有相同的掩蔽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In a normal round, a character can perform an attack action and a move action (or two move actions; a character can always take a move action in place of an attack action), or a character can perform a full-round action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201119T125830Z" creationid="quentine" creationdate="20201119T125830Z">
@@ -28858,8 +29002,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>In addition to keeping a character warm and dry, coats and jackets provide additional concealment for things a character is carrying (they often qualify as loose or bulky clothing; see Concealed Weapons and Objects).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191113T142623Z" creationid="quentine" creationdate="20191113T142623Z">
-        <seg>外套和夹克除了能让角色保持温暖干爽，还能让角色更方便地隐藏物品（通常取决于衣服的宽松程度，见隐蔽的武器与物品）。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191113T142623Z">
+        <seg>外套和夹克除了能让角色保持温暖干爽，还能让角色更方便地隐藏物品（通常取决于衣服的宽松程度，见隐藏的武器与物品）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29372,6 +29516,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T133634Z" creationid="quentine" creationdate="20190806T133634Z">
         <seg>在一些情况下，多个角色可以合作来完成任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In such a case, if the cover is struck and the attack roll exceeds the Defense of the covering character, the covering character takes the damage intended for the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T142021Z" creationid="qt911" creationdate="20210531T141943Z">
+        <seg>在此情况下，若掩蔽被击中，而攻击骰大于等于提供掩蔽的角色的防御值，提供掩蔽的角色将替原目标承受伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31396,8 +31548,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Military and police forces use these weapons to create temporary concealment.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200508T123354Z" creationid="quentine" creationdate="20200508T123354Z">
-        <seg>军队和警察用它来制造临时的隐蔽环境。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20200508T123354Z">
+        <seg>军队和警察用它来制造临时的隐藏环境。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31892,8 +32044,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Note that a character can’t hide if he or she has less than one-half cover or concealment.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20191004T135051Z">
-        <seg>注意角色如果处于一半以下的掩蔽或隐蔽则不可躲藏。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191004T135051Z">
+        <seg>注意角色如果处于一半以下的掩蔽或隐藏则不可躲藏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33774,8 +33926,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>See Concealed Weapons and Objects.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191113T144309Z" creationid="quentine" creationdate="20191113T144309Z">
-        <seg>详见`隐蔽的武器与物品`。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191113T144309Z">
+        <seg>详见`隐藏的武器与物品`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34254,8 +34406,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Smoke also obscures vision, giving one-half concealment (20% miss chance) to characters within it.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190730T141611Z" creationid="quentine" creationdate="20190115T134140Z">
-        <seg>烟雾同样影响可见度，烟雾中的角色处于半隐蔽状态，并有20%失手率。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20190115T134140Z">
+        <seg>烟雾同样影响可见度，烟雾中的角色处于半隐藏状态，并有20%失手率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34758,8 +34910,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Spot DC = Target’s Sleight of Hand skill modifier (including modifiers from Table: Concealing Weapons and Objects) + 10</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191104T141551Z" creationid="quentine" creationdate="20191104T141551Z">
-        <seg>侦察DC=目标的手上功夫技能调整值（包括`表：隐蔽武器与物品`的调整值）+10</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191104T141551Z">
+        <seg>侦察DC=目标的手上功夫技能调整值（包括`表：隐藏武器与物品`的调整值）+10</seg>
       </tuv>
     </tu>
     <tu>
@@ -35174,8 +35326,24 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Table: Concealing Weapons and Objects</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191104T140531Z" creationid="quentine" creationdate="20191104T140531Z">
-        <seg>表：隐蔽武器与物品</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191104T140531Z">
+        <seg>表：隐藏武器与物品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table: Cover gives the Defense bonuses for different degrees of cover.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T135732Z" creationid="qt911" creationdate="20210531T135732Z">
+        <seg>`表：掩蔽`给出了不同掩蔽度提供的防御加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table: Cover gives the Reflex save bonuses for different degrees of cover.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T140202Z" creationid="qt911" creationdate="20210531T140202Z">
+        <seg>`表：掩蔽`给出了不同掩蔽度提供的反射豁免加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36046,8 +36214,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>The DC for concealed or less obvious threats is equal to their Hide check result.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190730T141623Z" creationid="quentine" creationdate="20190417T141504Z">
-        <seg>隐蔽或极不明显的目标，其侦察DC等于他们的躲藏检定结果。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20190417T141504Z">
+        <seg>隐藏或极不明显的目标，其侦察DC等于他们的躲藏检定结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36676,6 +36844,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The GM determines the value of cover.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T134734Z" creationid="qt911" creationdate="20210531T134734Z">
+        <seg>这个值由GM决定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The GM determines which characters are aware of their opponents at the start of the battle.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201111T102549Z" creationid="quentine" creationdate="20201111T102549Z">
@@ -36792,6 +36968,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190203T041240Z" creationid="quentine" creationdate="20190202T130000Z">
         <seg>GM不应允许破坏游戏体验的求援行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The GM may impose other penalties or restrictions on attacks depending on the details of the cover.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T134443Z" creationid="qt911" creationdate="20210531T134443Z">
+        <seg>GM可以根据掩蔽的具体细节酌情为攻击行为赋予减值与限制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39360,6 +39544,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The covering character has dodged out of the way and didn’t provide cover after all.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T142337Z" creationid="qt911" creationdate="20210531T142337Z">
+        <seg>相当于提供掩蔽的角色闪开了，不再提供任何掩蔽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The creative starting occupation covers artists of all types who fan their creative spark into a career.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181104T125349Z" creationid="QuenTine" creationdate="20181104T125349Z">
@@ -39450,16 +39642,16 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>The creature with the gaze attack gains total concealment against the opponent.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191031T125640Z" creationid="quentine" creationdate="20191031T125640Z">
-        <seg>凝视攻击的生物对此对手全隐蔽。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191031T125640Z">
+        <seg>凝视攻击的生物对此对手全隐藏。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The creature with the gaze attack, however, gains one-half concealment against that opponent.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191031T125418Z" creationid="quentine" creationdate="20191031T125418Z">
-        <seg>但凝视攻击的生物也对此对手半隐蔽。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191031T125418Z">
+        <seg>但凝视攻击的生物也对此对手半隐藏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40170,8 +40362,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>The hero can’t see at all, and thus everything has total concealment to him or her.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190730T141610Z" creationid="quentine" creationdate="20190115T120417Z">
-        <seg>英雄看不见任何东西，即任何事物对其来说都是隐蔽的。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20190115T120417Z">
+        <seg>英雄看不见任何东西，即任何事物对其来说都是隐藏的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40496,6 +40688,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The more cover a character has, the bigger the bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T133948Z" creationid="qt911" creationdate="20210531T133948Z">
+        <seg>角色的掩蔽越高，加值越多。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most common military grenade, this is a small explosive device that sprays shrapnel in all directions when it explodes.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200507T135532Z" creationid="quentine" creationdate="20200507T135532Z">
@@ -40618,8 +40818,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>The object’s size affects the check result, as shown on Table: Concealing Weapons and Objects.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191104T140119Z" creationid="quentine" creationdate="20191104T140119Z">
-        <seg>物品的大小影响检定结果，如`表：隐蔽武器与物品`所示。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191104T140119Z">
+        <seg>物品的大小影响检定结果，如`表：隐藏武器与物品`所示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41571,8 +41771,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>The two-shot weapon has one barrel atop the other and is barely 5 inches long, making it easy to conceal.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200418T023141Z" creationid="quentine" creationdate="20200418T023141Z">
-        <seg>这种双发武器的枪管是纵向排列的，上枪管比下枪管长5寸，易于隐蔽。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20200418T023141Z">
+        <seg>这种双发武器的枪管是纵向排列的，上枪管比下枪管长5寸，易于隐藏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42634,6 +42834,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This bonus only applies to attacks that originate or burst out from a point on the other side of the cover.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T140519Z" creationid="qt911" creationdate="20210531T140519Z">
+        <seg>该加值只对从掩蔽的另一面发起的攻击有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This bonus represents the armor’s ability to protect the character from blows.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T123054Z" creationid="quentine" creationdate="20190114T123044Z">
@@ -42678,6 +42886,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T125613Z" creationid="quentine" creationdate="20191031T125613Z">
         <seg>这可以通过背对此生物、闭眼、或者戴上眼罩头罩来实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can be particularly important to know in cases when a character uses another character as cover.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T141702Z" creationid="qt911" creationdate="20210531T141702Z">
+        <seg>这个判定在角色以另一个角色为掩蔽时，尤为重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42814,6 +43030,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190802T141642Z" creationid="quentine" creationdate="20190802T141642Z">
         <seg>这算作一次借机攻击，角色徒手也能进行的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This cover bonus overlaps (does not stack) with certain other bonuses.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T140143Z" creationid="qt911" creationdate="20210531T135918Z">
+        <seg>该掩蔽加值会覆盖（不叠加）特定的其他几种加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43588,6 +43812,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This measure is not a strict mathematical calculation, because a character gains more value from covering the parts of his or her body that are more likely to be struck.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T135148Z" creationid="qt911" creationdate="20210531T135148Z">
+        <seg>这个值并不是由严格的数学计算得出的，因为角色护住更容易受打击的部位时得到的掩蔽度更高，反之则低，具体情况很复杂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This medieval-era armor consists of metal plates that cover the entire body.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200527T134524Z" creationid="quentine" creationdate="20200527T134524Z">
@@ -44136,8 +44368,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>This weapon can be collapsed to reduce its size and increase its concealability.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T130609Z" creationid="quentine" creationdate="20200519T130609Z">
-        <seg>这种武器可以收缩，让尺寸更小，更易于隐蔽。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20200519T130609Z">
+        <seg>这种武器可以收缩，让尺寸更小，更易于隐藏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46622,6 +46854,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With ranged weapons, however, it’s easy to have better cover than the opponent.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T134155Z" creationid="qt911" creationdate="20210531T134155Z">
+        <seg>而在远程战斗中，有掩蔽的一方对对方更有优势。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With the GM’s permission, a character can make a Wealth check to see if he or she has a mundane object on hand, as long as the object has a purchase DC of 10 or lower.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T115952Z" creationid="quentine" creationdate="20191104T115952Z">
@@ -47032,6 +47272,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T142233Z" creationid="quentine" creationdate="20190804T142208Z">
         <seg>\* 若生物群体的体型不一，只以最大体型生物的调整值为准。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\* Half damage if save is failed; no damage if successful.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143158Z" creationid="qt911" creationdate="20210531T143158Z">
+        <seg>\* 检定失败则伤害折半；检定成功则免除伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47720,6 +47968,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>high wall)|+2|+1|
+|One-half (fighting from around a corner or a tree; standing at an open window; behind a creature of same size)|+4|+2|
+|Three-quarters (peering around a corner or a big tree)|+7|+3|
+|Nine-tenths (standing at an arrow slit; behind a door that’s slightly ajar)|+10|+4\*|
+|Total (on the other side of a solid wall)|—|—|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143116Z" creationid="qt911" creationdate="20210531T142649Z">
+        <seg>高的墙后）|+2|+1|
+|半（在墙角或树后战斗；站在敞开的窗边；在同等体型的生物后）|+4|+2|
+|3/4（在墙角或树后窥视）|+7|+3|
+|9/10（站在射击口之后；在虚掩的门后）|+10|+4\*|
+|全（在坚固的墙的另一边）|—|—|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>long\])|–4|
 |Huge (elephant)|–2|
 |Large (lion)|–1|
@@ -48332,7 +48596,7 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |Defender has cover|—–— See Cover —–—|
 |Defender concealed or invisible|— See Concealment —|</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T143739Z" creationid="qt911" creationdate="20210530T141655Z">
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="qt911" creationdate="20210530T141655Z">
         <seg>|情景|近战|远程|
 |------------|:---:|:----:|
 |防御方坐着或跪着|–2|+2\*|
@@ -48345,7 +48609,7 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |防御方被压制|–4\*\*\*\*|+0\*\*\*\*|
 |防御方陷入无助（诸如麻痹、沉睡或束缚）|+0\*\*|+0\*\*|
 |防御方有掩蔽|—–— 见`掩蔽` —–—|
-|防御方隐蔽或隐形|— 见`隐蔽` —|</seg>
+|防御方隐藏或隐形|— 见`隐藏` —|</seg>
       </tuv>
     </tu>
     <tu>
@@ -49289,8 +49553,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |Three-quarters|+5|
 |Nine-tenths|+10|</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20191004T135107Z">
-        <seg>|掩蔽或隐蔽|情景加值|
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191004T135107Z">
+        <seg>|掩蔽或隐藏|情景加值|
 |--------------------|:----------------:|
 |四分之三|+5|
 |十分之九|+10|</seg>
@@ -49458,6 +49722,18 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |2d8|0.5磅|0.5磅|0.5磅|1.0磅|1.0磅|2.0磅|
 |2d10|0.5磅|1.0磅|1.0磅|1.5磅|1.5磅|3.0磅|
 |2d12|1.0磅|2.0磅|3.0磅|4.0磅|5.0磅|10.0磅|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Degree of Cover (Example)|Cover Bonus to Defense|Reflex Saves|
+|-------------------------|:--------------------:|:----------:|
+|One-quarter (standing behind a 3-ft.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T142635Z" creationid="qt911" creationdate="20210531T142635Z">
+        <seg>|掩蔽度（范例）|防御的掩蔽加值|反射豁免|
+|-------------------------|:--------------------:|:----------:|
+|1/4（站在三尺</seg>
       </tuv>
     </tu>
     <tu>
