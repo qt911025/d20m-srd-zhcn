@@ -621,43 +621,43 @@ GM可以根据掩蔽的具体细节酌情为攻击行为赋予减值与限制。
 
 ### 隐藏
 
-Concealment includes all circumstances in which nothing physically blocks a blow or shot, but something interferes with an attacker’s accuracy.
+隐藏涵盖了所有除物理阻隔因素外，影响攻击方精度的情况。
 
-### Degree of Concealment
+### 隐藏度
 
-Concealment is subjectively measured as to how well concealed the defender is. Examples of what might qualify as concealment of various degrees are given in Table: Concealment. Concealment always depends on the point of view of the attacker.
+隐藏度是防御方隐藏得多好的主观估值。各种隐藏情况代表的隐藏度详见`表：隐藏`隐藏总是取决于攻击方的视野。
 
-### Concealment Miss Chance
+### 隐藏失手几率
 
-Concealment gives the subject of a successful attack a chance that the attacker missed because of the concealment. If the attacker hits, the defender must make a miss chance percentile roll to avoid being struck. (Actually, it doesn’t matter who makes the roll or whether it’s rolled before or after the attack roll. When multiple concealment conditions apply to a defender, use the one that would produce the highest miss chance. Do not add the miss chances together.
+隐藏会让成功发起攻击的一方有一定几率因隐藏而失手。若攻击方命中，防御方必须做一个失手几率百分骰来避免被命中。（实际上，这个掷骰在攻击骰之前或之后掷出都可以。当符合多个隐藏情况时，只应用提供失手率最大的那个。不要将失手几率叠加。
 
-**Table: Concealment**
+**表：隐藏**
 
-|Concealment (Example)|Miss Chance|
+|隐藏（范例）|失手几率|
 |---------------------|:---------:|
-|One-quarter (light fog; light foliage)|10%|
-|One-half (shadows; dense fog at 5 ft.)|20%|
-|Three-quarters (dense foliage)|30%|
-|Nine-tenths (near total darkness)|40%|
-|Total (attacker blind; total darkness; smoke grenade; dense fog at 10 ft.)|50% and must guess target’s location|
+|1/4（薄雾；稀疏的植被）|10%|
+|半（阴影中；浓雾且目标在5尺内）|20%|
+|3/4（茂密的植被）|30%|
+|9/10（几乎全黑）|40%|
+|全（攻击方目盲；全黑；烟雾弹；浓雾且目标在10尺内）|50%且必须猜测目标的位置|
 
-## Helpless Defenders
+## 无助的防御方
 
-A helpless foe—one who is bound, sleeping, unconscious, or otherwise at the attacker’s mercy—is an easy target. A character can sometimes approach a target who is unaware of his or her presence, get adjacent to the target, and treat him or her as helpless. If the target is in combat or some other tense situation, and therefore in a state of acute awareness and readiness, or if the target can use his or her Dexterity bonus to Defense, then that target can’t be considered unaware. Further, any reasonable precaution taken by a target, including stationing bodyguards, placing his or her back to a wall, or being able to make Spot checks, also precludes catching that target unaware and helpless.
+无助的敌人——处于被束缚、沉睡、昏迷以及其他任攻击者摆布的情况——都是些容易得手的目标。角色有时可以在对方未觉察的情况下靠近目标，视目标为无助状态。如果目标处于战斗中或其他紧张的情况，且因此处于紧张的警觉与待命状态，或者目标处于可在防御中应用敏捷加值的情形，则目标不可被视为未觉察。由此引申到目标采取的任何合理预防措施时，包括站岗放哨、靠墙、可以随时做侦察检定的状态，目标也不能被视为未觉察以及无助。
 
-### Regular Attack
+### 常规攻击
 
-A helpless defender has an effective Defense of 5 + his or her size modifier. If a character is attacking with a ranged weapon and is not adjacent to the target, the character can use a full-round action to make the attack, and gain a +5 bonus on the attack roll. If the character is attacking with a melee weapon, or with a ranged weapon from an adjacent square, the character can use a full-round action to deliver a coup de grace.
+无助的防御方的有效防御值为5+体型调整值。若角色以远程武器攻击，且未与目标相邻，角色可以用一个整轮动作来攻击，攻击骰获得5点加值。若角色以近战武器攻击，或在相邻方格以远程武器攻击，角色可用一个整轮动作来发起`致命一击`。
 
-### Coup de Grace
+### 致命一击
 
-As a full-round action, a character can use a melee weapon to deliver a coup de grace to a helpless foe. A character can also use a ranged weapon, pro-vided the character is adjacent to the target. The character automatically hits and score a critical hit. If the defender survives the damage, he or she still must make a Fortitude save (DC 10 + damage dealt) or die.
+角色可以用近战武器以一个整轮动作对无助的敌人发起致命一击。若角色与目标相邻，角色也能用远程武器致命一击。角色会直接命中且造成重击。若防御方在受到伤害后仍存活，防御方仍然必须做一次强韧豁免（DC10+造成的伤害），失败则死亡。
 
-Delivering a coup de grace provokes attacks of opportunity from threatening foes because it involves focused concentration and methodical action.
+施加致命一击会引发正在威胁自己的敌人的借机攻击，因为致命一击是一个需要全神贯注、不容出错的动作。
 
-A character can’t deliver a coup de grace against a creature that is immune to critical hits.
+角色不能对免疫重击的生物发起致命一击。
 
-### Knockout Blow
+### 击倒攻击
 
 As a full-round action, a character can make an unarmed attack or use a melee weapon that deals nonlethal damage to deliver a knockout blow to a helpless foe. A character can also use a melee weapon that deals lethal damage, but the character takes a –4 penalty on any attempt to deal nonlethal damage with the weapon. The target has an effective Defense of 5 + his or her size modifier. If the character hits, he or she automatically scores a critical hit (see Nonlethal Damage).
 

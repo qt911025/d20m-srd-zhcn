@@ -1370,3 +1370,6 @@ total darkness	完全黑暗
 Passing Through	越过
 bound	束缚
 sleeping	沉睡
+Chance	几率
+unaware	未觉察
+Knockout Blow	击倒攻击

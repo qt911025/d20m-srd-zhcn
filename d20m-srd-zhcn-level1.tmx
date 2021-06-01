@@ -1144,6 +1144,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Helpless Defenders</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T135719Z" creationid="qt911" creationdate="20210601T135719Z">
+        <seg>## 无助的防御方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Heroic GM Characters</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T123519Z" creationid="quentine" creationdate="20190703T123519Z">
@@ -2784,6 +2792,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Concealment Miss Chance</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T134538Z" creationid="qt911" creationdate="20210601T134538Z">
+        <seg>### 隐藏失手几率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Confident</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190731T121056Z" creationid="quentine" creationdate="20190731T121056Z">
@@ -2796,6 +2812,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191111T131927Z" creationid="quentine" creationdate="20191111T131927Z">
         <seg>### 维修工具包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Coup de Grace</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T142024Z" creationid="qt911" creationdate="20210601T142024Z">
+        <seg>### 致命一击</seg>
       </tuv>
     </tu>
     <tu>
@@ -2932,6 +2956,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190731T122621Z" creationid="quentine" creationdate="20190731T122621Z">
         <seg>### 防御武术</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Degree of Concealment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T133808Z" creationid="qt911" creationdate="20210601T133808Z">
+        <seg>### 隐藏度</seg>
       </tuv>
     </tu>
     <tu>
@@ -3640,6 +3672,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Knockout Blow</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T143230Z" creationid="qt911" creationdate="20210601T143230Z">
+        <seg>### 击倒攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Knockout Punch</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190802T150851Z" creationid="quentine" creationdate="20190802T150851Z">
@@ -4196,6 +4236,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T111423Z" creationid="quentine" creationdate="20190115T111423Z">
         <seg>### 在没有帮助的情况下恢复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Regular Attack</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T141623Z" creationid="qt911" creationdate="20210601T141623Z">
+        <seg>### 常规攻击</seg>
       </tuv>
     </tu>
     <tu>
@@ -7068,6 +7116,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T125148Z" creationid="quentine" creationdate="20191027T125148Z">
         <seg>（角色无剩余移动动作时不可使用此检定，检定自动失败。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Actually, it doesn’t matter who makes the roll or whether it’s rolled before or after the attack roll.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T135005Z" creationid="qt911" creationdate="20210601T135005Z">
+        <seg>（实际上，这个掷骰在攻击骰之前或之后掷出都可以。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10230,8 +10286,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>**Greater Inspiration:** The Charismatic hero can inspire his or her allies to even greater heights, bolstering them and improving their chances of success.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190216T075150Z" creationid="quentine" creationdate="20190216T075150Z">
-        <seg>**高级激励：** 魅力型英雄可以更有效地激励友方，在背后支持他们，提高他们的成功机会。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T134327Z" creationid="quentine" creationdate="20190216T075150Z">
+        <seg>**高级激励：** 魅力型英雄可以更有效地激励友方，在背后支持他们，提高他们的成功几率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10558,8 +10614,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>**Inspiration:** The Charismatic hero can inspire his or her allies, bolstering them and improving their chances of success.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190216T074257Z" creationid="quentine" creationdate="20190216T074257Z">
-        <seg>**激励：** 魅力型英雄可以激励友方，在背后支持他们，提高他们的成功机会。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T134251Z" creationid="quentine" creationdate="20190216T074257Z">
+        <seg>**激励：** 魅力型英雄可以激励友方，在背后支持他们，提高他们的成功几率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12981,6 +13037,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Table: Concealment**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T135156Z" creationid="qt911" creationdate="20210601T135156Z">
+        <seg>**表：隐藏**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Table: Cover**</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210531T142443Z" creationid="qt911" creationdate="20210531T142443Z">
@@ -15021,8 +15085,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>A bonus on a character’s skill modifier or a reduction in the DC of the check have the same result—they create a better chance for success.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190806T125450Z" creationid="quentine" creationdate="20190806T125450Z">
-        <seg>角色技能调整值的增加和DC的降低结果是相同的——都是让成功机会更大。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T134433Z" creationid="quentine" creationdate="20190806T125450Z">
+        <seg>角色技能调整值的增加和DC的降低结果是相同的——都是让成功几率更大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15175,6 +15239,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201119T125927Z" creationid="quentine" creationdate="20201119T125927Z">
         <seg>角色也可以做几个即时动作，只要GM允许。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can also use a ranged weapon, pro-vided the character is adjacent to the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T142235Z" creationid="qt911" creationdate="20210601T142235Z">
+        <seg>若角色与目标相邻，角色也能用远程武器致命一击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15515,6 +15587,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can sometimes approach a target who is unaware of his or her presence, get adjacent to the target, and treat him or her as helpless.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T141033Z" creationid="qt911" creationdate="20210601T140419Z">
+        <seg>角色有时可以在对方未觉察的情况下靠近目标，视目标为无助状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can specify that his or her unarmed strike will deal lethal damage before the character makes his or her attack roll, but the character takes a –4 penalty on the attack roll because he or she has to strike a particularly vulnerable spot to deal lethal damage.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20201224T142114Z" creationid="qt911" creationdate="20201224T142114Z">
@@ -15799,6 +15879,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T134519Z" creationid="quentine" creationdate="20191025T134459Z">
         <seg>如果角色不知道目的地的位置，是不能以这种形式的寻路检定找到正确的岔路的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can’t deliver a coup de grace against a creature that is immune to critical hits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T142747Z" creationid="qt911" creationdate="20210601T142747Z">
+        <seg>角色不能对免疫重击的生物发起致命一击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17351,6 +17439,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T123552Z" creationid="quentine" creationdate="20190115T123552Z">
         <seg>无助的角色的有效防御值为5+体型调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A helpless defender has an effective Defense of 5 + his or her size modifier.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T141717Z" creationid="qt911" creationdate="20210601T141717Z">
+        <seg>无助的防御方的有效防御值为5+体型调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A helpless foe—one who is bound, sleeping, unconscious, or otherwise at the attacker’s mercy—is an easy target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T140245Z" creationid="qt911" creationdate="20210601T140245Z">
+        <seg>无助的敌人——处于被束缚、沉睡、昏迷以及其他任攻击者摆布的情况——都是些容易得手的目标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20685,6 +20789,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As a full-round action, a character can use a melee weapon to deliver a coup de grace to a helpless foe.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T142151Z" creationid="qt911" creationdate="20210601T142151Z">
+        <seg>角色可以用近战武器以一个整轮动作对无助的敌人发起致命一击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As a full-round action, a character may attempt to notice something that he or she failed (or believe he or she failed) to notice previously.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T135733Z" creationid="quentine" creationdate="20191027T135733Z">
@@ -23177,6 +23289,38 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Concealment always depends on the point of view of the attacker.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T134054Z" creationid="qt911" creationdate="20210601T134054Z">
+        <seg>隐藏总是取决于攻击方的视野。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Concealment gives the subject of a successful attack a chance that the attacker missed because of the concealment.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T134716Z" creationid="qt911" creationdate="20210601T134716Z">
+        <seg>隐藏会让成功发起攻击的一方有一定几率因隐藏而失手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Concealment includes all circumstances in which nothing physically blocks a blow or shot, but something interferes with an attacker’s accuracy.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T133803Z" creationid="qt911" creationdate="20210601T133803Z">
+        <seg>隐藏涵盖了所有除物理阻隔因素外，影响攻击方精度的情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Concealment is subjectively measured as to how well concealed the defender is.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T133915Z" creationid="qt911" creationdate="20210601T133915Z">
+        <seg>隐藏度是防御方隐藏得多好的主观估值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Concentration (Con), Craft (structural, visual arts, writing) (Int), Diplomacy (Cha), Knowledge (behavioral sciences, earth and life sciences, theology and philosophy) (Int), Listen (Wis), Profession (Wis), Read/Write Language (none), Sense Motive, Speak Language (none), Spellcraft (Int), Treat Injury (Wis).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190627T134242Z" creationid="quentine" creationdate="20190627T134242Z">
@@ -23582,6 +23726,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delivering a coup de grace provokes attacks of opportunity from threatening foes because it involves focused concentration and methodical action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T142703Z" creationid="qt911" creationdate="20210601T142703Z">
+        <seg>施加致命一击会引发正在威胁自己的敌人的借机攻击，因为致命一击是一个需要全神贯注、不容出错的动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deluxe: A deluxe kit includes all the materials in a basic kit, plus supplies for analyzing narcotic substances at the scene and for gathering more esoteric forms of physical evidence such as casts and molds of footprints or vehicle tracks, as well as chemical residues and organic fluids.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200115T092818Z" creationid="quentine" creationdate="20200115T092818Z">
@@ -23858,6 +24010,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T131945Z" creationid="quentine" creationdate="20190806T131945Z">
         <seg>分心和威胁会让角色无法取10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do not add the miss chances together.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T135144Z" creationid="qt911" creationdate="20210601T135132Z">
+        <seg>不要将失手几率叠加。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24702,6 +24862,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Examples of what might qualify as concealment of various degrees are given in Table: Concealment.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T134010Z" creationid="qt911" creationdate="20210601T134010Z">
+        <seg>各种隐藏情况代表的隐藏度详见`表：隐藏`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Except as noted here, fast healing works just like natural healing.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T122620Z" creationid="quentine" creationdate="20191031T122620Z">
@@ -25490,6 +25658,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T125901Z" creationid="qt911" creationdate="20210105T125901Z">
         <seg>全力攻击是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further, any reasonable precaution taken by a target, including stationing bodyguards, placing his or her back to a wall, or being able to make Spot checks, also precludes catching that target unaware and helpless.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T141617Z" creationid="qt911" creationdate="20210601T141305Z">
+        <seg>由此引申到目标采取的任何合理预防措施时，包括站岗放哨、靠墙、可以随时做侦察检定的状态，目标也不能被视为未觉察以及无助。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26318,6 +26494,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a character is attacking with a ranged weapon and is not adjacent to the target, the character can use a full-round action to make the attack, and gain a +5 bonus on the attack roll.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T141821Z" creationid="qt911" creationdate="20210601T141821Z">
+        <seg>若角色以远程武器攻击，且未与目标相邻，角色可以用一个整轮动作来攻击，攻击骰获得5点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If a character is making a melee attack against an opponent, and an ally directly opposite the character is threatening the opponent, the character and his or her ally flank the opponent.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T135810Z" creationid="qt911" creationdate="20210530T135810Z">
@@ -27062,6 +27246,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the attacker hits, the defender must make a miss chance percentile roll to avoid being struck.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T134825Z" creationid="qt911" creationdate="20210601T134825Z">
+        <seg>若攻击方命中，防御方必须做一个失手几率百分骰来避免被命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the attempt is successful, that character provides the purchaser with a +2 bonus on his or her Wealth check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T134201Z" creationid="QuenTine" creationdate="20181106T141532Z">
@@ -27554,6 +27746,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201119T124810Z" creationid="quentine" creationdate="20201119T124810Z">
         <seg>如果角色有`双持`专长，则可以同时拔出两把轻武器或单手武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character is attacking with a melee weapon, or with a ranged weapon from an adjacent square, the character can use a full-round action to deliver a coup de grace.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T142020Z" creationid="qt911" creationdate="20210601T142020Z">
+        <seg>若角色以近战武器攻击，或在相邻方格以远程武器攻击，角色可用一个整轮动作来发起`致命一击`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28142,6 +28342,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the defender survives the damage, he or she still must make a Fortitude save (DC 10 + damage dealt) or die.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T142437Z" creationid="qt911" creationdate="20210601T142437Z">
+        <seg>若防御方在受到伤害后仍存活，防御方仍然必须做一次强韧豁免（DC10+造成的伤害），失败则死亡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the device is monitored, the fact that the character attempted to disable it will probably be noticed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190925T113608Z" creationid="quentine" creationdate="20190925T113608Z">
@@ -28522,6 +28730,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190526T120110Z" creationid="quentine" creationdate="20190526T120110Z">
         <seg>如果豁免失败，目标将如下述规则产生情绪效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the target is in combat or some other tense situation, and therefore in a state of acute awareness and readiness, or if the target can use his or her Dexterity bonus to Defense, then that target can’t be considered unaware.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T141040Z" creationid="qt911" creationdate="20210601T140913Z">
+        <seg>如果目标处于战斗中或其他紧张的情况，且因此处于紧张的警觉与待命状态，或者目标处于可在防御中应用敏捷加值的情形，则目标不可被视为未觉察。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32120,8 +32336,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>Offering money or another form of favor can, in the right situation, improve a character’s chances with a Diplomacy skill check.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190924T134749Z" creationid="quentine" creationdate="20190924T134749Z">
-        <seg>在正确的情境下，提供金钱或者其他形式的帮助可以提高角色的交涉技能效果。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T134446Z" creationid="quentine" creationdate="20190924T134749Z">
+        <seg>在正确的情境下，提供金钱或者其他形式的帮助可以提高角色的交涉技能检定成功率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34306,8 +34522,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>Smoke also obscures vision, giving one-half concealment (20% miss chance) to characters within it.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20190115T134140Z">
-        <seg>烟雾同样影响可见度，烟雾中的角色处于半隐藏状态，并有20%失手率。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T134240Z" creationid="quentine" creationdate="20190115T134140Z">
+        <seg>烟雾同样影响可见度，烟雾中的角色处于半隐藏状态，并有20%失手几率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38392,6 +38608,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The character automatically hits and score a critical hit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T142307Z" creationid="qt911" creationdate="20210601T142307Z">
+        <seg>角色会直接命中且造成重击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The character can also use the skill to tell when someone is behaving oddly or to assess someone’s trustworthiness.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T131118Z" creationid="quentine" creationdate="20191027T131118Z">
@@ -38836,8 +39060,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>The character has a 50% chance to miss in combat.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190115T120430Z" creationid="quentine" creationdate="20190115T120430Z">
-        <seg>角色战斗有50%的机会失手。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T134229Z" creationid="quentine" creationdate="20190115T120430Z">
+        <seg>角色战斗有50%的几率失手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45948,8 +46172,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>When casting an arcane spell with a somatic component, the chance of arcane spell failure depends on the type of armor being worn and whether the Mage has the appropriate Armor Proficiency feat, as shown below.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190623T121427Z" creationid="quentine" creationdate="20190623T121427Z">
-        <seg>当施展需要身体姿势的魔法时，施法失败率取决于穿着的护甲类型以及法师是否擅长使用身着的护甲类型。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T134342Z" creationid="quentine" creationdate="20190623T121427Z">
+        <seg>当施展需要身体姿势的魔法时，施法失败几率取决于穿着的护甲类型以及法师是否擅长使用身着的护甲类型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46086,6 +46310,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T133902Z" creationid="quentine" creationdate="20190805T133902Z">
         <seg>当进行一次技能检定时，角色将技能级数与骰点相加，作为技能的调整值的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When multiple concealment conditions apply to a defender, use the one that would produce the highest miss chance.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T135112Z" creationid="qt911" creationdate="20210601T135112Z">
+        <seg>当符合多个隐藏情况时，只应用提供失手率最大的那个。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49286,6 +49518,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
 |远程控制模块 100尺|+1|
 |远程控制模块 200尺|+3|
 |远程控制模块 300尺|+5|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Concealment (Example)|Miss Chance|
+|---------------------|:---------:|
+|One-quarter (light fog; light foliage)|10%|
+|One-half (shadows; dense fog at 5 ft.)|20%|
+|Three-quarters (dense foliage)|30%|
+|Nine-tenths (near total darkness)|40%|
+|Total (attacker blind; total darkness; smoke grenade; dense fog at 10 ft.)|50% and must guess target’s location|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210601T135711Z" creationid="qt911" creationdate="20210601T135711Z">
+        <seg>|隐藏（范例）|失手几率|
+|---------------------|:---------:|
+|1/4（薄雾；稀疏的植被）|10%|
+|半（阴影中；浓雾且目标在5尺内）|20%|
+|3/4（茂密的植被）|30%|
+|9/10（几乎全黑）|40%|
+|全（攻击方目盲；全黑；烟雾弹；浓雾且目标在10尺内）|50%且必须猜测目标的位置|</seg>
       </tuv>
     </tu>
     <tu>
