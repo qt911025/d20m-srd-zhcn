@@ -1824,6 +1824,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Special Initiative Actions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T124242Z" creationid="qt911" creationdate="20210602T124242Z">
+        <seg>## 特殊先攻动作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Speed</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121359Z" creationid="quentine" creationdate="20201118T121359Z">
@@ -3004,6 +3012,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210531T134449Z" creationid="qt911" creationdate="20210531T134449Z">
         <seg>### 掩蔽度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Delay</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T124750Z" creationid="qt911" creationdate="20210602T124425Z">
+        <seg>### 延迟</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Delaying Limits</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T125858Z" creationid="qt911" creationdate="20210602T125858Z">
+        <seg>### 延迟的限制</seg>
       </tuv>
     </tu>
     <tu>
@@ -4262,6 +4286,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T114214Z" creationid="quentine" creationdate="20200410T114214Z">
         <seg>### 远程武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Ready</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T131012Z" creationid="qt911" creationdate="20210602T131012Z">
+        <seg>### 准备</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Readying an Action</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T132436Z" creationid="qt911" creationdate="20210602T132436Z">
+        <seg>### 准备一个动作</seg>
       </tuv>
     </tu>
     <tu>
@@ -7486,6 +7526,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210106T124435Z" creationid="qt911" creationdate="20210106T124435Z">
         <seg>（角色不能做五尺快步。）角色试图撤退时，起点的方格不算威胁范围，敌人不能借机攻击正在撤退且处于起点方格的角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(The character’s move action, and the attack action he or she readies, may both provoke attacks of opportunity normally.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T132429Z" creationid="qt911" creationdate="20210602T132429Z">
+        <seg>（但所准备的动作，无论是移动动作还是攻击动作，都会像正常情况一样，可能引发借机攻击。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -15301,6 +15349,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can also use a melee weapon that deals lethal damage, but the character takes a –4 penalty on any attempt to deal nonlethal damage with the weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T124031Z" creationid="qt911" creationdate="20210602T124031Z">
+        <seg>角色也可以用致命近战武器造成非致命伤害，但这么做的话，攻击骰要承受4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can also use a ranged weapon, pro-vided the character is adjacent to the target.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210601T142235Z" creationid="qt911" creationdate="20210601T142235Z">
@@ -15581,6 +15637,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can ready an attack action or a move action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T132452Z" creationid="qt911" creationdate="20210602T132452Z">
+        <seg>角色可以准备一个攻击动作或移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can reduce these penalties in two ways.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T132149Z" creationid="qt911" creationdate="20210105T132149Z">
@@ -15813,6 +15877,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can take a 5-foot step as part of his or her readied action, but only if the character didn’t otherwise move any distance during the round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T134300Z" creationid="qt911" creationdate="20210602T134300Z">
+        <seg>角色可以在准备中做一个五尺快步，但只能在本轮内角色没有进行任何移动时才能这么做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can take a move action before or after performing an attack action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201119T130356Z" creationid="quentine" creationdate="20201119T130356Z">
@@ -15909,6 +15981,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character cannot interrupt anyone’s action with a delayed action (as a character can with a readied action; see below).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T131157Z" creationid="qt911" creationdate="20210602T125849Z">
+        <seg>角色不能用延迟行动打断他人的行动（不能像准备行动那样打断；见下文）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character cannot jump a distance greater than his or her normal speed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191021T135533Z" creationid="quentine" creationdate="20191021T135533Z">
@@ -15945,6 +16025,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210601T142747Z" creationid="qt911" creationdate="20210601T142747Z">
         <seg>角色不能对免疫重击的生物发起致命一击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can’t deliver a knockout blow against a creature that is immune to critical hits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T124227Z" creationid="qt911" creationdate="20210602T124227Z">
+        <seg>角色不能对免疫重击的生物发起击倒攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19191,6 +19279,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Again, the character cannot interrupt an action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T131007Z" creationid="qt911" creationdate="20210602T131007Z">
+        <seg>即使如此，角色还是不能打断他人行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Against a nonintelligent creature, feinting is impossible.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190808T134141Z" creationid="quentine" creationdate="20190808T134141Z">
@@ -20847,6 +20943,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As a full-round action, a character can make an unarmed attack or use a melee weapon that deals nonlethal damage to deliver a knockout blow to a helpless foe.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T123824Z" creationid="qt911" creationdate="20210602T123824Z">
+        <seg>角色可以徒手或用非致命近战武器，以一个整轮动作对无助的敌人发起击倒攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As a full-round action, a character can use a melee weapon to deliver a coup de grace to a helpless foe.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210601T142151Z" creationid="qt911" creationdate="20210601T142151Z">
@@ -22063,6 +22167,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At that point, the delaying character must act or else forfeit any action in that round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T130122Z" creationid="qt911" creationdate="20210602T130122Z">
+        <seg>这时，角色必须行动，否则将丧失本轮的行动机会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At the GM’s discretion, certain kinds of climbing attempts might require only a rope or some other implement, or even just one’s hands and feet, rather than a full set of climbing gear to avoid the penalty.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190808T143831Z" creationid="quentine" creationdate="20190808T143831Z">
@@ -22755,6 +22867,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181106T140013Z" creationid="QuenTine" creationdate="20181106T140013Z">
         <seg>购买稀有物品大概要花掉与物品或服务的购买DC相等的小时数，这反映了查找所需的材料和结束交易所需要的时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By choosing to delay, the character takes no action and then acts normally at whatever point in the initiative count the character decides to act.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T125116Z" creationid="qt911" creationdate="20210602T125116Z">
+        <seg>通过选择延迟，角色将不采取行动，角色选择一个先攻值，并在轮到该先攻值时，角色再正常行动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23800,6 +23920,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delivering a knockout blow provokes attacks of opportunity from threatening foes because it involves focused concentration and methodical action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T124214Z" creationid="qt911" creationdate="20210602T124214Z">
+        <seg>施加击倒重击会引发正在威胁自己的敌人的借机攻击，因为致命一击是一个需要全神贯注、不容出错的动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Deluxe: A deluxe kit includes all the materials in a basic kit, plus supplies for analyzing narcotic substances at the scene and for gathering more esoteric forms of physical evidence such as casts and molds of footprints or vehicle tracks, as well as chemical residues and organic fluids.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200115T092818Z" creationid="quentine" creationdate="20200115T092818Z">
@@ -24720,6 +24848,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Essentially, the character splits his or her action, taking the move action on the character’s initiative count and the attack action at a later point.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T131700Z" creationid="qt911" creationdate="20210602T131700Z">
+        <seg>本质上，准备就是角色将一个动作一分为二，在先攻轮到角色时花费一个移动动作，而在之后的一个时间点上花费一个攻击动作来完成这个动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Evasion can only be used when wearing light armor or no armor.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190117T124505Z" creationid="quentine" creationdate="20190117T122324Z">
@@ -25612,6 +25748,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191111T135118Z" creationid="quentine" creationdate="20191111T135118Z">
         <seg>绝大多数情况下，衣物的选择基于角色性质。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the rest of the encounter, it is the count on which the character took the readied action, and the character acts immediately ahead of the character whose action triggered the readied action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T134149Z" creationid="qt911" creationdate="20210602T134149Z">
+        <seg>当角色触发准备动作时，角色先攻值将改为做出准备动作时候的值，也就是触发动作开始前的时间点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26576,6 +26720,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a character loses an action due to delaying, he or she may act on any count on the next turn.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T130915Z" creationid="qt911" creationdate="20210602T130915Z">
+        <seg>若角色因延迟丧失行动机会，则可在下一轮以任何先攻值行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If a character moves no actual distance in a round, that character can take one 5-foot step before, during, or after the action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201119T131158Z" creationid="quentine" creationdate="20201119T131158Z">
@@ -26932,6 +27084,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T115532Z" creationid="quentine" creationdate="20190115T115532Z">
         <seg>如果角色受到多个状态影响，如果可以的话，都应用之。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If multiple characters are delaying, the one with the highest initiative modifier (or highest Dexterity, in case of a tie) has the advantage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T130343Z" creationid="qt911" creationdate="20210602T130319Z">
+        <seg>如果多个角色选择延迟，拥有最高先攻调整值的角色（相同则比较敏捷）占优势。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27416,6 +27576,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character comes to his or her next action and has not yet performed the readied action, the character doesn’t get to take the readied action (though the character can ready the same action again).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T134627Z" creationid="qt911" creationdate="20210602T134627Z">
+        <seg>如果角色直到下次行动都没有完成准备的动作，角色将不能完成这个准备的动作（只能重新准备）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character comes to the attention of people who are suspicious, the suspicious person gets to make a Spot check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190925T125848Z" creationid="quentine" creationdate="20190925T125848Z">
@@ -27824,6 +27992,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character hits, he or she automatically scores a critical hit (see Nonlethal Damage).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T124137Z" creationid="qt911" creationdate="20210602T124137Z">
+        <seg>如果命中，角色直接造成重击（见`非致命伤害`）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character is attacking with a melee weapon, or with a ranged weapon from an adjacent square, the character can use a full-round action to deliver a coup de grace.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210601T142020Z" creationid="qt911" creationdate="20210601T142020Z">
@@ -28108,6 +28284,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190807T122703Z" creationid="quentine" creationdate="20190807T122703Z">
         <seg>如果角色承受伤害，角色必须再做一次平衡检定以保持站立。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character takes his or her readied action in the next round, before his or her regular turn comes up, the character’s initiative count rises to that new point in the order of battle, and he or she does not get your regular action that round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T134852Z" creationid="qt911" creationdate="20210602T134852Z">
+        <seg>如果角色在下一轮的自己回合之前完成准备的动作，角色的先攻值将调整至该处，并丧失该轮的行动机会。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28880,6 +29064,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the trigger is part of another character’s actions, the readied action interrupts the other character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T133012Z" creationid="qt911" creationdate="20210602T133012Z">
+        <seg>如果触发条件是其他角色的动作，该准备动作将打断目标角色的动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the turning check result is equal to or greater than the turning check result that the good Acolyte scored when turning them, then the creatures are no longer turned.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T114040Z" creationid="quentine" creationdate="20190703T113519Z">
@@ -29004,6 +29196,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T141957Z" creationid="quentine" creationdate="20201118T141957Z">
         <seg>如果两个或者更多的作战者有相同的先攻值，那么有较高总先攻调整值（包括敏捷调整值和可能有的精通先攻加值）的作战者先行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If two or more delaying characters are trying to go after one another, the one with the highest initiative modifier gets to go last; the others must go first or lose their action for the round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T130813Z" creationid="qt911" creationdate="20210602T130813Z">
+        <seg>如果多个角色想在其他人之后行动，先攻调整值最高者优先靠后，其他人若不行动则视为放弃该行动机会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If two or more delaying characters both want to act on the same initiative count, the one with the highest initiative modifier gets to go first.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T130423Z" creationid="qt911" creationdate="20210602T130423Z">
+        <seg>如果多个角色都想要在同一个先攻值行动，先攻调整值最高的角色先行动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32538,6 +32746,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the character’s turn, he or she prepares to take an action later, if a specific trigger is met.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T132017Z" creationid="qt911" creationdate="20210602T131841Z">
+        <seg>在角色的回合，角色准备一个动作，在并在特定的触发条件下做出这个动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the following round, it fills a 10-foot radius, and on the third round it fills a 15-foot radius.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200508T124624Z" creationid="quentine" creationdate="20200508T124624Z">
@@ -33744,6 +33960,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T133450Z" creationid="quentine" creationdate="20190805T133450Z">
         <seg>级数代表角色此技能的训练程度和经验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Readying does not provoke an attack of opportunity.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T132154Z" creationid="qt911" creationdate="20210602T132154Z">
+        <seg>准备不会引发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38854,6 +39078,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The character can specify this new initiative result or just wait until some time later in the round and act then, thus fixing the character’s new initiative count at that point.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T125653Z" creationid="qt911" creationdate="20210602T125653Z">
+        <seg>角色可以预先指定新先攻值，或者只是在同一轮内等待一定时间，在决定行动时确定新的先攻值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The character can still only make one attack of opportunity on a single opponent.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190802T141421Z" creationid="quentine" creationdate="20190731T115715Z">
@@ -39564,6 +39796,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T112206Z" creationid="quentine" creationdate="20190115T112206Z">
         <seg>角色当前的生命值会维持原状，即使生命值为负数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The character’s initiative count changes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T133526Z" creationid="qt911" creationdate="20210602T133526Z">
+        <seg>主体角色的先攻值也会改变。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40800,6 +41040,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The longest a character can delay before taking an action is until after everyone else has acted in the round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T130013Z" creationid="qt911" creationdate="20210602T130013Z">
+        <seg>角色最长能延迟到所有人都完成本轮的动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The loss is permanent.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T120255Z" creationid="quentine" creationdate="20190115T120255Z">
@@ -41100,6 +41348,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T144023Z" creationid="quentine" creationdate="20190804T144023Z">
         <seg>对手的伤害骰则如常应用力量调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The other character continues his or her actions once the readied action is completed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T133454Z" creationid="qt911" creationdate="20210602T133454Z">
+        <seg>角色完成准备的动作之后，目标角色才能继续完成要做的动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41420,6 +41676,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200519T135147Z" creationid="quentine" creationdate="20200519T135147Z">
         <seg>细剑是一种刃很薄的轻型剑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The readied action occurs just before the event that triggers it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T132909Z" creationid="qt911" creationdate="20210602T132909Z">
+        <seg>准备的动作将恰好在触发条件发生前做出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The ready action lets a character prepare to take an action later, to interrupt another character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T131302Z" creationid="qt911" creationdate="20210602T131114Z">
+        <seg>角色可以通过准备行动，晚一些做出动作，来打断其他角色的行动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41781,6 +42053,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190731T120333Z" creationid="quentine" creationdate="20190115T134651Z">
         <seg>目标可以闭气等同于其体质值的轮数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The target has an effective Defense of 5 + his or her size modifier.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T124050Z" creationid="qt911" creationdate="20210602T124050Z">
+        <seg>目标的有效防御值为5+体型调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42157,6 +42437,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T123012Z" creationid="quentine" creationdate="20190703T123012Z">
         <seg>他们的基础攻击加值为0，所有豁免骰有0点调整值（加上任何高或低属性的属性调整值），还有他们的声望加值为0。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then, any time before the character’s next action, the character may take the readied attack action in response to those conditions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T132822Z" creationid="qt911" creationdate="20210602T132822Z">
+        <seg>然后，在角色下次行动前的任意时间点，角色将对条件做出反应，完成准备的动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then, later in the round, if the readied action is triggered, the character takes it, acting before the triggering action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T132141Z" creationid="qt911" creationdate="20210602T131944Z">
+        <seg>然后，在同一轮内，准备动作的触发条件满足时，角色将在触发行为开始前完成准备的动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44830,6 +45126,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To do so, the character specifies the action he or she will take and the conditions under which the character will take it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T132706Z" creationid="qt911" creationdate="20210602T132706Z">
+        <seg>角色要指定一个要做的动作，并指定在何种情况下，角色将做出这个动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To do so, the evil Acolyte makes a turning check as if attempting to rebuke.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T114315Z" creationid="quentine" creationdate="20190703T113434Z">
@@ -45790,6 +46094,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Usually a character acts as soon as he or she can in combat, but sometimes a character wants to act later, at a better time, or in response to the actions of someone else.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T124421Z" creationid="qt911" creationdate="20210602T124421Z">
+        <seg>通常来说，角色只要能行动就会立即行动，但有时候角色想要延迟到合适的时机行动，或者等待其他人行动时再行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Usually, an individual makes a Spot check to detect a disguise immediately upon meeting the character and each hour thereafter.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190925T131147Z" creationid="quentine" creationdate="20190925T131147Z">
@@ -45898,6 +46210,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T134220Z" creationid="quentine" creationdate="20191027T134220Z">
         <seg>角色的口头语言技能每升一级，角色都可学会说一个新语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a character delays, he or she voluntarily reduces his or her own initiative result for the rest of the combat.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T125238Z" creationid="qt911" creationdate="20210602T125238Z">
+        <seg>角色延迟，即自愿在接下来的战斗中降低自己的先攻值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46546,6 +46866,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190731T133738Z" creationid="quentine" creationdate="20190731T133738Z">
         <seg>角色投掷武器，投掷射程将提高1倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the character’s new, lower initiative count comes up later in the same round, the character can act normally.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T125336Z" creationid="qt911" creationdate="20210602T125336Z">
+        <seg>当在同一轮内轮到角色的新先攻值时，角色才能正常行动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50831,10 +51159,10 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |Delay|No|
 |5-foot step|No|</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201119T123722Z" creationid="quentine" creationdate="20201119T123722Z">
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210602T124742Z" creationid="quentine" creationdate="20201119T123722Z">
         <seg>|无动作|是否会遭到借机攻击\*|
 |---------|----------------------:|
-|等待|否|
+|延迟|否|
 |五尺快步|否|</seg>
       </tuv>
     </tu>

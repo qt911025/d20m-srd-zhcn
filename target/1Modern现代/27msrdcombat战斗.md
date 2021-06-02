@@ -278,7 +278,7 @@
 
 |无动作|是否会遭到借机攻击\*|
 |---------|----------------------:|
-|等待|否|
+|延迟|否|
 |五尺快步|否|
 
 \* 不管是什么动作，只要角色移出威胁范围，角色通常都会引发一次借机攻击。该列指的是动作本身是否会引发借机攻击，而非移动部分。
@@ -659,45 +659,45 @@ GM可以根据掩蔽的具体细节酌情为攻击行为赋予减值与限制。
 
 ### 击倒攻击
 
-As a full-round action, a character can make an unarmed attack or use a melee weapon that deals nonlethal damage to deliver a knockout blow to a helpless foe. A character can also use a melee weapon that deals lethal damage, but the character takes a –4 penalty on any attempt to deal nonlethal damage with the weapon. The target has an effective Defense of 5 + his or her size modifier. If the character hits, he or she automatically scores a critical hit (see Nonlethal Damage).
+角色可以徒手或用非致命近战武器，以一个整轮动作对无助的敌人发起击倒攻击。角色也可以用致命近战武器造成非致命伤害，但这么做的话，攻击骰要承受4点减值。目标的有效防御值为5+体型调整值。如果命中，角色直接造成重击（见`非致命伤害`）。
 
-Delivering a knockout blow provokes attacks of opportunity from threatening foes because it involves focused concentration and methodical action.
+施加击倒重击会引发正在威胁自己的敌人的借机攻击，因为致命一击是一个需要全神贯注、不容出错的动作。
 
-A character can’t deliver a knockout blow against a creature that is immune to critical hits.
+角色不能对免疫重击的生物发起击倒攻击。
 
-## Special Initiative Actions
+## 特殊先攻动作
 
-Usually a character acts as soon as he or she can in combat, but sometimes a character wants to act later, at a better time, or in response to the actions of someone else.
+通常来说，角色只要能行动就会立即行动，但有时候角色想要延迟到合适的时机行动，或者等待其他人行动时再行动。
 
-### Delay
+### 延迟
 
-By choosing to delay, the character takes no action and then acts normally at whatever point in the initiative count the character decides to act. When a character delays, he or she voluntarily reduces his or her own initiative result for the rest of the combat. When the character’s new, lower initiative count comes up later in the same round, the character can act normally. The character can specify this new initiative result or just wait until some time later in the round and act then, thus fixing the character’s new initiative count at that point.
+通过选择延迟，角色将不采取行动，角色选择一个先攻值，并在轮到该先攻值时，角色再正常行动。角色延迟，即自愿在接下来的战斗中降低自己的先攻值。当在同一轮内轮到角色的新先攻值时，角色才能正常行动。角色可以预先指定新先攻值，或者只是在同一轮内等待一定时间，在决定行动时确定新的先攻值。
 
-A character cannot interrupt anyone’s action with a delayed action (as a character can with a readied action; see below).
+角色不能用延迟行动打断他人的行动（不能像准备行动那样打断；见下文）
 
-### Delaying Limits
+### 延迟的限制
 
-The longest a character can delay before taking an action is until after everyone else has acted in the round. At that point, the delaying character must act or else forfeit any action in that round.
+角色最长能延迟到所有人都完成本轮的动作。这时，角色必须行动，否则将丧失本轮的行动机会。
 
-If multiple characters are delaying, the one with the highest initiative modifier (or highest Dexterity, in case of a tie) has the advantage. If two or more delaying characters both want to act on the same initiative count, the one with the highest initiative modifier gets to go first. If two or more delaying characters are trying to go after one another, the one with the highest initiative modifier gets to go last; the others must go first or lose their action for the round.
+如果多个角色选择延迟，拥有最高先攻调整值的角色（相同则比较敏捷）占优势。如果多个角色都想要在同一个先攻值行动，先攻调整值最高的角色先行动。如果多个角色想在其他人之后行动，先攻调整值最高者优先靠后，其他人若不行动则视为放弃该行动机会。
 
-If a character loses an action due to delaying, he or she may act on any count on the next turn. Again, the character cannot interrupt an action.
+若角色因延迟丧失行动机会，则可在下一轮以任何先攻值行动。即使如此，角色还是不能打断他人行动。
 
-### Ready
+### 准备
 
-The ready action lets a character prepare to take an action later, to interrupt another character. Essentially, the character splits his or her action, taking the move action on the character’s initiative count and the attack action at a later point. On the character’s turn, he or she prepares to take an action later, if a specific trigger is met. Then, later in the round, if the readied action is triggered, the character takes it, acting before the triggering action.
+角色可以通过准备行动，晚一些做出动作，来打断其他角色的行动。本质上，准备就是角色将一个动作一分为二，在先攻轮到角色时花费一个移动动作，而在之后的一个时间点上花费一个攻击动作来完成这个动作。在角色的回合，角色准备一个动作，在并在特定的触发条件下做出这个动作。然后，在同一轮内，准备动作的触发条件满足时，角色将在触发行为开始前完成准备的动作。
 
-Readying does not provoke an attack of opportunity. (The character’s move action, and the attack action he or she readies, may both provoke attacks of opportunity normally.)
+准备不会引发借机攻击。（但所准备的动作，无论是移动动作还是攻击动作，都会像正常情况一样，可能引发借机攻击。）
 
-### Readying an Action
+### 准备一个动作
 
-A character can ready an attack action or a move action. To do so, the character specifies the action he or she will take and the conditions under which the character will take it.  Then, any time before the character’s next action, the character may take the readied attack action in response to those conditions. The readied action occurs just before the event that triggers it. If the trigger is part of another character’s actions, the readied action interrupts the other character. The other character continues his or her actions once the readied action is completed.
+角色可以准备一个攻击动作或移动动作。角色要指定一个要做的动作，并指定在何种情况下，角色将做出这个动作。然后，在角色下次行动前的任意时间点，角色将对条件做出反应，完成准备的动作。准备的动作将恰好在触发条件发生前做出。如果触发条件是其他角色的动作，该准备动作将打断目标角色的动作。角色完成准备的动作之后，目标角色才能继续完成要做的动作。
 
-The character’s initiative count changes. For the rest of the encounter, it is the count on which the character took the readied action, and the character acts immediately ahead of the character whose action triggered the readied action.
+主体角色的先攻值也会改变。当角色触发准备动作时，角色先攻值将改为做出准备动作时候的值，也就是触发动作开始前的时间点。
 
-A character can take a 5-foot step as part of his or her readied action, but only if the character didn’t otherwise move any distance during the round.
+角色可以在准备中做一个五尺快步，但只能在本轮内角色没有进行任何移动时才能这么做。
 
-If the character comes to his or her next action and has not yet performed the readied action, the character doesn’t get to take the readied action (though the character can ready the same action again). If the character takes his or her readied action in the next round, before his or her regular turn comes up, the character’s initiative count rises to that new point in the order of battle, and he or she does not get your regular action that round.
+如果角色直到下次行动都没有完成准备的动作，角色将不能完成这个准备的动作（只能重新准备）。如果角色在下一轮的自己回合之前完成准备的动作，角色的先攻值将调整至该处，并丧失该轮的行动机会。
 
 ## Special Attacks
 

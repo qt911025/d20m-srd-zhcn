@@ -1355,7 +1355,7 @@ Full attack	全力攻击	用一个整轮动作来攻击
 Overrun	闯越
 Withdraw	撤退
 Varies	可变
-Delay	等待
+Delay	延迟
 Two-Handed	双手	注意双手和双持的区别
 Actions in Combat	战斗中的动作
 Melee Attack	近战攻击
