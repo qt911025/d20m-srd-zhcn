@@ -1373,3 +1373,5 @@ sleeping	沉睡
 Chance	几率
 unaware	未觉察
 Knockout Blow	击倒攻击
+firearm	枪械
+interfere	干扰

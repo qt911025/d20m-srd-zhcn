@@ -621,7 +621,7 @@ GM可以根据掩蔽的具体细节酌情为攻击行为赋予减值与限制。
 
 ### 隐藏
 
-隐藏涵盖了所有除物理阻隔因素外，影响攻击方精度的情况。
+隐藏涵盖了所有除物理阻隔因素外，干扰攻击方精度的情况。
 
 ### 隐藏度
 
@@ -691,104 +691,104 @@ GM可以根据掩蔽的具体细节酌情为攻击行为赋予减值与限制。
 
 ### 准备一个动作
 
-角色可以准备一个攻击动作或移动动作。角色要指定一个要做的动作，并指定在何种情况下，角色将做出这个动作。然后，在角色下次行动前的任意时间点，角色将对条件做出反应，完成准备的动作。准备的动作将恰好在触发条件发生前做出。如果触发条件是其他角色的动作，该准备动作将打断目标角色的动作。角色完成准备的动作之后，目标角色才能继续完成要做的动作。
+角色可以准备一个攻击动作或移动动作。角色要指定一个要做的动作，并指定在何种情况下，角色将执行这个动作。然后，在角色下次行动前的任意时间点，角色将对条件做出反应，执行准备的动作。准备的动作将恰好在触发条件发生前执行。如果触发条件是其他角色的动作，该准备动作将打断目标角色的动作。角色执行准备的动作之后，目标角色才能继续完成要做的动作。
 
-主体角色的先攻值也会改变。当角色触发准备动作时，角色先攻值将改为做出准备动作时候的值，也就是触发动作开始前的时间点。
+准备者的先攻值也会改变。当角色被触发，执行准备动作时，角色先攻值将改为执行准备动作时候的值，也就是触发条件开始前的时间点。
 
-角色可以在准备中做一个五尺快步，但只能在本轮内角色没有进行任何移动时才能这么做。
+角色可以在执行准备的动作时做一个五尺快步，但只能在本轮内角色没有进行任何移动时才能这么做。
 
-如果角色直到下次行动都没有完成准备的动作，角色将不能完成这个准备的动作（只能重新准备）。如果角色在下一轮的自己回合之前完成准备的动作，角色的先攻值将调整至该处，并丧失该轮的行动机会。
+如果角色有机会行动时做了其他动作，而不是执行准备的动作，角色将不能再执行这个准备的动作（只能重新准备）。如果角色进入了下一轮，且在自己回合开始前执行了准备的动作，角色的先攻值将调整至该处，并丧失该轮的行动机会。
 
-## Special Attacks
+## 特殊攻击
 
-This section covers firearms, grappling, explosives, attacking objects, and an assortment of other special attacks.
+本节涵盖了枪械、擒抱、爆炸物、攻击物品、以及其他类型的特殊攻击。
 
 ## 协助他人
 
-In combat, a character can help a friend attack or defend by distracting or interfering with an opponent. If the character is in position to attack an opponent with which a friend of the character is engaged in melee combat, the character can attempt to aid the friend as an attack action. The character makes an attack roll against Defense 10. If the character succeeds, he or she doesn’t actually damage the opponent—but the character’s friend gains either a +2 circumstance bonus against that opponent or a +2 circumstance bonus to Defense against that opponent (aiding character’s choice) on the friend’s next turn.
+战斗中，角色可以干扰对手，分散对手的注意力，以协助友方攻击或防御。若角色的一个盟友正与敌人近战，而敌人也处于角色的近战攻击范围内，角色可以尝试以一个攻击动作协助该盟友。角色掷一个攻击骰，对抗DC10。若成功，角色虽然不会伤害到对手，但可选择为指定盟友对的攻击骰或防御提供2点情景加值，该加值仅在下一个该盟友的回合生效，且仅对指定的对手有效。
 
-## Firearms
+## 枪械
 
-The most basic form of attack with a firearm is a single shot. One attack is one pull of the trigger and fires one bullet at one target.
+枪械的最基本攻击方式为手动射击。手动射击即扣动一次扳机，只对一个目标发射一枚子弹。
 
-The Personal Firearms Proficiency feat allows a character to make this sort of attack without penalty. If a character isn’t proficient in personal firearms, he or she takes a –4 penalty on attacks with that type of weapon.
+有`擅长单兵枪械`专长的角色可以无惩罚地执行这种攻击。若角色不擅长单兵枪械，用对应武器的攻击骰将承受4点减值。
 
-A number of other feats allow a character to deal extra damage when he or she fires more than one bullet as part of a single attack at a single target. (If a character doesn’t have those feats, he or she can still fire more than one bullet—but the extra bullets don’t have any effect, and are just wasted ammunition.)
+此外还有其他专长，可以让角色在对一个目标进行一次手动射击的时候发射多枚弹药，造成额外伤害。（若角色无对应专长，角色仍可以在一次手动射击中发射多美弹药，但多发射的弹药没有任何效果，纯粹是浪费。）
 
-As with all forms of ranged weapons, attacking with a firearm while within a threatened square provokes an attack of opportunity.
+枪械作为一种远程武器，在威胁范围内射击将会引发借机攻击。
 
 由于长杆枪过于笨重，角色用长杆枪攻击与自己相邻的对手要承受4点减值。
 
-### Autofire
+### 自动武器
 
-If a ranged weapon has an automatic rate of fire, a character may set it on autofire. Autofire affects an area and everyone in it, not a specific creature. The character targets a 10-foot-by-10-foot area and makes an attack roll; the targeted area has an effective Defense of 10. (If the character does not have the Advanced Firearms Proficiency feat, he or she takes a –4 penalty on the attack roll.) If the attack succeeds, every creature within the affected area must make a Reflex save (DC 15) or take the weapon’s damage. Autofire shoots 10 bullets, and can only be used if the weapon has 10 bullets in it.
+如果远程武器有自动射击模式，角色可以将武器设为自动模式。自动武器针对区域上的所有目标，而非指定的目标。角色以一个10尺×10尺的区域为目标掷攻击骰，目标区域的有效DC为10。（若角色没有`高级擅长枪械`专长，攻击骰将承受4点减值。）如果攻击检定成功，目标区域的每一个生物都要做一次反射检定（DC15），失败则要承受武器的伤害。自动模式攻击消耗10发子弹，且只能在武器里有10发子弹时才能发动。
 
-Autofire is not the same thing as burst fire, which involves firing a short burst at a specific target. Firing a burst requires the Burst Fire feat. If a character fires a blast of automatic fire at a specific target without the Burst Fire feat, it’s treated as a standard attack. The attack, if successful, only deals normal damage—all the extra ammunition the character fired is wasted.
+自动模式不同于点射，点射是对指定目标进行短点射。点射需要`点射`专长。如果角色没有点射专长，又要对指定目标进行自动射击，此次攻击将算作一次标准攻击。这次攻击如果成功，只会造成一次一般伤害，所有多发射的弹药都被浪费掉。
 
-Some firearms—particularly machine guns—only have autofire settings and can’t normally fire single shots.
+一些枪械——尤其是机枪——只有自动模式，不能手动射击。
 
-## Grenades and Explosives
+## 榴弹与爆炸物
 
-An explosive is a weapon that, when detonated, affects all creatures and objects within its burst radius by means of shrapnel, heat, or massive concussion. Its effect is broad enough that it can hurt characters just by going off close to them.
+爆炸物是一种范围攻击武器，一经引爆，爆炸半径内所有生物或物体都将受到破片、高爆、或震荡伤害。爆炸波及范围内的生物都将承受伤害。
 
-Some explosives, such as grenades, can be thrown, and they explode when they land. Others are planted, with fuses or timers, and go off after a preset amount of time elapses.
+一些爆炸物，例如榴弹，可以被抛射，并在落点爆炸。其他的都是带导火索或计时器的植入式爆炸物，会在预设的时间结束后爆炸。
 
-### Thrown Explosives
+### 投掷式爆炸物
 
-An attack with a thrown explosive is a ranged attack made against a specific 5-foot square. (A character can target a square occupied by a creature.) Throwing the explosive is an attack action. If the square is within one range increment, you do not need to make an attack roll. Roll 1d4 and consult the table to see which corner of the square the explosive bounces to.
+投掷爆炸物的攻击是针对5尺方格区域的攻击。（区域内有生物的方格也能作为目标。）投掷爆炸物是一个攻击动作。如果方格在一射程跨度内，则无需掷攻击骰。掷1d4，结果对照下表，以决定爆炸物的弹跳方向。
 
-**Thrown Explosives (hit)**
+**投掷爆炸物（击中）**
 
-|Roll on d4|Corner of targeted square|
+|d4结果|方格的角|
 |:--------:|:-----------------------:|
-|1|Upper Left|
-|2|Upper Right|
-|3|Lower Right|
-|4|Lower Left|
+|1|左上|
+|2|右上|
+|3|右下|
+|4|左下|
 
-If the target square is more than one range increment away, make an attack roll. The square has an effective Defense of 10. Thrown weapons require no weapon proficiency, so a character doesn’t take the –4 nonproficient penalty. If the attack succeeds, the grenade or explosive lands in the targeted square. Roll 1d4 and consult the table above to see which corner of the square the explosive bounces to.
+如果方格在1射程跨度外，则需要掷攻击骰。方格的有效DC为10。投掷武器不需要任何擅长专长，所以不会承受4点不擅长减值。如果攻击成功，榴弹或爆炸物将落在目标方格内。掷1d4，结果对照上表，以决定爆炸物的弹跳方向。
 
-If the character misses the target, the explosive lands at a corner of a square nearby in a random direction. Consult the tables below to determine where the explosive lands. If the weapon was thrown two to three range increments (11 to 30 feet), roll 1d8.
+如果角色失手，爆炸物将落到弹跳方向所指的临近方格内。对照上表以决定爆炸物的落点。如果武器被投掷到2到3射程跨度内（11到30尺），掷1d8。
 
-**Thrown Explosive (Miss 2 to 3 Range Increments)**
+**投掷爆炸物（在2到3射程跨度内失手）**
 
-|Roll on d8|Location Struck|
+|d8结果|最终落点|
 |:--------:|---------------|
-|1|upper right corner, one square beyond target|
-|2|upper right corner, one square right of target|
-|3|lower right corner, one square right of target|
-|4|lower right corner, one square short of target|
-|5|lower left corner, one square short of target|
-|6|lower left corner, one square left of target|
-|7|upper left corner, one square left of target|
-|8|upper left corner, one square beyond target|
+|1|右上角，超过目标一格|
+|2|右上角，目标右边的相邻格|
+|3|右下角，目标右边的相邻格|
+|4|右下角，距目标还差一格|
+|5|左下角，距目标还差一格|
+|6|左下角，目标左边的相邻格|
+|7|左上角，目标左边的相邻格|
+|8|左上角，超过目标一格|
 
-For ranges of up to five range increments (31 to 50 feet), roll 1d12.
+如果武器被投掷到5射程跨度内（31到50尺），掷1d12。
 
-**Thrown Explosives (Miss 4 to5 Range Increments)**
+**投掷爆炸物（在4到5射程跨度内失手）**
 
-|Roll on d12|Location Struck|
+|d12结果|最终落点|
 |:---------:|---------------|
-|1|upper right corner, two squares beyond target|
-|2|upper right corner, one square beyond and right of target|
-|3|upper right corner, two squares right of target|
-|4|lower right corner, two squares right of target|
-|5|lower right corner, one square short and right of target|
-|6|lower right corner, two squares short of target|
-|7|lower left corner, two squares short of target|
-|8|lower left corner, one square short and left of target|
-|9|lower left corner, two squares left of target|
-|10|upper left corner, two squares left of target|
-|11|upper left corner, one square beyond and left of target|
-|12|upper left corner, two squares beyond target|
+|1|右上角，超过目标两格|
+|2|右上角，超过目标一格，且在目标右方|
+|3|右上角，目标右方两格|
+|4|右下角，目标右方两格|
+|5|右下角，距目标还差一格，且在目标右方|
+|6|右下角，距目标还差两格|
+|7|左下角，距目标还差两格|
+|8|左下角，距目标还差一格，且在目标左方|
+|9|左下角，目标左方两格|
+|10|左上角，目标左方两格|
+|11|左上角，超过目标一格，且在目标左方|
+|12|左上角，超过目标两格|
 
-After determining where the explosive landed, it deals its damage to all targets within the burst radius of the weapon. The targets may make Reflex saves (DC varies according to the explosive type) for half damage.
+决定了爆炸物的落点后，将对武器的爆炸半径内的所有目标造成伤害。目标可以做反射检定（DC由爆炸物类型决定）使伤害减半。
 
-### Planted Explosives
+### 植入式爆炸物
 
 A planted explosive is set in place, with a timer or fuse determining when it goes off. No attack roll is necessary to plant an explosive; the explosive sits where it is placed until it is moved or goes off.
 
-When a planted explosive detonates, it deals its damage to all targets within the burst radius of the weapon. The targets may make Reflex saves (DC varies according to the explosive type) for half damage.
+When a planted explosive detonates, it deals its damage to all targets within the burst radius of the weapon. 目标可以做反射检定（DC由爆炸物类型决定）使伤害减半。
 
 ## Splash Weapons
 

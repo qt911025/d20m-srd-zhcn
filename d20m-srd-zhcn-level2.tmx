@@ -1048,6 +1048,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>## Firearms</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T095708Z" creationid="qt911" creationdate="20210605T095708Z">
+        <seg>## 枪械</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>## Flat-Footed</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T122639Z" creationid="quentine" creationdate="20190115T122639Z">
@@ -1116,6 +1124,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T124636Z" creationid="quentine" creationdate="20190115T122851Z">
         <seg>## 擒抱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Grenades and Explosives</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T141006Z" creationid="qt911" creationdate="20210605T141006Z">
+        <seg>## 榴弹与爆炸物</seg>
       </tuv>
     </tu>
     <tu>
@@ -1792,6 +1808,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>## Special Attacks</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T092901Z" creationid="qt911" creationdate="20210605T092901Z">
+        <seg>## 特殊攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>## Special Initiative Actions</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210602T124242Z" creationid="qt911" creationdate="20210602T124242Z">
@@ -2404,6 +2428,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T143341Z" creationid="quentine" creationdate="20200117T143341Z">
         <seg>### 机动车修理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Autofire</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T135659Z" creationid="qt911" creationdate="20210605T135659Z">
+        <seg>### 自动武器</seg>
       </tuv>
     </tu>
     <tu>
@@ -4112,6 +4144,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>### Planted Explosives</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210606T143707Z" creationid="qt911" creationdate="20210606T143707Z">
+        <seg>### 植入式爆炸物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>### Point Blank Shot</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190803T135537Z" creationid="quentine" creationdate="20190803T135537Z">
@@ -4772,6 +4812,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210106T131305Z" creationid="qt911" creationdate="20210106T131305Z">
         <seg>### 威胁范围</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>### Thrown Explosives</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210606T143657Z" creationid="qt911" creationdate="20210605T141942Z">
+        <seg>### 投掷式爆炸物</seg>
       </tuv>
     </tu>
     <tu>
@@ -7144,6 +7192,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>(A character can target a square occupied by a creature.) Throwing the explosive is an attack action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T142143Z" creationid="qt911" creationdate="20210605T142143Z">
+        <seg>（区域内有生物的方格也能作为目标。）投掷爆炸物是一个攻击动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>(A character cannot take 20 to defeat computer security or defend security.)</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190917T125536Z" creationid="quentine" creationdate="20190917T125536Z">
@@ -7250,6 +7306,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>(If a character doesn’t have those feats, he or she can still fire more than one bullet—but the extra bullets don’t have any effect, and are just wasted ammunition.)</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T135534Z" creationid="qt911" creationdate="20210605T135534Z">
+        <seg>（若角色无对应专长，角色仍可以在一次手动射击中发射多美弹药，但多发射的弹药没有任何效果，纯粹是浪费。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>(If playing at a casino, assume the house has a Gamble skill modifier equal to the stake purchase DC.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190926T144109Z" creationid="quentine" creationdate="20190926T144109Z">
@@ -7264,6 +7328,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190623T113845Z" creationid="quentine" creationdate="20190623T113845Z">
         <seg>（如果这气场不是法术效果，那么DC是15+施法者等级的一半）|
 |20 + 法术等级|鉴别已经存在并生效的法术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(If the character does not have the Advanced Firearms Proficiency feat, he or she takes a –4 penalty on the attack roll.) If the attack succeeds, every creature within the affected area must make a Reflex save (DC 15) or take the weapon’s damage.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T140122Z" creationid="qt911" creationdate="20210605T140122Z">
+        <seg>（若角色没有`高级擅长枪械`专长，攻击骰将承受4点减值。）如果攻击检定成功，目标区域的每一个生物都要做一次反射检定（DC15），失败则要承受武器的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13245,6 +13317,30 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>**Thrown Explosive (Miss 2 to 3 Range Increments)**</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210606T141549Z" creationid="qt911" creationdate="20210606T141549Z">
+        <seg>**投掷爆炸物（在2到3射程跨度内失手）**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Thrown Explosives (Miss 4 to5 Range Increments)**</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210606T142709Z" creationid="qt911" creationdate="20210606T142709Z">
+        <seg>**投掷爆炸物（在4到5射程跨度内失手）**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Thrown Explosives (hit)**</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T142446Z" creationid="qt911" creationdate="20210605T142446Z">
+        <seg>**投掷爆炸物（击中）**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>**Tibeto-Burman:** Burmese, Sherpa, Tibetan.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T074814Z" creationid="quentine" creationdate="20191027T074814Z">
@@ -15821,8 +15917,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv xml:lang="en-US">
         <seg>A character can take a 5-foot step as part of his or her readied action, but only if the character didn’t otherwise move any distance during the round.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210602T134300Z" creationid="qt911" creationdate="20210602T134300Z">
-        <seg>角色可以在准备中做一个五尺快步，但只能在本轮内角色没有进行任何移动时才能这么做。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T093351Z" creationid="qt911" creationdate="20210602T134300Z">
+        <seg>角色可以在执行准备的动作时做一个五尺快步，但只能在本轮内角色没有进行任何移动时才能这么做。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17939,6 +18035,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A number of other feats allow a character to deal extra damage when he or she fires more than one bullet as part of a single attack at a single target.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T135436Z" creationid="qt911" creationdate="20210605T135436Z">
+        <seg>此外还有其他专长，可以让角色在对一个目标进行一次手动射击的时候发射多枚弹药，造成额外伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A number of other impromptu armors, such as a football pads and a baseball catcher’s pads, offer similar protection and game statistics.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200527T122812Z" creationid="quentine" creationdate="20200527T122812Z">
@@ -19141,6 +19245,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>After determining where the explosive landed, it deals its damage to all targets within the burst radius of the weapon.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210606T143530Z" creationid="qt911" creationdate="20210606T143530Z">
+        <seg>决定了爆炸物的落点后，将对武器的爆炸半径内的所有目标造成伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>After succeeding on the check to attempt the sideswipe, the character makes a Drive check opposed by the other driver.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190801T141906Z" creationid="quentine" creationdate="20190731T135947Z">
@@ -20037,6 +20149,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>An attack with a thrown explosive is a ranged attack made against a specific 5-foot square.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T142037Z" creationid="qt911" creationdate="20210605T142037Z">
+        <seg>投掷爆炸物的攻击是针对5尺方格区域的攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>An attacker can attempt a coup de grace against a helpless character.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T123656Z" creationid="quentine" creationdate="20190115T123656Z">
@@ -20145,6 +20265,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T085554Z" creationid="quentine" creationdate="20190918T141649Z">
         <seg>爆炸化合物不包括导火索或起爆器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An explosive is a weapon that, when detonated, affects all creatures and objects within its burst radius by means of shrapnel, heat, or massive concussion.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T141306Z" creationid="qt911" creationdate="20210605T141306Z">
+        <seg>爆炸物是一种范围攻击武器，一经引爆，爆炸半径内所有生物或物体都将受到破片、高爆、或震荡伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21073,6 +21201,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190703T120821Z" creationid="quentine" creationdate="20190703T120821Z">
         <seg>路人升级时也增加技能点、基础攻击加值、豁免加值、防御加值，以及声望加值——这些和英雄一样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>As with all forms of ranged weapons, attacking with a firearm while within a threatened square provokes an attack of opportunity.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T135646Z" creationid="qt911" creationdate="20210605T135646Z">
+        <seg>枪械作为一种远程武器，在威胁范围内射击将会引发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22301,6 +22437,30 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Autofire affects an area and everyone in it, not a specific creature.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T135816Z" creationid="qt911" creationdate="20210605T135816Z">
+        <seg>自动武器针对区域上的所有目标，而非指定的目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Autofire is not the same thing as burst fire, which involves firing a short burst at a specific target.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T140515Z" creationid="qt911" creationdate="20210605T140515Z">
+        <seg>自动模式不同于点射，点射是对指定目标进行短点射。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Autofire shoots 10 bullets, and can only be used if the weapon has 10 bullets in it.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T140314Z" creationid="qt911" creationdate="20210605T140314Z">
+        <seg>自动模式攻击消耗10发子弹，且只能在武器里有10发子弹时才能发动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Autohypnosis (Wis), Balance (Dex), Climb (Str), Concentration (Con), Craft (visual arts) (Int), Drive (Dex), Jump (Str), Knowledge (current events, streetwise) (Int), Profession (Wis), Read/Write Language (none), Speak Language (none), Spot (Wis), Swim (Str).</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190620T142207Z" creationid="quentine" creationdate="20190620T142207Z">
@@ -23427,8 +23587,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv xml:lang="en-US">
         <seg>Concealment includes all circumstances in which nothing physically blocks a blow or shot, but something interferes with an attacker’s accuracy.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210601T133803Z" creationid="qt911" creationdate="20210601T133803Z">
-        <seg>隐藏涵盖了所有除物理阻隔因素外，影响攻击方精度的情况。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T094528Z" creationid="qt911" creationdate="20210601T133803Z">
+        <seg>隐藏涵盖了所有除物理阻隔因素外，干扰攻击方精度的情况。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23485,6 +23645,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T085602Z" creationid="quentine" creationdate="20190918T141739Z">
         <seg>连接导火索或起爆器需要爆破检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Consult the tables below to determine where the explosive lands.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210606T141355Z" creationid="qt911" creationdate="20210606T141355Z">
+        <seg>对照上表以决定爆炸物的落点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25350,6 +25518,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Firing a burst requires the Burst Fire feat.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T140543Z" creationid="qt911" creationdate="20210605T140543Z">
+        <seg>点射需要`点射`专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>First, clothing is part of a disguise.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191111T135751Z" creationid="quentine" creationdate="20191111T135751Z">
@@ -25622,6 +25798,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>For ranges of up to five range increments (31 to 50 feet), roll 1d12.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210606T142650Z" creationid="qt911" creationdate="20210606T142650Z">
+        <seg>如果武器被投掷到5射程跨度内（31到50尺），掷1d12。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>For ropes, a character’s Escape Artist check is opposed by the Dexterity check result of the opponent who tied the bonds.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190926T131732Z" creationid="quentine" creationdate="20190926T131732Z">
@@ -25688,8 +25872,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv xml:lang="en-US">
         <seg>For the rest of the encounter, it is the count on which the character took the readied action, and the character acts immediately ahead of the character whose action triggered the readied action.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210602T134149Z" creationid="qt911" creationdate="20210602T134149Z">
-        <seg>当角色触发准备动作时，角色先攻值将改为做出准备动作时候的值，也就是触发动作开始前的时间点。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T093231Z" creationid="qt911" creationdate="20210602T134149Z">
+        <seg>当角色被触发，执行准备动作时，角色先攻值将改为执行准备动作时候的值，也就是触发条件开始前的时间点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26614,6 +26798,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If a character fires a blast of automatic fire at a specific target without the Burst Fire feat, it’s treated as a standard attack.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T140753Z" creationid="qt911" creationdate="20210605T140753Z">
+        <seg>如果角色没有点射专长，又要对指定目标进行自动射击，此次攻击将算作一次标准攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If a character gets more than one attack per action because his or her base attack bonus is high enough, because he or she fights with two weapons, because he or she is using a double weapon, or for some special reason, the character must use the full attack action to get his or her additional attacks.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210105T125429Z" creationid="qt911" creationdate="20210105T125429Z">
@@ -26650,6 +26842,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210530T135810Z" creationid="qt911" creationdate="20210530T135810Z">
         <seg>若角色正对一个目标发起近战攻击，同时对面有一个盟友正威胁着该目标，则角色与盟友`夹击`了该目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a character isn’t proficient in personal firearms, he or she takes a –4 penalty on attacks with that type of weapon.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T135232Z" creationid="qt911" creationdate="20210605T135232Z">
+        <seg>若角色不擅长单兵枪械，用对应武器的攻击骰将承受4点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26762,6 +26962,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191030T140211Z" creationid="quentine" creationdate="20191030T135941Z">
         <seg>如果负向等级在24小时期满前未被移除，受害者必须进行一个强韧豁免，DC=10+1/2吸取者生命骰+吸取者的魅力调整值（除非生物的物种特性另有规定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If a ranged weapon has an automatic rate of fire, a character may set it on autofire.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T135739Z" creationid="qt911" creationdate="20210605T135739Z">
+        <seg>如果远程武器有自动射击模式，角色可以将武器设为自动模式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27406,6 +27614,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If the attack succeeds, the grenade or explosive lands in the targeted square.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T142828Z" creationid="qt911" creationdate="20210605T142828Z">
+        <seg>如果攻击成功，榴弹或爆炸物将落在目标方格内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If the attacker hits, the defender must make a miss chance percentile roll to avoid being struck.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210601T134825Z" creationid="qt911" creationdate="20210601T134825Z">
@@ -27512,8 +27728,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv xml:lang="en-US">
         <seg>If the character comes to his or her next action and has not yet performed the readied action, the character doesn’t get to take the readied action (though the character can ready the same action again).</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210602T134627Z" creationid="qt911" creationdate="20210602T134627Z">
-        <seg>如果角色直到下次行动都没有完成准备的动作，角色将不能完成这个准备的动作（只能重新准备）。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T093800Z" creationid="qt911" creationdate="20210602T134627Z">
+        <seg>如果角色有机会行动时做了其他动作，而不是执行准备的动作，角色将不能再执行这个准备的动作（只能重新准备）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27950,6 +28166,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If the character is in position to attack an opponent with which a friend of the character is engaged in melee combat, the character can attempt to aid the friend as an attack action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T095132Z" creationid="qt911" creationdate="20210605T095132Z">
+        <seg>若角色的一个盟友正与敌人近战，而敌人也处于角色的近战攻击范围内，角色可以尝试以一个攻击动作协助该盟友。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If the character is not proficient in the weapon he or she is attacking with (the character doesn’t have the appropriate Weapon Proficiency feat), that character takes a –4 penalty on the attack roll.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T013929Z" creationid="quentine" creationdate="20201114T013929Z">
@@ -28010,6 +28234,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190803T142707Z" creationid="quentine" creationdate="20190803T142707Z">
         <seg>角色跳远所进行的跳跃检定将获得2点表现加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character misses the target, the explosive lands at a corner of a square nearby in a random direction.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210606T141308Z" creationid="qt911" creationdate="20210606T141205Z">
+        <seg>如果角色失手，爆炸物将落到弹跳方向所指的临近方格内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28098,6 +28330,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191025T133816Z" creationid="quentine" creationdate="20191025T133816Z">
         <seg>若角色成功，将继续移动到目的地，整个旅途花费的时间是正常情况的两倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the character succeeds, he or she doesn’t actually damage the opponent—but the character’s friend gains either a +2 circumstance bonus against that opponent or a +2 circumstance bonus to Defense against that opponent (aiding character’s choice) on the friend’s next turn.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T095659Z" creationid="qt911" creationdate="20210605T095659Z">
+        <seg>若成功，角色虽然不会伤害到对手，但可选择为指定盟友对的攻击骰或防御提供2点情景加值，该加值仅在下一个该盟友的回合生效，且仅对指定的对手有效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28216,8 +28456,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv xml:lang="en-US">
         <seg>If the character takes his or her readied action in the next round, before his or her regular turn comes up, the character’s initiative count rises to that new point in the order of battle, and he or she does not get your regular action that round.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210602T134852Z" creationid="qt911" creationdate="20210602T134852Z">
-        <seg>如果角色在下一轮的自己回合之前完成准备的动作，角色的先攻值将调整至该处，并丧失该轮的行动机会。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T094039Z" creationid="qt911" creationdate="20210602T134852Z">
+        <seg>如果角色进入了下一轮，且在自己回合开始前执行了准备的动作，角色的先攻值将调整至该处，并丧失该轮的行动机会。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28862,6 +29102,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If the square is within one range increment, you do not need to make an attack roll.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T142226Z" creationid="qt911" creationdate="20210605T142226Z">
+        <seg>如果方格在一射程跨度内，则无需掷攻击骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If the stake is higher than the character’s Wealth bonus (before applying any reductions from purchasing the stake), the character gets a +1 bonus on his or her Gamble check for every point the purchase DC is above the character’s Wealth bonus.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190926T143851Z" creationid="quentine" creationdate="20190926T143851Z">
@@ -28930,6 +29178,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201229T235121Z" creationid="qt911" creationdate="20201229T235121Z">
         <seg>如果目标过于庞大，目标的一些部位与最近的盟友的距离大于等于10尺，角色可射击此处于近战的敌人且不用承受4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the target square is more than one range increment away, make an attack roll.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T142644Z" creationid="qt911" creationdate="20210605T142644Z">
+        <seg>如果方格在1射程跨度外，则需要掷攻击骰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29010,6 +29266,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190805T143038Z" creationid="quentine" creationdate="20190805T143038Z">
         <seg>如果一些技能的使用没有失败惩罚，角色可以`取20`，表示不断尝试直到成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the weapon was thrown two to three range increments (11 to 30 feet), roll 1d8.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210606T141454Z" creationid="qt911" creationdate="20210606T141454Z">
+        <seg>如果武器被投掷到2到3射程跨度内（11到30尺），掷1d8。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29594,6 +29858,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190704T123300Z" creationid="quentine" creationdate="20190115T113327Z">
         <seg>在任何情况下，角色不能恢复到超过正常情形下的生命上限。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In combat, a character can help a friend attack or defend by distracting or interfering with an opponent.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T094717Z" creationid="qt911" creationdate="20210605T094414Z">
+        <seg>战斗中，角色可以干扰对手，分散对手的注意力，以协助友方攻击或防御。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31170,6 +31442,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200419T152057Z" creationid="quentine" creationdate="20200419T152057Z">
         <seg>完全对称的设计让左撇子和右撇子用枪都有相同的体验，它还内置了一副光学瞄具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Its effect is broad enough that it can hurt characters just by going off close to them.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T141919Z" creationid="qt911" creationdate="20210605T141544Z">
+        <seg>爆炸波及范围内的生物都将承受伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32862,6 +33142,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>One attack is one pull of the trigger and fires one bullet at one target.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T095844Z" creationid="qt911" creationdate="20210605T095844Z">
+        <seg>手动射击即扣动一次扳机，只对一个目标发射一枚子弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>One bag of twenty-five caltrops covers a single 5-foot square.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200115T073424Z" creationid="quentine" creationdate="20200115T073424Z">
@@ -33198,6 +33486,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T144506Z" creationid="quentine" creationdate="20201118T144404Z">
         <seg>更细化的选项将在`表：战斗中的动作`介绍，`特殊先攻动作`和`特殊攻击`也有所涉及。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Others are planted, with fuses or timers, and go off after a preset amount of time elapses.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T141751Z" creationid="qt911" creationdate="20210605T141751Z">
+        <seg>其他的都是带导火索或计时器的植入式爆炸物，会在预设的时间结束后爆炸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34168,6 +34464,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Roll 1d4 and consult the table above to see which corner of the square the explosive bounces to.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T142907Z" creationid="qt911" creationdate="20210605T142907Z">
+        <seg>掷1d4，结果对照上表，以决定爆炸物的弹跳方向。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Roll 1d4 and consult the table to see which corner of the square the explosive bounces to.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T142430Z" creationid="qt911" creationdate="20210605T142430Z">
+        <seg>掷1d4，结果对照下表，以决定爆炸物的弹跳方向。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Roll once per round.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T141706Z" creationid="quentine" creationdate="20191027T141706Z">
@@ -34872,6 +35184,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Some explosives, such as grenades, can be thrown, and they explode when they land.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T141614Z" creationid="qt911" creationdate="20210605T141614Z">
+        <seg>一些爆炸物，例如榴弹，可以被抛射，并在落点爆炸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Some feats aren’t meant to be used within the framework of combat.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210106T125757Z" creationid="qt911" creationdate="20210106T125757Z">
@@ -34884,6 +35204,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190116T121126Z" creationid="quentine" creationdate="20190116T121126Z">
         <seg>有的专长有先决条件，必须要满足后玩家才能进行选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some firearms—particularly machine guns—only have autofire settings and can’t normally fire single shots.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T140955Z" creationid="qt911" creationdate="20210605T140955Z">
+        <seg>一些枪械——尤其是机枪——只有自动模式，不能手动射击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37936,6 +38264,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The Personal Firearms Proficiency feat allows a character to make this sort of attack without penalty.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T100003Z" creationid="qt911" creationdate="20210605T100003Z">
+        <seg>有`擅长单兵枪械`专长的角色可以无惩罚地执行这种攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The Personality can try to give the target orders, but he or she must win an opposed Charisma check to convince the target to perform any actions the target wouldn’t normally undertake.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190526T113745Z" creationid="quentine" creationdate="20190526T113745Z">
@@ -38508,6 +38844,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T135615Z" creationid="qt911" creationdate="20201224T135615Z">
         <seg>借机攻击会在角色攻击前发生。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The attack, if successful, only deals normal damage—all the extra ammunition the character fired is wasted.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T140901Z" creationid="qt911" creationdate="20210605T140901Z">
+        <seg>这次攻击如果成功，只会造成一次一般伤害，所有多发射的弹药都被浪费掉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39378,6 +39722,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The character makes an attack roll against Defense 10.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T095211Z" creationid="qt911" creationdate="20210605T095211Z">
+        <seg>角色掷一个攻击骰，对抗DC10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The character may grant the same bonus to one other character for every 1 point by which the character’s check result exceeds 15.|
 |18|Avoid getting lost and avoid natural hazards, such as quicksand.|</seg>
       </tuv>
@@ -39588,6 +39940,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The character targets a 10-foot-by-10-foot area and makes an attack roll; the targeted area has an effective Defense of 10.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T135952Z" creationid="qt911" creationdate="20210605T135952Z">
+        <seg>角色以一个10尺×10尺的区域为目标掷攻击骰，目标区域的有效DC为10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The character who provides the aid reduces his or her Wealth bonus by +1.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190806T134246Z" creationid="QuenTine" creationdate="20181106T141606Z">
@@ -39702,8 +40062,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv xml:lang="en-US">
         <seg>The character’s initiative count changes.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210602T133526Z" creationid="qt911" creationdate="20210602T133526Z">
-        <seg>主体角色的先攻值也会改变。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T093122Z" creationid="qt911" creationdate="20210602T133526Z">
+        <seg>准备者的先攻值也会改变。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41068,6 +41428,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The most basic form of attack with a firearm is a single shot.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T095756Z" creationid="qt911" creationdate="20210605T095756Z">
+        <seg>枪械的最基本攻击方式为手动射击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The most common military grenade, this is a small explosive device that sprays shrapnel in all directions when it explodes.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200507T135532Z" creationid="quentine" creationdate="20200507T135532Z">
@@ -41254,8 +41622,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv xml:lang="en-US">
         <seg>The other character continues his or her actions once the readied action is completed.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210602T133454Z" creationid="qt911" creationdate="20210602T133454Z">
-        <seg>角色完成准备的动作之后，目标角色才能继续完成要做的动作。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T093041Z" creationid="qt911" creationdate="20210602T133454Z">
+        <seg>角色执行准备的动作之后，目标角色才能继续完成要做的动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41582,8 +41950,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv xml:lang="en-US">
         <seg>The readied action occurs just before the event that triggers it.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210602T132909Z" creationid="qt911" creationdate="20210602T132909Z">
-        <seg>准备的动作将恰好在触发条件发生前做出。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T093013Z" creationid="qt911" creationdate="20210602T132909Z">
+        <seg>准备的动作将恰好在触发条件发生前执行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41809,6 +42177,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190623T131651Z" creationid="quentine" creationdate="20190623T131651Z">
         <seg>即使法术未过有效期，魔宠再回到范围内，法术也不会恢复作用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The square has an effective Defense of 10.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T142708Z" creationid="qt911" creationdate="20210605T142708Z">
+        <seg>方格的有效DC为10。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42101,6 +42477,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The targets may make Reflex saves (DC varies according to the explosive type) for half damage.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210606T143615Z" creationid="qt911" creationdate="20210606T143615Z">
+        <seg>目标可以做反射检定（DC由爆炸物类型决定）使伤害减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The terms of the Open Gaming License Version 1.0a are as follows:</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181022T033319Z" creationid="QuenTine" creationdate="20181022T033319Z">
@@ -42343,8 +42727,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv xml:lang="en-US">
         <seg>Then, any time before the character’s next action, the character may take the readied attack action in response to those conditions.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210602T132822Z" creationid="qt911" creationdate="20210602T132822Z">
-        <seg>然后，在角色下次行动前的任意时间点，角色将对条件做出反应，完成准备的动作。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T093000Z" creationid="qt911" creationdate="20210602T132822Z">
+        <seg>然后，在角色下次行动前的任意时间点，角色将对条件做出反应，执行准备的动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44440,6 +44824,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>This section covers firearms, grappling, explosives, attacking objects, and an assortment of other special attacks.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T094224Z" creationid="qt911" creationdate="20210605T094224Z">
+        <seg>本节涵盖了枪械、擒抱、爆炸物、攻击物品、以及其他类型的特殊攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>This section covers the wide variety of general gear available to adventurers of all sorts.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191105T140519Z" creationid="quentine" creationdate="20191105T140519Z">
@@ -44858,6 +45250,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Thrown weapons require no weapon proficiency, so a character doesn’t take the –4 nonproficient penalty.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T142755Z" creationid="qt911" creationdate="20210605T142755Z">
+        <seg>投掷武器不需要任何擅长专长，所以不会承受4点不擅长减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Thus, a double (x2) and a double (x2) applied to the same number results in a triple (x3, because 2 + 1 = 3).</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181024T044522Z" creationid="QuenTine" creationdate="20181024T043605Z">
@@ -45028,8 +45428,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv xml:lang="en-US">
         <seg>To do so, the character specifies the action he or she will take and the conditions under which the character will take it.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210602T132706Z" creationid="qt911" creationdate="20210602T132706Z">
-        <seg>角色要指定一个要做的动作，并指定在何种情况下，角色将做出这个动作。</seg>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T092945Z" creationid="qt911" creationdate="20210602T132706Z">
+        <seg>角色要指定一个要做的动作，并指定在何种情况下，角色将执行这个动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48766,10 +49166,10 @@ This section covers offensive and defensive modifiers provided by position.</seg
 |Friendly|Wishes you well|Chat, advise, offer limited help, advocate|
 |Helpful|Will take risks to help you|Protect, back up, heal, aid|</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190924T134251Z" creationid="quentine" creationdate="20190924T134251Z">
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T094439Z" creationid="quentine" creationdate="20190924T134251Z">
         <seg>|态度|意思|可能的行为|
 |--------|-----|----------------|
-|敌对|会冒险伤害或者躲着你|攻击、干涉、怒斥、逃跑|
+|敌对|会冒险伤害或者躲着你|攻击、干扰、怒斥、逃跑|
 |不友善|盼着你倒霉|误导、诽谤、回避、警惕地看着、侮辱|
 |不关心|不怎么关心你|和陌路人一样的行为|
 |友善|希望你好|聊天、建议、提供有限的帮助、为你辩护|
@@ -51344,6 +51744,84 @@ This section covers offensive and defensive modifiers provided by position.</seg
         <seg>|结果|表演|
 |:----:|-----------|
 |10|业余表演。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>|Roll on d12|Location Struck|
+|:---------:|---------------|
+|1|upper right corner, two squares beyond target|
+|2|upper right corner, one square beyond and right of target|
+|3|upper right corner, two squares right of target|
+|4|lower right corner, two squares right of target|
+|5|lower right corner, one square short and right of target|
+|6|lower right corner, two squares short of target|
+|7|lower left corner, two squares short of target|
+|8|lower left corner, one square short and left of target|
+|9|lower left corner, two squares left of target|
+|10|upper left corner, two squares left of target|
+|11|upper left corner, one square beyond and left of target|
+|12|upper left corner, two squares beyond target|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210606T143437Z" creationid="qt911" creationdate="20210606T143437Z">
+        <seg>|d12结果|最终落点|
+|:---------:|---------------|
+|1|右上角，超过目标两格|
+|2|右上角，超过目标一格，且在目标右方|
+|3|右上角，目标右方两格|
+|4|右下角，目标右方两格|
+|5|右下角，距目标还差一格，且在目标右方|
+|6|右下角，距目标还差两格|
+|7|左下角，距目标还差两格|
+|8|左下角，距目标还差一格，且在目标左方|
+|9|左下角，目标左方两格|
+|10|左上角，目标左方两格|
+|11|左上角，超过目标一格，且在目标左方|
+|12|左上角，超过目标两格|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>|Roll on d4|Corner of targeted square|
+|:--------:|:-----------------------:|
+|1|Upper Left|
+|2|Upper Right|
+|3|Lower Right|
+|4|Lower Left|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T142543Z" creationid="qt911" creationdate="20210605T142543Z">
+        <seg>|d4结果|方格的角|
+|:--------:|:-----------------------:|
+|1|左上|
+|2|右上|
+|3|右下|
+|4|左下|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>|Roll on d8|Location Struck|
+|:--------:|---------------|
+|1|upper right corner, one square beyond target|
+|2|upper right corner, one square right of target|
+|3|lower right corner, one square right of target|
+|4|lower right corner, one square short of target|
+|5|lower left corner, one square short of target|
+|6|lower left corner, one square left of target|
+|7|upper left corner, one square left of target|
+|8|upper left corner, one square beyond target|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210606T142601Z" creationid="qt911" creationdate="20210606T141608Z">
+        <seg>|d8结果|最终落点|
+|:--------:|---------------|
+|1|右上角，超过目标一格|
+|2|右上角，目标右边的相邻格|
+|3|右下角，目标右边的相邻格|
+|4|右下角，距目标还差一格|
+|5|左下角，距目标还差一格|
+|6|左下角，目标左边的相邻格|
+|7|左上角，目标左边的相邻格|
+|8|左上角，超过目标一格|</seg>
       </tuv>
     </tu>
     <tu>
