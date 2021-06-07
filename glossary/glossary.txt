@@ -1375,3 +1375,9 @@ unaware	未觉察
 Knockout Blow	击倒攻击
 firearm	枪械
 interfere	干扰
+Planted Explosives	安装式爆炸物
+jetliner	喷气式客机
+Simple wooden door	简易木门
+Strong wooden door	坚固木门
+Cinderblock	煤渣砖
+Metal bars	金属条

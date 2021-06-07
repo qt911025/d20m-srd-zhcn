@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Attack an Object</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T135206Z" creationid="qt911" creationdate="20210607T135206Z">
+        <seg>## 向物品攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Attacks of Opportunity</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210106T130332Z" creationid="qt911" creationdate="20210106T130332Z">
@@ -1860,6 +1868,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121359Z" creationid="quentine" creationdate="20201118T121359Z">
         <seg>## 速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Splash Weapons</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T133946Z" creationid="qt911" creationdate="20210607T133946Z">
+        <seg>## 溅射武器</seg>
       </tuv>
     </tu>
     <tu>
@@ -4178,8 +4194,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>### Planted Explosives</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210606T143707Z" creationid="qt911" creationdate="20210606T143707Z">
-        <seg>### 植入式爆炸物</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T133705Z" creationid="qt911" creationdate="20210606T143707Z">
+        <seg>### 安装式爆炸物</seg>
       </tuv>
     </tu>
     <tu>
@@ -4638,6 +4654,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201114T014156Z" creationid="quentine" creationdate="20201114T014156Z">
         <seg>### 力量调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Strike an Object</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T135225Z" creationid="qt911" creationdate="20210607T135225Z">
+        <seg>### 击打物品</seg>
       </tuv>
     </tu>
     <tu>
@@ -7352,6 +7376,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210605T135534Z" creationid="qt911" creationdate="20210605T135534Z">
         <seg>（若角色无对应专长，角色仍可以在一次手动射击中发射多美弹药，但多发射的弹药没有任何效果，纯粹是浪费。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(If a character has the Sunder feat, he or she doesn’t incur an attack of opportunity for making the attempt.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141248Z" creationid="qt911" creationdate="20210607T141248Z">
+        <seg>（如果角色有`击碎`专长，则不会引发借机攻击。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -13239,6 +13271,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Table: Object Hardness and Hit Points**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T142343Z" creationid="qt911" creationdate="20210607T142343Z">
+        <seg>**表：物品的硬度与生命值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Table: Size Modifiers**</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201114T020247Z" creationid="quentine" creationdate="20201114T020247Z">
@@ -13247,10 +13287,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Table: Size and Defense of Objects**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T140052Z" creationid="qt911" creationdate="20210607T140052Z">
+        <seg>**表：尺寸与物品防御的关系**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Table: Skill Points per Level**</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T134146Z" creationid="quentine" creationdate="20190805T134146Z">
         <seg>**表：每级技能点**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Substance Hardness and Hit Points**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141835Z" creationid="qt911" creationdate="20210607T141835Z">
+        <seg>**表：物质的硬度与生命值**</seg>
       </tuv>
     </tu>
     <tu>
@@ -15613,6 +15669,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can instead target a specific 5-foot square, including a square occupied by a creature.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T134821Z" creationid="qt911" creationdate="20210607T134821Z">
+        <seg>角色也可以瞄准一个方格，无论方格上有没有生物占据着。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can lift up to double his or her maximum load off the ground, but he or she can only stagger around with it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T134445Z" creationid="quentine" creationdate="20191105T134445Z">
@@ -17749,6 +17813,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A hit deals direct hit damage to the target and splash damage to all other creatures within 5 feet of the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T135018Z" creationid="qt911" creationdate="20210607T134700Z">
+        <seg>攻击将对目标造成直接伤害，并对所有距目标5尺内的所有其他生物造成溅射伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A human-size creature occupies an area 1 inch (5 feet) across (or one square)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T132334Z" creationid="qt911" creationdate="20210530T132334Z">
@@ -18181,6 +18253,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A planted explosive is set in place, with a timer or fuse determining when it goes off.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T133711Z" creationid="qt911" creationdate="20210607T133538Z">
+        <seg>安装式爆炸物需要安装在指定位置，以计时器或导火索决定何时引爆。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A player doesn’t have to declare anything special for his or her character to be on the defensive.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210106T130543Z" creationid="qt911" creationdate="20210106T130543Z">
@@ -18537,6 +18617,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200424T132224Z" creationid="quentine" creationdate="20200424T132224Z">
         <seg>溅射武器指的是在撞击时爆发的抛射物，溅射波及一片区域，并伤害区域内的所有生物或物体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A splash weapon is a ranged weapon that breaks apart on impact, splashing or scattering its contents over its target and nearby creatures or objects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T134231Z" creationid="qt911" creationdate="20210607T134231Z">
+        <seg>溅射武器是一种远程武器，当武器撞击到目标时，其内容物会溅射、散布开来，覆盖到目标以及目标附近的生物或物体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19305,8 +19393,16 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>After determining where the explosive landed, it deals its damage to all targets within the burst radius of the weapon.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210606T143530Z" creationid="qt911" creationdate="20210606T143530Z">
-        <seg>决定了爆炸物的落点后，将对武器的爆炸半径内的所有目标造成伤害。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T133938Z" creationid="qt911" creationdate="20210606T143530Z">
+        <seg>决定了爆炸物的落点后，将对爆炸半径内的所有目标造成伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After determining where the object landed, it deals splash damage to all creatures within 5 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T135153Z" creationid="qt911" creationdate="20210607T135153Z">
+        <seg>决定了落点后，再对落点5尺内的所有生物造成溅射伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20427,6 +20523,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T075432Z" creationid="quentine" creationdate="20190216T075432Z">
         <seg>被激励的友方的豁免、攻击和伤害骰共计获得3点士气加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An object being held, carried, or worn has a Defense equal to the above figure + 5 + the opponent’s Dexterity modifier + the opponent’s class bonus to Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141128Z" creationid="qt911" creationdate="20210607T140727Z">
+        <seg>被对手手持、携带或穿戴的物品，其防御值=尺寸防御+5+对手的敏捷调整值+对手的职业防御加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26304,6 +26408,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hardness: Each object has hardness—a number that represents how well it resists damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141330Z" creationid="qt911" creationdate="20210607T141330Z">
+        <seg>硬度：每件物品都有硬度——代表了物品能抵抗多少伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Having a car repaired can be expensive; how expensive depends on the amount of damage the vehicle has suffered.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T143450Z" creationid="quentine" creationdate="20200117T143450Z">
@@ -26512,6 +26624,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hit Points: An object’s hit point total depends on what it is made of or how big it is (see Table Substance Hardness and Hit Points and Table Object Hardness and Hit Points).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141815Z" creationid="qt911" creationdate="20210607T141815Z">
+        <seg>生命值：物品的生命值完全取决于其材质和大小（见`表：物质的硬度与生命值`以及`表：物品的硬度与生命值`）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hit points are based on the character’s class and level, and the character’s Constitution modifier applies.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121159Z" creationid="quentine" creationdate="20201118T121159Z">
@@ -26652,6 +26772,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T124255Z" creationid="quentine" creationdate="20190703T124203Z">
         <seg>然而，他们只有极少数的行动点是满的（因为他们在冒险中总不可能一点行动点都没花）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, if a character targets a square, creatures within 5 feet are dealt the splash damage, and the direct hit damage is not dealt to any creature.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T135010Z" creationid="qt911" creationdate="20210607T135010Z">
+        <seg>但是，如果角色瞄准的是方格，将对5尺内的所有生物造成溅射伤害，而不会对任何生物造成直接伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26948,6 +27076,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T122705Z" creationid="qt911" creationdate="20210105T121714Z">
         <seg>如果角色在回合内进行了这样的移动，则不可进行五尺快步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a character uses a full-round action to make an attack against an inanimate, immobile object, the character gets an automatic hit with a melee weapon, or a +5 bonus on his or her attack roll with a ranged weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T140633Z" creationid="qt911" creationdate="20210607T140633Z">
+        <seg>如果角色用一个整轮动作攻击一个无生命的、固定的物体，以近战武器攻击必然命中，以远程武器攻击，攻击骰由5点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28308,6 +28444,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190803T142707Z" creationid="quentine" creationdate="20190803T142707Z">
         <seg>角色跳远所进行的跳跃检定将获得2点表现加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character misses the target (whether aiming at a creature or a square), check to see where the weapon lands, using the rules for thrown explosives.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T135112Z" creationid="qt911" creationdate="20210607T135112Z">
+        <seg>如果角色失手（无论瞄准的是生物还是方格），应当用投掷爆炸物的规则检定武器的最终落点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32450,6 +32594,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most splash weapons consist of liquids in breakable containers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T134326Z" creationid="qt911" creationdate="20210607T134326Z">
+        <seg>大多数溅射武器由液体和易爆容器制成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most uses of Autohypnosis are attack actions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190619T131154Z" creationid="quentine" creationdate="20190619T131145Z">
@@ -32614,6 +32766,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190923T130222Z" creationid="quentine" creationdate="20190923T130222Z">
         <seg>使用此制造技能无需财富检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No attack roll is necessary to plant an explosive; the explosive sits where it is placed until it is moved or goes off.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T133808Z" creationid="qt911" creationdate="20210607T133605Z">
+        <seg>安装爆炸物不需要掷攻击骰；爆炸物会一直待在安装位置，除非被移动或爆炸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32826,10 +32986,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Object Defense and Bonuses to Attack: Objects are harder or easier to hit depending on their size and whether they are immobile or being held, carried, or worn by opponents.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141121Z" creationid="qt911" creationdate="20210607T135952Z">
+        <seg>物品的防御值和攻击的加值：物品会根据其尺寸以及其运动状态、是否被对手手持、携带或穿戴等因素，变得更难或更容易被命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Objects (including vehicles) and some types of creatures are immune to critical hits.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T114837Z" creationid="quentine" creationdate="20201118T114837Z">
         <seg>物品（包括载具）以及一些种类的生物免疫重击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Objects are easier to hit than characters because they usually don’t move, but many are tough enough to shrug off some damage from each blow.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T135637Z" creationid="qt911" creationdate="20210607T135637Z">
+        <seg>物品通常比人更容易被命中，因为物品通常是固定的，但大多数物品都相当坚固，使每次击打都有一部分伤害被抵消掉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33358,6 +33534,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only damage in excess of its hardness is deducted from the object’s hit points (see Table: Substance Hardness and Hit Points and Table: Object Hardness and Hit Points).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141655Z" creationid="qt911" creationdate="20210607T141655Z">
+        <seg>只有超过了硬度的伤害，才能降低物品的生命值（见`表：物质的硬度与生命值`以及`表：物品的硬度与生命值`）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only objects that can normally be used more than once can be improvised.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190518T125813Z" creationid="quentine" creationdate="20190518T125650Z">
@@ -33584,8 +33768,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Others are planted, with fuses or timers, and go off after a preset amount of time elapses.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210605T141751Z" creationid="qt911" creationdate="20210605T141751Z">
-        <seg>其他的都是带导火索或计时器的植入式爆炸物，会在预设的时间结束后爆炸。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T133645Z" creationid="qt911" creationdate="20210605T141751Z">
+        <seg>其他的都是带导火索或计时器的安装式爆炸物，会在预设的时间结束后爆炸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35524,6 +35708,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sometimes a character needs to attack or break an object</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T135218Z" creationid="qt911" creationdate="20210607T135218Z">
+        <seg>有时候角色需要攻击或打破物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sometimes a character tries to do something to which no specific skill applies.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T135657Z" creationid="quentine" creationdate="20190806T135657Z">
@@ -35896,6 +36088,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201114T014305Z" creationid="quentine" creationdate="20201114T014305Z">
         <seg>力量让角色能更快更有力地挥舞武器，所以角色的力量调整值作用于近战攻击骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Striking a held, carried, or worn object provokes an attack of opportunity from the character who holds it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141200Z" creationid="qt911" creationdate="20210607T141106Z">
+        <seg>攻击对手手持、携带或穿戴的物品，会引发该对手的借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39000,6 +39200,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191020T021931Z" creationid="quentine" creationdate="20191020T021931Z">
         <seg>分析线索的基础DC是15。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The base Defense of objects is shown on Table: Size and Defense of Objects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T140059Z" creationid="qt911" creationdate="20210607T140036Z">
+        <seg>物品的基础防御值见`表：尺寸与物品防御的关系`</seg>
       </tuv>
     </tu>
     <tu>
@@ -45358,6 +45566,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thrown weapons require no weapon proficiency, so characters don’t take the –4 nonproficient penalty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T134440Z" creationid="qt911" creationdate="20210607T134440Z">
+        <seg>投掷武器不需要任何擅长专长，所以不会承受4点不擅长减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thus, a double (x2) and a double (x2) applied to the same number results in a triple (x3, because 2 + 1 = 3).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181024T044522Z" creationid="QuenTine" creationdate="20181024T043605Z">
@@ -45410,6 +45626,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T115716Z" creationid="quentine" creationdate="20191104T115320Z">
         <seg>稀松平常、人人都有的，且不强制要求每个角色若使用就必须特地购买的物品，适用以下规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To attack with a splash weapon, make a ranged touch attack against the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T134355Z" creationid="qt911" creationdate="20210607T134355Z">
+        <seg>溅射武器的攻击方式是对目标进行一次远程的接触攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46318,6 +46542,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the rules for thrown explosives.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T134851Z" creationid="qt911" creationdate="20210607T134851Z">
+        <seg>瞄准方格将应用投掷式爆炸物的规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use these multipliers instead of the ones given above: Fine x1/4, Diminutive x1/2, Tiny x3/4, Small x1, Medium-size x1.5, Large x3, Huge x6, Gargantuan x12, and Colossal x24.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T135642Z" creationid="quentine" creationdate="20191105T135642Z">
@@ -46934,6 +47166,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a planted explosive detonates, it deals its damage to all targets within the burst radius of the weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T133927Z" creationid="qt911" creationdate="20210607T133927Z">
+        <seg>当安装式爆炸物被引爆时，将对爆炸半径内的所有目标造成伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a poisoned character makes a saving throw against a poison’s secondary effect, the treating character first makes a Treat Injury check as an attack action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191028T132134Z" creationid="quentine" creationdate="20191028T132134Z">
@@ -47490,6 +47730,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190112T061316Z" creationid="QuenTine" creationdate="20181106T140704Z">
         <seg>即只要角色购买了DC大于财富加值的物品，角色的财富加值会减少（如下）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whenever an object takes damage, subtract its hardness from the damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141425Z" creationid="qt911" creationdate="20210607T141425Z">
+        <seg>只要物品受到伤害，最终伤害值都要减去硬度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51640,6 +51888,70 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|Object|Hardness|Hit Points|Break DC|
+|------|:------:|:--------:|:------:|
+|Lock||||
+|Cheap|0|1|10|
+|Average|3|5|15|
+|High quality|5|10|20|
+|High security|10|120|35|
+|Ultrahigh security|20|150|40|
+|||||
+|Manufactured objects\*||||
+|Fine|0|1|10|
+|Diminutive|0|1|10|
+|Tiny|1|2|10|
+|Small|3|3|12|
+|Medium-size|5|5|15|
+|Large|5|10|15|
+|Huge|8|10|20|
+|Gargantuan|8|20|30|
+|Colossal|10|30|50|
+|||||
+|Firearm, Medium-size|5|7|17|
+|Rope|0|2|23|
+|Simple wooden door|5|10|13|
+|Strong wooden door|5|20|23|
+|Steel door|10|120|35|
+|Cinderblock wall|8|90|35|
+|Chain|10|5|26|
+|Handcuffs|10|10|30|
+|Metal bars|10|15|30|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T143201Z" creationid="qt911" creationdate="20210607T143201Z">
+        <seg>|物品|硬度|生命值|打破所需DC|
+|------|:------:|:--------:|:------:|
+|锁||||
+|廉价|0|1|10|
+|一般|3|5|15|
+|高质量|5|10|20|
+|高度安全|10|120|35|
+|顶级安全|20|150|40|
+|||||
+|人造物\*||||
+|超微型|0|1|10|
+|微型|0|1|10|
+|超小型|1|2|10|
+|小型|3|3|12|
+|普通|5|5|15|
+|大型|5|10|15|
+|超大型|8|10|20|
+|巨型|8|20|30|
+|超巨型|10|30|50|
+|||||
+|枪械（普通尺寸）|5|7|17|
+|绳索|0|2|23|
+|简易木门|5|10|13|
+|坚固木门|5|20|23|
+|钢铁门|10|120|35|
+|煤渣砖门|8|90|35|
+|锁链|10|5|26|
+|手铐|10|10|30|
+|金属条|10|15|30|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|Object|Size|Weight|Purchase DC|Restriction|
 |------|:--:|:----:|:---------:|:---------:|
 |**Bags and Boxes**|-|-|-|-|
@@ -52060,6 +52372,34 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|Size (Example)|Defense|
+|--------------|:-----:|
+|Colossal (jetliner)|–3|
+|Gargantuan (army tank)|1|
+|Huge (typical car)|3|
+|Large (big door)|4|
+|Medium-size (dirt bike)|5|
+|Small (chair)|6|
+|Tiny (laptop computer)|7|
+|Diminutive (paperback book)|9|
+|Fine (pencil)|13|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T140507Z" creationid="qt911" creationdate="20210607T140507Z">
+        <seg>|尺寸（范例）|防御|
+|--------------|:-----:|
+|超巨型（喷气式客机）|–3|
+|巨型（坦克）|1|
+|超大型（常见的车辆）|3|
+|大型（大门）|4|
+|普通（越野摩托车）|5|
+|小型（椅子）|6|
+|超小型（笔记本电脑）|7|
+|微型（平装书）|9|
+|超微型（铅笔）|13|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|Size (Example)|Size Modifier|
 |--------------|:-----------:|
 |Colossal (blue whale \[90 ft.</seg>
@@ -52310,6 +52650,38 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |28|小于等于400 磅|401–800 磅|801–1,200 磅|
 |29|小于等于466 磅|467–933 磅|934–1,400 磅|
 |+10|x4|x4|x4|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Substance|Hardness|Hit Points|
+|---------|:------:|----------|
+|Paper|0|2/inch of thickness|
+|Rope|0|2/inch of thickness|
+|Plastic, soft|0|3/inch of thickness|
+|Glass|1|1/inch of thickness|
+|Ceramic|1|2/inch of thickness|
+|Ice|0|3/inch of thickness|
+|Plastic, hard|2|5/inch of thickness|
+|Wood|5|10/inch of thickness|
+|Aluminum|6|10/inch of thickness|
+|Concrete|8|15/inch of thickness|
+|Steel|10|30/inch of thickness|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T142338Z" creationid="qt911" creationdate="20210607T142338Z">
+        <seg>|物质|硬度|生命值|
+|---------|:------:|----------|
+|纸|0|2每寸厚度|
+|绳索|0|2每寸厚度|
+|软塑料|0|3每寸厚度|
+|玻璃|1|1每寸厚度|
+|陶瓷|1|2每寸厚度|
+|冰|0|3每寸厚度|
+|硬塑料|2|5每寸厚度|
+|木材|5|10每寸厚度|
+|铝|6|10每寸厚度|
+|混凝土|8|15每寸厚度|
+|钢铁|10|30每寸厚度|</seg>
       </tuv>
     </tu>
     <tu>
