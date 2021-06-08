@@ -1381,3 +1381,4 @@ Simple wooden door	简易木门
 Strong wooden door	坚固木门
 Cinderblock	煤渣砖
 Metal bars	金属条
+Unattended	未受照管的	没有被带在、拿在角色身上的（物品）

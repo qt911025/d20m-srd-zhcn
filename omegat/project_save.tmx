@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Bull Rush</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130646Z" creationid="qt911" creationdate="20210608T130646Z">
+        <seg>## 冲撞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Carrying Capacity</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T142922Z" creationid="quentine" creationdate="20191104T142922Z">
@@ -1540,6 +1548,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201030T124017Z" creationid="quentine" creationdate="20201030T124017Z">
         <seg>## 其他载具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Overrun</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140217Z" creationid="qt911" creationdate="20210608T140217Z">
+        <seg>## 闯越</seg>
       </tuv>
     </tu>
     <tu>
@@ -2600,6 +2616,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Breaking Objects</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T125828Z" creationid="qt911" creationdate="20210608T125828Z">
+        <seg>### 破坏物品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Bribery and Diplomacy</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190924T134550Z" creationid="quentine" creationdate="20190924T134550Z">
@@ -2620,6 +2644,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190730T134058Z" creationid="quentine" creationdate="20190730T134058Z">
         <seg>### 构造师</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Bull Rush Results</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131938Z" creationid="qt911" creationdate="20210608T131938Z">
+        <seg>### 冲撞结果</seg>
       </tuv>
     </tu>
     <tu>
@@ -3712,6 +3744,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Initiating a Bull Rush</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131417Z" creationid="qt911" creationdate="20210608T131417Z">
+        <seg>### 开始冲撞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Initiative Checks</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T140928Z" creationid="quentine" creationdate="20201118T140928Z">
@@ -4390,6 +4430,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190803T142303Z" creationid="quentine" creationdate="20190803T142303Z">
         <seg>### 闻名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Repairing Objects</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130334Z" creationid="qt911" creationdate="20210608T130334Z">
+        <seg>### 修理物品</seg>
       </tuv>
     </tu>
     <tu>
@@ -7258,6 +7306,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(A character can always move through a square occupied by someone who lets the character by.) If the opponent blocks the character, make a trip attack against the opponent (see Trip).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T145204Z" creationid="qt911" creationdate="20210608T142451Z">
+        <seg>（方格上的角色如果允许角色通过，那么角色总是能穿过。）如果目标选择阻挡角色，角色应对对手做一个绊摔攻击（见绊摔）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(A character can target a square occupied by a creature.) Throwing the explosive is an attack action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210605T142143Z" creationid="qt911" creationdate="20210605T142143Z">
@@ -7434,6 +7490,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190526T112703Z" creationid="quentine" creationdate="20190526T112703Z">
         <seg>（如果目标被明星或其伙伴威胁或攻击，这个能力就不起作用。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(In general, a character cannot make an attack action during a move action; this is an exception.) In either case, the character doesn’t get a 5-foot step before, during, or after the overrun attempt.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140326Z" creationid="qt911" creationdate="20210608T140326Z">
+        <seg>（一般来说，角色不能在移动动作中做出攻击动作，而这是个例外。）在以上情况下，角色不能在闯越之前、途中、之后做五尺快步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(In general, a character can’t make an attack action during a move action; this is an exception.) In either case, the character doesn’t get a 5-foot step before, during, or after the bull rush attempt.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131125Z" creationid="qt911" creationdate="20210608T131125Z">
+        <seg>（一般来说，角色不能在移动动作中做出攻击动作，而这是个例外。）在以上情况下，角色不能在冲撞之前、途中、之后做五尺快步。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7690,6 +7762,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(The target provokes attacks of opportunity if moved.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T135727Z" creationid="qt911" creationdate="20210608T135727Z">
+        <seg>（目标如果被推动，将引发借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(The taser is a ranged weapon with a similar effect.) On a successful hit, the stun gun deals 1d3 points of electricity damage,(do not add the character’s Str bonus) and the target must make a Fortitude saving throw (DC 15) or be paralyzed for 1d6 rounds.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200519T132029Z" creationid="quentine" creationdate="20200519T131834Z">
@@ -7726,6 +7806,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T132607Z" creationid="quentine" creationdate="20191027T132607Z">
         <seg>（在这种情况下，GM为角色秘密检定察言观色，以让角色不知道有人试图唬骗。）使用察言观色感觉他人是否智的信赖需要至少1分钟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Without the tools, a character takes a –4 penalty on his or her Repair check.) At the end of the hour, make a Repair check (DC 20).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130537Z" creationid="qt911" creationdate="20210608T130537Z">
+        <seg>（如果没有工具，角色的修理检定承受4点减值。）在这一小时结束时，做一个修理鉴定（DC20）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8559,8 +8647,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>**Benefit:** In melee combat, if an opponent attacks and misses the character, the character may immediately make a trip attack against the opponent.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190802T145106Z" creationid="quentine" creationdate="20190802T140936Z">
-        <seg>**效果：** 近战时，若对手攻击角色失守，角色可以立即对此对手进行绊摔攻击。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T142506Z" creationid="quentine" creationdate="20190802T140936Z">
+        <seg>**效果：** 近战时，若对手攻击角色失手，角色可以立即对此对手进行绊摔攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15525,6 +15613,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can attempt a bull rush as an attack action made during his or her move action, or as part of a charge.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130909Z" creationid="qt911" creationdate="20210608T130909Z">
+        <seg>角色可以在做移动动作时，花费一个攻击动作冲撞，也可以在冲锋时冲撞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can attempt an overrun as an attack action made during his or her move action, or as part of a charge.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140302Z" creationid="qt911" creationdate="20210608T140302Z">
+        <seg>角色可以在做移动动作时，花费一个攻击动作闯越，也可以在冲锋时闯越。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can attempt to tumble as a free action that must be performed as part of a move action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191028T141052Z" creationid="quentine" creationdate="20191028T141052Z">
@@ -15741,6 +15845,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can make only one overrun attempt per action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140609Z" creationid="qt911" creationdate="20210608T140537Z">
+        <seg>角色每个动作只能做一次闯越，一次闯越只能穿过一个对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can move half that far (one-half his or her speed) as a move action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190808T150755Z" creationid="quentine" creationdate="20190808T150755Z">
@@ -15773,10 +15885,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can only bull rush an opponent who is one size category larger than the character, the same size, or smaller.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131354Z" creationid="qt911" creationdate="20210608T131354Z">
+        <seg>角色只能对比自己大一级、相等、或者比自己小一级的对手发动冲撞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can only make attacks of opportunity with melee weapons, never with ranged weapons.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210106T131809Z" creationid="qt911" creationdate="20210106T131809Z">
         <seg>角色只能用近战武器进行借机攻击，没有远程的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can only overrun an opponent who is one size category larger than the character, the same size, or smaller.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140440Z" creationid="qt911" creationdate="20210608T140440Z">
+        <seg>角色只能对比自己大一级、相等、或者比自己小一级的对手发动闯越。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16249,6 +16377,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T123408Z" creationid="quentine" creationdate="20190804T123408Z">
         <seg>角色不能在重度负载或穿着重甲时使用此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can’t, however, exceed his or her normal movement for that action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T135651Z" creationid="qt911" creationdate="20210608T135651Z">
+        <seg>但是，角色移动的总距离不能超过常速。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20527,6 +20663,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An object attended by a character (being grasped, touched, or worn) receives a saving throw just as if the character herself were making the saving throw.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T125805Z" creationid="qt911" creationdate="20210608T125723Z">
+        <seg>被角色`照管`（握着、接触着、穿戴着）的物品可进行豁免检定，相当于让照管者本人代行豁免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An object being held, carried, or worn has a Defense equal to the above figure + 5 + the opponent’s Dexterity modifier + the opponent’s class bonus to Defense.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141128Z" creationid="qt911" creationdate="20210607T140727Z">
@@ -23547,6 +23691,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cold attacks deal one-quarter damage to most objects; divide the damage by 4 before applying the hardness.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T124840Z" creationid="qt911" creationdate="20210608T124840Z">
+        <seg>寒冷攻击对大多数物品造成1/4伤；造成的伤害在扣除硬度之前先除以4。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Collecting evidence generally takes 1d4 minutes per object.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191021T133735Z" creationid="quentine" creationdate="20191021T133735Z">
@@ -25032,6 +25184,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Electricity and fire attacks deal half damage to most objects; divide the damage by 2 before applying the hardness.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T124806Z" creationid="qt911" creationdate="20210608T124806Z">
+        <seg>电与火焰攻击对大多数物品造成半伤；造成的伤害在扣除硬度之前先除以2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Electro-Optical: An electro-optical scope functions the same as a standard scope in normal light.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T105340Z" creationid="quentine" creationdate="20200117T105340Z">
@@ -25068,6 +25228,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T133341Z" creationid="qt911" creationdate="20210530T133341Z">
         <seg>累赘：角色因搬运重物或倒地同伴而承受的累赘会降低角色的移动速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Energy Attacks: Acid and sonic/concussive attacks deal normal damage to most objects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T124644Z" creationid="qt911" creationdate="20210608T124644Z">
+        <seg>能量攻击：酸性与音波/震荡攻击能对大多数物品造成一般伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25700,6 +25868,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191111T135751Z" creationid="quentine" creationdate="20191111T135751Z">
         <seg>首先，衣物是易容的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First, the character moves into the target’s square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131429Z" creationid="qt911" creationdate="20210608T131429Z">
+        <seg>首先，角色移动到目标的方格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First, the character must move at least 10 feet in a straight line into the target’s square (provoking attacks of opportunity normally).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140725Z" creationid="qt911" creationdate="20210608T140725Z">
+        <seg>首先，角色必须至少直线移动10尺，移动到目标的方格（将照常引发借机攻击）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27256,6 +27440,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If an object has lost half or more of its hit points, the DC to break it decreases by 2.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130328Z" creationid="qt911" creationdate="20210608T130328Z">
+        <seg>如果物品失去了一半及以上地生命值，破坏所需DC减2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If any particular notes apply to trained or untrained use, they are covered in the Special section (see below).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190807T115420Z" creationid="quentine" creationdate="20190807T115420Z">
@@ -27292,6 +27484,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T143019Z" creationid="quentine" creationdate="20201118T143019Z">
         <seg>如果角色进入一场已经开始的战斗，他们将在加入时立即进行一次先攻检定，按检定结果插入队列中，并在轮到自己时行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If damage remains, the character may continue to make repairs for as many hours as it takes to restore all the object’s hit points.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130641Z" creationid="qt911" creationdate="20210608T130641Z">
+        <seg>如果仍有伤害，角色可以继续修理多个小时，直到完全恢复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27592,6 +27792,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If that square is occupied, the character falls prone in the square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140209Z" creationid="qt911" creationdate="20210608T140209Z">
+        <seg>如果后退至的方格被占据了，角色将跌倒，进入俯卧状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If that’s the case, the character needs to make another check to defeat computer security.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T144538Z" creationid="quentine" creationdate="20190916T144538Z">
@@ -27856,6 +28064,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character and the target are different sizes, the larger combatant gets a bonus on the Strength check of +4 per difference in size category.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131727Z" creationid="qt911" creationdate="20210608T131727Z">
+        <seg>如果角色与目标体型不同，大的一方的力量检定会获得每体型等级差距+4的加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character attempts a Jump check untrained, the character lands prone unless he or she beats the DC by 5 or more.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191021T134750Z" creationid="quentine" creationdate="20191021T134725Z">
@@ -27884,6 +28100,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T142327Z" creationid="quentine" creationdate="20190916T135333Z">
         <seg>如果角色检定结果成功大于等于DC+10，在这次会话内，将自动成功完成破解此系统的所有步骤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character beats the target’s Strength check, the character pushes the opponent back 5 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T135458Z" creationid="qt911" creationdate="20210608T135458Z">
+        <seg>如果角色在力量对抗中胜出，角色将把对手向后推5格。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28048,6 +28272,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character fails and are tripped in turn, the character falls prone in the target’s square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T145533Z" creationid="qt911" creationdate="20210608T145301Z">
+        <seg>如果绊摔失败而反被绊摔了，那么在这回合，角色将在目标的方格内摔倒并俯卧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character fails but are not tripped, the character has to move 5 feet back the way he or she came, ending his or her movement there.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T145705Z" creationid="qt911" creationdate="20210608T145705Z">
+        <seg>如果角色绊摔失败而没被绊摔，角色将原路后退5尺，并停止移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character fails by 5 or more, he or she goes underwater.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T141755Z" creationid="quentine" creationdate="20191027T141755Z">
@@ -28196,6 +28436,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T144238Z" creationid="quentine" creationdate="20190114T144238Z">
         <seg>如果角色豁免失败，角色的生命值会立即减至-1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character fails to beat the target’s Strength check, the character moves 5 feet straight back to where the character was before the character moved into the opponents square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140054Z" creationid="qt911" creationdate="20210608T140054Z">
+        <seg>如果角色力量对抗失败，将从目标的方格中原路后退5尺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28500,6 +28748,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T044114Z" creationid="quentine" creationdate="20191027T044114Z">
         <seg>如果角色的专业检定成功，其财富加值将+1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character succeeds in tripping his or her opponent, the character can continue his or her movement as normal.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T145232Z" creationid="qt911" creationdate="20210608T145232Z">
+        <seg>如果角色成功绊摔了对手，则可照常移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29084,6 +29340,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T132317Z" creationid="qt911" creationdate="20210105T132317Z">
         <seg>如果副手武器是轻武器，两只手的攻击减值都要少2点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the opponent avoids the character, the character keeps moving.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T142111Z" creationid="qt911" creationdate="20210608T142111Z">
+        <seg>如果目标避开了角色，角色将继续移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29748,6 +30012,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181104T125521Z" creationid="QuenTine" creationdate="20181104T125521Z">
         <seg>插画师、文案写手、卡通画师、图形艺术家、小说家、杂志专栏作家、演员、雕塑师、游戏设计师、音乐家、剧作家、摄影师以及网页设计师都属于这一类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Immunities: Objects are immune to nonlethal damage and to critical hits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T125007Z" creationid="qt911" creationdate="20210608T125007Z">
+        <seg>免疫：物品免疫非致命攻击与重击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30572,6 +30844,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190613T122809Z" creationid="quentine" creationdate="20190613T122809Z">
         <seg>需要强调的是，术士只能通过使用卷轴的方式施展秘法法术。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ineffective Weapons: The GM may determine that certain weapons just can’t deal damage effectively to certain objects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T124938Z" creationid="qt911" creationdate="20210608T124938Z">
+        <seg>无效武器：GM可以规定特定的武器对特定物品不能造成有效伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32690,6 +32970,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Moving in this way provokes an attack of opportunity from each foe that threatens the character, probably including the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131515Z" creationid="qt911" creationdate="20210608T131515Z">
+        <seg>如此移动将引发所有敌人对自身的借机攻击，可能包括冲撞的目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moving out of a Threatened Square: When a character moves out of a threatened square, that character generally provokes an attack of opportunity.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210106T132204Z" creationid="qt911" creationdate="20210106T132204Z">
@@ -34660,6 +34948,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Repairing damage to an object takes a full hour of work and appropriate tools.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130440Z" creationid="qt911" creationdate="20210608T130440Z">
+        <seg>修理物品的伤害要花费一整小时的时间，还需要合适的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181022T112029Z" creationid="QuenTine" creationdate="20181022T112029Z">
@@ -34796,6 +35092,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Saving Throws: Unattended objects never make saving throws.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T125349Z" creationid="qt911" creationdate="20210608T125349Z">
+        <seg>豁免骰：`未受照管的`物品不能掷豁免骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Saving throws and opposed checks are not affected.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190620T141250Z" creationid="quentine" creationdate="20190620T140356Z">
@@ -34840,6 +35144,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T132048Z" creationid="quentine" creationdate="20190115T132048Z">
         <seg>极端的炎热或寒冷天气（沙漠或极地情况）强制角色每十分钟进行一次强韧豁免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Second, the character and the target make opposed Strength checks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131555Z" creationid="qt911" creationdate="20210608T131555Z">
+        <seg>然后，角色与目标进行力量对抗检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35352,6 +35664,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200508T124323Z" creationid="quentine" creationdate="20200508T124323Z">
         <seg>烟雾弹有多种颜色可供选择，包括白、红、黄、绿、紫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So does the character, if he or she moves with the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T135753Z" creationid="qt911" creationdate="20210608T135753Z">
+        <seg>如果角色与目标一起移动，也会引发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36152,6 +36472,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T132422Z" creationid="quentine" creationdate="20190115T132422Z">
         <seg>成功则意味着火焰被灭掉了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Success restores 2d6 hit points.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130552Z" creationid="qt911" creationdate="20210608T130552Z">
+        <seg>若成功则恢复2d6生命值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37116,6 +37444,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The DC depends more on the construction of the object than on the material.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130159Z" creationid="qt911" creationdate="20210608T130159Z">
+        <seg>DC更多地取决于构造而非材质。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The DC depends on how common or obscure the object is.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191022T133911Z" creationid="quentine" creationdate="20191022T133911Z">
@@ -37880,6 +38216,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190923T133807Z" creationid="quentine" creationdate="20190923T133807Z">
         <seg>由GM进行检定（这样角色就不知道自己到底做得怎样了）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The GM may adjust these upward to account for objects with more strength and durability.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T124549Z" creationid="qt911" creationdate="20210608T124549Z">
+        <seg>GM可以将它们的数据向上调，使其更合理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39598,6 +39942,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The character can push the target back an additional 5 feet for every 5 points by which the character exceeded the target’s check result, provided the character moves with the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T135613Z" creationid="qt911" creationdate="20210608T135613Z">
+        <seg>角色的检定结果每超过对手5点，就可以将对手多往后推一格，角色也会跟着继续移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The character can run around a corner so that he or she is out of sight and then hide, but the others then know at least where the character went.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191004T134820Z" creationid="quentine" creationdate="20191004T134820Z">
@@ -39890,6 +40242,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T092745Z" creationid="quentine" creationdate="20190216T092745Z">
         <seg>角色获得1级的基础攻击加值、基础豁免加值、角色技能、新职业的职业专长、按正确掷骰获得的生命值以及新职业升1级所获的技能点（不是角色1级时获得的4倍技能点）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The character gets a +2 bonus if he or she was charging.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131756Z" creationid="qt911" creationdate="20210608T131756Z">
+        <seg>如果角色正在冲锋，则获得2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42617,6 +42977,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The target and the character do not provoke attacks of opportunity from each other as a result of this movement.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T135937Z" creationid="qt911" creationdate="20210608T135937Z">
+        <seg>而双方都不会因推动过程中的移动引发对方的借机攻击。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The target begins to suffocate on a failed check (see Suffocation and Drowning).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T134855Z" creationid="quentine" creationdate="20190115T134855Z">
@@ -42637,6 +43005,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190731T120333Z" creationid="quentine" creationdate="20190115T134651Z">
         <seg>目标可以闭气等同于其体质值的轮数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The target gets a +4 stability bonus if he or she has more than two legs or is otherwise exceptionally stable.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131933Z" creationid="qt911" creationdate="20210608T131933Z">
+        <seg>如果目标有两条以上的腿或者别的什么稳定方式，将获得4点稳定加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43029,6 +43405,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T123012Z" creationid="quentine" creationdate="20190703T123012Z">
         <seg>他们的基础攻击加值为0，所有豁免骰有0点调整值（加上任何高或低属性的属性调整值），还有他们的声望加值为0。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then the target chooses either to avoid the character or to block the character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T142055Z" creationid="qt911" creationdate="20210608T142055Z">
+        <seg>然后，目标可选择避开或阻挡角色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43437,6 +43821,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191113T140609Z" creationid="quentine" creationdate="20191113T140609Z">
         <seg>作训服也印有迷彩伪装：丛林、沙漠、雪地、城市以及夜间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are considered to have failed their saving throws.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T125412Z" creationid="qt911" creationdate="20210608T125412Z">
+        <seg>所有的豁免将自动视为失败。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47022,6 +47414,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a character tries to break something with sudden force rather than by dealing damage, use a Strength check to see whether he or she succeeds.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130125Z" creationid="qt911" creationdate="20210608T130125Z">
+        <seg>若角色试图将物品打破而非仅仅造成伤害，则需要用力量检定来判断成功与否。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a character tries to take something from another person, the character’s opponent makes a Spot check to detect the attempt.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T133303Z" creationid="quentine" creationdate="20191027T133303Z">
@@ -47482,6 +47882,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190130T143513Z" creationid="quentine" creationdate="20190130T142127Z">
         <seg>体质型英雄生命值降到-1时，仍可处于瘫痪状态，每轮可以做单个攻击或移动动作，直到生命降到-10死亡，或者恢复到1或者更高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the character bull rushes, he or she attempts to push an opponent straight back instead of attacking the opponent.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131255Z" creationid="qt911" creationdate="20210608T131255Z">
+        <seg>角色冲撞将会尝试将对手向后推动，而不是攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48054,6 +48462,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>With an overrun, the character attempts to move through an opponents area, going past or over the opponent.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140426Z" creationid="qt911" creationdate="20210608T140426Z">
+        <seg>角色将通过闯越的方式穿过对手占据的区域，跨过对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>With each successful melee attack, the creature bestows one or more negative levels.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T134855Z" creationid="quentine" creationdate="20191030T134855Z">
@@ -48472,6 +48888,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T141904Z" creationid="qt911" creationdate="20210530T141904Z">
         <seg>\* 若目标与进攻方相邻则无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\* Figures for manufactured objects are minimum values.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T124414Z" creationid="qt911" creationdate="20210608T124414Z">
+        <seg>\* 人造物的尺寸对应的数据是下限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51918,8 +52342,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |Handcuffs|10|10|30|
 |Metal bars|10|15|30|</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T143201Z" creationid="qt911" creationdate="20210607T143201Z">
-        <seg>|物品|硬度|生命值|打破所需DC|
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T125859Z" creationid="qt911" creationdate="20210607T143201Z">
+        <seg>|物品|硬度|生命值|破坏所需DC|
 |------|:------:|:--------:|:------:|
 |锁||||
 |廉价|0|1|10|
