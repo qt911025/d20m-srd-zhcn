@@ -888,6 +888,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Disarm</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132922Z" creationid="qt911" creationdate="20210609T132922Z">
+        <seg>## 卸除武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Disease</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T141800Z" creationid="quentine" creationdate="20190115T141800Z">
@@ -1148,6 +1156,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T125226Z" creationid="quentine" creationdate="20190805T125226Z">
         <seg>## 获取技能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Grabbing Objects</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T135748Z" creationid="qt911" creationdate="20210609T135748Z">
+        <seg>## 夺取物品</seg>
       </tuv>
     </tu>
     <tu>
@@ -2152,6 +2168,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Trip</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T131429Z" creationid="qt911" creationdate="20210609T131429Z">
+        <seg>## 绊摔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Try Again?</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190619T134832Z" creationid="QuenTine" creationdate="20181106T140713Z">
@@ -2548,6 +2572,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201029T130443Z" creationid="quentine" creationdate="20201029T130443Z">
         <seg>### 贝琳娜 1802 卡普里</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Being Tripped (Prone)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132427Z" creationid="qt911" creationdate="20210609T132427Z">
+        <seg>### 被绊倒（俯卧）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3512,6 +3544,38 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Grabbing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140830Z" creationid="qt911" creationdate="20210609T140830Z">
+        <seg>### 擒抱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Grapple</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140339Z" creationid="qt911" creationdate="20210609T140339Z">
+        <seg>### 擒抱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Grapple Checks</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142043Z" creationid="qt911" creationdate="20210609T142043Z">
+        <seg>### 擒抱检定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Grapple Modifier</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142248Z" creationid="qt911" creationdate="20210609T142248Z">
+        <seg>### 擒抱调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Great Cleave</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190802T131945Z" creationid="quentine" creationdate="20190802T131945Z">
@@ -3596,6 +3660,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T082519Z" creationid="quentine" creationdate="20190216T082519Z">
         <seg>### 生命值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Holding</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141101Z" creationid="qt911" creationdate="20210609T141101Z">
+        <seg>### 闭锁</seg>
       </tuv>
     </tu>
     <tu>
@@ -3952,6 +4024,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Making a Trip Attack</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T131634Z" creationid="qt911" creationdate="20210609T131634Z">
+        <seg>### 发动绊摔攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Making an Attack of Opportunity</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210106T133400Z" creationid="qt911" creationdate="20210106T133400Z">
@@ -4228,6 +4308,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T022936Z" creationid="quentine" creationdate="20200116T022936Z">
         <seg>### 配药箱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Pinning</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141839Z" creationid="qt911" creationdate="20210609T141839Z">
+        <seg>### 压制</seg>
       </tuv>
     </tu>
     <tu>
@@ -4998,6 +5086,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T125800Z" creationid="quentine" creationdate="20200117T125800Z">
         <seg>### 运输</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Tripping with a Weapon</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132816Z" creationid="qt911" creationdate="20210609T132816Z">
+        <seg>### 用武器绊摔</seg>
       </tuv>
     </tu>
     <tu>
@@ -7424,6 +7520,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190526T075610Z" creationid="quentine" creationdate="20190526T075610Z">
         <seg>（这个收集信息检定不会触发任何财富转移。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(However, such a creature can get a hold on the character—so while a character can’t initiate a grapple with a creature more than two size categories larger than, a character can still end up in one.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141834Z" creationid="qt911" creationdate="20210609T141834Z">
+        <seg>（但是这样的生物能够对角色实施闭锁——所以角色即使不能闭锁比自己大两级的生物，仍可拖住目标。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -13359,6 +13463,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Table: Grapple Modifiers**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142732Z" creationid="qt911" creationdate="20210609T142732Z">
+        <seg>**表：擒抱调整值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Table: Object Hardness and Hit Points**</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210607T142343Z" creationid="qt911" creationdate="20210607T142343Z">
@@ -15605,6 +15717,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can also use disarm to snatch away an object worn by a target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T135816Z" creationid="qt911" creationdate="20210609T135816Z">
+        <seg>角色也可以用卸除武器的方式来夺取目标身上的物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can also use jury-rig to hot-wire a car or jump-start an engine or electronic device.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T085017Z" creationid="quentine" creationdate="20191027T085017Z">
@@ -15917,6 +16037,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can only trip an opponent who is one size category larger than the character, the same size, or smaller.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T131626Z" creationid="qt911" creationdate="20210609T131626Z">
+        <seg>角色只能对比自己大一级、相等、或者比自己小一级的对手发动绊摔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can perform one or more free actions while taking another action normally.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20201224T132913Z" creationid="qt911" creationdate="20201224T132913Z">
@@ -16213,6 +16341,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can try to trip an opponent, or otherwise knock him or her down, as an unarmed melee attack.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T131743Z" creationid="qt911" creationdate="20210609T131514Z">
+        <seg>角色可以尝试用徒手近战攻击绊摔对手，或者是击倒对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can use Navigate to determine his or her position on earth without the use of any high-tech equipment by checking the constellations or other natural landmarks.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T134833Z" creationid="quentine" creationdate="20191025T134833Z">
@@ -16333,6 +16469,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can’t get a hold on any creature more than two size categories larger than the character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141335Z" creationid="qt911" creationdate="20210609T141335Z">
+        <seg>角色不能对任何比自己大两个体型等级的生物实施闭锁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can’t take 10 or take 20 when making a Profession check to improve his or her Wealth bonus.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T044307Z" creationid="quentine" creationdate="20191027T044307Z">
@@ -16441,6 +16585,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T140129Z" creationid="qt911" creationdate="20210530T140129Z">
         <seg>角色进行远程攻击将不能获得夹击加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character doesn’t incur an attack of opportunity when doing so.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132859Z" creationid="qt911" creationdate="20210609T132859Z">
+        <seg>用这种方式进行攻击时，角色不会引发借机攻击。fang</seg>
       </tuv>
     </tu>
     <tu>
@@ -17277,6 +17429,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character’s attack bonus on a grapple check is:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142223Z" creationid="qt911" creationdate="20210609T142223Z">
+        <seg>角色对擒抱检定的攻击加值为：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character’s attack bonus with a melee weapon is:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201114T014008Z" creationid="quentine" creationdate="20201114T014008Z">
@@ -17537,6 +17697,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T144710Z" creationid="quentine" creationdate="20191031T144644Z">
         <seg>有灵敏嗅觉的生物可以追踪气味，这需要一个感知检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A creature’s size works in its favor when grappling, if that creature is Large or larger in size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142343Z" creationid="qt911" creationdate="20210609T142343Z">
+        <seg>如果生物是大型或更大的体型，这将有利于擒抱检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17849,6 +18017,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200508T125002Z" creationid="quentine" creationdate="20200508T125002Z">
         <seg>防毒面具可使角色免疫这个效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A grapple check is something like a melee attack roll.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142158Z" creationid="qt911" creationdate="20210609T142158Z">
+        <seg>擒抱检定类似近战攻击骰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18383,8 +18559,16 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>A pinned character is held immobile (but not helpless) in a grapple.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190115T124745Z" creationid="quentine" creationdate="20190115T124745Z">
-        <seg>角色在擒抱中被固定住，就是处于压制状态，无法行动（但不是无助）。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142021Z" creationid="quentine" creationdate="20190115T124745Z">
+        <seg>角色在擒抱中被固定住，就是处于压制状态，无法移动（但不是无助）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A pinned character is held immobile.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142014Z" creationid="qt911" creationdate="20210609T142014Z">
+        <seg>被压制的角色无法移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19067,6 +19251,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190201T153905Z" creationid="quentine" creationdate="20190201T153905Z">
         <seg>一个诡计在一次遭遇战中只能影响一个目标一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A tripped character is prone (see Table: Defense Modifiers).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132723Z" creationid="qt911" creationdate="20210609T132505Z">
+        <seg>被绊倒的角色会陷入俯卧（见表：防御调整值）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20051,6 +20243,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190801T141101Z" creationid="quentine" creationdate="20190731T125331Z">
         <seg>同样，如果角色是驾驶员，角色将可以在载具移动的任何阶段进行攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also, if the combatants are different sizes, the larger combatant gets a bonus on the attack roll of +4 per difference in size category.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134144Z" creationid="qt911" creationdate="20210609T134144Z">
+        <seg>同样，如果对抗双方的体型不同，大的一方的攻击骰检定会获得每体型等级差距+4的加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21383,6 +21583,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As a melee attack, a character may attempt to disarm his or her opponent.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T133004Z" creationid="qt911" creationdate="20210609T133004Z">
+        <seg>角色可以尝试卸除对手的武器，卸除武器是一种近战攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As a move action, the character may attempt to hear something that he or she failed (or believes he or she failed) to hear previously.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191024T112456Z" creationid="quentine" creationdate="20191024T112456Z">
@@ -22639,6 +22847,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attack of Opportunity: If the target’s attack of opportunity inflicts any damage, the attempt to grab the object automatically fails.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140000Z" creationid="qt911" creationdate="20210609T140000Z">
+        <seg>借机攻击：如果目标的借机攻击导致了任何伤害，夺取物品必然失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Attacking after a Charge: After moving, the character may make a single melee attack.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T124600Z" creationid="qt911" creationdate="20210105T124600Z">
@@ -22867,6 +23083,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201114T014144Z" creationid="quentine" creationdate="20201114T014144Z">
         <seg>基础攻击加值 + 敏捷调整值 + 体型调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Base attack bonus + Strength modifier + grapple modifier</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142237Z" creationid="qt911" creationdate="20210609T142237Z">
+        <seg>基础攻击加值 + 力量调整值 + 擒抱调整值</seg>
       </tuv>
     </tu>
     <tu>
@@ -23987,6 +24211,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Conversely, a creature of Small or smaller size is at a disadvantage because of its size when grappling.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142432Z" creationid="qt911" creationdate="20210609T142432Z">
+        <seg>相反，小型或更小体型的生物会因其体型处于劣势。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Conversely, the GM can decide that certain advanced classes aren’t available in the campaign.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190221T133438Z" creationid="quentine" creationdate="20190221T133438Z">
@@ -24600,6 +24832,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disarming the wielder of a ranged weapon is slightly different; see below.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T133606Z" creationid="qt911" creationdate="20210609T133556Z">
+        <seg>卸除远程武器与卸除近战武器会有一些不同，见后文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Discharging a fire extinguisher is a move action and instantly smothers flames in a 10-foot-by-10-foot area.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200420T141552Z">
@@ -24728,6 +24968,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Doing this provokes an attack of opportunity from the target as normal for unarmed attacks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T131832Z" creationid="qt911" creationdate="20210609T131832Z">
+        <seg>这么做会像一般的徒手攻击一样，引发目标对自己的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Doing this reduces the purchase DC by 3 and the Repair check DC by 5, and allows the character to make the checks in as little as a full-round action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T084456Z" creationid="quentine" creationdate="20191027T084456Z">
@@ -24740,6 +24988,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T130529Z" creationid="quentine" creationdate="20190523T132246Z">
         <seg>重新编程需要再花费一小时进行计算机使用技能检定，（DC20+要编程赋予技能的级数）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Doing this works the same as a disarm attempt (see above), except for the following.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T135852Z" creationid="qt911" creationdate="20210609T135852Z">
+        <seg>过程和卸除武器一样（见上文），但有以下几点不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25576,6 +25832,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Failed Attempts: Failing an attempt to grab an object doesn’t allow the target to at-tempt to disarm the character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140334Z" creationid="qt911" creationdate="20210609T140334Z">
+        <seg>若失败：夺取物品失败不会引发目标对角色的缴械。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Failure by 10 or more means the explosive goes off as the detonator is being installed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T085741Z" creationid="quentine" creationdate="20190923T132728Z">
@@ -26304,6 +26568,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>From a hold, a character can attempt a number of actions, including damaging the opponent or pinning the opponent.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141228Z" creationid="qt911" creationdate="20210609T141228Z">
+        <seg>再闭锁中，角色可以尝试许多动作，包括伤害对手或压制对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>From that point on, the Mage can prepare these spells without referring to a spellbook.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190624T142444Z" creationid="quentine" creationdate="20190624T142444Z">
@@ -26512,6 +26784,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Getting the opponent in a pin is often the goal of a grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141910Z" creationid="qt911" creationdate="20210609T141910Z">
+        <seg>压制对手往往是擒抱的最终目的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Give the skill user a +2 circumstance bonus to represent conditions that improve performance, such as having the perfect tool for the job, getting help from another character, or working under conditions that are significantly better than normal.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T124124Z" creationid="quentine" creationdate="20190806T123904Z">
@@ -26548,6 +26828,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181022T111944Z" creationid="QuenTine" creationdate="20181022T111944Z">
         <seg>授权与鉴于：鉴于同意使用该许可证，贡献者授予你一个永久的、全世界范围内的、开放专利的、非排外的许可证，允许摘录该许可证的条款以使用OGC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grappling means wrestling and struggling hand-to-hand.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140433Z" creationid="qt911" creationdate="20210609T140433Z">
+        <seg>擒抱指摔跤或环抱等压制行为。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27000,6 +27288,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, sometimes all a character wants to do is grab the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141057Z" creationid="qt911" creationdate="20210609T141057Z">
+        <seg>但是，有时后角色仅仅只是想抱住目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, the GM can impose limits depending on circumstances and a given situation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T134114Z" creationid="quentine" creationdate="20190805T134046Z">
@@ -27212,6 +27508,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210601T141821Z" creationid="qt911" creationdate="20210601T141821Z">
         <seg>若角色以远程武器攻击，且未与目标相邻，角色可以用一个整轮动作来攻击，攻击骰获得5点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a character is attempting to disarm the wielder of a melee weapon, follow the steps outlined here.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T133524Z" creationid="qt911" creationdate="20210609T133501Z">
+        <seg>如果角色尝试卸除近战武器，应遵循以下步骤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28024,6 +28328,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the attack succeeds, make a Strength check opposed by the target’s Dexterity check or Strength check (using whichever ability score has the higher modifier).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132120Z" creationid="qt911" creationdate="20210609T132120Z">
+        <seg>如果攻击成功，角色做一个力量检定，与目标的敏捷或力量（取提供加值最高的那一项）检定相对抗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the attack succeeds, the grenade or explosive lands in the targeted square.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210605T142828Z" creationid="qt911" creationdate="20210605T142828Z">
@@ -28068,6 +28380,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131727Z" creationid="qt911" creationdate="20210608T131727Z">
         <seg>如果角色与目标体型不同，大的一方的力量检定会获得每体型等级差距+4的加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character attempt the disarm while unarmed, the character ends up with the weapon in his or her hand.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T133253Z" creationid="qt911" creationdate="20210609T133253Z">
+        <seg>如果角色尝试徒手卸除武器，角色最终将会把武器夺取过来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character attempted the disarm action unarmed, he or she now has the weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134406Z" creationid="qt911" creationdate="20210609T134406Z">
+        <seg>如果角色试图徒手卸除武器，则将获得卸除的武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28200,6 +28528,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character does so with a weapon, he or she knocks the opponent’s weapon out of his or her hands and to the ground.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T133143Z" creationid="qt911" creationdate="20210609T133143Z">
+        <seg>如果角色用武器卸除，角色将把目标手中的武器打落在地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character does so, apply the highest result and disregard the other rolls.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T135950Z" creationid="quentine" creationdate="20190114T135950Z">
@@ -28274,16 +28610,16 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>If the character fails and are tripped in turn, the character falls prone in the target’s square.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T145533Z" creationid="qt911" creationdate="20210608T145301Z">
-        <seg>如果绊摔失败而反被绊摔了，那么在这回合，角色将在目标的方格内摔倒并俯卧。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132648Z" creationid="qt911" creationdate="20210608T145301Z">
+        <seg>如果绊摔失败而反被绊倒了，那么在这回合，角色将在目标的方格内摔倒并俯卧。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>If the character fails but are not tripped, the character has to move 5 feet back the way he or she came, ending his or her movement there.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T145705Z" creationid="qt911" creationdate="20210608T145705Z">
-        <seg>如果角色绊摔失败而没被绊摔，角色将原路后退5尺，并停止移动。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132655Z" creationid="qt911" creationdate="20210608T145705Z">
+        <seg>如果角色绊摔失败而没被绊倒，角色将原路后退5尺，并停止移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28424,6 +28760,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character fails the disarm attempt, the target may immediately react and attempt to disarm the character with the same sort of opposed melee attack roll.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134659Z" creationid="qt911" creationdate="20210609T134603Z">
+        <seg>如果角色卸除武器失败，目标可以立即作出反应，并尝试以同样的对抗方式卸除角色的武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character fails the save, he or she takes damage after an incubation period; once per day thereafter, the character must succeed at a Fortitude saving throw to avoid secondary damage.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T142031Z" creationid="quentine" creationdate="20190115T142031Z">
@@ -28544,6 +28888,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character grabs an opponent, but fails to go on to hold him or her, the character doesn’t actually start a grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141131Z" creationid="qt911" creationdate="20210609T140953Z">
+        <seg>如果角色擒抱住对手，但闭锁失败，则角色并没有陷入擒抱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character has a base attack bonus of +1 or higher, he or she can draw a weapon as part of his or her normal movement.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T122522Z" creationid="qt911" creationdate="20210105T122522Z">
@@ -28642,16 +28994,24 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>If the character is tripped during his or her own trip attempt, the character can drop the chain to avoid being tripped.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T142610Z" creationid="quentine" creationdate="20200519T142610Z">
-        <seg>如果角色绊摔时自己反被绊摔了，角色可以扔掉锁链以避免。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132638Z" creationid="quentine" creationdate="20200519T142610Z">
+        <seg>如果角色绊摔时自己反被绊倒了，角色可以扔掉锁链以避免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character is tripped during his or her own trip attempt, the character can drop the weapon to avoid being tripped.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132914Z" creationid="qt911" creationdate="20210609T132914Z">
+        <seg>如果角色绊摔时自己反被绊倒了，角色可以扔掉武器以避免。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>If the character is tripped during his or her own trip attempt, the character can drop the whip to avoid being tripped.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200420T144227Z" creationid="quentine" creationdate="20200420T144227Z">
-        <seg>如果角色绊摔时自己反被绊摔了，角色可以扔掉鞭子以避免。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132627Z" creationid="quentine" creationdate="20200420T144227Z">
+        <seg>如果角色绊摔时自己反被绊倒了，角色可以扔掉鞭子以避免。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28684,6 +29044,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T144742Z" creationid="quentine" creationdate="20190916T144742Z">
         <seg>如果角色只是想看看记录，则无需做额外的检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character loses, the target may immediately react and make a Strength check opposed by the character’s Dexterity check or Strength check to try to trip the character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134610Z" creationid="qt911" creationdate="20210609T132248Z">
+        <seg>如果角色落败，目标可以立即作出反应，并做一个力量检定与角色的敏捷或力量检定相对抗，以绊摔角色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28952,10 +29320,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character was armed, the target’s weapon is on the ground at the target’s feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134448Z" creationid="qt911" creationdate="20210609T134448Z">
+        <seg>如果角色以武器卸除武器，目标的武器或落到目标脚下的方格上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character wears armor, it provides a bonus to the character’s Defense.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T120238Z" creationid="quentine" creationdate="20190114T120238Z">
         <seg>角色穿着护甲也能提供防御加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character wins, he or she trips the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132231Z" creationid="qt911" creationdate="20210609T132231Z">
+        <seg>如果角色胜出，将绊摔对手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28980,6 +29364,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T115039Z" creationid="quentine" creationdate="20190114T114948Z">
         <seg>低敏捷则意味着角色在这方面十分笨拙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character’s attack succeeds, the ranged weapon falls to the ground or winds up in the character’s hands (if the character made the attack unarmed).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T135352Z" creationid="qt911" creationdate="20210609T135352Z">
+        <seg>如果角色的攻击成功，远程武器将落在地上，或者被角色夺取（如果角色是徒手攻击）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29352,6 +29744,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the opponent fails to disarm, the character does not get a free disarm attempt against the opponent.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T135040Z" creationid="qt911" creationdate="20210609T134925Z">
+        <seg>如果目标的这次尝试缴械失败，角色将无法获得免费的缴械的机会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the opponent is upwind, the range increases to 60 feet; if downwind, it drops to 15 feet.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T144138Z" creationid="quentine" creationdate="20191031T144138Z">
@@ -29664,6 +30064,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the target is using a weapon in two hands, he or she gets an additional +4 bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134042Z" creationid="qt911" creationdate="20210609T134042Z">
+        <seg>如果目标使用双手武器，还会再获得4点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the target square is more than one range increment away, make an attack roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210605T142644Z" creationid="qt911" creationdate="20210605T142644Z">
@@ -29752,10 +30160,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the weapon is held in two hands, it gets a +2 bonus to its Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T135232Z" creationid="qt911" creationdate="20210609T135232Z">
+        <seg>如果武器是双手握持的，防御将获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the weapon was thrown two to three range increments (11 to 30 feet), roll 1d8.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210606T141454Z" creationid="qt911" creationdate="20210606T141454Z">
         <seg>如果武器被投掷到2到3射程跨度内（11到30尺），掷1d8。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the weapons are different sizes, the combatant with the larger weapon gets a bonus on the attack roll of +4 per difference in size category.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134003Z" creationid="qt911" creationdate="20210609T134003Z">
+        <seg>如果武器的尺寸不同，武器大的一方的攻击骰检定会获得每尺寸等级差距+4的加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30916,6 +31340,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T133203Z" creationid="quentine" creationdate="20190806T133203Z">
         <seg>取20，而非掷1d20来进行技能检定，就当作是角色直接掷出了20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instead of using a creature’s size modifier on a grapple check (as would be done for a melee or ranged attack roll), use the appropriate grapple modifier from Table: Grapple Modifiers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142724Z" creationid="qt911" creationdate="20210609T142724Z">
+        <seg>在擒抱检定中，应对照`表：擒抱调整值`，使用合适的擒抱调整值代替体型调整值，其他的则和近战或远程攻击检定一样。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32442,6 +32874,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make an unarmed melee touch attack against the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T131701Z" creationid="qt911" creationdate="20210609T131701Z">
+        <seg>攻击方式是对目标做一个徒手近战接触攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make one Disguise check even if several people make Spot checks.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190925T125551Z" creationid="quentine" creationdate="20190925T125551Z">
@@ -32742,6 +33182,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181022T113452Z" creationid="QuenTine" creationdate="20181022T113452Z">
         <seg>MSRD版权2002-2003，威世智股份有限公司所有。作者：Bill Slavicsek、Jeff Grubb、Rich Redman、Charles Ryan、Eric Cagle、David Noonan、Stan!、基于Jonathan Tweet、Monte Cook、Skip Williams、Richard Baker、Peter Adkison、Bruce R. Cordell、John Tynes、Andy Collins和JD Wiker的材料。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Modifiers: If the object is well secured or otherwise difficult to grab from the target, the target gets a +4 bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140122Z" creationid="qt911" creationdate="20210609T140122Z">
+        <seg>调整值：如果物品被保护得很好，或者有其他原因导致难以被夺取，目标将获得4点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33186,6 +33634,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Normally, a grab is just the first step to starting a grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140858Z" creationid="qt911" creationdate="20210609T140858Z">
+        <seg>一般情况下，擒抱是擒抱动作的第一步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Normally, an animal only attacks humans and other animals.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190927T135132Z" creationid="quentine" creationdate="20190927T135132Z">
@@ -33522,6 +33978,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the other hand, if the object is poorly secured or otherwise easy to snatch or cut away, the attacker gets a +4 bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140253Z" creationid="qt911" creationdate="20210609T140253Z">
+        <seg>另一方面，如果目标疏于防范，或者非常容易被抢夺或割断，攻击者获得4点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the round that it is thrown, a tear gas grenade fills a 5-foot radius with a cloud of irritant that causes eyes to fill with tears.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200508T124608Z" creationid="quentine" creationdate="20200508T124608Z">
@@ -33534,6 +33998,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200508T123531Z" creationid="quentine" creationdate="20200508T123531Z">
         <seg>扔出的那一轮，在目的地相邻的4格生成烟雾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once a character has established a hold, he or she is involved in a grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141149Z" creationid="qt911" creationdate="20210609T141149Z">
+        <seg>角色一旦闭锁成功，将陷入擒抱状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35988,6 +36460,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some weapons, such as the chain and the whip, can be used to make trip attacks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132836Z" creationid="qt911" creationdate="20210609T132836Z">
+        <seg>一些武器，如锁链和辫子，可用于发动绊摔攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some, such as grenades, include built-in detonators.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200424T131322Z" creationid="quentine" creationdate="20200424T131322Z">
@@ -36276,6 +36756,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Standing up from a prone position is a move action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132800Z" creationid="qt911" creationdate="20210609T132800Z">
+        <seg>从俯卧姿态站起需要一个移动动作。cong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Standing up from a prone position requires a move action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T122803Z" creationid="qt911" creationdate="20210105T122803Z">
@@ -36392,6 +36880,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200115T100156Z" creationid="quentine" creationdate="20200115T100156Z">
         <seg>钢制手铐：这种重型的镣铐有10点硬度、10点生命、30点挣脱DC，没有钥匙的情况下，需要解除装置检定（DC25）或脱逃检定（DC35）才能脱离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Step One: The character provokes an attack of opportunity from the target he or she is trying to disarm.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T133640Z" creationid="qt911" creationdate="20210609T133602Z">
+        <seg>第一步：角色引发欲卸除目标的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Step Three: If the character beats the target’s attack roll, the target is disarmed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134329Z" creationid="qt911" creationdate="20210609T134152Z">
+        <seg>第三步：如果角色的攻击骰胜过了目标的攻击骰，目标将被缴械。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Step Two: The character and the target make opposed attack rolls with their respective weapons.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134157Z" creationid="qt911" creationdate="20210609T133856Z">
+        <seg>第二步：角色与目标以各自的武器做一个攻击骰对抗检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42288,6 +42800,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The opponent’s attempt does not provoke an attack of opportunity from the character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134725Z" creationid="qt911" creationdate="20210609T134725Z">
+        <seg>目标的这次尝试不会引发角色的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The other character continues his or her actions once the readied action is completed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210605T093041Z" creationid="qt911" creationdate="20210602T133454Z">
@@ -43017,6 +43537,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The target gets a +4 stability bonus on his or her check if he or she has more than two legs or is otherwise exceptionally stable.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132213Z" creationid="qt911" creationdate="20210609T132213Z">
+        <seg>如果目标有两条以上的腿或者别的什么稳定方式，目标的检定将获得4点稳定加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The target has an effective Defense of 5 + his or her size modifier.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210602T124050Z" creationid="qt911" creationdate="20210602T124050Z">
@@ -43461,6 +43989,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T071027Z" creationid="quentine" creationdate="20191027T071027Z">
         <seg>角色提升口头语言或者读写语言技能时有成千上万种语言可选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are three stages to grappling: grabbing, holding, and pinning.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140826Z" creationid="qt911" creationdate="20210609T140826Z">
+        <seg>擒抱有三个等级的状态：擒抱、闭锁、压制</seg>
       </tuv>
     </tu>
     <tu>
@@ -45172,6 +45708,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This kind of disarm attempt provokes an attack of opportunity, but if the character fails, the target does not get to make a disarm attempt against him or her.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T135456Z" creationid="qt911" creationdate="20210609T135456Z">
+        <seg>这种缴械也会引发借机攻击，但角色如果失败，目标将不会得到对角色的缴械机会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This kit contains everything needed to use the Demolitions skill to set detonators, wire explosive devices, and disarm explosive devices.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T090317Z" creationid="quentine" creationdate="20200115T075154Z">
@@ -46130,6 +46674,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191102T020913Z" creationid="quentine" creationdate="20191102T020913Z">
         <seg>施法者必须做一个等级检定（1d20+施法者等级）来检定法术或类法术能力是否生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To disarm an opponent wielding a ranged weapon, the character makes a melee attack or unarmed attack to strike the weapon in the opponent’s hand (see Attack an Object).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T135200Z" creationid="qt911" creationdate="20210609T135019Z">
+        <seg>要卸除目标所持的远程武器，角色需要做一个近战或徒手攻击，以攻击目标手上的武器（见`攻击物品`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47314,6 +47866,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T141839Z" creationid="quentine" creationdate="20190115T141839Z">
         <seg>如果角色得了可治愈的疾病，角色必须立即进行一次强韧豁免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a character is involved in a grapple, he or she will need to make opposed grapple checks against an opponent—often repeatedly.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142141Z" creationid="qt911" creationdate="20210609T142141Z">
+        <seg>当角色陷入擒抱，角色将与目标进行擒抱对抗检定——而且通常需要反复做。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49612,6 +50172,38 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |3/4（在墙角或树后窥视）|+7|+3|
 |9/10（站在射击口之后；在虚掩的门后）|+10|+4\*|
 |全（在坚固的墙的另一边）|—|—|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>long\])|+12|
+|Huge (elephant)|+8|
+|Large (lion)|+4|
+|Medium-size (human)|+0|
+|Small (German shepherd)|–4|
+|Tiny (housecat)|–8|
+|Diminutive (rat)|–12|
+|Fine (horsefly)|–16|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T143056Z" creationid="qt911" creationdate="20210609T143056Z">
+        <seg>长\])|+12|
+|超大型（大象）|+8|
+|大型（狮子）|+4|
+|普通（人类）|+0|
+|小型（德国牧羊犬）|–4|
+|超小型（大家鼠）|–8|
+|微型（大鼠）|–12|
+|超微型（马蝇）|–16|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>long\])|+16|
+|Gargantuan (gray whale \[40 ft.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142910Z" creationid="qt911" creationdate="20210609T142910Z">
+        <seg>长\])|+16|
+|巨型（灰鲸 \[40 尺</seg>
       </tuv>
     </tu>
     <tu>
@@ -52820,6 +53412,18 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |超小型（笔记本电脑）|7|
 |微型（平装书）|9|
 |超微型（铅笔）|13|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size (Example)|Grapple Modifier|
+|--------------|:--------------:|
+|Colossal (blue whale \[90 ft.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142819Z" creationid="qt911" creationdate="20210609T142819Z">
+        <seg>|尺寸（范例）|擒抱调整值|
+|--------------|:--------------:|
+|超巨型（蓝鲸 \[90尺</seg>
       </tuv>
     </tu>
     <tu>
