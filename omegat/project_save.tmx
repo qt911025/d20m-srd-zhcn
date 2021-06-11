@@ -3546,8 +3546,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>### Grabbing</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140830Z" creationid="qt911" creationdate="20210609T140830Z">
-        <seg>### 擒抱</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T134638Z" creationid="qt911" creationdate="20210609T140830Z">
+        <seg>### 攫抓</seg>
       </tuv>
     </tu>
     <tu>
@@ -3572,6 +3572,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142248Z" creationid="qt911" creationdate="20210609T142248Z">
         <seg>### 擒抱调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Grappling Consequences</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141627Z" creationid="qt911" creationdate="20210611T141627Z">
+        <seg>### 擒抱的影响</seg>
       </tuv>
     </tu>
     <tu>
@@ -3666,8 +3674,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>### Holding</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141101Z" creationid="qt911" creationdate="20210609T141101Z">
-        <seg>### 闭锁</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="qt911" creationdate="20210609T141101Z">
+        <seg>### 缠握</seg>
       </tuv>
     </tu>
     <tu>
@@ -4750,6 +4758,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T115355Z" creationid="quentine" creationdate="20190116T115355Z">
         <seg>### 起始专长</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Starting a Grapple</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T131815Z" creationid="qt911" creationdate="20210611T131815Z">
+        <seg>### 发动擒抱</seg>
       </tuv>
     </tu>
     <tu>
@@ -7582,6 +7598,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(If the character normally gets more than one attack per attack action, he or she can attempt as many of these options as he or she has attacks available, using his or her successively lower attack bonus for each roll.) The character is limited to these options only; he or she cannot take any other actions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T142554Z" creationid="qt911" creationdate="20210611T142514Z">
+        <seg>（如果角色每个攻击动作可以发动多次攻击，则可做同样多次动作，每次检定都会降低攻击加值。）角色仅限于做这些动作；此外的其他动作都将被禁止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(If the opponent has a Strength penalty, he or hse still takes that penalty.)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T143919Z" creationid="quentine" creationdate="20190804T143919Z">
@@ -7794,6 +7818,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(The character can still use it against opponents he or she is grappling.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141953Z" creationid="qt911" creationdate="20210611T141953Z">
+        <seg>（角色仍可在对擒抱目标的防御中应用敏捷加值。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(The character does not get a 5-foot step.) The character loses any Dexterity bonus to Defense since he or she can’t avoid attacks.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210106T122523Z" creationid="qt911" creationdate="20210106T122357Z">
@@ -7894,6 +7926,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200519T140546Z" creationid="quentine" creationdate="20200519T140546Z">
         <seg>（手杖和雨伞不隐藏，只有剑刃隐藏。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(This is a free action.) If the character succeeds, the character has started the grapple, and deals damage to the target as if with an unarmed strike.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T140826Z" creationid="qt911" creationdate="20210611T140826Z">
+        <seg>（这是一个即时动作。）如果角色成功，角色将开始擒抱，并对目标造成等效于徒手攻击的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(This movement is free and doesn’t count as part of the character’s movement for the round movement.) Moving, as normal, provokes attacks of opportunity from threatening enemies, but not from the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141422Z" creationid="qt911" creationdate="20210611T141330Z">
+        <seg>（这个移动是即时的，且不计入角色在该轮的移动距离中。）这个移动会照常引发借机攻击，但不会引发目标的借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16471,8 +16519,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>A character can’t get a hold on any creature more than two size categories larger than the character.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141335Z" creationid="qt911" creationdate="20210609T141335Z">
-        <seg>角色不能对任何比自己大两个体型等级的生物实施闭锁。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135707Z" creationid="qt911" creationdate="20210609T141335Z">
+        <seg>角色不能对任何比自己大两个体型等级的生物实施握。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16497,6 +16545,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190704T122706Z" creationid="quentine" creationdate="20190704T122706Z">
         <seg>若角色不再满足专长所要求的条件，角色将不可使用此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can’t use a weapon on a pinned character or attempt to damage or pin a second opponent while holding a pin on the first.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T143216Z" creationid="qt911" creationdate="20210611T143216Z">
+        <seg>角色若一开始就选择压制，则不可对被压制的角色使用武器，也不可压制或伤害第二个角色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19111,8 +19167,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>A successful hold does not deal additional damage unless the creature also has the constrict ability (see above).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191031T132122Z" creationid="quentine" creationdate="20191031T132020Z">
-        <seg>成功的抓握不会造成额外的伤害，除非生物有紧勒的能力（见下文）。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="quentine" creationdate="20191031T132020Z">
+        <seg>成功的`缠握`不会造成额外的伤害，除非生物有`紧勒`的能力（见下文）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22847,6 +22903,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attack of Opportunity: A character provokes an attack of opportunity from the target he or she is trying to grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T132214Z" creationid="qt911" creationdate="20210611T132214Z">
+        <seg>借机攻击：角色引发欲擒抱的目标的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Attack of Opportunity: If the target’s attack of opportunity inflicts any damage, the attempt to grab the object automatically fails.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140000Z" creationid="qt911" creationdate="20210609T140000Z">
@@ -22907,6 +22971,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T145929Z" creationid="quentine" creationdate="20190916T145929Z">
         <seg>切断访问是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attempting to start a grapple is the equivalent of making a melee attack.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T131926Z" creationid="qt911" creationdate="20210611T131926Z">
+        <seg>发动擒抱等同于做一次近战攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24471,6 +24543,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T105557Z" creationid="quentine" creationdate="20201118T105557Z">
         <seg>目标的当前生命值将扣除此次造成的伤害值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Damage the Opponent: Make an opposed grapple check; if the character succeeds, he or she deals damage as with an un-armed strike.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T142713Z" creationid="qt911" creationdate="20210611T142713Z">
+        <seg>伤害对手：做一个擒抱对抗检定；如果角色成功，将造成一次徒手攻击伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26192,6 +26272,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Follow these steps.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T132124Z" creationid="qt911" creationdate="20210611T132124Z">
+        <seg>擒抱将遵循以下步骤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For a Diminutive robot, the DC is 20.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190523T131235Z" creationid="quentine" creationdate="20190523T131146Z">
@@ -26570,8 +26658,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>From a hold, a character can attempt a number of actions, including damaging the opponent or pinning the opponent.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141228Z" creationid="qt911" creationdate="20210609T141228Z">
-        <seg>再闭锁中，角色可以尝试许多动作，包括伤害对手或压制对手。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="qt911" creationdate="20210609T141228Z">
+        <seg>在缠握的过程中，角色可以尝试许多动作，包括伤害对手或压制对手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26820,6 +26908,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T093927Z" creationid="quentine" creationdate="20200116T093846Z">
         <seg>全球定位系统接收器使用从GPS卫星传来的信号，来确定接收器所在的位置，误差只有几尺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grab: The character makes a melee touch attack to grab the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T140313Z" creationid="qt911" creationdate="20210611T140313Z">
+        <seg>攫抓：角色要攫抓住目标，需要做一次近战接触攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27128,6 +27224,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hold: Make an opposed grapple check.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T140724Z" creationid="qt911" creationdate="20210611T140724Z">
+        <seg>缠握：双方做一个擒抱对抗检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Holsters are generally available for all Medium-size or smaller firearms.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200117T094420Z">
@@ -27290,8 +27394,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>However, sometimes all a character wants to do is grab the target.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141057Z" creationid="qt911" creationdate="20210609T141057Z">
-        <seg>但是，有时后角色仅仅只是想抱住目标。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T134819Z" creationid="qt911" creationdate="20210609T141057Z">
+        <seg>但是，有时候角色仅仅只是想攫抓住目标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28120,6 +28224,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the Character is Grappling</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T142118Z" creationid="qt911" creationdate="20210611T142039Z">
+        <seg>如果角色处于擒抱状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the Charisma check succeeds, the target can try to resist.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190215T131710Z" creationid="quentine" creationdate="20190215T131710Z">
@@ -28320,6 +28432,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the attack of opportunity deals the character damage, the character fails to start the grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T132259Z" creationid="qt911" creationdate="20210611T132259Z">
+        <seg>如果目标的借机攻击导致角色受伤，擒抱必然失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the attack of opportunity misses or otherwise fails to deal damage, proceed to step 2.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T132329Z" creationid="qt911" creationdate="20210611T132329Z">
+        <seg>如果借机攻击失手或未造成伤害，进入步骤2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the attack roll falls within a range low enough to miss the target with cover but high enough to strike the target if there had been no cover, the object used for cover was struck.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210531T141551Z" creationid="qt911" creationdate="20210531T141551Z">
@@ -28452,6 +28580,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T131403Z" creationid="quentine" creationdate="20190805T131403Z">
         <seg>如果角色提升的是跨职技能，每花费1点技能点可提升1/2个级数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character can’t move into the target’s square, the character can’t maintain the grapple and must immediately let go of the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141527Z" creationid="qt911" creationdate="20210611T141527Z">
+        <seg>如果角色不能移动到目标的方格，角色将不能维持擒抱，且会立即放开目标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28792,6 +28928,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character fails to hit the target, the character fails to start the grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T140558Z" creationid="qt911" creationdate="20210611T140346Z">
+        <seg>如果攻击检定结果为未对目标造成伤害，则擒抱失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character fails, a crime lab analysis can be done, but the lab takes a –5 penalty on any necessary check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191021T132228Z" creationid="quentine" creationdate="20191020T023147Z">
@@ -28888,10 +29032,18 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character gets multiple attacks in a round, he or she can attempt to start a grapple multiple times (at successively lower base attack bonuses).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T140225Z" creationid="qt911" creationdate="20210611T132104Z">
+        <seg>如果角色在一轮内可发动多次攻击，则也可以多次发动擒抱（在一组多次擒抱中，每次尝试都会降低基本攻击加值）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character grabs an opponent, but fails to go on to hold him or her, the character doesn’t actually start a grapple.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141131Z" creationid="qt911" creationdate="20210609T140953Z">
-        <seg>如果角色擒抱住对手，但闭锁失败，则角色并没有陷入擒抱。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="qt911" creationdate="20210609T140953Z">
+        <seg>如果角色攫抓住对手，但缠握失败，则角色并不算成功发动了擒抱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29044,6 +29196,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T144742Z" creationid="quentine" creationdate="20190916T144742Z">
         <seg>如果角色只是想看看记录，则无需做额外的检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character loses, he or she fails to start the grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T140857Z" creationid="qt911" creationdate="20210611T140857Z">
+        <seg>如果角色失败，则擒抱失败。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29220,6 +29380,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190112T063919Z" creationid="quentine" creationdate="20190112T063919Z">
         <seg>如果检定成功，角色的财富加值加一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character succeeds, proceed to step 3.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T140614Z" creationid="qt911" creationdate="20210611T140358Z">
+        <seg>如果角色成功，则进入步骤3。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29618,8 +29786,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>If the creature does not constrict, each successful grapple check it makes during successive rounds automatically deals the damage given for the attack that established the hold.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191031T132701Z" creationid="quentine" creationdate="20191031T132701Z">
-        <seg>如果生物不紧勒，每次成功的擒抱检定将造成最初抓握时所造成的伤害。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="quentine" creationdate="20191031T132701Z">
+        <seg>如果生物不紧勒，在每轮的擒抱检定中，每次成功的擒抱检定将造成最初缠握时所造成的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32850,6 +33018,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maintain the Grapple: To maintain the grapple for later rounds, the character must move into the target’s square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141218Z" creationid="qt911" creationdate="20210611T141218Z">
+        <seg>维持擒抱状态：角色必须移动到目标所在方格，才能在接下来的回合中维持擒抱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make a Climb check (DC equal to wall’s DC + 20) to do so.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190808T142925Z" creationid="quentine" creationdate="20190808T142925Z">
@@ -33498,6 +33674,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No Dexterity Bonus: A character loses his or her Dexterity bonus to Defense (if the character has one) against opponents the character isn’t grappling.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141915Z" creationid="qt911" creationdate="20210611T141915Z">
+        <seg>无敏捷加值：角色对擒抱目标外的敌人的防御将失去所有敏捷加值（如果角色有）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No Movement: A character cannot move while held in a grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T142012Z" creationid="qt911" creationdate="20210611T142012Z">
+        <seg>无法移动：角色在擒抱中不能移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No Threatened Squares: A character doesn’t threaten any squares while grappling.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141753Z" creationid="qt911" creationdate="20210611T141753Z">
+        <seg>不会产生威胁范围：角色在擒抱中不会对任何方格产生威胁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No Wealth check is necessary to use this Craft skill.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190923T130222Z" creationid="quentine" creationdate="20190923T130222Z">
@@ -33636,8 +33836,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Normally, a grab is just the first step to starting a grapple.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140858Z" creationid="qt911" creationdate="20210609T140858Z">
-        <seg>一般情况下，擒抱是擒抱动作的第一步。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T134645Z" creationid="qt911" creationdate="20210609T140858Z">
+        <seg>一般情况下，攫抓是擒抱动作的第一步。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34004,8 +34204,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Once a character has established a hold, he or she is involved in a grapple.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141149Z" creationid="qt911" creationdate="20210609T141149Z">
-        <seg>角色一旦闭锁成功，将陷入擒抱状态。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="qt911" creationdate="20210609T141149Z">
+        <seg>角色一旦缠握成功，将陷入擒抱状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34682,6 +34882,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201029T130420Z" creationid="quentine" creationdate="20201029T130420Z">
         <seg>驾驶水上载具也是应用`驾驶`技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pin: Make an opposed grapple check; if the character succeeds, he or she holds the opponent immobile for 1 round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T142804Z" creationid="qt911" creationdate="20210611T142804Z">
+        <seg>压制：做一个擒抱对抗检定；如果角色成功，对手将在一轮内无法移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40340,10 +40548,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The character and the target are now grappling.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141454Z" creationid="qt911" creationdate="20210611T141454Z">
+        <seg>然后，角色与目标陷入擒抱状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The character automatically hits and score a critical hit.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210601T142307Z" creationid="qt911" creationdate="20210601T142307Z">
         <seg>角色会直接命中且造成重击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The character automatically loses an attempt to hold if the target is two or more size categories larger than the character is (but the character can still make an attempt to grab such a target, if that’s all he or she wants to do).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141047Z" creationid="qt911" creationdate="20210611T141047Z">
+        <seg>如果目标体型等级大于等于角色两级，缠握必然失败（但如果角色的目的只是攫抓，则仍可以继续攫抓）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41506,8 +41730,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>The creature has the option to conduct the grapple normally, or simply use the part of its body it used in the improved grab to hold the opponent.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191031T133138Z" creationid="quentine" creationdate="20191031T131301Z">
-        <seg>生物可选择正常擒抱，或者只是使用身体的一部分进行攫抓以将对手`抓握`。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="quentine" creationdate="20191031T131301Z">
+        <seg>生物可选择正常擒抱，或者只是使用身体的一部分作为精通攫抓的武器进行攫抓以将对手`缠握`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41522,8 +41746,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>The creature is not considered grappled while it holds the opponent, so it still threatens adjacent squares and retains its Dexterity bonus.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T134128Z" creationid="quentine" creationdate="20191031T133119Z">
-        <seg>生物在抓握对手时不会视为被擒抱状态，所以仍会威胁相邻方格并保留敏捷加值。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="quentine" creationdate="20191031T133119Z">
+        <seg>生物在缠握对手时不会视为被擒抱状态，所以仍会威胁相邻方格并保留敏捷加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42792,6 +43016,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The opponent takes a –4 penalty to Defense against all attacks from other people (but not from the character); however, the opponent is not considered helpless.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T142915Z" creationid="qt911" creationdate="20210611T142915Z">
+        <seg>对手对其他人（除角色外）的所有攻击的防御都将承受4点减值；但对手不会被视为无助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The opponent’s Strength modifier applies to damage, as usual.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T144023Z" creationid="quentine" creationdate="20190804T144023Z">
@@ -43995,8 +44227,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>There are three stages to grappling: grabbing, holding, and pinning.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140826Z" creationid="qt911" creationdate="20210609T140826Z">
-        <seg>擒抱有三个等级的状态：擒抱、闭锁、压制</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="qt911" creationdate="20210609T140826Z">
+        <seg>擒抱有三个阶段：攫抓、缠握、压制</seg>
       </tuv>
     </tu>
     <tu>
@@ -46734,6 +46966,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To grapple again, the character must begin at step 1.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141555Z" creationid="qt911" creationdate="20210611T141555Z">
+        <seg>要再次发动擒抱，角色必须从第一步重新开始。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To identify the intruder, make an opposed Computer Use check against the intruder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190917T111310Z" creationid="quentine" creationdate="20190917T111310Z">
@@ -46978,6 +47218,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T123851Z" creationid="quentine" creationdate="20191104T123851Z">
         <seg>要加速这一过程，英雄可以进行`知识（商学）`检定对抗执照的购买DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To start a grapple, a character first needs to grab and hold his or her target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T140043Z" creationid="qt911" creationdate="20210611T131902Z">
+        <seg>角色首先要攫抓并缠握住目标才能开始擒抱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47314,6 +47562,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20200813T150035Z">
         <seg>除非特别说明，民用汽车为乘客提供3/4掩蔽（但如果在乘客伸出窗外或天窗，还有面对火焰武器的情况下，只会提供半掩蔽甚至1/4掩蔽）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unless otherwise noted, each of these options is equivalent to an attack.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T142257Z" creationid="qt911" creationdate="20210611T142257Z">
+        <seg>除非另有说明，以下每个行为都等同于攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47870,6 +48126,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a character is grappling (regardless of who started the grapple), he or she can attempt any of several actions on his or her turn.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T142519Z" creationid="qt911" creationdate="20210611T142217Z">
+        <seg>角色处于擒抱状态时（不管是谁发动了擒抱），角色可以在自己的回合尝试做以下几种动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a character is involved in a grapple, he or she will need to make opposed grapple checks against an opponent—often repeatedly.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142141Z" creationid="qt911" creationdate="20210609T142141Z">
@@ -48080,8 +48344,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>When a creature gets a hold after an improved grab attack, it pulls the opponent into its space.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191031T132844Z" creationid="quentine" creationdate="20191031T132844Z">
-        <seg>生物用精通攫抓抓握对手，会把对手拖拽至自己的方格内。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="quentine" creationdate="20191031T132844Z">
+        <seg>生物用精通攫抓缠握对手，会把对手拖拽至自己的方格内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48762,6 +49026,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190808T140121Z" creationid="quentine" creationdate="20190808T140028Z">
         <seg>无论是发送还是接收密信，失败5点或更多将意味着其中一方表达错误或另一方曲解了密信的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While a character is grappling, his or her ability to attack others and defend him or herself is limited.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141759Z" creationid="qt911" creationdate="20210611T141706Z">
+        <seg>当角色处于擒抱状态，角色对其他人的攻击与防御将受到限制。</seg>
       </tuv>
     </tu>
     <tu>

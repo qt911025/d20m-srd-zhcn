@@ -914,7 +914,7 @@ freeze	冻结
 panicked	恐慌
 Gaze	凝视
 petrification	石化
-hold	抓握
+hold	缠握
 Low-Light Vision	低光视觉
 Power Resistance	灵能抗力
 spell-like ability	类法术能力
@@ -1385,3 +1385,4 @@ Unattended	未受照管的	没有被带在、拿在角色身上的（物品）
 tripped	被绊倒
 disarmed	被缴械
 Grabbing Objects	夺取物品
+grab	攫抓
