@@ -3712,6 +3712,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### If the Character is Pinned</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144142Z" creationid="qt911" creationdate="20210617T144142Z">
+        <seg>### 如果角色被压制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Illuminator</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T095449Z" creationid="quentine" creationdate="20200117T095449Z">
@@ -3892,6 +3900,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T142802Z" creationid="quentine" creationdate="20201118T142802Z">
         <seg>### 加入战斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Joining a Grapple</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144510Z" creationid="qt911" creationdate="20210617T144510Z">
+        <seg>### 加入擒抱</seg>
       </tuv>
     </tu>
     <tu>
@@ -4204,6 +4220,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201030T130019Z" creationid="quentine" creationdate="20201030T130019Z">
         <seg>### 大卡车</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Multiple Grapplers</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T145050Z" creationid="qt911" creationdate="20210617T145050Z">
+        <seg>### 多个擒抱者</seg>
       </tuv>
     </tu>
     <tu>
@@ -7690,6 +7714,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Opponents don’t have to try to hold a character if they don’t want to.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143237Z" creationid="qt911" creationdate="20210617T140319Z">
+        <seg>（作为擒抱者，如果不想缠握住角色，可以不做这个检定，直接放弃。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Opponents don’t have to try to keep the character pinned if they don’t want to.) The character is still being grappled, however.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143409Z" creationid="qt911" creationdate="20210617T143156Z">
+        <seg>（擒抱者如果不想继续压制，可以直接放弃。）但是，压制挣脱后，角色仍然处于被擒抱状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Pulling the pin on a grenade is a free action.) Others require timers or other devices to set them off.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200424T131636Z" creationid="quentine" creationdate="20200424T131526Z">
@@ -8051,6 +8091,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T132132Z" creationid="qt911" creationdate="20210530T132132Z">
         <seg>（或位于相邻方格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(the character can’t attempt any other action.) On the character’s turn, he or she can attempt to escape from the pin.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144416Z" creationid="qt911" creationdate="20210617T144416Z">
+        <seg>（角色不能尝试其他动作。）在角色的回合，角色可以尝试挣脱压制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13561,8 +13609,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>**Table: Two-Weapon Fighting Penalties**</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210105T132912Z" creationid="qt911" creationdate="20210105T132912Z">
-        <seg>**表：双武器战斗减值**</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144109Z" creationid="qt911" creationdate="20210105T132912Z">
+        <seg>**表：双持武器战斗减值**</seg>
       </tuv>
     </tu>
     <tu>
@@ -16493,6 +16541,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can’t attack with two weap-ons while grappling.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144135Z" creationid="qt911" creationdate="20210617T144010Z">
+        <seg>角色不能在擒抱中以双持武器攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can’t deliver a coup de grace against a creature that is immune to critical hits.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210601T142747Z" creationid="qt911" creationdate="20210601T142747Z">
@@ -18613,6 +18669,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A pinned character can’t take any action except to attempt to escape from the pin.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T135727Z" creationid="qt911" creationdate="20210617T135547Z">
+        <seg>被压制的角色不能做除挣脱压制外的任何动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A pinned character is held immobile (but not helpless) in a grapple.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142021Z" creationid="quentine" creationdate="20190115T124745Z">
@@ -20423,10 +20487,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, a character can make an Escape Artist check opposed by the opponent’s grapple check to escape from the pin.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143432Z" creationid="qt911" creationdate="20210617T143432Z">
+        <seg>或者，角色可以做一个`脱逃`检定，与对手的擒抱检定相对抗，这样也能挣脱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively, the character can command the animal to defend a specific other character.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190927T135727Z" creationid="quentine" creationdate="20190927T135727Z">
         <seg>或者角色可以命令动物为制定的其他角色提供防御。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternatively, the character can make an Escape Artist check opposed by the opponent’s grapple check to escape from the grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T140417Z" creationid="qt911" creationdate="20210617T140417Z">
+        <seg>或者，角色可以做一个`脱逃`检定，与对手的擒抱检定相对抗，这样也能挣脱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22919,6 +22999,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attack with a Light Weapon: A character can attack with a light weapon while grappling (but not while pinned or pinning).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143900Z" creationid="qt911" creationdate="20210617T143900Z">
+        <seg>用轻武器攻击：角色在处于擒抱状态中，可以用轻武器攻击（但不可以在压制或被压制时这么做）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Attacking after a Charge: After moving, the character may make a single melee attack.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T124600Z" creationid="qt911" creationdate="20210105T124600Z">
@@ -22945,8 +23033,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>Attacking with Two Weapons: If the character wields a second weapon in his or her off hand, the character can get one extra attack per round with that weapon.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210105T131855Z" creationid="qt911" creationdate="20210105T131747Z">
-        <seg>双武器攻击：如果角色在副手装备了武器，每一轮角色都可以用该武器进行额外的攻击。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144109Z" creationid="qt911" creationdate="20210105T131747Z">
+        <seg>双持武器攻击：如果角色在副手装备了武器，每一轮角色都可以用该武器进行额外的攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23483,6 +23571,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200420T134549Z" creationid="quentine" creationdate="20200420T134549Z">
         <seg>弓箭狩猎在北美仍是一个流行的运动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Break Another’s Pin: Make an opposed grapple check; if the character succeeds, he or she can break the hold that an opponent has over an ally.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143729Z" creationid="qt911" creationdate="20210617T143603Z">
+        <seg>帮他人解除压制：做一个擒抱对抗检定；如果角色成功，将能帮助被压制的盟友挣脱缠握，而不仅仅是解除压制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24459,6 +24555,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creatures that are one size category smaller than the character count as one-half creature each; creatures that are one size category larger than the character count as two creatures; and creatures two or more size categories larger than the character count as four creatures.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T145526Z" creationid="qt911" creationdate="20210617T145256Z">
+        <seg>体型比目标低一级的生物算半个，体型比目标高一级的生物算两个，高大于等于两级的生物算4个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creatures that would be turned are rebuked instead, and those that would be destroyed are commanded.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T112541Z" creationid="quentine" creationdate="20190703T112541Z">
@@ -25090,8 +25194,16 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>Double Weapons: A character can use a double weapon to make an extra attack as if he or she were fighting with two weapons.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210105T132759Z" creationid="qt911" creationdate="20210105T132759Z">
-        <seg>双头武器：角色可以用一个双头武器做额外的攻击，等效于双武器战斗。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144109Z" creationid="qt911" creationdate="20210105T132759Z">
+        <seg>双头武器：角色可以用一个双头武器做额外的攻击，等效于双持武器战斗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw a Light Weapon: A character can draw a light weap-on as a move action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143753Z" creationid="qt911" creationdate="20210617T143753Z">
+        <seg>拔出轻武器：角色可以以一个移动动作拔出轻武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25596,6 +25708,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T141236Z" creationid="quentine" creationdate="20191105T141236Z">
         <seg>装备有各种属性，见表：普通装备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Escape from Grapple: Make an opposed grapple check.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143113Z" creationid="qt911" creationdate="20210617T135807Z">
+        <seg>挣脱擒抱：双方做一个擒抱对抗检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Escape from Pin: Make an opposed grapple check.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143106Z" creationid="qt911" creationdate="20210617T143002Z">
+        <seg>挣脱压制：双方做一个擒抱对抗检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27586,8 +27714,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>If a character gets more than one attack per action because his or her base attack bonus is high enough, because he or she fights with two weapons, because he or she is using a double weapon, or for some special reason, the character must use the full attack action to get his or her additional attacks.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210105T125429Z" creationid="qt911" creationdate="20210105T125429Z">
-        <seg>如果角色的基础攻击加值足够高、或是使用双武器以及双头武器、或是特殊原因，可以让每个动作攻击多次，角色必须使用全力攻击来执行额外的攻击。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144109Z" creationid="qt911" creationdate="20210105T125429Z">
+        <seg>如果角色的基础攻击加值足够高、或是使用双持武器以及双头武器、或是特殊原因，可以让每个动作攻击多次，角色必须使用全力攻击来执行额外的攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28040,10 +28168,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If more than one opponent is grappling the character, the grapple check result has to beat all their check results to escape.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T140026Z" creationid="qt911" creationdate="20210617T140026Z">
+        <seg>如果角色被多个对手擒抱，擒抱检定必须胜过每一个对手的擒抱检定才能挣脱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If multiple characters are delaying, the one with the highest initiative modifier (or highest Dexterity, in case of a tie) has the advantage.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210602T130343Z" creationid="qt911" creationdate="20210602T130319Z">
         <seg>如果多个角色选择延迟，拥有最高先攻调整值的角色（相同则比较敏捷）占优势。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If multiple enemies are already involved in the grapple, the character picks one against whom to make the opposed grapple check.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T145041Z" creationid="qt911" creationdate="20210617T145041Z">
+        <seg>如果多个敌人处于该多人擒抱中，角色只能选择一个对象来做擒抱检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29072,6 +29216,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character has not used his or her move action for the round, the character may do so after escaping the grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143008Z" creationid="qt911" creationdate="20210617T142953Z">
+        <seg>如果角色在本轮内没有使用移动动作，角色可以在挣脱擒抱之后使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character has ranks in the Jump skill and succeeds on a check, the character lands on his or her feet (when appropriate) and can move as far as the character’s remaining movement allows.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191021T134545Z" creationid="quentine" creationdate="20191021T134545Z">
@@ -29186,8 +29338,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>If the character is using two weapons, the character can strike with either weapon first.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210105T130510Z" creationid="qt911" creationdate="20210105T130510Z">
-        <seg>如果角色使用双武器，首先使用哪一把先攻击都可以。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144109Z" creationid="qt911" creationdate="20210105T130510Z">
+        <seg>如果角色使用双持武器，首先使用哪一把先攻击都可以。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29328,6 +29480,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character succeeds, he or she can escape from being pinned.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143123Z" creationid="qt911" creationdate="20210617T143123Z">
+        <seg>如果角色成功，则能挣脱压制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character succeeds, he or she can escape the grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T135822Z" creationid="qt911" creationdate="20210617T135822Z">
+        <seg>如果角色成功，则能挣脱擒抱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character succeeds, he or she continues on to his or her destination; the total time for the trip is twice the normal time.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T133816Z" creationid="quentine" creationdate="20191025T133816Z">
@@ -29340,6 +29508,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210605T095659Z" creationid="qt911" creationdate="20210605T095659Z">
         <seg>若成功，角色虽然不会伤害到对手，但可选择为指定盟友对的攻击骰或防御提供2点情景加值，该加值仅在下一个该盟友的回合生效，且仅对指定的对手有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character succeeds, he or she is still grappling.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144502Z" creationid="qt911" creationdate="20210617T144502Z">
+        <seg>如果角色成功，将仍处于擒抱状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30212,6 +30388,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190526T120110Z" creationid="quentine" creationdate="20190526T120110Z">
         <seg>如果豁免失败，目标将如下述规则产生情绪效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the target is already grappling someone else, a character can use an attack to start a grapple, as above, except that the target doesn’t get an attack of opportunity against the character, and the character’s grab automatically succeeds.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144813Z" creationid="qt911" creationdate="20210617T144651Z">
+        <seg>如果目标正在擒抱他人，角色可以用一个攻击动作发动擒抱，步骤如上文，但目标不会有对角色的借机攻击，而且角色的攫抓阶段自动成功。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36044,6 +36228,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Several combatants can be in a single grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T145109Z" creationid="qt911" creationdate="20210617T145109Z">
+        <seg>一个擒抱中可以有多个擒抱者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Several military vehicles are covered here.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201030T130951Z" creationid="quentine" creationdate="20201030T130951Z">
@@ -37494,8 +37686,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Table: Two-Weapon Fighting Penalties summarizes the interaction of all these factors.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210105T132617Z" creationid="qt911" creationdate="20210105T132617Z">
-        <seg>`表：双武器战斗减值`列举了所有因素的综合结果。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144109Z" creationid="qt911" creationdate="20210105T132617Z">
+        <seg>`表：双持武器战斗减值`列举了所有因素的综合结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41320,6 +41512,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The character still has to make a successful opposed grapple check and move in to be part of the grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144919Z" creationid="qt911" creationdate="20210617T144919Z">
+        <seg>角色仍然需要一次成功的擒抱对抗检定，才能加入擒抱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The character takes a –4 penalty to Defense against melee attacks and loses his or her Dexterity bonus to Defense.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T124834Z" creationid="quentine" creationdate="20190115T124834Z">
@@ -41996,6 +42196,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190918T133449Z" creationid="quentine" creationdate="20190918T133449Z">
         <seg>但制造（写作）是个例外，角色在这里可以取20，因为角色不会用掉任何原材料（同理也不需要进行财富检定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The exception is an attempt to escape from the grapple; to escape, a character’s grapple check must beat the check results of all opponents.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T150255Z" creationid="qt911" creationdate="20210617T150255Z">
+        <seg>但挣脱擒抱的检定除外，角色的擒抱检定结果必须胜过每一个对手的擒抱检定才能挣脱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45860,6 +46068,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is an attack action that the character may only attempt once per round, even if the character gets multiple attacks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T140457Z" creationid="qt911" creationdate="20210617T140457Z">
+        <seg>这是一个攻击动作，角色每轮只能尝试一次，即使角色可以发动多次攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is an attack action, and the character can’t take 10 on this check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T134418Z" creationid="quentine" creationdate="20190806T134418Z">
@@ -47678,6 +47894,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Up to four combatants can grapple a single opponent in a given round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T145303Z" creationid="qt911" creationdate="20210617T145141Z">
+        <seg>一轮内，至多允许4个擒抱者擒抱同一个目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Updating the License: Wizards or its designated Agents may publish updated versions of this License.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181022T113042Z" creationid="QuenTine" creationdate="20181022T113042Z">
@@ -48414,6 +48638,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When an opponent has pinned the character, he or she is held immobile (but not helpless) for 1 round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144320Z" creationid="qt911" creationdate="20210617T144320Z">
+        <seg>当角色被对手压制住了，对手将在一轮内无法移动（但并非无助）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When appropriate, the description of a talent or a skill provides the time required to use it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210106T130322Z" creationid="qt911" creationdate="20210106T130322Z">
@@ -48530,6 +48762,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T123119Z" creationid="quentine" creationdate="20190115T122923Z">
         <seg>英雄被擒抱时无法施展除了空手攻击、轻武器攻击或试图挣脱擒抱者以外的动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When involved in a grapple with multiple opponents, the character chooses one opponent to make an opposed check against.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T145809Z" creationid="qt911" creationdate="20210617T145633Z">
+        <seg>当角色陷入多个对手的擒抱中时，角色一般只能选择一个对手来做对抗检定。</seg>
       </tuv>
     </tu>
     <tu>
