@@ -1334,7 +1334,7 @@ stretch	弹性的
 stretch limo	加长豪华轿车
 rental	租赁
 hatch	舱口
-gunner	炮手	车组成员
+gunner	射击手	车组成员
 Single	手动	射击模式
 combatant	作战者
 Statistic	数据
@@ -1386,3 +1386,11 @@ tripped	被绊倒
 disarmed	被缴械
 Grabbing Objects	夺取物品
 grab	攫抓
+role	职能
+Copilot	副驾驶
+rear	后悬挂
+maneuver modifier	机动调整值
+Yacht	游艇
+Racing bike	竞赛摩托车
+dirt bike	越野摩托车
+Firing Arcs	射击角度

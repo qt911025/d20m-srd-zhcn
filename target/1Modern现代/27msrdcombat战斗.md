@@ -408,26 +408,26 @@
 
 ### 全力攻击
 
-如果角色的基础攻击加值足够高、或是使用双武器以及双头武器、或是特殊原因，可以让每个动作攻击多次，角色必须使用全力攻击来执行额外的攻击。角色并不是一次性决定一个目标并全力攻击，而是可以在攻击一次得出结果后再决定下一击的目标。
+如果角色的基础攻击加值足够高、或是使用双持武器以及双头武器、或是特殊原因，可以让每个动作攻击多次，角色必须使用全力攻击来执行额外的攻击。角色并不是一次性决定一个目标并全力攻击，而是可以在攻击一次得出结果后再决定下一击的目标。
 
 全力攻击是一个整轮动作。因此角色在全力攻击时只能用五尺快步来移动。角色可以在攻击之前、之后、中途五尺快步。
 
-如果角色因其基础攻击加值进行了多次攻击，角色必须按加值从高到低的顺序进行这些攻击。如果角色使用双武器，首先使用哪一把先攻击都可以。如果角色使用双头武器，首先使用哪一头先攻击都可以。
+如果角色因其基础攻击加值进行了多次攻击，角色必须按加值从高到低的顺序进行这些攻击。如果角色使用双持武器，首先使用哪一把先攻击都可以。如果角色使用双头武器，首先使用哪一头先攻击都可以。
 
 决定要全力攻击：角色不需要一开始就决定全力攻击，可以在第一次攻击之后再决定是要完成余下的攻击，还是做一个移动动作。当然如果角色已经做了五尺快步，则不可以用移动动作移动了，但角色仍可以拔出或收起武器等不位移的动作（见上文`移动动作`）。
 
 防御式战斗：角色在全力攻击时，也可选择防御式战斗。如果角色这么做，将在一轮中的所有攻击骰都承受4点减值，以换取在相同轮的防御中获得2点闪避加值。
 
-双武器攻击：如果角色在副手装备了武器，每一轮角色都可以用该武器进行额外的攻击。但这么战斗是非常困难的——角色用主手进行的一次或多次常规攻击都将承受6点减值，副手进行的攻击将承受10点减值。角色可以以两种方式减轻惩罚。
+双持武器攻击：如果角色在副手装备了武器，每一轮角色都可以用该武器进行额外的攻击。但这么战斗是非常困难的——角色用主手进行的一次或多次常规攻击都将承受6点减值，副手进行的攻击将承受10点减值。角色可以以两种方式减轻惩罚。
 
 1. 如果副手武器是轻武器，两只手的攻击减值都要少2点。（徒手击打永远视为轻武器。）
 2. `双持`专长使主手攻击减值减少2点，使副手攻击减值减少6点。
 
-`表：双武器战斗减值`列举了所有因素的综合结果。
+`表：双持武器战斗减值`列举了所有因素的综合结果。
 
-双头武器：角色可以用一个双头武器做额外的攻击，等效于双武器战斗。应用的减值等效于副手武器为轻武器。
+双头武器：角色可以用一个双头武器做额外的攻击，等效于双持武器战斗。应用的减值等效于副手武器为轻武器。
 
-**表：双武器战斗减值**
+**表：双持武器战斗减值**
 
 |情景|主手|副手|
 |-------------|:----------:|:------:|
@@ -731,7 +731,7 @@ GM可以根据掩蔽的具体细节酌情为攻击行为赋予减值与限制。
 
 爆炸物是一种范围攻击武器，一经引爆，爆炸半径内所有生物或物体都将受到破片、高爆、或震荡伤害。爆炸波及范围内的生物都将承受伤害。
 
-一些爆炸物，例如榴弹，可以被抛射，并在落点爆炸。其他的都是带导火索或计时器的植入式爆炸物，会在预设的时间结束后爆炸。
+一些爆炸物，例如榴弹，可以被抛射，并在落点爆炸。其他的都是带导火索或计时器的安装式爆炸物，会在预设的时间结束后爆炸。
 
 ### 投掷式爆炸物
 
@@ -782,298 +782,298 @@ GM可以根据掩蔽的具体细节酌情为攻击行为赋予减值与限制。
 |11|左上角，超过目标一格，且在目标左方|
 |12|左上角，超过目标两格|
 
-决定了爆炸物的落点后，将对武器的爆炸半径内的所有目标造成伤害。目标可以做反射检定（DC由爆炸物类型决定）使伤害减半。
+决定了爆炸物的落点后，将对爆炸半径内的所有目标造成伤害。目标可以做反射检定（DC由爆炸物类型决定）使伤害减半。
 
-### 植入式爆炸物
+### 安装式爆炸物
 
-A planted explosive is set in place, with a timer or fuse determining when it goes off. No attack roll is necessary to plant an explosive; the explosive sits where it is placed until it is moved or goes off.
+安装式爆炸物需要安装在指定位置，以计时器或导火索决定何时引爆。安装爆炸物不需要掷攻击骰；爆炸物会一直待在安装位置，除非被移动或爆炸。
 
-When a planted explosive detonates, it deals its damage to all targets within the burst radius of the weapon. 目标可以做反射检定（DC由爆炸物类型决定）使伤害减半。
+当安装式爆炸物被引爆时，将对爆炸半径内的所有目标造成伤害。目标可以做反射检定（DC由爆炸物类型决定）使伤害减半。
 
-## Splash Weapons
+## 溅射武器
 
-A splash weapon is a ranged weapon that breaks apart on impact, splashing or scattering its contents over its target and nearby creatures or objects. Most splash weapons consist of liquids in breakable containers.
+溅射武器是一种远程武器，当武器撞击到目标时，其内容物会溅射、散布开来，覆盖到目标以及目标附近的生物或物体。大多数溅射武器由液体和易爆容器制成。
 
-To attack with a splash weapon, make a ranged touch attack against the target. Thrown weapons require no weapon proficiency, so characters don’t take the –4 nonproficient penalty. A hit deals direct hit damage to the target and splash damage to all other creatures within 5 feet of the target.
+溅射武器的攻击方式是对目标进行一次远程的接触攻击。投掷武器不需要任何擅长专长，所以不会承受4点不擅长减值。攻击将对目标造成直接伤害，并对所有距目标5尺内的所有其他生物造成溅射伤害。
 
-A character can instead target a specific 5-foot square, including a square occupied by a creature. Use the rules for thrown explosives. However, if a character targets a square, creatures within 5 feet are dealt the splash damage, and the direct hit damage is not dealt to any creature.
+角色也可以瞄准一个方格，无论方格上有没有生物占据着。瞄准方格将应用投掷式爆炸物的规则。但是，如果角色瞄准的是方格，将对5尺内的所有生物造成溅射伤害，而不会对任何生物造成直接伤害。
 
-If the character misses the target (whether aiming at a creature or a square), check to see where the weapon lands, using the rules for thrown explosives.  After determining where the object landed, it deals splash damage to all creatures within 5 feet.
+如果角色失手（无论瞄准的是生物还是方格），应当用投掷爆炸物的规则检定武器的最终落点。决定了落点后，再对落点5尺内的所有生物造成溅射伤害。
 
-## Attack an Object
+## 向物品攻击
 
-Sometimes a character needs to attack or break an object
+有时候角色需要攻击或打破物品。
 
-### Strike an Object
+### 击打物品
 
-Objects are easier to hit than characters because they usually don’t move, but many are tough enough to shrug off some damage from each blow.
+物品通常比人更容易被命中，因为物品通常是固定的，但大多数物品都相当坚固，使每次击打都有一部分伤害被抵消掉。
 
-Object Defense and Bonuses to Attack: Objects are harder or easier to hit depending on their size and whether they are immobile or being held, carried, or worn by opponents. The base Defense of objects is shown on Table: Size and Defense of Objects.
+物品的防御值和攻击的加值：物品会根据其尺寸以及其运动状态、是否被对手手持、携带或穿戴等因素，变得更难或更容易被命中。物品的基础防御值见`表：尺寸与物品防御的关系`
 
-**Table: Size and Defense of Objects**
+**表：尺寸与物品防御的关系**
 
-|Size (Example)|Defense|
+|尺寸（范例）|防御|
 |--------------|:-----:|
-|Colossal (jetliner)|–3|
-|Gargantuan (army tank)|1|
-|Huge (typical car)|3|
-|Large (big door)|4|
-|Medium-size (dirt bike)|5|
-|Small (chair)|6|
-|Tiny (laptop computer)|7|
-|Diminutive (paperback book)|9|
-|Fine (pencil)|13|
+|超巨型（喷气式客机）|–3|
+|巨型（坦克）|1|
+|超大型（常见的车辆）|3|
+|大型（大门）|4|
+|普通（越野摩托车）|5|
+|小型（椅子）|6|
+|超小型（笔记本电脑）|7|
+|微型（平装书）|9|
+|超微型（铅笔）|13|
 
 
-If a character uses a full-round action to make an attack against an inanimate, immobile object, the character gets an automatic hit with a melee weapon, or a +5 bonus on his or her attack roll with a ranged weapon.
+如果角色用一个整轮动作攻击一个无生命的、固定的物体，以近战武器攻击必然命中，以远程武器攻击，攻击骰由5点加值。
 
-An object being held, carried, or worn has a Defense equal to the above figure + 5 + the opponent’s Dexterity modifier + the opponent’s class bonus to Defense. Striking a held, carried, or worn object provokes an attack of opportunity from the character who holds it.  (If a character has the Sunder feat, he or she doesn’t incur an attack of opportunity for making the attempt.)
+被对手手持、携带或穿戴的物品，其防御值=尺寸防御+5+对手的敏捷调整值+对手的职业防御加值。攻击对手手持、携带或穿戴的物品，会引发该对手的借机攻击。（如果角色有`击碎`专长，则不会引发借机攻击。）
 
-Hardness: Each object has hardness—a number that represents how well it resists damage. Whenever an object takes damage, subtract its hardness from the damage. Only damage in excess of its hardness is deducted from the object’s hit points (see Table: Substance Hardness and Hit Points and Table: Object Hardness and Hit Points).
+硬度：每件物品都有硬度——代表了物品能抵抗多少伤害。只要物品受到伤害，最终伤害值都要减去硬度。只有超过了硬度的伤害，才能降低物品的生命值（见`表：物质的硬度与生命值`以及`表：物品的硬度与生命值`）。
 
-Hit Points: An object’s hit point total depends on what it is made of or how big it is (see Table Substance Hardness and Hit Points and Table Object Hardness and Hit Points).
+生命值：物品的生命值完全取决于其材质和大小（见`表：物质的硬度与生命值`以及`表：物品的硬度与生命值`）。
 
-**Table: Substance Hardness and Hit Points**
+**表：物质的硬度与生命值**
 
-|Substance|Hardness|Hit Points|
+|物质|硬度|生命值|
 |---------|:------:|----------|
-|Paper|0|2/inch of thickness|
-|Rope|0|2/inch of thickness|
-|Plastic, soft|0|3/inch of thickness|
-|Glass|1|1/inch of thickness|
-|Ceramic|1|2/inch of thickness|
-|Ice|0|3/inch of thickness|
-|Plastic, hard|2|5/inch of thickness|
-|Wood|5|10/inch of thickness|
-|Aluminum|6|10/inch of thickness|
-|Concrete|8|15/inch of thickness|
-|Steel|10|30/inch of thickness|
+|纸|0|2每寸厚度|
+|绳索|0|2每寸厚度|
+|软塑料|0|3每寸厚度|
+|玻璃|1|1每寸厚度|
+|陶瓷|1|2每寸厚度|
+|冰|0|3每寸厚度|
+|硬塑料|2|5每寸厚度|
+|木材|5|10每寸厚度|
+|铝|6|10每寸厚度|
+|混凝土|8|15每寸厚度|
+|钢铁|10|30每寸厚度|
 
-**Table: Object Hardness and Hit Points**
+**表：物品的硬度与生命值**
 
-|Object|Hardness|Hit Points|Break DC|
+|物品|硬度|生命值|破坏所需DC|
 |------|:------:|:--------:|:------:|
-|Lock||||
-|Cheap|0|1|10|
-|Average|3|5|15|
-|High quality|5|10|20|
-|High security|10|120|35|
-|Ultrahigh security|20|150|40|
+|锁||||
+|廉价|0|1|10|
+|一般|3|5|15|
+|高质量|5|10|20|
+|高度安全|10|120|35|
+|顶级安全|20|150|40|
 |||||
-|Manufactured objects\*||||
-|Fine|0|1|10|
-|Diminutive|0|1|10|
-|Tiny|1|2|10|
-|Small|3|3|12|
-|Medium-size|5|5|15|
-|Large|5|10|15|
-|Huge|8|10|20|
-|Gargantuan|8|20|30|
-|Colossal|10|30|50|
+|人造物\*||||
+|超微型|0|1|10|
+|微型|0|1|10|
+|超小型|1|2|10|
+|小型|3|3|12|
+|普通|5|5|15|
+|大型|5|10|15|
+|超大型|8|10|20|
+|巨型|8|20|30|
+|超巨型|10|30|50|
 |||||
-|Firearm, Medium-size|5|7|17|
-|Rope|0|2|23|
-|Simple wooden door|5|10|13|
-|Strong wooden door|5|20|23|
-|Steel door|10|120|35|
-|Cinderblock wall|8|90|35|
-|Chain|10|5|26|
-|Handcuffs|10|10|30|
-|Metal bars|10|15|30|
+|枪械（普通尺寸）|5|7|17|
+|绳索|0|2|23|
+|简易木门|5|10|13|
+|坚固木门|5|20|23|
+|钢铁门|10|120|35|
+|煤渣砖门|8|90|35|
+|锁链|10|5|26|
+|手铐|10|10|30|
+|金属条|10|15|30|
 
-\* Figures for manufactured objects are minimum values. The GM may adjust these upward to account for objects with more strength and durability.
+\* 人造物的尺寸对应的数据是下限。GM可以将它们的数据向上调，使其更合理。
 
-Energy Attacks: Acid and sonic/concussive attacks deal normal damage to most objects. Electricity and fire attacks deal half damage to most objects; divide the damage by 2 before applying the hardness. Cold attacks deal one-quarter damage to most objects; divide the damage by 4 before applying the hardness.
+能量攻击：酸性与音波/震荡攻击能对大多数物品造成一般伤害。电与火焰攻击对大多数物品造成半伤；造成的伤害在扣除硬度之前先除以2。寒冷攻击对大多数物品造成1/4伤；造成的伤害在扣除硬度之前先除以4。
 
-Ineffective Weapons: The GM may determine that certain weapons just can’t deal damage effectively to certain objects.
+无效武器：GM可以规定特定的武器对特定物品不能造成有效伤害。
 
-Immunities: Objects are immune to nonlethal damage and to critical hits.
+免疫：物品免疫非致命攻击与重击。
 
-Saving Throws: Unattended objects never make saving throws. They are considered to have failed their saving throws. An object attended by a character (being grasped, touched, or worn) receives a saving throw just as if the character herself were making the saving throw.
+豁免骰：`未受照管的`物品不能掷豁免骰。所有的豁免将自动视为失败。被角色`照管`（握着、接触着、穿戴着）的物品可进行豁免检定，相当于让照管者本人代行豁免。
 
-### Breaking Objects
+### 破坏物品
 
-When a character tries to break something with sudden force rather than by dealing damage, use a Strength check to see whether he or she succeeds. The DC depends more on the construction of the object than on the material.
+若角色试图将物品打破而非仅仅造成伤害，则需要用力量检定来判断成功与否。DC更多地取决于构造而非材质。
 
-If an object has lost half or more of its hit points, the DC to break it decreases by 2.
+如果物品失去了一半及以上地生命值，破坏所需DC减2。
 
-### Repairing Objects
+### 修理物品
 
-Repairing damage to an object takes a full hour of work and appropriate tools. (Without the tools, a character takes a –4 penalty on his or her Repair check.) At the end of the hour, make a Repair check (DC 20). Success restores 2d6 hit points. If damage remains, the character may continue to make repairs for as many hours as it takes to restore all the object’s hit points.
+修理物品的伤害要花费一整小时的时间，还需要合适的工具。（如果没有工具，角色的修理检定承受4点减值。）在这一小时结束时，做一个修理鉴定（DC20）。若成功则恢复2d6生命值。如果仍有伤害，角色可以继续修理多个小时，直到完全恢复。
 
-## Bull Rush
+## 冲撞
 
-A character can attempt a bull rush as an attack action made during his or her move action, or as part of a charge. (In general, a character can’t make an attack action during a move action; this is an exception.) In either case, the character doesn’t get a 5-foot step before, during, or after the bull rush attempt. When the character bull rushes, he or she attempts to push an opponent straight back instead of attacking the opponent. A character can only bull rush an opponent who is one size category larger than the character, the same size, or smaller.
+角色可以在做移动动作时，花费一个攻击动作冲撞，也可以在冲锋时冲撞。（一般来说，角色不能在移动动作中做出攻击动作，而这是个例外。）在以上情况下，角色不能在冲撞之前、途中、之后做五尺快步。角色冲撞将会尝试将对手向后推动，而不是攻击。角色只能对比自己大一级、相等、或者比自己小一级的对手发动冲撞。
 
-### Initiating a Bull Rush
+### 开始冲撞
 
-First, the character moves into the target’s square. Moving in this way provokes an attack of opportunity from each foe that threatens the character, probably including the target.
+首先，角色移动到目标的方格。如此移动将引发所有敌人对自身的借机攻击，可能包括冲撞的目标。
 
-Second, the character and the target make opposed Strength checks. If the character and the target are different sizes, the larger combatant gets a bonus on the Strength check of +4 per difference in size category. The character gets a +2 bonus if he or she was charging. The target gets a +4 stability bonus if he or she has more than two legs or is otherwise exceptionally stable.
+然后，角色与目标进行力量对抗检定。如果角色与目标体型不同，大的一方的力量检定会获得每体型等级差距+4的加值。如果角色正在冲锋，则获得2点加值。如果目标有两条以上的腿或者别的什么稳定方式，将获得4点稳定加值。
 
-### Bull Rush Results
+### 冲撞结果
 
-If the character beats the target’s Strength check, the character pushes the opponent back 5 feet. The character can push the target back an additional 5 feet for every 5 points by which the character exceeded the target’s check result, provided the character moves with the target. A character can’t, however, exceed his or her normal movement for that action. (The target provokes attacks of opportunity if moved. So does the character, if he or she moves with the target. The target and the character do not provoke attacks of opportunity from each other as a result of this movement.)
+如果角色在力量对抗中胜出，角色将把对手向后推5格。角色的检定结果每超过对手5点，就可以将对手多往后推一格，角色也会跟着继续移动。但是，角色移动的总距离不能超过常速。（目标如果被推动，将引发借机攻击。如果角色与目标一起移动，也会引发借机攻击。而双方都不会因推动过程中的移动引发对方的借机攻击。）
 
-If the character fails to beat the target’s Strength check, the character moves 5 feet straight back to where the character was before the character moved into the opponents square. If that square is occupied, the character falls prone in the square.
+如果角色力量对抗失败，将从目标的方格中原路后退5尺。如果后退至的方格被占据了，角色将跌倒，进入俯卧状态。
 
-## Overrun
+## 闯越
 
-A character can attempt an overrun as an attack action made during his or her move action, or as part of a charge. (In general, a character cannot make an attack action during a move action; this is an exception.) In either case, the character doesn’t get a 5-foot step before, during, or after the overrun attempt. With an overrun, the character attempts to move through an opponents area, going past or over the opponent.  A character can only overrun an opponent who is one size category larger than the character, the same size, or smaller. A character can make only one overrun attempt per action.
+角色可以在做移动动作时，花费一个攻击动作闯越，也可以在冲锋时闯越。（一般来说，角色不能在移动动作中做出攻击动作，而这是个例外。）在以上情况下，角色不能在闯越之前、途中、之后做五尺快步。角色将通过闯越的方式穿过对手占据的区域，跨过对手。角色只能对比自己大一级、相等、或者比自己小一级的对手发动闯越。角色每个动作只能做一次闯越，一次闯越只能穿过一个对手。
 
-First, the character must move at least 10 feet in a straight line into the target’s square (provoking attacks of opportunity normally).
+首先，角色必须至少直线移动10尺，移动到目标的方格（将照常引发借机攻击）。
 
-Then the target chooses either to avoid the character or to block the character. If the opponent avoids the character, the character keeps moving. (A character can always move through a square occupied by someone who lets the character by.) If the opponent blocks the character, make a trip attack against the opponent (see Trip). If the character succeeds in tripping his or her opponent, the character can continue his or her movement as normal.
+然后，目标可选择避开或阻挡角色。如果目标避开了角色，角色将继续移动。（方格上的角色如果允许角色通过，那么角色总是能穿过。）如果目标选择阻挡角色，角色应对对手做一个绊摔攻击（见绊摔）。如果角色成功绊摔了对手，则可照常移动。
 
-If the character fails and are tripped in turn, the character falls prone in the target’s square. If the character fails but are not tripped, the character has to move 5 feet back the way he or she came, ending his or her movement there. If that square is occupied, the character falls prone in the square.
+如果绊摔失败而反被绊倒了，那么在这回合，角色将在目标的方格内摔倒并俯卧。如果角色绊摔失败而没被绊倒，角色将原路后退5尺，并停止移动。如果后退至的方格被占据了，角色将跌倒，进入俯卧状态。
 
-## Trip
+## 绊摔
 
-A character can try to trip an opponent, or otherwise knock him or her down, as an unarmed melee attack. A character can only trip an opponent who is one size category larger than the character, the same size, or smaller.
+角色可以尝试用徒手近战攻击绊摔对手，或者是击倒对手。角色只能对比自己大一级、相等、或者比自己小一级的对手发动绊摔。
 
-### Making a Trip Attack
+### 发动绊摔攻击
 
-Make an unarmed melee touch attack against the target. Doing this provokes an attack of opportunity from the target as normal for unarmed attacks.
+攻击方式是对目标做一个徒手近战接触攻击。这么做会像一般的徒手攻击一样，引发目标对自己的借机攻击。
 
-If the attack succeeds, make a Strength check opposed by the target’s Dexterity check or Strength check (using whichever ability score has the higher modifier). If the character and the target are different sizes, the larger combatant gets a bonus on the Strength check of +4 per difference in size category. The target gets a +4 stability bonus on his or her check if he or she has more than two legs or is otherwise exceptionally stable. If the character wins, he or she trips the target. If the character loses, the target may immediately react and make a Strength check opposed by the character’s Dexterity check or Strength check to try to trip the character.
+如果攻击成功，角色做一个力量检定，与目标的敏捷或力量（取提供加值最高的那一项）检定相对抗。如果角色与目标体型不同，大的一方的力量检定会获得每体型等级差距+4的加值。如果目标有两条以上的腿或者别的什么稳定方式，目标的检定将获得4点稳定加值。如果角色胜出，将绊摔对手。如果角色落败，目标可以立即作出反应，并做一个力量检定与角色的敏捷或力量检定相对抗，以绊摔角色。
 
-### Being Tripped (Prone)
+### 被绊倒（俯卧）
 
-A tripped character is prone (see Table: Defense Modifiers). Standing up from a prone position is a move action.
+被绊倒的角色会陷入俯卧（见表：防御调整值）。从俯卧姿态站起需要一个移动动作。cong
 
-### Tripping with a Weapon
+### 用武器绊摔
 
-Some weapons, such as the chain and the whip, can be used to make trip attacks. A character doesn’t incur an attack of opportunity when doing so. If the character is tripped during his or her own trip attempt, the character can drop the weapon to avoid being tripped.
+一些武器，如锁链和辫子，可用于发动绊摔攻击。用这种方式进行攻击时，角色不会引发借机攻击。fang如果角色绊摔时自己反被绊倒了，角色可以扔掉武器以避免。
 
-## Disarm
+## 卸除武器
 
-As a melee attack, a character may attempt to disarm his or her opponent. If the character does so with a weapon, he or she knocks the opponent’s weapon out of his or her hands and to the ground. If the character attempt the disarm while unarmed, the character ends up with the weapon in his or her hand.
+角色可以尝试卸除对手的武器，卸除武器是一种近战攻击。如果角色用武器卸除，角色将把目标手中的武器打落在地。如果角色尝试徒手卸除武器，角色最终将会把武器夺取过来。
 
-If a character is attempting to disarm the wielder of a melee weapon, follow the steps outlined here. Disarming the wielder of a ranged weapon is slightly different; see below.
+如果角色尝试卸除近战武器，应遵循以下步骤。卸除远程武器与卸除近战武器会有一些不同，见后文。
 
-Step One: The character provokes an attack of opportunity from the target he or she is trying to disarm.
+第一步：角色引发欲卸除目标的借机攻击。
 
-Step Two: The character and the target make opposed attack rolls with their respective weapons. If the weapons are different sizes, the combatant with the larger weapon gets a bonus on the attack roll of +4 per difference in size category. If the target is using a weapon in two hands, he or she gets an additional +4 bonus. Also, if the combatants are different sizes, the larger combatant gets a bonus on the attack roll of +4 per difference in size category.
+第二步：角色与目标以各自的武器做一个攻击骰对抗检定。如果武器的尺寸不同，武器大的一方的攻击骰检定会获得每尺寸等级差距+4的加值。如果目标使用双手武器，还会再获得4点加值。同样，如果对抗双方的体型不同，大的一方的攻击骰检定会获得每体型等级差距+4的加值。
 
-Step Three: If the character beats the target’s attack roll, the target is disarmed. If the character attempted the disarm action unarmed, he or she now has the weapon. If the character was armed, the target’s weapon is on the ground at the target’s feet.
+第三步：如果角色的攻击骰胜过了目标的攻击骰，目标将被缴械。如果角色试图徒手卸除武器，则将获得卸除的武器。如果角色以武器卸除武器，目标的武器或落到目标脚下的方格上。
 
-If the character fails the disarm attempt, the target may immediately react and attempt to disarm the character with the same sort of opposed melee attack roll. The opponent’s attempt does not provoke an attack of opportunity from the character. If the opponent fails to disarm, the character does not get a free disarm attempt against the opponent.
+如果角色卸除武器失败，目标可以立即作出反应，并尝试以同样的对抗方式卸除角色的武器。目标的这次尝试不会引发角色的借机攻击。如果目标的这次尝试缴械失败，角色将无法获得免费的缴械的机会。
 
 ### 远程武器
 
-To disarm an opponent wielding a ranged weapon, the character makes a melee attack or unarmed attack to strike the weapon in the opponent’s hand (see Attack an Object). If the weapon is held in two hands, it gets a +2 bonus to its Defense. If the character’s attack succeeds, the ranged weapon falls to the ground or winds up in the character’s hands (if the character made the attack unarmed). This kind of disarm attempt provokes an attack of opportunity, but if the character fails, the target does not get to make a disarm attempt against him or her.
+要卸除目标所持的远程武器，角色需要做一个近战或徒手攻击，以攻击目标手上的武器（见`攻击物品`）。如果武器是双手握持的，防御将获得2点加值。如果角色的攻击成功，远程武器将落在地上，或者被角色夺取（如果角色是徒手攻击）。这种缴械也会引发借机攻击，但角色如果失败，目标将不会得到对角色的缴械机会。
 
-## Grabbing Objects
+## 夺取物品
 
-A character can also use disarm to snatch away an object worn by a target. Doing this works the same as a disarm attempt (see above), except for the following.
+角色也可以用卸除武器的方式来夺取目标身上的物品。过程和卸除武器一样（见上文），但有以下几点不同。
 
-Attack of Opportunity: If the target’s attack of opportunity inflicts any damage, the attempt to grab the object automatically fails.
+借机攻击：如果目标的借机攻击导致了任何伤害，夺取物品必然失败。
 
-Modifiers: If the object is well secured or otherwise difficult to grab from the target, the target gets a +4 bonus. On the other hand, if the object is poorly secured or otherwise easy to snatch or cut away, the attacker gets a +4 bonus.
+调整值：如果物品被保护得很好，或者有其他原因导致难以被夺取，目标将获得4点加值。另一方面，如果目标疏于防范，或者非常容易被抢夺或割断，攻击者获得4点加值。
 
-Failed Attempts: Failing an attempt to grab an object doesn’t allow the target to at-tempt to disarm the character.
+若失败：夺取物品失败不会引发目标对角色的缴械。
 
-### Grapple
+### 擒抱
 
-Grappling means wrestling and struggling hand-to-hand.
+擒抱指摔跤或环抱等压制行为。
 
-There are three stages to grappling: grabbing, holding, and pinning.
+擒抱有三个阶段：攫抓、缠握、压制
 
-### Grabbing
+### 攫抓
 
-Normally, a grab is just the first step to starting a grapple. If the character grabs an opponent, but fails to go on to hold him or her, the character doesn’t actually start a grapple. However, sometimes all a character wants to do is grab the target.
+一般情况下，攫抓是擒抱动作的第一步。如果角色攫抓住对手，但缠握失败，则角色并不算成功发动了擒抱。但是，有时候角色仅仅只是想攫抓住目标。
 
-### Holding
+### 缠握
 
-Once a character has established a hold, he or she is involved in a grapple. From a hold, a character can attempt a number of actions, including damaging the opponent or pinning the opponent. A character can’t get a hold on any creature more than two size categories larger than the character. (However, such a creature can get a hold on the character—so while a character can’t initiate a grapple with a creature more than two size categories larger than, a character can still end up in one.)
+角色一旦缠握成功，将陷入擒抱状态。在缠握的过程中，角色可以尝试许多动作，包括伤害对手或压制对手。角色不能对任何比自己大两个体型等级的生物实施握。（但是这样的生物能够对角色实施闭锁——所以角色即使不能闭锁比自己大两级的生物，仍可拖住目标。）
 
-### Pinning
+### 压制
 
-Getting the opponent in a pin is often the goal of a grapple. A pinned character is held immobile.
+压制对手往往是擒抱的最终目的。被压制的角色无法移动。
 
-### Grapple Checks
+### 擒抱检定
 
-When a character is involved in a grapple, he or she will need to make opposed grapple checks against an opponent—often repeatedly. A grapple check is something like a melee attack roll. A character’s attack bonus on a grapple check is:
+当角色陷入擒抱，角色将与目标进行擒抱对抗检定——而且通常需要反复做。擒抱检定类似近战攻击骰。角色对擒抱检定的攻击加值为：
 
-Base attack bonus + Strength modifier + grapple modifier
+基础攻击加值 + 力量调整值 + 擒抱调整值
 
-### Grapple Modifier
+### 擒抱调整值
 
-A creature’s size works in its favor when grappling, if that creature is Large or larger in size. Conversely, a creature of Small or smaller size is at a disadvantage because of its size when grappling. Instead of using a creature’s size modifier on a grapple check (as would be done for a melee or ranged attack roll), use the appropriate grapple modifier from Table: Grapple Modifiers.
+如果生物是大型或更大的体型，这将有利于擒抱检定。相反，小型或更小体型的生物会因其体型处于劣势。在擒抱检定中，应对照`表：擒抱调整值`，使用合适的擒抱调整值代替体型调整值，其他的则和近战或远程攻击检定一样。
 
-**Table: Grapple Modifiers**
+**表：擒抱调整值**
 
-|Size (Example)|Grapple Modifier|
+|尺寸（范例）|擒抱调整值|
 |--------------|:--------------:|
-|Colossal (blue whale \[90 ft. long\])|+16|
-|Gargantuan (gray whale \[40 ft. long\])|+12|
-|Huge (elephant)|+8|
-|Large (lion)|+4|
-|Medium-size (human)|+0|
-|Small (German shepherd)|–4|
-|Tiny (housecat)|–8|
-|Diminutive (rat)|–12|
-|Fine (horsefly)|–16|
+|超巨型（蓝鲸 \[90尺长\])|+16|
+|巨型（灰鲸 \[40 尺长\])|+12|
+|超大型（大象）|+8|
+|大型（狮子）|+4|
+|普通（人类）|+0|
+|小型（德国牧羊犬）|–4|
+|超小型（大家鼠）|–8|
+|微型（大鼠）|–12|
+|超微型（马蝇）|–16|
 
-### Starting a Grapple
+### 发动擒抱
 
-To start a grapple, a character first needs to grab and hold his or her target. Attempting to start a grapple is the equivalent of making a melee attack. If the character gets multiple attacks in a round, he or she can attempt to start a grapple multiple times (at successively lower base attack bonuses). Follow these steps.
+角色首先要攫抓并缠握住目标才能开始擒抱。发动擒抱等同于做一次近战攻击。如果角色在一轮内可发动多次攻击，则也可以多次发动擒抱（在一组多次擒抱中，每次尝试都会降低基本攻击加值）。擒抱将遵循以下步骤。
 
-1. Attack of Opportunity: A character provokes an attack of opportunity from the target he or she is trying to grapple. If the attack of opportunity deals the character damage, the character fails to start the grapple. If the attack of opportunity misses or otherwise fails to deal damage, proceed to step 2.
-2. Grab: The character makes a melee touch attack to grab the target. If the character fails to hit the target, the character fails to start the grapple. If the character succeeds, proceed to step 3.
-3. Hold: Make an opposed grapple check. (This is a free action.) If the character succeeds, the character has started the grapple, and deals damage to the target as if with an unarmed strike. If the character loses, he or she fails to start the grapple. The character automatically loses an attempt to hold if the target is two or more size categories larger than the character is (but the character can still make an attempt to grab such a target, if that’s all he or she wants to do).
-4. Maintain the Grapple: To maintain the grapple for later rounds, the character must move into the target’s square. (This movement is free and doesn’t count as part of the character’s movement for the round movement.) Moving, as normal, provokes attacks of opportunity from threatening enemies, but not from the target. The character and the target are now grappling. If the character can’t move into the target’s square, the character can’t maintain the grapple and must immediately let go of the target. To grapple again, the character must begin at step 1.
+1. 借机攻击：角色引发欲擒抱的目标的借机攻击。如果目标的借机攻击导致角色受伤，擒抱必然失败。如果借机攻击失手或未造成伤害，进入步骤2。
+2. 攫抓：角色要攫抓住目标，需要做一次近战接触攻击。如果攻击检定结果为未对目标造成伤害，则擒抱失败。如果角色成功，则进入步骤3。
+3. 缠握：双方做一个擒抱对抗检定。（这是一个即时动作。）如果角色成功，角色将开始擒抱，并对目标造成等效于徒手攻击的伤害。如果角色失败，则擒抱失败。如果目标体型等级大于等于角色两级，缠握必然失败（但如果角色的目的只是攫抓，则仍可以继续攫抓）。
+4. 维持擒抱状态：角色必须移动到目标所在方格，才能在接下来的回合中维持擒抱。（这个移动是即时的，且不计入角色在该轮的移动距离中。）这个移动会照常引发借机攻击，但不会引发目标的借机攻击。然后，角色与目标陷入擒抱状态。如果角色不能移动到目标的方格，角色将不能维持擒抱，且会立即放开目标。要再次发动擒抱，角色必须从第一步重新开始。
 
-### Grappling Consequences
+### 擒抱的影响
 
-While a character is grappling, his or her ability to attack others and defend him or herself is limited.
+当角色处于擒抱状态，角色对其他人的攻击与防御将受到限制。
 
-No Threatened Squares: A character doesn’t threaten any squares while grappling.
+不会产生威胁范围：角色在擒抱中不会对任何方格产生威胁。
 
-No Dexterity Bonus: A character loses his or her Dexterity bonus to Defense (if the character has one) against opponents the character isn’t grappling. (The character can still use it against opponents he or she is grappling.)
+无敏捷加值：角色对擒抱目标外的敌人的防御将失去所有敏捷加值（如果角色有）。（角色仍可在对擒抱目标的防御中应用敏捷加值。）
 
-No Movement: A character cannot move while held in a grapple.
+无法移动：角色在擒抱中不能移动。
 
-If the Character is Grappling
+如果角色处于擒抱状态
 
-When a character is grappling (regardless of who started the grapple), he or she can attempt any of several actions on his or her turn. Unless otherwise noted, each of these options is equivalent to an attack. (If the character normally gets more than one attack per attack action, he or she can attempt as many of these options as he or she has attacks available, using his or her successively lower attack bonus for each roll.) The character is limited to these options only; he or she cannot take any other actions.
+角色处于擒抱状态时（不管是谁发动了擒抱），角色可以在自己的回合尝试做以下几种动作。除非另有说明，以下每个行为都等同于攻击。（如果角色每个攻击动作可以发动多次攻击，则可做同样多次动作，每次检定都会降低攻击加值。）角色仅限于做这些动作；此外的其他动作都将被禁止。
 
-Damage the Opponent: Make an opposed grapple check; if the character succeeds, he or she deals damage as with an un-armed strike.
+伤害对手：做一个擒抱对抗检定；如果角色成功，将造成一次徒手攻击伤害。
 
-Pin: Make an opposed grapple check; if the character succeeds, he or she holds the opponent immobile for 1 round. The opponent takes a –4 penalty to Defense against all attacks from other people (but not from the character); however, the opponent is not considered helpless.
+压制：做一个擒抱对抗检定；如果角色成功，对手将在一轮内无法移动。对手对其他人（除角色外）的所有攻击的防御都将承受4点减值；但对手不会被视为无助。
 
-A character can’t use a weapon on a pinned character or attempt to damage or pin a second opponent while holding a pin on the first.
+角色若一开始就选择压制，则不可对被压制的角色使用武器，也不可压制或伤害第二个角色。
 
-A pinned character can’t take any action except to attempt to escape from the pin.
+被压制的角色不能做除挣脱压制外的任何动作。
 
-Escape from Grapple: Make an opposed grapple check. If the character succeeds, he or she can escape the grapple. If more than one opponent is grappling the character, the grapple check result has to beat all their check results to escape. (Opponents don’t have to try to hold a character if they don’t want to.)
+挣脱擒抱：双方做一个擒抱对抗检定。如果角色成功，则能挣脱擒抱。如果角色被多个对手擒抱，擒抱检定必须胜过每一个对手的擒抱检定才能挣脱。（作为擒抱者，如果不想缠握住角色，可以不做这个检定，直接放弃。）
 
-Alternatively, the character can make an Escape Artist check opposed by the opponent’s grapple check to escape from the grapple. This is an attack action that the character may only attempt once per round, even if the character gets multiple attacks.
+或者，角色可以做一个`脱逃`检定，与对手的擒抱检定相对抗，这样也能挣脱。这是一个攻击动作，角色每轮只能尝试一次，即使角色可以发动多次攻击。
 
-If the character has not used his or her move action for the round, the character may do so after escaping the grapple.
+如果角色在本轮内没有使用移动动作，角色可以在挣脱擒抱之后使用。
 
-Escape from Pin: Make an opposed grapple check. If the character succeeds, he or she can escape from being pinned. (Opponents don’t have to try to keep the character pinned if they don’t want to.) The character is still being grappled, however.
+挣脱压制：双方做一个擒抱对抗检定。如果角色成功，则能挣脱压制。（擒抱者如果不想继续压制，可以直接放弃。）但是，压制挣脱后，角色仍然处于被擒抱状态。
 
-Alternatively, a character can make an Escape Artist check opposed by the opponent’s grapple check to escape from the pin. This is an attack action that the character may only attempt once per round, even if the character gets multiple attacks.
+或者，角色可以做一个`脱逃`检定，与对手的擒抱检定相对抗，这样也能挣脱。这是一个攻击动作，角色每轮只能尝试一次，即使角色可以发动多次攻击。
 
-Break Another’s Pin: Make an opposed grapple check; if the character succeeds, he or she can break the hold that an opponent has over an ally.
+帮他人解除压制：做一个擒抱对抗检定；如果角色成功，将能帮助被压制的盟友挣脱缠握，而不仅仅是解除压制。
 
-Draw a Light Weapon: A character can draw a light weap-on as a move action.
+拔出轻武器：角色可以以一个移动动作拔出轻武器。
 
-Attack with a Light Weapon: A character can attack with a light weapon while grappling (but not while pinned or pinning). A character can’t attack with two weap-ons while grappling.
+用轻武器攻击：角色在处于擒抱状态中，可以用轻武器攻击（但不可以在压制或被压制时这么做）。角色不能在擒抱中以双持武器攻击。
 
-### If the Character is Pinned
+### 如果角色被压制
 
-When an opponent has pinned the character, he or she is held immobile (but not helpless) for 1 round. (the character can’t attempt any other action.) On the character’s turn, he or she can attempt to escape from the pin. If the character succeeds, he or she is still grappling.
+当角色被对手压制住了，对手将在一轮内无法移动（但并非无助）。（角色不能尝试其他动作。）在角色的回合，角色可以尝试挣脱压制。如果角色成功，将仍处于擒抱状态。
 
-### Joining a Grapple
+### 加入擒抱
 
-If the target is already grappling someone else, a character can use an attack to start a grapple, as above, except that the target doesn’t get an attack of opportunity against the character, and the character’s grab automatically succeeds. The character still has to make a successful opposed grapple check and move in to be part of the grapple.
+如果目标正在擒抱他人，角色可以用一个攻击动作发动擒抱，步骤如上文，但目标不会有对角色的借机攻击，而且角色的攫抓阶段自动成功。角色仍然需要一次成功的擒抱对抗检定，才能加入擒抱。
 
-If multiple enemies are already involved in the grapple, the character picks one against whom to make the opposed grapple check.
+如果多个敌人处于该多人擒抱中，角色只能选择一个对象来做擒抱检定。
 
-### Multiple Grapplers
+### 多个擒抱者
 
-Several combatants can be in a single grapple. Up to four combatants can grapple a single opponent in a given round. Creatures that are one size category smaller than the character count as one-half creature each; creatures that are one size category larger than the character count as two creatures; and creatures two or more size categories larger than the character count as four creatures.
+一个擒抱中可以有多个擒抱者。一轮内，至多允许4个擒抱者擒抱同一个目标。体型比目标低一级的生物算半个，体型比目标高一级的生物算两个，高大于等于两级的生物算4个。
 
-When involved in a grapple with multiple opponents, the character chooses one opponent to make an opposed check against. The exception is an attempt to escape from the grapple; to escape, a character’s grapple check must beat the check results of all opponents.
+当角色陷入多个对手的擒抱中时，角色一般只能选择一个对手来做对抗检定。但挣脱擒抱的检定除外，角色的擒抱检定结果必须胜过每一个对手的擒抱检定才能挣脱。

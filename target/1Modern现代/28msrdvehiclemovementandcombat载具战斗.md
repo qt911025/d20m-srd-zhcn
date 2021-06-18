@@ -1,54 +1,54 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
 
-# Vehicle Movement and Combat
+# 载具的移动与战斗
 
-For simply traveling from point to point, the vehicle used is largely a matter of personal style and finances. Skill checks are only required in extraordinary circumstances. These rules are primarily focused on ground vehicles—cars, trucks, and light military vehicles. The rules can be modified for boats, heavier armored vehicles, and aircraft.
+如果只涉及点到点的旅行，载具的使用只与个人风格和和经济相关。只有在特殊情况下才用到技能检定。本文提到的规则主要面向地面载具——小汽车、卡车以及轻型军用载具。稍加改动，本规则也可用于船只、重型武装载具以及飞行器。
 
-## Characters in Vehicles
+## 载具里的角色
 
-A character in a vehicle fills one of several possible roles, which determines what the character can do.
+角色在载具中通常担任一到多个职能，这决定了角色能做的事情。
 
-**Driver:** The driver of the vehicle controls its movement. Most vehicles have only one position from where the vehicle can be driven, so the person seated there is the driver. Driving a vehicle is, at a minimum, a move action, which means that the driver may be able to do something else with his or her attack action. There can be only one driver in a vehicle at one time.
+**驾驶员：** 载具的驾驶员控制载具的移动。大多数载具只拥有一个驾驶位，乘坐在驾驶位的就是驾驶员。驾驶载具，至少消耗一个移动动作，也就是说驾驶员可以在驾驶中用一个攻击动作做别的事情。一个载具只能同时有一个驾驶员。
 
-**Copilot:** A copilot can help the driver by taking an aid another action. The copilot must be seated in a location where he or she can see the road and advise the driver (in a car, this generally means the front passenger seat). Aiding the driver is a move action, leaving the copilot with an attack action each round to do something else. A vehicle can have only one copilot at a time. A copilot can also drive the vehicle if the driver cannot or chooses not to, provided there is a second set of controls at the copilot’s seat (usually true in aircraft, but not ground vehicles).
+**副驾驶：** 副驾驶能够通过`协助他人`行动帮助驾驶员。副驾驶必须位于能看见路面且能协助驾驶员的位置（在小汽车里，通常指的是前乘客座）。协助驾驶员是一个移动动作，副驾驶每轮只剩一个攻击动作来做别的事情。一个载具只能同时拥有一个副驾驶位。如果驾驶员不能或不想驾驶，副驾驶可以代替驾驶员驾驶，前提是副驾驶位也有一套控制系统（常见于飞行器，而非地面载具）。
 
-**Gunner:** Some vehicles have built-in weapons. If such a weapon is controlled from a location other than the driver’s position, a character can man that position and become the gunner. A vehicle can have as many gunners as it has gunner positions.
+**射击手：** 一些载具有内置的武器。如果武器的控制系统在驾驶位以外的位置，角色可以坐在那个位置上担任射击手。一个载具有多少个射击手位，就可以有多少个射击手。
 
-**Passenger:** All other personnel aboard the vehicle are considered passengers. Passengers have no specific role in the vehicle’s operation, but may be able to fire weapons from the vehicle or take other actions.
+**乘员：** 所有登上载具的其他人为乘员。乘员在载具中没有任何需要担任的工作，但可以在载具中向外射击或者做其他动作。
 
-## Scale
+## 尺度
 
-These rules use two scales.  If the encounter involves both vehicles and characters on foot, use character scale. If the scene involves only vehicles, and they’re likely to move at much higher speeds than characters or creatures on foot, use chase scale.
+本规则使用两套尺度。如果遭遇战是涉及载具与徒步的角色的，应用角色尺度。如果这是只有载具的场景，且载具的移动速度远高于角色或生物的徒步移动，则应用追逐尺度。
 
-**Character Scale:** Character scale is identical to the standard movement scale: It’s carried out on a grid in which each square equals 5 feet. In character scale, most vehicles are large enough to occupy multiple squares on the map grid. How many squares a vehicle occupies is specified in the vehicle’s description.
+**角色尺度：** 角色尺度与标准的移动尺度相同，都是在5尺见方的方格组成的棋盘内进行。角色尺度中，大多数载具都十分巨大，在地图上占据着多个方格。一个载具占据多少方格见载具描述。
 
-When moving a vehicle, count the squares from the vehicle’s rear. When turning, pivot the vehicle on the rear square toward which it is turning. When firing weapons, count squares from the location of the weapon.
+载具的移动，以载具的后悬挂位置为载具的真实位置。载具的转向也是以后悬挂为轴，向目标方向旋转。武器开火的起始位置则在武器所在方格。
 
-In character scale, more than one ground vehicle cannot occupy the same square.
+在角色尺度中，多个载具不能占据同一个方格。
 
-**Chase Scale:** In chase scale, each square of the grid represents 50 feet.
+**追逐尺度：** 在追逐尺度中，每个方格代表50尺见方。
 
-In chase scale, most commonly encountered vehicles occupy only one square. (Some especially large vehicles, such as ships or jumbo jets, might occupy more than one square.) More than one vehicle can occupy the same square. Vehicles in the same square are considered to be 20 feet apart for the purposes of determining range for attacks.
+追逐尺度中的大多数载具只占据一个方格。（一些特别巨大的载具，例如大型舰艇或者大型喷气客机，会占据多个方格。）一个方格可以由多个载具占据。在同一方格内的载具，视为相距20尺，用于判断攻击距离。
 
-## Vehicle Sizes
+## 载具体型
 
-Vehicles use the same size categories as characters and creatures, as shown on Table: Vehicle Sizes. The vehicle’s size modifier applies to its initiative modifier, maneuver modifier, and Defense. (The size modifier is already included in the vehicle statistics on Table: Vehicles)
+载具的体型与角色和生物的体型属同一范畴，见`表：载具体型`。载具的体型调整值应用于先攻调整值、机动调整值以及防御值。（体型调整值已经在`表：载具`中列出）
 
-**Table: Vehicle Sizes**
+**表：载具体型**
 
-|Vehicle Size|Size Modifier|Examples|
+|载具体型|体型调整值|范例|
 |------------|:-----------:|--------|
-|Colossal|–8|Yacht, semi with trailer|
-|Gargantuan|–4|Tank, limousine|
-|Huge|–2|Luxury car, SUV, armored car|
-|Large|–1|Economy car, Harley|
-|Medium-size|+0|Racing bike, dirt bike|
+|超巨型|–8|游艇、牵引车带半挂车|
+|巨型|–4|坦克、豪华轿车|
+|超大型|–2|奢侈型汽车、SUV、武装汽车|
+|大型|–1|经适车、哈雷|
+|普通|+0|竞赛摩托车、越野摩托车|
 
-## Facing and Firing Arcs
+## 朝向与射击角度
 
-Unlike with characters, when dealing with vehicles, the vehicle’s facing (the direction it’s pointing) is important. Facing indicates the direction in which the vehicle is traveling (assuming it’s not moving in reverse). It can also determine which weapons aboard the vehicle can be brought to bear on a target.
+不像角色间的战斗，计算载具的战斗时，载具的朝向也很重要。载具朝向的方向就是载具要移动的方向（假设不考虑载具倒车）。朝向同样也决定了载具武器能否瞄准目标。
 
-A weapon built into a vehicle can by mounted to fire in one of four directions—forward, aft (rear), right, or left—or be built into a partial or full turret. A partial turret lets a weapon fire into three adjacent fire arcs (such as forward, left, and right), while a full turret lets it fire in any direction. For vehicles with weapons, a weapon’s arc of fire is given in the vehicle’s description.
+武器在载具中可以搭载在固定射击位，朝向四个方向——前后左右——或者搭载在半方向炮塔或全方向炮塔上。半方向炮塔可以在相邻的三个方向内自由转动（比如前左右），全方向炮塔则可以向任何方向射击。对于自带武器的载具，武器的射击角已在载具描述中给出。
 
 ## Getting Started
 
@@ -465,4 +465,4 @@ Unlike characters, vehicles don’t “die” when they reach –10 hit points. 
 
 ## Repairing Damage
 
-Repairing damage to a vehicle takes a full hour of work, a mechanical tool kit, and a garage or some other suitable facility. (Without the tool kit, a character takes a –4 penalty on his or her Repair check.) At the end of the hour, make a Repair check (DC 20). Success restores 2d6 hit points. If damage remains, the character may continue to make repairs for as many hours as it takes to restore all of the vehicle’s hit points.
+Repairing damage to a vehicle takes a full hour of work, a mechanical tool kit, and a garage or some other suitable facility. (Without the tool kit, a character takes a –4 penalty on his or her Repair check.) At the end of the hour, make a Repair check (DC 20). 若成功则恢复2d6生命值。If damage remains, the character may continue to make repairs for as many hours as it takes to restore all of the vehicle’s hit points.

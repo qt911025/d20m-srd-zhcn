@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># Vehicle Movement and Combat</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T132634Z" creationid="qt911" creationdate="20210618T132634Z">
+        <seg># 载具的移动与战斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># Vehicles</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200614T062330Z" creationid="quentine" creationdate="20200614T062330Z">
@@ -422,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Attack an Object</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T135206Z" creationid="qt911" creationdate="20210607T135206Z">
+        <seg>## 向物品攻击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Attacks of Opportunity</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210106T130332Z" creationid="qt911" creationdate="20210106T130332Z">
@@ -502,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Bull Rush</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130646Z" creationid="qt911" creationdate="20210608T130646Z">
+        <seg>## 冲撞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Carrying Capacity</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T142922Z" creationid="quentine" creationdate="20191104T142922Z">
@@ -530,6 +554,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T123347Z" creationid="quentine" creationdate="20190703T123347Z">
         <seg>## 挑战等级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Characters in Vehicles</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133419Z" creationid="qt911" creationdate="20210618T133419Z">
+        <seg>## 载具里的角色</seg>
       </tuv>
     </tu>
     <tu>
@@ -864,6 +896,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Disarm</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132922Z" creationid="qt911" creationdate="20210609T132922Z">
+        <seg>## 卸除武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Disease</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T141800Z" creationid="quentine" creationdate="20190115T141800Z">
@@ -992,6 +1032,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Facing and Firing Arcs</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T142156Z" creationid="qt911" creationdate="20210618T142156Z">
+        <seg>## 朝向与射击角度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Falling</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T135207Z" creationid="quentine" creationdate="20190115T135207Z">
@@ -1116,6 +1164,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T125226Z" creationid="quentine" creationdate="20190805T125226Z">
         <seg>## 获取技能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Grabbing Objects</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T135748Z" creationid="qt911" creationdate="20210609T135748Z">
+        <seg>## 夺取物品</seg>
       </tuv>
     </tu>
     <tu>
@@ -1504,6 +1560,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Overrun</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140217Z" creationid="qt911" creationdate="20210608T140217Z">
+        <seg>## 闯越</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## PERSONALITY</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190526T091617Z" creationid="quentine" creationdate="20190526T091617Z">
@@ -1696,6 +1760,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Scale</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135316Z" creationid="qt911" creationdate="20210618T135316Z">
+        <seg>## 尺度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Search (Int)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T125349Z" creationid="quentine" creationdate="20191027T125349Z">
@@ -1828,6 +1900,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121359Z" creationid="quentine" creationdate="20201118T121359Z">
         <seg>## 速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Splash Weapons</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T133946Z" creationid="qt911" creationdate="20210607T133946Z">
+        <seg>## 溅射武器</seg>
       </tuv>
     </tu>
     <tu>
@@ -2088,6 +2168,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Trip</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T131429Z" creationid="qt911" creationdate="20210609T131429Z">
+        <seg>## 绊摔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Try Again?</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190619T134832Z" creationid="QuenTine" creationdate="20181106T140713Z">
@@ -2148,6 +2236,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181106T124609Z" creationid="QuenTine" creationdate="20181106T124609Z">
         <seg>## 计算声望加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Vehicle Sizes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140702Z" creationid="qt911" creationdate="20210618T140642Z">
+        <seg>## 载具体型</seg>
       </tuv>
     </tu>
     <tu>
@@ -2488,6 +2584,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Being Tripped (Prone)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132427Z" creationid="qt911" creationdate="20210609T132427Z">
+        <seg>### 被绊倒（俯卧）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Bell Jet Ranger</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200803T144101Z" creationid="quentine" creationdate="20200803T144101Z">
@@ -2552,6 +2656,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Breaking Objects</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T125828Z" creationid="qt911" creationdate="20210608T125828Z">
+        <seg>### 破坏物品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Bribery and Diplomacy</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190924T134550Z" creationid="quentine" creationdate="20190924T134550Z">
@@ -2572,6 +2684,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190730T134058Z" creationid="quentine" creationdate="20190730T134058Z">
         <seg>### 构造师</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Bull Rush Results</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131938Z" creationid="qt911" creationdate="20210608T131938Z">
+        <seg>### 冲撞结果</seg>
       </tuv>
     </tu>
     <tu>
@@ -3432,6 +3552,46 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Grabbing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T134638Z" creationid="qt911" creationdate="20210609T140830Z">
+        <seg>### 攫抓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Grapple</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140339Z" creationid="qt911" creationdate="20210609T140339Z">
+        <seg>### 擒抱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Grapple Checks</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142043Z" creationid="qt911" creationdate="20210609T142043Z">
+        <seg>### 擒抱检定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Grapple Modifier</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142248Z" creationid="qt911" creationdate="20210609T142248Z">
+        <seg>### 擒抱调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Grappling Consequences</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141627Z" creationid="qt911" creationdate="20210611T141627Z">
+        <seg>### 擒抱的影响</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Great Cleave</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190802T131945Z" creationid="quentine" creationdate="20190802T131945Z">
@@ -3520,6 +3680,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Holding</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="qt911" creationdate="20210609T141101Z">
+        <seg>### 缠握</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Holster</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T094335Z" creationid="quentine" creationdate="20200117T094335Z">
@@ -3548,6 +3716,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T132732Z" creationid="qt911" creationdate="20210530T132732Z">
         <seg>### 角色能移动的距离</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### If the Character is Pinned</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144142Z" creationid="qt911" creationdate="20210617T144142Z">
+        <seg>### 如果角色被压制</seg>
       </tuv>
     </tu>
     <tu>
@@ -3664,6 +3840,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Initiating a Bull Rush</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131417Z" creationid="qt911" creationdate="20210608T131417Z">
+        <seg>### 开始冲撞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Initiative Checks</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T140928Z" creationid="quentine" creationdate="20201118T140928Z">
@@ -3724,6 +3908,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T142802Z" creationid="quentine" creationdate="20201118T142802Z">
         <seg>### 加入战斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Joining a Grapple</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144510Z" creationid="qt911" creationdate="20210617T144510Z">
+        <seg>### 加入擒抱</seg>
       </tuv>
     </tu>
     <tu>
@@ -3860,6 +4052,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181024T042747Z" creationid="QuenTine" creationdate="20181024T042747Z">
         <seg>### 乘法计算</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Making a Trip Attack</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T131634Z" creationid="qt911" creationdate="20210609T131634Z">
+        <seg>### 发动绊摔攻击</seg>
       </tuv>
     </tu>
     <tu>
@@ -4032,6 +4232,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Multiple Grapplers</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T145050Z" creationid="qt911" creationdate="20210617T145050Z">
+        <seg>### 多个擒抱者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Multipurpose Tool</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T022542Z" creationid="quentine" creationdate="20200116T021637Z">
@@ -4144,10 +4352,18 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Pinning</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141839Z" creationid="qt911" creationdate="20210609T141839Z">
+        <seg>### 压制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Planted Explosives</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210606T143707Z" creationid="qt911" creationdate="20210606T143707Z">
-        <seg>### 植入式爆炸物</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T133705Z" creationid="qt911" creationdate="20210606T143707Z">
+        <seg>### 安装式爆炸物</seg>
       </tuv>
     </tu>
     <tu>
@@ -4332,6 +4548,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190803T142303Z" creationid="quentine" creationdate="20190803T142303Z">
         <seg>### 闻名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Repairing Objects</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130334Z" creationid="qt911" creationdate="20210608T130334Z">
+        <seg>### 修理物品</seg>
       </tuv>
     </tu>
     <tu>
@@ -4560,6 +4784,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>### Starting a Grapple</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T131815Z" creationid="qt911" creationdate="20210611T131815Z">
+        <seg>### 发动擒抱</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>### Stealthy</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T123413Z" creationid="quentine" creationdate="20190804T123413Z">
@@ -4596,6 +4828,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201114T014156Z" creationid="quentine" creationdate="20201114T014156Z">
         <seg>### 力量调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Strike an Object</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T135225Z" creationid="qt911" creationdate="20210607T135225Z">
+        <seg>### 击打物品</seg>
       </tuv>
     </tu>
     <tu>
@@ -4884,6 +5124,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T125800Z" creationid="quentine" creationdate="20200117T125800Z">
         <seg>### 运输</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>### Tripping with a Weapon</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132816Z" creationid="qt911" creationdate="20210609T132816Z">
+        <seg>### 用武器绊摔</seg>
       </tuv>
     </tu>
     <tu>
@@ -7192,6 +7440,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(A character can always move through a square occupied by someone who lets the character by.) If the opponent blocks the character, make a trip attack against the opponent (see Trip).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T145204Z" creationid="qt911" creationdate="20210608T142451Z">
+        <seg>（方格上的角色如果允许角色通过，那么角色总是能穿过。）如果目标选择阻挡角色，角色应对对手做一个绊摔攻击（见绊摔）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(A character can target a square occupied by a creature.) Throwing the explosive is an attack action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210605T142143Z" creationid="qt911" creationdate="20210605T142143Z">
@@ -7306,10 +7562,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(However, such a creature can get a hold on the character—so while a character can’t initiate a grapple with a creature more than two size categories larger than, a character can still end up in one.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141834Z" creationid="qt911" creationdate="20210609T141834Z">
+        <seg>（但是这样的生物能够对角色实施闭锁——所以角色即使不能闭锁比自己大两级的生物，仍可拖住目标。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(If a character doesn’t have those feats, he or she can still fire more than one bullet—but the extra bullets don’t have any effect, and are just wasted ammunition.)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210605T135534Z" creationid="qt911" creationdate="20210605T135534Z">
         <seg>（若角色无对应专长，角色仍可以在一次手动射击中发射多美弹药，但多发射的弹药没有任何效果，纯粹是浪费。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(If a character has the Sunder feat, he or she doesn’t incur an attack of opportunity for making the attempt.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141248Z" creationid="qt911" creationdate="20210607T141248Z">
+        <seg>（如果角色有`击碎`专长，则不会引发借机攻击。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7348,6 +7620,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(If the character normally gets more than one attack per attack action, he or she can attempt as many of these options as he or she has attacks available, using his or her successively lower attack bonus for each roll.) The character is limited to these options only; he or she cannot take any other actions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T142554Z" creationid="qt911" creationdate="20210611T142514Z">
+        <seg>（如果角色每个攻击动作可以发动多次攻击，则可做同样多次动作，每次检定都会降低攻击加值。）角色仅限于做这些动作；此外的其他动作都将被禁止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(If the opponent has a Strength penalty, he or hse still takes that penalty.)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T143919Z" creationid="quentine" creationdate="20190804T143919Z">
@@ -7360,6 +7640,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190526T112703Z" creationid="quentine" creationdate="20190526T112703Z">
         <seg>（如果目标被明星或其伙伴威胁或攻击，这个能力就不起作用。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(In general, a character cannot make an attack action during a move action; this is an exception.) In either case, the character doesn’t get a 5-foot step before, during, or after the overrun attempt.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140326Z" creationid="qt911" creationdate="20210608T140326Z">
+        <seg>（一般来说，角色不能在移动动作中做出攻击动作，而这是个例外。）在以上情况下，角色不能在闯越之前、途中、之后做五尺快步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(In general, a character can’t make an attack action during a move action; this is an exception.) In either case, the character doesn’t get a 5-foot step before, during, or after the bull rush attempt.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131125Z" creationid="qt911" creationdate="20210608T131125Z">
+        <seg>（一般来说，角色不能在移动动作中做出攻击动作，而这是个例外。）在以上情况下，角色不能在冲撞之前、途中、之后做五尺快步。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7412,6 +7708,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T132316Z" creationid="quentine" creationdate="20190114T132316Z">
         <seg>（当伤害不可避免时，角色可以通过成功的反射豁免只承受一半伤害。）计算反射豁免骰需要加上角色的敏捷调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Opponents don’t have to try to hold a character if they don’t want to.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143237Z" creationid="qt911" creationdate="20210617T140319Z">
+        <seg>（作为擒抱者，如果不想缠握住角色，可以不做这个检定，直接放弃。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Opponents don’t have to try to keep the character pinned if they don’t want to.) The character is still being grappled, however.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143409Z" creationid="qt911" creationdate="20210617T143156Z">
+        <seg>（擒抱者如果不想继续压制，可以直接放弃。）但是，压制挣脱后，角色仍然处于被擒抱状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7488,6 +7800,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Some especially large vehicles, such as ships or jumbo jets, might occupy more than one square.) More than one vehicle can occupy the same square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140535Z" creationid="qt911" creationdate="20210618T140535Z">
+        <seg>（一些特别巨大的载具，例如大型舰艇或者大型喷气客机，会占据多个方格。）一个方格可以由多个载具占据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Spending more than 3 hours per day does not reduce the number of days required.) The character cannot spread the days out; if the character does not complete the training during a period of consecutive days, the effort is wasted.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190930T142904Z" creationid="quentine" creationdate="20190930T142904Z">
@@ -7540,6 +7860,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T120204Z" creationid="quentine" creationdate="20191104T120204Z">
         <seg>（GM决定此章未体积的物品的购买DC，以相同价位物品作参考。）财富检定过程与购买此物品相同，但角色检定有10点减值，且不可取10取20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(The character can still use it against opponents he or she is grappling.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141953Z" creationid="qt911" creationdate="20210611T141953Z">
+        <seg>（角色仍可在对擒抱目标的防御中应用敏捷加值。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7600,6 +7928,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(The size modifier is already included in the vehicle statistics on Table: Vehicles)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T141031Z" creationid="qt911" creationdate="20210618T141031Z">
+        <seg>（体型调整值已经在`表：载具`中列出）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(The skill is language--dependent.)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190926T142136Z" creationid="quentine" creationdate="20190926T142136Z">
@@ -7612,6 +7948,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191113T142221Z" creationid="quentine" creationdate="20191113T142029Z">
         <seg>（套装的伪装可以用一个移动动作开关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(The target provokes attacks of opportunity if moved.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T135727Z" creationid="qt911" creationdate="20210608T135727Z">
+        <seg>（目标如果被推动，将引发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7640,6 +7984,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(This is a free action.) If the character succeeds, the character has started the grapple, and deals damage to the target as if with an unarmed strike.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T140826Z" creationid="qt911" creationdate="20210611T140826Z">
+        <seg>（这是一个即时动作。）如果角色成功，角色将开始擒抱，并对目标造成等效于徒手攻击的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(This movement is free and doesn’t count as part of the character’s movement for the round movement.) Moving, as normal, provokes attacks of opportunity from threatening enemies, but not from the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141422Z" creationid="qt911" creationdate="20210611T141330Z">
+        <seg>（这个移动是即时的，且不计入角色在该轮的移动距离中。）这个移动会照常引发借机攻击，但不会引发目标的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(This penalty is in addition to the -4 penalty that applies if the character does not have the Surgery feat.)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T035626Z" creationid="quentine" creationdate="20200116T035626Z">
@@ -7652,6 +8012,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T132607Z" creationid="quentine" creationdate="20191027T132607Z">
         <seg>（在这种情况下，GM为角色秘密检定察言观色，以让角色不知道有人试图唬骗。）使用察言观色感觉他人是否智的信赖需要至少1分钟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Without the tools, a character takes a –4 penalty on his or her Repair check.) At the end of the hour, make a Repair check (DC 20).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130537Z" creationid="qt911" creationdate="20210608T130537Z">
+        <seg>（如果没有工具，角色的修理检定承受4点减值。）在这一小时结束时，做一个修理鉴定（DC20）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7737,6 +8105,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T132132Z" creationid="qt911" creationdate="20210530T132132Z">
         <seg>（或位于相邻方格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(the character can’t attempt any other action.) On the character’s turn, he or she can attempt to escape from the pin.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144416Z" creationid="qt911" creationdate="20210617T144416Z">
+        <seg>（角色不能尝试其他动作。）在角色的回合，角色可以尝试挣脱压制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8485,8 +8861,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>**Benefit:** In melee combat, if an opponent attacks and misses the character, the character may immediately make a trip attack against the opponent.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190802T145106Z" creationid="quentine" creationdate="20190802T140936Z">
-        <seg>**效果：** 近战时，若对手攻击角色失守，角色可以立即对此对手进行绊摔攻击。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T142506Z" creationid="quentine" creationdate="20190802T140936Z">
+        <seg>**效果：** 近战时，若对手攻击角色失手，角色可以立即对此对手进行绊摔攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9308,10 +9684,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Character Scale:** Character scale is identical to the standard movement scale: It’s carried out on a grid in which each square equals 5 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135715Z" creationid="qt911" creationdate="20210618T135715Z">
+        <seg>**角色尺度：** 角色尺度与标准的移动尺度相同，都是在5尺见方的方格组成的棋盘内进行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Charm:** The Charismatic hero gets a competence bonus on all Charisma-based skill checks made to influence members of his chosen gender.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T071157Z" creationid="quentine" creationdate="20190202T115745Z">
         <seg>**魅惑：**解锁时，魅力型英雄指定一个性别，在用魅力相关的技能检定影响该性别的所有同伴时，获得一个表现加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Chase Scale:** In chase scale, each square of the grid represents 50 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140315Z" creationid="qt911" creationdate="20210618T140315Z">
+        <seg>**追逐尺度：** 在追逐尺度中，每个方格代表50尺见方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9788,6 +10180,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Copilot:** A copilot can help the driver by taking an aid another action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134116Z" creationid="qt911" creationdate="20210618T134116Z">
+        <seg>**副驾驶：** 副驾驶能够通过`协助他人`行动帮助驾驶员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Cover (DC 15):** The character can react instantly to drop down and hang alongside his or her mount, using it as one-half cover.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20191027T095127Z">
@@ -10072,6 +10472,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190927T140347Z" creationid="quentine" creationdate="20190927T140347Z">
         <seg>**退让（DC15）：** 让动物脱离战斗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Driver:** The driver of the vehicle controls its movement.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133705Z" creationid="qt911" creationdate="20210618T133705Z">
+        <seg>**驾驶员：** 载具的驾驶员控制载具的移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10440,6 +10848,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T093848Z" creationid="quentine" creationdate="20191027T093158Z">
         <seg>**用膝控制（DC5）：** 角色可以即时用膝盖控制坐骑以便在战斗中使用双手或做出其他动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Gunner:** Some vehicles have built-in weapons.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134843Z" creationid="qt911" creationdate="20210618T134718Z">
+        <seg>**射击手：** 一些载具有内置的武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11224,6 +11640,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190117T130331Z" creationid="quentine" creationdate="20190117T130331Z">
         <seg>**乘势攻击：** 敏捷型英雄可以使用1点行动点来使用这一天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Passenger:** All other personnel aboard the vehicle are considered passengers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135114Z" creationid="qt911" creationdate="20210618T135114Z">
+        <seg>**乘员：** 所有登上载具的其他人为乘员。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13197,10 +13621,34 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Table: Grapple Modifiers**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142732Z" creationid="qt911" creationdate="20210609T142732Z">
+        <seg>**表：擒抱调整值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Object Hardness and Hit Points**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T142343Z" creationid="qt911" creationdate="20210607T142343Z">
+        <seg>**表：物品的硬度与生命值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Table: Size Modifiers**</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201114T020247Z" creationid="quentine" creationdate="20201114T020247Z">
         <seg>**表：体型调整值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Size and Defense of Objects**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T140052Z" creationid="qt911" creationdate="20210607T140052Z">
+        <seg>**表：尺寸与物品防御的关系**</seg>
       </tuv>
     </tu>
     <tu>
@@ -13213,10 +13661,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Table: Substance Hardness and Hit Points**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141835Z" creationid="qt911" creationdate="20210607T141835Z">
+        <seg>**表：物质的硬度与生命值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Table: Two-Weapon Fighting Penalties**</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210105T132912Z" creationid="qt911" creationdate="20210105T132912Z">
-        <seg>**表：双武器战斗减值**</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144109Z" creationid="qt911" creationdate="20210105T132912Z">
+        <seg>**表：双持武器战斗减值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Vehicle Sizes**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T141041Z" creationid="qt911" creationdate="20210618T141041Z">
+        <seg>**表：载具体型**</seg>
       </tuv>
     </tu>
     <tu>
@@ -15403,10 +15867,34 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can also use disarm to snatch away an object worn by a target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T135816Z" creationid="qt911" creationdate="20210609T135816Z">
+        <seg>角色也可以用卸除武器的方式来夺取目标身上的物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can also use jury-rig to hot-wire a car or jump-start an engine or electronic device.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T085017Z" creationid="quentine" creationdate="20191027T085017Z">
         <seg>角色也可以用应急维修来热线发动汽车或者引擎或者电子设备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can attempt a bull rush as an attack action made during his or her move action, or as part of a charge.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130909Z" creationid="qt911" creationdate="20210608T130909Z">
+        <seg>角色可以在做移动动作时，花费一个攻击动作冲撞，也可以在冲锋时冲撞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can attempt an overrun as an attack action made during his or her move action, or as part of a charge.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140302Z" creationid="qt911" creationdate="20210608T140302Z">
+        <seg>角色可以在做移动动作时，花费一个攻击动作闯越，也可以在冲锋时闯越。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15555,6 +16043,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can instead target a specific 5-foot square, including a square occupied by a creature.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T134821Z" creationid="qt911" creationdate="20210607T134821Z">
+        <seg>角色也可以瞄准一个方格，无论方格上有没有生物占据着。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can lift up to double his or her maximum load off the ground, but he or she can only stagger around with it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T134445Z" creationid="quentine" creationdate="20191105T134445Z">
@@ -15619,6 +16115,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can make only one overrun attempt per action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140609Z" creationid="qt911" creationdate="20210608T140537Z">
+        <seg>角色每个动作只能做一次闯越，一次闯越只能穿过一个对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can move half that far (one-half his or her speed) as a move action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190808T150755Z" creationid="quentine" creationdate="20190808T150755Z">
@@ -15651,6 +16155,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can only bull rush an opponent who is one size category larger than the character, the same size, or smaller.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131354Z" creationid="qt911" creationdate="20210608T131354Z">
+        <seg>角色只能对比自己大一级、相等、或者比自己小一级的对手发动冲撞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can only make attacks of opportunity with melee weapons, never with ranged weapons.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210106T131809Z" creationid="qt911" creationdate="20210106T131809Z">
@@ -15659,10 +16171,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can only overrun an opponent who is one size category larger than the character, the same size, or smaller.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140440Z" creationid="qt911" creationdate="20210608T140440Z">
+        <seg>角色只能对比自己大一级、相等、或者比自己小一级的对手发动闯越。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can only spend 1 action point in a round.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T135516Z" creationid="quentine" creationdate="20190114T135516Z">
         <seg>角色在一轮内只能用掉1点行动点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can only trip an opponent who is one size category larger than the character, the same size, or smaller.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T131626Z" creationid="qt911" creationdate="20210609T131626Z">
+        <seg>角色只能对比自己大一级、相等、或者比自己小一级的对手发动绊摔。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15963,6 +16491,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can try to trip an opponent, or otherwise knock him or her down, as an unarmed melee attack.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T131743Z" creationid="qt911" creationdate="20210609T131514Z">
+        <seg>角色可以尝试用徒手近战攻击绊摔对手，或者是击倒对手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can use Navigate to determine his or her position on earth without the use of any high-tech equipment by checking the constellations or other natural landmarks.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T134833Z" creationid="quentine" creationdate="20191025T134833Z">
@@ -16059,6 +16595,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can’t attack with two weap-ons while grappling.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144135Z" creationid="qt911" creationdate="20210617T144010Z">
+        <seg>角色不能在擒抱中以双持武器攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can’t deliver a coup de grace against a creature that is immune to critical hits.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210601T142747Z" creationid="qt911" creationdate="20210601T142747Z">
@@ -16079,6 +16623,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190926T132214Z" creationid="quentine" creationdate="20190926T132214Z">
         <seg>角色不能进入比头还小的空间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can’t get a hold on any creature more than two size categories larger than the character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135707Z" creationid="qt911" creationdate="20210609T141335Z">
+        <seg>角色不能对任何比自己大两个体型等级的生物实施握。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16107,6 +16659,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character can’t use a weapon on a pinned character or attempt to damage or pin a second opponent while holding a pin on the first.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T143216Z" creationid="qt911" creationdate="20210611T143216Z">
+        <seg>角色若一开始就选择压制，则不可对被压制的角色使用武器，也不可压制或伤害第二个角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character can’t use an action point on a skill check or ability check when he or she is taking 10 or taking 20.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T134945Z" creationid="quentine" creationdate="20190114T134828Z">
@@ -16127,6 +16687,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T123408Z" creationid="quentine" creationdate="20190804T123408Z">
         <seg>角色不能在重度负载或穿着重甲时使用此专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character can’t, however, exceed his or her normal movement for that action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T135651Z" creationid="qt911" creationdate="20210608T135651Z">
+        <seg>但是，角色移动的总距离不能超过常速。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16183,6 +16751,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T140129Z" creationid="qt911" creationdate="20210530T140129Z">
         <seg>角色进行远程攻击将不能获得夹击加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character doesn’t incur an attack of opportunity when doing so.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132859Z" creationid="qt911" creationdate="20210609T132859Z">
+        <seg>用这种方式进行攻击时，角色不会引发借机攻击。fang</seg>
       </tuv>
     </tu>
     <tu>
@@ -16247,6 +16823,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191016T141339Z" creationid="quentine" creationdate="20191016T141339Z">
         <seg>免疫恐惧的角色不会被威吓到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A character in a vehicle fills one of several possible roles, which determines what the character can do.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133643Z" creationid="qt911" creationdate="20210618T133643Z">
+        <seg>角色在载具中通常担任一到多个职能，这决定了角色能做的事情。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17019,6 +17603,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character’s attack bonus on a grapple check is:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142223Z" creationid="qt911" creationdate="20210609T142223Z">
+        <seg>角色对擒抱检定的攻击加值为：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character’s attack bonus with a melee weapon is:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201114T014008Z" creationid="quentine" creationdate="20201114T014008Z">
@@ -17195,6 +17787,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A copilot can also drive the vehicle if the driver cannot or chooses not to, provided there is a second set of controls at the copilot’s seat (usually true in aircraft, but not ground vehicles).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134632Z" creationid="qt911" creationdate="20210618T134632Z">
+        <seg>如果驾驶员不能或不想驾驶，副驾驶可以代替驾驶员驾驶，前提是副驾驶位也有一套控制系统（常见于飞行器，而非地面载具）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A covering character can choose not to apply his or her Dexterity bonus to Defense and/or his or her dodge bonus, if the character so desires.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210531T142437Z" creationid="qt911" creationdate="20210531T142437Z">
@@ -17279,6 +17879,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T144710Z" creationid="quentine" creationdate="20191031T144644Z">
         <seg>有灵敏嗅觉的生物可以追踪气味，这需要一个感知检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A creature’s size works in its favor when grappling, if that creature is Large or larger in size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142343Z" creationid="qt911" creationdate="20210609T142343Z">
+        <seg>如果生物是大型或更大的体型，这将有利于擒抱检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17595,6 +18203,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A grapple check is something like a melee attack roll.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142158Z" creationid="qt911" creationdate="20210609T142158Z">
+        <seg>擒抱检定类似近战攻击骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A handgun is a personal firearm that can be used one-handed without penalty.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200417T134130Z">
@@ -17687,6 +18303,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181106T122646Z" creationid="QuenTine" creationdate="20181106T122646Z">
         <seg>但高声望也会使得角色难以掩盖自己的身份。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A hit deals direct hit damage to the target and splash damage to all other creatures within 5 feet of the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T135018Z" creationid="qt911" creationdate="20210607T134700Z">
+        <seg>攻击将对目标造成直接伤害，并对所有距目标5尺内的所有其他生物造成溅射伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18083,6 +18707,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A partial turret lets a weapon fire into three adjacent fire arcs (such as forward, left, and right), while a full turret lets it fire in any direction.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T143037Z" creationid="qt911" creationdate="20210618T143037Z">
+        <seg>半方向炮塔可以在相邻的三个方向内自由转动（比如前左右），全方向炮塔则可以向任何方向射击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A particularly good location in an upscale neighborhood or city center increases the purchase DC by 2.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T125052Z" creationid="quentine" creationdate="20200117T124934Z">
@@ -18115,10 +18747,34 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A pinned character can’t take any action except to attempt to escape from the pin.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T135727Z" creationid="qt911" creationdate="20210617T135547Z">
+        <seg>被压制的角色不能做除挣脱压制外的任何动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A pinned character is held immobile (but not helpless) in a grapple.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190115T124745Z" creationid="quentine" creationdate="20190115T124745Z">
-        <seg>角色在擒抱中被固定住，就是处于压制状态，无法行动（但不是无助）。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142021Z" creationid="quentine" creationdate="20190115T124745Z">
+        <seg>角色在擒抱中被固定住，就是处于压制状态，无法移动（但不是无助）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A pinned character is held immobile.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142014Z" creationid="qt911" creationdate="20210609T142014Z">
+        <seg>被压制的角色无法移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A planted explosive is set in place, with a timer or fuse determining when it goes off.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T133711Z" creationid="qt911" creationdate="20210607T133538Z">
+        <seg>安装式爆炸物需要安装在指定位置，以计时器或导火索决定何时引爆。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18483,6 +19139,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A splash weapon is a ranged weapon that breaks apart on impact, splashing or scattering its contents over its target and nearby creatures or objects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T134231Z" creationid="qt911" creationdate="20210607T134231Z">
+        <seg>溅射武器是一种远程武器，当武器撞击到目标时，其内容物会溅射、散布开来，覆盖到目标以及目标附近的生物或物体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A stable character is no longer dying, but is still unconscious.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T125228Z" creationid="quentine" creationdate="20190115T125228Z">
@@ -18645,8 +19309,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>A successful hold does not deal additional damage unless the creature also has the constrict ability (see above).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191031T132122Z" creationid="quentine" creationdate="20191031T132020Z">
-        <seg>成功的抓握不会造成额外的伤害，除非生物有紧勒的能力（见下文）。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="quentine" creationdate="20191031T132020Z">
+        <seg>成功的`缠握`不会造成额外的伤害，除非生物有`紧勒`的能力（见下文）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18789,6 +19453,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A tripped character is prone (see Table: Defense Modifiers).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132723Z" creationid="qt911" creationdate="20210609T132505Z">
+        <seg>被绊倒的角色会陷入俯卧（见表：防御调整值）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A turned creature flees for 10 rounds (1 minute).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T110712Z" creationid="quentine" creationdate="20190703T110712Z">
@@ -18809,6 +19481,30 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T143755Z" creationid="quentine" creationdate="20190916T143430Z">
         <seg>根据访问方式的不同，访问将会需要各种技能检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A vehicle can have as many gunners as it has gunner positions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135043Z" creationid="qt911" creationdate="20210618T135043Z">
+        <seg>一个载具有多少个射击手位，就可以有多少个射击手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A vehicle can have only one copilot at a time.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134407Z" creationid="qt911" creationdate="20210618T134407Z">
+        <seg>一个载具只能同时拥有一个副驾驶位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A weapon built into a vehicle can by mounted to fire in one of four directions—forward, aft (rear), right, or left—or be built into a partial or full turret.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T143135Z" creationid="qt911" creationdate="20210618T142846Z">
+        <seg>武器在载具中可以搭载在固定射击位，朝向四个方向——前后左右——或者搭载在半方向炮塔或全方向炮塔上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19247,8 +19943,16 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>After determining where the explosive landed, it deals its damage to all targets within the burst radius of the weapon.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210606T143530Z" creationid="qt911" creationdate="20210606T143530Z">
-        <seg>决定了爆炸物的落点后，将对武器的爆炸半径内的所有目标造成伤害。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T133938Z" creationid="qt911" creationdate="20210606T143530Z">
+        <seg>决定了爆炸物的落点后，将对爆炸半径内的所有目标造成伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After determining where the object landed, it deals splash damage to all creatures within 5 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T135153Z" creationid="qt911" creationdate="20210607T135153Z">
+        <seg>决定了落点后，再对落点5尺内的所有生物造成溅射伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19353,6 +20057,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T081431Z" creationid="quentine" creationdate="20190216T081431Z">
         <seg>借机反击、富有创意、欺诈、闪避、气势凶猛、钢铁意志、闪电反射、低调、近程射击、闻名、值得信赖、横财。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Aiding the driver is a move action, leaving the copilot with an attack action each round to do something else.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134333Z" creationid="qt911" creationdate="20210618T134333Z">
+        <seg>协助驾驶员是一个移动动作，副驾驶每轮只剩一个攻击动作来做别的事情。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19765,6 +20477,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, if the combatants are different sizes, the larger combatant gets a bonus on the attack roll of +4 per difference in size category.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134144Z" creationid="qt911" creationdate="20210609T134144Z">
+        <seg>同样，如果对抗双方的体型不同，大的一方的攻击骰检定会获得每体型等级差距+4的加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, it always takes a number of hours equal to the purchase DC of the object or service.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190112T063421Z" creationid="quentine" creationdate="20190112T063421Z">
@@ -19877,10 +20597,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alternatively, a character can make an Escape Artist check opposed by the opponent’s grapple check to escape from the pin.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143432Z" creationid="qt911" creationdate="20210617T143432Z">
+        <seg>或者，角色可以做一个`脱逃`检定，与对手的擒抱检定相对抗，这样也能挣脱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alternatively, the character can command the animal to defend a specific other character.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190927T135727Z" creationid="quentine" creationdate="20190927T135727Z">
         <seg>或者角色可以命令动物为制定的其他角色提供防御。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alternatively, the character can make an Escape Artist check opposed by the opponent’s grapple check to escape from the grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T140417Z" creationid="qt911" creationdate="20210617T140417Z">
+        <seg>或者，角色可以做一个`脱逃`检定，与对手的擒抱检定相对抗，这样也能挣脱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20369,6 +21105,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T075432Z" creationid="quentine" creationdate="20190216T075432Z">
         <seg>被激励的友方的豁免、攻击和伤害骰共计获得3点士气加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An object attended by a character (being grasped, touched, or worn) receives a saving throw just as if the character herself were making the saving throw.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T125805Z" creationid="qt911" creationdate="20210608T125723Z">
+        <seg>被角色`照管`（握着、接触着、穿戴着）的物品可进行豁免检定，相当于让照管者本人代行豁免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An object being held, carried, or worn has a Defense equal to the above figure + 5 + the opponent’s Dexterity modifier + the opponent’s class bonus to Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141128Z" creationid="qt911" creationdate="20210607T140727Z">
+        <seg>被对手手持、携带或穿戴的物品，其防御值=尺寸防御+5+对手的敏捷调整值+对手的职业防御加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21065,6 +21817,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T082149Z" creationid="quentine" creationdate="20190216T082149Z">
         <seg>总的来说，跨职角色的属性是角色每个职业提供的属性的总和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As a melee attack, a character may attempt to disarm his or her opponent.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T133004Z" creationid="qt911" creationdate="20210609T133004Z">
+        <seg>角色可以尝试卸除对手的武器，卸除武器是一种近战攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22325,6 +23085,30 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attack of Opportunity: A character provokes an attack of opportunity from the target he or she is trying to grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T132214Z" creationid="qt911" creationdate="20210611T132214Z">
+        <seg>借机攻击：角色引发欲擒抱的目标的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attack of Opportunity: If the target’s attack of opportunity inflicts any damage, the attempt to grab the object automatically fails.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140000Z" creationid="qt911" creationdate="20210609T140000Z">
+        <seg>借机攻击：如果目标的借机攻击导致了任何伤害，夺取物品必然失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attack with a Light Weapon: A character can attack with a light weapon while grappling (but not while pinned or pinning).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143900Z" creationid="qt911" creationdate="20210617T143900Z">
+        <seg>用轻武器攻击：角色在处于擒抱状态中，可以用轻武器攻击（但不可以在压制或被压制时这么做）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Attacking after a Charge: After moving, the character may make a single melee attack.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T124600Z" creationid="qt911" creationdate="20210105T124600Z">
@@ -22351,8 +23135,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>Attacking with Two Weapons: If the character wields a second weapon in his or her off hand, the character can get one extra attack per round with that weapon.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210105T131855Z" creationid="qt911" creationdate="20210105T131747Z">
-        <seg>双武器攻击：如果角色在副手装备了武器，每一轮角色都可以用该武器进行额外的攻击。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144109Z" creationid="qt911" creationdate="20210105T131747Z">
+        <seg>双持武器攻击：如果角色在副手装备了武器，每一轮角色都可以用该武器进行额外的攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22377,6 +23161,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T145929Z" creationid="quentine" creationdate="20190916T145929Z">
         <seg>切断访问是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attempting to start a grapple is the equivalent of making a melee attack.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T131926Z" creationid="qt911" creationdate="20210611T131926Z">
+        <seg>发动擒抱等同于做一次近战攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22553,6 +23345,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201114T014144Z" creationid="quentine" creationdate="20201114T014144Z">
         <seg>基础攻击加值 + 敏捷调整值 + 体型调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Base attack bonus + Strength modifier + grapple modifier</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142237Z" creationid="qt911" creationdate="20210609T142237Z">
+        <seg>基础攻击加值 + 力量调整值 + 擒抱调整值</seg>
       </tuv>
     </tu>
     <tu>
@@ -22873,6 +23673,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200420T134549Z" creationid="quentine" creationdate="20200420T134549Z">
         <seg>弓箭狩猎在北美仍是一个流行的运动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Break Another’s Pin: Make an opposed grapple check; if the character succeeds, he or she can break the hold that an opponent has over an ally.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143729Z" creationid="qt911" creationdate="20210617T143603Z">
+        <seg>帮他人解除压制：做一个擒抱对抗检定；如果角色成功，将能帮助被压制的盟友挣脱缠握，而不仅仅是解除压制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23377,6 +24185,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cold attacks deal one-quarter damage to most objects; divide the damage by 4 before applying the hardness.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T124840Z" creationid="qt911" creationdate="20210608T124840Z">
+        <seg>寒冷攻击对大多数物品造成1/4伤；造成的伤害在扣除硬度之前先除以4。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Collecting evidence generally takes 1d4 minutes per object.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191021T133735Z" creationid="quentine" creationdate="20191021T133735Z">
@@ -23665,6 +24481,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Conversely, a creature of Small or smaller size is at a disadvantage because of its size when grappling.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142432Z" creationid="qt911" creationdate="20210609T142432Z">
+        <seg>相反，小型或更小体型的生物会因其体型处于劣势。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Conversely, the GM can decide that certain advanced classes aren’t available in the campaign.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190221T133438Z" creationid="quentine" creationdate="20190221T133438Z">
@@ -23833,6 +24657,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creatures that are one size category smaller than the character count as one-half creature each; creatures that are one size category larger than the character count as two creatures; and creatures two or more size categories larger than the character count as four creatures.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T145526Z" creationid="qt911" creationdate="20210617T145256Z">
+        <seg>体型比目标低一级的生物算半个，体型比目标高一级的生物算两个，高大于等于两级的生物算4个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creatures that would be turned are rebuked instead, and those that would be destroyed are commanded.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T112541Z" creationid="quentine" creationdate="20190703T112541Z">
@@ -23917,6 +24749,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T105557Z" creationid="quentine" creationdate="20201118T105557Z">
         <seg>目标的当前生命值将扣除此次造成的伤害值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Damage the Opponent: Make an opposed grapple check; if the character succeeds, he or she deals damage as with an un-armed strike.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T142713Z" creationid="qt911" creationdate="20210611T142713Z">
+        <seg>伤害对手：做一个擒抱对抗检定；如果角色成功，将造成一次徒手攻击伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24278,6 +25118,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disarming the wielder of a ranged weapon is slightly different; see below.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T133606Z" creationid="qt911" creationdate="20210609T133556Z">
+        <seg>卸除远程武器与卸除近战武器会有一些不同，见后文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Discharging a fire extinguisher is a move action and instantly smothers flames in a 10-foot-by-10-foot area.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200420T141552Z">
@@ -24406,6 +25254,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Doing this provokes an attack of opportunity from the target as normal for unarmed attacks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T131832Z" creationid="qt911" creationdate="20210609T131832Z">
+        <seg>这么做会像一般的徒手攻击一样，引发目标对自己的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Doing this reduces the purchase DC by 3 and the Repair check DC by 5, and allows the character to make the checks in as little as a full-round action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T084456Z" creationid="quentine" creationdate="20191027T084456Z">
@@ -24422,6 +25278,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Doing this works the same as a disarm attempt (see above), except for the following.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T135852Z" creationid="qt911" creationdate="20210609T135852Z">
+        <seg>过程和卸除武器一样（见上文），但有以下几点不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Don’t use the modifiers from Table: Concealing Weapons and Objects when wearing concealable armor.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191104T142243Z">
@@ -24432,8 +25296,16 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>Double Weapons: A character can use a double weapon to make an extra attack as if he or she were fighting with two weapons.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210105T132759Z" creationid="qt911" creationdate="20210105T132759Z">
-        <seg>双头武器：角色可以用一个双头武器做额外的攻击，等效于双武器战斗。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144109Z" creationid="qt911" creationdate="20210105T132759Z">
+        <seg>双头武器：角色可以用一个双头武器做额外的攻击，等效于双持武器战斗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Draw a Light Weapon: A character can draw a light weap-on as a move action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143753Z" creationid="qt911" creationdate="20210617T143753Z">
+        <seg>拔出轻武器：角色可以以一个移动动作拔出轻武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24442,6 +25314,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20191104T135456Z">
         <seg>拔出隐藏武器会比从正常的装具中拔出更困难，一般需要一个攻击动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Driving a vehicle is, at a minimum, a move action, which means that the driver may be able to do something else with his or her attack action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133906Z" creationid="qt911" creationdate="20210618T133906Z">
+        <seg>驾驶载具，至少消耗一个移动动作，也就是说驾驶员可以在驾驶中用一个攻击动作做别的事情。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24862,6 +25742,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Electricity and fire attacks deal half damage to most objects; divide the damage by 2 before applying the hardness.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T124806Z" creationid="qt911" creationdate="20210608T124806Z">
+        <seg>电与火焰攻击对大多数物品造成半伤；造成的伤害在扣除硬度之前先除以2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Electro-Optical: An electro-optical scope functions the same as a standard scope in normal light.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T105340Z" creationid="quentine" creationdate="20200117T105340Z">
@@ -24902,6 +25790,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Energy Attacks: Acid and sonic/concussive attacks deal normal damage to most objects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T124644Z" creationid="qt911" creationdate="20210608T124644Z">
+        <seg>能量攻击：酸性与音波/震荡攻击能对大多数物品造成一般伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Entrepreneurs have an obsession about being their own boss.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181104T134418Z" creationid="QuenTine" creationdate="20181104T134418Z">
@@ -24922,6 +25818,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191105T141236Z" creationid="quentine" creationdate="20191105T141236Z">
         <seg>装备有各种属性，见表：普通装备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Escape from Grapple: Make an opposed grapple check.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143113Z" creationid="qt911" creationdate="20210617T135807Z">
+        <seg>挣脱擒抱：双方做一个擒抱对抗检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Escape from Pin: Make an opposed grapple check.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143106Z" creationid="qt911" creationdate="20210617T143002Z">
+        <seg>挣脱压制：双方做一个擒抱对抗检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25238,6 +26150,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Facing indicates the direction in which the vehicle is traveling (assuming it’s not moving in reverse).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T142419Z" creationid="qt911" creationdate="20210618T142419Z">
+        <seg>载具朝向的方向就是载具要移动的方向（假设不考虑载具倒车）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failed Attempts: Failing an attempt to grab an object doesn’t allow the target to at-tempt to disarm the character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140334Z" creationid="qt911" creationdate="20210609T140334Z">
+        <seg>若失败：夺取物品失败不会引发目标对角色的缴械。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Failure by 10 or more means the explosive goes off as the detonator is being installed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T085741Z" creationid="quentine" creationdate="20190923T132728Z">
@@ -25534,6 +26462,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>First, the character moves into the target’s square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131429Z" creationid="qt911" creationdate="20210608T131429Z">
+        <seg>首先，角色移动到目标的方格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First, the character must move at least 10 feet in a straight line into the target’s square (provoking attacks of opportunity normally).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140725Z" creationid="qt911" creationdate="20210608T140725Z">
+        <seg>首先，角色必须至少直线移动10尺，移动到目标的方格（将照常引发借机攻击）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fixing the degraded programming requires 1 hour and a Computer Use check against a DC equal to the DC for degrading it + 5.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190917T124005Z" creationid="quentine" creationdate="20190917T123903Z">
@@ -25570,6 +26514,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190522T142435Z" creationid="quentine" creationdate="20190522T142435Z">
         <seg>机器人需按照以下顺序制造：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Follow these steps.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T132124Z" creationid="qt911" creationdate="20210611T132124Z">
+        <seg>擒抱将遵循以下步骤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25814,6 +26766,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For simply traveling from point to point, the vehicle used is largely a matter of personal style and finances.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133159Z" creationid="qt911" creationdate="20210618T133015Z">
+        <seg>如果只涉及点到点的旅行，载具的使用只与个人风格和和经济相关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For situations of total darkness, the goggles come with an infrared illuminator that, when switched on, operates like a standard flashlight whose light is visible only to the wearer (or anyone else wearing night vision goggles).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T135029Z" creationid="quentine" creationdate="20191202T135029Z">
@@ -25902,6 +26862,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For vehicles with weapons, a weapon’s arc of fire is given in the vehicle’s description.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T143210Z" creationid="qt911" creationdate="20210618T143118Z">
+        <seg>对于自带武器的载具，武器的射击角已在载具描述中给出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For weapons that fire projectiles, it is ten range increments.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20201229T233223Z" creationid="qt911" creationdate="20201229T233223Z">
@@ -25946,6 +26914,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T134543Z" creationid="qt911" creationdate="20210530T134543Z">
         <seg>友善角色：角色可越过友善角色占据的方格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From a hold, a character can attempt a number of actions, including damaging the opponent or pinning the opponent.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="qt911" creationdate="20210609T141228Z">
+        <seg>在缠握的过程中，角色可以尝试许多动作，包括伤害对手或压制对手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26158,6 +27134,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Getting the opponent in a pin is often the goal of a grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141910Z" creationid="qt911" creationdate="20210609T141910Z">
+        <seg>压制对手往往是擒抱的最终目的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Give the skill user a +2 circumstance bonus to represent conditions that improve performance, such as having the perfect tool for the job, getting help from another character, or working under conditions that are significantly better than normal.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T124124Z" creationid="quentine" creationdate="20190806T123904Z">
@@ -26190,10 +27174,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Grab: The character makes a melee touch attack to grab the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T140313Z" creationid="qt911" creationdate="20210611T140313Z">
+        <seg>攫抓：角色要攫抓住目标，需要做一次近战接触攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license with the exact terms of this License to Use, the Open Game Content.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181022T111944Z" creationid="QuenTine" creationdate="20181022T111944Z">
         <seg>授权与鉴于：鉴于同意使用该许可证，贡献者授予你一个永久的、全世界范围内的、开放专利的、非排外的许可证，允许摘录该许可证的条款以使用OGC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grappling means wrestling and struggling hand-to-hand.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140433Z" creationid="qt911" creationdate="20210609T140433Z">
+        <seg>擒抱指摔跤或环抱等压制行为。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26234,6 +27234,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200507T131323Z" creationid="quentine" creationdate="20200507T131323Z">
         <seg>它在低温下坚硬且半透明，经过揉捏后会发热，可塑成任何形状。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hardness: Each object has hardness—a number that represents how well it resists damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141330Z" creationid="qt911" creationdate="20210607T141330Z">
+        <seg>硬度：每件物品都有硬度——代表了物品能抵抗多少伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26446,6 +27454,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hit Points: An object’s hit point total depends on what it is made of or how big it is (see Table Substance Hardness and Hit Points and Table Object Hardness and Hit Points).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141815Z" creationid="qt911" creationdate="20210607T141815Z">
+        <seg>生命值：物品的生命值完全取决于其材质和大小（见`表：物质的硬度与生命值`以及`表：物品的硬度与生命值`）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hit points are based on the character’s class and level, and the character’s Constitution modifier applies.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121159Z" creationid="quentine" creationdate="20201118T121159Z">
@@ -26470,6 +27486,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hold: Make an opposed grapple check.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T140724Z" creationid="qt911" creationdate="20210611T140724Z">
+        <seg>缠握：双方做一个擒抱对抗检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Holsters are generally available for all Medium-size or smaller firearms.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200117T094420Z">
@@ -26482,6 +27506,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T050106Z" creationid="quentine" creationdate="20191027T044804Z">
         <seg>角色拥有的专业技能级数（升级后角色获得的专业等级也计在内）也影响每次升级提升的财富加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How many squares a vehicle occupies is specified in the vehicle’s description.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135809Z" creationid="qt911" creationdate="20210618T135809Z">
+        <seg>一个载具占据多少方格见载具描述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26590,6 +27622,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, if a character targets a square, creatures within 5 feet are dealt the splash damage, and the direct hit damage is not dealt to any creature.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T135010Z" creationid="qt911" creationdate="20210607T135010Z">
+        <seg>但是，如果角色瞄准的是方格，将对5尺内的所有生物造成溅射伤害，而不会对任何生物造成直接伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, it’s difficult to tell where the sound is coming from, requiring a Listen check (DC 15) to locate the source of the gunfire.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T110829Z" creationid="quentine" creationdate="20200117T110829Z">
@@ -26618,6 +27658,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T132105Z" creationid="quentine" creationdate="20190916T132105Z">
         <seg>然而，在一个不熟悉的网络环境里搜索特定的文件、编写计算机程序、修改现存的程序以改变其性能（优化或者劣化）、以及攻破计算机的安全系统等等相对困难的计算机操作需要此技能检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, sometimes all a character wants to do is grab the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T134819Z" creationid="qt911" creationdate="20210609T141057Z">
+        <seg>但是，有时候角色仅仅只是想攫抓住目标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26808,8 +27856,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>If a character gets more than one attack per action because his or her base attack bonus is high enough, because he or she fights with two weapons, because he or she is using a double weapon, or for some special reason, the character must use the full attack action to get his or her additional attacks.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210105T125429Z" creationid="qt911" creationdate="20210105T125429Z">
-        <seg>如果角色的基础攻击加值足够高、或是使用双武器以及双头武器、或是特殊原因，可以让每个动作攻击多次，角色必须使用全力攻击来执行额外的攻击。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144109Z" creationid="qt911" creationdate="20210105T125429Z">
+        <seg>如果角色的基础攻击加值足够高、或是使用双持武器以及双头武器、或是特殊原因，可以让每个动作攻击多次，角色必须使用全力攻击来执行额外的攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26834,6 +27882,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210601T141821Z" creationid="qt911" creationdate="20210601T141821Z">
         <seg>若角色以远程武器攻击，且未与目标相邻，角色可以用一个整轮动作来攻击，攻击骰获得5点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a character is attempting to disarm the wielder of a melee weapon, follow the steps outlined here.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T133524Z" creationid="qt911" creationdate="20210609T133501Z">
+        <seg>如果角色尝试卸除近战武器，应遵循以下步骤。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26882,6 +27938,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T122705Z" creationid="qt911" creationdate="20210105T121714Z">
         <seg>如果角色在回合内进行了这样的移动，则不可进行五尺快步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If a character uses a full-round action to make an attack against an inanimate, immobile object, the character gets an automatic hit with a melee weapon, or a +5 bonus on his or her attack roll with a ranged weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T140633Z" creationid="qt911" creationdate="20210607T140633Z">
+        <seg>如果角色用一个整轮动作攻击一个无生命的、固定的物体，以近战武器攻击必然命中，以远程武器攻击，攻击骰由5点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27054,6 +28118,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If an object has lost half or more of its hit points, the DC to break it decreases by 2.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130328Z" creationid="qt911" creationdate="20210608T130328Z">
+        <seg>如果物品失去了一半及以上地生命值，破坏所需DC减2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If any particular notes apply to trained or untrained use, they are covered in the Special section (see below).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190807T115420Z" creationid="quentine" creationdate="20190807T115420Z">
@@ -27090,6 +28162,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T143019Z" creationid="quentine" creationdate="20201118T143019Z">
         <seg>如果角色进入一场已经开始的战斗，他们将在加入时立即进行一次先攻检定，按检定结果插入队列中，并在轮到自己时行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If damage remains, the character may continue to make repairs for as many hours as it takes to restore all the object’s hit points.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130641Z" creationid="qt911" creationdate="20210608T130641Z">
+        <seg>如果仍有伤害，角色可以继续修理多个小时，直到完全恢复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27230,10 +28310,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If more than one opponent is grappling the character, the grapple check result has to beat all their check results to escape.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T140026Z" creationid="qt911" creationdate="20210617T140026Z">
+        <seg>如果角色被多个对手擒抱，擒抱检定必须胜过每一个对手的擒抱检定才能挣脱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If multiple characters are delaying, the one with the highest initiative modifier (or highest Dexterity, in case of a tie) has the advantage.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210602T130343Z" creationid="qt911" creationdate="20210602T130319Z">
         <seg>如果多个角色选择延迟，拥有最高先攻调整值的角色（相同则比较敏捷）占优势。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If multiple enemies are already involved in the grapple, the character picks one against whom to make the opposed grapple check.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T145041Z" creationid="qt911" creationdate="20210617T145041Z">
+        <seg>如果多个敌人处于该多人擒抱中，角色只能选择一个对象来做擒抱检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27374,6 +28470,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If such a weapon is controlled from a location other than the driver’s position, a character can man that position and become the gunner.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135007Z" creationid="qt911" creationdate="20210618T135007Z">
+        <seg>如果武器的控制系统在驾驶位以外的位置，角色可以坐在那个位置上担任射击手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If that character is not grounded or is otherwise insulated from the current, a successful save indicates that no damage is suffered.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T143856Z" creationid="quentine" creationdate="20190115T143856Z">
@@ -27390,6 +28494,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If that square is occupied, the character falls prone in the square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140209Z" creationid="qt911" creationdate="20210608T140209Z">
+        <seg>如果后退至的方格被占据了，角色将跌倒，进入俯卧状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If that’s the case, the character needs to make another check to defeat computer security.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T144538Z" creationid="quentine" creationdate="20190916T144538Z">
@@ -27402,6 +28514,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T111401Z" creationid="quentine" creationdate="20190703T110919Z">
         <seg>如果侍僧移动到被驱散而畏缩的生物10尺内，它会克服驱散并恢复行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the Character is Grappling</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T142118Z" creationid="qt911" creationdate="20210611T142039Z">
+        <seg>如果角色处于擒抱状态</seg>
       </tuv>
     </tu>
     <tu>
@@ -27606,10 +28726,34 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the attack of opportunity deals the character damage, the character fails to start the grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T132259Z" creationid="qt911" creationdate="20210611T132259Z">
+        <seg>如果目标的借机攻击导致角色受伤，擒抱必然失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the attack of opportunity misses or otherwise fails to deal damage, proceed to step 2.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T132329Z" creationid="qt911" creationdate="20210611T132329Z">
+        <seg>如果借机攻击失手或未造成伤害，进入步骤2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the attack roll falls within a range low enough to miss the target with cover but high enough to strike the target if there had been no cover, the object used for cover was struck.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210531T141551Z" creationid="qt911" creationdate="20210531T141551Z">
         <seg>如果攻击骰点结果为若受掩蔽未命中，而若未受掩蔽则命中，则视为击中了掩蔽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the attack succeeds, make a Strength check opposed by the target’s Dexterity check or Strength check (using whichever ability score has the higher modifier).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132120Z" creationid="qt911" creationdate="20210609T132120Z">
+        <seg>如果攻击成功，角色做一个力量检定，与目标的敏捷或力量（取提供加值最高的那一项）检定相对抗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27654,6 +28798,30 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character and the target are different sizes, the larger combatant gets a bonus on the Strength check of +4 per difference in size category.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131727Z" creationid="qt911" creationdate="20210608T131727Z">
+        <seg>如果角色与目标体型不同，大的一方的力量检定会获得每体型等级差距+4的加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character attempt the disarm while unarmed, the character ends up with the weapon in his or her hand.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T133253Z" creationid="qt911" creationdate="20210609T133253Z">
+        <seg>如果角色尝试徒手卸除武器，角色最终将会把武器夺取过来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character attempted the disarm action unarmed, he or she now has the weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134406Z" creationid="qt911" creationdate="20210609T134406Z">
+        <seg>如果角色试图徒手卸除武器，则将获得卸除的武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character attempts a Jump check untrained, the character lands prone unless he or she beats the DC by 5 or more.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191021T134750Z" creationid="quentine" creationdate="20191021T134725Z">
@@ -27686,6 +28854,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character beats the target’s Strength check, the character pushes the opponent back 5 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T135458Z" creationid="qt911" creationdate="20210608T135458Z">
+        <seg>如果角色在力量对抗中胜出，角色将把对手向后推5格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character buys a class skill, he or she gets 1 rank in the skill for each skill point spent.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T131320Z" creationid="quentine" creationdate="20190805T131320Z">
@@ -27698,6 +28874,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T131403Z" creationid="quentine" creationdate="20190805T131403Z">
         <seg>如果角色提升的是跨职技能，每花费1点技能点可提升1/2个级数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character can’t move into the target’s square, the character can’t maintain the grapple and must immediately let go of the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141527Z" creationid="qt911" creationdate="20210611T141527Z">
+        <seg>如果角色不能移动到目标的方格，角色将不能维持擒抱，且会立即放开目标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27774,6 +28958,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character does so with a weapon, he or she knocks the opponent’s weapon out of his or her hands and to the ground.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T133143Z" creationid="qt911" creationdate="20210609T133143Z">
+        <seg>如果角色用武器卸除，角色将把目标手中的武器打落在地。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character does so, apply the highest result and disregard the other rolls.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T135950Z" creationid="quentine" creationdate="20190114T135950Z">
@@ -27842,6 +29034,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T142930Z" creationid="quentine" creationdate="20191027T142930Z">
         <seg>若角色在疲乏中检定失败，角色力竭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character fails and are tripped in turn, the character falls prone in the target’s square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132648Z" creationid="qt911" creationdate="20210608T145301Z">
+        <seg>如果绊摔失败而反被绊倒了，那么在这回合，角色将在目标的方格内摔倒并俯卧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character fails but are not tripped, the character has to move 5 feet back the way he or she came, ending his or her movement there.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132655Z" creationid="qt911" creationdate="20210608T145705Z">
+        <seg>如果角色绊摔失败而没被绊倒，角色将原路后退5尺，并停止移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27974,6 +29182,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character fails the disarm attempt, the target may immediately react and attempt to disarm the character with the same sort of opposed melee attack roll.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134659Z" creationid="qt911" creationdate="20210609T134603Z">
+        <seg>如果角色卸除武器失败，目标可以立即作出反应，并尝试以同样的对抗方式卸除角色的武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character fails the save, he or she takes damage after an incubation period; once per day thereafter, the character must succeed at a Fortitude saving throw to avoid secondary damage.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T142031Z" creationid="quentine" creationdate="20190115T142031Z">
@@ -27986,6 +29202,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T144238Z" creationid="quentine" creationdate="20190114T144238Z">
         <seg>如果角色豁免失败，角色的生命值会立即减至-1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character fails to beat the target’s Strength check, the character moves 5 feet straight back to where the character was before the character moved into the opponents square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140054Z" creationid="qt911" creationdate="20210608T140054Z">
+        <seg>如果角色力量对抗失败，将从目标的方格中原路后退5尺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character fails to hit the target, the character fails to start the grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T140558Z" creationid="qt911" creationdate="20210611T140346Z">
+        <seg>如果攻击检定结果为未对目标造成伤害，则擒抱失败。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28086,6 +29318,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character gets multiple attacks in a round, he or she can attempt to start a grapple multiple times (at successively lower base attack bonuses).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T140225Z" creationid="qt911" creationdate="20210611T132104Z">
+        <seg>如果角色在一轮内可发动多次攻击，则也可以多次发动擒抱（在一组多次擒抱中，每次尝试都会降低基本攻击加值）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character grabs an opponent, but fails to go on to hold him or her, the character doesn’t actually start a grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="qt911" creationdate="20210609T140953Z">
+        <seg>如果角色攫抓住对手，但缠握失败，则角色并不算成功发动了擒抱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character has a base attack bonus of +1 or higher, he or she can draw a weapon as part of his or her normal movement.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T122522Z" creationid="qt911" creationdate="20210105T122522Z">
@@ -28106,6 +29354,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190917T124534Z" creationid="quentine" creationdate="20190917T124534Z">
         <seg>如果角色成功访问控制该系统的电脑，角色可以选择关掉它们或者修改它们的运行程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character has not used his or her move action for the round, the character may do so after escaping the grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143008Z" creationid="qt911" creationdate="20210617T142953Z">
+        <seg>如果角色在本轮内没有使用移动动作，角色可以在挣脱擒抱之后使用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28184,16 +29440,24 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>If the character is tripped during his or her own trip attempt, the character can drop the chain to avoid being tripped.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200519T142610Z" creationid="quentine" creationdate="20200519T142610Z">
-        <seg>如果角色绊摔时自己反被绊摔了，角色可以扔掉锁链以避免。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132638Z" creationid="quentine" creationdate="20200519T142610Z">
+        <seg>如果角色绊摔时自己反被绊倒了，角色可以扔掉锁链以避免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character is tripped during his or her own trip attempt, the character can drop the weapon to avoid being tripped.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132914Z" creationid="qt911" creationdate="20210609T132914Z">
+        <seg>如果角色绊摔时自己反被绊倒了，角色可以扔掉武器以避免。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>If the character is tripped during his or her own trip attempt, the character can drop the whip to avoid being tripped.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200420T144227Z" creationid="quentine" creationdate="20200420T144227Z">
-        <seg>如果角色绊摔时自己反被绊摔了，角色可以扔掉鞭子以避免。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132627Z" creationid="quentine" creationdate="20200420T144227Z">
+        <seg>如果角色绊摔时自己反被绊倒了，角色可以扔掉鞭子以避免。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28216,8 +29480,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>If the character is using two weapons, the character can strike with either weapon first.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210105T130510Z" creationid="qt911" creationdate="20210105T130510Z">
-        <seg>如果角色使用双武器，首先使用哪一把先攻击都可以。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144109Z" creationid="qt911" creationdate="20210105T130510Z">
+        <seg>如果角色使用双持武器，首先使用哪一把先攻击都可以。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28230,10 +29494,34 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character loses, he or she fails to start the grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T140857Z" creationid="qt911" creationdate="20210611T140857Z">
+        <seg>如果角色失败，则擒抱失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character loses, the target may immediately react and make a Strength check opposed by the character’s Dexterity check or Strength check to try to trip the character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134610Z" creationid="qt911" creationdate="20210609T132248Z">
+        <seg>如果角色落败，目标可以立即作出反应，并做一个力量检定与角色的敏捷或力量检定相对抗，以绊摔角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character makes a long jump, the character gains a +2 competence bonus on his or her Jump check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190803T142707Z" creationid="quentine" creationdate="20190803T142707Z">
         <seg>角色跳远所进行的跳跃检定将获得2点表现加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character misses the target (whether aiming at a creature or a square), check to see where the weapon lands, using the rules for thrown explosives.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T135112Z" creationid="qt911" creationdate="20210607T135112Z">
+        <seg>如果角色失手（无论瞄准的是生物还是方格），应当用投掷爆炸物的规则检定武器的最终落点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28286,6 +29574,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character succeeds in tripping his or her opponent, the character can continue his or her movement as normal.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T145232Z" creationid="qt911" creationdate="20210608T145232Z">
+        <seg>如果角色成功绊摔了对手，则可照常移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character succeeds on a Reflex saving throw (DC 10, +1 for each 10 feet fallen), this damage is halved.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T135323Z" creationid="quentine" creationdate="20190115T135323Z">
@@ -28326,6 +29622,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character succeeds, he or she can escape from being pinned.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143123Z" creationid="qt911" creationdate="20210617T143123Z">
+        <seg>如果角色成功，则能挣脱压制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character succeeds, he or she can escape the grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T135822Z" creationid="qt911" creationdate="20210617T135822Z">
+        <seg>如果角色成功，则能挣脱擒抱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character succeeds, he or she continues on to his or her destination; the total time for the trip is twice the normal time.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T133816Z" creationid="quentine" creationdate="20191025T133816Z">
@@ -28338,6 +29650,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210605T095659Z" creationid="qt911" creationdate="20210605T095659Z">
         <seg>若成功，角色虽然不会伤害到对手，但可选择为指定盟友对的攻击骰或防御提供2点情景加值，该加值仅在下一个该盟友的回合生效，且仅对指定的对手有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character succeeds, he or she is still grappling.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144502Z" creationid="qt911" creationdate="20210617T144502Z">
+        <seg>如果角色成功，将仍处于擒抱状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28378,6 +29698,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190112T063919Z" creationid="quentine" creationdate="20190112T063919Z">
         <seg>如果检定成功，角色的财富加值加一。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character succeeds, proceed to step 3.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T140614Z" creationid="qt911" creationdate="20210611T140358Z">
+        <seg>如果角色成功，则进入步骤3。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28478,10 +29806,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character was armed, the target’s weapon is on the ground at the target’s feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134448Z" creationid="qt911" creationdate="20210609T134448Z">
+        <seg>如果角色以武器卸除武器，目标的武器或落到目标脚下的方格上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character wears armor, it provides a bonus to the character’s Defense.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T120238Z" creationid="quentine" creationdate="20190114T120238Z">
         <seg>角色穿着护甲也能提供防御加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character wins, he or she trips the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132231Z" creationid="qt911" creationdate="20210609T132231Z">
+        <seg>如果角色胜出，将绊摔对手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28506,6 +29850,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T115039Z" creationid="quentine" creationdate="20190114T114948Z">
         <seg>低敏捷则意味着角色在这方面十分笨拙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the character’s attack succeeds, the ranged weapon falls to the ground or winds up in the character’s hands (if the character made the attack unarmed).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T135352Z" creationid="qt911" creationdate="20210609T135352Z">
+        <seg>如果角色的攻击成功，远程武器将落在地上，或者被角色夺取（如果角色是徒手攻击）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28752,8 +30104,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>If the creature does not constrict, each successful grapple check it makes during successive rounds automatically deals the damage given for the attack that established the hold.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191031T132701Z" creationid="quentine" creationdate="20191031T132701Z">
-        <seg>如果生物不紧勒，每次成功的擒抱检定将造成最初抓握时所造成的伤害。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="quentine" creationdate="20191031T132701Z">
+        <seg>如果生物不紧勒，在每轮的擒抱检定中，每次成功的擒抱检定将造成最初缠握时所造成的伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28786,6 +30138,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T132141Z" creationid="quentine" creationdate="20190808T135707Z">
         <seg>如果成功结果成功大于等于5点，偷听者将会破译密信。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the encounter involves both vehicles and characters on foot, use character scale.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135421Z" creationid="qt911" creationdate="20210618T135421Z">
+        <seg>如果遭遇战是涉及载具与徒步的角色的，应用角色尺度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28866,6 +30226,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T132317Z" creationid="qt911" creationdate="20210105T132317Z">
         <seg>如果副手武器是轻武器，两只手的攻击减值都要少2点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the opponent avoids the character, the character keeps moving.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T142111Z" creationid="qt911" creationdate="20210608T142111Z">
+        <seg>如果目标避开了角色，角色将继续移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the opponent fails to disarm, the character does not get a free disarm attempt against the opponent.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T135040Z" creationid="qt911" creationdate="20210609T134925Z">
+        <seg>如果目标的这次尝试缴械失败，角色将无法获得免费的缴械的机会。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29038,6 +30414,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the scene involves only vehicles, and they’re likely to move at much higher speeds than characters or creatures on foot, use chase scale.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135522Z" creationid="qt911" creationdate="20210618T135522Z">
+        <seg>如果这是只有载具的场景，且载具的移动速度远高于角色或生物的徒步移动，则应用追逐尺度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the second roll also results in a hit against the target’s Defense, the attack is a critical hit.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T113144Z" creationid="quentine" creationdate="20201118T113144Z">
@@ -29166,6 +30550,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the target is already grappling someone else, a character can use an attack to start a grapple, as above, except that the target doesn’t get an attack of opportunity against the character, and the character’s grab automatically succeeds.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144813Z" creationid="qt911" creationdate="20210617T144651Z">
+        <seg>如果目标正在擒抱他人，角色可以用一个攻击动作发动擒抱，步骤如上文，但目标不会有对角色的借机攻击，而且角色的攫抓阶段自动成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the target is in combat or some other tense situation, and therefore in a state of acute awareness and readiness, or if the target can use his or her Dexterity bonus to Defense, then that target can’t be considered unaware.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210601T141040Z" creationid="qt911" creationdate="20210601T140913Z">
@@ -29178,6 +30570,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20201229T235121Z" creationid="qt911" creationdate="20201229T235121Z">
         <seg>如果目标过于庞大，目标的一些部位与最近的盟友的距离大于等于10尺，角色可射击此处于近战的敌人且不用承受4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the target is using a weapon in two hands, he or she gets an additional +4 bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134042Z" creationid="qt911" creationdate="20210609T134042Z">
+        <seg>如果目标使用双手武器，还会再获得4点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29270,10 +30670,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the weapon is held in two hands, it gets a +2 bonus to its Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T135232Z" creationid="qt911" creationdate="20210609T135232Z">
+        <seg>如果武器是双手握持的，防御将获得2点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the weapon was thrown two to three range increments (11 to 30 feet), roll 1d8.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210606T141454Z" creationid="qt911" creationdate="20210606T141454Z">
         <seg>如果武器被投掷到2到3射程跨度内（11到30尺），掷1d8。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the weapons are different sizes, the combatant with the larger weapon gets a bonus on the attack roll of +4 per difference in size category.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134003Z" creationid="qt911" creationdate="20210609T134003Z">
+        <seg>如果武器的尺寸不同，武器大的一方的攻击骰检定会获得每尺寸等级差距+4的加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29530,6 +30946,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181104T125521Z" creationid="QuenTine" creationdate="20181104T125521Z">
         <seg>插画师、文案写手、卡通画师、图形艺术家、小说家、杂志专栏作家、演员、雕塑师、游戏设计师、音乐家、剧作家、摄影师以及网页设计师都属于这一类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Immunities: Objects are immune to nonlethal damage and to critical hits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T125007Z" creationid="qt911" creationdate="20210608T125007Z">
+        <seg>免疫：物品免疫非致命攻击与重击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29862,6 +31286,30 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In character scale, more than one ground vehicle cannot occupy the same square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140244Z" creationid="qt911" creationdate="20210618T140244Z">
+        <seg>在角色尺度中，多个载具不能占据同一个方格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In character scale, most vehicles are large enough to occupy multiple squares on the map grid.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135748Z" creationid="qt911" creationdate="20210618T135748Z">
+        <seg>角色尺度中，大多数载具都十分巨大，在地图上占据着多个方格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In chase scale, most commonly encountered vehicles occupy only one square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140346Z" creationid="qt911" creationdate="20210618T140346Z">
+        <seg>追逐尺度中的大多数载具只占据一个方格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In combat, a character can help a friend attack or defend by distracting or interfering with an opponent.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210605T094717Z" creationid="qt911" creationdate="20210605T094414Z">
@@ -30024,8 +31472,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>In most cases, only one person is needed to drive the vehicle; other crew members serve as gunners or copilots.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200614T062948Z" creationid="quentine" creationdate="20200614T062948Z">
-        <seg>一般来说，载具的驾驶员只有一个，其他车组成员为机枪手以及副驾驶。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134731Z" creationid="quentine" creationdate="20200614T062948Z">
+        <seg>一般来说，载具的驾驶员只有一个，其他车组成员为射击手以及副驾驶。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30358,6 +31806,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ineffective Weapons: The GM may determine that certain weapons just can’t deal damage effectively to certain objects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T124938Z" creationid="qt911" creationdate="20210608T124938Z">
+        <seg>无效武器：GM可以规定特定的武器对特定物品不能造成有效伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Infamy, when recognized, provides a penalty to certain Charisma-based skill checks.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T124547Z">
@@ -30418,6 +31874,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T133203Z" creationid="quentine" creationdate="20190806T133203Z">
         <seg>取20，而非掷1d20来进行技能检定，就当作是角色直接掷出了20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Instead of using a creature’s size modifier on a grapple check (as would be done for a melee or ranged attack roll), use the appropriate grapple modifier from Table: Grapple Modifiers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142724Z" creationid="qt911" creationdate="20210609T142724Z">
+        <seg>在擒抱检定中，应对照`表：擒抱调整值`，使用合适的擒抱调整值代替体型调整值，其他的则和近战或远程攻击检定一样。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30570,6 +32034,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200701T114005Z" creationid="quentine" creationdate="20200507T134028Z">
         <seg>引信可重叠在一个方格上，一格内每多一条引信，伤害增加1d6，伤害最多增加4d6。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It can also determine which weapons aboard the vehicle can be brought to bear on a target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T142529Z" creationid="qt911" creationdate="20210618T142529Z">
+        <seg>朝向同样也决定了载具武器能否瞄准目标。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30984,16 +32456,16 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>It is crewed by a driver, a gunner, a gun loader, and a commander.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T132221Z" creationid="quentine" creationdate="20201030T132221Z">
-        <seg>车组包括一个驾驶员、一个炮手、一个装填手和一个车长。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134805Z" creationid="quentine" creationdate="20201030T132221Z">
+        <seg>车组包括一个驾驶员、一个射击手、一个装填手和一个车长。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>It is crewed by a driver, a gunner, and a commander.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T132248Z" creationid="quentine" creationdate="20201030T131513Z">
-        <seg>车组包括一个驾驶员、一个炮手和一个车长。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134743Z" creationid="quentine" creationdate="20201030T131513Z">
+        <seg>车组包括一个驾驶员、一个射击手和一个车长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31910,6 +33382,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maintain the Grapple: To maintain the grapple for later rounds, the character must move into the target’s square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141218Z" creationid="qt911" creationdate="20210611T141218Z">
+        <seg>维持擒抱状态：角色必须移动到目标所在方格，才能在接下来的回合中维持擒抱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make a Climb check (DC equal to wall’s DC + 20) to do so.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190808T142925Z" creationid="quentine" creationdate="20190808T142925Z">
@@ -31930,6 +33410,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190926T125728Z" creationid="quentine" creationdate="20190926T125728Z">
         <seg>只有在不寻常的状况下（比如恶劣的天气或者结冰的表面），或者当角色在一个戏剧化的情节下（比如角色正被追逐或攻击或者在有限的时间内到达地点）驾驶才需要检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make an unarmed melee touch attack against the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T131701Z" creationid="qt911" creationdate="20210609T131701Z">
+        <seg>攻击方式是对目标做一个徒手近战接触攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32230,6 +33718,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Modifiers: If the object is well secured or otherwise difficult to grab from the target, the target gets a +4 bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140122Z" creationid="qt911" creationdate="20210609T140122Z">
+        <seg>调整值：如果物品被保护得很好，或者有其他原因导致难以被夺取，目标将获得4点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Modifying a weapon to accept a suppressor requires a Repair check (DC 15).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T110917Z" creationid="quentine" creationdate="20200117T110917Z">
@@ -32358,6 +33854,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most splash weapons consist of liquids in breakable containers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T134326Z" creationid="qt911" creationdate="20210607T134326Z">
+        <seg>大多数溅射武器由液体和易爆容器制成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most uses of Autohypnosis are attack actions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190619T131154Z" creationid="quentine" creationdate="20190619T131145Z">
@@ -32370,6 +33874,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210106T130132Z" creationid="qt911" creationdate="20210106T130132Z">
         <seg>战斗中大多数技能或天赋的使用是攻击动作，有些可能是移动动作或整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most vehicles have only one position from where the vehicle can be driven, so the person seated there is the driver.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133740Z" creationid="qt911" creationdate="20210618T133740Z">
+        <seg>大多数载具只拥有一个驾驶位，乘坐在驾驶位的就是驾驶员。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32446,6 +33958,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Moving in this way provokes an attack of opportunity from each foe that threatens the character, probably including the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131515Z" creationid="qt911" creationdate="20210608T131515Z">
+        <seg>如此移动将引发所有敌人对自身的借机攻击，可能包括冲撞的目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moving out of a Threatened Square: When a character moves out of a threatened square, that character generally provokes an attack of opportunity.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210106T132204Z" creationid="qt911" creationdate="20210106T132204Z">
@@ -32518,10 +34038,42 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No Dexterity Bonus: A character loses his or her Dexterity bonus to Defense (if the character has one) against opponents the character isn’t grappling.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141915Z" creationid="qt911" creationdate="20210611T141915Z">
+        <seg>无敏捷加值：角色对擒抱目标外的敌人的防御将失去所有敏捷加值（如果角色有）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No Movement: A character cannot move while held in a grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T142012Z" creationid="qt911" creationdate="20210611T142012Z">
+        <seg>无法移动：角色在擒抱中不能移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No Threatened Squares: A character doesn’t threaten any squares while grappling.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141753Z" creationid="qt911" creationdate="20210611T141753Z">
+        <seg>不会产生威胁范围：角色在擒抱中不会对任何方格产生威胁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No Wealth check is necessary to use this Craft skill.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190923T130222Z" creationid="quentine" creationdate="20190923T130222Z">
         <seg>使用此制造技能无需财富检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No attack roll is necessary to plant an explosive; the explosive sits where it is placed until it is moved or goes off.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T133808Z" creationid="qt911" creationdate="20210607T133605Z">
+        <seg>安装爆炸物不需要掷攻击骰；爆炸物会一直待在安装位置，除非被移动或爆炸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32646,6 +34198,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Normally, a grab is just the first step to starting a grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T134645Z" creationid="qt911" creationdate="20210609T140858Z">
+        <seg>一般情况下，攫抓是擒抱动作的第一步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Normally, an animal only attacks humans and other animals.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190927T135132Z" creationid="quentine" creationdate="20190927T135132Z">
@@ -32734,10 +34294,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Object Defense and Bonuses to Attack: Objects are harder or easier to hit depending on their size and whether they are immobile or being held, carried, or worn by opponents.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141121Z" creationid="qt911" creationdate="20210607T135952Z">
+        <seg>物品的防御值和攻击的加值：物品会根据其尺寸以及其运动状态、是否被对手手持、携带或穿戴等因素，变得更难或更容易被命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Objects (including vehicles) and some types of creatures are immune to critical hits.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T114837Z" creationid="quentine" creationdate="20201118T114837Z">
         <seg>物品（包括载具）以及一些种类的生物免疫重击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Objects are easier to hit than characters because they usually don’t move, but many are tough enough to shrug off some damage from each blow.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T135637Z" creationid="qt911" creationdate="20210607T135637Z">
+        <seg>物品通常比人更容易被命中，因为物品通常是固定的，但大多数物品都相当坚固，使每次击打都有一部分伤害被抵消掉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32966,6 +34542,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On the other hand, if the object is poorly secured or otherwise easy to snatch or cut away, the attacker gets a +4 bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140253Z" creationid="qt911" creationdate="20210609T140253Z">
+        <seg>另一方面，如果目标疏于防范，或者非常容易被抢夺或割断，攻击者获得4点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On the round that it is thrown, a tear gas grenade fills a 5-foot radius with a cloud of irritant that causes eyes to fill with tears.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200508T124608Z" creationid="quentine" creationdate="20200508T124608Z">
@@ -32978,6 +34562,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200508T123531Z" creationid="quentine" creationdate="20200508T123531Z">
         <seg>扔出的那一轮，在目的地相邻的4格生成烟雾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once a character has established a hold, he or she is involved in a grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="qt911" creationdate="20210609T141149Z">
+        <seg>角色一旦缠握成功，将陷入擒抱状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33266,6 +34858,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Only damage in excess of its hardness is deducted from the object’s hit points (see Table: Substance Hardness and Hit Points and Table: Object Hardness and Hit Points).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141655Z" creationid="qt911" creationdate="20210607T141655Z">
+        <seg>只有超过了硬度的伤害，才能降低物品的生命值（见`表：物质的硬度与生命值`以及`表：物品的硬度与生命值`）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Only objects that can normally be used more than once can be improvised.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190518T125813Z" creationid="quentine" creationdate="20190518T125650Z">
@@ -33492,8 +35092,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>Others are planted, with fuses or timers, and go off after a preset amount of time elapses.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210605T141751Z" creationid="qt911" creationdate="20210605T141751Z">
-        <seg>其他的都是带导火索或计时器的植入式爆炸物，会在预设的时间结束后爆炸。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T133645Z" creationid="qt911" creationdate="20210605T141751Z">
+        <seg>其他的都是带导火索或计时器的安装式爆炸物，会在预设的时间结束后爆炸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33566,6 +35166,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190801T141131Z" creationid="quentine" creationdate="20190731T125737Z">
         <seg>乘客在载具抵达特定地点时，可以准备一个攻击动作，但驾驶员只能在载具移动的前后发动攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Passengers have no specific role in the vehicle’s operation, but may be able to fire weapons from the vehicle or take other actions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135301Z" creationid="qt911" creationdate="20210618T135301Z">
+        <seg>乘员在载具中没有任何需要担任的工作，但可以在载具中向外射击或者做其他动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33646,6 +35254,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201029T130420Z" creationid="quentine" creationdate="20201029T130420Z">
         <seg>驾驶水上载具也是应用`驾驶`技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pin: Make an opposed grapple check; if the character succeeds, he or she holds the opponent immobile for 1 round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T142804Z" creationid="qt911" creationdate="20210611T142804Z">
+        <seg>压制：做一个擒抱对抗检定；如果角色成功，对手将在一轮内无法移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34376,6 +35992,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Repairing damage to an object takes a full hour of work and appropriate tools.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130440Z" creationid="qt911" creationdate="20210608T130440Z">
+        <seg>修理物品的伤害要花费一整小时的时间，还需要合适的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Representation of Authority to Contribute: If You are contributing original material as Open Game Content, You represent that Your Contributions are Your original creation and/or You have sufficient rights to grant the rights conveyed by this License.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181022T112029Z" creationid="QuenTine" creationdate="20181022T112029Z">
@@ -34512,6 +36136,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Saving Throws: Unattended objects never make saving throws.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T125349Z" creationid="qt911" creationdate="20210608T125349Z">
+        <seg>豁免骰：`未受照管的`物品不能掷豁免骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Saving throws and opposed checks are not affected.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190620T141250Z" creationid="quentine" creationdate="20190620T140356Z">
@@ -34556,6 +36188,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T132048Z" creationid="quentine" creationdate="20190115T132048Z">
         <seg>极端的炎热或寒冷天气（沙漠或极地情况）强制角色每十分钟进行一次强韧豁免。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Second, the character and the target make opposed Strength checks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131555Z" creationid="qt911" creationdate="20210608T131555Z">
+        <seg>然后，角色与目标进行力量对抗检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34764,6 +36404,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T131600Z" creationid="quentine" creationdate="20200117T131600Z">
         <seg>服务如`表：服务`所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Several combatants can be in a single grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T145109Z" creationid="qt911" creationdate="20210617T145109Z">
+        <seg>一个擒抱中可以有多个擒抱者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34984,6 +36632,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Skill checks are only required in extraordinary circumstances.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133051Z" creationid="qt911" creationdate="20210618T133051Z">
+        <seg>只有在特殊情况下才用到技能检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Skill checks made without a first aid kit incur a –4 penalty.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200115T094958Z" creationid="quentine" creationdate="20200115T094958Z">
@@ -35068,6 +36724,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200508T124323Z" creationid="quentine" creationdate="20200508T124323Z">
         <seg>烟雾弹有多种颜色可供选择，包括白、红、黄、绿、紫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So does the character, if he or she moves with the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T135753Z" creationid="qt911" creationdate="20210608T135753Z">
+        <seg>如果角色与目标一起移动，也会引发借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35384,6 +37048,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some weapons, such as the chain and the whip, can be used to make trip attacks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132836Z" creationid="qt911" creationdate="20210609T132836Z">
+        <seg>一些武器，如锁链和辫子，可用于发动绊摔攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some, such as grenades, include built-in detonators.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200424T131322Z" creationid="quentine" creationdate="20200424T131322Z">
@@ -35420,6 +37092,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T120145Z" creationid="quentine" creationdate="20201118T120145Z">
         <seg>有时角色无法将装备加值应用于防御。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes a character needs to attack or break an object</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T135218Z" creationid="qt911" creationdate="20210607T135218Z">
+        <seg>有时候角色需要攻击或打破物品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35664,6 +37344,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Standing up from a prone position is a move action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132800Z" creationid="qt911" creationdate="20210609T132800Z">
+        <seg>从俯卧姿态站起需要一个移动动作。cong</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Standing up from a prone position requires a move action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T122803Z" creationid="qt911" creationdate="20210105T122803Z">
@@ -35784,6 +37472,30 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Step One: The character provokes an attack of opportunity from the target he or she is trying to disarm.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T133640Z" creationid="qt911" creationdate="20210609T133602Z">
+        <seg>第一步：角色引发欲卸除目标的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Step Three: If the character beats the target’s attack roll, the target is disarmed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134329Z" creationid="qt911" creationdate="20210609T134152Z">
+        <seg>第三步：如果角色的攻击骰胜过了目标的攻击骰，目标将被缴械。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Step Two: The character and the target make opposed attack rolls with their respective weapons.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134157Z" creationid="qt911" creationdate="20210609T133856Z">
+        <seg>第二步：角色与目标以各自的武器做一个攻击骰对抗检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Still cameras let a character capture a record of what he or she has seen.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191115T131148Z" creationid="quentine" creationdate="20191115T131148Z">
@@ -35796,6 +37508,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201114T014305Z" creationid="quentine" creationdate="20201114T014305Z">
         <seg>力量让角色能更快更有力地挥舞武器，所以角色的力量调整值作用于近战攻击骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Striking a held, carried, or worn object provokes an attack of opportunity from the character who holds it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141200Z" creationid="qt911" creationdate="20210607T141106Z">
+        <seg>攻击对手手持、携带或穿戴的物品，会引发该对手的借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35852,6 +37572,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T132422Z" creationid="quentine" creationdate="20190115T132422Z">
         <seg>成功则意味着火焰被灭掉了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Success restores 2d6 hit points.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130552Z" creationid="qt911" creationdate="20210608T130552Z">
+        <seg>若成功则恢复2d6生命值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36146,8 +37874,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>Table: Two-Weapon Fighting Penalties summarizes the interaction of all these factors.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210105T132617Z" creationid="qt911" creationdate="20210105T132617Z">
-        <seg>`表：双武器战斗减值`列举了所有因素的综合结果。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144109Z" creationid="qt911" creationdate="20210105T132617Z">
+        <seg>`表：双持武器战斗减值`列举了所有因素的综合结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36812,6 +38540,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201029T115315Z" creationid="quentine" creationdate="20201029T115315Z">
         <seg>维多利亚皇冠有2格宽4格长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The DC depends more on the construction of the object than on the material.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130159Z" creationid="qt911" creationdate="20210608T130159Z">
+        <seg>DC更多地取决于构造而非材质。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37580,6 +39316,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190923T133807Z" creationid="quentine" creationdate="20190923T133807Z">
         <seg>由GM进行检定（这样角色就不知道自己到底做得怎样了）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The GM may adjust these upward to account for objects with more strength and durability.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T124549Z" creationid="qt911" creationdate="20210608T124549Z">
+        <seg>GM可以将它们的数据向上调，使其更合理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38904,6 +40648,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The base Defense of objects is shown on Table: Size and Defense of Objects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T140059Z" creationid="qt911" creationdate="20210607T140036Z">
+        <seg>物品的基础防御值见`表：尺寸与物品防御的关系`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The base number of power points available per day is shown on the table above.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190619T141744Z" creationid="quentine" creationdate="20190619T141744Z">
@@ -39176,10 +40928,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The character and the target are now grappling.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141454Z" creationid="qt911" creationdate="20210611T141454Z">
+        <seg>然后，角色与目标陷入擒抱状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The character automatically hits and score a critical hit.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210601T142307Z" creationid="qt911" creationdate="20210601T142307Z">
         <seg>角色会直接命中且造成重击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The character automatically loses an attempt to hold if the target is two or more size categories larger than the character is (but the character can still make an attempt to grab such a target, if that’s all he or she wants to do).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141047Z" creationid="qt911" creationdate="20210611T141047Z">
+        <seg>如果目标体型等级大于等于角色两级，缠握必然失败（但如果角色的目的只是攫抓，则仍可以继续攫抓）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39286,6 +41054,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T140601Z" creationid="quentine" creationdate="20191027T140452Z">
         <seg>检定成功每超过10点2点，角色可以多为另一个人提供食物和水。|
 |15|半速移动对抗极端天气的强韧检定获得2点情景加值，静止则获得4点加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The character can push the target back an additional 5 feet for every 5 points by which the character exceeded the target’s check result, provided the character moves with the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T135613Z" creationid="qt911" creationdate="20210608T135613Z">
+        <seg>角色的检定结果每超过对手5点，就可以将对手多往后推一格，角色也会跟着继续移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39582,6 +41358,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T092745Z" creationid="quentine" creationdate="20190216T092745Z">
         <seg>角色获得1级的基础攻击加值、基础豁免加值、角色技能、新职业的职业专长、按正确掷骰获得的生命值以及新职业升1级所获的技能点（不是角色1级时获得的4倍技能点）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The character gets a +2 bonus if he or she was charging.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131756Z" creationid="qt911" creationdate="20210608T131756Z">
+        <seg>如果角色正在冲锋，则获得2点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39916,6 +41700,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The character still has to make a successful opposed grapple check and move in to be part of the grapple.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144919Z" creationid="qt911" creationdate="20210617T144919Z">
+        <seg>角色仍然需要一次成功的擒抱对抗检定，才能加入擒抱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The character takes a –4 penalty to Defense against melee attacks and loses his or her Dexterity bonus to Defense.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T124834Z" creationid="quentine" creationdate="20190115T124834Z">
@@ -40236,6 +42028,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The copilot must be seated in a location where he or she can see the road and advise the driver (in a car, this generally means the front passenger seat).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134241Z" creationid="qt911" creationdate="20210618T134241Z">
+        <seg>副驾驶必须位于能看见路面且能协助驾驶员的位置（在小汽车里，通常指的是前乘客座）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The cost and weight given are for a single item.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200519T124900Z" creationid="quentine" creationdate="20200519T124900Z">
@@ -40326,8 +42126,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>The creature has the option to conduct the grapple normally, or simply use the part of its body it used in the improved grab to hold the opponent.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191031T133138Z" creationid="quentine" creationdate="20191031T131301Z">
-        <seg>生物可选择正常擒抱，或者只是使用身体的一部分进行攫抓以将对手`抓握`。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="quentine" creationdate="20191031T131301Z">
+        <seg>生物可选择正常擒抱，或者只是使用身体的一部分作为精通攫抓的武器进行攫抓以将对手`缠握`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40342,8 +42142,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>The creature is not considered grappled while it holds the opponent, so it still threatens adjacent squares and retains its Dexterity bonus.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20201224T134128Z" creationid="quentine" creationdate="20191031T133119Z">
-        <seg>生物在抓握对手时不会视为被擒抱状态，所以仍会威胁相邻方格并保留敏捷加值。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="quentine" creationdate="20191031T133119Z">
+        <seg>生物在缠握对手时不会视为被擒抱状态，所以仍会威胁相邻方格并保留敏捷加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40592,6 +42392,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190918T133449Z" creationid="quentine" creationdate="20190918T133449Z">
         <seg>但制造（写作）是个例外，角色在这里可以取20，因为角色不会用掉任何原材料（同理也不需要进行财富检定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The exception is an attempt to escape from the grapple; to escape, a character’s grapple check must beat the check results of all opponents.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T150255Z" creationid="qt911" creationdate="20210617T150255Z">
+        <seg>但挣脱擒抱的检定除外，角色的擒抱检定结果必须胜过每一个对手的擒抱检定才能挣脱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41612,10 +43420,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The opponent takes a –4 penalty to Defense against all attacks from other people (but not from the character); however, the opponent is not considered helpless.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T142915Z" creationid="qt911" creationdate="20210611T142915Z">
+        <seg>对手对其他人（除角色外）的所有攻击的防御都将承受4点减值；但对手不会被视为无助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The opponent’s Strength modifier applies to damage, as usual.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T144023Z" creationid="quentine" creationdate="20190804T144023Z">
         <seg>对手的伤害骰则如常应用力量调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The opponent’s attempt does not provoke an attack of opportunity from the character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T134725Z" creationid="qt911" creationdate="20210609T134725Z">
+        <seg>目标的这次尝试不会引发角色的借机攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42044,6 +43868,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The rules can be modified for boats, heavier armored vehicles, and aircraft.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133412Z" creationid="qt911" creationdate="20210618T133412Z">
+        <seg>稍加改动，本规则也可用于船只、重型武装载具以及飞行器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The save DC equals 10 + 1/2 trampling creature’s HD + trampling creature’s Strength modifier (the exact DC is given in the creature’s descriptive text).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191102T030432Z" creationid="quentine" creationdate="20191102T030432Z">
@@ -42309,6 +44141,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The target and the character do not provoke attacks of opportunity from each other as a result of this movement.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T135937Z" creationid="qt911" creationdate="20210608T135937Z">
+        <seg>而双方都不会因推动过程中的移动引发对方的借机攻击。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The target begins to suffocate on a failed check (see Suffocation and Drowning).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T134855Z" creationid="quentine" creationdate="20190115T134855Z">
@@ -42329,6 +44169,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190731T120333Z" creationid="quentine" creationdate="20190115T134651Z">
         <seg>目标可以闭气等同于其体质值的轮数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The target gets a +4 stability bonus if he or she has more than two legs or is otherwise exceptionally stable.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131933Z" creationid="qt911" creationdate="20210608T131933Z">
+        <seg>如果目标有两条以上的腿或者别的什么稳定方式，将获得4点稳定加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The target gets a +4 stability bonus on his or her check if he or she has more than two legs or is otherwise exceptionally stable.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T132213Z" creationid="qt911" creationdate="20210609T132213Z">
+        <seg>如果目标有两条以上的腿或者别的什么稳定方式，目标的检定将获得4点稳定加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42645,6 +44501,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The vehicle’s size modifier applies to its initiative modifier, maneuver modifier, and Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140928Z" creationid="qt911" creationdate="20210618T140928Z">
+        <seg>载具的体型调整值应用于先攻调整值、机动调整值以及防御值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The version on Table: Ranged Weapons fires the massive .50 Action Express round.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200418T023819Z" creationid="quentine" creationdate="20200418T023711Z">
@@ -42725,6 +44589,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then the target chooses either to avoid the character or to block the character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T142055Z" creationid="qt911" creationdate="20210608T142055Z">
+        <seg>然后，目标可选择避开或阻挡角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then, any time before the character’s next action, the character may take the readied attack action in response to those conditions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210605T093000Z" creationid="qt911" creationdate="20210602T132822Z">
@@ -42773,10 +44645,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are three stages to grappling: grabbing, holding, and pinning.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="qt911" creationdate="20210609T140826Z">
+        <seg>擒抱有三个阶段：攫抓、缠握、压制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There are two important exceptions, however.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210106T132250Z" creationid="qt911" creationdate="20210106T132250Z">
         <seg>但有两个重要的例外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There can be only one driver in a vehicle at one time.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133923Z" creationid="qt911" creationdate="20210618T133923Z">
+        <seg>一个载具只能同时有一个驾驶员。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43005,10 +44893,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These rules are primarily focused on ground vehicles—cars, trucks, and light military vehicles.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133312Z" creationid="qt911" creationdate="20210618T133312Z">
+        <seg>本文提到的规则主要面向地面载具——小汽车、卡车以及轻型军用载具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These rules assume a standardized system for determining the success or failure of any given task.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181024T044635Z" creationid="QuenTine" creationdate="20181024T044635Z">
         <seg>这一系列规则的目的旨在确定一切特定事件的成功或失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These rules use two scales.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135335Z" creationid="qt911" creationdate="20210618T135335Z">
+        <seg>本规则使用两套尺度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43129,6 +45033,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191113T140609Z" creationid="quentine" creationdate="20191113T140609Z">
         <seg>作训服也印有迷彩伪装：丛林、沙漠、雪地、城市以及夜间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are considered to have failed their saving throws.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T125412Z" creationid="qt911" creationdate="20210608T125412Z">
+        <seg>所有的豁免将自动视为失败。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44392,6 +46304,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is an attack action that the character may only attempt once per round, even if the character gets multiple attacks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T140457Z" creationid="qt911" creationdate="20210617T140457Z">
+        <seg>这是一个攻击动作，角色每轮只能尝试一次，即使角色可以发动多次攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is an attack action, and the character can’t take 10 on this check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T134418Z" creationid="quentine" creationdate="20190806T134418Z">
@@ -44468,6 +46388,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181104T075815Z" creationid="QuenTine" creationdate="20181104T075500Z">
         <seg>通常指某种信仰或者宗教，但同样可以是特定的学派或教派，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This kind of disarm attempt provokes an attack of opportunity, but if the character fails, the target does not get to make a disarm attempt against him or her.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T135456Z" creationid="qt911" creationdate="20210609T135456Z">
+        <seg>这种缴械也会引发借机攻击，但角色如果失败，目标将不会得到对角色的缴械机会。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45258,6 +47186,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thrown weapons require no weapon proficiency, so characters don’t take the –4 nonproficient penalty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T134440Z" creationid="qt911" creationdate="20210607T134440Z">
+        <seg>投掷武器不需要任何擅长专长，所以不会承受4点不擅长减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thus, a double (x2) and a double (x2) applied to the same number results in a triple (x3, because 2 + 1 = 3).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181024T044522Z" creationid="QuenTine" creationdate="20181024T043605Z">
@@ -45310,6 +47246,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T115716Z" creationid="quentine" creationdate="20191104T115320Z">
         <seg>稀松平常、人人都有的，且不强制要求每个角色若使用就必须特地购买的物品，适用以下规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To attack with a splash weapon, make a ranged touch attack against the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T134355Z" creationid="qt911" creationdate="20210607T134355Z">
+        <seg>溅射武器的攻击方式是对目标进行一次远程的接触攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45418,6 +47362,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To disarm an opponent wielding a ranged weapon, the character makes a melee attack or unarmed attack to strike the weapon in the opponent’s hand (see Attack an Object).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T135200Z" creationid="qt911" creationdate="20210609T135019Z">
+        <seg>要卸除目标所持的远程武器，角色需要做一个近战或徒手攻击，以攻击目标手上的武器（见`攻击物品`）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To do so, the character chooses the disarm DC before making his or her check to set the detonator (it must be higher than 10).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T085748Z" creationid="quentine" creationdate="20190923T133027Z">
@@ -45462,6 +47414,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181106T133934Z" creationid="QuenTine" creationdate="20181106T133934Z">
         <seg>任何时候，想要了解一个角色的大体经济状况，参考下表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To grapple again, the character must begin at step 1.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141555Z" creationid="qt911" creationdate="20210611T141555Z">
+        <seg>要再次发动擒抱，角色必须从第一步重新开始。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45710,6 +47670,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T123851Z" creationid="quentine" creationdate="20191104T123851Z">
         <seg>要加速这一过程，英雄可以进行`知识（商学）`检定对抗执照的购买DC。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To start a grapple, a character first needs to grab and hold his or her target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T140043Z" creationid="qt911" creationdate="20210611T131902Z">
+        <seg>角色首先要攫抓并缠握住目标才能开始擒抱。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46050,6 +48018,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unless otherwise noted, each of these options is equivalent to an attack.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T142257Z" creationid="qt911" creationdate="20210611T142257Z">
+        <seg>除非另有说明，以下每个行为都等同于攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unless otherwise specified, the multiplier is x2.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T113638Z" creationid="quentine" creationdate="20201118T113638Z">
@@ -46154,6 +48130,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unlike with characters, when dealing with vehicles, the vehicle’s facing (the direction it’s pointing) is important.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T142318Z" creationid="qt911" creationdate="20210618T142318Z">
+        <seg>不像角色间的战斗，计算载具的战斗时，载具的朝向也很重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Up to four combatants can grapple a single opponent in a given round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T145303Z" creationid="qt911" creationdate="20210617T145141Z">
+        <seg>一轮内，至多允许4个擒抱者擒抱同一个目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Updating the License: Wizards or its designated Agents may publish updated versions of this License.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181022T113042Z" creationid="QuenTine" creationdate="20181022T113042Z">
@@ -46214,6 +48206,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190623T124707Z" creationid="quentine" creationdate="20190623T124707Z">
         <seg>如果魔宠生物种类的生命骰更高，则用魔宠的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the rules for thrown explosives.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T134851Z" creationid="qt911" creationdate="20210607T134851Z">
+        <seg>瞄准方格将应用投掷式爆炸物的规则。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46418,10 +48418,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Vehicles in the same square are considered to be 20 feet apart for the purposes of determining range for attacks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140636Z" creationid="qt911" creationdate="20210618T140636Z">
+        <seg>在同一方格内的载具，视为相距20尺，用于判断攻击距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Vehicles that carry passengers can use that space to carry additional cargo when passengers aren’t present.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200614T063301Z" creationid="quentine" creationdate="20200614T063301Z">
         <seg>乘员位空置时，可用空余空间承运货物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vehicles use the same size categories as characters and creatures, as shown on Table: Vehicle Sizes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140822Z" creationid="qt911" creationdate="20210618T140723Z">
+        <seg>载具的体型与角色和生物的体型属同一范畴，见`表：载具体型`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46594,6 +48610,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a character is grappling (regardless of who started the grapple), he or she can attempt any of several actions on his or her turn.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T142519Z" creationid="qt911" creationdate="20210611T142217Z">
+        <seg>角色处于擒抱状态时（不管是谁发动了擒抱），角色可以在自己的回合尝试做以下几种动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a character is involved in a grapple, he or she will need to make opposed grapple checks against an opponent—often repeatedly.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142141Z" creationid="qt911" creationdate="20210609T142141Z">
+        <seg>当角色陷入擒抱，角色将与目标进行擒抱对抗检定——而且通常需要反复做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a character is not being threatened or distracted, he or she may choose to take 10.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T131441Z" creationid="quentine" creationdate="20190806T131441Z">
@@ -46686,6 +48718,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T144147Z" creationid="quentine" creationdate="20190114T144147Z">
         <seg>当角色受到巨创但生命值未降至0以及更低时，角色必须进行一次强韧豁免（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a character tries to break something with sudden force rather than by dealing damage, use a Strength check to see whether he or she succeeds.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130125Z" creationid="qt911" creationdate="20210608T130125Z">
+        <seg>若角色试图将物品打破而非仅仅造成伤害，则需要用力量检定来判断成功与否。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46788,8 +48828,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>When a creature gets a hold after an improved grab attack, it pulls the opponent into its space.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191031T132844Z" creationid="quentine" creationdate="20191031T132844Z">
-        <seg>生物用精通攫抓抓握对手，会把对手拖拽至自己的方格内。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="quentine" creationdate="20191031T132844Z">
+        <seg>生物用精通攫抓缠握对手，会把对手拖拽至自己的方格内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46834,6 +48874,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a planted explosive detonates, it deals its damage to all targets within the burst radius of the weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T133927Z" creationid="qt911" creationdate="20210607T133927Z">
+        <seg>当安装式爆炸物被引爆时，将对爆炸半径内的所有目标造成伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a poisoned character makes a saving throw against a poison’s secondary effect, the treating character first makes a Treat Injury check as an attack action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191028T132134Z" creationid="quentine" creationdate="20191028T132134Z">
@@ -46846,6 +48894,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T140821Z" creationid="QuenTine" creationdate="20181103T140821Z">
         <seg>当属性值发生变化时，该属性相关的调整值随即发生变化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When an opponent has pinned the character, he or she is held immobile (but not helpless) for 1 round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144320Z" creationid="qt911" creationdate="20210617T144320Z">
+        <seg>当角色被对手压制住了，对手将在一轮内无法移动（但并非无助）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46954,6 +49010,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When firing weapons, count squares from the location of the weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140202Z" creationid="qt911" creationdate="20210618T140202Z">
+        <seg>武器开火的起始位置则在武器所在方格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When flying, the character can attempt simple maneuvers and stunts (actions in which the pilot attempts to do something complex very quickly or in a limited space).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T043448Z" creationid="quentine" creationdate="20191027T043448Z">
@@ -46966,6 +49030,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T123119Z" creationid="quentine" creationdate="20190115T122923Z">
         <seg>英雄被擒抱时无法施展除了空手攻击、轻武器攻击或试图挣脱擒抱者以外的动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When involved in a grapple with multiple opponents, the character chooses one opponent to make an opposed check against.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210617T145809Z" creationid="qt911" creationdate="20210617T145633Z">
+        <seg>当角色陷入多个对手的擒抱中时，角色一般只能选择一个对手来做对抗检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47030,6 +49102,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T133902Z" creationid="quentine" creationdate="20190805T133902Z">
         <seg>当进行一次技能检定时，角色将技能级数与骰点相加，作为技能的调整值的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When moving a vehicle, count the squares from the vehicle’s rear.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140053Z" creationid="qt911" creationdate="20210618T140053Z">
+        <seg>载具的移动，以载具的后悬挂位置为载具的真实位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47142,6 +49222,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190130T143513Z" creationid="quentine" creationdate="20190130T142127Z">
         <seg>体质型英雄生命值降到-1时，仍可处于瘫痪状态，每轮可以做单个攻击或移动动作，直到生命降到-10死亡，或者恢复到1或者更高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When the character bull rushes, he or she attempts to push an opponent straight back instead of attacking the opponent.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T131255Z" creationid="qt911" creationdate="20210608T131255Z">
+        <seg>角色冲撞将会尝试将对手向后推动，而不是攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47274,6 +49362,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When turning, pivot the vehicle on the rear square toward which it is turning.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140125Z" creationid="qt911" creationdate="20210618T140125Z">
+        <seg>载具的转向也是以后悬挂为轴，向目标方向旋转。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When two characters arm wrestle, for example, the stronger character simply wins.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T140009Z" creationid="quentine" creationdate="20190806T140009Z">
@@ -47394,6 +49490,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Whenever an object takes damage, subtract its hardness from the damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T141425Z" creationid="qt911" creationdate="20210607T141425Z">
+        <seg>只要物品受到伤害，最终伤害值都要减去硬度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Whenever the GM decides that a character’s reputation can be a factor in an encounter, the GM makes a Reputation check (DC 25) for the GM character involved.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181106T124959Z" creationid="QuenTine" creationdate="20181106T124959Z">
@@ -47446,6 +49550,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190808T140121Z" creationid="quentine" creationdate="20190808T140028Z">
         <seg>无论是发送还是接收密信，失败5点或更多将意味着其中一方表达错误或另一方曲解了密信的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>While a character is grappling, his or her ability to attack others and defend him or herself is limited.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210611T141759Z" creationid="qt911" creationdate="20210611T141706Z">
+        <seg>当角色处于擒抱状态，角色对其他人的攻击与防御将受到限制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47702,6 +49814,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T131408Z" creationid="quentine" creationdate="20191027T131408Z">
         <seg>若检定成功（DC20），角色从其他人的举动中察觉到异象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>With an overrun, the character attempts to move through an opponents area, going past or over the opponent.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T140426Z" creationid="qt911" creationdate="20210608T140426Z">
+        <seg>角色将通过闯越的方式穿过对手占据的区域，跨过对手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48124,6 +50244,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T141904Z" creationid="qt911" creationdate="20210530T141904Z">
         <seg>\* 若目标与进攻方相邻则无效</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\* Figures for manufactured objects are minimum values.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T124414Z" creationid="qt911" creationdate="20210608T124414Z">
+        <seg>\* 人造物的尺寸对应的数据是下限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48840,6 +50968,38 @@ This section covers offensive and defensive modifiers provided by position.</seg
 |3/4（在墙角或树后窥视）|+7|+3|
 |9/10（站在射击口之后；在虚掩的门后）|+10|+4\*|
 |全（在坚固的墙的另一边）|—|—|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>long\])|+12|
+|Huge (elephant)|+8|
+|Large (lion)|+4|
+|Medium-size (human)|+0|
+|Small (German shepherd)|–4|
+|Tiny (housecat)|–8|
+|Diminutive (rat)|–12|
+|Fine (horsefly)|–16|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T143056Z" creationid="qt911" creationdate="20210609T143056Z">
+        <seg>长\])|+12|
+|超大型（大象）|+8|
+|大型（狮子）|+4|
+|普通（人类）|+0|
+|小型（德国牧羊犬）|–4|
+|超小型（大家鼠）|–8|
+|微型（大鼠）|–12|
+|超微型（马蝇）|–16|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>long\])|+16|
+|Gargantuan (gray whale \[40 ft.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142910Z" creationid="qt911" creationdate="20210609T142910Z">
+        <seg>长\])|+16|
+|巨型（灰鲸 \[40 尺</seg>
       </tuv>
     </tu>
     <tu>
@@ -51510,6 +53670,70 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|Object|Hardness|Hit Points|Break DC|
+|------|:------:|:--------:|:------:|
+|Lock||||
+|Cheap|0|1|10|
+|Average|3|5|15|
+|High quality|5|10|20|
+|High security|10|120|35|
+|Ultrahigh security|20|150|40|
+|||||
+|Manufactured objects\*||||
+|Fine|0|1|10|
+|Diminutive|0|1|10|
+|Tiny|1|2|10|
+|Small|3|3|12|
+|Medium-size|5|5|15|
+|Large|5|10|15|
+|Huge|8|10|20|
+|Gargantuan|8|20|30|
+|Colossal|10|30|50|
+|||||
+|Firearm, Medium-size|5|7|17|
+|Rope|0|2|23|
+|Simple wooden door|5|10|13|
+|Strong wooden door|5|20|23|
+|Steel door|10|120|35|
+|Cinderblock wall|8|90|35|
+|Chain|10|5|26|
+|Handcuffs|10|10|30|
+|Metal bars|10|15|30|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210608T125859Z" creationid="qt911" creationdate="20210607T143201Z">
+        <seg>|物品|硬度|生命值|破坏所需DC|
+|------|:------:|:--------:|:------:|
+|锁||||
+|廉价|0|1|10|
+|一般|3|5|15|
+|高质量|5|10|20|
+|高度安全|10|120|35|
+|顶级安全|20|150|40|
+|||||
+|人造物\*||||
+|超微型|0|1|10|
+|微型|0|1|10|
+|超小型|1|2|10|
+|小型|3|3|12|
+|普通|5|5|15|
+|大型|5|10|15|
+|超大型|8|10|20|
+|巨型|8|20|30|
+|超巨型|10|30|50|
+|||||
+|枪械（普通尺寸）|5|7|17|
+|绳索|0|2|23|
+|简易木门|5|10|13|
+|坚固木门|5|20|23|
+|钢铁门|10|120|35|
+|煤渣砖门|8|90|35|
+|锁链|10|5|26|
+|手铐|10|10|30|
+|金属条|10|15|30|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|Object|Size|Weight|Purchase DC|Restriction|
 |------|:--:|:----:|:---------:|:---------:|
 |**Bags and Boxes**|-|-|-|-|
@@ -51930,6 +54154,46 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|Size (Example)|Defense|
+|--------------|:-----:|
+|Colossal (jetliner)|–3|
+|Gargantuan (army tank)|1|
+|Huge (typical car)|3|
+|Large (big door)|4|
+|Medium-size (dirt bike)|5|
+|Small (chair)|6|
+|Tiny (laptop computer)|7|
+|Diminutive (paperback book)|9|
+|Fine (pencil)|13|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T140507Z" creationid="qt911" creationdate="20210607T140507Z">
+        <seg>|尺寸（范例）|防御|
+|--------------|:-----:|
+|超巨型（喷气式客机）|–3|
+|巨型（坦克）|1|
+|超大型（常见的车辆）|3|
+|大型（大门）|4|
+|普通（越野摩托车）|5|
+|小型（椅子）|6|
+|超小型（笔记本电脑）|7|
+|微型（平装书）|9|
+|超微型（铅笔）|13|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size (Example)|Grapple Modifier|
+|--------------|:--------------:|
+|Colossal (blue whale \[90 ft.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142819Z" creationid="qt911" creationdate="20210609T142819Z">
+        <seg>|尺寸（范例）|擒抱调整值|
+|--------------|:--------------:|
+|超巨型（蓝鲸 \[90尺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|Size (Example)|Size Modifier|
 |--------------|:-----------:|
 |Colossal (blue whale \[90 ft.</seg>
@@ -52180,6 +54444,38 @@ This section covers offensive and defensive modifiers provided by position.</seg
 |28|小于等于400 磅|401–800 磅|801–1,200 磅|
 |29|小于等于466 磅|467–933 磅|934–1,400 磅|
 |+10|x4|x4|x4|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Substance|Hardness|Hit Points|
+|---------|:------:|----------|
+|Paper|0|2/inch of thickness|
+|Rope|0|2/inch of thickness|
+|Plastic, soft|0|3/inch of thickness|
+|Glass|1|1/inch of thickness|
+|Ceramic|1|2/inch of thickness|
+|Ice|0|3/inch of thickness|
+|Plastic, hard|2|5/inch of thickness|
+|Wood|5|10/inch of thickness|
+|Aluminum|6|10/inch of thickness|
+|Concrete|8|15/inch of thickness|
+|Steel|10|30/inch of thickness|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210607T142338Z" creationid="qt911" creationdate="20210607T142338Z">
+        <seg>|物质|硬度|生命值|
+|---------|:------:|----------|
+|纸|0|2每寸厚度|
+|绳索|0|2每寸厚度|
+|软塑料|0|3每寸厚度|
+|玻璃|1|1每寸厚度|
+|陶瓷|1|2每寸厚度|
+|冰|0|3每寸厚度|
+|硬塑料|2|5每寸厚度|
+|木材|5|10每寸厚度|
+|铝|6|10每寸厚度|
+|混凝土|8|15每寸厚度|
+|钢铁|10|30每寸厚度|</seg>
       </tuv>
     </tu>
     <tu>
@@ -52540,6 +54836,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
 |宾馆从标间升级到套房|15|
 |音乐会或戏剧从观众席升级到进入后台|20|
 |经济舱升级到头等舱|25|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Vehicle Size|Size Modifier|Examples|
+|------------|:-----------:|--------|
+|Colossal|–8|Yacht, semi with trailer|
+|Gargantuan|–4|Tank, limousine|
+|Huge|–2|Luxury car, SUV, armored car|
+|Large|–1|Economy car, Harley|
+|Medium-size|+0|Racing bike, dirt bike|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T142015Z" creationid="qt911" creationdate="20210618T142015Z">
+        <seg>|载具体型|体型调整值|范例|
+|------------|:-----------:|--------|
+|超巨型|–8|游艇、牵引车带半挂车|
+|巨型|–4|坦克、豪华轿车|
+|超大型|–2|奢侈型汽车、SUV、武装汽车|
+|大型|–1|经适车、哈雷|
+|普通|+0|竞赛摩托车、越野摩托车|</seg>
       </tuv>
     </tu>
     <tu>

@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># Vehicle Movement and Combat</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T132634Z" creationid="qt911" creationdate="20210618T132634Z">
+        <seg># 载具的移动与战斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># Vehicles</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200614T062330Z" creationid="quentine" creationdate="20200614T062330Z">
@@ -546,6 +554,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T123347Z" creationid="quentine" creationdate="20190703T123347Z">
         <seg>## 挑战等级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Characters in Vehicles</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133419Z" creationid="qt911" creationdate="20210618T133419Z">
+        <seg>## 载具里的角色</seg>
       </tuv>
     </tu>
     <tu>
@@ -1028,6 +1044,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190421T135124Z" creationid="quentine" creationdate="20190421T135124Z">
         <seg>## 战地科学家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Facing and Firing Arcs</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T142156Z" creationid="qt911" creationdate="20210618T142156Z">
+        <seg>## 朝向与射击角度</seg>
       </tuv>
     </tu>
     <tu>
@@ -1768,6 +1792,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Scale</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135316Z" creationid="qt911" creationdate="20210618T135316Z">
+        <seg>## 尺度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Search (Int)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T125349Z" creationid="quentine" creationdate="20191027T125349Z">
@@ -2236,6 +2268,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181106T124609Z" creationid="QuenTine" creationdate="20181106T124609Z">
         <seg>## 计算声望加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Vehicle Sizes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140702Z" creationid="qt911" creationdate="20210618T140642Z">
+        <seg>## 载具体型</seg>
       </tuv>
     </tu>
     <tu>
@@ -7802,6 +7842,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Some especially large vehicles, such as ships or jumbo jets, might occupy more than one square.) More than one vehicle can occupy the same square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140535Z" creationid="qt911" creationdate="20210618T140535Z">
+        <seg>（一些特别巨大的载具，例如大型舰艇或者大型喷气客机，会占据多个方格。）一个方格可以由多个载具占据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Spending more than 3 hours per day does not reduce the number of days required.) The character cannot spread the days out; if the character does not complete the training during a period of consecutive days, the effort is wasted.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190930T142904Z" creationid="quentine" creationdate="20190930T142904Z">
@@ -7918,6 +7966,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T113405Z" creationid="quentine" creationdate="20201118T113405Z">
         <seg>（第二次掷骰是判定是否为重击的，角色不需要再掷出20）如果第二次掷骰结果为失手，则该攻击只是一次普通命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(The size modifier is already included in the vehicle statistics on Table: Vehicles)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T141031Z" creationid="qt911" creationdate="20210618T141031Z">
+        <seg>（体型调整值已经在`表：载具`中列出）</seg>
       </tuv>
     </tu>
     <tu>
@@ -9670,10 +9726,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Character Scale:** Character scale is identical to the standard movement scale: It’s carried out on a grid in which each square equals 5 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135715Z" creationid="qt911" creationdate="20210618T135715Z">
+        <seg>**角色尺度：** 角色尺度与标准的移动尺度相同，都是在5尺见方的方格组成的棋盘内进行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Charm:** The Charismatic hero gets a competence bonus on all Charisma-based skill checks made to influence members of his chosen gender.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T071157Z" creationid="quentine" creationdate="20190202T115745Z">
         <seg>**魅惑：**解锁时，魅力型英雄指定一个性别，在用魅力相关的技能检定影响该性别的所有同伴时，获得一个表现加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Chase Scale:** In chase scale, each square of the grid represents 50 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140315Z" creationid="qt911" creationdate="20210618T140315Z">
+        <seg>**追逐尺度：** 在追逐尺度中，每个方格代表50尺见方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10150,6 +10222,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Copilot:** A copilot can help the driver by taking an aid another action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134116Z" creationid="qt911" creationdate="20210618T134116Z">
+        <seg>**副驾驶：** 副驾驶能够通过`协助他人`行动帮助驾驶员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Cover (DC 15):** The character can react instantly to drop down and hang alongside his or her mount, using it as one-half cover.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20191027T095127Z">
@@ -10434,6 +10514,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190927T140347Z" creationid="quentine" creationdate="20190927T140347Z">
         <seg>**退让（DC15）：** 让动物脱离战斗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Driver:** The driver of the vehicle controls its movement.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133705Z" creationid="qt911" creationdate="20210618T133705Z">
+        <seg>**驾驶员：** 载具的驾驶员控制载具的移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10802,6 +10890,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T093848Z" creationid="quentine" creationdate="20191027T093158Z">
         <seg>**用膝控制（DC5）：** 角色可以即时用膝盖控制坐骑以便在战斗中使用双手或做出其他动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Gunner:** Some vehicles have built-in weapons.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134843Z" creationid="qt911" creationdate="20210618T134718Z">
+        <seg>**射击手：** 一些载具有内置的武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11586,6 +11682,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190117T130331Z" creationid="quentine" creationdate="20190117T130331Z">
         <seg>**乘势攻击：** 敏捷型英雄可以使用1点行动点来使用这一天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Passenger:** All other personnel aboard the vehicle are considered passengers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135114Z" creationid="qt911" creationdate="20210618T135114Z">
+        <seg>**乘员：** 所有登上载具的其他人为乘员。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13611,6 +13715,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144109Z" creationid="qt911" creationdate="20210105T132912Z">
         <seg>**表：双持武器战斗减值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Vehicle Sizes**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T141041Z" creationid="qt911" creationdate="20210618T141041Z">
+        <seg>**表：载具体型**</seg>
       </tuv>
     </tu>
     <tu>
@@ -16773,6 +16885,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A character in a vehicle fills one of several possible roles, which determines what the character can do.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133643Z" creationid="qt911" creationdate="20210618T133643Z">
+        <seg>角色在载具中通常担任一到多个职能，这决定了角色能做的事情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character in an airless environment (underwater, vacuum) can hold his or her breath for a number of rounds equal to his or her Constitution score.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T133405Z" creationid="quentine" creationdate="20190115T133405Z">
@@ -17725,6 +17845,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A copilot can also drive the vehicle if the driver cannot or chooses not to, provided there is a second set of controls at the copilot’s seat (usually true in aircraft, but not ground vehicles).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134632Z" creationid="qt911" creationdate="20210618T134632Z">
+        <seg>如果驾驶员不能或不想驾驶，副驾驶可以代替驾驶员驾驶，前提是副驾驶位也有一套控制系统（常见于飞行器，而非地面载具）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A covering character can choose not to apply his or her Dexterity bonus to Defense and/or his or her dodge bonus, if the character so desires.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210531T142437Z" creationid="qt911" creationdate="20210531T142437Z">
@@ -18637,6 +18765,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A partial turret lets a weapon fire into three adjacent fire arcs (such as forward, left, and right), while a full turret lets it fire in any direction.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T143037Z" creationid="qt911" creationdate="20210618T143037Z">
+        <seg>半方向炮塔可以在相邻的三个方向内自由转动（比如前左右），全方向炮塔则可以向任何方向射击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A particularly good location in an upscale neighborhood or city center increases the purchase DC by 2.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T125052Z" creationid="quentine" creationdate="20200117T124934Z">
@@ -19407,6 +19543,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A vehicle can have as many gunners as it has gunner positions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135043Z" creationid="qt911" creationdate="20210618T135043Z">
+        <seg>一个载具有多少个射击手位，就可以有多少个射击手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A vehicle can have only one copilot at a time.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134407Z" creationid="qt911" creationdate="20210618T134407Z">
+        <seg>一个载具只能同时拥有一个副驾驶位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A weapon built into a vehicle can by mounted to fire in one of four directions—forward, aft (rear), right, or left—or be built into a partial or full turret.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T143135Z" creationid="qt911" creationdate="20210618T142846Z">
+        <seg>武器在载具中可以搭载在固定射击位，朝向四个方向——前后左右——或者搭载在半方向炮塔或全方向炮塔上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A weapon with an enhancement bonus due to magic is considered more powerful than any weapon that does not have such a bonus.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T133137Z" creationid="quentine" creationdate="20191030T133137Z">
@@ -19955,6 +20115,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T081431Z" creationid="quentine" creationdate="20190216T081431Z">
         <seg>借机反击、富有创意、欺诈、闪避、气势凶猛、钢铁意志、闪电反射、低调、近程射击、闻名、值得信赖、横财。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Aiding the driver is a move action, leaving the copilot with an attack action each round to do something else.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134333Z" creationid="qt911" creationdate="20210618T134333Z">
+        <seg>协助驾驶员是一个移动动作，副驾驶每轮只剩一个攻击动作来做别的事情。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25216,6 +25384,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Driving a vehicle is, at a minimum, a move action, which means that the driver may be able to do something else with his or her attack action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133906Z" creationid="qt911" creationdate="20210618T133906Z">
+        <seg>驾驶载具，至少消耗一个移动动作，也就是说驾驶员可以在驾驶中用一个攻击动作做别的事情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Duct tape can support up to 200 pounds indefinitely, or up to 300 pounds for 1d6 rounds.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200115T085825Z" creationid="quentine" creationdate="20200115T085825Z">
@@ -26040,6 +26216,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Facing indicates the direction in which the vehicle is traveling (assuming it’s not moving in reverse).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T142419Z" creationid="qt911" creationdate="20210618T142419Z">
+        <seg>载具朝向的方向就是载具要移动的方向（假设不考虑载具倒车）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Failed Attempts: Failing an attempt to grab an object doesn’t allow the target to at-tempt to disarm the character.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140334Z" creationid="qt911" creationdate="20210609T140334Z">
@@ -26648,6 +26832,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For simply traveling from point to point, the vehicle used is largely a matter of personal style and finances.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133159Z" creationid="qt911" creationdate="20210618T133015Z">
+        <seg>如果只涉及点到点的旅行，载具的使用只与个人风格和和经济相关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For situations of total darkness, the goggles come with an infrared illuminator that, when switched on, operates like a standard flashlight whose light is visible only to the wearer (or anyone else wearing night vision goggles).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T135029Z" creationid="quentine" creationdate="20191202T135029Z">
@@ -26732,6 +26924,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190526T084134Z" creationid="quentine" creationdate="20190526T084134Z">
         <seg>与黑社会或街头人士联系的费用对应财富检定，低级联系财富检定DC为10，中级联系DC15，高级联系DC20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For vehicles with weapons, a weapon’s arc of fire is given in the vehicle’s description.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T143210Z" creationid="qt911" creationdate="20210618T143118Z">
+        <seg>对于自带武器的载具，武器的射击角已在载具描述中给出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27372,6 +27572,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T050106Z" creationid="quentine" creationdate="20191027T044804Z">
         <seg>角色拥有的专业技能级数（升级后角色获得的专业等级也计在内）也影响每次升级提升的财富加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How many squares a vehicle occupies is specified in the vehicle’s description.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135809Z" creationid="qt911" creationdate="20210618T135809Z">
+        <seg>一个载具占据多少方格见载具描述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28324,6 +28532,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190619T130642Z" creationid="quentine" creationdate="20190619T130642Z">
         <seg>如果检定成功，你可以做一个费力的动作而不会受到1点伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If such a weapon is controlled from a location other than the driver’s position, a character can man that position and become the gunner.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135007Z" creationid="qt911" creationdate="20210618T135007Z">
+        <seg>如果武器的控制系统在驾驶位以外的位置，角色可以坐在那个位置上担任射击手。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30000,6 +30216,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the encounter involves both vehicles and characters on foot, use character scale.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135421Z" creationid="qt911" creationdate="20210618T135421Z">
+        <seg>如果遭遇战是涉及载具与徒步的角色的，应用角色尺度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the entangling bonds are anchored to an immobile object, the entangled hero can’t move.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T122438Z" creationid="quentine" creationdate="20190115T122211Z">
@@ -30260,6 +30484,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190201T153653Z" creationid="quentine" creationdate="20190201T153653Z">
         <seg>如果豁免失败，目标会陷入眩晕1轮（无法行动，但可保护自己）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the scene involves only vehicles, and they’re likely to move at much higher speeds than characters or creatures on foot, use chase scale.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135522Z" creationid="qt911" creationdate="20210618T135522Z">
+        <seg>如果这是只有载具的场景，且载具的移动速度远高于角色或生物的徒步移动，则应用追逐尺度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31128,6 +31360,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In character scale, more than one ground vehicle cannot occupy the same square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140244Z" creationid="qt911" creationdate="20210618T140244Z">
+        <seg>在角色尺度中，多个载具不能占据同一个方格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In character scale, most vehicles are large enough to occupy multiple squares on the map grid.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135748Z" creationid="qt911" creationdate="20210618T135748Z">
+        <seg>角色尺度中，大多数载具都十分巨大，在地图上占据着多个方格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In chase scale, most commonly encountered vehicles occupy only one square.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140346Z" creationid="qt911" creationdate="20210618T140346Z">
+        <seg>追逐尺度中的大多数载具只占据一个方格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In combat, a character can help a friend attack or defend by distracting or interfering with an opponent.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210605T094717Z" creationid="qt911" creationdate="20210605T094414Z">
@@ -31290,8 +31546,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>In most cases, only one person is needed to drive the vehicle; other crew members serve as gunners or copilots.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20200614T062948Z" creationid="quentine" creationdate="20200614T062948Z">
-        <seg>一般来说，载具的驾驶员只有一个，其他车组成员为机枪手以及副驾驶。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134731Z" creationid="quentine" creationdate="20200614T062948Z">
+        <seg>一般来说，载具的驾驶员只有一个，其他车组成员为射击手以及副驾驶。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31856,6 +32112,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can also determine which weapons aboard the vehicle can be brought to bear on a target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T142529Z" creationid="qt911" creationdate="20210618T142529Z">
+        <seg>朝向同样也决定了载具武器能否瞄准目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can be manifested as a move action, and it lasts for a number of rounds equal to the Battle Mind’s level or until the Battle Mind wills it to dissipate.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190621T132456Z" creationid="quentine" creationdate="20190621T132456Z">
@@ -32266,16 +32530,16 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>It is crewed by a driver, a gunner, a gun loader, and a commander.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T132221Z" creationid="quentine" creationdate="20201030T132221Z">
-        <seg>车组包括一个驾驶员、一个炮手、一个装填手和一个车长。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134805Z" creationid="quentine" creationdate="20201030T132221Z">
+        <seg>车组包括一个驾驶员、一个射击手、一个装填手和一个车长。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>It is crewed by a driver, a gunner, and a commander.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201030T132248Z" creationid="quentine" creationdate="20201030T131513Z">
-        <seg>车组包括一个驾驶员、一个炮手和一个车长。</seg>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134743Z" creationid="quentine" creationdate="20201030T131513Z">
+        <seg>车组包括一个驾驶员、一个射击手和一个车长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33706,6 +33970,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most vehicles have only one position from where the vehicle can be driven, so the person seated there is the driver.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133740Z" creationid="qt911" creationdate="20210618T133740Z">
+        <seg>大多数载具只拥有一个驾驶位，乘坐在驾驶位的就是驾驶员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Motorcycles tend to perform better than automobiles, but they provide no cover to their occupants.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20201029T120618Z">
@@ -34986,6 +35258,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190801T141131Z" creationid="quentine" creationdate="20190731T125737Z">
         <seg>乘客在载具抵达特定地点时，可以准备一个攻击动作，但驾驶员只能在载具移动的前后发动攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Passengers have no specific role in the vehicle’s operation, but may be able to fire weapons from the vehicle or take other actions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135301Z" creationid="qt911" creationdate="20210618T135301Z">
+        <seg>乘员在载具中没有任何需要担任的工作，但可以在载具中向外射击或者做其他动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36448,6 +36728,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T123839Z" creationid="quentine" creationdate="20190114T123839Z">
         <seg>体型调整值如下表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Skill checks are only required in extraordinary circumstances.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133051Z" creationid="qt911" creationdate="20210618T133051Z">
+        <seg>只有在特殊情况下才用到技能检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41840,6 +42128,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The copilot must be seated in a location where he or she can see the road and advise the driver (in a car, this generally means the front passenger seat).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T134241Z" creationid="qt911" creationdate="20210618T134241Z">
+        <seg>副驾驶必须位于能看见路面且能协助驾驶员的位置（在小汽车里，通常指的是前乘客座）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The cost and weight given are for a single item.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200519T124900Z" creationid="quentine" creationdate="20200519T124900Z">
@@ -43672,6 +43968,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The rules can be modified for boats, heavier armored vehicles, and aircraft.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133412Z" creationid="qt911" creationdate="20210618T133412Z">
+        <seg>稍加改动，本规则也可用于船只、重型武装载具以及飞行器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The save DC equals 10 + 1/2 trampling creature’s HD + trampling creature’s Strength modifier (the exact DC is given in the creature’s descriptive text).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191102T030432Z" creationid="quentine" creationdate="20191102T030432Z">
@@ -44297,6 +44601,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The vehicle’s size modifier applies to its initiative modifier, maneuver modifier, and Defense.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140928Z" creationid="qt911" creationdate="20210618T140928Z">
+        <seg>载具的体型调整值应用于先攻调整值、机动调整值以及防御值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The version on Table: Ranged Weapons fires the massive .50 Action Express round.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200418T023819Z" creationid="quentine" creationdate="20200418T023711Z">
@@ -44445,6 +44757,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210106T132250Z" creationid="qt911" creationdate="20210106T132250Z">
         <seg>但有两个重要的例外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There can be only one driver in a vehicle at one time.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133923Z" creationid="qt911" creationdate="20210618T133923Z">
+        <seg>一个载具只能同时有一个驾驶员。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44673,10 +44993,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These rules are primarily focused on ground vehicles—cars, trucks, and light military vehicles.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133312Z" creationid="qt911" creationdate="20210618T133312Z">
+        <seg>本文提到的规则主要面向地面载具——小汽车、卡车以及轻型军用载具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These rules assume a standardized system for determining the success or failure of any given task.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181024T044635Z" creationid="QuenTine" creationdate="20181024T044635Z">
         <seg>这一系列规则的目的旨在确定一切特定事件的成功或失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These rules use two scales.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T135335Z" creationid="qt911" creationdate="20210618T135335Z">
+        <seg>本规则使用两套尺度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47894,6 +48230,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unlike with characters, when dealing with vehicles, the vehicle’s facing (the direction it’s pointing) is important.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T142318Z" creationid="qt911" creationdate="20210618T142318Z">
+        <seg>不像角色间的战斗，计算载具的战斗时，载具的朝向也很重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Up to four combatants can grapple a single opponent in a given round.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210617T145303Z" creationid="qt911" creationdate="20210617T145141Z">
@@ -48174,10 +48518,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Vehicles in the same square are considered to be 20 feet apart for the purposes of determining range for attacks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140636Z" creationid="qt911" creationdate="20210618T140636Z">
+        <seg>在同一方格内的载具，视为相距20尺，用于判断攻击距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Vehicles that carry passengers can use that space to carry additional cargo when passengers aren’t present.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200614T063301Z" creationid="quentine" creationdate="20200614T063301Z">
         <seg>乘员位空置时，可用空余空间承运货物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vehicles use the same size categories as characters and creatures, as shown on Table: Vehicle Sizes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140822Z" creationid="qt911" creationdate="20210618T140723Z">
+        <seg>载具的体型与角色和生物的体型属同一范畴，见`表：载具体型`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48750,6 +49110,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When firing weapons, count squares from the location of the weapon.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140202Z" creationid="qt911" creationdate="20210618T140202Z">
+        <seg>武器开火的起始位置则在武器所在方格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When flying, the character can attempt simple maneuvers and stunts (actions in which the pilot attempts to do something complex very quickly or in a limited space).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T043448Z" creationid="quentine" creationdate="20191027T043448Z">
@@ -48834,6 +49202,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T133902Z" creationid="quentine" creationdate="20190805T133902Z">
         <seg>当进行一次技能检定时，角色将技能级数与骰点相加，作为技能的调整值的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When moving a vehicle, count the squares from the vehicle’s rear.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140053Z" creationid="qt911" creationdate="20210618T140053Z">
+        <seg>载具的移动，以载具的后悬挂位置为载具的真实位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49082,6 +49458,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T140745Z" creationid="quentine" creationdate="20191025T140111Z">
         <seg>要将现实的表演形式归类到游戏中的表演类别，应尽量符合表演类别的广义解释，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When turning, pivot the vehicle on the rear square toward which it is turning.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140125Z" creationid="qt911" creationdate="20210618T140125Z">
+        <seg>载具的转向也是以后悬挂为轴，向目标方向旋转。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54582,6 +54966,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |宾馆从标间升级到套房|15|
 |音乐会或戏剧从观众席升级到进入后台|20|
 |经济舱升级到头等舱|25|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Vehicle Size|Size Modifier|Examples|
+|------------|:-----------:|--------|
+|Colossal|–8|Yacht, semi with trailer|
+|Gargantuan|–4|Tank, limousine|
+|Huge|–2|Luxury car, SUV, armored car|
+|Large|–1|Economy car, Harley|
+|Medium-size|+0|Racing bike, dirt bike|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210618T142015Z" creationid="qt911" creationdate="20210618T142015Z">
+        <seg>|载具体型|体型调整值|范例|
+|------------|:-----------:|--------|
+|超巨型|–8|游艇、牵引车带半挂车|
+|巨型|–4|坦克、豪华轿车|
+|超大型|–2|奢侈型汽车、SUV、武装汽车|
+|大型|–1|经适车、哈雷|
+|普通|+0|竞赛摩托车、越野摩托车|</seg>
       </tuv>
     </tu>
     <tu>
