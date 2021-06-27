@@ -50,47 +50,48 @@
 
 武器在载具中可以搭载在固定射击位，朝向四个方向——前后左右——或者搭载在半方向炮塔或全方向炮塔上。半方向炮塔可以在相邻的三个方向内自由转动（比如前左右），全方向炮塔则可以向任何方向射击。对于自带武器的载具，武器的射击角已在载具描述中给出。
 
-## Getting Started
+## 起步
 
-Most vehicles can be entered with a move action and started with a second move action.  An exception is noted in a vehicle’s description when it applies.
+大多数载具都可以以一个移动动作进入，再以一个移动动作启动。例外的载具规则将在载具的描述中提及。
 
 ## 先攻
 
-There are two options for determining initiative in vehicle combat. First, is individual initiative just as in normal combat, where each character rolls separately. This is probably the best method if most or all characters are aboard the same vehicle, but it can result in a lot of delayed or readied actions as passengers wait for drivers to perform maneuvers. An alternative is to roll initiative for each vehicle, using the vehicle’s initiative modifier. This is particularly appropriate when characters are in separate vehicles, since it allows everyone aboard the same vehicle to act more or less simultaneously.
+载具战斗的先攻有两种计算方式。第一种是按角色计，像常规战斗一样，每个角色分别计算先攻。这适用于大多数或所有角色都在同一辆载具上的情况，但也会导致乘员为了等待驾驶员机动反应而产生大量延迟或准备动作。另一种则是按载具计，使用载具的先攻调整值。这适用于角色分别在不同的载具上的情况，让同一辆车的所有人的动作顺序彼此接近。
 
-## Vehicle Speed
+## 载具速度
 
-Vehicle speed is expressed in five categories: stationary, alley speed, street speed, highway speed, and all-out. Each of these speed categories represents a range of possible movement (see Table: Vehicle Speeds and Modifiers). Each round, a vehicle moves according to its current speed category.
+载具的速度表现为五个档次：静止、巷速、街速、高速、极速。每档速度代表各自的可移动距离（见表：载具速度与调整值）。载具每一轮移动的距离都限定在其当前的速度档次所规定的范围内。
 
-**Table: Vehicle Speeds and Modifiers**
+**表：载具速度与调整值**
 
-|Speed Category|Character Scale Movement\*|Character Scale Turn Number\*\*|Chase Scale Movement\*|Chase Scale Turn Number\*\*|Defense Modifier|Check/Roll Modifier|
+|速度档次|角色尺度的移动距离\*|角色尺度的转向距离\*\*|追逐尺度的移动距离\*|追逐尺度的转向距离\*\*|防御调整值|检定/掷骰调整值|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-|Stationary\*\*\*|0|—|0|—|+0|—|
-|Alley speed|1–20|1|1–2|1|+0|+0|
-|Street speed|21–50|2|3–5|1|+1|–1|
-|Highway speed|51–150|4|6–15|2|+2|–2|
-|All-out|151+|8|16+|2|+4|–4|
+|静止\*\*\*|0|—|0|—|+0|—|
+|巷速|1–20|1|1–2|1|+0|+0|
+|街速|21–50|2|3–5|1|+1|–1|
+|高速|51–150|4|6–15|2|+2|–2|
+|极速|151+|8|16+|2|+4|–4|
 
-\* The number of squares a vehicle can move at this speed.
+\* 在这个速度下，载具所能移动的方格数。
 
-\*\* The number of squares a vehicle must move at this speed before making a turn.
+\*\* 在这个速度下，载具在转向前至少需要径直移动的方格数。
 
-\*\*\* A stationary vehicle cannot move or maneuver.
+\*\*\* 静止的载具不能移动或做机动反应。
 
-## Declaring Speed
+## 宣示速度
 
-At the beginning of his or her action, a driver must declare his or her speed category for the round. The driver can choose to go one category faster or slower than the vehicle’s speed category at the end of the previous round.  A stationary vehicle can change to alley speed in either forward or reverse. Most vehicles cannot go faster than alley speed in reverse.
+在驾驶员行动开始前，驾驶员必须宣示所驾驶载具在本轮的速度档次。驾驶员在前一轮的末尾可以选择提升一档或降低一档所驾驶载具的速度档次。静止的载具可以转为以巷速正向移动或倒车，大多数载具的倒车速度不能超过巷速。
 
-**Stationary:** The vehicle is motionless.
+**静止：** 载具完全静止。
 
-**Alley Speed:** This speed is used for safely maneuvering a vehicle in tight spaces, such as alleys and parking garages. It tops out at about the speed a typical person can run.
+**巷速：** 该速度用于在狭小的空间里安全地机动，例如在小巷中或者在停车场中停车。巷速最快与正常人奔跑的速度相当。
 
-**Street Speed:** The vehicle is traveling at a moderate speed, up to about 35 miles per hour.
+**街速：** 载具以中等的速度运动，上限为56千米（35英里）每小时。
 
-**Highway Speed:** The vehicle is moving at a typical highway speed, from about 35 to 80 miles per hour.
+**高速：** 载具在标准的公路上的移动速度，从56千米（35英里）每小时到129千米（80英里）每小时。
 
-**All-Out:** The vehicle is traveling extremely fast, more than 80 miles per hour.
+**极速：** 载具以极快的速度运动，在129千米（80英里）每小时以上。
+> 译者按：这些都是游戏规则在现实中的代表，应该按照中国国情酌情划分每个档次所代表的速度范围。
 
 ## Moving
 

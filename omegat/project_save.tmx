@@ -824,6 +824,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Declaring Speed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T135443Z" creationid="qt911" creationdate="20210627T135443Z">
+        <seg>## 宣示速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Defense</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T114934Z" creationid="quentine" creationdate="20201118T114934Z">
@@ -1180,6 +1188,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T125226Z" creationid="quentine" creationdate="20190805T125226Z">
         <seg>## 获取技能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Getting Started</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T132252Z" creationid="qt911" creationdate="20210627T132252Z">
+        <seg>## 起步</seg>
       </tuv>
     </tu>
     <tu>
@@ -2276,6 +2292,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210618T140702Z" creationid="qt911" creationdate="20210618T140642Z">
         <seg>## 载具体型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Vehicle Speed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T133640Z" creationid="qt911" creationdate="20210627T133640Z">
+        <seg>## 载具速度</seg>
       </tuv>
     </tu>
     <tu>
@@ -8677,10 +8701,27 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**All-Out:** The vehicle is traveling extremely fast, more than 80 miles per hour.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T142110Z" creationid="qt911" creationdate="20210627T141851Z">
+        <seg>**极速：** 载具以极快的速度运动，在129千米（80英里）每小时以上。
+&gt; 译者按：这些都是游戏规则在现实中的代表，应该按照中国国情酌情划分每个档次所代表的速度范围。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Allegiance:** At the time that the character receives her first level in the Acolyte advanced class, she must decide if her faith leans toward the positive energy or negative energy of the universe.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190627T131442Z">
         <seg>**阵营：**角色获得第一个侍僧等级时，必须决定其信仰导向正能量或是负能量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Alley Speed:** This speed is used for safely maneuvering a vehicle in tight spaces, such as alleys and parking garages.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T140246Z" creationid="qt911" creationdate="20210627T140246Z">
+        <seg>**巷速：** 该速度用于在狭小的空间里安全地机动，例如在小巷中或者在停车场中停车。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10970,6 +11011,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191021T140359Z" creationid="quentine" creationdate="20191021T140239Z">
         <seg>**跳高：** 垂直的跳跃，以抓住高于头顶的攀爬点，比如爬树或岩脊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Highway Speed:** The vehicle is moving at a typical highway speed, from about 35 to 80 miles per hour.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T141050Z" creationid="qt911" creationdate="20210627T141050Z">
+        <seg>**高速：** 载具在标准的公路上的移动速度，从56千米（35英里）每小时到129千米（80英里）每小时。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13559,6 +13608,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Stationary:** The vehicle is motionless.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T140119Z" creationid="qt911" creationdate="20210627T140119Z">
+        <seg>**静止：** 载具完全静止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Stay (DC 15):** The animal stays in place waiting for the character to return.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190929T124126Z" creationid="quentine" creationdate="20190929T124029Z">
@@ -13571,6 +13628,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T094304Z" creationid="quentine" creationdate="20191027T093833Z">
         <seg>**待在鞍上（DC5）：** 在坐骑剧烈抖动或者角色受到伤害时，角色可以作出反应防止跌落。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Street Speed:** The vehicle is traveling at a moderate speed, up to about 35 miles per hour.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T140806Z" creationid="qt911" creationdate="20210627T140806Z">
+        <seg>**街速：** 载具以中等的速度运动，上限为56千米（35英里）每小时。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13723,6 +13788,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210618T141041Z" creationid="qt911" creationdate="20210618T141041Z">
         <seg>**表：载具体型**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Vehicle Speeds and Modifiers**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T134454Z" creationid="qt911" creationdate="20210627T134454Z">
+        <seg>**表：载具速度与调整值**</seg>
       </tuv>
     </tu>
     <tu>
@@ -19221,6 +19294,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A stationary vehicle can change to alley speed in either forward or reverse.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T135954Z" creationid="qt911" creationdate="20210627T135954Z">
+        <seg>静止的载具可以转为以巷速正向移动或倒车，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A stick of dynamite requires a fuse or detonator to set it off.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200507T134411Z" creationid="quentine" creationdate="20200507T134411Z">
@@ -20895,6 +20976,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An alternative is to roll initiative for each vehicle, using the vehicle’s initiative modifier.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T133302Z" creationid="qt911" creationdate="20210627T133302Z">
+        <seg>另一种则是按载具计，使用载具的先攻调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An animal can be trained for one general purpose only, though if the animal is capable of learning additional tricks (above and beyond those included in its general purpose) it may do so.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190930T141153Z" creationid="quentine" creationdate="20190930T140011Z">
@@ -21035,6 +21124,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181104T081806Z">
         <seg>而邪恶阵营的人则趋向于伤害、压迫甚至杀害他人，并且贬低甚至危害无辜。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An exception is noted in a vehicle’s description when it applies.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T132516Z" creationid="qt911" creationdate="20210627T132433Z">
+        <seg>例外的载具规则将在载具的描述中提及。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23083,6 +23180,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200525T134543Z" creationid="quentine" creationdate="20191025T145211Z">
         <seg>由GM自由裁量，用临时的乐器表演，应用最接近的表演类别，检定仍受4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the beginning of his or her action, a driver must declare his or her speed category for the round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T135635Z" creationid="qt911" creationdate="20210627T135635Z">
+        <seg>在驾驶员行动开始前，驾驶员必须宣示所驾驶载具在本轮的速度档次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25544,6 +25649,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each of these speed categories represents a range of possible movement (see Table: Vehicle Speeds and Modifiers).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T134313Z" creationid="qt911" creationdate="20210627T134313Z">
+        <seg>每档速度代表各自的可移动距离（见表：载具速度与调整值）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each opponent within range of the gaze attack must attempt a saving throw each round at the beginning of his or her turn.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T124842Z" creationid="quentine" creationdate="20191031T124842Z">
@@ -25580,6 +25693,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T111522Z" creationid="quentine" creationdate="20190115T111522Z">
         <seg>每一轮，濒死的角色都会进行一次强韧豁免检定（DC20）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each round, a vehicle moves according to its current speed category.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T134442Z" creationid="qt911" creationdate="20210627T134442Z">
+        <seg>载具每一轮移动的距离都限定在其当前的速度档次所规定的范围内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26524,6 +26645,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191111T135751Z" creationid="quentine" creationdate="20191111T135751Z">
         <seg>首先，衣物是易容的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First, is individual initiative just as in normal combat, where each character rolls separately.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T132734Z" creationid="qt911" creationdate="20210627T132734Z">
+        <seg>第一种是按角色计，像常规战斗一样，每个角色分别计算先攻。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32960,6 +33089,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It tops out at about the speed a typical person can run.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T140416Z" creationid="qt911" creationdate="20210627T140416Z">
+        <seg>巷速最快与正常人奔跑的速度相当。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It usually takes some time (several minutes to an hour or more) to collect or create a set of impromptu tools, and it may require a skill check as well.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T130958Z" creationid="quentine" creationdate="20190806T130958Z">
@@ -33966,6 +34103,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210106T130132Z" creationid="qt911" creationdate="20210106T130132Z">
         <seg>战斗中大多数技能或天赋的使用是攻击动作，有些可能是移动动作或整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most vehicles can be entered with a move action and started with a second move action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T132350Z" creationid="qt911" creationdate="20210627T132350Z">
+        <seg>大多数载具都可以以一个移动动作进入，再以一个移动动作启动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most vehicles cannot go faster than alley speed in reverse.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T140033Z" creationid="qt911" creationdate="20210627T140033Z">
+        <seg>大多数载具的倒车速度不能超过巷速。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42384,6 +42537,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The driver can choose to go one category faster or slower than the vehicle’s speed category at the end of the previous round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T135828Z" creationid="qt911" creationdate="20210627T135828Z">
+        <seg>驾驶员在前一轮的末尾可以选择提升一档或降低一档所驾驶载具的速度档次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The effect ends immediately if the target is attacked or threatened.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190215T132901Z" creationid="quentine" creationdate="20190215T132825Z">
@@ -44761,6 +44922,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There are two options for determining initiative in vehicle combat.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T132645Z" creationid="qt911" creationdate="20210627T132602Z">
+        <seg>载具战斗的先攻有两种计算方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There can be only one driver in a vehicle at one time.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133923Z" creationid="qt911" creationdate="20210618T133923Z">
@@ -46436,10 +46605,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is particularly appropriate when characters are in separate vehicles, since it allows everyone aboard the same vehicle to act more or less simultaneously.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T133633Z" creationid="qt911" creationdate="20210627T133534Z">
+        <seg>这适用于角色分别在不同的载具上的情况，让同一辆车的所有人的动作顺序彼此接近。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is perhaps the most common civilian helicopter worldwide; it has also been adopted by many military forces as a light utility helicopter.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200803T144226Z" creationid="quentine" creationdate="20200803T144226Z">
         <seg>这可以说是世界上最普遍的民用直升机了；它同样作为轻型通用直升机在军中服役。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is probably the best method if most or all characters are aboard the same vehicle, but it can result in a lot of delayed or readied actions as passengers wait for drivers to perform maneuvers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T133231Z" creationid="qt911" creationdate="20210627T133231Z">
+        <seg>这适用于大多数或所有角色都在同一辆载具上的情况，但也会导致乘员为了等待驾驶员机动反应而产生大量延迟或准备动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48510,6 +48695,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Vehicle speed is expressed in five categories: stationary, alley speed, street speed, highway speed, and all-out.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T134133Z" creationid="qt911" creationdate="20210627T134133Z">
+        <seg>载具的速度表现为五个档次：静止、巷速、街速、高速、极速。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Vehicles are described by a number of statistics, as shown on Table: Vehicles.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200614T062416Z" creationid="quentine" creationdate="20200614T062416Z">
@@ -50452,6 +50645,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>\* The number of squares a vehicle can move at this speed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T135121Z" creationid="qt911" creationdate="20210627T135019Z">
+        <seg>\* 在这个速度下，载具所能移动的方格数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>\* This is actually an opposed check; the DC given is a typical Move Silently check result for such a character or creature.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191024T111753Z" creationid="quentine" creationdate="20191024T111753Z">
@@ -50572,6 +50773,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>\*\* The number of squares a vehicle must move at this speed before making a turn.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T135327Z" creationid="qt911" creationdate="20210627T135114Z">
+        <seg>\*\* 在这个速度下，载具在转向前至少需要径直移动的方格数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>\*\* This weapon does special damage.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200417T133903Z" creationid="quentine" creationdate="20200417T133903Z">
@@ -50592,6 +50801,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190918T140741Z" creationid="quentine" creationdate="20190918T140732Z">
         <seg>\*\*括号内所示的骰点是`一般接触伤害/浸泡所致的每轮浸泡伤害`</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\*\*\* A stationary vehicle cannot move or maneuver.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T135404Z" creationid="qt911" creationdate="20210627T135404Z">
+        <seg>\*\*\* 静止的载具不能移动或做机动反应。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54504,6 +54721,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |医疗|急救工具|
 ||医疗箱|
 ||手术箱|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Speed Category|Character Scale Movement\*|Character Scale Turn Number\*\*|Chase Scale Movement\*|Chase Scale Turn Number\*\*|Defense Modifier|Check/Roll Modifier|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|Stationary\*\*\*|0|—|0|—|+0|—|
+|Alley speed|1–20|1|1–2|1|+0|+0|
+|Street speed|21–50|2|3–5|1|+1|–1|
+|Highway speed|51–150|4|6–15|2|+2|–2|
+|All-out|151+|8|16+|2|+4|–4|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210627T134953Z" creationid="qt911" creationdate="20210627T134953Z">
+        <seg>|速度档次|角色尺度的移动距离\*|角色尺度的转向距离\*\*|追逐尺度的移动距离\*|追逐尺度的转向距离\*\*|防御调整值|检定/掷骰调整值|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+|静止\*\*\*|0|—|0|—|+0|—|
+|巷速|1–20|1|1–2|1|+0|+0|
+|街速|21–50|2|3–5|1|+1|–1|
+|高速|51–150|4|6–15|2|+2|–2|
+|极速|151+|8|16+|2|+4|–4|</seg>
       </tuv>
     </tu>
     <tu>
