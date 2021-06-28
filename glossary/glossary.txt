@@ -427,7 +427,7 @@ Extreme machine	极限过载
 Build robot	造机器人
 Mastercraft	大师级工艺
 Vehicles	载具
-maneuver	机动性
+maneuver	机动性，机动
 robot	机器人
 Components	部件
 Manipulators	机械臂
@@ -1394,10 +1394,11 @@ Yacht	游艇
 Racing bike	竞赛摩托车
 dirt bike	越野摩托车
 Firing Arcs	射击角度
-perform maneuver	机动反应
 alley speed	巷速
 street speed	街速
 highway speed	高速
 all-out	极速
 Declaring Speed	宣示速度
 highway	公路
+diagonally	斜向
+speed category	速度档次

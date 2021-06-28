@@ -76,7 +76,7 @@
 
 \*\* 在这个速度下，载具在转向前至少需要径直移动的方格数。
 
-\*\*\* 静止的载具不能移动或做机动反应。
+\*\*\* 静止的载具不能移动或做机动动作。
 
 ## 宣示速度
 
@@ -93,25 +93,25 @@
 **极速：** 载具以极快的速度运动，在129千米（80英里）每小时以上。
 > 译者按：这些都是游戏规则在现实中的代表，应该按照中国国情酌情划分每个档次所代表的速度范围。
 
-## Moving
+## 移动
 
-On his or her action, the driver moves the vehicle a number of squares that falls within the vehicle’s speed category.
+在轮到驾驶员行动时，驾驶员可以驾驶载具移动一定的方格数，可移动的距离限定在载具当前速度档次所规定的距离区间内。
 
-Unlike characters, a vehicle cannot double move, run, or otherwise extend its movement (except by changing to a higher speed category).
+载具不像角色那样可以加速移动、奔跑以及做其他可以延长移动距离的动作（除了提升速度档次）。
 
-Every vehicle has a top speed, included in its statistics on Table: Vehicles. A vehicle cannot move more squares than its top speed. This means that some vehicles cannot move at all-out speed, or even highway speed.
+每种载具都有最高速度，在`表：载具`中有所列举。载具不能移动超过其最高速度的距离。这意味着有的载具不能以极速移动，甚至不能以高速移动。
 
-Count squares for vehicles just as for characters. Vehicles can move diagonally; remember that when moving diagonally, every second square costs two squares’ worth of movement. Unlike with moving characters, a vehicle’s facing is important; unless it changes direction, a vehicle always moves in the direction of its facing (or in the opposite direction, if it’s moving in reverse).
+载具的方格计数方式与角色相同。载具可以斜向移动，但要注意当载具斜向移动时，每两次斜向移动会多算一个方格数（移动两个斜向方格视为移动三个方格）。不同于角色，载具的朝向也是很重要的；除非转向，载具永远只能向面朝的方向移动（或者在倒车模式下向反方向移动）。
 
-## The Effects of Speed
+## 速度的效果
 
-A fast-moving vehicle is harder to hit than a stationary one—but it’s also harder to control, and to attack from.
+快速移动的载具比慢速的载具更难被命中——也更难控制，更难命中。
 
-As shown on Table: Vehicle Speeds and Modifiers, when a vehicle travels at street speed or faster, it gains a bonus to Defense. However, that speed brings along with it a penalty on all skill checks and attack rolls made by characters aboard the vehicle—including Drive checks to control the vehicle and attacks made from it.
+像`表：载具速度与调整值`中列出的那样，载具的速度大于等于街速时，防御会获得加值。但是，该速度也会为载具上所有角色的技能检定和攻击骰带来减值——包括控制载具以及发动攻击所需的驾驶技能检定。
 
-## Driving a Vehicle
+## 驾驶载具
 
-Driving a vehicle is a move action, taken by the vehicle’s driver. During his or her move action, the driver moves the vehicle a number of squares that falls within its speed category. The driver can attempt maneuvers to change the vehicle’s course or speed. These maneuvers can be attempted at any point along the vehicle’s route. The driver can choose to use his or her attack action to attempt additional maneuvers.
+驾驶载具是一个移动动作，由载具的驾驶员进行。在轮到驾驶员行动时，驾驶员可以驾驶载具移动一定的方格数，可移动的距离限定在载具当前速度档次所规定的距离区间内。驾驶员可以试图`机动`以改变载具的路线或速度。These maneuvers can be attempted at any point along the vehicle’s route. The driver can choose to use his or her attack action to attempt additional maneuvers.
 
 The two kinds of vehicle movement are simple maneuvers and stunts.
 
