@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.4.1_0_53601bef" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1880,6 +1880,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Simple Maneuvers</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T140125Z" creationid="qt911" creationdate="20210701T140125Z">
+        <seg>## 简单机动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Size Modifier</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T123634Z" creationid="quentine" creationdate="20190114T123634Z">
@@ -2044,6 +2052,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T125246Z" creationid="quentine" creationdate="20190115T125246Z">
         <seg>## 震慑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Stunts</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T142202Z" creationid="qt911" creationdate="20210701T142202Z">
+        <seg>## 特技</seg>
       </tuv>
     </tu>
     <tu>
@@ -8397,6 +8413,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**45-Degree Turn:** Any vehicle can make a simple 45-degree turn as part of its movement.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T140328Z" creationid="qt911" creationdate="20210701T140328Z">
+        <seg>**45度转向：** 任何载具都能做简单的45度转向，45度转向也是一种移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**A creature with a gaze attack can actively gaze as an attack action by choosing a target within range.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T130052Z" creationid="quentine" creationdate="20191031T125856Z">
@@ -8842,6 +8866,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T125238Z" creationid="quentine" creationdate="20191031T125238Z">
         <seg>**转移视线：** 对手避免看向生物的脸，转而看向身体、影子、镜像。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Avoid Hazard:** Vehicle combat rarely occurs on a perfectly flat, featureless plain.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T143119Z" creationid="qt911" creationdate="20210701T143119Z">
+        <seg>**避险：** 极其平坦且无特点的平原很少需要进入载具战斗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12311,6 +12343,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Ram:** At character scale, a driver does not have to perform a maneuver to ram another vehicle—he or she only needs to drive his or her vehicle into the other vehicle’s square, and a collision occurs (see Collisions and Ramming).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T140919Z" creationid="qt911" creationdate="20210701T140919Z">
+        <seg>**冲撞：** 角色尺度下，驾驶员无需“发动”冲撞来撞上另一辆载具——只需要驾驶载具移动到另一个载具占据的方格，就会发生碰撞（见`碰撞与冲撞`一节）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Range Increment:** Any attack at less than this distance is not penalized for range.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T121229Z" creationid="quentine" creationdate="20200410T120911Z">
@@ -12620,6 +12660,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190527T143521Z" creationid="quentine" creationdate="20190527T143344Z">
         <seg>**暗影气场：** 暗影生物散发出与超自然维度所相连的气场。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Sideslip:** A driver might wish to move to the side without changing the vehicle’s facing, for instance to change lanes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T141922Z" creationid="qt911" creationdate="20210701T141922Z">
+        <seg>**侧闪：** 驾驶员可以无需改变朝向而改变路径，例如变道。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Simple Maneuvers:** A simple maneuver, such as a 45-degree turn, is easy to perform.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210629T232023Z" creationid="qt911" creationdate="20210629T232005Z">
+        <seg>**简单机动：** 容易做出的操作即简单机动，如45度角旋转。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13676,6 +13732,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T143019Z" creationid="quentine" creationdate="20191025T143019Z">
         <seg>**弦乐器：** 角色是有天赋的弦乐器音乐家，善使班卓琴、吉他、竖琴、鲁特琴、西塔琴、小提琴之类的乐器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Stunts:** Stunts are difficult and sometimes daring maneuvers that enable a driver to change his or her vehicle’s speed or heading more radically than a simple maneuver allows.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T135713Z" creationid="qt911" creationdate="20210701T135641Z">
+        <seg>**特技：** 特技相对来说更困难，有时可以通过特技来猛然加速或者以更小的角度转向，这是简单机动所做不到的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19190,6 +19254,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A sideslip moves a vehicle 1 square forward and 1 square to the right or left, and costs 3 squares of movement.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T142159Z" creationid="qt911" creationdate="20210701T142159Z">
+        <seg>侧闪会让载具向左前或右前移动一格，耗费3格移动距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A single check covers roughly one minute of a spoken language or one page of a written language.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190201T142652Z" creationid="quentine" creationdate="20190201T142652Z">
@@ -19362,6 +19434,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190611T144020Z" creationid="quentine" creationdate="20190611T144020Z">
         <seg>震慑的生物将被震慑2d4轮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A stunt is a move action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T135651Z" creationid="qt911" creationdate="20210701T135651Z">
+        <seg>特技是一个移动动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23128,6 +23208,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At chase scale, however, more than one vehicle can occupy the same square and not collide—so ramming another vehicle requires a simple maneuver.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T141115Z" creationid="qt911" creationdate="20210701T141115Z">
+        <seg>但是在追逐尺度下，同一个方格可以存在多个载具而不发生碰撞——这时则需要以一个简单机动对另一辆载具发动冲撞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At each level after 5th, the Shadow Slayer may add +1 to the value of the bonus against each of his favored enemy types.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190611T141646Z" creationid="quentine" creationdate="20190611T141418Z">
@@ -25633,6 +25721,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>During a vehicle’s movement, the driver can perform any one of the following maneuvers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T140202Z" creationid="qt911" creationdate="20210701T140202Z">
+        <seg>载具移动时，驾驶员可以执行以下简单机动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>During his or her move action, the driver moves the vehicle a number of squares that falls within its speed category.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210628T142634Z" creationid="qt911" creationdate="20210628T142634Z">
@@ -25709,6 +25805,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T142857Z" creationid="quentine" creationdate="20191027T142857Z">
         <seg>角色每游泳1小时，都要进行一次DC20的游泳检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each is a free action and can be taken as many times as the driver likes while he or she moves the vehicle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210629T232159Z" creationid="qt911" creationdate="20210629T232159Z">
+        <seg>这些都是即时动作，驾驶员在一次移动中可以做多次简单机动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27933,6 +28037,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T132105Z" creationid="quentine" creationdate="20190916T132105Z">
         <seg>然而，在一个不熟悉的网络环境里搜索特定的文件、编写计算机程序、修改现存的程序以改变其性能（优化或者劣化）、以及攻破计算机的安全系统等等相对困难的计算机操作需要此技能检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, simple maneuvers do cost movement—so a vehicle that makes a lot of simple maneuvers will not get as far as one going in a straight line.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210629T232331Z" creationid="qt911" creationdate="20210629T232331Z">
+        <seg>但是，简单机动仍然要花费移动距离——这意味着载具频繁转向所能移动的距离不如径直移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32345,6 +32457,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can be taken as part of a move action to control the vehicle, and a second stunt can be attempted in lieu of the driver’s attack action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T140105Z" creationid="qt911" creationdate="20210701T140105Z">
+        <seg>用特技来操控载具需要一个移动动作，而再次使用特技则需要一个攻击动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can be used one-handed and, as a light weapon, is easier to use in a character’s off hand.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200506T141718Z" creationid="quentine" creationdate="20200506T141718Z">
@@ -33775,6 +33895,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T093507Z" creationid="quentine" creationdate="20191027T093507Z">
         <seg>在角色轮的起始阶段进行此检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Making a 45-degree turn costs 1 square of movement.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T140556Z" creationid="qt911" creationdate="20210701T140556Z">
+        <seg>执行一次45度转向耗费一格移动距离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36285,6 +36413,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remember that the check/roll modifier from Table: Vehicle Speeds and Modifiers affects all Drive checks made by the driver and attack rolls made by all occupants of the vehicle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T142810Z" creationid="qt911" creationdate="20210701T142810Z">
+        <seg>注意`表：载具速度与调整值`中的检定/掷骰调整值对驾驶员做出的所有驾驶检定以及载具上所有人的攻击骰有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the armor on the black market.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200526T133402Z" creationid="quentine" creationdate="20200526T133402Z">
@@ -36385,6 +36521,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190704T125823Z" creationid="quentine" creationdate="20190704T125823Z">
         <seg>两个攻击的效果同时结算而非先后。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resolve the ram as a collision, except that the driver of the target vehicle can make a Reflex save (DC 15) to reduce the damage to both vehicles by half.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T141400Z" creationid="qt911" creationdate="20210701T141400Z">
+        <seg>冲撞按照碰撞的规则结算，不同的是目标载具的驾驶员可以做一个反射豁免（DC15）以使碰撞的双方载具承受的伤害减半。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36897,6 +37041,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T020613Z" creationid="quentine" creationdate="20200419T020613Z">
         <seg>霰弹枪是以喷射大量细小弹片为主的大口径武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Simple maneuvers do not require the driver to make skill checks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210629T232413Z" creationid="qt911" creationdate="20210629T232352Z">
+        <seg>简单机动不需要驾驶员做技能检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37881,6 +38033,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T144212Z" creationid="quentine" creationdate="20191031T144212Z">
         <seg>强烈的气味的可嗅探距离是通常的两倍。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stunts always require Drive checks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T140120Z" creationid="qt911" creationdate="20210701T140120Z">
+        <seg>特技都需要做驾驶检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stunts are maneuvers that require a Drive check to perform successfully.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T142247Z" creationid="qt911" creationdate="20210701T142247Z">
+        <seg>特技是需要驾驶检定成功才能发动的机动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42649,6 +42817,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The driver can choose to use his or her attack action to attempt additional maneuvers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210629T231713Z" creationid="qt911" creationdate="20210629T231713Z">
+        <seg>驾驶员可以额外再尝试一次机动，这需要一个攻击动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The driver moves his or her vehicle into the other vehicle’s square and states that he or she is attempting to ram.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T141207Z" creationid="qt911" creationdate="20210701T141207Z">
+        <seg>驾驶员需要将载具驾驶到另一辆载具所在的方格，并宣布发动冲撞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The effect ends immediately if the target is attacked or threatened.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190215T132901Z" creationid="quentine" creationdate="20190215T132825Z">
@@ -44778,6 +44962,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The two kinds of vehicle movement are simple maneuvers and stunts.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210629T231841Z" creationid="qt911" creationdate="20210629T231841Z">
+        <seg>载具移动有两种类型，简单机动和特技。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The two-shot weapon has one barrel atop the other and is barely 5 inches long, making it easy to conceal.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20200418T023141Z">
@@ -44854,6 +45046,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200115T075707Z" creationid="quentine" creationdate="20200115T075707Z">
         <seg>胶带的用处多种多样，只囿于角色的想象力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The vehicle must move forward at least a number of squares equal to its turn number (shown on Table: Vehicle Speeds and Modifiers) before it can turn.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T140534Z" creationid="qt911" creationdate="20210701T140534Z">
+        <seg>载具在转向前必须向前移动等同于`转向距离`数量的方格数（如`表：载具速度与调整值`所示）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45238,6 +45438,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200420T133606Z" creationid="quentine" creationdate="20200420T133606Z">
         <seg>这些榴弹长得像口径一寸半的超大号的子弹，不能作为手榴弹使用，M79也不能发射手榴弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These maneuvers can be attempted at any point along the vehicle’s route.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210629T231437Z" creationid="qt911" creationdate="20210629T231437Z">
+        <seg>载具在路径上的任何一点都可以机动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47197,6 +47405,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This simple maneuver, called a sideslip, allows a vehicle to avoid obstacles or weave in and out of traffic without changing facing.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T142033Z" creationid="qt911" creationdate="20210701T142033Z">
+        <seg>这种简单机动叫做“侧闪”，侧闪可以让载具避开障碍物，无需改变朝向地在车流中穿梭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This simple weapon is a single-shot grenade launcher.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200520T144536Z" creationid="quentine" creationdate="20200420T133241Z">
@@ -48551,6 +48767,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unsuccessful stunts often result in the vehicle ending up someplace other than where the driver intended.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T142421Z" creationid="qt911" creationdate="20210701T142421Z">
+        <seg>失败的特技动作常常会导致载具被逼停在目标以外的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Up to four combatants can grapple a single opponent in a given round.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210617T145303Z" creationid="qt911" creationdate="20210617T145141Z">
@@ -49763,6 +49987,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T034637Z" creationid="quentine" creationdate="20200116T034637Z">
         <seg>当使用者激活它时（通过控制附着在10尺外钉障末端的控制器），钉刺会伸出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When this happens, the vehicle collides with any objects in its path.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T142505Z" creationid="qt911" creationdate="20210701T142505Z">
+        <seg>此时，载具会与路径上的任何物体相碰撞。</seg>
       </tuv>
     </tu>
     <tu>

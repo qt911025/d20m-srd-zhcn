@@ -111,31 +111,31 @@
 
 ## 驾驶载具
 
-驾驶载具是一个移动动作，由载具的驾驶员进行。在轮到驾驶员行动时，驾驶员可以驾驶载具移动一定的方格数，可移动的距离限定在载具当前速度档次所规定的距离区间内。驾驶员可以试图`机动`以改变载具的路线或速度。These maneuvers can be attempted at any point along the vehicle’s route. The driver can choose to use his or her attack action to attempt additional maneuvers.
+驾驶载具是一个移动动作，由载具的驾驶员进行。在轮到驾驶员行动时，驾驶员可以驾驶载具移动一定的方格数，可移动的距离限定在载具当前速度档次所规定的距离区间内。驾驶员可以试图`机动`以改变载具的路线或速度。载具在路径上的任何一点都可以机动。驾驶员可以额外再尝试一次机动，这需要一个攻击动作。
 
-The two kinds of vehicle movement are simple maneuvers and stunts.
+载具移动有两种类型，简单机动和特技。
 
-**Simple Maneuvers:** A simple maneuver, such as a 45-degree turn, is easy to perform. Each is a free action and can be taken as many times as the driver likes while he or she moves the vehicle. However, simple maneuvers do cost movement—so a vehicle that makes a lot of simple maneuvers will not get as far as one going in a straight line. Simple maneuvers do not require the driver to make skill checks.
+**简单机动：** 容易做出的操作即简单机动，如45度角旋转。这些都是即时动作，驾驶员在一次移动中可以做多次简单机动。但是，简单机动仍然要花费移动距离——这意味着载具频繁转向所能移动的距离不如径直移动。简单机动不需要驾驶员做技能检定。
 
-**Stunts:** Stunts are difficult and sometimes daring maneuvers that enable a driver to change his or her vehicle’s speed or heading more radically than a simple maneuver allows. A stunt is a move action. It can be taken as part of a move action to control the vehicle, and a second stunt can be attempted in lieu of the driver’s attack action. Stunts always require Drive checks.
+**特技：** 特技相对来说更困难，有时可以通过特技来猛然加速或者以更小的角度转向，这是简单机动所做不到的。特技是一个移动动作。用特技来操控载具需要一个移动动作，而再次使用特技则需要一个攻击动作。特技都需要做驾驶检定。
 
-## Simple Maneuvers
+## 简单机动
 
-During a vehicle’s movement, the driver can perform any one of the following maneuvers.
+载具移动时，驾驶员可以执行以下简单机动。
 
-**45-Degree Turn:** Any vehicle can make a simple 45-degree turn as part of its movement. The vehicle must move forward at least a number of squares equal to its turn number (shown on Table: Vehicle Speeds and Modifiers) before it can turn. Making a 45-degree turn costs 1 square of movement.
+**45度转向：** 任何载具都能做简单的45度转向，45度转向也是一种移动。载具在转向前必须向前移动等同于`转向距离`数量的方格数（如`表：载具速度与调整值`所示）。执行一次45度转向耗费一格移动距离。
 
-**Ram:** At character scale, a driver does not have to perform a maneuver to ram another vehicle—he or she only needs to drive his or her vehicle into the other vehicle’s square, and a collision occurs (see Collisions and Ramming).
+**冲撞：** 角色尺度下，驾驶员无需“发动”冲撞来撞上另一辆载具——只需要驾驶载具移动到另一个载具占据的方格，就会发生碰撞（见`碰撞与冲撞`一节）。
 
-At chase scale, however, more than one vehicle can occupy the same square and not collide—so ramming another vehicle requires a simple maneuver. The driver moves his or her vehicle into the other vehicle’s square and states that he or she is attempting to ram. Resolve the ram as a collision, except that the driver of the target vehicle can make a Reflex save (DC 15) to reduce the damage to both vehicles by half.
+但是在追逐尺度下，同一个方格可以存在多个载具而不发生碰撞——这时则需要以一个简单机动对另一辆载具发动冲撞。驾驶员需要将载具驾驶到另一辆载具所在的方格，并宣布发动冲撞。冲撞按照碰撞的规则结算，不同的是目标载具的驾驶员可以做一个反射豁免（DC15）以使碰撞的双方载具承受的伤害减半。
 
-**Sideslip:** A driver might wish to move to the side without changing the vehicle’s facing, for instance to change lanes. This simple maneuver, called a sideslip, allows a vehicle to avoid obstacles or weave in and out of traffic without changing facing. A sideslip moves a vehicle 1 square forward and 1 square to the right or left, and costs 3 squares of movement.
+**侧闪：** 驾驶员可以无需改变朝向而改变路径，例如变道。这种简单机动叫做“侧闪”，侧闪可以让载具避开障碍物，无需改变朝向地在车流中穿梭。侧闪会让载具向左前或右前移动一格，耗费3格移动距离。
 
-## Stunts
+## 特技
 
-Stunts are maneuvers that require a Drive check to perform successfully. Unsuccessful stunts often result in the vehicle ending up someplace other than where the driver intended. When this happens, the vehicle collides with any objects in its path. Remember that the check/roll modifier from Table: Vehicle Speeds and Modifiers affects all Drive checks made by the driver and attack rolls made by all occupants of the vehicle.
+特技是需要驾驶检定成功才能发动的机动。失败的特技动作常常会导致载具被逼停在目标以外的位置。此时，载具会与路径上的任何物体相碰撞。注意`表：载具速度与调整值`中的检定/掷骰调整值对驾驶员做出的所有驾驶检定以及载具上所有人的攻击骰有效。
 
-**Avoid Hazard:** Vehicle combat rarely occurs on a perfectly flat, featureless plain. When a vehicle tries to move through a square occupied by a hazard, the driver must succeed on a Drive check to avoid the hazard and continue moving.
+**避险：** 极其平坦且无特点的平原很少需要进入载具战斗。When a vehicle tries to move through a square occupied by a hazard, the driver must succeed on a Drive check to avoid the hazard and continue moving.
 
 Structures simply cannot be avoided. Also, if a driver cannot make a check (if he or she has used all his or her actions for the round in performing other stunts), he or she automatically fails to avoid the hazard. In such cases, a collision occurs.
 

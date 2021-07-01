@@ -1402,3 +1402,10 @@ Declaring Speed	宣示速度
 highway	公路
 diagonally	斜向
 speed category	速度档次
+Simple Maneuver	简单机动
+45-Degree Turn	45度转向
+Ram	冲撞
+collision	碰撞
+weave in and out of traffic	在车流中穿梭
+Sideslip	侧闪
+Vehicle combat	载具战斗
