@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -112,8 +112,8 @@
       <tuv lang="en-US">
         <seg># ENVIRONMENT &amp; HAZARDS</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190115T131113Z" creationid="quentine" creationdate="20190115T131113Z">
-        <seg># 环境与危险</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210707T135959Z" creationid="quentine" creationdate="20190115T131113Z">
+        <seg># 环境与险情</seg>
       </tuv>
     </tu>
     <tu>
@@ -14194,8 +14194,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>**Time:** Basic Survival checks occur each day in the wilderness or whenever a hazard presents itself.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191027T141321Z" creationid="quentine" creationdate="20191027T141306Z">
-        <seg>**时间：** 在野外每过一天，或者每次遇到险境都要进行一次基本的生存检定。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210707T140147Z" creationid="quentine" creationdate="20191027T141306Z">
+        <seg>**时间：** 在野外每过一天，或者每次遇到险情都要进行一次基本的生存检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20728,6 +20728,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Also, if a driver cannot make a check (if he or she has used all his or her actions for the round in performing other stunts), he or she automatically fails to avoid the hazard.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210707T140754Z" creationid="quentine" creationdate="20210707T140754Z">
+        <seg>而且，如果驾驶员不能做检定（如果驾驶员在本回合内做过了多次特技动作，用光了所有的行动机会），此次避险必然失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Also, if the character is the driver, he or she can take his or her attack action to make an attack at any point along the vehicle’s movement.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190801T141101Z" creationid="quentine" creationdate="20190731T125331Z">
@@ -21412,6 +21420,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T141657Z" creationid="quentine" creationdate="20191104T141657Z">
         <seg>观察者与目标距离每过10尺，侦察检定都有1点减值，若被分心则有5点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An oil slick forces the drive to make a Drive check (DC 15) to retain control of the vehicle (see Losing Control).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210707T141827Z" creationid="quentine" creationdate="20210707T141521Z">
+        <seg>浮油会强制驾驶员做一次驾驶检定（DC15）以维持对载具的控制（见`失控`条目）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26099,8 +26115,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>Electrical hazards come in many forms, including stun guns, downed power lines, and electric security fences.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190115T143745Z" creationid="quentine" creationdate="20190115T143745Z">
-        <seg>电力危险以多种情况发生，包括电击枪、掉落的电线、以及电栅栏。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210707T135944Z" creationid="quentine" creationdate="20190115T143745Z">
+        <seg>电力险情以多种形式产生，包括电击枪、掉落的电线、以及电栅栏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26533,6 +26549,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210609T140334Z" creationid="qt911" creationdate="20210609T140334Z">
         <seg>若失败：夺取物品失败不会引发目标对角色的缴械。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Failing to avoid an object results in a collision with the object (see Collisions and Ramming).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210707T141616Z" creationid="quentine" creationdate="20210707T141616Z">
+        <seg>若规避物品失败，载具将会与物品发生碰撞（见`碰撞与冲撞`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26989,6 +27013,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T094810Z" creationid="quentine" creationdate="20191027T094810Z">
         <seg>对于训练过战斗骑乘的动物，角色无需做此检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For caltrops, this means the caltrops make an attack against the vehicle (see Caltrops).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210707T141134Z" creationid="quentine" creationdate="20210707T141134Z">
+        <seg>如果障碍物是铁蒺藜，铁蒺藜将对载具造成一次攻击（见`铁蒺藜`条目）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32009,6 +32041,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In such cases, a collision occurs.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210707T140817Z" creationid="quentine" creationdate="20210707T140817Z">
+        <seg>如果避险失败，将会发生`碰撞`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In such cases, the benefit translates into a Wealth award.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190112T064113Z" creationid="quentine" creationdate="20190112T064113Z">
@@ -34883,6 +34923,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>On a failed check, the vehicle hits the obstacle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210707T141027Z" creationid="quentine" creationdate="20210707T141027Z">
+        <seg>检定失败，载具将撞上障碍物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On a failure, the negative level goes away, but the creature’s level is reduced by one.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T140223Z" creationid="quentine" creationdate="20191030T140202Z">
@@ -36935,8 +36983,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Shadow immunity doesn’t reduce the damage dealt by firearms, melee weapons, or hazardous effects.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190611T134443Z">
-        <seg>暗影免疫不能减免枪械、近战武器以及危险的效果。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210707T140119Z" creationid="quentine" creationdate="20190611T134443Z">
+        <seg>暗影免疫不能减免枪械、近战武器以及险情的效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38037,6 +38085,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Structures simply cannot be avoided.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210707T140459Z" creationid="quentine" creationdate="20210707T140459Z">
+        <seg>结构是不能用避险来规避的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stunts always require Drive checks.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210701T140120Z" creationid="qt911" creationdate="20210701T140120Z">
@@ -38287,8 +38343,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>Table: Electricity Damage gives damage values for various electrical hazards based on relative voltage.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190115T143809Z" creationid="quentine" creationdate="20190115T143809Z">
-        <seg>电力伤害表给出了相关电压下电的伤害值。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210707T135517Z" creationid="quentine" creationdate="20190115T143809Z">
+        <seg>`表：电力伤害`给出了不同电压下各种电力险情所造成的伤害值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39393,6 +39449,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190202T123433Z" creationid="quentine" creationdate="20190202T123433Z">
         <seg>DC下限是10，表示简单的小忙，上限是30，表示艰难、高危、昂贵或者违法的忙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The DC to avoid a hazard varies with the nature of the hazard.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210707T140936Z" creationid="quentine" creationdate="20210707T140936Z">
+        <seg>规避险情所需的DC取决于险情的性质。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42034,9 +42098,9 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
         <seg>The character may grant the same bonus to one other character for every 1 point by which the character’s check result exceeds 15.|
 |18|Avoid getting lost and avoid natural hazards, such as quicksand.|</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20191027T140730Z" creationid="quentine" creationdate="20191027T140551Z">
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210707T140129Z" creationid="quentine" creationdate="20191027T140551Z">
         <seg>检定成功每超过15点2点，角色可以多为另一个人提供相同的加值。|
-|18|避免迷路并避开自然险境，比如流沙。|</seg>
+|18|避免迷路并避开自然险情，比如流沙。|</seg>
       </tuv>
     </tu>
     <tu>
@@ -49543,6 +49607,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a vehicle tries to move through a square occupied by a hazard, the driver must succeed on a Drive check to avoid the hazard and continue moving.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210707T140348Z" creationid="quentine" creationdate="20210707T140348Z">
+        <seg>当载具试图穿过有险情的方格时，驾驶员必须做一次驾驶检定，成功了才能规避险情，继续移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When an ability score changes, the modifier associated with that score also changes.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T140821Z" creationid="QuenTine" creationdate="20181103T140821Z">
@@ -53787,6 +53859,34 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |8–11|震慑|
 |4–7|麻痹|
 |3及以下|击杀|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Hazard|DC|
+|-----|:-:|
+|Caltrops|15|
+|Oil slick|15|
+|||
+|Object||
+|Small (tire, light debris)|5|
+|Medium-size (crate)|10|
+|Large (pile of wreckage)|15|
+|||
+|Structure|Cannot be avoided|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210707T142131Z" creationid="quentine" creationdate="20210707T141632Z">
+        <seg>|险情|DC|
+|-----|:-:|
+|铁蒺藜|15|
+|浮油|15|
+|||
+|物品||
+|小型（轮胎、碎片）|5|
+|普通（板条箱）|10|
+|大型（残骸堆）|15|
+|||
+|结构|不可规避|</seg>
       </tuv>
     </tu>
     <tu>

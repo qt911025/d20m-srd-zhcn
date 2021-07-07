@@ -135,25 +135,25 @@
 
 特技是需要驾驶检定成功才能发动的机动。失败的特技动作常常会导致载具被逼停在目标以外的位置。此时，载具会与路径上的任何物体相碰撞。注意`表：载具速度与调整值`中的检定/掷骰调整值对驾驶员做出的所有驾驶检定以及载具上所有人的攻击骰有效。
 
-**避险：** 极其平坦且无特点的平原很少需要进入载具战斗。When a vehicle tries to move through a square occupied by a hazard, the driver must succeed on a Drive check to avoid the hazard and continue moving.
+**避险：** 极其平坦且无特点的平原很少需要进入载具战斗。当载具试图穿过有险情的方格时，驾驶员必须做一次驾驶检定，成功了才能规避险情，继续移动。
 
-Structures simply cannot be avoided. Also, if a driver cannot make a check (if he or she has used all his or her actions for the round in performing other stunts), he or she automatically fails to avoid the hazard. In such cases, a collision occurs.
+结构是不能用避险来规避的。而且，如果驾驶员不能做检定（如果驾驶员在本回合内做过了多次特技动作，用光了所有的行动机会），此次避险必然失败。如果避险失败，将会发生`碰撞`。
 
-The DC to avoid a hazard varies with the nature of the hazard.
+规避险情所需的DC取决于险情的性质。
 
-On a failed check, the vehicle hits the obstacle. For caltrops, this means the caltrops make an attack against the vehicle (see Caltrops). An oil slick forces the drive to make a Drive check (DC 15) to retain control of the vehicle (see Losing Control). Failing to avoid an object results in a collision with the object (see Collisions and Ramming).
+检定失败，载具将撞上障碍物。如果障碍物是铁蒺藜，铁蒺藜将对载具造成一次攻击（见`铁蒺藜`条目）。浮油会强制驾驶员做一次驾驶检定（DC15）以维持对载具的控制（见`失控`条目）。若规避物品失败，载具将会与物品发生碰撞（见`碰撞与冲撞`）。
 
-|Hazard|DC|
+|险情|DC|
 |-----|:-:|
-|Caltrops|15|
-|Oil slick|15|
+|铁蒺藜|15|
+|浮油|15|
 |||
-|Object||
-|Small (tire, light debris)|5|
-|Medium-size (crate)|10|
-|Large (pile of wreckage)|15|
+|物品||
+|小型（轮胎、碎片）|5|
+|普通（板条箱）|10|
+|大型（残骸堆）|15|
 |||
-|Structure|Cannot be avoided|
+|结构|不可规避|
 
 **Bootleg Turn:** By making a bootleg turn, a driver can radically change direction without turning in a loop. However, in so doing, the vehicle comes to a stop.
 

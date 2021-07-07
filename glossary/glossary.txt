@@ -171,7 +171,7 @@ Prone	俯卧
 Shaken	战栗
 Stunned	震慑
 environment	环境
-hazard	危险
+hazard	险情
 Heat	炎热
 Cold	寒冷
 Darkness	黑暗
@@ -1409,3 +1409,4 @@ collision	碰撞
 weave in and out of traffic	在车流中穿梭
 Sideslip	侧闪
 Vehicle combat	载具战斗
+oil slick	浮油
