@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Collisions and Ramming</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T115322Z" creationid="quentine" creationdate="20210710T115322Z">
+        <seg>## 碰撞与冲撞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Combat Modifiers
 This section covers offensive and defensive modifiers provided by position.</seg>
       </tuv>
@@ -948,6 +956,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190926T125222Z" creationid="quentine" creationdate="20190926T125222Z">
         <seg>## 驾驶（敏）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Driver Options</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T113752Z" creationid="quentine" creationdate="20210710T113752Z">
+        <seg>## 驾驶员选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -7692,6 +7708,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(If it has already moved that far before attempting the hard brake, it ends its movement immediately.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T131835Z" creationid="quentine" creationdate="20210709T131809Z">
+        <seg>（如果在急刹车前，载具的已移动距离就已经超过了该值，将立刻用完所有的可移动距离。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(If playing at a casino, assume the house has a Gamble skill modifier equal to the stake purchase DC.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190926T144109Z" creationid="quentine" creationdate="20190926T144109Z">
@@ -8050,6 +8074,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(The squares it has already moved before attempting the dash count against this total.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T130958Z" creationid="quentine" creationdate="20210709T130958Z">
+        <seg>（猛冲前已经移动过的距离也计入总距离。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(The suit’s coloration can be changed with a move action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191113T142221Z" creationid="quentine" creationdate="20191113T142029Z">
@@ -8090,10 +8122,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(This increase is in addition to any speed change made at the beginning of the driver’s action; if the driver increased speed at that time, he or she can accelerate a total of two categories in the same round.) The vehicle’s total movement for the round cannot exceed the maximum number of squares for its new speed category.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T130905Z" creationid="quentine" creationdate="20210709T130905Z">
+        <seg>（这次提速是独立于驾驶员行动开始时的变速的；如果驾驶员在行动开始时加速过了，就相当于同一轮内提高了两个速度档次。）载具在该轮的总移动距离不能超过新速度档次所限定的最大移动距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(This is a free action.) If the character succeeds, the character has started the grapple, and deals damage to the target as if with an unarmed strike.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210611T140826Z" creationid="qt911" creationdate="20210611T140826Z">
         <seg>（这是一个即时动作。）如果角色成功，角色将开始擒抱，并对目标造成等效于徒手攻击的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(This is in addition to any speed change made at the beginning of his action; if the driver reduced speed at that time, he or she can drop a total of three categories in the same round.) The vehicle’s movement for the round ends as soon as it has moved the minimum number of squares for its new speed category.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T131632Z" creationid="quentine" creationdate="20210709T131632Z">
+        <seg>（这次减速是独立于驾驶员行动开始时的变速的；如果驾驶员在行动开始时减速过了，就相当于在同一轮内可以降低三个速度档次。）载具在该轮的已移动距离若超过新速度档次所限定的最大移动距离，本轮将无法再移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8188,6 +8236,36 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(creek, small ravine)|25|
+|16–25 ft.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T094955Z" creationid="quentine" creationdate="20210710T094955Z">
+        <seg>（小溪、山涧）|25|
+|16–25 尺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(culvert)|20|
+|8–15 ft.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T094912Z" creationid="quentine" creationdate="20210710T094912Z">
+        <seg>（排水渠）|20|
+|8–15 尺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(ditch)|15|
+|4–8 ft.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T094834Z" creationid="quentine" creationdate="20210710T094834Z">
+        <seg>（壕沟）|15|
+|4–8 尺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(e) "Product Identity" means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content; (f) "Trademark" means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game License by the Contributor (g) "Use", "Used" or "Using" means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181022T110349Z" creationid="QuenTine" creationdate="20181022T110349Z">
@@ -8207,6 +8285,16 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(narrow road, small pond)|35|
+|26–40 ft.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T095030Z" creationid="quentine" creationdate="20210710T095030Z">
+        <seg>（窄路、小池塘）|35|
+|26–40 尺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(or in adjacent square)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T132132Z" creationid="qt911" creationdate="20210530T132132Z">
@@ -8219,6 +8307,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144416Z" creationid="qt911" creationdate="20210617T144416Z">
         <seg>（角色不能尝试其他动作。）在角色的回合，角色可以尝试挣脱压制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(wide road, small river)|45|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T095048Z" creationid="quentine" creationdate="20210710T095048Z">
+        <seg>（宽路、小河）|45|</seg>
       </tuv>
     </tu>
     <tu>
@@ -9759,6 +9855,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Bootleg Turn:** By making a bootleg turn, a driver can radically change direction without turning in a loop.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T093420Z" creationid="quentine" creationdate="20210709T124857Z">
+        <seg>**甩尾：** 驾驶员可以用甩尾来使车辆紧急调头，无需绕圈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Box:** A box magazine is any type of magazine that can be removed and reloaded separately from the weapon.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T131505Z" creationid="quentine" creationdate="20200410T131234Z">
@@ -10215,6 +10319,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Choose the Vehicle’s Speed:** The driver may increase or decrease his or her vehicle’s speed category by one (or keep it the same).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T113946Z" creationid="quentine" creationdate="20210710T113946Z">
+        <seg>**选择载具速度：** 驾驶员可以让载具增加或减少一级速度档次（或维持现状）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Civics:** Law, legislation, litigation, and legal rights and obligations.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191022T135517Z" creationid="quentine" creationdate="20191022T135517Z">
@@ -10483,6 +10595,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T134317Z" creationid="quentine" creationdate="20191030T134317Z">
         <seg>**黑暗视觉（特异）：** 生物能在完全黑暗下视物，能看到给定范围内的事物（通常为60尺）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Dash:** With a dash stunt, a driver can increase the vehicle’s speed by one category.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T130426Z" creationid="quentine" creationdate="20210709T130426Z">
+        <seg>**猛冲：** 驾驶员可以用`猛冲`特技，将载具速度提高一个速度档次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11015,6 +11135,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Hard Brake:** With a hard brake stunt, a driver can reduce the vehicle’s speed by up to two categories.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T131311Z" creationid="quentine" creationdate="20210709T131311Z">
+        <seg>**急刹车：** 驾驶员可以用`急刹车`使载具的速度降低至多两个档次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Hard Turn:** A hard turn allows a vehicle to make a turn in a short distance without losing speed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T093334Z" creationid="quentine" creationdate="20210710T093334Z">
+        <seg>**急转弯：** A hard turn allows a vehicle to make a turn in a short distance without losing speed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Hard:** Any surface that doesn’t hold footprints at all, such as bare rock, concrete, metal deckings, or indoor floors.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190804T141109Z" creationid="quentine" creationdate="20190804T141109Z">
@@ -11343,6 +11479,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Jump:** A driver can attempt to jump his or her vehicle across a gap in his or her path.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T094117Z" creationid="quentine" creationdate="20210710T094117Z">
+        <seg>**飞跃：** 驾驶员可以尝试驾驶载具飞跃沟壑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Jumping Down:** If the character intentionally jumps from a height, he or she takes less damage than if the character just falls.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191021T142453Z" creationid="quentine" creationdate="20191021T142453Z">
@@ -11523,6 +11667,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T133223Z" creationid="quentine" creationdate="20190805T133223Z">
         <seg>**其他调整值：** 其他调整值包括专长和职业专长提供的调整值，以及减值，如不擅长防具带来的减值等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Movement:** Move the vehicle any number of squares within the vehicle’s speed category.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T114425Z" creationid="quentine" creationdate="20210710T114425Z">
+        <seg>**移动：** 移动不超过载具速度档次所限的距离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11787,6 +11939,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190117T130331Z" creationid="quentine" creationdate="20190117T130331Z">
         <seg>**乘势攻击：** 敏捷型英雄可以使用1点行动点来使用这一天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Optional Attack Action:** If the driver did not take an attack action before moving, and performed one or fewer stunts, the driver has an attack action left.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T115240Z" creationid="quentine" creationdate="20210710T115219Z">
+        <seg>**攻击动作（可选）：** 如果驾驶员在移动前没有使用过攻击动作，只做过一次或者没做过特技，那么驾驶员则还有一次使用攻击动作的机会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Optional Attack Action:** If the driver wants, he or she can use his or her attack action before moving the vehicle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T115230Z" creationid="quentine" creationdate="20210710T114111Z">
+        <seg>**攻击动作（可选）：** 驾驶员可以选择在移动载具之前使用攻击动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12668,6 +12836,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210701T141922Z" creationid="qt911" creationdate="20210701T141922Z">
         <seg>**侧闪：** 驾驶员可以无需改变朝向而改变路径，例如变道。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Sideswipe:** During a vehicle’s movement, a driver can attempt to sideswipe a vehicle or other target, either to deal damage without fully ramming it or to cause another driver to lose control of his or her vehicle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T112156Z" creationid="quentine" creationdate="20210710T112156Z">
+        <seg>**侧击：** 载具移动时，驾驶员可以用载具的侧面撞击其他载具或目标，可以造成伤害，或者逼目标驾驶员失去对载具的控制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13738,8 +13914,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>**Stunts:** Stunts are difficult and sometimes daring maneuvers that enable a driver to change his or her vehicle’s speed or heading more radically than a simple maneuver allows.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qt911" changedate="20210701T135713Z" creationid="qt911" creationdate="20210701T135641Z">
-        <seg>**特技：** 特技相对来说更困难，有时可以通过特技来猛然加速或者以更小的角度转向，这是简单机动所做不到的。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T125317Z" creationid="qt911" creationdate="20210701T135641Z">
+        <seg>**特技：** 特技相对来说更困难，有时可以通过特技来猛然加速或者急转弯，这是简单机动所做不到的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18134,6 +18310,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A deeper gap (11 feet or deeper) is equivalent to a Colossal object.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T111620Z" creationid="quentine" creationdate="20210710T111620Z">
+        <seg>深沟壑（深度大于等于11尺）等价于超巨型物体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A detonator activates an explosive, causing it to explode.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T090359Z" creationid="quentine" creationdate="20200117T090359Z">
@@ -18442,6 +18626,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200417T134130Z">
         <seg>手枪是可以无惩罚单手使用的单兵枪械。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A hard turn functions like a 45-degree turn simple maneuver, except that the vehicle only needs to move forward a number of squares equal to half its turn number (rounded down).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T093616Z" creationid="quentine" creationdate="20210710T093616Z">
+        <seg>急转弯的效果与45度转向一样，区别在于载具只需径直移动其`转向距离`一半的方格数（向下取整）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18762,6 +18954,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T121301Z" creationid="quentine" creationdate="20191202T121301Z">
         <seg>调制解调器呢以让角色电脑连接至互联网。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A moderately deep gap (4 to 10 feet deep) is equivalent to a Huge object.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T110236Z" creationid="quentine" creationdate="20210710T110148Z">
+        <seg>中沟壑（4到10尺深）等价于超大型尺寸的物体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19242,6 +19442,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T125209Z" creationid="quentine" creationdate="20190115T125209Z">
         <seg>战栗的角色在攻击、豁免与技能检定时有2点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A shallow gap (1 to 3 feet deep) is equivalent to a Medium-size object; the vehicle may be able to avoid taking collision damage from the failed jump by treating the far side as a hazard and then continue moving (see Avoid Hazard, above).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T110232Z" creationid="quentine" creationdate="20210710T102711Z">
+        <seg>浅沟壑（1到3尺深）等价于普通尺寸的物体；对岸区域会被视为险情，若飞跃检定失败，载具可以通过`避险`来避免飞跃失败所带来的碰撞伤害（见上文`避险`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20660,6 +20868,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T124513Z" creationid="quentine" creationdate="20191104T124513Z">
         <seg>几乎所有物品在黑市都有出售。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Along the way, perform any number of simple maneuvers (limited only by their movement cost).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T114615Z" creationid="quentine" creationdate="20210710T114600Z">
+        <seg>在途中可执行任意次的简单机动（只要移动距离还够）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23224,10 +23440,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At character scale, a vehicle must be side by side with its target (that is, occupying the square or squares directly to its side) and moving in the same direction.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T112356Z" creationid="quentine" creationdate="20210710T112356Z">
+        <seg>在角色尺度下，载具必须侧面紧邻目标（自身侧面占据的方格与目标侧面占据的方格相邻），且移动方向要相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At chase scale, however, more than one vehicle can occupy the same square and not collide—so ramming another vehicle requires a simple maneuver.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210701T141115Z" creationid="qt911" creationdate="20210701T141115Z">
         <seg>但是在追逐尺度下，同一个方格可以存在多个载具而不发生碰撞——这时则需要以一个简单机动对另一辆载具发动冲撞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At chase scale, the vehicle must be in the same square as its target and moving in the same direction.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T112510Z" creationid="quentine" creationdate="20210710T112510Z">
+        <seg>追逐尺度下，载具必须与目标处于同一方格，且移动方向要相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23476,6 +23708,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20201224T135600Z" creationid="qt911" creationdate="20201224T135600Z">
         <seg>借机攻击：对持有武器的对手进行徒手攻击会引发被攻击者的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attempting a sideswipe costs 1 square of movement.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T112437Z" creationid="quentine" creationdate="20210710T112437Z">
+        <seg>尝试执行侧击需耗费1格移动距离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23820,6 +24060,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T143710Z" creationid="quentine" creationdate="20201118T143710Z">
         <seg>于是他们在防御中失去所有的敏捷加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Before a vehicle can make a bootleg turn, it must move in a straight line at least a number of squares equal to its turn number.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T125643Z" creationid="quentine" creationdate="20210709T125643Z">
+        <seg>载具必须径直移动等于其`转向距离`的方格数，才能开始甩尾。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25349,6 +25597,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200115T014002Z" creationid="quentine" creationdate="20200115T014002Z">
         <seg>用电话窃听检测器检测一个接收端窃听器需要做一次计算机使用检定（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Determine damage as for a collision (see Collisions and Ramming).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T094711Z" creationid="quentine" creationdate="20210710T094711Z">
+        <seg>伤害按碰撞规则结算（见`碰撞与冲撞`）.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27801,6 +28057,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here is what a vehicle driver can do in a single round:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T113839Z" creationid="quentine" creationdate="20210710T113839Z">
+        <seg>以下是载具驾驶员在一轮中所能做的事：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Heroes at risk of catching fire are allowed a Reflex saving throw (DC 15) to avoid this fate.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T132236Z" creationid="quentine" creationdate="20190115T132236Z">
@@ -28041,6 +28305,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, if the water is too deep or the bottom is too soft (GM’s discretion), the vehicle might not be able to move.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T111836Z" creationid="quentine" creationdate="20210710T111836Z">
+        <seg>但是，如果水太深或水底过于松软（由GM裁定），载具将无法移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, in so doing, the vehicle comes to a stop.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T125518Z" creationid="quentine" creationdate="20210709T125228Z">
+        <seg>但这么做会逼停载具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, it’s difficult to tell where the sound is coming from, requiring a Listen check (DC 15) to locate the source of the gunfire.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T110829Z" creationid="quentine" creationdate="20200117T110829Z">
@@ -28157,6 +28437,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190612T124313Z" creationid="quentine" creationdate="20190612T124313Z">
         <seg>而启动物品成功与否的检定花掉的时间算在这个攻击动作里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, the other driver does not need to make a check to retain control.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T113719Z" creationid="quentine" creationdate="20210710T113719Z">
+        <seg>但是，目标驾驶员无需进行驾驶检定以维持控制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30569,6 +30857,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the driver does so, however, he or she will be limited to a single stunt during movement.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T114216Z" creationid="quentine" creationdate="20210710T114216Z">
+        <seg>如果驾驶员这么做了，驾驶员在移动中至多只能做一个特技动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the eavesdropper beats the DC by 5 or more, he or she understands the secret message.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T132141Z" creationid="quentine" creationdate="20190808T135707Z">
@@ -30613,6 +30909,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T142832Z" creationid="quentine" creationdate="20190806T142002Z">
         <seg>如果游戏设定包括了魔法或者其他超自然效果，还将包括偏斜、增强、巨化、加速、固有、洞见、运气、亵渎、抗力、神圣这些加值学名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the gap is filled with water, the vehicle takes only half damage from the collision with the ground.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T111732Z" creationid="quentine" creationdate="20210710T111732Z">
+        <seg>如果沟壑里全是水，载具触地撞击只会受到一半伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30945,6 +31249,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the stunt is successful, the sideswiping vehicle and the target both take damage as if they had collided (see Collisions and Ramming), except that the collision multiplier is 1/4, and the target (or driver of the target vehicle) can make a Reflex save (DC 15) to reduce the damage to both by half.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T112848Z" creationid="quentine" creationdate="20210710T112848Z">
+        <seg>如果侧击成功，碰撞的双方都成熟伤害，等效于碰撞（见碰撞和冲撞），不同的是碰撞乘数是1/4，且目标（或目标载具的驾驶员）可以做一次反射豁免（DC15）以使双方所受的伤害都减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the subject is worried about being followed, he or she can make a Spot check (opposed by the character’s Hide check) every time he or she changes course (goes around a street corner, exits a building, and so on).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191004T140908Z" creationid="quentine" creationdate="20191004T140908Z">
@@ -30989,6 +31301,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144813Z" creationid="qt911" creationdate="20210617T144651Z">
         <seg>如果目标正在擒抱他人，角色可以用一个攻击动作发动擒抱，步骤如上文，但目标不会有对角色的借机攻击，而且角色的攫抓阶段自动成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the target is another vehicle the driver must succeed at a Drive check (DC 15) at the beginning of his or her next action or lose control of the vehicle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T113015Z" creationid="quentine" creationdate="20210710T113015Z">
+        <seg>如果目标是另一辆载具的驾驶员，在下一次轮到其行动时必须做一次驾驶检定（DC15），失败会导致载具失控。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31101,6 +31421,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T143038Z" creationid="quentine" creationdate="20190805T143038Z">
         <seg>如果一些技能的使用没有失败惩罚，角色可以`取20`，表示不断尝试直到成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the vehicle doesn’t have enough movement left to clear the gap, it must complete the jump at the start of its next turn.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T094408Z" creationid="quentine" creationdate="20210710T094351Z">
+        <seg>如果载具所剩移动距离不足以移动至转向距离，则下回合必须完成剩下的距离并飞跃，不可中止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33473,6 +33801,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It’s modified by the relative size and speed of the target.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T113111Z" creationid="quentine" creationdate="20210710T113111Z">
+        <seg>DC会加上相对尺寸差距和目标速度对应的调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It’s possible to purchase similar items with luxury features, generally by increasing the purchase DC by 1.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T142655Z" creationid="quentine" creationdate="20191104T142644Z">
@@ -33863,6 +34199,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190808T142925Z" creationid="quentine" creationdate="20190808T142925Z">
         <seg>要这么做需要做一个攀爬检定（DC为墙的DC再加20）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make a Drive check (DC 15) to retain control (see Losing Control).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T093932Z" creationid="quentine" creationdate="20210710T093125Z">
+        <seg>且还要做一次驾驶检定（DC15）以维持对载具的控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make a Drive check to retain control against a DC equal to the DC for the bootleg turn attempted (see Losing Control).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T130200Z" creationid="quentine" creationdate="20210709T130200Z">
+        <seg>此外还要再做一次驾驶检定以维持对载具的控制，DC与甩尾所需DC相同（见`失控`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34919,6 +35271,46 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T141641Z" creationid="quentine" creationdate="20190916T141641Z">
         <seg>通常，系统管理员是唯一有权访问系统所有程序和数据的人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On a failed check, both vehicles take damage as though the sideswipe attempt was a success.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T113638Z" creationid="quentine" creationdate="20210710T113638Z">
+        <seg>若检定失败，双方都承受伤害，与检定成功完全一样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On a failed check, instead of facing the desired direction, the vehicle only changes facing by 45 degrees.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T125941Z" creationid="quentine" creationdate="20210709T125941Z">
+        <seg>若检定失败，载具将只转向45度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On a failed check, the vehicle continues to move forward a number of squares equal to its turn number before turning, just as with a simple 45-degree turn.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T093900Z" creationid="quentine" creationdate="20210710T093900Z">
+        <seg>若检定失败，载具将继续移动直到满足转向距离再转向，与45度转向完全相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On a failed check, the vehicle does not change speed categories.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T131120Z" creationid="quentine" creationdate="20210709T131120Z">
+        <seg>如果检定失败，载具不会改变其速度档次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>On a failed check, the vehicle fails to clear the gap, and instead falls into it (or collides with the far side).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T094614Z" creationid="quentine" creationdate="20210710T094614Z">
+        <seg>如果检定失败，载具将无法飞跃，坠入沟壑（或撞上对岸）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39181,6 +39573,54 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The DC for a bootleg turn depends on the change in facing.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T125857Z" creationid="quentine" creationdate="20210709T125857Z">
+        <seg>甩尾所需DC取决于转向的角度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The DC for a dash is 15.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T131014Z" creationid="quentine" creationdate="20210709T131006Z">
+        <seg>猛冲的DC为15。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The DC for a hard brake is 15.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T131904Z" creationid="quentine" creationdate="20210709T131904Z">
+        <seg>急刹车的DC为15。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The DC for a hard turn is 15.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T093631Z" creationid="quentine" creationdate="20210710T093631Z">
+        <seg>急转弯的DC为15。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The DC for a jump depends on the width of the gap, modified by the vehicle’s speed category.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T094516Z" creationid="quentine" creationdate="20210710T094516Z">
+        <seg>飞跃的DC取决于沟壑的宽度，加上载具的速度档次的调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The DC for a sideswipe is 15.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T113027Z" creationid="quentine" creationdate="20210710T113027Z">
+        <seg>侧击的DC为15。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The DC for answering a question within the character’s field of study is 10 for easy questions, 15 for basic questions, and 20 to 30 for tough questions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191022T133657Z" creationid="quentine" creationdate="20191022T133657Z">
@@ -42889,6 +43329,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The driver can only succeed at one dash per round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T131101Z" creationid="quentine" creationdate="20210709T131101Z">
+        <seg>驾驶员每轮只能成功发动一次猛冲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The driver can only succeed at one hard break per round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T143930Z" creationid="quentine" creationdate="20210709T143930Z">
+        <seg>驾驶员每轮只能成功发动一次猛冲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The driver may also attempt a single stunt as part of the movement (or two, if the driver didn’t take his or her attack action before moving).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T114852Z" creationid="quentine" creationdate="20210710T114852Z">
+        <seg>驾驶员也可以尝试做一次特技动作（或者两次，如果驾驶员在移动前没用过攻击动作），特技动作也属于移动的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The driver moves his or her vehicle into the other vehicle’s square and states that he or she is attempting to ram.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210701T141207Z" creationid="qt911" creationdate="20210701T141207Z">
@@ -45114,6 +45578,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The vehicle can only drive out of the gap if the walls are not too steep.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T110410Z" creationid="quentine" creationdate="20210710T110410Z">
+        <seg>如果沟壁不是太陡峭，载具可以且只能开出沟壑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The vehicle ends its movement in that location, at stationary speed.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T125818Z" creationid="quentine" creationdate="20210709T125818Z">
+        <seg>载具将在该位置停止移动，处于静止速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The vehicle must move forward at least a number of squares equal to its turn number (shown on Table: Vehicle Speeds and Modifiers) before it can turn.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210701T140534Z" creationid="qt911" creationdate="20210701T140534Z">
@@ -45302,6 +45782,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210618T133923Z" creationid="qt911" creationdate="20210618T133923Z">
         <seg>一个载具只能同时有一个驾驶员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is no movement cost.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T112546Z" creationid="quentine" creationdate="20210710T112546Z">
+        <seg>无需耗费移动距离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48135,10 +48623,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To make a bootleg turn, simply change the vehicle’s facing to the desired direction.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T125743Z" creationid="quentine" creationdate="20210709T125743Z">
+        <seg>甩尾就是将载具直接转向到想要面朝的方向。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To make a favor check, roll a d20 and add the character’s favor bonus, equal to the character’s Charismatic level.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190203T041040Z" creationid="quentine" creationdate="20190202T123114Z">
         <seg>进行求援检定，就是d20+魅力等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To make a jump, the vehicle must move in a straight line a number of squares equal to its turn number.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T094151Z" creationid="quentine" creationdate="20210710T094151Z">
+        <seg>载具必须径直移动等于其`转向距离`的方格数，才能开始飞跃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53721,6 +54225,24 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|Facing Change|DC|
+|------------|:-:|
+|45 degrees|5|
+|90 degrees|10|
+|135 degrees|15|
+|180 degrees|20|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210709T130243Z" creationid="quentine" creationdate="20210709T130243Z">
+        <seg>|转向角度|DC|
+|------------|:-:|
+|45度|5|
+|90度|10|
+|135度|15|
+|180度|20|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|Factor|Check Modifier|Time|
 |------|:------------:|----|
 |Document Type|||
@@ -53841,6 +54363,18 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |扑灭火焰|否|
 |使用一个需要整轮动作的技能|通常会|
 |装填内置式弹仓的枪械|是|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Gap Width|DC|
+|--------|:-:|
+|1–3 ft.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T094734Z" creationid="quentine" creationdate="20210710T094734Z">
+        <seg>|沟壑宽度|DC|
+|--------|:-:|
+|1-3尺</seg>
       </tuv>
     </tu>
     <tu>
@@ -55333,6 +55867,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|Target Condition|DC Modifier|
+|----------------|:---------:|
+|Each size category larger|–5|
+|Each size category smaller|+5|
+|Each speed category of difference|–2|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T113546Z" creationid="quentine" creationdate="20210710T113546Z">
+        <seg>|目标情况|DC调整值|
+|----------------|:---------:|
+|自身每大于目标一级|–5|
+|自身每小于目标一级|+5|
+|速度档次差的绝对值乘以|–2|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|Task|DC|
 |----|--|
 |Activate blindly|25|
@@ -55691,6 +56241,24 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |超大型|–2|奢侈型汽车、SUV、武装汽车|
 |大型|–1|经适车、哈雷|
 |普通|+0|竞赛摩托车、越野摩托车|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Vehicle Speed Category|DC Modifier|
+|----------------------|:---------:|
+|Alley speed|+10|
+|Street speed|+5|
+|Highway speed|+0|
+|All-out|–5|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T095204Z" creationid="quentine" creationdate="20210710T095204Z">
+        <seg>|载具速度档次|DC调整值|
+|----------------------|:---------:|
+|巷速|+10|
+|街速|+5|
+|高速|+0|
+|极速|–5|</seg>
       </tuv>
     </tu>
     <tu>
