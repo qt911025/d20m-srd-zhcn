@@ -792,6 +792,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Damage to Vehicle Occupants</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T132936Z" creationid="quentine" creationdate="20210710T132936Z">
+        <seg>## 对乘员的伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Darkness and Light</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T131122Z" creationid="quentine" creationdate="20190115T131122Z">
@@ -1296,6 +1304,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Hide and Seek</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T135725Z" creationid="quentine" creationdate="20210710T135725Z">
+        <seg>## 躲藏与搜寻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Hit Points</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T121705Z" creationid="quentine" creationdate="20190703T121705Z">
@@ -1412,6 +1428,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T142441Z" creationid="quentine" creationdate="20191104T142441Z">
         <seg>## 奢侈生活</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Losing Control</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T133354Z" creationid="quentine" creationdate="20210710T133354Z">
+        <seg>## 失控</seg>
       </tuv>
     </tu>
     <tu>
@@ -1788,6 +1812,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T090024Z" creationid="quentine" creationdate="20191027T090024Z">
         <seg>## 研究（智）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Resolving Collisions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T125905Z" creationid="quentine" creationdate="20210710T125905Z">
+        <seg>## 计算碰撞</seg>
       </tuv>
     </tu>
     <tu>
@@ -7684,6 +7716,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(For vehicles moving in reverse, consider the back end to be the vehicle’s “front” for determining the collision multiplier.) Consult Table: Collision Direction for a multiplier.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T131006Z" creationid="quentine" creationdate="20210710T130805Z">
+        <seg>（如果载具在倒车，裁定撞击伤害乘数时应以尾部作为载具的“前方”。）按照`表：碰撞方向`得出乘数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(However, such a creature can get a hold on the character—so while a character can’t initiate a grapple with a creature more than two size categories larger than, a character can still end up in one.)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210609T141834Z" creationid="qt911" creationdate="20210609T141834Z">
@@ -12720,6 +12760,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Roll:** The vehicle tumbles, taking damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T134749Z" creationid="quentine" creationdate="20210710T134749Z">
+        <seg>**翻滚：** 载具翻滚并承受伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Romance:** French, Italian, Latin\*, Portuguese, Romanian, Spanish.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T074226Z" creationid="quentine" creationdate="20191027T074226Z">
@@ -13832,6 +13880,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Spin:** The vehicle skids, spinning wildly.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T134024Z" creationid="quentine" creationdate="20210710T134024Z">
+        <seg>**旋转：** 载具打滑并疯狂地旋转。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Splash Weapons**</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200506T143857Z" creationid="quentine" creationdate="20200506T143857Z">
@@ -13948,6 +14004,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T142845Z" creationid="qt911" creationdate="20210530T142845Z">
         <seg>**表：攻击骰调整值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Collision Damage**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T130251Z" creationid="quentine" creationdate="20210710T130251Z">
+        <seg>**表：碰撞伤害**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Collision Direction**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T132015Z" creationid="quentine" creationdate="20210710T132015Z">
+        <seg>**表：碰撞方向**</seg>
       </tuv>
     </tu>
     <tu>
@@ -18134,6 +18206,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A collision occurs when a vehicle strikes another vehicle or a solid object.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T125742Z" creationid="quentine" creationdate="20210710T125742Z">
+        <seg>当载具与另一载具或固态物体相撞，将发生`碰撞`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A collision or a failed stunt can cause a driver to lose control of his vehicle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T133427Z" creationid="quentine" creationdate="20210710T133427Z">
+        <seg>碰撞或发动特技失败会导致驾驶员失去对载具的控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A color flatbed scanner allows the user to transfer images and documents from hard copy into a computer in digital form.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T124412Z" creationid="quentine" creationdate="20191202T124412Z">
@@ -20424,6 +20512,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After finding the base damage, determine the collision’s damage multiplier based on how the colliding vehicle struck the other vehicle or object.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T130813Z" creationid="quentine" creationdate="20210710T130703Z">
+        <seg>掷出基础伤害后，还要根据载具如何撞击目标载具或物体，裁定撞击伤害乘数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After succeeding on the check to attempt the sideswipe, the character makes a Drive check opposed by the other driver.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190801T141906Z" creationid="quentine" creationdate="20190731T135947Z">
@@ -21668,6 +21764,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T120903Z" creationid="quentine" creationdate="20190703T120903Z">
         <seg>路人角色：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An out-of-control vehicle may strike an object or other vehicle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T133848Z" creationid="quentine" creationdate="20210710T133848Z">
+        <seg>失控的载具可能会撞上物体或其他载具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23448,6 +23552,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At character scale, the vehicle moves in its current direction a number of squares equal to the turn number for its speed, then ends its movement.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T134252Z" creationid="quentine" creationdate="20210710T134252Z">
+        <seg>在角色尺度下，载具会沿着当前方向持续移动等于其当前速度档次下`转向距离`的方格数，并结束运动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At character scale, the vehicle rolls in a straight line in its current direction for a number of squares equal to the turn number for its speed, then ends its movement.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T134847Z" creationid="quentine" creationdate="20210710T134847Z">
+        <seg>在角色尺度下，载具会沿着当前方向持续滚动等于其当前速度档次下`转向距离`的方格数，并结束运动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At chase scale, however, more than one vehicle can occupy the same square and not collide—so ramming another vehicle requires a simple maneuver.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210701T141115Z" creationid="qt911" creationdate="20210701T141115Z">
@@ -23456,10 +23576,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>At chase scale, the vehicle moves 1 square and ends its movement.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T134650Z" creationid="quentine" creationdate="20210710T134650Z">
+        <seg>在追逐尺度下，载具移动1格并结束移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>At chase scale, the vehicle must be in the same square as its target and moving in the same direction.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210710T112510Z" creationid="quentine" creationdate="20210710T112510Z">
         <seg>追逐尺度下，载具必须与目标处于同一方格，且移动方向要相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At chase scale, the vehicle rolls one square before stopping and reorienting.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T135108Z" creationid="quentine" creationdate="20210710T135108Z">
+        <seg>在追逐尺度下，载具滚动1格并结束移动，改变朝向。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23500,6 +23636,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190620T131654Z" creationid="quentine" creationdate="20190620T131654Z">
         <seg>每到选择时，你可以选择一个0-3级的灵力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At either scale, a vehicle takes damage equal to 2d6 x the character scale turn number for its speed (use the turn number from character scale even at chase scale).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T135539Z" creationid="quentine" creationdate="20210710T135446Z">
+        <seg>无论何种尺度，载具都会受到伤害，伤害值=2d6×角色尺度下当前速度档次的转向距离（即使在追逐尺度下，也要用角色尺度的转向距离）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23588,6 +23732,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190421T123731Z" creationid="quentine" creationdate="20190421T123731Z">
         <seg>增益结束后，勇士疲乏1d6+2轮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At the end of the vehicle’s roll, reorient the vehicle perpendicular to its original direction of travel (determine left or right randomly).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T135026Z" creationid="quentine" creationdate="20210710T135026Z">
+        <seg>滚动结束后，载具将面朝垂直于滚动方向的方向（随机决定左还是右）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24236,6 +24388,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190808T135345Z" creationid="quentine" creationdate="20190808T135345Z">
         <seg>传递者和接受者各需要做一次检定以示阐明和理解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Both vehicles reduce their speed by two speed categories.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T131119Z" creationid="quentine" creationdate="20210710T131119Z">
+        <seg>双方载具都降低两个速度档次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26097,6 +26257,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each of the occupants may make a Reflex save (DC 15) to take half damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T133350Z" creationid="quentine" creationdate="20210710T133350Z">
+        <seg>每个成员都可以做一个反射豁免（DC15）以使伤害减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each of these speed categories represents a range of possible movement (see Table: Vehicle Speeds and Modifiers).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210627T134313Z" creationid="qt911" creationdate="20210627T134313Z">
@@ -27793,6 +27961,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Generally, when a vehicle collides with a creature or other moving vehicle, the target can attempt a Reflex save (DC 15) to reduce the damage by half.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T125854Z" creationid="quentine" creationdate="20210710T125854Z">
+        <seg>一般来说，当载具与生物或移动中的载具相撞，目标可以尝试做一个反射豁免（DC15），使伤害减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Getting a license or buying an object with a restriction rating increases the time needed to make purchases.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190922T081839Z" creationid="QuenTine" creationdate="20181106T140141Z">
@@ -28961,6 +29137,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it fails by 10 or more, the vehicle rolls.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T133644Z" creationid="quentine" creationdate="20210710T133644Z">
+        <seg>若失败10点及以上，载具将翻滚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If it fails, the vehicle goes into a spin.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T133543Z" creationid="quentine" creationdate="20210710T133543Z">
+        <seg>若失败，载具将旋转。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If it has mechanical or electronic components, a Techie of 2nd level or higher can get maximum performance out of it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190518T140329Z" creationid="quentine" creationdate="20190518T140329Z">
@@ -29101,6 +29293,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T153617Z" creationid="quentine" creationdate="20200117T153617Z">
         <seg>如果不是，将购买DC提高5点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If not, it pushes the other vehicle or object aside, if possible, and continues until it has moved the minimum number of squares for its new speed category.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T132000Z" creationid="quentine" creationdate="20210710T131509Z">
+        <seg>如果没有，且主撞方碰撞前的移动距离若未达到新速度档次的速度下限，主撞方将推动目标载具或物体继续移动，直到移动到新速度档次的速度下限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30801,6 +31001,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the colliding vehicle moved the minimum number of squares for its new speed category before the collision, it ends its movement immediately.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T131525Z" creationid="quentine" creationdate="20210710T131339Z">
+        <seg>如果碰撞的载具在碰撞前已经移动的距离，超过了新速度档次的速度上限，载具会立即停止移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the covering character has a Dex-terity bonus to Defense or a dodge bonus, and this bonus keeps the covering character from being hit, then the original target is hit in-stead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210531T142228Z" creationid="qt911" creationdate="20210531T142228Z">
@@ -31509,6 +31717,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191102T030307Z" creationid="quentine" creationdate="20191102T030307Z">
         <seg>如果不想进行借机攻击，被践踏者可以进行反射豁免以让伤害减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If this check is successful, the driver maintains control of the vehicle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T133513Z" creationid="quentine" creationdate="20210710T133513Z">
+        <seg>若检定成功，驾驶员将维持对载具的控制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32453,6 +32669,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T135741Z" creationid="quentine" creationdate="20190806T135741Z">
         <seg>在这些情况下，角色进行属性检定：掷1d20+合适的属性调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In these cases, the driver must make a Drive check to retain control of the vehicle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T133454Z" creationid="quentine" creationdate="20210710T133454Z">
+        <seg>这时，驾驶员必须做一个驾驶检定以维持对载具的控制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35547,6 +35771,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Once it stops, roll 1d8 to determine its new facing: 1, no change; 2, right 45 degrees; 3, right 90 degrees; 4, right 135 degrees; 5, 180 degrees; 6, left 135 degrees; 7, left 90 degrees; 8, left 45 degrees.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T134529Z" creationid="quentine" creationdate="20210710T134529Z">
+        <seg>停止时，掷骰1d8以决定新朝向：1、不变；2、右转45度；3、右转90度；4、右转135度；5、180度；6、左转135度；7、左转90度；8、左转45度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Once modified to fire on automatic, the TEC-9 cannot be changed back to semiautomatic.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T015230Z" creationid="quentine" creationdate="20200419T015230Z">
@@ -35607,6 +35839,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190620T134444Z" creationid="quentine" creationdate="20190620T134431Z">
         <seg>一但灵力水晶耗尽，异能者必须使用自己的5点灵力点充满水晶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once the damage has been determined, apply it to both vehicles (or objects or creatures) involved in the collision.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T131058Z" creationid="quentine" creationdate="20210710T131058Z">
+        <seg>得出最终伤害后，将伤害应用到碰撞的双方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36861,6 +37101,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remember that the check/roll modifier from Table: Vehicle Speeds and Modifiers applies to all Drive checks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T133819Z" creationid="quentine" creationdate="20210710T133819Z">
+        <seg>注意`表：载具速度与调整值`中的检定/掷骰调整值对所有驾驶检定有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the armor on the black market.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200526T133402Z" creationid="quentine" creationdate="20200526T133402Z">
@@ -36897,6 +37145,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T134430Z" creationid="quentine" creationdate="20200410T134430Z">
         <seg>记住一定要在黑市购买进行财富检定时加上这些调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reorient the vehicle accordingly.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T134625Z" creationid="quentine" creationdate="20210710T134625Z">
+        <seg>然后载具转向到新朝向。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37049,6 +37305,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T110920Z" creationid="quentine" creationdate="20201118T110920Z">
         <seg>进行多次伤害掷骰（每次都应用全部调整值）并计算总和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Roll to determine its new facing as indicated above.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T134707Z" creationid="quentine" creationdate="20210710T134707Z">
+        <seg>按上文规则掷骰决定新朝向。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41677,6 +41941,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The base amount of damage depends on the cover offered by the vehicle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T133123Z" creationid="quentine" creationdate="20210710T133123Z">
+        <seg>基本伤害值取决于载具提供的掩蔽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The base damage dealt by a vehicle collision depends on the speed and size of the objects involved.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T125944Z" creationid="quentine" creationdate="20210710T125944Z">
+        <seg>载具碰撞造成的基础伤害取决于相关物体的速度与尺寸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The base number of power points available per day is shown on the table above.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190619T141744Z" creationid="quentine" creationdate="20190619T141744Z">
@@ -43357,6 +43637,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210701T141207Z" creationid="qt911" creationdate="20210701T141207Z">
         <seg>驾驶员需要将载具驾驶到另一辆载具所在的方格，并宣布发动冲撞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The driver of the other vehicle must succeed on a Drive check (DC 15) at the beginning of his or her next action or lose control of his or her vehicle.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T132853Z" creationid="quentine" creationdate="20210710T132853Z">
+        <seg>被撞方的驾驶员必须在下一次行动前做一次驾驶检定，检定失败将失去对载具的控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The driver of the vehicle that caused the collision must immediately make a Drive check (DC 15) or lose control of the vehicle (see Losing Control, below).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T132721Z" creationid="quentine" creationdate="20210710T132721Z">
+        <seg>主撞方的驾驶员必须立即做一次驾驶检定（DC15），检定失败将失去对载具的控制（见下文`失控`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45606,6 +45902,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190801T142605Z" creationid="quentine" creationdate="20190801T142605Z">
         <seg>然后目标载具将以静止速度停在目的地，承受正常的侧击伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The vehicle’s occupants take damage equal to 2d4 x the character scale turn number for its speed (Reflex save, DC 15, for half damage).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T135649Z" creationid="quentine" creationdate="20210710T135531Z">
+        <seg>载具乘员都受到伤害，伤害值=2d4×角色尺度下当前速度档次的转向距离（可做DC15的反射豁免使伤害减半）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49415,6 +49719,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the highest speed and the smallest size of the two colliding objects and refer to Table: Collision Damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T130240Z" creationid="quentine" creationdate="20210710T130240Z">
+        <seg>两者的速度取最大值，尺寸取最小值，参照`表：碰撞伤害`得出所需伤害骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the rules for thrown explosives.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210607T134851Z" creationid="qt911" creationdate="20210607T134851Z">
@@ -50111,6 +50423,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When a vehicle takes damage from a collision, its occupants may take damage as well.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T133017Z" creationid="quentine" creationdate="20210710T133017Z">
+        <seg>载具遭受碰撞伤害时，载具的乘员也将受到伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When a vehicle tries to move through a square occupied by a hazard, the driver must succeed on a Drive check to avoid the hazard and continue moving.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210707T140348Z" creationid="quentine" creationdate="20210707T140348Z">
@@ -50395,6 +50715,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T124926Z" creationid="quentine" creationdate="20190115T113958Z">
         <seg>当损失了暂时生命值，它们不能像真实的生命值那样恢复，即使使用医疗或者魔法都不可以。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When that happens, a collision occurs (see Collisions and Ramming, above).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T133929Z" creationid="quentine" creationdate="20210710T133929Z">
+        <seg>这样会发生`碰撞`（见上文`碰撞与冲撞`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53667,6 +53995,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|Colliding Vehicle’s Target|Multiplier|
+|--------------------------|:--------:|
+|A stationary object|x 1|
+|A moving vehicle, striking head-on or 45 degrees from head-on|x 2|
+|A moving vehicle, striking perpendicular|x 1|
+|A moving vehicle, striking from the rear or 45 degrees from the rear|x 1/2|
+|A vehicle being sideswiped (see Sideswipe)|x 1/4|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T132536Z" creationid="quentine" creationdate="20210710T132536Z">
+        <seg>|碰撞目标|乘数|
+|--------------------------|:--------:|
+|静态目标|x 1|
+|移动载具，对撞或相对对撞偏离45度|x 2|
+|移动载具，垂直撞上|x 1|
+|移动载具，追尾或相对追尾偏离45度|x 1/2|
+|侧击载具（见`侧击`）|x 1/4|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|Components|DC Modifier|
 |----------|-----------|
 |Frame Shape and Locomotion\*|
@@ -53859,6 +54207,24 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |--------------------|:----------------:|
 |四分之三|+5|
 |十分之九|+10|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Cover|Damage|
+|-----|------|
+|None|Same as damage taken by vehicle|
+|One-quarter|One-half damage taken by vehicle|
+|One-half|One-quarter damage taken by vehicle|
+|Three-quarters or more|None|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T133312Z" creationid="quentine" creationdate="20210710T133312Z">
+        <seg>|掩蔽|伤害|
+|-----|------|
+|无|等于载具所受伤害|
+|四分之一|载具所受伤害的一半|
+|半掩蔽|载具所受伤害的四分之一|
+|四分之三及以上|无|</seg>
       </tuv>
     </tu>
     <tu>
@@ -54439,6 +54805,24 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |2 尺|8|6 尺|24|
 |3 尺|12|7 尺|28|
 |4 尺|16|8 尺|32|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Highest Speed|Damage Die Type|
+|-------------|:-------------:|
+|Alley speed|d2|
+|Street speed|d4|
+|Highway speed|d8|
+|All-out|d12|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T130346Z" creationid="quentine" creationdate="20210710T130346Z">
+        <seg>|速度最高者|伤害骰类型|
+|-------------|:-------------:|
+|巷速|d2|
+|街速|d4|
+|高速|d8|
+|极速|d12|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55723,6 +56107,32 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |医疗|急救工具|
 ||医疗箱|
 ||手术箱|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Smallest Object or Creature Size|Number of Dice|
+|--------------------------------|:------------:|
+|Colossal|20|
+|Gargantuan|16|
+|Huge|12|
+|Large|8|
+|Medium-size|4|
+|Small|2|
+|Tiny|1|
+|Smaller than Tiny|0|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210710T130503Z" creationid="quentine" creationdate="20210710T130503Z">
+        <seg>|尺寸最小者|骰子数量|
+|--------------------------------|:------------:|
+|超巨型|20|
+|巨型|16|
+|超大型|12|
+|大型|8|
+|普通|4|
+|小型|2|
+|超小型|1|
+|超小型以下|0|</seg>
       </tuv>
     </tu>
     <tu>

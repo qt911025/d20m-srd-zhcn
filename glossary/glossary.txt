@@ -1415,3 +1415,6 @@ Hard Brake	急刹车
 Hard Turn	急转弯
 Jump	飞跃	载具的跳跃
 collision multiplier	碰撞乘数
+Losing Control	失控
+Spin	旋转
+Roll	翻滚
