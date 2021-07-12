@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>## Collisions and Ramming</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T115322Z" creationid="quentine" creationdate="20210710T115322Z">
+        <seg>## 碰撞与冲撞</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>## Combat Modifiers
 This section covers offensive and defensive modifiers provided by position.</seg>
       </tuv>
@@ -744,6 +752,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>## Crew Quality</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T142553Z" creationid="quentine" creationdate="20210712T142553Z">
+        <seg>## 车组水平</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>## Criminal</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181104T125812Z" creationid="QuenTine" creationdate="20181104T125812Z">
@@ -780,6 +796,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T105116Z" creationid="quentine" creationdate="20201118T105116Z">
         <seg>## 伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Damage to Vehicle Occupants</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T132936Z" creationid="quentine" creationdate="20210710T132936Z">
+        <seg>## 对乘员的伤害</seg>
       </tuv>
     </tu>
     <tu>
@@ -940,6 +964,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190926T125222Z" creationid="quentine" creationdate="20190926T125222Z">
         <seg>## 驾驶（敏）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Driver Options</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T113752Z" creationid="quentine" creationdate="20210710T113752Z">
+        <seg>## 驾驶员选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -1112,6 +1144,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>## Fighting from Vehicles</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T140550Z" creationid="quentine" creationdate="20210712T140550Z">
+        <seg>## 载具战斗</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>## Firearms</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210605T095708Z" creationid="qt911" creationdate="20210605T095708Z">
@@ -1264,6 +1304,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>## Hide and Seek</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T135725Z" creationid="quentine" creationdate="20210710T135725Z">
+        <seg>## 躲藏与搜寻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>## Hit Points</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190703T121705Z" creationid="quentine" creationdate="20190703T121705Z">
@@ -1380,6 +1428,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191104T142441Z" creationid="quentine" creationdate="20191104T142441Z">
         <seg>## 奢侈生活</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Losing Control</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T133354Z" creationid="quentine" creationdate="20210710T133354Z">
+        <seg>## 失控</seg>
       </tuv>
     </tu>
     <tu>
@@ -1740,6 +1796,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T090024Z" creationid="quentine" creationdate="20191027T090024Z">
         <seg>## 研究（智）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Resolving Collisions</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T125905Z" creationid="quentine" creationdate="20210710T125905Z">
+        <seg>## 计算碰撞</seg>
       </tuv>
     </tu>
     <tu>
@@ -2292,6 +2356,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181106T124609Z" creationid="QuenTine" creationdate="20181106T124609Z">
         <seg>## 计算声望加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Vehicle Combat Actions</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T140707Z" creationid="quentine" creationdate="20210712T140707Z">
+        <seg>## 载具战斗动作</seg>
       </tuv>
     </tu>
     <tu>
@@ -7626,6 +7698,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>(For vehicles moving in reverse, consider the back end to be the vehicle’s “front” for determining the collision multiplier.) Consult Table: Collision Direction for a multiplier.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T131006Z" creationid="quentine" creationdate="20210710T130805Z">
+        <seg>（如果载具在倒车，裁定撞击伤害乘数时应以尾部作为载具的“前方”。）按照`表：碰撞方向`得出乘数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>(However, such a creature can get a hold on the character—so while a character can’t initiate a grapple with a creature more than two size categories larger than, a character can still end up in one.)</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210609T141834Z" creationid="qt911" creationdate="20210609T141834Z">
@@ -7646,6 +7726,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210607T141248Z" creationid="qt911" creationdate="20210607T141248Z">
         <seg>（如果角色有`击碎`专长，则不会引发借机攻击。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(If it has already moved that far before attempting the hard brake, it ends its movement immediately.)</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T131835Z" creationid="quentine" creationdate="20210709T131809Z">
+        <seg>（如果在急刹车前，载具的已移动距离就已经超过了该值，将立刻用完所有的可移动距离。）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8008,6 +8096,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>(The squares it has already moved before attempting the dash count against this total.)</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T130958Z" creationid="quentine" creationdate="20210709T130958Z">
+        <seg>（猛冲前已经移动过的距离也计入总距离。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>(The suit’s coloration can be changed with a move action.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191113T142221Z" creationid="quentine" creationdate="20191113T142029Z">
@@ -8048,10 +8144,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>(This increase is in addition to any speed change made at the beginning of the driver’s action; if the driver increased speed at that time, he or she can accelerate a total of two categories in the same round.) The vehicle’s total movement for the round cannot exceed the maximum number of squares for its new speed category.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T130905Z" creationid="quentine" creationdate="20210709T130905Z">
+        <seg>（这次提速是独立于驾驶员行动开始时的变速的；如果驾驶员在行动开始时加速过了，就相当于同一轮内提高了两个速度档次。）载具在该轮的总移动距离不能超过新速度档次所限定的最大移动距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>(This is a free action.) If the character succeeds, the character has started the grapple, and deals damage to the target as if with an unarmed strike.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210611T140826Z" creationid="qt911" creationdate="20210611T140826Z">
         <seg>（这是一个即时动作。）如果角色成功，角色将开始擒抱，并对目标造成等效于徒手攻击的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(This is in addition to any speed change made at the beginning of his action; if the driver reduced speed at that time, he or she can drop a total of three categories in the same round.) The vehicle’s movement for the round ends as soon as it has moved the minimum number of squares for its new speed category.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T131632Z" creationid="quentine" creationdate="20210709T131632Z">
+        <seg>（这次减速是独立于驾驶员行动开始时的变速的；如果驾驶员在行动开始时减速过了，就相当于在同一轮内可以降低三个速度档次。）载具在该轮的已移动距离若超过新速度档次所限定的最大移动距离，本轮将无法再移动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8146,6 +8258,36 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>(creek, small ravine)|25|
+|16–25 ft.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T094955Z" creationid="quentine" creationdate="20210710T094955Z">
+        <seg>（小溪、山涧）|25|
+|16–25 尺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(culvert)|20|
+|8–15 ft.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T094912Z" creationid="quentine" creationdate="20210710T094912Z">
+        <seg>（排水渠）|20|
+|8–15 尺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(ditch)|15|
+|4–8 ft.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T094834Z" creationid="quentine" creationdate="20210710T094834Z">
+        <seg>（壕沟）|15|
+|4–8 尺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>(e) "Product Identity" means product and product line names, logos and identifying marks including trade dress; artifacts; creatures characters; stories, storylines, plots, thematic elements, dialogue, incidents, language, artwork, symbols, designs, depictions, likenesses, formats, poses, concepts, themes and graphic, photographic and other visual or audio representations; names and descriptions of characters, spells, enchantments, personalities, teams, personas, likenesses and special abilities; places, locations, environments, creatures, equipment, magical or supernatural abilities or effects, logos, symbols, or graphic designs; and any other trademark or registered trademark clearly identified as Product identity by the owner of the Product Identity, and which specifically excludes the Open Game Content; (f) "Trademark" means the logos, names, mark, sign, motto, designs that are used by a Contributor to identify itself or its products or the associated products contributed to the Open Game License by the Contributor (g) "Use", "Used" or "Using" means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181022T110349Z" creationid="QuenTine" creationdate="20181022T110349Z">
@@ -8165,6 +8307,16 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>(narrow road, small pond)|35|
+|26–40 ft.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T095030Z" creationid="quentine" creationdate="20210710T095030Z">
+        <seg>（窄路、小池塘）|35|
+|26–40 尺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>(or in adjacent square)</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210530T132132Z" creationid="qt911" creationdate="20210530T132132Z">
@@ -8177,6 +8329,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210617T144416Z" creationid="qt911" creationdate="20210617T144416Z">
         <seg>（角色不能尝试其他动作。）在角色的回合，角色可以尝试挣脱压制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>(wide road, small river)|45|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T095048Z" creationid="quentine" creationdate="20210710T095048Z">
+        <seg>（宽路、小河）|45|</seg>
       </tuv>
     </tu>
     <tu>
@@ -8792,6 +8952,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190927T135005Z" creationid="quentine" creationdate="20190927T135005Z">
         <seg>**攻击（DC20）：** 动物攻击可见敌人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Attack Actions:** Anyone aboard a vehicle can make an attack with a personal weapon, and drivers and gunners can make attacks with any vehicle-mounted weapons controlled from their positions.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T141813Z" creationid="quentine" creationdate="20210712T141813Z">
+        <seg>**攻击动作：** 载具上的任何人都可以用单兵武器攻击，驾驶员与射击手可以用所处位置能操作的车载武器进行攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9717,6 +9885,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>**Bootleg Turn:** By making a bootleg turn, a driver can radically change direction without turning in a loop.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T093420Z" creationid="quentine" creationdate="20210709T124857Z">
+        <seg>**甩尾：** 驾驶员可以用甩尾来使车辆紧急调头，无需绕圈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>**Box:** A box magazine is any type of magazine that can be removed and reloaded separately from the weapon.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T131505Z" creationid="quentine" creationdate="20200410T131234Z">
@@ -10173,6 +10349,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>**Choose the Vehicle’s Speed:** The driver may increase or decrease his or her vehicle’s speed category by one (or keep it the same).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T113946Z" creationid="quentine" creationdate="20210710T113946Z">
+        <seg>**选择载具速度：** 驾驶员可以让载具增加或减少一级速度档次（或维持现状）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>**Civics:** Law, legislation, litigation, and legal rights and obligations.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191022T135517Z" creationid="quentine" creationdate="20191022T135517Z">
@@ -10441,6 +10625,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191030T134317Z" creationid="quentine" creationdate="20191030T134317Z">
         <seg>**黑暗视觉（特异）：** 生物能在完全黑暗下视物，能看到给定范围内的事物（通常为60尺）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Dash:** With a dash stunt, a driver can increase the vehicle’s speed by one category.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T130426Z" creationid="quentine" creationdate="20210709T130426Z">
+        <seg>**猛冲：** 驾驶员可以用`猛冲`特技，将载具速度提高一个速度档次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10893,6 +11085,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>**Free Actions:** Communicating orders is a free action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T141214Z" creationid="quentine" creationdate="20210712T141114Z">
+        <seg>**即时动作：** 发号施令是即时动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Full-Round Actions:** Since the driver must use a move action to control the vehicle, he or she can’t take a full-round action unless he or she starts it in one round and completes it on his or her next turn (see Start/Complete Full-Round Action).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T142204Z" creationid="quentine" creationdate="20210712T141835Z">
+        <seg>**整轮动作：** 既然驾驶员必须用一个移动动作来控制载具，驾驶员不能做出整轮动作，除非驾驶员是在本轮内开始一个整轮动作并在下一轮开始时完成它（见`开始/完成整轮动作`）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>**Gaze (Su):** A gaze attack takes effect when opponents look at the creature’s eyes.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191031T124149Z" creationid="quentine" creationdate="20191031T124149Z">
@@ -10969,6 +11177,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190927T133408Z" creationid="quentine" creationdate="20190927T133408Z">
         <seg>**驾驭动物：** 指的是命令一只动物完成一项它所会的工作或技巧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Hard Brake:** With a hard brake stunt, a driver can reduce the vehicle’s speed by up to two categories.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T131311Z" creationid="quentine" creationdate="20210709T131311Z">
+        <seg>**急刹车：** 驾驶员可以用`急刹车`使载具的速度降低至多两个档次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Hard Turn:** A hard turn allows a vehicle to make a turn in a short distance without losing speed.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T093334Z" creationid="quentine" creationdate="20210710T093334Z">
+        <seg>**急转弯：** A hard turn allows a vehicle to make a turn in a short distance without losing speed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11301,6 +11525,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>**Jump:** A driver can attempt to jump his or her vehicle across a gap in his or her path.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T094117Z" creationid="quentine" creationdate="20210710T094117Z">
+        <seg>**飞跃：** 驾驶员可以尝试驾驶载具飞跃沟壑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>**Jumping Down:** If the character intentionally jumps from a height, he or she takes less damage than if the character just falls.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191021T142453Z" creationid="quentine" creationdate="20191021T142453Z">
@@ -11481,6 +11713,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190805T133223Z" creationid="quentine" creationdate="20190805T133223Z">
         <seg>**其他调整值：** 其他调整值包括专长和职业专长提供的调整值，以及减值，如不擅长防具带来的减值等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Move Actions:** Changing position within a vehicle is usually a move action, especially if the character has to trade places with another character.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T141436Z" creationid="quentine" creationdate="20210712T141436Z">
+        <seg>**移动动作：** 在载具中改变乘员位一般是一个移动动作，尤其是在两个角色互相交换位置时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Movement:** Move the vehicle any number of squares within the vehicle’s speed category.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T114425Z" creationid="quentine" creationdate="20210710T114425Z">
+        <seg>**移动：** 移动不超过载具速度档次所限的距离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11745,6 +11993,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190117T130331Z" creationid="quentine" creationdate="20190117T130331Z">
         <seg>**乘势攻击：** 敏捷型英雄可以使用1点行动点来使用这一天赋。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Optional Attack Action:** If the driver did not take an attack action before moving, and performed one or fewer stunts, the driver has an attack action left.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T115240Z" creationid="quentine" creationdate="20210710T115219Z">
+        <seg>**攻击动作（可选）：** 如果驾驶员在移动前没有使用过攻击动作，只做过一次或者没做过特技，那么驾驶员则还有一次使用攻击动作的机会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Optional Attack Action:** If the driver wants, he or she can use his or her attack action before moving the vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T115230Z" creationid="quentine" creationdate="20210710T114111Z">
+        <seg>**攻击动作（可选）：** 驾驶员可以选择在移动载具之前使用攻击动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12510,6 +12774,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>**Roll:** The vehicle tumbles, taking damage.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T134749Z" creationid="quentine" creationdate="20210710T134749Z">
+        <seg>**翻滚：** 载具翻滚并承受伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>**Romance:** French, Italian, Latin\*, Portuguese, Romanian, Spanish.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T074226Z" creationid="quentine" creationdate="20191027T074226Z">
@@ -12626,6 +12898,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210701T141922Z" creationid="qt911" creationdate="20210701T141922Z">
         <seg>**侧闪：** 驾驶员可以无需改变朝向而改变路径，例如变道。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Sideswipe:** During a vehicle’s movement, a driver can attempt to sideswipe a vehicle or other target, either to deal damage without fully ramming it or to cause another driver to lose control of his or her vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T112156Z" creationid="quentine" creationdate="20210710T112156Z">
+        <seg>**侧击：** 载具移动时，驾驶员可以用载具的侧面撞击其他载具或目标，可以造成伤害，或者逼目标驾驶员失去对载具的控制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13614,6 +13894,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>**Spin:** The vehicle skids, spinning wildly.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T134024Z" creationid="quentine" creationdate="20210710T134024Z">
+        <seg>**旋转：** 载具打滑并疯狂地旋转。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>**Splash Weapons**</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200506T143857Z" creationid="quentine" creationdate="20200506T143857Z">
@@ -13696,8 +13984,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv xml:lang="en-US">
         <seg>**Stunts:** Stunts are difficult and sometimes daring maneuvers that enable a driver to change his or her vehicle’s speed or heading more radically than a simple maneuver allows.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210701T135713Z" creationid="qt911" creationdate="20210701T135641Z">
-        <seg>**特技：** 特技相对来说更困难，有时可以通过特技来猛然加速或者以更小的角度转向，这是简单机动所做不到的。</seg>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T125317Z" creationid="qt911" creationdate="20210701T135641Z">
+        <seg>**特技：** 特技相对来说更困难，有时可以通过特技来猛然加速或者急转弯，这是简单机动所做不到的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13730,6 +14018,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210530T142845Z" creationid="qt911" creationdate="20210530T142845Z">
         <seg>**表：攻击骰调整值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Table: Collision Damage**</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T130251Z" creationid="quentine" creationdate="20210710T130251Z">
+        <seg>**表：碰撞伤害**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Table: Collision Direction**</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T132015Z" creationid="quentine" creationdate="20210710T132015Z">
+        <seg>**表：碰撞方向**</seg>
       </tuv>
     </tu>
     <tu>
@@ -17900,6 +18204,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A collision occurs when a vehicle strikes another vehicle or a solid object.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T125742Z" creationid="quentine" creationdate="20210710T125742Z">
+        <seg>当载具与另一载具或固态物体相撞，将发生`碰撞`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A collision or a failed stunt can cause a driver to lose control of his vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T133427Z" creationid="quentine" creationdate="20210710T133427Z">
+        <seg>碰撞或发动特技失败会导致驾驶员失去对载具的控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A color flatbed scanner allows the user to transfer images and documents from hard copy into a computer in digital form.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191202T124412Z" creationid="quentine" creationdate="20191202T124412Z">
@@ -18076,6 +18396,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A deeper gap (11 feet or deeper) is equivalent to a Colossal object.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T111620Z" creationid="quentine" creationdate="20210710T111620Z">
+        <seg>深沟壑（深度大于等于11尺）等价于超巨型物体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A detonator activates an explosive, causing it to explode.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T090359Z" creationid="quentine" creationdate="20200117T090359Z">
@@ -18120,6 +18448,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191030T124204Z" creationid="quentine" creationdate="20191030T124204Z">
         <seg>任何吸取的时候，不管吸取了多少点属性，吸取者治疗自己5点伤害（重击则为10点）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A driver can use Bluff to make a pursuer think he or she is going a different direction from what the driver intends.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T140025Z" creationid="quentine" creationdate="20210712T140025Z">
+        <seg>驾驶员可以用唬骗来让追踪者误以为驾驶员要走上另一条道。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18384,6 +18720,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200417T134130Z">
         <seg>手枪是可以无惩罚单手使用的单兵枪械。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A hard turn functions like a 45-degree turn simple maneuver, except that the vehicle only needs to move forward a number of squares equal to half its turn number (rounded down).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T093616Z" creationid="quentine" creationdate="20210710T093616Z">
+        <seg>急转弯的效果与45度转向一样，区别在于载具只需径直移动其`转向距离`一半的方格数（向下取整）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18704,6 +19048,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191202T121301Z" creationid="quentine" creationdate="20191202T121301Z">
         <seg>调制解调器呢以让角色电脑连接至互联网。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A moderately deep gap (4 to 10 feet deep) is equivalent to a Huge object.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T110236Z" creationid="quentine" creationdate="20210710T110148Z">
+        <seg>中沟壑（4到10尺深）等价于超大型尺寸的物体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19184,6 +19536,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T125209Z" creationid="quentine" creationdate="20190115T125209Z">
         <seg>战栗的角色在攻击、豁免与技能检定时有2点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A shallow gap (1 to 3 feet deep) is equivalent to a Medium-size object; the vehicle may be able to avoid taking collision damage from the failed jump by treating the far side as a hazard and then continue moving (see Avoid Hazard, above).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T110232Z" creationid="quentine" creationdate="20210710T102711Z">
+        <seg>浅沟壑（1到3尺深）等价于普通尺寸的物体；对岸区域会被视为险情，若飞跃检定失败，载具可以通过`避险`来避免飞跃失败所带来的碰撞伤害（见上文`避险`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19886,6 +20246,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Actions during vehicle combat are handled the same way as actions during personal combat.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T140754Z" creationid="quentine" creationdate="20210712T140754Z">
+        <seg>载具战斗动作的操作流程与个人战斗的流程相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Actors, entertainers of all types, newscasters, radio and television personalities, and more fall under this starting occupation.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181104T124226Z" creationid="QuenTine" creationdate="20181104T124226Z">
@@ -20154,6 +20522,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210607T135153Z" creationid="qt911" creationdate="20210607T135153Z">
         <seg>决定了落点后，再对落点5尺内的所有生物造成溅射伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>After finding the base damage, determine the collision’s damage multiplier based on how the colliding vehicle struck the other vehicle or object.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T130813Z" creationid="quentine" creationdate="20210710T130703Z">
+        <seg>掷出基础伤害后，还要根据载具如何撞击目标载具或物体，裁定撞击伤害乘数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20602,6 +20978,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191104T124513Z" creationid="quentine" creationdate="20191104T124513Z">
         <seg>几乎所有物品在黑市都有出售。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Along the way, perform any number of simple maneuvers (limited only by their movement cost).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T114615Z" creationid="quentine" creationdate="20210710T114600Z">
+        <seg>在途中可执行任意次的简单机动（只要移动距离还够）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21394,6 +21778,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190703T120903Z" creationid="quentine" creationdate="20190703T120903Z">
         <seg>路人角色：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An out-of-control vehicle may strike an object or other vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T133848Z" creationid="quentine" creationdate="20210710T133848Z">
+        <seg>失控的载具可能会撞上物体或其他载具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23158,10 +23550,58 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>At character scale, a vehicle must be side by side with its target (that is, occupying the square or squares directly to its side) and moving in the same direction.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T112356Z" creationid="quentine" creationdate="20210710T112356Z">
+        <seg>在角色尺度下，载具必须侧面紧邻目标（自身侧面占据的方格与目标侧面占据的方格相邻），且移动方向要相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At character scale, the vehicle moves in its current direction a number of squares equal to the turn number for its speed, then ends its movement.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T134252Z" creationid="quentine" creationdate="20210710T134252Z">
+        <seg>在角色尺度下，载具会沿着当前方向持续移动等于其当前速度档次下`转向距离`的方格数，并结束运动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At character scale, the vehicle rolls in a straight line in its current direction for a number of squares equal to the turn number for its speed, then ends its movement.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T134847Z" creationid="quentine" creationdate="20210710T134847Z">
+        <seg>在角色尺度下，载具会沿着当前方向持续滚动等于其当前速度档次下`转向距离`的方格数，并结束运动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>At chase scale, however, more than one vehicle can occupy the same square and not collide—so ramming another vehicle requires a simple maneuver.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210701T141115Z" creationid="qt911" creationdate="20210701T141115Z">
         <seg>但是在追逐尺度下，同一个方格可以存在多个载具而不发生碰撞——这时则需要以一个简单机动对另一辆载具发动冲撞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At chase scale, the vehicle moves 1 square and ends its movement.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T134650Z" creationid="quentine" creationdate="20210710T134650Z">
+        <seg>在追逐尺度下，载具移动1格并结束移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At chase scale, the vehicle must be in the same square as its target and moving in the same direction.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T112510Z" creationid="quentine" creationdate="20210710T112510Z">
+        <seg>追逐尺度下，载具必须与目标处于同一方格，且移动方向要相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At chase scale, the vehicle rolls one square before stopping and reorienting.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T135108Z" creationid="quentine" creationdate="20210710T135108Z">
+        <seg>在追逐尺度下，载具滚动1格并结束移动，改变朝向。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23202,6 +23642,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190620T131654Z" creationid="quentine" creationdate="20190620T131654Z">
         <seg>每到选择时，你可以选择一个0-3级的灵力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At either scale, a vehicle takes damage equal to 2d6 x the character scale turn number for its speed (use the turn number from character scale even at chase scale).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T135539Z" creationid="quentine" creationdate="20210710T135446Z">
+        <seg>无论何种尺度，载具都会受到伤害，伤害值=2d6×角色尺度下当前速度档次的转向距离（即使在追逐尺度下，也要用角色尺度的转向距离）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23290,6 +23738,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190421T123731Z" creationid="quentine" creationdate="20190421T123731Z">
         <seg>增益结束后，勇士疲乏1d6+2轮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>At the end of the vehicle’s roll, reorient the vehicle perpendicular to its original direction of travel (determine left or right randomly).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T135026Z" creationid="quentine" creationdate="20210710T135026Z">
+        <seg>滚动结束后，载具将面朝垂直于滚动方向的方向（随机决定左还是右）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23410,6 +23866,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T135600Z" creationid="qt911" creationdate="20201224T135600Z">
         <seg>借机攻击：对持有武器的对手进行徒手攻击会引发被攻击者的借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Attempting a sideswipe costs 1 square of movement.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T112437Z" creationid="quentine" creationdate="20210710T112437Z">
+        <seg>尝试执行侧击需耗费1格移动距离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23758,6 +24222,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Before a vehicle can make a bootleg turn, it must move in a straight line at least a number of squares equal to its turn number.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T125643Z" creationid="quentine" creationdate="20210709T125643Z">
+        <seg>载具必须径直移动等于其`转向距离`的方格数，才能开始甩尾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Before the hero can select a talent from this tree the hero must have previously selected at least one talent from the Energy Resistance or Unbreakable Talent Tree.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190117T143331Z" creationid="quentine" creationdate="20190117T143331Z">
@@ -23922,6 +24394,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190808T135345Z" creationid="quentine" creationdate="20190808T135345Z">
         <seg>传递者和接受者各需要做一次检定以示阐明和理解。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Both vehicles reduce their speed by two speed categories.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T131119Z" creationid="quentine" creationdate="20210710T131119Z">
+        <seg>双方载具都降低两个速度档次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24214,6 +24694,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T133756Z" creationid="quentine" creationdate="20190115T133756Z">
         <seg>吸入浓烟或类似毒性气体的角色必须每轮都进行一次体质检定（DC10，每次检定后+1），失败则呛气咳嗽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Characters can perform as many free actions as the GM permits in a single round.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T141915Z" creationid="quentine" creationdate="20210712T141336Z">
+        <seg>角色在一轮中可以做的即时动作数量由GM规定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25287,6 +25775,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Determine damage as for a collision (see Collisions and Ramming).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T094711Z" creationid="quentine" creationdate="20210710T094711Z">
+        <seg>伤害按碰撞规则结算（见`碰撞与冲撞`）.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Determine the Acolyte’s total number of spells per day by consulting the two tables below.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190627T135615Z" creationid="quentine" creationdate="20190627T135615Z">
@@ -25771,6 +26267,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181104T085040Z" creationid="QuenTine" creationdate="20181104T085040Z">
         <seg>每个职业背景都会有大量永久性职业技能供角色选择。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Each of the occupants may make a Reflex save (DC 15) to take half damage.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T133350Z" creationid="quentine" creationdate="20210710T133350Z">
+        <seg>每个成员都可以做一个反射豁免（DC15）以使伤害减半。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27247,6 +27751,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Free actions can be performed normally, in conjunction with another action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T141125Z" creationid="quentine" creationdate="20210712T141023Z">
+        <seg>即时动作就像一般规则那样，与其他动作同时做出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Free actions consume a very small amount of time and effort, and over the span of the round, their impact is so minor that they are considered free.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20201224T132709Z" creationid="quentine" creationdate="20201120T131656Z">
@@ -27467,6 +27979,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T122605Z" creationid="quentine" creationdate="20190114T130033Z">
         <seg>通常，当英雄遭遇特殊攻击或魔法攻击时，需要掷一个豁免骰以避免或者减少这种攻击的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Generally, when a vehicle collides with a creature or other moving vehicle, the target can attempt a Reflex save (DC 15) to reduce the damage by half.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T125854Z" creationid="quentine" creationdate="20210710T125854Z">
+        <seg>一般来说，当载具与生物或移动中的载具相撞，目标可以尝试做一个反射豁免（DC15），使伤害减半。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27735,6 +28255,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Here is what a vehicle driver can do in a single round:</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T113839Z" creationid="quentine" creationdate="20210710T113839Z">
+        <seg>以下是载具驾驶员在一轮中所能做的事：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Heroes at risk of catching fire are allowed a Reflex saving throw (DC 15) to avoid this fate.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T132236Z" creationid="quentine" creationdate="20190115T132236Z">
@@ -27975,6 +28503,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>However, if the water is too deep or the bottom is too soft (GM’s discretion), the vehicle might not be able to move.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T111836Z" creationid="quentine" creationdate="20210710T111836Z">
+        <seg>但是，如果水太深或水底过于松软（由GM裁定），载具将无法移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, in so doing, the vehicle comes to a stop.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T125518Z" creationid="quentine" creationdate="20210709T125228Z">
+        <seg>但这么做会逼停载具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>However, it’s difficult to tell where the sound is coming from, requiring a Listen check (DC 15) to locate the source of the gunfire.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T110829Z" creationid="quentine" creationdate="20200117T110829Z">
@@ -28091,6 +28635,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190612T124313Z" creationid="quentine" creationdate="20190612T124313Z">
         <seg>而启动物品成功与否的检定花掉的时间算在这个攻击动作里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>However, the other driver does not need to make a check to retain control.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T113719Z" creationid="quentine" creationdate="20210710T113719Z">
+        <seg>但是，目标驾驶员无需进行驾驶检定以维持控制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28607,6 +29159,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If it fails by 10 or more, the vehicle rolls.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T133644Z" creationid="quentine" creationdate="20210710T133644Z">
+        <seg>若失败10点及以上，载具将翻滚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If it fails, the vehicle goes into a spin.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T133543Z" creationid="quentine" creationdate="20210710T133543Z">
+        <seg>若失败，载具将旋转。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If it has mechanical or electronic components, a Techie of 2nd level or higher can get maximum performance out of it.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190518T140329Z" creationid="quentine" creationdate="20190518T140329Z">
@@ -28747,6 +29315,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T153617Z" creationid="quentine" creationdate="20200117T153617Z">
         <seg>如果不是，将购买DC提高5点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If not, it pushes the other vehicle or object aside, if possible, and continues until it has moved the minimum number of squares for its new speed category.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T132000Z" creationid="quentine" creationdate="20210710T131509Z">
+        <seg>如果没有，且主撞方碰撞前的移动距离若未达到新速度档次的速度下限，主撞方将推动目标载具或物体继续移动，直到移动到新速度档次的速度下限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30255,6 +30831,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If the character’s movement is short and unobstructed, the character can do it as the equivalent of a 5-foot step.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T141605Z" creationid="quentine" creationdate="20210712T141605Z">
+        <seg>如果角色要移动的距离短而且没有障碍，角色改变位置的动作是一个五尺快步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If the character’s speed is greater than 30 feet, he or she gains a bonus of +4 for every 10 feet over 30.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191021T134256Z" creationid="quentine" creationdate="20191021T134256Z">
@@ -30439,6 +31023,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If the colliding vehicle moved the minimum number of squares for its new speed category before the collision, it ends its movement immediately.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T131525Z" creationid="quentine" creationdate="20210710T131339Z">
+        <seg>如果碰撞的载具在碰撞前已经移动的距离，超过了新速度档次的速度上限，载具会立即停止移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If the covering character has a Dex-terity bonus to Defense or a dodge bonus, and this bonus keeps the covering character from being hit, then the original target is hit in-stead.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210531T142228Z" creationid="qt911" creationdate="20210531T142228Z">
@@ -30495,6 +31087,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If the driver does so, however, he or she will be limited to a single stunt during movement.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T114216Z" creationid="quentine" creationdate="20210710T114216Z">
+        <seg>如果驾驶员这么做了，驾驶员在移动中至多只能做一个特技动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the driver is successful, the pursuer takes a –5 penalty on any Drive check needed to make the turn to follow the driver.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T140417Z" creationid="quentine" creationdate="20210712T140417Z">
+        <seg>如果驾驶员对抗成功，追踪者在所有需要转弯以跟随驾驶员时，所需的驾驶检定都将承受5点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If the eavesdropper beats the DC by 5 or more, he or she understands the secret message.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T132141Z" creationid="quentine" creationdate="20190808T135707Z">
@@ -30539,6 +31147,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190806T142832Z" creationid="quentine" creationdate="20190806T142002Z">
         <seg>如果游戏设定包括了魔法或者其他超自然效果，还将包括偏斜、增强、巨化、加速、固有、洞见、运气、亵渎、抗力、神圣这些加值学名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the gap is filled with water, the vehicle takes only half damage from the collision with the ground.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T111732Z" creationid="quentine" creationdate="20210710T111732Z">
+        <seg>如果沟壑里全是水，载具触地撞击只会受到一半伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30611,6 +31227,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191031T144138Z" creationid="quentine" creationdate="20191031T144138Z">
         <seg>如果对手在上风处，距离增加至60尺，在下风处，距离减至15尺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the other driver can make the turn using only simple maneuvers and does not have to make a Drive check, the Bluff attempt has no effect.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T140530Z" creationid="quentine" creationdate="20210712T140530Z">
+        <seg>如果追逐者对驾驶员的跟随只需要用到简单机动，则不需要做驾驶检定，唬骗将没有效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30871,6 +31495,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If the stunt is successful, the sideswiping vehicle and the target both take damage as if they had collided (see Collisions and Ramming), except that the collision multiplier is 1/4, and the target (or driver of the target vehicle) can make a Reflex save (DC 15) to reduce the damage to both by half.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T112848Z" creationid="quentine" creationdate="20210710T112848Z">
+        <seg>如果侧击成功，碰撞的双方都成熟伤害，等效于碰撞（见碰撞和冲撞），不同的是碰撞乘数是1/4，且目标（或目标载具的驾驶员）可以做一次反射豁免（DC15）以使双方所受的伤害都减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If the subject is worried about being followed, he or she can make a Spot check (opposed by the character’s Hide check) every time he or she changes course (goes around a street corner, exits a building, and so on).</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191004T140908Z" creationid="quentine" creationdate="20191004T140908Z">
@@ -30915,6 +31547,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210617T144813Z" creationid="qt911" creationdate="20210617T144651Z">
         <seg>如果目标正在擒抱他人，角色可以用一个攻击动作发动擒抱，步骤如上文，但目标不会有对角色的借机攻击，而且角色的攫抓阶段自动成功。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If the target is another vehicle the driver must succeed at a Drive check (DC 15) at the beginning of his or her next action or lose control of the vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T113015Z" creationid="quentine" creationdate="20210710T113015Z">
+        <seg>如果目标是另一辆载具的驾驶员，在下一次轮到其行动时必须做一次驾驶检定（DC15），失败会导致载具失控。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31031,6 +31671,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>If the vehicle doesn’t have enough movement left to clear the gap, it must complete the jump at the start of its next turn.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T094408Z" creationid="quentine" creationdate="20210710T094351Z">
+        <seg>如果载具所剩移动距离不足以移动至转向距离，则下回合必须完成剩下的距离并飞跃，不可中止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>If the weapon is held in two hands, it gets a +2 bonus to its Defense.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210609T135232Z" creationid="qt911" creationdate="20210609T135232Z">
@@ -31107,6 +31755,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191102T030307Z" creationid="quentine" creationdate="20191102T030307Z">
         <seg>如果不想进行借机攻击，被践踏者可以进行反射豁免以让伤害减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If this check is successful, the driver maintains control of the vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T133513Z" creationid="quentine" creationdate="20210710T133513Z">
+        <seg>若检定成功，驾驶员将维持对载具的控制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -31735,6 +32391,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>In general, a character can take two move actions, one move action and one attack action, or one full-round action in a round.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T140858Z" creationid="quentine" creationdate="20210712T140858Z">
+        <seg>一般来说，角色可以在一轮的时间里，做两个移动动作，或是一个移动一个攻击，或是一个整轮动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>In general, a character needs only one hand to use any object that is of his or her size category or smaller.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191105T141614Z" creationid="quentine" creationdate="20191105T141614Z">
@@ -32051,6 +32715,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190806T135741Z" creationid="quentine" creationdate="20190806T135741Z">
         <seg>在这些情况下，角色进行属性检定：掷1d20+合适的属性调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>In these cases, the driver must make a Drive check to retain control of the vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T133454Z" creationid="quentine" creationdate="20210710T133454Z">
+        <seg>这时，驾驶员必须做一个驾驶检定以维持对载具的控制。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33399,6 +34071,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>It’s modified by the relative size and speed of the target.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T113111Z" creationid="quentine" creationdate="20210710T113111Z">
+        <seg>DC会加上相对尺寸差距和目标速度对应的调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>It’s possible to purchase similar items with luxury features, generally by increasing the purchase DC by 1.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191104T142655Z" creationid="quentine" creationdate="20191104T142644Z">
@@ -33451,6 +34131,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190704T130852Z" creationid="quentine" creationdate="20190704T130852Z">
         <seg>喷气战斗机包括歼击机和攻击机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Just before making a turn onto an off-ramp or side street, make a Bluff check opposed by the pursuer’s Sense Motive check.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T140242Z" creationid="quentine" creationdate="20210712T140242Z">
+        <seg>驾驶员只需要在驶入匝道或路口前，以唬骗检定与追踪者的察言观色检定作对抗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33779,6 +34467,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190808T142925Z" creationid="quentine" creationdate="20190808T142925Z">
         <seg>要这么做需要做一个攀爬检定（DC为墙的DC再加20）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Make a Drive check (DC 15) to retain control (see Losing Control).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T093932Z" creationid="quentine" creationdate="20210710T093125Z">
+        <seg>且还要做一次驾驶检定（DC15）以维持对载具的控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Make a Drive check to retain control against a DC equal to the DC for the bootleg turn attempted (see Losing Control).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T130200Z" creationid="quentine" creationdate="20210709T130200Z">
+        <seg>此外还要再做一次驾驶检定以维持对载具的控制，DC与甩尾所需DC相同（见`失控`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34831,6 +35535,46 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>On a failed check, both vehicles take damage as though the sideswipe attempt was a success.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T113638Z" creationid="quentine" creationdate="20210710T113638Z">
+        <seg>若检定失败，双方都承受伤害，与检定成功完全一样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On a failed check, instead of facing the desired direction, the vehicle only changes facing by 45 degrees.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T125941Z" creationid="quentine" creationdate="20210709T125941Z">
+        <seg>若检定失败，载具将只转向45度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On a failed check, the vehicle continues to move forward a number of squares equal to its turn number before turning, just as with a simple 45-degree turn.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T093900Z" creationid="quentine" creationdate="20210710T093900Z">
+        <seg>若检定失败，载具将继续移动直到满足转向距离再转向，与45度转向完全相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On a failed check, the vehicle does not change speed categories.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T131120Z" creationid="quentine" creationdate="20210709T131120Z">
+        <seg>如果检定失败，载具不会改变其速度档次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>On a failed check, the vehicle fails to clear the gap, and instead falls into it (or collides with the far side).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T094614Z" creationid="quentine" creationdate="20210710T094614Z">
+        <seg>如果检定失败，载具将无法飞跃，坠入沟壑（或撞上对岸）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>On a failed check, the vehicle hits the obstacle.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210707T141027Z" creationid="quentine" creationdate="20210707T141027Z">
@@ -35063,6 +35807,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Once it stops, roll 1d8 to determine its new facing: 1, no change; 2, right 45 degrees; 3, right 90 degrees; 4, right 135 degrees; 5, 180 degrees; 6, left 135 degrees; 7, left 90 degrees; 8, left 45 degrees.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T134529Z" creationid="quentine" creationdate="20210710T134529Z">
+        <seg>停止时，掷骰1d8以决定新朝向：1、不变；2、右转45度；3、右转90度；4、右转135度；5、180度；6、左转135度；7、左转90度；8、左转45度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Once modified to fire on automatic, the TEC-9 cannot be changed back to semiautomatic.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200419T015230Z" creationid="quentine" creationdate="20200419T015230Z">
@@ -35123,6 +35875,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190620T134444Z" creationid="quentine" creationdate="20190620T134431Z">
         <seg>一但灵力水晶耗尽，异能者必须使用自己的5点灵力点充满水晶。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Once the damage has been determined, apply it to both vehicles (or objects or creatures) involved in the collision.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T131058Z" creationid="quentine" creationdate="20210710T131058Z">
+        <seg>得出最终伤害后，将伤害应用到碰撞的双方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35527,6 +36287,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190526T114412Z" creationid="quentine" creationdate="20190526T114412Z">
         <seg>没有意外的话，目标会在等于明星等级的分钟数内，保持信任状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Otherwise, it requires a move action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T141617Z" creationid="quentine" creationdate="20210712T141617Z">
+        <seg>否则都需要一个移动动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36201,6 +36969,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Rather than force the GM to create, or remember, statistics for everyone aboard a vehicle, vehicle statistics include a general “crew quality” descriptor.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T143034Z" creationid="quentine" creationdate="20210712T142808Z">
+        <seg>载具有一项“车组水平”指标以概括所有乘员的战斗素质，这样GM就不需要为NPC车组创建每一个乘员的详细情况了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Readying does not provoke an attack of opportunity.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210602T132154Z" creationid="qt911" creationdate="20210602T132154Z">
@@ -36369,6 +37145,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Remember that the check/roll modifier from Table: Vehicle Speeds and Modifiers applies to all Drive checks.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T133819Z" creationid="quentine" creationdate="20210710T133819Z">
+        <seg>注意`表：载具速度与调整值`中的检定/掷骰调整值对所有驾驶检定有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Remember to apply this modifier to the purchase DC when making a Wealth check to acquire the armor on the black market.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200526T133402Z" creationid="quentine" creationdate="20200526T133402Z">
@@ -36405,6 +37189,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200410T134430Z" creationid="quentine" creationdate="20200410T134430Z">
         <seg>记住一定要在黑市购买进行财富检定时加上这些调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Reorient the vehicle accordingly.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T134625Z" creationid="quentine" creationdate="20210710T134625Z">
+        <seg>然后载具转向到新朝向。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36557,6 +37349,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T110920Z" creationid="quentine" creationdate="20201118T110920Z">
         <seg>进行多次伤害掷骰（每次都应用全部调整值）并计算总和。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Roll to determine its new facing as indicated above.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T134707Z" creationid="quentine" creationdate="20210710T134707Z">
+        <seg>按上文规则掷骰决定新朝向。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38353,6 +39153,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Table: Vehicle Crew Quality shows the five levels of crew quality for GM-controlled vehicle crews, along with the appropriate check modifier.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T143223Z" creationid="quentine" creationdate="20210712T143001Z">
+        <seg>`表：车组水平`提供了五个等级的车组水平，GM扮演的不同水平的车组都有相应的检定调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Tactical Map: A tactical map covers a small area—usually a few miles on a side—in exacting detail.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200116T094651Z" creationid="quentine" creationdate="20200116T094651Z">
@@ -39077,6 +39885,54 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190808T134830Z" creationid="quentine" creationdate="20190808T134830Z">
         <seg>基本信息的DC是10。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The DC for a bootleg turn depends on the change in facing.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T125857Z" creationid="quentine" creationdate="20210709T125857Z">
+        <seg>甩尾所需DC取决于转向的角度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The DC for a dash is 15.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T131014Z" creationid="quentine" creationdate="20210709T131006Z">
+        <seg>猛冲的DC为15。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The DC for a hard brake is 15.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T131904Z" creationid="quentine" creationdate="20210709T131904Z">
+        <seg>急刹车的DC为15。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The DC for a hard turn is 15.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T093631Z" creationid="quentine" creationdate="20210710T093631Z">
+        <seg>急转弯的DC为15。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The DC for a jump depends on the width of the gap, modified by the vehicle’s speed category.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T094516Z" creationid="quentine" creationdate="20210710T094516Z">
+        <seg>飞跃的DC取决于沟壑的宽度，加上载具的速度档次的调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The DC for a sideswipe is 15.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T113027Z" creationid="quentine" creationdate="20210710T113027Z">
+        <seg>侧击的DC为15。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41137,6 +41993,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The base amount of damage depends on the cover offered by the vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T133123Z" creationid="quentine" creationdate="20210710T133123Z">
+        <seg>基本伤害值取决于载具提供的掩蔽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The base damage dealt by a vehicle collision depends on the speed and size of the objects involved.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T125944Z" creationid="quentine" creationdate="20210710T125944Z">
+        <seg>载具碰撞造成的基础伤害取决于相关物体的速度与尺寸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The base number of power points available per day is shown on the table above.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190619T141744Z" creationid="quentine" creationdate="20190619T141744Z">
@@ -41645,8 +42517,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv xml:lang="en-US">
         <seg>The character can use the feat once per round as a free action.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190802T131508Z" creationid="quentine" creationdate="20190802T131508Z">
-        <seg>角色每轮可以以一个即使动作使用此专长。</seg>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T141858Z" creationid="quentine" creationdate="20190802T131508Z">
+        <seg>角色每轮可以以一个即时动作使用此专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42789,10 +43661,50 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The driver can only succeed at one dash per round.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T131101Z" creationid="quentine" creationdate="20210709T131101Z">
+        <seg>驾驶员每轮只能成功发动一次猛冲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The driver can only succeed at one hard break per round.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T143930Z" creationid="quentine" creationdate="20210709T143930Z">
+        <seg>驾驶员每轮只能成功发动一次猛冲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The driver may also attempt a single stunt as part of the movement (or two, if the driver didn’t take his or her attack action before moving).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T114852Z" creationid="quentine" creationdate="20210710T114852Z">
+        <seg>驾驶员也可以尝试做一次特技动作（或者两次，如果驾驶员在移动前没用过攻击动作），特技动作也属于移动的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The driver moves his or her vehicle into the other vehicle’s square and states that he or she is attempting to ram.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210701T141207Z" creationid="qt911" creationdate="20210701T141207Z">
         <seg>驾驶员需要将载具驾驶到另一辆载具所在的方格，并宣布发动冲撞。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The driver of the other vehicle must succeed on a Drive check (DC 15) at the beginning of his or her next action or lose control of his or her vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T132853Z" creationid="quentine" creationdate="20210710T132853Z">
+        <seg>被撞方的驾驶员必须在下一次行动前做一次驾驶检定，检定失败将失去对载具的控制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The driver of the vehicle that caused the collision must immediately make a Drive check (DC 15) or lose control of the vehicle (see Losing Control, below).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T132721Z" creationid="quentine" creationdate="20210710T132721Z">
+        <seg>主撞方的驾驶员必须立即做一次驾驶检定（DC15），检定失败将失去对载具的控制（见下文`失控`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43269,6 +44181,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The following rules provide a further framework for combat involving vehicles.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T140655Z" creationid="quentine" creationdate="20210712T140655Z">
+        <seg>以下规则是有关载具的额外战斗规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The following text is the property of Wizards of the Coast, Inc.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181022T033735Z" creationid="QuenTine" creationdate="20181022T033352Z">
@@ -43287,8 +44207,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv xml:lang="en-US">
         <seg>The four types of actions are attack actions, move actions, full-round actions, and free actions.</seg>
       </tuv>
-      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T125557Z" creationid="quentine" creationdate="20201119T125557Z">
-        <seg>有四种动作类型，分别为攻击动作、移动动作、整轮动作和即使动作。</seg>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T141906Z" creationid="quentine" creationdate="20201119T125557Z">
+        <seg>有四种动作类型，分别为攻击动作、移动动作、整轮动作和即时动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43801,6 +44721,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181103T131456Z" creationid="QuenTine" creationdate="20181103T131456Z">
         <seg>正常人类的数值范围是3到18。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The normal size modifiers apply, but because the driver is hiding among other vehicles, most of which are size Large or Huge, he or she gains a +8 bonus on the check.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T135713Z" creationid="quentine" creationdate="20210712T135713Z">
+        <seg>体积调整值也会和一般躲藏规则一样应用，但因为驾驶员是隐藏在其他载具中的，载具大多为大型或超大型，驾驶员的检定将会获得8点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45014,6 +45942,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The vehicle can only drive out of the gap if the walls are not too steep.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T110410Z" creationid="quentine" creationdate="20210710T110410Z">
+        <seg>如果沟壁不是太陡峭，载具可以且只能开出沟壑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The vehicle ends its movement in that location, at stationary speed.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T125818Z" creationid="quentine" creationdate="20210709T125818Z">
+        <seg>载具将在该位置停止移动，处于静止速度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The vehicle must move forward at least a number of squares equal to its turn number (shown on Table: Vehicle Speeds and Modifiers) before it can turn.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210701T140534Z" creationid="qt911" creationdate="20210701T140534Z">
@@ -45026,6 +45970,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190801T142605Z" creationid="quentine" creationdate="20190801T142605Z">
         <seg>然后目标载具将以静止速度停在目的地，承受正常的侧击伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>The vehicle’s occupants take damage equal to 2d4 x the character scale turn number for its speed (Reflex save, DC 15, for half damage).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T135649Z" creationid="quentine" creationdate="20210710T135531Z">
+        <seg>载具乘员都受到伤害，伤害值=2d4×角色尺度下当前速度档次的转向距离（可做DC15的反射豁免使伤害减半）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45202,6 +46154,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210618T133923Z" creationid="qt911" creationdate="20210618T133923Z">
         <seg>一个载具只能同时有一个驾驶员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>There is no movement cost.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T112546Z" creationid="quentine" creationdate="20210710T112546Z">
+        <seg>无需耗费移动距离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46711,6 +47671,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>This indicates a typical crew’s aptitude with the vehicle’s systems.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T143125Z" creationid="quentine" creationdate="20210712T142903Z">
+        <seg>这项指标代表了乘员与载具系统的总体水平。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>This innate talent provides a bonus on checks involving interaction skills (Bluff, Diplomacy, Handle Animal, Intimidate, Perform, and Sense Motive), provided the hero spends at least 1 minute observing his or her target prior to making the skill check.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190202T034500Z" creationid="quentine" creationdate="20190202T034500Z">
@@ -47619,6 +48587,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>This use of the Hide skill can only be attempted in fairly heavy traffic; in lighter traffic, the GM might not allow it or might apply a penalty to the check.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T135942Z" creationid="quentine" creationdate="20210712T135942Z">
+        <seg>躲藏技能只能在相当拥挤的车流中使用；如果车流较稀疏，GM可裁定不允许使用躲藏，或在躲藏检定中额外附加减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>This use of the Investigate skill requires an evidence kit.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191020T022542Z" creationid="quentine" creationdate="20191020T022542Z">
@@ -48035,10 +49011,34 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>To make a Hide check, use the normal rules for hiding (see the Hide skill description).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T135500Z" creationid="quentine" creationdate="20210712T135500Z">
+        <seg>如果要做躲藏检定，应当应用一般的躲藏规则（见`躲藏`技能描述）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To make a bootleg turn, simply change the vehicle’s facing to the desired direction.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T125743Z" creationid="quentine" creationdate="20210709T125743Z">
+        <seg>甩尾就是将载具直接转向到想要面朝的方向。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>To make a favor check, roll a d20 and add the character’s favor bonus, equal to the character’s Charismatic level.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190203T041040Z" creationid="quentine" creationdate="20190202T123114Z">
         <seg>进行求援检定，就是d20+魅力等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>To make a jump, the vehicle must move in a straight line a number of squares equal to its turn number.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T094151Z" creationid="quentine" creationdate="20210710T094151Z">
+        <seg>载具必须径直移动等于其`转向距离`的方格数，才能开始飞跃。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48811,6 +49811,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Use the highest speed and the smallest size of the two colliding objects and refer to Table: Collision Damage.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T130240Z" creationid="quentine" creationdate="20210710T130240Z">
+        <seg>两者的速度取最大值，尺寸取最小值，参照`表：碰撞伤害`得出所需伤害骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Use the rules for thrown explosives.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210607T134851Z" creationid="qt911" creationdate="20210607T134851Z">
@@ -49507,6 +50515,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>When a vehicle takes damage from a collision, its occupants may take damage as well.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T133017Z" creationid="quentine" creationdate="20210710T133017Z">
+        <seg>载具遭受碰撞伤害时，载具的乘员也将受到伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>When a vehicle tries to move through a square occupied by a hazard, the driver must succeed on a Drive check to avoid the hazard and continue moving.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210707T140348Z" creationid="quentine" creationdate="20210707T140348Z">
@@ -49543,6 +50559,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190923T124819Z" creationid="quentine" creationdate="20190923T124819Z">
         <seg>当角色试图创作视觉艺术时，角色只需做一次制造（视觉艺术）检定，检定结果决定作品的质量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When being pursued, a driver can attempt a Hide check to lose the pursuer in heavy traffic, or a Bluff check to misdirect the pursuer before turning onto an off-ramp or a side street.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T135414Z" creationid="quentine" creationdate="20210712T135414Z">
+        <seg>当载具正在被追逐时，如果载具在拥挤的车流中，驾驶员可以尝试做一个躲藏检定来甩掉追逐者；或者在匝道岔路或街道路口前做一个唬骗检定来误导追逐者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49791,6 +50815,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191030T124926Z" creationid="quentine" creationdate="20190115T113958Z">
         <seg>当损失了暂时生命值，它们不能像真实的生命值那样恢复，即使使用医疗或者魔法都不可以。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When that happens, a collision occurs (see Collisions and Ramming, above).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T133929Z" creationid="quentine" creationdate="20210710T133929Z">
+        <seg>这样会发生`碰撞`（见上文`碰撞与冲撞`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -53033,6 +54065,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>|Colliding Vehicle’s Target|Multiplier|
+|--------------------------|:--------:|
+|A stationary object|x 1|
+|A moving vehicle, striking head-on or 45 degrees from head-on|x 2|
+|A moving vehicle, striking perpendicular|x 1|
+|A moving vehicle, striking from the rear or 45 degrees from the rear|x 1/2|
+|A vehicle being sideswiped (see Sideswipe)|x 1/4|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T132536Z" creationid="quentine" creationdate="20210710T132536Z">
+        <seg>|碰撞目标|乘数|
+|--------------------------|:--------:|
+|静态目标|x 1|
+|移动载具，对撞或相对对撞偏离45度|x 2|
+|移动载具，垂直撞上|x 1|
+|移动载具，追尾或相对追尾偏离45度|x 1/2|
+|侧击载具（见`侧击`）|x 1/4|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>|Components|DC Modifier|
 |----------|-----------|
 |Frame Shape and Locomotion\*|
@@ -53225,6 +54277,24 @@ This section covers offensive and defensive modifiers provided by position.</seg
 |--------------------|:----------------:|
 |四分之三|+5|
 |十分之九|+10|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>|Cover|Damage|
+|-----|------|
+|None|Same as damage taken by vehicle|
+|One-quarter|One-half damage taken by vehicle|
+|One-half|One-quarter damage taken by vehicle|
+|Three-quarters or more|None|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T133312Z" creationid="quentine" creationdate="20210710T133312Z">
+        <seg>|掩蔽|伤害|
+|-----|------|
+|无|等于载具所受伤害|
+|四分之一|载具所受伤害的一半|
+|半掩蔽|载具所受伤害的四分之一|
+|四分之三及以上|无|</seg>
       </tuv>
     </tu>
     <tu>
@@ -53591,6 +54661,24 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>|Facing Change|DC|
+|------------|:-:|
+|45 degrees|5|
+|90 degrees|10|
+|135 degrees|15|
+|180 degrees|20|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210709T130243Z" creationid="quentine" creationdate="20210709T130243Z">
+        <seg>|转向角度|DC|
+|------------|:-:|
+|45度|5|
+|90度|10|
+|135度|15|
+|180度|20|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>|Factor|Check Modifier|Time|
 |------|:------------:|----|
 |Document Type|||
@@ -53715,6 +54803,18 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>|Gap Width|DC|
+|--------|:-:|
+|1–3 ft.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T094734Z" creationid="quentine" creationdate="20210710T094734Z">
+        <seg>|沟壑宽度|DC|
+|--------|:-:|
+|1-3尺</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>|HD|Effect|
 |--|------|
 |12 or more|Dazed|
@@ -53775,6 +54875,24 @@ This section covers offensive and defensive modifiers provided by position.</seg
 |2 尺|8|6 尺|24|
 |3 尺|12|7 尺|28|
 |4 尺|16|8 尺|32|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>|Highest Speed|Damage Die Type|
+|-------------|:-------------:|
+|Alley speed|d2|
+|Street speed|d4|
+|Highway speed|d8|
+|All-out|d12|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T130346Z" creationid="quentine" creationdate="20210710T130346Z">
+        <seg>|速度最高者|伤害骰类型|
+|-------------|:-------------:|
+|巷速|d2|
+|街速|d4|
+|高速|d8|
+|极速|d12|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55063,6 +56181,32 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>|Smallest Object or Creature Size|Number of Dice|
+|--------------------------------|:------------:|
+|Colossal|20|
+|Gargantuan|16|
+|Huge|12|
+|Large|8|
+|Medium-size|4|
+|Small|2|
+|Tiny|1|
+|Smaller than Tiny|0|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T130503Z" creationid="quentine" creationdate="20210710T130503Z">
+        <seg>|尺寸最小者|骰子数量|
+|--------------------------------|:------------:|
+|超巨型|20|
+|巨型|16|
+|超大型|12|
+|大型|8|
+|普通|4|
+|小型|2|
+|超小型|1|
+|超小型以下|0|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>|Speed Category|Character Scale Movement\*|Character Scale Turn Number\*\*|Chase Scale Movement\*|Chase Scale Turn Number\*\*|Defense Modifier|Check/Roll Modifier|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |Stationary\*\*\*|0|—|0|—|+0|—|
@@ -55199,6 +56343,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
 |松软|10|
 |坚实|15|
 |坚硬|20|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>|Target Condition|DC Modifier|
+|----------------|:---------:|
+|Each size category larger|–5|
+|Each size category smaller|+5|
+|Each speed category of difference|–2|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T113546Z" creationid="quentine" creationdate="20210710T113546Z">
+        <seg>|目标情况|DC调整值|
+|----------------|:---------:|
+|自身每大于目标一级|–5|
+|自身每小于目标一级|+5|
+|速度档次差的绝对值乘以|–2|</seg>
       </tuv>
     </tu>
     <tu>
@@ -55561,6 +56721,24 @@ This section covers offensive and defensive modifiers provided by position.</seg
 |超大型|–2|奢侈型汽车、SUV、武装汽车|
 |大型|–1|经适车、哈雷|
 |普通|+0|竞赛摩托车、越野摩托车|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>|Vehicle Speed Category|DC Modifier|
+|----------------------|:---------:|
+|Alley speed|+10|
+|Street speed|+5|
+|Highway speed|+0|
+|All-out|–5|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T095204Z" creationid="quentine" creationdate="20210710T095204Z">
+        <seg>|载具速度档次|DC调整值|
+|----------------------|:---------:|
+|巷速|+10|
+|街速|+5|
+|高速|+0|
+|极速|–5|</seg>
       </tuv>
     </tu>
     <tu>

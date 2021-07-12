@@ -117,7 +117,7 @@
 
 **简单机动：** 容易做出的操作即简单机动，如45度角旋转。这些都是即时动作，驾驶员在一次移动中可以做多次简单机动。但是，简单机动仍然要花费移动距离——这意味着载具频繁转向所能移动的距离不如径直移动。简单机动不需要驾驶员做技能检定。
 
-**特技：** 特技相对来说更困难，有时可以通过特技来猛然加速或者以更小的角度转向，这是简单机动所做不到的。特技是一个移动动作。用特技来操控载具需要一个移动动作，而再次使用特技则需要一个攻击动作。特技都需要做驾驶检定。
+**特技：** 特技相对来说更困难，有时可以通过特技来猛然加速或者急转弯，这是简单机动所做不到的。特技是一个移动动作。用特技来操控载具需要一个移动动作，而再次使用特技则需要一个攻击动作。特技都需要做驾驶检定。
 
 ## 简单机动
 
@@ -155,208 +155,208 @@
 |||
 |结构|不可规避|
 
-**Bootleg Turn:** By making a bootleg turn, a driver can radically change direction without turning in a loop. However, in so doing, the vehicle comes to a stop.
+**甩尾：** 驾驶员可以用甩尾来使车辆紧急调头，无需绕圈。但这么做会逼停载具。
 
-Before a vehicle can make a bootleg turn, it must move in a straight line at least a number of squares equal to its turn number. To make a bootleg turn, simply change the vehicle’s facing to the desired direction. The vehicle ends its movement in that location, at stationary speed.
+载具必须径直移动等于其`转向距离`的方格数，才能开始甩尾。甩尾就是将载具直接转向到想要面朝的方向。载具将在该位置停止移动，处于静止速度。
 
-The DC for a bootleg turn depends on the change in facing.
+甩尾所需DC取决于转向的角度。
 
-On a failed check, instead of facing the desired direction, the vehicle only changes facing by 45 degrees. Make a Drive check to retain control against a DC equal to the DC for the bootleg turn attempted (see Losing Control).
+若检定失败，载具将只转向45度。此外还要再做一次驾驶检定以维持对载具的控制，DC与甩尾所需DC相同（见`失控`）。
 
-|Facing Change|DC|
+|转向角度|DC|
 |------------|:-:|
-|45 degrees|5|
-|90 degrees|10|
-|135 degrees|15|
-|180 degrees|20|
+|45度|5|
+|90度|10|
+|135度|15|
+|180度|20|
 
-**Dash:** With a dash stunt, a driver can increase the vehicle’s speed by one category. (This increase is in addition to any speed change made at the beginning of the driver’s action; if the driver increased speed at that time, he or she can accelerate a total of two categories in the same round.) The vehicle’s total movement for the round cannot exceed the maximum number of squares for its new speed category. (The squares it has already moved before attempting the dash count against this total.)
+**猛冲：** 驾驶员可以用`猛冲`特技，将载具速度提高一个速度档次。（这次提速是独立于驾驶员行动开始时的变速的；如果驾驶员在行动开始时加速过了，就相当于同一轮内提高了两个速度档次。）载具在该轮的总移动距离不能超过新速度档次所限定的最大移动距离。（猛冲前已经移动过的距离也计入总距离。）
 
-The DC for a dash is 15. The driver can only succeed at one dash per round.
+猛冲的DC为15。驾驶员每轮只能成功发动一次猛冲。
 
-On a failed check, the vehicle does not change speed categories.
+如果检定失败，载具不会改变其速度档次。
 
-**Hard Brake:** With a hard brake stunt, a driver can reduce the vehicle’s speed by up to two categories. (This is in addition to any speed change made at the beginning of his action; if the driver reduced speed at that time, he or she can drop a total of three categories in the same round.) The vehicle’s movement for the round ends as soon as it has moved the minimum number of squares for its new speed category. (If it has already moved that far before attempting the hard brake, it ends its movement immediately.)
+**急刹车：** 驾驶员可以用`急刹车`使载具的速度降低至多两个档次。（这次减速是独立于驾驶员行动开始时的变速的；如果驾驶员在行动开始时减速过了，就相当于在同一轮内可以降低三个速度档次。）载具在该轮的已移动距离若超过新速度档次所限定的最大移动距离，本轮将无法再移动。（如果在急刹车前，载具的已移动距离就已经超过了该值，将立刻用完所有的可移动距离。）
 
-The DC for a hard brake is 15.  The driver can only succeed at one hard break per round.
+急刹车的DC为15。驾驶员每轮只能成功发动一次猛冲。
 
-On a failed check, the vehicle does not change speed categories. Make a Drive check (DC 15) to retain control (see Losing Control).
+如果检定失败，载具不会改变其速度档次。且还要做一次驾驶检定（DC15）以维持对载具的控制。
 
-**Hard Turn:** A hard turn allows a vehicle to make a turn in a short distance without losing speed.
+**急转弯：** A hard turn allows a vehicle to make a turn in a short distance without losing speed.
 
-A hard turn functions like a 45-degree turn simple maneuver, except that the vehicle only needs to move forward a number of squares equal to half its turn number (rounded down).
+急转弯的效果与45度转向一样，区别在于载具只需径直移动其`转向距离`一半的方格数（向下取整）。
 
-The DC for a hard turn is 15.
+急转弯的DC为15。
 
-On a failed check, the vehicle continues to move forward a number of squares equal to its turn number before turning, just as with a simple 45-degree turn. Make a Drive check (DC 15) to retain control (see Losing Control).
+若检定失败，载具将继续移动直到满足转向距离再转向，与45度转向完全相同。且还要做一次驾驶检定（DC15）以维持对载具的控制。
 
-**Jump:** A driver can attempt to jump his or her vehicle across a gap in his or her path.
+**飞跃：** 驾驶员可以尝试驾驶载具飞跃沟壑。
 
-To make a jump, the vehicle must move in a straight line a number of squares equal to its turn number. If the vehicle doesn’t have enough movement left to clear the gap, it must complete the jump at the start of its next turn.
+载具必须径直移动等于其`转向距离`的方格数，才能开始飞跃。如果载具所剩移动距离不足以移动至转向距离，则下回合必须完成剩下的距离并飞跃，不可中止。
 
-The DC for a jump depends on the width of the gap, modified by the vehicle’s speed category.
+飞跃的DC取决于沟壑的宽度，加上载具的速度档次的调整值。
 
-On a failed check, the vehicle fails to clear the gap, and instead falls into it (or collides with the far side). Determine damage as for a collision (see Collisions and Ramming).
+如果检定失败，载具将无法飞跃，坠入沟壑（或撞上对岸）。伤害按碰撞规则结算（见`碰撞与冲撞`）.
 
-|Gap Width|DC|
+|沟壑宽度|DC|
 |--------|:-:|
-|1–3 ft. (ditch)|15|
-|4–8 ft. (culvert)|20|
-|8–15 ft. (creek, small ravine)|25|
-|16–25 ft. (narrow road, small pond)|35|
-|26–40 ft. (wide road, small river)|45|
+|1-3尺（壕沟）|15|
+|4–8 尺（排水渠）|20|
+|8–15 尺（小溪、山涧）|25|
+|16–25 尺（窄路、小池塘）|35|
+|26–40 尺（宽路、小河）|45|
 
-|Vehicle Speed Category|DC Modifier|
+|载具速度档次|DC调整值|
 |----------------------|:---------:|
-|Alley speed|+10|
-|Street speed|+5|
-|Highway speed|+0|
-|All-out|–5|
+|巷速|+10|
+|街速|+5|
+|高速|+0|
+|极速|–5|
 
-A shallow gap (1 to 3 feet deep) is equivalent to a Medium-size object; the vehicle may be able to avoid taking collision damage from the failed jump by treating the far side as a hazard and then continue moving (see Avoid Hazard, above).
+浅沟壑（1到3尺深）等价于普通尺寸的物体；对岸区域会被视为险情，若飞跃检定失败，载具可以通过`避险`来避免飞跃失败所带来的碰撞伤害（见上文`避险`）。
 
-A moderately deep gap (4 to 10 feet deep) is equivalent to a Huge object. The vehicle can only drive out of the gap if the walls are not too steep.
+中沟壑（4到10尺深）等价于超大型尺寸的物体。如果沟壁不是太陡峭，载具可以且只能开出沟壑。
 
-A deeper gap (11 feet or deeper) is equivalent to a Colossal object. The vehicle can only drive out of the gap if the walls are not too steep.
+深沟壑（深度大于等于11尺）等价于超巨型物体。如果沟壁不是太陡峭，载具可以且只能开出沟壑。
 
-If the gap is filled with water, the vehicle takes only half damage from the collision with the ground. However, if the water is too deep or the bottom is too soft (GM’s discretion), the vehicle might not be able to move.
+如果沟壑里全是水，载具触地撞击只会受到一半伤害。但是，如果水太深或水底过于松软（由GM裁定），载具将无法移动。
 
-**Sideswipe:** During a vehicle’s movement, a driver can attempt to sideswipe a vehicle or other target, either to deal damage without fully ramming it or to cause another driver to lose control of his or her vehicle.
+**侧击：** 载具移动时，驾驶员可以用载具的侧面撞击其他载具或目标，可以造成伤害，或者逼目标驾驶员失去对载具的控制。
 
-At character scale, a vehicle must be side by side with its target (that is, occupying the square or squares directly to its side) and moving in the same direction. Attempting a sideswipe costs 1 square of movement.
+在角色尺度下，载具必须侧面紧邻目标（自身侧面占据的方格与目标侧面占据的方格相邻），且移动方向要相同。尝试执行侧击需耗费1格移动距离。
 
-At chase scale, the vehicle must be in the same square as its target and moving in the same direction. There is no movement cost.
+追逐尺度下，载具必须与目标处于同一方格，且移动方向要相同。无需耗费移动距离。
 
-If the stunt is successful, the sideswiping vehicle and the target both take damage as if they had collided (see Collisions and Ramming), except that the collision multiplier is 1/4, and the target (or driver of the target vehicle) can make a Reflex save (DC 15) to reduce the damage to both by half. If the target is another vehicle the driver must succeed at a Drive check (DC 15) at the beginning of his or her next action or lose control of the vehicle.
+如果侧击成功，碰撞的双方都成熟伤害，等效于碰撞（见碰撞和冲撞），不同的是碰撞乘数是1/4，且目标（或目标载具的驾驶员）可以做一次反射豁免（DC15）以使双方所受的伤害都减半。如果目标是另一辆载具的驾驶员，在下一次轮到其行动时必须做一次驾驶检定（DC15），失败会导致载具失控。
 
-The DC for a sideswipe is 15. It’s modified by the relative size and speed of the target.
+侧击的DC为15。DC会加上相对尺寸差距和目标速度对应的调整值。
 
-|Target Condition|DC Modifier|
+|目标情况|DC调整值|
 |----------------|:---------:|
-|Each size category larger|–5|
-|Each size category smaller|+5|
-|Each speed category of difference|–2|
+|自身每大于目标一级|–5|
+|自身每小于目标一级|+5|
+|速度档次差的绝对值乘以|–2|
 
-On a failed check, both vehicles take damage as though the sideswipe attempt was a success. However, the other driver does not need to make a check to retain control.
+若检定失败，双方都承受伤害，与检定成功完全一样。但是，目标驾驶员无需进行驾驶检定以维持控制。
 
-## Driver Options
+## 驾驶员选项
 
-Here is what a vehicle driver can do in a single round:
+以下是载具驾驶员在一轮中所能做的事：
 
-**Choose the Vehicle’s Speed:** The driver may increase or decrease his or her vehicle’s speed category by one (or keep it the same).
+**选择载具速度：** 驾驶员可以让载具增加或减少一级速度档次（或维持现状）。
 
-**Optional Attack Action:** If the driver wants, he or she can use his or her attack action before moving the vehicle. If the driver does so, however, he or she will be limited to a single stunt during movement.
+**攻击动作（可选）：** 驾驶员可以选择在移动载具之前使用攻击动作。如果驾驶员这么做了，驾驶员在移动中至多只能做一个特技动作。
 
-**Movement:** Move the vehicle any number of squares within the vehicle’s speed category. Along the way, perform any number of simple maneuvers (limited only by their movement cost). The driver may also attempt a single stunt as part of the movement (or two, if the driver didn’t take his or her attack action before moving).
+**移动：** 移动不超过载具速度档次所限的距离。在途中可执行任意次的简单机动（只要移动距离还够）。驾驶员也可以尝试做一次特技动作（或者两次，如果驾驶员在移动前没用过攻击动作），特技动作也属于移动的一部分。
 
-**Optional Attack Action:** If the driver did not take an attack action before moving, and performed one or fewer stunts, the driver has an attack action left.
+**攻击动作（可选）：** 如果驾驶员在移动前没有使用过攻击动作，只做过一次或者没做过特技，那么驾驶员则还有一次使用攻击动作的机会。
 
-## Collisions and Ramming
+## 碰撞与冲撞
 
-A collision occurs when a vehicle strikes another vehicle or a solid object. Generally, when a vehicle collides with a creature or other moving vehicle, the target can attempt a Reflex save (DC 15) to reduce the damage by half.
+当载具与另一载具或固态物体相撞，将发生`碰撞`。一般来说，当载具与生物或移动中的载具相撞，目标可以尝试做一个反射豁免（DC15），使伤害减半。
 
-## Resolving Collisions
+## 计算碰撞
 
-The base damage dealt by a vehicle collision depends on the speed and size of the objects involved. Use the highest speed and the smallest size of the two colliding objects and refer to Table: Collision Damage.
+载具碰撞造成的基础伤害取决于相关物体的速度与尺寸。两者的速度取最大值，尺寸取最小值，参照`表：碰撞伤害`得出所需伤害骰。
 
-**Table: Collision Damage**
+**表：碰撞伤害**
 
-|Highest Speed|Damage Die Type|
+|速度最高者|伤害骰类型|
 |-------------|:-------------:|
-|Alley speed|d2|
-|Street speed|d4|
-|Highway speed|d8|
-|All-out|d12|
+|巷速|d2|
+|街速|d4|
+|高速|d8|
+|极速|d12|
 
-|Smallest Object or Creature Size|Number of Dice|
+|尺寸最小者|骰子数量|
 |--------------------------------|:------------:|
-|Colossal|20|
-|Gargantuan|16|
-|Huge|12|
-|Large|8|
-|Medium-size|4|
-|Small|2|
-|Tiny|1|
-|Smaller than Tiny|0|
+|超巨型|20|
+|巨型|16|
+|超大型|12|
+|大型|8|
+|普通|4|
+|小型|2|
+|超小型|1|
+|超小型以下|0|
 
-After finding the base damage, determine the collision’s damage multiplier based on how the colliding vehicle struck the other vehicle or object. (For vehicles moving in reverse, consider the back end to be the vehicle’s “front” for determining the collision multiplier.) Consult Table: Collision Direction for a multiplier.
+掷出基础伤害后，还要根据载具如何撞击目标载具或物体，裁定撞击伤害乘数。（如果载具在倒车，裁定撞击伤害乘数时应以尾部作为载具的“前方”。）按照`表：碰撞方向`得出乘数。
 
-Once the damage has been determined, apply it to both vehicles (or objects or creatures) involved in the collision. Both vehicles reduce their speed by two speed categories. If the colliding vehicle moved the minimum number of squares for its new speed category before the collision, it ends its movement immediately. If not, it pushes the other vehicle or object aside, if possible, and continues until it has moved the minimum number of squares for its new speed category.
+得出最终伤害后，将伤害应用到碰撞的双方。双方载具都降低两个速度档次。如果碰撞的载具在碰撞前已经移动的距离，超过了新速度档次的速度上限，载具会立即停止移动。如果没有，且主撞方碰撞前的移动距离若未达到新速度档次的速度下限，主撞方将推动目标载具或物体继续移动，直到移动到新速度档次的速度下限。
 
-**Table: Collision Direction**
+**表：碰撞方向**
 
-|Colliding Vehicle’s Target|Multiplier|
+|碰撞目标|乘数|
 |--------------------------|:--------:|
-|A stationary object|x 1|
-|A moving vehicle, striking head-on or 45 degrees from head-on|x 2|
-|A moving vehicle, striking perpendicular|x 1|
-|A moving vehicle, striking from the rear or 45 degrees from the rear|x 1/2|
-|A vehicle being sideswiped (see Sideswipe)|x 1/4|
+|静态目标|x 1|
+|移动载具，对撞或相对对撞偏离45度|x 2|
+|移动载具，垂直撞上|x 1|
+|移动载具，追尾或相对追尾偏离45度|x 1/2|
+|侧击载具（见`侧击`）|x 1/4|
 
-The driver of the vehicle that caused the collision must immediately make a Drive check (DC 15) or lose control of the vehicle (see Losing Control, below). The driver of the other vehicle must succeed on a Drive check (DC 15) at the beginning of his or her next action or lose control of his or her vehicle.
+主撞方的驾驶员必须立即做一次驾驶检定（DC15），检定失败将失去对载具的控制（见下文`失控`）。被撞方的驾驶员必须在下一次行动前做一次驾驶检定，检定失败将失去对载具的控制。
 
-## Damage to Vehicle Occupants
+## 对乘员的伤害
 
-When a vehicle takes damage from a collision, its occupants may take damage as well. The base amount of damage depends on the cover offered by the vehicle.
+载具遭受碰撞伤害时，载具的乘员也将受到伤害。基本伤害值取决于载具提供的掩蔽。
 
-|Cover|Damage|
+|掩蔽|伤害|
 |-----|------|
-|None|Same as damage taken by vehicle|
-|One-quarter|One-half damage taken by vehicle|
-|One-half|One-quarter damage taken by vehicle|
-|Three-quarters or more|None|
+|无|等于载具所受伤害|
+|四分之一|载具所受伤害的一半|
+|半掩蔽|载具所受伤害的四分之一|
+|四分之三及以上|无|
 
-Each of the occupants may make a Reflex save (DC 15) to take half damage.
+每个成员都可以做一个反射豁免（DC15）以使伤害减半。
 
-## Losing Control
+## 失控
 
-A collision or a failed stunt can cause a driver to lose control of his vehicle. In these cases, the driver must make a Drive check to retain control of the vehicle. If this check is successful, the driver maintains control of the vehicle. If it fails, the vehicle goes into a spin. If it fails by 10 or more, the vehicle rolls. Remember that the check/roll modifier from Table: Vehicle Speeds and Modifiers applies to all Drive checks.
+碰撞或发动特技失败会导致驾驶员失去对载具的控制。这时，驾驶员必须做一个驾驶检定以维持对载具的控制。若检定成功，驾驶员将维持对载具的控制。若失败，载具将旋转。若失败10点及以上，载具将翻滚。注意`表：载具速度与调整值`中的检定/掷骰调整值对所有驾驶检定有效。
 
-An out-of-control vehicle may strike an object or other vehicle. When that happens, a collision occurs (see Collisions and Ramming, above).
+失控的载具可能会撞上物体或其他载具。这样会发生`碰撞`（见上文`碰撞与冲撞`）。
 
-**Spin:** The vehicle skids, spinning wildly.
+**旋转：** 载具打滑并疯狂地旋转。
 
-At character scale, the vehicle moves in its current direction a number of squares equal to the turn number for its speed, then ends its movement. Once it stops, roll 1d8 to determine its new facing: 1, no change; 2, right 45 degrees; 3, right 90 degrees; 4, right 135 degrees; 5, 180 degrees; 6, left 135 degrees; 7, left 90 degrees; 8, left 45 degrees. Reorient the vehicle accordingly.
+在角色尺度下，载具会沿着当前方向持续移动等于其当前速度档次下`转向距离`的方格数，并结束运动。停止时，掷骰1d8以决定新朝向：1、不变；2、右转45度；3、右转90度；4、右转135度；5、180度；6、左转135度；7、左转90度；8、左转45度。然后载具转向到新朝向。
 
-At chase scale, the vehicle moves 1 square and ends its movement. Roll to determine its new facing as indicated above.
+在追逐尺度下，载具移动1格并结束移动。按上文规则掷骰决定新朝向。
 
-**Roll:** The vehicle tumbles, taking damage.
+**翻滚：** 载具翻滚并承受伤害。
 
-At character scale, the vehicle rolls in a straight line in its current direction for a number of squares equal to the turn number for its speed, then ends its movement. At the end of the vehicle’s roll, reorient the vehicle perpendicular to its original direction of travel (determine left or right randomly).
+在角色尺度下，载具会沿着当前方向持续滚动等于其当前速度档次下`转向距离`的方格数，并结束运动。滚动结束后，载具将面朝垂直于滚动方向的方向（随机决定左还是右）。
 
-At chase scale, the vehicle rolls one square before stopping and reorienting.
+在追逐尺度下，载具滚动1格并结束移动，改变朝向。
 
-At either scale, a vehicle takes damage equal to 2d6 x the character scale turn number for its speed (use the turn number from character scale even at chase scale). The vehicle’s occupants take damage equal to 2d4 x the character scale turn number for its speed (Reflex save, DC 15, for half damage).
+无论何种尺度，载具都会受到伤害，伤害值=2d6×角色尺度下当前速度档次的转向距离（即使在追逐尺度下，也要用角色尺度的转向距离）。载具乘员都受到伤害，伤害值=2d4×角色尺度下当前速度档次的转向距离（可做DC15的反射豁免使伤害减半）。
 
-## Hide and Seek
+## 躲藏与搜寻
 
-When being pursued, a driver can attempt a Hide check to lose the pursuer in heavy traffic, or a Bluff check to misdirect the pursuer before turning onto an off-ramp or a side street.
+当载具正在被追逐时，如果载具在拥挤的车流中，驾驶员可以尝试做一个躲藏检定来甩掉追逐者；或者在匝道岔路或街道路口前做一个唬骗检定来误导追逐者。
 
-To make a Hide check, use the normal rules for hiding (see the Hide skill description). The normal size modifiers apply, but because the driver is hiding among other vehicles, most of which are size Large or Huge, he or she gains a +8 bonus on the check. This use of the Hide skill can only be attempted in fairly heavy traffic; in lighter traffic, the GM might not allow it or might apply a penalty to the check.
+如果要做躲藏检定，应当应用一般的躲藏规则（见`躲藏`技能描述）。体积调整值也会和一般躲藏规则一样应用，但因为驾驶员是隐藏在其他载具中的，载具大多为大型或超大型，驾驶员的检定将会获得8点加值。躲藏技能只能在相当拥挤的车流中使用；如果车流较稀疏，GM可裁定不允许使用躲藏，或在躲藏检定中额外附加减值。
 
-A driver can use Bluff to make a pursuer think he or she is going a different direction from what the driver intends. Just before making a turn onto an off-ramp or side street, make a Bluff check opposed by the pursuer’s Sense Motive check. If the driver is successful, the pursuer takes a –5 penalty on any Drive check needed to make the turn to follow the driver. If the other driver can make the turn using only simple maneuvers and does not have to make a Drive check, the Bluff attempt has no effect.
+驾驶员可以用唬骗来让追踪者误以为驾驶员要走上另一条道。驾驶员只需要在驶入匝道或路口前，以唬骗检定与追踪者的察言观色检定作对抗。如果驾驶员对抗成功，追踪者在所有需要转弯以跟随驾驶员时，所需的驾驶检定都将承受5点减值。如果追逐者对驾驶员的跟随只需要用到简单机动，则不需要做驾驶检定，唬骗将没有效果。
 
-## Fighting from Vehicles
+## 载具战斗
 
-The following rules provide a further framework for combat involving vehicles.
+以下规则是有关载具的额外战斗规则。
 
-## Vehicle Combat Actions
+## 载具战斗动作
 
-Actions during vehicle combat are handled the same way as actions during personal combat. In general, a character can take two move actions, one move action and one attack action, or one full-round action in a round. Free actions can be performed normally, in conjunction with another action.
+载具战斗动作的操作流程与个人战斗的流程相同。一般来说，角色可以在一轮的时间里，做两个移动动作，或是一个移动一个攻击，或是一个整轮动作。即时动作就像一般规则那样，与其他动作同时做出。
 
-**Free Actions:** Communicating orders is a free action. Characters can perform as many free actions as the GM permits in a single round.
+**即时动作：** 发号施令是即时动作。角色在一轮中可以做的即时动作数量由GM规定。
 
-**Move Actions:** Changing position within a vehicle is usually a move action, especially if the character has to trade places with another character. If the character’s movement is short and unobstructed, the character can do it as the equivalent of a 5-foot step. Otherwise, it requires a move action.
+**移动动作：** 在载具中改变乘员位一般是一个移动动作，尤其是在两个角色互相交换位置时。如果角色要移动的距离短而且没有障碍，角色改变位置的动作是一个五尺快步。否则都需要一个移动动作。
 
-**Attack Actions:** Anyone aboard a vehicle can make an attack with a personal weapon, and drivers and gunners can make attacks with any vehicle-mounted weapons controlled from their positions.
+**攻击动作：** 载具上的任何人都可以用单兵武器攻击，驾驶员与射击手可以用所处位置能操作的车载武器进行攻击。
 
-**Full-Round Actions:** Since the driver must use a move action to control the vehicle, he or she can’t take a full-round action unless he or she starts it in one round and completes it on his or her next turn (see Start/Complete Full-Round Action).
+**整轮动作：** 既然驾驶员必须用一个移动动作来控制载具，驾驶员不能做出整轮动作，除非驾驶员是在本轮内开始一个整轮动作并在下一轮开始时完成它（见`开始/完成整轮动作`）。
 
-## Crew Quality
+## 车组水平
 
-Rather than force the GM to create, or remember, statistics for everyone aboard a vehicle, vehicle statistics include a general “crew quality” descriptor. This indicates a typical crew’s aptitude with the vehicle’s systems.
+载具有一项“车组水平”指标以概括所有乘员的战斗素质，这样GM就不需要为NPC车组创建每一个乘员的详细情况了。这项指标代表了乘员与载具系统的总体水平。
 
-Table: Vehicle Crew Quality shows the five levels of crew quality for GM-controlled vehicle crews, along with the appropriate check modifier. Use the check modifier for all skill checks related to the operation of the vehicle (including Drive and Repair checks). Use the attack bonus for all attack rolls performed by the crew. For quick reference, Table: Crewed Vehicles shows the typical crew quality, and the crew’s total initiative and maneuver modifiers, for the vehicles covered in this book.
+`表：车组水平`提供了五个等级的车组水平，GM扮演的不同水平的车组都有相应的检定调整值。Use the check modifier for all skill checks related to the operation of the vehicle (including Drive and Repair checks). Use the attack bonus for all attack rolls performed by the crew. For quick reference, Table: Crewed Vehicles shows the typical crew quality, and the crew’s total initiative and maneuver modifiers, for the vehicles covered in this book.
 
 This by no means restricts the GM from creating unique vehicles where the crew’s statistics are included, or from using GM characters’ abilities when they drive or attack from vehicles. It’s merely a shortcut to save time if the GM doesn’t have particular characters behind the wheel.
 

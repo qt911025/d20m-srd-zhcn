@@ -752,6 +752,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Crew Quality</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T142553Z" creationid="quentine" creationdate="20210712T142553Z">
+        <seg>## 车组水平</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Criminal</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181104T125812Z" creationid="QuenTine" creationdate="20181104T125812Z">
@@ -1148,6 +1156,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190704T123551Z" creationid="quentine" creationdate="20190704T123551Z">
         <seg>## 专长列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Fighting from Vehicles</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T140550Z" creationid="quentine" creationdate="20210712T140550Z">
+        <seg>## 载具战斗</seg>
       </tuv>
     </tu>
     <tu>
@@ -2372,6 +2388,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181106T124609Z" creationid="QuenTine" creationdate="20181106T124609Z">
         <seg>## 计算声望加值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Vehicle Combat Actions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T140707Z" creationid="quentine" creationdate="20210712T140707Z">
+        <seg>## 载具战斗动作</seg>
       </tuv>
     </tu>
     <tu>
@@ -8974,6 +8998,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Attack Actions:** Anyone aboard a vehicle can make an attack with a personal weapon, and drivers and gunners can make attacks with any vehicle-mounted weapons controlled from their positions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T141813Z" creationid="quentine" creationdate="20210712T141813Z">
+        <seg>**攻击动作：** 载具上的任何人都可以用单兵武器攻击，驾驶员与射击手可以用所处位置能操作的车载武器进行攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Attacks:** Use the Mage’s base attack bonus.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190623T125002Z" creationid="quentine" creationdate="20190623T125002Z">
@@ -11095,6 +11127,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Free Actions:** Communicating orders is a free action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T141214Z" creationid="quentine" creationdate="20210712T141114Z">
+        <seg>**即时动作：** 发号施令是即时动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Full-Round Actions:** Since the driver must use a move action to control the vehicle, he or she can’t take a full-round action unless he or she starts it in one round and completes it on his or her next turn (see Start/Complete Full-Round Action).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T142204Z" creationid="quentine" creationdate="20210712T141835Z">
+        <seg>**整轮动作：** 既然驾驶员必须用一个移动动作来控制载具，驾驶员不能做出整轮动作，除非驾驶员是在本轮内开始一个整轮动作并在下一轮开始时完成它（见`开始/完成整轮动作`）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Gaze (Su):** A gaze attack takes effect when opponents look at the creature’s eyes.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T124149Z" creationid="quentine" creationdate="20191031T124149Z">
@@ -11707,6 +11755,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T133223Z" creationid="quentine" creationdate="20190805T133223Z">
         <seg>**其他调整值：** 其他调整值包括专长和职业专长提供的调整值，以及减值，如不擅长防具带来的减值等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Move Actions:** Changing position within a vehicle is usually a move action, especially if the character has to trade places with another character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T141436Z" creationid="quentine" creationdate="20210712T141436Z">
+        <seg>**移动动作：** 在载具中改变乘员位一般是一个移动动作，尤其是在两个角色互相交换位置时。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18454,6 +18510,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A driver can use Bluff to make a pursuer think he or she is going a different direction from what the driver intends.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T140025Z" creationid="quentine" creationdate="20210712T140025Z">
+        <seg>驾驶员可以用唬骗来让追踪者误以为驾驶员要走上另一条道。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A dying character (one with –1 to –9 hit points) is un-conscious and loses 1 hit point every round until he or she becomes stable or dies.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190731T120318Z" creationid="quentine" creationdate="20190115T111412Z">
@@ -20236,6 +20300,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T132945Z" creationid="quentine" creationdate="20190114T132945Z">
         <seg>行动点让角色可以在关键的环节影响游戏的走向。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Actions during vehicle combat are handled the same way as actions during personal combat.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T140754Z" creationid="quentine" creationdate="20210712T140754Z">
+        <seg>载具战斗动作的操作流程与个人战斗的流程相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24692,6 +24764,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Characters can perform as many free actions as the GM permits in a single round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T141915Z" creationid="quentine" creationdate="20210712T141336Z">
+        <seg>角色在一轮中可以做的即时动作数量由GM规定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Characters jailed for crimes can seek bail.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T150214Z" creationid="quentine" creationdate="20200117T150214Z">
@@ -27733,6 +27813,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T122905Z" creationid="quentine" creationdate="20201118T122905Z">
         <seg>强韧豁免： 这一豁免代表角色在重大攻击下屹立不倒的能力和在受到类似毒素和麻痹攻击时保持活力的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Free actions can be performed normally, in conjunction with another action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T141125Z" creationid="quentine" creationdate="20210712T141023Z">
+        <seg>即时动作就像一般规则那样，与其他动作同时做出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30817,6 +30905,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the character’s movement is short and unobstructed, the character can do it as the equivalent of a 5-foot step.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T141605Z" creationid="quentine" creationdate="20210712T141605Z">
+        <seg>如果角色要移动的距离短而且没有障碍，角色改变位置的动作是一个五尺快步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the character’s speed is greater than 30 feet, he or she gains a bonus of +4 for every 10 feet over 30.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191021T134256Z" creationid="quentine" creationdate="20191021T134256Z">
@@ -31073,6 +31169,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If the driver is successful, the pursuer takes a –5 penalty on any Drive check needed to make the turn to follow the driver.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T140417Z" creationid="quentine" creationdate="20210712T140417Z">
+        <seg>如果驾驶员对抗成功，追踪者在所有需要转弯以跟随驾驶员时，所需的驾驶检定都将承受5点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If the eavesdropper beats the DC by 5 or more, he or she understands the secret message.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T132141Z" creationid="quentine" creationdate="20190808T135707Z">
@@ -31197,6 +31301,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T144138Z" creationid="quentine" creationdate="20191031T144138Z">
         <seg>如果对手在上风处，距离增加至60尺，在下风处，距离减至15尺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the other driver can make the turn using only simple maneuvers and does not have to make a Drive check, the Bluff attempt has no effect.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T140530Z" creationid="quentine" creationdate="20210712T140530Z">
+        <seg>如果追逐者对驾驶员的跟随只需要用到简单机动，则不需要做驾驶检定，唬骗将没有效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32349,6 +32461,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T094413Z" creationid="quentine" creationdate="20190216T094413Z">
         <seg>总的来说，角色能在有所有可选择的职业上获得等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In general, a character can take two move actions, one move action and one attack action, or one full-round action in a round.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T140858Z" creationid="quentine" creationdate="20210712T140858Z">
+        <seg>一般来说，角色可以在一轮的时间里，做两个移动动作，或是一个移动一个攻击，或是一个整轮动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34085,6 +34205,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190704T130852Z" creationid="quentine" creationdate="20190704T130852Z">
         <seg>喷气战斗机包括歼击机和攻击机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just before making a turn onto an off-ramp or side street, make a Bluff check opposed by the pursuer’s Sense Motive check.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T140242Z" creationid="quentine" creationdate="20210712T140242Z">
+        <seg>驾驶员只需要在驶入匝道或路口前，以唬骗检定与追踪者的察言观色检定作对抗。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36255,6 +36383,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Otherwise, it requires a move action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T141617Z" creationid="quentine" creationdate="20210712T141617Z">
+        <seg>否则都需要一个移动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Otherwise, the character can move at half speed, but can’t run or charge.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T122323Z" creationid="quentine" creationdate="20190115T122323Z">
@@ -36929,6 +37065,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T133450Z" creationid="quentine" creationdate="20190805T133450Z">
         <seg>级数代表角色此技能的训练程度和经验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rather than force the GM to create, or remember, statistics for everyone aboard a vehicle, vehicle statistics include a general “crew quality” descriptor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T143034Z" creationid="quentine" creationdate="20210712T142808Z">
+        <seg>载具有一项“车组水平”指标以概括所有乘员的战斗素质，这样GM就不需要为NPC车组创建每一个乘员的详细情况了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39105,6 +39249,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210617T144109Z" creationid="qt911" creationdate="20210105T132617Z">
         <seg>`表：双持武器战斗减值`列举了所有因素的综合结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table: Vehicle Crew Quality shows the five levels of crew quality for GM-controlled vehicle crews, along with the appropriate check modifier.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T143223Z" creationid="quentine" creationdate="20210712T143001Z">
+        <seg>`表：车组水平`提供了五个等级的车组水平，GM扮演的不同水平的车组都有相应的检定调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42465,8 +42617,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>The character can use the feat once per round as a free action.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190802T131508Z" creationid="quentine" creationdate="20190802T131508Z">
-        <seg>角色每轮可以以一个即使动作使用此专长。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T141858Z" creationid="quentine" creationdate="20190802T131508Z">
+        <seg>角色每轮可以以一个即时动作使用此专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44129,6 +44281,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following rules provide a further framework for combat involving vehicles.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T140655Z" creationid="quentine" creationdate="20210712T140655Z">
+        <seg>以下规则是有关载具的额外战斗规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following text is the property of Wizards of the Coast, Inc.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181022T033735Z" creationid="QuenTine" creationdate="20181022T033352Z">
@@ -44147,8 +44307,8 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>The four types of actions are attack actions, move actions, full-round actions, and free actions.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20201119T125557Z" creationid="quentine" creationdate="20201119T125557Z">
-        <seg>有四种动作类型，分别为攻击动作、移动动作、整轮动作和即使动作。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T141906Z" creationid="quentine" creationdate="20201119T125557Z">
+        <seg>有四种动作类型，分别为攻击动作、移动动作、整轮动作和即时动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44661,6 +44821,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T131456Z" creationid="QuenTine" creationdate="20181103T131456Z">
         <seg>正常人类的数值范围是3到18。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The normal size modifiers apply, but because the driver is hiding among other vehicles, most of which are size Large or Huge, he or she gains a +8 bonus on the check.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T135713Z" creationid="quentine" creationdate="20210712T135713Z">
+        <seg>体积调整值也会和一般躲藏规则一样应用，但因为驾驶员是隐藏在其他载具中的，载具大多为大型或超大型，驾驶员的检定将会获得8点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47603,6 +47771,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This indicates a typical crew’s aptitude with the vehicle’s systems.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T143125Z" creationid="quentine" creationdate="20210712T142903Z">
+        <seg>这项指标代表了乘员与载具系统的总体水平。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This innate talent provides a bonus on checks involving interaction skills (Bluff, Diplomacy, Handle Animal, Intimidate, Perform, and Sense Motive), provided the hero spends at least 1 minute observing his or her target prior to making the skill check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190202T034500Z" creationid="quentine" creationdate="20190202T034500Z">
@@ -48511,6 +48687,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This use of the Hide skill can only be attempted in fairly heavy traffic; in lighter traffic, the GM might not allow it or might apply a penalty to the check.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T135942Z" creationid="quentine" creationdate="20210712T135942Z">
+        <seg>躲藏技能只能在相当拥挤的车流中使用；如果车流较稀疏，GM可裁定不允许使用躲藏，或在躲藏检定中额外附加减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This use of the Investigate skill requires an evidence kit.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191020T022542Z" creationid="quentine" creationdate="20191020T022542Z">
@@ -48923,6 +49107,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190623T120223Z" creationid="quentine" creationdate="20190623T120223Z">
         <seg>要学习、准备、施展一个法术，法师必须具备至少10+此法术等级的智力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To make a Hide check, use the normal rules for hiding (see the Hide skill description).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T135500Z" creationid="quentine" creationdate="20210712T135500Z">
+        <seg>如果要做躲藏检定，应当应用一般的躲藏规则（见`躲藏`技能描述）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50467,6 +50659,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190923T124819Z" creationid="quentine" creationdate="20190923T124819Z">
         <seg>当角色试图创作视觉艺术时，角色只需做一次制造（视觉艺术）检定，检定结果决定作品的质量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When being pursued, a driver can attempt a Hide check to lose the pursuer in heavy traffic, or a Bluff check to misdirect the pursuer before turning onto an off-ramp or a side street.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210712T135414Z" creationid="quentine" creationdate="20210712T135414Z">
+        <seg>当载具正在被追逐时，如果载具在拥挤的车流中，驾驶员可以尝试做一个躲藏检定来甩掉追逐者；或者在匝道岔路或街道路口前做一个唬骗检定来误导追逐者。</seg>
       </tuv>
     </tu>
     <tu>

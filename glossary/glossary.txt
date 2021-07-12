@@ -1418,3 +1418,4 @@ collision multiplier	碰撞乘数
 Losing Control	失控
 Spin	旋转
 Roll	翻滚
+Crew Quality	车组水平
