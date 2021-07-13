@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>## Attack Options</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T133721Z" creationid="quentine" creationdate="20210713T133721Z">
+        <seg>## 攻击选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>## Attack Roll</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201114T011809Z" creationid="quentine" creationdate="20201114T011809Z">
@@ -728,6 +736,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>## Cover</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T135552Z" creationid="quentine" creationdate="20210713T135552Z">
+        <seg>## 掩蔽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>## Cowering</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190115T120948Z" creationid="quentine" creationdate="20190115T120948Z">
@@ -804,6 +820,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T132936Z" creationid="quentine" creationdate="20210710T132936Z">
         <seg>## 对乘员的伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Damaging Vehicles</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T135727Z" creationid="quentine" creationdate="20210713T135727Z">
+        <seg>## 对载具的伤害</seg>
       </tuv>
     </tu>
     <tu>
@@ -1784,6 +1808,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>## Repairing Damage</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T141418Z" creationid="quentine" creationdate="20210713T141318Z">
+        <seg>## 修理伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>## Requisitioning Equipment</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191104T132914Z" creationid="quentine" creationdate="20191104T125240Z">
@@ -2228,6 +2260,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190806T132806Z" creationid="quentine" creationdate="20190806T132806Z">
         <seg>## 取20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>## Targeting Occupants</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T135145Z" creationid="quentine" creationdate="20210713T135145Z">
+        <seg>## 针对乘员的攻击</seg>
       </tuv>
     </tu>
     <tu>
@@ -8192,6 +8232,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>(Without the tool kit, a character takes a –4 penalty on his or her Repair check.) At the end of the hour, make a Repair check (DC 20).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T141552Z" creationid="quentine" creationdate="20210713T141533Z">
+        <seg>（如果没有工具，角色的修理检定承受4点减值。）在这一小时结束时，做一个修理鉴定（DC20）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>(Without the tools, a character takes a –4 penalty on his or her Repair check.) At the end of the hour, make a Repair check (DC 20).</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210608T130537Z" creationid="qt911" creationdate="20210608T130537Z">
@@ -10773,6 +10821,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>**Driving Defensively:** Just as in melee combat, one can fight defensively while driving a vehicle, which grants a +2 dodge bonus to the vehicle’s Defense and applies a –4 penalty on attack rolls made by occupants of the vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T134343Z" creationid="quentine" creationdate="20210713T134343Z">
+        <seg>**防御式驾驶：** 与近战攻击的情形相同，驾驶员在驾驶载具时可以采取防御式战斗，这可以为载具防御提供2点闪避加值，并使所有乘员的攻击骰受到4点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>**Earth and Life Sciences:** Biology, botany, genetics, geology, and paleontology.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191022T135901Z" creationid="quentine" creationdate="20191022T135901Z">
@@ -10805,6 +10861,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>**Energy Attacks:** Vehicles are treated as objects when subjected to energy attacks.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T140903Z" creationid="quentine" creationdate="20210713T140903Z">
+        <seg>**能量攻击：** 载具在承受能量攻击时，会被视为物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>**Energy Drain (Su):** This attack saps a living opponent’s vital energy.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191030T134652Z" creationid="quentine" creationdate="20191030T134652Z">
@@ -10833,6 +10897,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190704T132427Z" creationid="quentine" creationdate="20190703T112355Z">
         <seg>**邪恶侍僧与不死生物：**邪恶阵营的侍僧可以引导负能量来斥喝（rebuke）（威慑）或是命令（command）（控制）不死生物，而不是驱散或者摧毁之。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Exploding Vehicles:** If the attack that disables a vehicle deals damage equal to half its full normal hit points or more, the vehicle explodes after 1d6 rounds.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T141028Z" creationid="quentine" creationdate="20210713T141028Z">
+        <seg>**载具爆炸：** 如果使载具瘫痪的那一次攻击造成了大于等于其正常生命值一半的伤害，载具将在1d6回合后爆炸。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11089,6 +11161,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T141214Z" creationid="quentine" creationdate="20210712T141114Z">
         <seg>**即时动作：** 发号施令是即时动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Full Attack Action:** A driver cannot normally make a full attack, since controlling the vehicle requires a move action.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T134643Z" creationid="quentine" creationdate="20210713T134643Z">
+        <seg>**全力攻击：** 驾驶员一般不可以全力攻击，因为控制载具需要一个移动动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14054,6 +14134,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>**Table: Crewed Vehicles**</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T132410Z" creationid="quentine" creationdate="20210713T132410Z">
+        <seg>**表：带车组的载具**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>**Table: Defense Modifiers**</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210530T141010Z" creationid="qt911" creationdate="20210530T141010Z">
@@ -14130,6 +14218,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210617T144109Z" creationid="qt911" creationdate="20210105T132912Z">
         <seg>**表：双持武器战斗减值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Table: Vehicle Crew Quality**</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T132132Z" creationid="quentine" creationdate="20210713T132132Z">
+        <seg>**表：车组水平**</seg>
       </tuv>
     </tu>
     <tu>
@@ -14626,6 +14722,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200701T114331Z" creationid="quentine" creationdate="20200701T113958Z">
         <seg>**极速：** 角色尺度上，载具每轮最多能移动的方格数（括号内的数为追逐尺度上）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>**Total Defense:** A driver can choose the total defense, action which grants a +4 dodge bonus to Defense but does not allow the driver to attack (gunners or passengers take a –8 penalty on attack rolls).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T134521Z" creationid="quentine" creationdate="20210713T134521Z">
+        <seg>**全防御：** 驾驶员可以采取全防御的策略，可以为防御提供4点闪避加值，驾驶员将不能攻击（射击手或乘员的攻击骰要受到8点减值）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18404,6 +18508,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>A destroyed vehicle cannot be repaired.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T140814Z" creationid="quentine" creationdate="20210713T140814Z">
+        <seg>被摧毁的载具不可再被修复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>A detonator activates an explosive, causing it to explode.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200117T090359Z" creationid="quentine" creationdate="20200117T090359Z">
@@ -18456,6 +18568,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210712T140025Z" creationid="quentine" creationdate="20210712T140025Z">
         <seg>驾驶员可以用唬骗来让追踪者误以为驾驶员要走上另一条道。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A driver with 5 or more ranks in the Drive skill gains a +2 synergy bonus when firing vehicle-mounted weapons while driving.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T133943Z" creationid="quentine" creationdate="20210713T133943Z">
+        <seg>驾驶技能大于等于5级的驾驶员在驾驶时使用车载武器射击，将会获得2点共效加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18712,6 +18832,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210609T142158Z" creationid="qt911" creationdate="20210609T142158Z">
         <seg>擒抱检定类似近战攻击骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A gunner can make multiple attacks with one or more weapons controlled from his or her position.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T135103Z" creationid="quentine" creationdate="20210713T135103Z">
+        <seg>射击手可以用所处位置可用的一件或多件武器进行多次攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19248,6 +19376,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T125822Z" creationid="quentine" creationdate="20201030T125822Z">
         <seg>前座和其他部分有一个隔板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A passenger can make multiple attacks with his or her own weapon.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T134950Z" creationid="quentine" creationdate="20210713T134950Z">
+        <seg>乘员可以用自己的武器进行多次攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20058,6 +20194,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210628T141154Z" creationid="qt911" creationdate="20210628T141154Z">
         <seg>载具不能移动超过其最高速度的距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>A vehicle that is disabled while moving drops one speed category each round until it comes to a stop.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T140337Z" creationid="quentine" creationdate="20210713T140337Z">
+        <seg>移动中的载具若被报废，每一轮都会降低一个速度档次，直到完全停止。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20950,6 +21094,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>All vehicles have hit points, which are roughly equivalent to a character’s hit points.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T135815Z" creationid="quentine" creationdate="20210713T135815Z">
+        <seg>所有载具都有生命值，基本上等价于角色的生命值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>All weapons and armor, and certain other types of equipment, such as computers and electronic devices, can be constructed as mastercraft objects.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190523T135517Z" creationid="quentine" creationdate="20190523T135517Z">
@@ -21238,6 +21390,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Although it might be repairable, it ceases functioning.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T140247Z" creationid="quentine" creationdate="20210713T140234Z">
+        <seg>报废的载具将停止运转，但可以被修理并恢复运转。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Although it’s a sniper rifle, it fires a .50-caliber machine gun bullet, a round much more powerful than any other rifle ammunition.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200419T023136Z" creationid="quentine" creationdate="20200419T022933Z">
@@ -21466,6 +21626,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201119T130114Z" creationid="quentine" creationdate="20201119T130114Z">
         <seg>角色可以一个攻击动作做一些事情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An attack against a vehicle occupant is made like any other attack.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T135342Z" creationid="quentine" creationdate="20210713T135342Z">
+        <seg>攻击乘员的规则与其他战斗规则相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>An attack made against a vehicle uses the vehicle’s Defense, modified by its speed category.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T135235Z" creationid="quentine" creationdate="20210713T135235Z">
+        <seg>针对载具的攻击要用载具的防御值加上速度档次的调整值来防御。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23818,6 +23994,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210617T143900Z" creationid="qt911" creationdate="20210617T143900Z">
         <seg>用轻武器攻击：角色在处于擒抱状态中，可以用轻武器攻击（但不可以在压制或被压制时这么做）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Attackers can choose instead to target specific vehicle occupants.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T135305Z" creationid="quentine" creationdate="20210713T135305Z">
+        <seg>攻击方也可以选择攻击指定的乘员。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27287,6 +27471,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Firing a vehicle’s weapon requires an attack action and uses the driver’s or gunner’s ranged attack modifier.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T133819Z" creationid="quentine" creationdate="20210713T133819Z">
+        <seg>用车载武器射击需要一个攻击动作，且应应用驾驶员或射击手的远程攻击调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>First, clothing is part of a disguise.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191111T135751Z" creationid="quentine" creationdate="20191111T135751Z">
@@ -27595,6 +27787,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191030T133301Z" creationid="quentine" creationdate="20191030T133301Z">
         <seg>为了伤害其他有伤害减免的生物，生物的天生武器所属类型将视为无视自身伤害减免的武器类型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>For quick reference, Table: Crewed Vehicles shows the typical crew quality, and the crew’s total initiative and maneuver modifiers, for the vehicles covered in this book.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T131814Z" creationid="quentine" creationdate="20210713T131814Z">
+        <seg>为了方便参照，`表：带车组的载具`给出了本规则书所有载具带乘员时的基础车组水平，以及车组的总先攻值和机动调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28059,6 +28259,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210609T140433Z" creationid="qt911" creationdate="20210609T140433Z">
         <seg>擒抱指摔跤或环抱等压制行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Gunners or passengers, however, can take full attack actions, since they don’t have to use a move action (except, perhaps, to change positions in the vehicle).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T134806Z" creationid="quentine" creationdate="20210713T134806Z">
+        <seg>而射击手或乘员可以全力攻击，因为他们没有必须使用的移动动作（除了换位置的时候）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29075,6 +29283,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201118T143019Z" creationid="quentine" creationdate="20201118T143019Z">
         <seg>如果角色进入一场已经开始的战斗，他们将在加入时立即进行一次先攻检定，按检定结果插入队列中，并在轮到自己时行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>If damage remains, the character may continue to make repairs for as many hours as it takes to restore all of the vehicle’s hit points.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T141602Z" creationid="quentine" creationdate="20210713T141602Z">
+        <seg>如果仍有伤害，角色可以继续修理多个小时，直到完全恢复。</seg>
       </tuv>
     </tu>
     <tu>
@@ -32423,6 +32639,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>In general, taking a full attack action is useful only if a character has a base attack bonus high enough to get multiple attacks.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T134927Z" creationid="quentine" creationdate="20210713T134927Z">
+        <seg>一般来说，只有在角色的基础攻击加值足够高到可以发动多次攻击时，全力攻击才有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>In general, these luxury amenities can be added to a nonluxury car with an increase of 1 to the vehicle’s purchase DC.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200813T145650Z" creationid="quentine" creationdate="20200813T145650Z">
@@ -32923,6 +33147,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210609T142724Z" creationid="qt911" creationdate="20210609T142724Z">
         <seg>在擒抱检定中，应对照`表：擒抱调整值`，使用合适的擒抱调整值代替体型调整值，其他的则和近战或远程攻击检定一样。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Instead, a vehicle is destroyed when it loses hit points equal to twice its full normal total.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T140754Z" creationid="quentine" creationdate="20210713T140754Z">
+        <seg>取而代之的规则是，载具在失去正常情形下的生命上限的两倍的生命值后，会被`摧毁`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34071,6 +34303,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>It’s merely a shortcut to save time if the GM doesn’t have particular characters behind the wheel.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T132105Z" creationid="quentine" creationdate="20210713T132105Z">
+        <seg>这只是一个节约时间的做法，允许GM不设定每一个乘员的数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>It’s modified by the relative size and speed of the target.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T113111Z" creationid="quentine" creationdate="20210710T113111Z">
@@ -34275,6 +34515,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20201029T123302Z">
         <seg>和小汽车一样，卡车也为乘客提供3/4掩蔽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Like most inanimate objects, vehicles also have hardness.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T135919Z" creationid="quentine" creationdate="20210713T135919Z">
+        <seg>载具与大多数非生物物体一样，也有硬度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37193,6 +37441,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Remember, however, that a character in a vehicle gains bonuses to Defense from both the vehicle’s speed and any cover it provides.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T135549Z" creationid="quentine" creationdate="20210713T135549Z">
+        <seg>但要注意的是，载具中的角色的防御将从载具的速度和载具提供的掩蔽获得加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Reorient the vehicle accordingly.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T134625Z" creationid="quentine" creationdate="20210710T134625Z">
@@ -37213,6 +37469,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200116T022441Z" creationid="quentine" creationdate="20191027T085605Z">
         <seg>修理需要电气工具、机械工具或多功能工具钳，取决于任务需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Repairing damage to a vehicle takes a full hour of work, a mechanical tool kit, and a garage or some other suitable facility.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T141506Z" creationid="quentine" creationdate="20210713T141412Z">
+        <seg>修理载具的伤害要花费一整小时的时间，还需要机械工具、车库以及其他配套的设施。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38157,6 +38421,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190114T124657Z" creationid="quentine" creationdate="20190114T124657Z">
         <seg>部分魔法效果能够为护甲提供加成，或是提供偏斜加值以使对方的攻击失效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Some military vehicles are equipped with fire-control computers.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T134011Z" creationid="quentine" creationdate="20210713T134011Z">
+        <seg>一些军用载具配备有火控电脑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43677,6 +43949,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>The driver cannot attempt any maneuvers except a 45-degree turn.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T140423Z" creationid="quentine" creationdate="20210713T140423Z">
+        <seg>驾驶员不能做出除了45度旋转以外的任何机动动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>The driver may also attempt a single stunt as part of the movement (or two, if the driver didn’t take his or her attack action before moving).</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210710T114852Z" creationid="quentine" creationdate="20210710T114852Z">
@@ -46382,6 +46662,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>These modifiers last until the driver’s next round of actions.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T134608Z" creationid="quentine" creationdate="20210713T134608Z">
+        <seg>这些调整值的有效期将持续到驾驶员的下一轮行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>These pieces of molded metal fit over the outside of a character’s fingers and allow him or her to deal lethal damage with an unarmed strike instead of nonlethal damage.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20200519T124431Z" creationid="quentine" creationdate="20200519T124431Z">
@@ -46466,6 +46754,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="QuenTine" changedate="20181104T135045Z" creationid="QuenTine" creationdate="20181104T135045Z">
         <seg>这些大大小小的企业家对统合商业计划、搜集资源以及抓住新商机都很有一套。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>These systems grant equipment bonuses on attack rolls with the vehicle-mounted weapons to which they apply.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T134052Z" creationid="quentine" creationdate="20210713T134052Z">
+        <seg>这些系统会为车载武器的攻击骰提供装备加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47087,6 +47383,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>This by no means restricts the GM from creating unique vehicles where the crew’s statistics are included, or from using GM characters’ abilities when they drive or attack from vehicles.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T132004Z" creationid="quentine" creationdate="20210713T132004Z">
+        <seg>这并不是说要限定GM必须参照表中数据，GM是可以自定义每个车组成员的数据的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>This cabin cruiser is a motor yacht with two internal diesel engines.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201030T122318Z" creationid="quentine" creationdate="20201030T122318Z">
@@ -47419,6 +47723,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190116T114340Z" creationid="quentine" creationdate="20190116T114340Z">
         <seg>这里将阐述与职业关联的属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This explosion deals 10d6 points of fire damage to everyone within the vehicle (Reflex save, DC 20, for half damage), and half that much to everyone and everything within 30 feet of the explosion (Reflex save, DC 15, for half damage).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T141308Z" creationid="quentine" creationdate="20210713T141308Z">
+        <seg>爆炸会对载具中的每个人造成10d6点火焰伤害（反射检定，DC20，可使伤害减半），并会对爆炸中心30尺内所有生物和物体造成前者的一半伤害（反射检定，DC15，以使伤害减半）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49667,6 +49979,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Unlike characters, vehicles don’t “die” when they reach –10 hit points.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T140559Z" creationid="quentine" creationdate="20210713T140559Z">
+        <seg>不像角色，载具在生命值减至-10时不会“死亡”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Unlike getting into a car, mounting a motorcycle is a free action.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20201029T120437Z" creationid="quentine" creationdate="20201029T120437Z">
@@ -49787,10 +50107,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>Use the attack bonus for all attack rolls performed by the crew.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T131302Z" creationid="quentine" creationdate="20210713T131302Z">
+        <seg>车组发起的所有攻击骰都应用对应的攻击加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>Use the character’s Ride modifier or the mount’s Jump modifier (whichever is lower) when the mount makes its Jump check (see the Jump skill).</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191027T124741Z" creationid="quentine" creationdate="20191027T124741Z">
         <seg>在坐骑进行跳跃检定（见跳跃技能）时，应用角色的骑乘调整值或坐骑的跳跃调整值（取低者）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Use the check modifier for all skill checks related to the operation of the vehicle (including Drive and Repair checks).</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T131154Z" creationid="quentine" creationdate="20210713T131154Z">
+        <seg>载具的行动所需的所有技能检定都应用该调整值（包括驾驶和修理检定）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50163,6 +50499,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>When a character fires from a vehicle, objects or other vehicles in the way can provide cover for the target.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T135719Z" creationid="quentine" creationdate="20210713T135719Z">
+        <seg>当角色从载具中射击时，阻挡视线的物体或其他载具都能为目标提供掩蔽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>When a character gains temporary hit points, make a note of his or her current hit points before adding the temporary hit points.</seg>
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191030T124913Z" creationid="quentine" creationdate="20190115T113843Z">
@@ -50511,6 +50855,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20191028T132134Z" creationid="quentine" creationdate="20191028T132134Z">
         <seg>当中毒的角色豁免毒素的再次伤害时，医疗者先以一个攻击动作做一个医疗检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>When a vehicle is reduced to 0 hit points, it is disabled.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T140050Z" creationid="quentine" creationdate="20210713T140050Z">
+        <seg>当载具的当前生命值减至0，载具报废。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51151,6 +51503,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv xml:lang="zh-CN" changeid="quentine" changedate="20190112T061316Z" creationid="QuenTine" creationdate="20181106T140704Z">
         <seg>即只要角色购买了DC大于财富加值的物品，角色的财富加值会减少（如下）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Whenever a vehicle takes damage, subtract the vehicle’s hardness from the damage dealt.</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T135947Z" creationid="quentine" creationdate="20210713T135947Z">
+        <seg>只要载具受到伤害，最终伤害值都要减去硬度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54345,6 +54705,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv xml:lang="en-US">
+        <seg>|Crew Quality|Check Modifier|Attack Bonus|
+|------------|:------------:|:----------:|
+|Untrained|–4|–2|
+|Normal|+2|+0|
+|Skilled|+4|+2|
+|Expert|+8|+4|
+|Ace|+12|+8/+3|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T132349Z" creationid="quentine" creationdate="20210713T132349Z">
+        <seg>|车组水平|检定调整值|攻击加值|
+|------------|:------------:|:----------:|
+|未受训|–4|–2|
+|一般|+2|+0|
+|老练|+4|+2|
+|专家|+8|+4|
+|精锐|+12|+8/+3|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
         <seg>|DC|Example Wall or Surface or Task|
 |:-:|------------------------------|
 |0|A slope too steep to walk up.|
@@ -55257,6 +55637,116 @@ This section covers offensive and defensive modifiers provided by position.</seg
 |从卧、坐、跪的姿态站起|是|
 |游泳|否|
 |使用一个需要移动动作的技能|通常会|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>|Name|Crew|Initiative|Maneuver|
+|----|:--:|:--------:|:------:|
+|**Civilian Aircraft**||||
+|Bell Jet Ranger|2 (Skilled +4)|+0|+0|
+|Bell Model 212|2 (Skilled +4)|+0|+0|
+|Cessna 172 Skyhawk|1 (Normal +2)|–2|–2|
+|Learjet Model 45|2 (Skilled +4)|+0|+0|
+|||||
+|**Civilian Cars**||||
+|Acura 3.2 TL|1 (Normal +2)|+0|+1|
+|Aston-Martin Vanquish|1 (Normal +2)|+0|+2|
+|BMW M3|1 (Normal +2)|+0|+3|
+|Chevrolet Cavalier|1 (Normal +2)|+1|+1|
+|Chevrolet Corvette|1 (Normal +2)|+0|+2|
+|Dodge Neon|1 (Normal +2)|+1|+1|
+|Ford Crown Victoria|1 (Normal +2)|+0|+1|
+|Jaguar XJS|1 (Normal +2)|+0|+1|
+|Lamborghini Diablo|1 (Normal +2)|+0|+3|
+|Mercedes E55 AMG|1 (Normal +2)|+0|+2|
+|Volkswagen Jetta|1 (Normal +2)|+0|+2|
+|||||
+|**Civilian Motorcycles**||||
+|Ducati 998R|1 (Normal +2)|+2|+5|
+|Harley Davidson FLSTF|1 (Normal +2)|+1|+3|
+|Yamaha YZ250F|1 (Normal +2)|+2|+4|
+|||||
+|**Civilian Trucks**||||
+|AM General Hummer|1 (Normal +2)|+0|+0|
+|Chevrolet Suburban|1 (Normal +2)|+0|+0|
+|Dodge Caravan|1 (Normal +2)|+0|+0|
+|Ford Escape XLT|1 (Normal +2)|+0|+0|
+|Ford F-150 XL|1 (Normal +2)|+0|+0|
+|Toyota Tacoma Xtracab |1 (Normal +2)|+0|+0|
+|||||
+|**Civilian Water Vehicles**||||
+|Bayliner 1802 Capri|1 (Normal +2)|+0|+0|
+|Fairline Targa 30|1 (Normal +2)|–2|–2|
+|Sea-Doo XP|1 (Normal +2)|+1|+3|
+|||||
+|**Other Vehicles**||||
+|Armored truck|2 (Skilled +4)|+2|+2|
+|Honda TRX400FW|1 (Normal +2)|+1|+3|
+|Limousine|1 (Skilled +4)|+0|+0|
+|Moving truck|1 (Normal +2)|–2|–2|
+|NABI Model 40LFW|1 (Skilled +4)|+0|+0|
+|||||
+|**Military Vehicles**||||
+|BMP-2|3 (Skilled +4)|+2|+2|
+|M1A2 Abrams|4 (Skilled +4)|+0|+0|
+|M2A2 Bradley|3 (Skilled +4)|+0|+0|
+|M113A1 Gavin|2 (Skilled +4)|+2|+2|
+|UH-60 Black Hawk|2 (Skilled +4)|+0|+0|</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN" changeid="quentine" changedate="20210713T133631Z" creationid="quentine" creationdate="20210713T132518Z">
+        <seg>|名称|车组水平|先攻值|机动调整值|
+|----|:--:|:--------:|:------:|
+|**民用航空**||||
+|贝尔206A喷气突击队员（直升机）|2 （老练+4）|+0|+0|
+|贝尔212型（直升机）|2 （老练+4）|+0|+0|
+|塞斯纳172天鹰（螺旋桨飞机）|1 （一般+2）|–2|–2|
+|里尔喷气45型（商务喷气机）|2 （老练+4）|+0|+0|
+|||||
+|**民用航空**||||
+|讴歌 3.2 TL （中型轿车）|1 （一般+2）|+0|+1|
+|阿斯顿·马丁-万奎仕 （运动型轿跑）|1 （一般+2）|+0|+2|
+|宝马 M3 （运动型轿跑）|1 （一般+2）|+0|+3|
+|佛兰科沃兹（经济型双座）|1 （一般+2）|+1|+1|
+|雪佛兰科尔维特（运动型轿跑）|1 （一般+2）|+0|+2|
+|道奇霓虹 （经济型轿车）|1 （一般+2）|+1|+1|
+|福特维多利亚皇冠 （中型轿车）|1 （一般+2）|+0|+1|
+|捷豹 XJ轿车 （奢侈型轿车）|1 （一般+2）|+0|+1|
+|兰博基尼迪亚波罗 （运动型轿跑）|1 （一般+2）|+0|+3|
+|梅赛德斯 E55 AMG （奢侈型轿车）|1 （一般+2）|+0|+2|
+|大众捷达 （中型旅行车）|1 （一般+2）|+0|+2|
+|||||
+|**民用摩托车**||||
+|杜卡迪 998R （跑车）|1 （一般+2）|+2|+5|
+|哈雷戴维森 FLSTF （街车）|1 （一般+2）|+1|+3|
+|雅马哈 YZ250F （越野车）|1 （一般+2）|+2|+4|
+|||||
+|**民用卡车**||||
+|AMG悍马（SUV）|1 （一般+2）|+0|+0|
+|雪佛兰萨博班（SUV）|1 （一般+2）|+0|+0|
+|道奇凯领 （多功能休旅车）|1 （一般+2）|+0|+0|
+|福特锐际 XLT （SUV）|1 （一般+2）|+0|+0|
+|福特 F-150 XL （皮卡）|1 （一般+2）|+0|+0|
+|丰田塔科马 Xtracab （皮卡）|1 （一般+2）|+0|+0|
+|||||
+|**民用船只**||||
+|贝琳娜 1802 卡普里 （轻型汽艇）|1 （一般+2）|+0|+0|
+|菲尔兰塔尔加 30 （大游艇）|1 （一般+2）|–2|–2|
+|喜度 XP （摩托艇）|1 （一般+2）|+1|+3|
+|||||
+|**其他民用载具**||||
+|武装卡车|2 （老练+4）|+2|+2|
+|本田TRX400FW（四轮沙滩车）|1 （一般+2）|+1|+3|
+|豪华轿车|1 （老练+4）|+0|+0|
+|大卡车|1 （一般+2）|–2|–2|
+|北美客车40LFW型 （城市公交）|1 （老练+4）|+0|+0|
+|||||
+|**军用载具**||||
+|BMP-2 （履带式步兵战车）|3 （老练+4）|+2|+2|
+|M1A2艾布拉姆斯 （履带式坦克）|4 （老练+4）|+0|+0|
+|M2A2布雷德利 （履带式步兵战车）|3 （老练+4）|+0|+0|
+|M113A1盖文（履带式步兵战车）|2 （老练+4）|+2|+2|
+|UH-60黑鹰 （直升机）|2 （老练+4）|+0|+0|</seg>
       </tuv>
     </tu>
     <tu>

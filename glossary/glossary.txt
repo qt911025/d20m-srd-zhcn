@@ -1419,3 +1419,7 @@ Losing Control	失控
 Spin	旋转
 Roll	翻滚
 Crew Quality	车组水平
+Skilled	老练	车组水平
+Expert	专家	车组水平
+Ace	精锐	车组水平
+destroyed	被摧毁

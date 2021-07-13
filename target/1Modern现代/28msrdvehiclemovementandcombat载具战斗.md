@@ -356,114 +356,114 @@
 
 载具有一项“车组水平”指标以概括所有乘员的战斗素质，这样GM就不需要为NPC车组创建每一个乘员的详细情况了。这项指标代表了乘员与载具系统的总体水平。
 
-`表：车组水平`提供了五个等级的车组水平，GM扮演的不同水平的车组都有相应的检定调整值。Use the check modifier for all skill checks related to the operation of the vehicle (including Drive and Repair checks). Use the attack bonus for all attack rolls performed by the crew. For quick reference, Table: Crewed Vehicles shows the typical crew quality, and the crew’s total initiative and maneuver modifiers, for the vehicles covered in this book.
+`表：车组水平`提供了五个等级的车组水平，GM扮演的不同水平的车组都有相应的检定调整值。载具的行动所需的所有技能检定都应用该调整值（包括驾驶和修理检定）。车组发起的所有攻击骰都应用对应的攻击加值。为了方便参照，`表：带车组的载具`给出了本规则书所有载具带乘员时的基础车组水平，以及车组的总先攻值和机动调整值。
 
-This by no means restricts the GM from creating unique vehicles where the crew’s statistics are included, or from using GM characters’ abilities when they drive or attack from vehicles. It’s merely a shortcut to save time if the GM doesn’t have particular characters behind the wheel.
+这并不是说要限定GM必须参照表中数据，GM是可以自定义每个车组成员的数据的。这只是一个节约时间的做法，允许GM不设定每一个乘员的数据。
 
-**Table: Vehicle Crew Quality**
+**表：车组水平**
 
-|Crew Quality|Check Modifier|Attack Bonus|
+|车组水平|检定调整值|攻击加值|
 |------------|:------------:|:----------:|
-|Untrained|–4|–2|
-|Normal|+2|+0|
-|Skilled|+4|+2|
-|Expert|+8|+4|
-|Ace|+12|+8/+3|
+|未受训|–4|–2|
+|一般|+2|+0|
+|老练|+4|+2|
+|专家|+8|+4|
+|精锐|+12|+8/+3|
 
-**Table: Crewed Vehicles**
+**表：带车组的载具**
 
-|Name|Crew|Initiative|Maneuver|
+|名称|车组水平|先攻值|机动调整值|
 |----|:--:|:--------:|:------:|
-|**Civilian Aircraft**||||
-|Bell Jet Ranger|2 (Skilled +4)|+0|+0|
-|Bell Model 212|2 (Skilled +4)|+0|+0|
-|Cessna 172 Skyhawk|1 (Normal +2)|–2|–2|
-|Learjet Model 45|2 (Skilled +4)|+0|+0|
+|**民用航空**||||
+|贝尔206A喷气突击队员（直升机）|2 （老练+4）|+0|+0|
+|贝尔212型（直升机）|2 （老练+4）|+0|+0|
+|塞斯纳172天鹰（螺旋桨飞机）|1 （一般+2）|–2|–2|
+|里尔喷气45型（商务喷气机）|2 （老练+4）|+0|+0|
 |||||
-|**Civilian Cars**||||
-|Acura 3.2 TL|1 (Normal +2)|+0|+1|
-|Aston-Martin Vanquish|1 (Normal +2)|+0|+2|
-|BMW M3|1 (Normal +2)|+0|+3|
-|Chevrolet Cavalier|1 (Normal +2)|+1|+1|
-|Chevrolet Corvette|1 (Normal +2)|+0|+2|
-|Dodge Neon|1 (Normal +2)|+1|+1|
-|Ford Crown Victoria|1 (Normal +2)|+0|+1|
-|Jaguar XJS|1 (Normal +2)|+0|+1|
-|Lamborghini Diablo|1 (Normal +2)|+0|+3|
-|Mercedes E55 AMG|1 (Normal +2)|+0|+2|
-|Volkswagen Jetta|1 (Normal +2)|+0|+2|
+|**民用航空**||||
+|讴歌 3.2 TL （中型轿车）|1 （一般+2）|+0|+1|
+|阿斯顿·马丁-万奎仕 （运动型轿跑）|1 （一般+2）|+0|+2|
+|宝马 M3 （运动型轿跑）|1 （一般+2）|+0|+3|
+|佛兰科沃兹（经济型双座）|1 （一般+2）|+1|+1|
+|雪佛兰科尔维特（运动型轿跑）|1 （一般+2）|+0|+2|
+|道奇霓虹 （经济型轿车）|1 （一般+2）|+1|+1|
+|福特维多利亚皇冠 （中型轿车）|1 （一般+2）|+0|+1|
+|捷豹 XJ轿车 （奢侈型轿车）|1 （一般+2）|+0|+1|
+|兰博基尼迪亚波罗 （运动型轿跑）|1 （一般+2）|+0|+3|
+|梅赛德斯 E55 AMG （奢侈型轿车）|1 （一般+2）|+0|+2|
+|大众捷达 （中型旅行车）|1 （一般+2）|+0|+2|
 |||||
-|**Civilian Motorcycles**||||
-|Ducati 998R|1 (Normal +2)|+2|+5|
-|Harley Davidson FLSTF|1 (Normal +2)|+1|+3|
-|Yamaha YZ250F|1 (Normal +2)|+2|+4|
+|**民用摩托车**||||
+|杜卡迪 998R （跑车）|1 （一般+2）|+2|+5|
+|哈雷戴维森 FLSTF （街车）|1 （一般+2）|+1|+3|
+|雅马哈 YZ250F （越野车）|1 （一般+2）|+2|+4|
 |||||
-|**Civilian Trucks**||||
-|AM General Hummer|1 (Normal +2)|+0|+0|
-|Chevrolet Suburban|1 (Normal +2)|+0|+0|
-|Dodge Caravan|1 (Normal +2)|+0|+0|
-|Ford Escape XLT|1 (Normal +2)|+0|+0|
-|Ford F-150 XL|1 (Normal +2)|+0|+0|
-|Toyota Tacoma Xtracab |1 (Normal +2)|+0|+0|
+|**民用卡车**||||
+|AMG悍马（SUV）|1 （一般+2）|+0|+0|
+|雪佛兰萨博班（SUV）|1 （一般+2）|+0|+0|
+|道奇凯领 （多功能休旅车）|1 （一般+2）|+0|+0|
+|福特锐际 XLT （SUV）|1 （一般+2）|+0|+0|
+|福特 F-150 XL （皮卡）|1 （一般+2）|+0|+0|
+|丰田塔科马 Xtracab （皮卡）|1 （一般+2）|+0|+0|
 |||||
-|**Civilian Water Vehicles**||||
-|Bayliner 1802 Capri|1 (Normal +2)|+0|+0|
-|Fairline Targa 30|1 (Normal +2)|–2|–2|
-|Sea-Doo XP|1 (Normal +2)|+1|+3|
+|**民用船只**||||
+|贝琳娜 1802 卡普里 （轻型汽艇）|1 （一般+2）|+0|+0|
+|菲尔兰塔尔加 30 （大游艇）|1 （一般+2）|–2|–2|
+|喜度 XP （摩托艇）|1 （一般+2）|+1|+3|
 |||||
-|**Other Vehicles**||||
-|Armored truck|2 (Skilled +4)|+2|+2|
-|Honda TRX400FW|1 (Normal +2)|+1|+3|
-|Limousine|1 (Skilled +4)|+0|+0|
-|Moving truck|1 (Normal +2)|–2|–2|
-|NABI Model 40LFW|1 (Skilled +4)|+0|+0|
+|**其他民用载具**||||
+|武装卡车|2 （老练+4）|+2|+2|
+|本田TRX400FW（四轮沙滩车）|1 （一般+2）|+1|+3|
+|豪华轿车|1 （老练+4）|+0|+0|
+|大卡车|1 （一般+2）|–2|–2|
+|北美客车40LFW型 （城市公交）|1 （老练+4）|+0|+0|
 |||||
-|**Military Vehicles**||||
-|BMP-2|3 (Skilled +4)|+2|+2|
-|M1A2 Abrams|4 (Skilled +4)|+0|+0|
-|M2A2 Bradley|3 (Skilled +4)|+0|+0|
-|M113A1 Gavin|2 (Skilled +4)|+2|+2|
-|UH-60 Black Hawk|2 (Skilled +4)|+0|+0|
+|**军用载具**||||
+|BMP-2 （履带式步兵战车）|3 （老练+4）|+2|+2|
+|M1A2艾布拉姆斯 （履带式坦克）|4 （老练+4）|+0|+0|
+|M2A2布雷德利 （履带式步兵战车）|3 （老练+4）|+0|+0|
+|M113A1盖文（履带式步兵战车）|2 （老练+4）|+2|+2|
+|UH-60黑鹰 （直升机）|2 （老练+4）|+0|+0|
 
-## Attack Options
+## 攻击选项
 
-Firing a vehicle’s weapon requires an attack action and uses the driver’s or gunner’s ranged attack modifier.
+用车载武器射击需要一个攻击动作，且应应用驾驶员或射击手的远程攻击调整值。
 
-A driver with 5 or more ranks in the Drive skill gains a +2 synergy bonus when firing vehicle-mounted weapons while driving.
+驾驶技能大于等于5级的驾驶员在驾驶时使用车载武器射击，将会获得2点共效加值。
 
-Some military vehicles are equipped with fire-control computers. These systems grant equipment bonuses on attack rolls with the vehicle-mounted weapons to which they apply.
+一些军用载具配备有火控电脑。这些系统会为车载武器的攻击骰提供装备加值。
 
 
-**Driving Defensively:** Just as in melee combat, one can fight defensively while driving a vehicle, which grants a +2 dodge bonus to the vehicle’s Defense and applies a –4 penalty on attack rolls made by occupants of the vehicle.
+**防御式驾驶：** 与近战攻击的情形相同，驾驶员在驾驶载具时可以采取防御式战斗，这可以为载具防御提供2点闪避加值，并使所有乘员的攻击骰受到4点减值。
 
-**Total Defense:** A driver can choose the total defense, action which grants a +4 dodge bonus to Defense but does not allow the driver to attack (gunners or passengers take a –8 penalty on attack rolls). These modifiers last until the driver’s next round of actions.
+**全防御：** 驾驶员可以采取全防御的策略，可以为防御提供4点闪避加值，驾驶员将不能攻击（射击手或乘员的攻击骰要受到8点减值）。这些调整值的有效期将持续到驾驶员的下一轮行动。
 
-**Full Attack Action:** A driver cannot normally make a full attack, since controlling the vehicle requires a move action.
+**全力攻击：** 驾驶员一般不可以全力攻击，因为控制载具需要一个移动动作。
 
-Gunners or passengers, however, can take full attack actions, since they don’t have to use a move action (except, perhaps, to change positions in the vehicle). In general, taking a full attack action is useful only if a character has a base attack bonus high enough to get multiple attacks. A passenger can make multiple attacks with his or her own weapon. A gunner can make multiple attacks with one or more weapons controlled from his or her position.
+而射击手或乘员可以全力攻击，因为他们没有必须使用的移动动作（除了换位置的时候）。一般来说，只有在角色的基础攻击加值足够高到可以发动多次攻击时，全力攻击才有用。乘员可以用自己的武器进行多次攻击。射击手可以用所处位置可用的一件或多件武器进行多次攻击。
 
-## Targeting Occupants
+## 针对乘员的攻击
 
-An attack made against a vehicle uses the vehicle’s Defense, modified by its speed category. Attackers can choose instead to target specific vehicle occupants.
+针对载具的攻击要用载具的防御值加上速度档次的调整值来防御。攻击方也可以选择攻击指定的乘员。
 
-An attack against a vehicle occupant is made like any other attack. Remember, however, that a character in a vehicle gains bonuses to Defense from both the vehicle’s speed and any cover it provides.
+攻击乘员的规则与其他战斗规则相同。但要注意的是，载具中的角色的防御将从载具的速度和载具提供的掩蔽获得加值。
 
-## Cover
+## 掩蔽
 
-When a character fires from a vehicle, objects or other vehicles in the way can provide cover for the target.
+当角色从载具中射击时，阻挡视线的物体或其他载具都能为目标提供掩蔽。
 
-## Damaging Vehicles
+## 对载具的伤害
 
-All vehicles have hit points, which are roughly equivalent to a character’s hit points. Like most inanimate objects, vehicles also have hardness. Whenever a vehicle takes damage, subtract the vehicle’s hardness from the damage dealt.
+所有载具都有生命值，基本上等价于角色的生命值。载具与大多数非生物物体一样，也有硬度。只要载具受到伤害，最终伤害值都要减去硬度。
 
-When a vehicle is reduced to 0 hit points, it is disabled. Although it might be repairable, it ceases functioning. A vehicle that is disabled while moving drops one speed category each round until it comes to a stop. The driver cannot attempt any maneuvers except a 45-degree turn.
+当载具的当前生命值减至0，载具报废。报废的载具将停止运转，但可以被修理并恢复运转。移动中的载具若被报废，每一轮都会降低一个速度档次，直到完全停止。驾驶员不能做出除了45度旋转以外的任何机动动作。
 
-Unlike characters, vehicles don’t “die” when they reach –10 hit points. Instead, a vehicle is destroyed when it loses hit points equal to twice its full normal total. A destroyed vehicle cannot be repaired.
+不像角色，载具在生命值减至-10时不会“死亡”。取而代之的规则是，载具在失去正常情形下的生命上限的两倍的生命值后，会被`摧毁`。被摧毁的载具不可再被修复。
 
-**Energy Attacks:** Vehicles are treated as objects when subjected to energy attacks.
+**能量攻击：** 载具在承受能量攻击时，会被视为物品。
 
-**Exploding Vehicles:** If the attack that disables a vehicle deals damage equal to half its full normal hit points or more, the vehicle explodes after 1d6 rounds. This explosion deals 10d6 points of fire damage to everyone within the vehicle (Reflex save, DC 20, for half damage), and half that much to everyone and everything within 30 feet of the explosion (Reflex save, DC 15, for half damage).
+**载具爆炸：** 如果使载具瘫痪的那一次攻击造成了大于等于其正常生命值一半的伤害，载具将在1d6回合后爆炸。爆炸会对载具中的每个人造成10d6点火焰伤害（反射检定，DC20，可使伤害减半），并会对爆炸中心30尺内所有生物和物体造成前者的一半伤害（反射检定，DC15，以使伤害减半）。
 
-## Repairing Damage
+## 修理伤害
 
-Repairing damage to a vehicle takes a full hour of work, a mechanical tool kit, and a garage or some other suitable facility. (Without the tool kit, a character takes a –4 penalty on his or her Repair check.) At the end of the hour, make a Repair check (DC 20). 若成功则恢复2d6生命值。If damage remains, the character may continue to make repairs for as many hours as it takes to restore all of the vehicle’s hit points.
+修理载具的伤害要花费一整小时的时间，还需要机械工具、车库以及其他配套的设施。（如果没有工具，角色的修理检定承受4点减值。）在这一小时结束时，做一个修理鉴定（DC20）。若成功则恢复2d6生命值。如果仍有伤害，角色可以继续修理多个小时，直到完全恢复。
