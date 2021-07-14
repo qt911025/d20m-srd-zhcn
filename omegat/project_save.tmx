@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># CREATURE OVERVIEW</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T135604Z" creationid="quentine" creationdate="20210714T135604Z">
+        <seg># 生物概述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># Changing Ability Scores</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T140451Z" creationid="QuenTine" creationdate="20181103T140451Z">
@@ -558,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Challenge Rating (CR)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T140353Z" creationid="quentine" creationdate="20210714T140353Z">
+        <seg>## 挑战等级（CR）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Challenge Ratings</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T123347Z" creationid="quentine" creationdate="20190703T123347Z">
@@ -764,6 +780,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181104T125240Z" creationid="QuenTine" creationdate="20181104T125240Z">
         <seg>## 创作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Creature Description</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T135631Z" creationid="quentine" creationdate="20210714T135631Z">
+        <seg>## 生物描述</seg>
       </tuv>
     </tu>
     <tu>
@@ -1984,6 +2008,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Size</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T140932Z" creationid="quentine" creationdate="20210714T140932Z">
+        <seg>## 体型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Size Modifier</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T123634Z" creationid="quentine" creationdate="20190114T123634Z">
@@ -2388,6 +2420,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191028T133821Z" creationid="quentine" creationdate="20191028T133821Z">
         <seg>## 翻滚（敏）需受训；护甲减值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Type</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T141449Z" creationid="quentine" creationdate="20210714T141449Z">
+        <seg>## 种类</seg>
       </tuv>
     </tu>
     <tu>
@@ -18446,6 +18486,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A creature falls into one of nine size categories.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T141041Z" creationid="quentine" creationdate="20210714T141041Z">
+        <seg>生物的体型在9个等级的体型的范围内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A creature is im-mune to its own gaze attack unless otherwise noted.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T130308Z" creationid="quentine" creationdate="20191031T130308Z">
@@ -18526,10 +18574,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A creature’s Challenge Rating provides a rough measure of the creature’s toughness in a combat situation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T140500Z" creationid="quentine" creationdate="20210714T140500Z">
+        <seg>生物的挑战等级代表着生物在战斗中的大致难度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A creature’s size works in its favor when grappling, if that creature is Large or larger in size.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142343Z" creationid="qt911" creationdate="20210609T142343Z">
         <seg>如果生物是大型或更大的体型，这将有利于擒抱检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A creature’s type determines many of its characteristics and abilities: physical ability scores, Hit Die type, base attack bonus, saving throw bonuses, skill points, feats, and special qualities.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T142315Z" creationid="quentine" creationdate="20210714T141823Z">
+        <seg>生物的种类决定了生物的许多特性和能力：肉体属性值、生命骰类型、基础攻击加值、豁免骰加值、技能点、专长、以及特殊能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22712,6 +22776,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As a rule of thumb, four heroes of a level equal to the creature’s Challenge Rating should exhaust roughly one-quarter of their resources battling it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T140732Z" creationid="quentine" creationdate="20210714T140732Z">
+        <seg>从经验上讲，四个等级与生物的挑战等级相等的英雄要战胜该生物，会消耗他们1/4的资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As a rule of thumb, one additional passenger can be carried for each 250 pounds of unused cargo capacity.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200701T113359Z" creationid="quentine" creationdate="20200701T113359Z">
@@ -23530,8 +23602,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>At 5th level, a Daredevil can temporarily increase one of his or her physical ability scores (Strength, Dexterity, or Constitution).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190421T123648Z" creationid="quentine" creationdate="20190421T121804Z">
-        <seg>5级时，勇士可以暂时增加一项身体属性（力量、敏捷或者体质）。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T142343Z" creationid="quentine" creationdate="20190421T121804Z">
+        <seg>5级时，勇士可以暂时增加一项肉体属性（力量、敏捷或者体质）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23714,8 +23786,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>At 8th level, a Daredevil can temporarily increase two physical ability scores.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190421T123656Z" creationid="quentine" creationdate="20190421T123535Z">
-        <seg>8级时，勇士可增益两项身体属性。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T142410Z" creationid="quentine" creationdate="20190421T123535Z">
+        <seg>8级时，勇士可增益两项肉体属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24740,6 +24812,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191113T134921Z" creationid="quentine" creationdate="20191113T134921Z">
         <seg>公务装：公务装一般包括一件夹克或西装，更注重展现干练的形象而又不显得过于正式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But situations may arise where a creature’s Challenge Rating does not accurately reflect the difficulty of the challenge.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T140924Z" creationid="quentine" creationdate="20210714T140924Z">
+        <seg>然而，也会有生物的挑战等级不能精准地反映挑战难度的情况发生。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26497,6 +26577,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Each creature is organized in the same general format, as described in the following text.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T135808Z" creationid="quentine" creationdate="20210714T135808Z">
+        <seg>每种生物都将以相同的格式组织描述，下文将详细介绍格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each hour that the character swims, make a Swim check against DC 20.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T142857Z" creationid="quentine" creationdate="20191027T142857Z">
@@ -26613,6 +26701,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201119T113039Z" creationid="quentine" creationdate="20201119T113039Z">
         <seg>每轮是从有最高先攻的角色开始的，然后按顺序继续下去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Each size category includes a size modifier that applies to the creature’s Defense and attack rolls; a modifier that applies to grapple checks; and a modifier that applies to Hide checks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T141356Z" creationid="quentine" creationdate="20210714T141356Z">
+        <seg>每个体型等级包括了一个体型调整值，该调整值会应用到生物的防御与攻击骰上；也包括了一个应用于擒抱检定的调整值；还有一个应用于躲藏检定的调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35083,6 +35179,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mental ability scores (Intelligence, Wisdom, and Charisma) can vary widely among creatures of a type; unless a type description specifies a particular score for one of these abilities, the GM will assign values as he or she deems appropriate.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T142708Z" creationid="quentine" creationdate="20210714T142708Z">
+        <seg>不同种类的生物，其精神属性值（智力、感知、以及魅力）差别巨大；除非生物种类的描述指定了其中的属性，GM可自行酌情设置属性值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Military and police forces use these weapons to create temporary concealment.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20200508T123354Z">
@@ -35423,6 +35527,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210106T132204Z" creationid="qt911" creationdate="20210106T132204Z">
         <seg>移动出威胁的方格：当角色移动出一个正在被威胁的方格，角色通常会引发借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Much of the information on a creature is condensed into a creature statistics block, the contents of which are explained below.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T140341Z" creationid="quentine" creationdate="20210714T140222Z">
+        <seg>生物的大多数信息都简要地写在信息块中，并在下方详细解释其内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -45737,6 +45849,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The size categories are briefly described in Table: Creature Sizes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T141202Z" creationid="quentine" creationdate="20210714T141202Z">
+        <seg>`表：生物体型`简略地描述了体型范畴。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The size of the falling object determines the save DC.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T140147Z" creationid="quentine" creationdate="20190115T140147Z">
@@ -46758,6 +46878,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200424T120329Z" creationid="quentine" creationdate="20200424T120329Z">
         <seg>一枚这种弹药由长长的箭柄和锋利的箭头组成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These modifiers have been figured into the statistics for the creatures described here.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210714T141445Z" creationid="quentine" creationdate="20210714T141445Z">
+        <seg>这些调整值将在生物的数据中给出。</seg>
       </tuv>
     </tu>
     <tu>

@@ -1423,3 +1423,6 @@ Skilled	老练	车组水平
 Expert	专家	车组水平
 Ace	精锐	车组水平
 destroyed	被摧毁
+physical ability	肉体属性
+special qualities	特殊能力
+Mental ability	精神属性
