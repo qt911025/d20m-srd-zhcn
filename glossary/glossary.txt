@@ -1426,3 +1426,6 @@ destroyed	被摧毁
 physical ability	肉体属性
 special qualities	特殊能力
 Mental ability	精神属性
+ooze	泥形怪类
+plant	植物类
+species bonus	物种加值

@@ -1376,6 +1376,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Hit Dice (HD) and Hit Points (hp)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210715T141240Z" creationid="quentine" creationdate="20210715T141240Z">
+        <seg>## 生命骰（HD）与生命值（hp）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Hit Points</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T121705Z" creationid="quentine" creationdate="20190703T121705Z">
@@ -1532,6 +1540,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T141815Z" creationid="quentine" creationdate="20190114T141815Z">
         <seg>## 巨创</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Massive Damage Threshold (Mas)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210715T142316Z" creationid="quentine" creationdate="20210715T142316Z">
+        <seg>## 巨创阈值（Mas）</seg>
       </tuv>
     </tu>
     <tu>
@@ -18582,10 +18598,42 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A creature’s Hit Dice and Constitution modifier determine its hit points.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210715T141926Z" creationid="quentine" creationdate="20210715T141926Z">
+        <seg>生物的生命骰和体质调整值决定了其生命值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A creature’s Hit Dice is equivalent to its level for determining how various FX abilities affect the creature, its rate of natural healing, and its maximum ranks in a skill.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210715T141844Z" creationid="quentine" creationdate="20210715T141844Z">
+        <seg>生物的生命骰在决定生物有多少超自然能力、自然恢复率、以及最高技能级数时，可当作等级使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A creature’s entry gives the creature’s average hit points.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210715T142234Z" creationid="quentine" creationdate="20210715T141944Z">
+        <seg>生物的简述中会提到这种生物的平均生命值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A creature’s size works in its favor when grappling, if that creature is Large or larger in size.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142343Z" creationid="qt911" creationdate="20210609T142343Z">
         <seg>如果生物是大型或更大的体型，这将有利于擒抱检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A creature’s type and size determine its Hit Dice.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210715T141322Z" creationid="quentine" creationdate="20210715T141322Z">
+        <seg>生物的生命骰由种类和体型决定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25540,6 +25588,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Constructs, elementals, oozes, plants, and undead ignore the effects of massive damage and do not have massive damage thresholds.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210715T143156Z" creationid="quentine" creationdate="20210715T143156Z">
+        <seg>构装体类、元素类、泥形怪类、植物类以及不死生物类免疫巨创效果，也没有巨创阈值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Consult the tables below to determine where the explosive lands.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210606T141355Z" creationid="qt911" creationdate="20210606T141355Z">
@@ -31453,6 +31509,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T145420Z" creationid="quentine" creationdate="20190114T145420Z">
         <seg>如果伤害大于等于目标的巨创阈值，目标必须进行强韧豁免判定（DC15）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the damage would reduce the creature to –1 hit points or fewer anyway, the massive damage threshold does not apply, and the creature does not need to make a Fortitude save.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210715T142657Z" creationid="quentine" creationdate="20210715T142657Z">
+        <seg>如果某次伤害会使生物的生命值降至-1甚至更低，则巨创阈值不会生效，生物也无需做强韧豁免。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50631,6 +50695,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Vermin gain a +5 species bonus on their Fortitude saves to avoid falling to –1 hit points.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210715T143528Z" creationid="quentine" creationdate="20210715T143528Z">
+        <seg>虫类的强韧豁免，在用于避免生命值跌至-1时，拥有5点物种加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wealth checks are used to determine what characters can afford and what gear they might reasonably have access to.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181106T134208Z" creationid="QuenTine" creationdate="20181106T134208Z">
@@ -51027,6 +51099,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="quentine" creationdate="20191031T132844Z">
         <seg>生物用精通攫抓缠握对手，会把对手拖拽至自己的方格内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When a creature takes damage from a single attack equal to or greater than its current Constitution, it must succeed on a Fortitude save (DC 15) or immediately drop to –1 hit points.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210715T142713Z" creationid="quentine" creationdate="20210715T142520Z">
+        <seg>当生物受到单次攻击的伤害大于等于其当前的体质值时，它必须进行一次强韧豁免（DC15），若失败则生命值立即降至-1。</seg>
       </tuv>
     </tu>
     <tu>
