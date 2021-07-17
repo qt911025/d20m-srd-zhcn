@@ -1429,3 +1429,10 @@ Mental ability	精神属性
 ooze	泥形怪类
 plant	植物类
 species bonus	物种加值
+Burrow	钻地
+rushed	匆忙
+Perfect	完美	飞行机动性
+Good	优秀	飞行机动性
+Poor	不佳	飞行机动性
+Clumsy	笨拙	飞行机动性
+dive attack	俯冲攻击

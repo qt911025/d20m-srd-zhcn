@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Base Attack Bonus (BAB)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210717T135505Z" creationid="quentine" creationdate="20210717T135505Z">
+        <seg>## 基础攻击加值（BAB）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Basic Class Descriptions</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T114318Z" creationid="quentine" creationdate="20190116T114318Z">
@@ -1304,6 +1312,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Grapple Modifier (Grap)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210717T140431Z" creationid="quentine" creationdate="20210717T140431Z">
+        <seg>## 擒抱调整值（Grap）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Grappled</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T124636Z" creationid="quentine" creationdate="20190115T122851Z">
@@ -1412,6 +1428,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T123023Z" creationid="quentine" creationdate="20201118T123023Z">
         <seg>## 先攻</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Initiative (Init)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T111425Z" creationid="quentine" creationdate="20210716T111425Z">
+        <seg>## 先攻（Init）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2116,6 +2140,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T121359Z" creationid="quentine" creationdate="20201118T121359Z">
         <seg>## 速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Speed (Spd)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T111544Z" creationid="quentine" creationdate="20210716T111544Z">
+        <seg>## 速度（Spd）</seg>
       </tuv>
     </tu>
     <tu>
@@ -9134,6 +9166,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Average:** The creature can fly as adroitly as a small bird.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T114543Z" creationid="quentine" creationdate="20210716T114543Z">
+        <seg>**一般：** 生物的飞行能力如小鸟一样熟练。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Averting One’s Eyes:** The opponent avoids looking at the creature’s face and instead looks at its body, watching its shadow, tracking it in a reflective surface, or the like.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T125238Z" creationid="quentine" creationdate="20191031T125238Z">
@@ -10055,6 +10095,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Burrow:** The creature can tunnel through dirt, but not through rock unless the descriptive text says otherwise.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T112309Z" creationid="quentine" creationdate="20210716T112309Z">
+        <seg>**钻地：** 生物能钻入土中，但不能钻入岩石地表，除非另有说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Burst Radius/Splash Damage:** For explosives, the burst radius is the area affected by the explosive.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200506T134919Z" creationid="quentine" creationdate="20200506T134919Z">
@@ -10523,6 +10571,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T115951Z" creationid="quentine" creationdate="20190116T115951Z">
         <seg>**职业专长：** 依赖于等级的职业专长，解释见下文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Climb:** A creature with a climb speed has the Climb skill at no cost and gains a +8 species bonus on Climb checks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T112517Z" creationid="quentine" creationdate="20210716T112400Z">
+        <seg>**攀爬：** 具有攀爬速度的生物自带攀爬技能，且攀爬检定将有8点物种加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Clumsy:** The creature can barely fly at all.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T114905Z" creationid="quentine" creationdate="20210716T114905Z">
+        <seg>**笨拙：** 生物几乎不能飞行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11239,6 +11303,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Fly:** The creature can fly at the given speed if carrying no more than a medium load.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T113608Z" creationid="quentine" creationdate="20210716T113402Z">
+        <seg>**飞行：** 生物能在负载不高于中度的条件下，以给定速度飞行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Fort Save:** The base save bonus for Fortitude saving throws.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T115616Z" creationid="quentine" creationdate="20190116T115616Z">
@@ -11291,6 +11363,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T073801Z" creationid="quentine" creationdate="20191027T073801Z">
         <seg>**日耳曼语：** 南非荷兰语、丹麦语、荷兰语、英语、佛兰德语、德语、冰岛语、挪威语、瑞典语、意第绪语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Good:** The creature is agile in the air, but cannot change direction as readily as one with perfect maneuverability.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T114501Z" creationid="quentine" creationdate="20210716T114243Z">
+        <seg>**优秀：** 生物能在空中敏捷地机动，但不能如完美机动一般随时转向。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12215,6 +12295,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Perfect:** The creature can perform almost any aerial maneuver it wishes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T114216Z" creationid="quentine" creationdate="20210716T114216Z">
+        <seg>**完美：** 生物能在空中随心所欲地机动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Perform (DC 15):** The animal does a variety of simple tricks such as sitting up, rolling over, and so on.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190929T123307Z" creationid="quentine" creationdate="20190929T123144Z">
@@ -12283,6 +12371,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190922T132638Z" creationid="quentine" creationdate="20190921T123613Z">
         <seg>**毒素：** 固体毒素通常需要摄取才能生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Poor:** The creature flies as well as a very large bird.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T114759Z" creationid="quentine" creationdate="20210716T114759Z">
+        <seg>**不佳：** 生物的飞行能力笨拙得像一只巨鸟。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14180,6 +14276,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191102T024500Z" creationid="quentine" creationdate="20191102T024253Z">
         <seg>**活吞（特异）：** 如果具有此特殊攻击的生物在回合开始时正用嘴抓握一个对手（参见精通攫抓），它可以在进行一次新的擒抱检定（如同尝试压制对手）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Swim:** A creature with a swim speed can move through water at the given speed without making Swim checks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T115339Z" creationid="quentine" creationdate="20210716T115339Z">
+        <seg>**游泳：** 具有游泳速度的生物可以以给定的速度穿越水域移动，不需要做游泳检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18598,6 +18702,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A creature’s Defense includes a parenthetical mention of the modifiers contributing to it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210717T135242Z" creationid="quentine" creationdate="20210717T135242Z">
+        <seg>生物的防御值后面跟着一段括号标注，里面包含了形成该防御值的所有调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A creature’s Hit Dice and Constitution modifier determine its hit points.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210715T141926Z" creationid="quentine" creationdate="20210715T141926Z">
@@ -18614,6 +18726,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A creature’s base attack bonus does not include any modifiers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210717T135531Z" creationid="quentine" creationdate="20210717T135531Z">
+        <seg>生物的基础攻击加值不包含任何调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A creature’s base attack bonus is derived by cross-referencing the creature’s Hit Dice and type on Table: Creature Saves and Base Attack Bonuses.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210717T140419Z" creationid="quentine" creationdate="20210717T140250Z">
+        <seg>生物的基础攻击加值是将生物的生命骰和类型，根据`表：生物的豁免和基础攻击加值`对照得出的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A creature’s entry gives the creature’s average hit points.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210715T142234Z" creationid="quentine" creationdate="20210715T141944Z">
@@ -18626,6 +18754,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142343Z" creationid="qt911" creationdate="20210609T142343Z">
         <seg>如果生物是大型或更大的体型，这将有利于擒抱检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A creature’s tactical speed on land is the amount of distance it can cover in one move action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T111711Z" creationid="quentine" creationdate="20210716T111711Z">
+        <seg>生物在战斗中的移动速度，是一个移动动作中总共能移动的距离。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18706,6 +18842,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191202T115255Z" creationid="quentine" creationdate="20191202T115255Z">
         <seg>一次充电至少能使用24小时的手持或头戴的数字通讯设备。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A dive attack works just like a charge, but the diving creature must move a minimum of 30 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T115034Z" creationid="quentine" creationdate="20210716T115034Z">
+        <seg>俯冲攻击的机制与冲锋大致相同，区别在于俯冲攻击需要先移动至少30尺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21052,6 +21196,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200424T131401Z" creationid="quentine" creationdate="20200424T131244Z">
         <seg>所有的爆炸物必须被触发才能爆炸。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All fly speeds include a parenthetical note indicating maneuverability:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T113714Z" creationid="quentine" creationdate="20210716T113714Z">
+        <seg>所有的飞行速度都跟着一个括号值，括号内为机动性：</seg>
       </tuv>
     </tu>
     <tu>
@@ -25788,6 +25940,38 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creatures can use the run action while flying, provided they fly in a straight line.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T115238Z" creationid="quentine" creationdate="20210716T115238Z">
+        <seg>生物可以在飞行时执行奔跑动作，在这种状态下，生物可以直线飞行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creatures can use the run action while swimming, provided they swim in a straight line.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T115804Z" creationid="quentine" creationdate="20210716T115804Z">
+        <seg>生物可以在游泳时执行奔跑动作，在这种状态下，生物可以在水中直线移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creatures cannot run while burrowing.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T112326Z" creationid="quentine" creationdate="20210716T112326Z">
+        <seg>生物不能在钻地状态奔跑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creatures cannot use the run action while climbing.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T113124Z" creationid="quentine" creationdate="20210716T113124Z">
+        <seg>生物在攀爬时不能奔跑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creatures immune to critical hits are also immune to the effects of massive damage.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T144403Z" creationid="quentine" creationdate="20190114T144403Z">
@@ -25800,6 +25984,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210617T145526Z" creationid="qt911" creationdate="20210617T145256Z">
         <seg>体型比目标低一级的生物算半个，体型比目标高一级的生物算两个，高大于等于两级的生物算4个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creatures that fly can make dive attacks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T114939Z" creationid="quentine" creationdate="20210716T114939Z">
+        <seg>飞行的生物可以发动俯冲攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29553,6 +29745,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it attempts an accelerated climb, it moves at double the given climb speed (or its normal land speed, whichever is less) and makes a single Climb check at a –5 penalty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T113105Z" creationid="quentine" creationdate="20210716T113105Z">
+        <seg>如果生物尝试加速攀爬，它将会以双倍的速度攀爬（或者以正常的平地移动速度攀爬，取两者中较小者），加速攀爬所需的每次攀爬检定都会受到5点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If it can act, it applies its Intelligence modifier to initiative checks instead of a Dexterity modifier.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T134040Z" creationid="QuenTine" creationdate="20181103T134040Z">
@@ -31501,6 +31701,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="quentine" creationdate="20191031T132701Z">
         <seg>如果生物不紧勒，在每轮的擒抱检定中，每次成功的擒抱检定将造成最初缠握时所造成的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the creature has other modes of movement, these are given after the main entry.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T113456Z" creationid="quentine" creationdate="20210716T112102Z">
+        <seg>如果生物有其他移动模式，以下模式将会出现在数据中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the creature wears armor that reduces its speed, this fact is given along with a parenthetical note indicating the armor type; the creature’s base unarmored speed follows.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T114005Z" creationid="quentine" creationdate="20210716T112033Z">
+        <seg>如果生物穿着会削减速度的护甲，会以括号标示，括号内写明了所穿着的护甲类型；后面跟着生物未着甲时的基础速度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -33641,6 +33857,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It can make only claw attacks, but these deal double damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T115106Z" creationid="quentine" creationdate="20210716T115106Z">
+        <seg>俯冲攻击只能以爪子攻击，但可以造成双倍伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It can’t be repaired.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190518T130317Z" creationid="quentine" creationdate="20190518T130317Z">
@@ -33789,6 +34013,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T095606Z" creationid="quentine" creationdate="20200117T095606Z">
         <seg>功能上与标准手电筒相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It gains a +8 species bonus on any Swim check to perform some special action or avoid a hazard.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T115528Z" creationid="quentine" creationdate="20210716T115528Z">
+        <seg>在需要用游泳检定执行特殊动作或规避险情时，游泳检定有8点加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34061,6 +34293,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190627T133337Z" creationid="quentine" creationdate="20190627T133337Z">
         <seg>它一般是超小型或微型的，可以轻松地用单手握住使用，它的重量也应很小，小到不会影响侍僧的负重。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is used to calculate a creature’s grapple modifier as well as the maximum bonus on damage rolls for a creature using the Power Attack feat.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210717T140029Z" creationid="quentine" creationdate="20210717T140029Z">
+        <seg>它用于计算生物的擒抱调整值，以及`猛力攻击`专长中，伤害骰调整值的上限。</seg>
       </tuv>
     </tu>
     <tu>
@@ -43985,6 +44225,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The creature always can choose to take 10, even if distracted or endangered when swimming.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T115725Z" creationid="quentine" creationdate="20210716T115725Z">
+        <seg>生物的游泳检定总是可以取10，即使生物处于分心或在险情中都可以。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The creature automatically fails Strength checks.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T133426Z" creationid="QuenTine" creationdate="20181103T133426Z">
@@ -44017,6 +44265,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The creature climbs at the given speed while climbing.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T112836Z" creationid="quentine" creationdate="20210716T112836Z">
+        <seg>生物攀爬的速度将会在数据中给出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The creature fails all Reflex saves and Dexterity checks.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T134240Z" creationid="QuenTine" creationdate="20181103T134240Z">
@@ -44045,6 +44301,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210611T135623Z" creationid="quentine" creationdate="20191031T133119Z">
         <seg>生物在缠握对手时不会视为被擒抱状态，所以仍会威胁相邻方格并保留敏捷加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The creature must make a Climb check to climb any wall or slope with a DC greater than 0, but it always can choose to take 10, even if rushed or threatened while climbing.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T112745Z" creationid="quentine" creationdate="20210716T112745Z">
+        <seg>生物要攀爬任何DC大于0的墙或斜坡都需要做攀爬检定，但生物总是可以取10，即使生物处于匆忙或受威胁都可以。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The creature retains its Dexterity bonus to Defense (if any) while climbing, and opponents get no special bonus on their attack rolls against the climbing creature.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T113335Z" creationid="quentine" creationdate="20210716T113335Z">
+        <seg>生物在攀爬时，防御的敏捷加值仍有效，且对手对正在攀爬的生物的攻击骰没有特殊的加值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44093,6 +44365,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T125158Z" creationid="quentine" creationdate="20191030T125158Z">
         <seg>生物的描述将给出所伤害的能力种类和大小。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The creature’s modifier on initiative checks is usually equal to its Dexterity modifier, although the Improved Initiative feat provides an additional +4 bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T111537Z" creationid="quentine" creationdate="20210716T111537Z">
+        <seg>生物的先攻调整值一般等于敏捷调整值，但`精通先攻`专长会额外提供4点调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The creature’s “touch” Defense (discounting natural armor and other armor modifiers) and “flat-footed” Defense (discounting Dexterity bonus and class bonus, if any) are provided as well.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210717T135454Z" creationid="quentine" creationdate="20210717T135454Z">
+        <seg>生物的`接触防御`（减去了天生护甲和其他护甲调整值的防御值）和`措手不及防御`（减去了敏捷加值和等级加值的防御值）也会给出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44805,6 +45093,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T124721Z" creationid="quentine" creationdate="20200117T124721Z">
         <seg>以上参考购买DC是地处城郊的一般价格。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The grapple modifiers for creatures of various sizes are given in Table: Creature Sizes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210717T140801Z" creationid="quentine" creationdate="20210717T140801Z">
+        <seg>各体型的生物的擒抱调整值由`表：生物体型`给出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -46398,6 +46694,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200116T022929Z" creationid="quentine" creationdate="20200116T022917Z">
         <seg>该工具适用于特定的工作，这些由GM裁决，而不一定适用于所有情形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The total modifier on grapple checks is determined as follows: base attack bonus + Strength modifier + grapple modifier.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210717T140716Z" creationid="quentine" creationdate="20210717T140626Z">
+        <seg>擒抱检定的总调整值由此公式得出：基础攻击加值 + 力量调整值 + 擒抱调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50175,6 +50479,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unless noted otherwise, modes of movement are natural (not magical).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210716T112139Z" creationid="quentine" creationdate="20210716T112139Z">
+        <seg>除非另有说明，移动模式默认是自然移动（而非魔法）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unless noted otherwise, the opponent can be up to one size category smaller than the swallowing creature.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191102T024709Z" creationid="quentine" creationdate="20191102T024709Z">
@@ -51811,6 +52123,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190112T061316Z" creationid="QuenTine" creationdate="20181106T140704Z">
         <seg>即只要角色购买了DC大于财富加值的物品，角色的财富加值会减少（如下）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whenever a creature makes an opposed grapple check, apply this modifier to its d20 roll.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210717T140523Z" creationid="quentine" creationdate="20210717T140523Z">
+        <seg>当生物要做擒抱的对抗检定时，将此调整值加到d20上。</seg>
       </tuv>
     </tu>
     <tu>
