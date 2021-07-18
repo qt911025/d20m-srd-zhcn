@@ -1436,3 +1436,8 @@ Good	优秀	飞行机动性
 Poor	不佳	飞行机动性
 Clumsy	笨拙	飞行机动性
 dive attack	俯冲攻击
+Bite	咬
+Claw or Rake	抓挠
+Gore	顶
+Slap or Slam	拍
+Sting	叮

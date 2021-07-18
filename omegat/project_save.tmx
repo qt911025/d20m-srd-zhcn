@@ -1248,6 +1248,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Full Attack (Full Atk)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T142514Z" creationid="quentine" creationdate="20210718T142514Z">
+        <seg>## 全力攻击（Full Atk）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Full-Round Actions</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T123036Z" creationid="qt911" creationdate="20210105T123036Z">
@@ -1560,6 +1568,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Manufactured Weapons</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T142353Z" creationid="quentine" creationdate="20210718T142353Z">
+        <seg>## 人造武器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Massive Damage</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T141815Z" creationid="quentine" creationdate="20190114T141815Z">
@@ -1684,6 +1700,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181104T074905Z" creationid="QuenTine" creationdate="20181104T074905Z">
         <seg>## 国家</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Natural Weapons</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T135834Z" creationid="quentine" creationdate="20210718T135834Z">
+        <seg>## 天生武器</seg>
       </tuv>
     </tu>
     <tu>
@@ -1836,6 +1860,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T141016Z" creationid="quentine" creationdate="20190115T140907Z">
         <seg>## 毒素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Primary Attack (Atk)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T134902Z" creationid="quentine" creationdate="20210718T134902Z">
+        <seg>## 主要攻击（Atk）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10015,6 +10047,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Bite:** The creature attacks with its mouth, dealing piercing damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T140432Z" creationid="quentine" creationdate="20210718T140432Z">
+        <seg>**咬：** 生物用嘴攻击，造成穿刺伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Blindsight (Ex):** Using nonvisual senses, such as sensitivity to vibrations, scent, acute hearing, or echolocation, the creature maneuvers and fights as well as a sighted creature.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T125741Z" creationid="quentine" creationdate="20191030T125741Z">
@@ -10571,6 +10611,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T115951Z" creationid="quentine" creationdate="20190116T115951Z">
         <seg>**职业专长：** 依赖于等级的职业专长，解释见下文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Claw or Rake:** The creature rips with a sharp appendage, dealing slashing damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T141846Z" creationid="quentine" creationdate="20210718T141552Z">
+        <seg>**抓挠：** 生物以尖利的附加物，如爪子，撕裂，造成劈砍伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11371,6 +11419,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210716T114501Z" creationid="quentine" creationdate="20210716T114243Z">
         <seg>**优秀：** 生物能在空中敏捷地机动，但不能如完美机动一般随时转向。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Gore:** The creature spears the opponent with an antler, horn, or similar appendage, dealing piercing damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T142030Z" creationid="quentine" creationdate="20210718T142030Z">
+        <seg>**顶：** 生物以角或类似的附加物突刺，造成穿刺伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13512,6 +13568,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Slap or Slam:** The creature batters opponents with an appendage, dealing bludgeoning damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T142211Z" creationid="quentine" creationdate="20210718T142211Z">
+        <seg>**拍：** 生物以附加物拍打对手，造成钝击伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Slavic:** Belorussian, Bulgarian, Czech, Polish, Russian, Serbo-Croatian, Slovak, Ukrainian.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T074633Z" creationid="quentine" creationdate="20191027T074633Z">
@@ -14228,6 +14292,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T094304Z" creationid="quentine" creationdate="20191027T093833Z">
         <seg>**待在鞍上（DC5）：** 在坐骑剧烈抖动或者角色受到伤害时，角色可以作出反应防止跌落。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Sting:** The creature stabs with a stinger, dealing piercing dam-age.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T142329Z" creationid="quentine" creationdate="20210718T142329Z">
+        <seg>**叮：** 生物以尖刺叮咬，造成穿刺伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18686,6 +18758,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A creature with the Weapon Finesse feat can use its Dexterity modifier on its primary attack.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T135255Z" creationid="quentine" creationdate="20210718T135255Z">
+        <seg>有`武器娴熟`专长的生物可以在主要攻击中应用敏捷调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A creature with the scent ability can follow tracks by smell, making a Wisdom check to find or follow a track.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T144710Z" creationid="quentine" creationdate="20191031T144644Z">
@@ -18746,6 +18826,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210715T142234Z" creationid="quentine" creationdate="20210715T141944Z">
         <seg>生物的简述中会提到这种生物的平均生命值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A creature’s primary attack damage includes its full Strength modifier (1.5 times its Strength bonus if it is the creature’s sole attack).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T135619Z" creationid="quentine" creationdate="20210718T135619Z">
+        <seg>生物的主要攻击伤害已将其全力量调整值（如果此次攻击是该生物的单次攻击，则为1.5倍于力量加值）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25940,6 +26028,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creatures can attack with natural weapons, manufactured weapons, or sometimes both.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T135829Z" creationid="quentine" creationdate="20210718T135829Z">
+        <seg>生物可以用天生武器、人造武器或两者来攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creatures can use the run action while flying, provided they fly in a straight line.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210716T115238Z" creationid="quentine" creationdate="20210716T115238Z">
@@ -25992,6 +26088,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210716T114939Z" creationid="quentine" creationdate="20210716T114939Z">
         <seg>飞行的生物可以发动俯冲攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creatures that use manufactured weapons follow the same rules as characters, including those for multiple attacks and two-weapon fighting penalties.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T142501Z" creationid="quentine" creationdate="20210718T142501Z">
+        <seg>使用人造武器的生物遵循与角色相同的规则，包括多次攻击和双持武器攻击的惩罚。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29537,6 +29641,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If a creature moves more than 5 feet in the same round it attacks, it makes only a single attack using its primary attack bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T135034Z" creationid="quentine" creationdate="20210718T135034Z">
+        <seg>如果生物在一轮中移动了超过5尺的距离，它只能以其主要攻击加值做单次攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If a hero’s clothes or hair catch fire, he or she takes 1d6 points of damage immediately.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T132306Z" creationid="quentine" creationdate="20190115T132306Z">
@@ -29653,6 +29765,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210608T130328Z" creationid="qt911" creationdate="20210608T130328Z">
         <seg>如果物品失去了一半及以上地生命值，破坏所需DC减2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If any attacks also cause some special effect other than damage, that information is given along with the damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T140235Z" creationid="quentine" creationdate="20210718T140235Z">
+        <seg>如果攻击会造成伤害以外的特殊效果，会在伤害值后给出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35859,6 +35979,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Natural weapons have types just as other weapons do.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T140345Z" creationid="quentine" creationdate="20210718T140345Z">
+        <seg>天生武器的种类与一般武器相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Natural weapons include teeth, claws, horns, and the like.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T135901Z" creationid="quentine" creationdate="20210718T135901Z">
+        <seg>天生武器包括牙、爪、角以及类似物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nearby op-ponents can make attacks of opportunity against a character when he or she lets his or her guard down.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T130414Z" creationid="quentine" creationdate="20190806T130414Z">
@@ -39537,6 +39673,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191115T131148Z" creationid="quentine" creationdate="20191115T131148Z">
         <seg>照相机能让角色记录看到的景象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stings are usually poisoned.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T142348Z" creationid="quentine" creationdate="20210718T142348Z">
+        <seg>叮通常有毒。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44385,6 +44529,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The damage and primary weapon type are noted in parentheses.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T135334Z" creationid="quentine" creationdate="20210718T135334Z">
+        <seg>伤害与主要武器类型会在括号内给出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The damage is nonlethal damage.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190802T144857Z" creationid="quentine" creationdate="20190802T144857Z">
@@ -45537,6 +45689,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The most common types are summarized below.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T140402Z" creationid="quentine" creationdate="20210718T140402Z">
+        <seg>大多数常见的种类如下所述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The most powerful protection available is built into this suit, which consists of a heavy torso jacket with ceramic plates over the chest and back, neck and groin guards, arm protection, and a helmet.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200527T135510Z" creationid="quentine" creationdate="20200527T135342Z">
@@ -45621,6 +45781,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T114619Z" creationid="quentine" creationdate="20190116T114619Z">
         <seg>每升一级所获得的行动点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The number of attacks along with the weapon, attack bonus, and form of attack (melee or ranged) are provided in a creature’s entry.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T140031Z" creationid="quentine" creationdate="20210718T140031Z">
+        <seg>武器可攻击的次数、攻击加值以及攻击方式（近战或远程）将在生物信息中给出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47935,6 +48103,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T132434Z" creationid="quentine" creationdate="20190202T102037Z">
         <seg>这个加值不能用于未获级数的需受训技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This bonus includes modifications for size and Strength (for melee attacks) or Dexterity (for ranged attacks).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T135205Z" creationid="quentine" creationdate="20210718T135147Z">
+        <seg>该加值包含了体型以及力量（对于近战攻击）或敏捷（对于远程攻击）带来的调整值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50479,10 +50655,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unless noted otherwise, creatures deal double damage on critical hits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T140325Z" creationid="quentine" creationdate="20210718T140325Z">
+        <seg>除非另有说明，生物的重击造成两倍伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unless noted otherwise, modes of movement are natural (not magical).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210716T112139Z" creationid="quentine" creationdate="20210716T112139Z">
         <seg>除非另有说明，移动模式默认是自然移动（而非魔法）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unless noted otherwise, natural weapons threaten critical hits on a natural attack roll of 20.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T140149Z" creationid="quentine" creationdate="20210718T140149Z">
+        <seg>除非另有说明，天生武器的重击威胁区间仅为20。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50731,6 +50923,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210713T131154Z" creationid="quentine" creationdate="20210713T131154Z">
         <seg>载具的行动所需的所有技能检定都应用该调整值（包括驾驶和修理检定）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the creature’s primary attack bonus whenever the creature makes an attack of opportunity.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210718T135744Z" creationid="quentine" creationdate="20210718T135744Z">
+        <seg>当生物发动借机攻击时，应当应用生物的主要攻击加值。</seg>
       </tuv>
     </tu>
     <tu>
