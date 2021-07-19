@@ -1429,15 +1429,19 @@ Mental ability	精神属性
 ooze	泥形怪类
 plant	植物类
 species bonus	物种加值
-Burrow	钻地
+Burrow	掘穴
 rushed	匆忙
 Perfect	完美	飞行机动性
 Good	优秀	飞行机动性
 Poor	不佳	飞行机动性
 Clumsy	笨拙	飞行机动性
 dive attack	俯冲攻击
-Bite	咬
+Bite	啮咬
 Claw or Rake	抓挠
-Gore	顶
-Slap or Slam	拍
-Sting	叮
+Gore	抵撞
+Slap or Slam	拍击
+Sting	螯刺
+Primary Attack	主要攻击	相当于人类的主手攻击
+secondary attack	次要攻击	相当于人类的副手攻击
+Multiattack	多重攻击
+Fighting Space	战斗区域
