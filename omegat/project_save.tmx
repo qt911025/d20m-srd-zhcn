@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Action Points (AP)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210727T150858Z" creationid="quentine" creationdate="20210727T150858Z">
+        <seg>## 行动点（AP）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Action Types</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201119T125506Z" creationid="quentine" creationdate="20201119T125506Z">
@@ -394,6 +402,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T134303Z" creationid="quentine" creationdate="20190806T133553Z">
         <seg>## 协助他人</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Allegiances (AL)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210727T145944Z" creationid="quentine" creationdate="20210727T145944Z">
+        <seg>## 阵营（AL）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2024,6 +2040,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Saves (SV)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210727T150700Z" creationid="quentine" creationdate="20210727T150700Z">
+        <seg>## 豁免（SV）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Saving Throws</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T122529Z" creationid="quentine" creationdate="20201118T122529Z">
@@ -2180,6 +2204,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210602T124242Z" creationid="qt911" creationdate="20210602T124242Z">
         <seg>## 特殊先攻动作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Special Qualities (SQ)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T143603Z" creationid="quentine" creationdate="20210721T143603Z">
+        <seg>## 特殊能力（SQ）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8362,6 +8394,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(This does not apply if the character takes a 5-foot step.) Large or larger creatures with reach weapons can strike targets out to double their reach but can’t strike at targets within their normal reach or less.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T143210Z" creationid="quentine" creationdate="20210721T143210Z">
+        <seg>（五尺快步则不会引发借机攻击）体型大于等于大型的生物可以攻击触及范围一倍以上，两倍及以下的距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(This increase is in addition to any speed change made at the beginning of the driver’s action; if the driver increased speed at that time, he or she can accelerate a total of two categories in the same round.) The vehicle’s total movement for the round cannot exceed the maximum number of squares for its new speed category.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210709T130905Z" creationid="quentine" creationdate="20210709T130905Z">
@@ -8449,8 +8489,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
         <seg>(You must see or hear the spell’s verbal or somatic components.) You can’t try again.|
 |15 + spell level|Learn a spell from a spellbook or scroll.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190623T113334Z" creationid="quentine" creationdate="20190623T113205Z">
-        <seg>（你必须能看见或听见法术的姿态或声音成分。）不可重试。|
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T145807Z" creationid="quentine" creationdate="20190623T113205Z">
+        <seg>（你必须能看见施展法术的姿势，或听见吟诵法术的声音。）不可重试。|
 |15 + 法术等级|从法术书或卷轴上学习法术。</seg>
       </tuv>
     </tu>
@@ -8459,8 +8499,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
         <seg>(You must see or hear the spell’s verbal or somatic components.) You can’t try again.|
 |15 + spell level|When casting detect magical aura, determine the school of magic involved in the aura of a single item or creature you can see.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190627T135343Z" creationid="quentine" creationdate="20190627T135343Z">
-        <seg>（你必须能看见或听见法术的姿态或声音成分。）不可重试。|
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T145817Z" creationid="quentine" creationdate="20190627T135343Z">
+        <seg>（你必须能看见施展法术的姿势，或听见吟诵法术的声音。）不可重试。|
 |15 + 法术等级|当施展`侦测魔法气场`时，通过单一物品或你能看见的生物所发出的气场来判断魔法学派。</seg>
       </tuv>
     </tu>
@@ -11147,6 +11187,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190921T123135Z" creationid="quentine" creationdate="20190918T140830Z">
         <seg>**爆炸物：** 土制爆炸物是危险的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Extraordinary:** Extraordinary abilities are nonmagical and are not subject to anything that disrupts magic.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T143910Z" creationid="quentine" creationdate="20210721T143910Z">
+        <seg>**特异能力：** 特异能力是非魔法的，也不会被任何打断魔法的因素所影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14240,6 +14288,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Spell-Like:** Spell-like abilities are magical and work just like spells, though they have no verbal, somatic, material, focus, or XP components.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T145640Z" creationid="quentine" creationdate="20210721T144135Z">
+        <seg>**类法术能力：** 类法术能力是魔法的，运行机制也类似法术，但它们不需要姿势、言语、消耗材料、集中注意力或者消耗经验值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Spells (Sp):** Some creatures can cast arcane spells or divine spells (and can activate magic items accordingly).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191102T021245Z" creationid="quentine" creationdate="20191102T021245Z">
@@ -14348,6 +14404,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210709T125317Z" creationid="qt911" creationdate="20210701T135641Z">
         <seg>**特技：** 特技相对来说更困难，有时可以通过特技来猛然加速或者急转弯，这是简单机动所做不到的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Supernatural:** Supernatural abilities are magical but are not subject to spell resistance.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210727T145729Z" creationid="quentine" creationdate="20210727T145729Z">
+        <seg>**超自然能力：** 超自然能力是魔法的，但不受法术抗力影响。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18734,6 +18798,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A creature using its natural weapons threatens all squares within its reach.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T141927Z" creationid="quentine" creationdate="20210721T141927Z">
+        <seg>使用天生武器的生物，其威胁范围为其触及范围。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A creature with a 0-foot reach must move into the fighting space of its target to attack it, provoking an attack of opportunity from the target as the creature enters the target’s fighting space and threatened area.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T143447Z" creationid="quentine" creationdate="20210721T143447Z">
+        <seg>触及范围为0的生物必须移动到目标所占的方格才能攻击，这会引发目标的借机攻击，因为在攻击到之前就进入了目标的威胁范围。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A creature with access to divine spells must prepare them in the normal manner.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191102T023801Z" creationid="quentine" creationdate="20191102T023801Z">
@@ -18746,6 +18826,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20201224T140827Z" creationid="qt911" creationdate="20201224T140827Z">
         <seg>比如带有爪子、尖牙及类似天生物理武器的生物被视为非徒手。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A creature with greater than normal reach usually gets an attack of opportunity against a character if the character approaches it, because the character enters a square it threatens before he or she can attack it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T142933Z" creationid="quentine" creationdate="20210721T142933Z">
+        <seg>角色靠近触及范围大于一般值的生物时，往往会引发该生物的借机攻击，因为角色在移动到能攻击该生物的距离前就进入了威胁范围。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18818,6 +18906,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210717T135242Z" creationid="quentine" creationdate="20210717T135242Z">
         <seg>生物的防御值后面跟着一段括号标注，里面包含了形成该防御值的所有调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A creature’s Fortitude, Reflex, and Will saving throw modifiers take into account the creature’s type, ability score modifiers, feats, and any special qualities.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210727T150849Z" creationid="quentine" creationdate="20210727T150849Z">
+        <seg>生物的强轫、反射和意志豁免骰调整值取决于生物的类型、属性调整值、专长以及特殊能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20238,6 +20334,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A special quality can be extraordinary (Ex), spell-like (Sp), or supernatural (Su).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T143817Z" creationid="quentine" creationdate="20210721T143728Z">
+        <seg>特殊能力可分为特异能力、类法术能力、以及超自然能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A specific task, in this case, is one type of operation with one target.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190917T124317Z" creationid="quentine" creationdate="20190917T124317Z">
@@ -20250,6 +20354,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T131955Z" creationid="quentine" creationdate="20200117T105558Z">
         <seg>快速装弹器将子弹排成一圈，正好与转轮枪的轮盘相对。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A spell-like ability can be disrupted just as a spell can be.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T150413Z" creationid="quentine" creationdate="20210721T150256Z">
+        <seg>类法术能力会像法术那样可被扰乱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A spell-like ability that can be used “at will” has no use limit.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T150055Z" creationid="quentine" creationdate="20210721T150055Z">
+        <seg>可“随意”使用的类法术能力则不限制使用次数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21644,6 +21764,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190731T120204Z" creationid="QuenTine" creationdate="20181106T124439Z">
         <seg>同样，GM判定英雄是否在特定情况下背负骂名取决于该场游戏发生的事件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Also, creatures with 0-foot reach do not threaten the squares around them.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T143546Z" creationid="quentine" creationdate="20210721T143546Z">
+        <seg>同理，触及范围为0的生物，其威胁范围也仅限于自身所占格子，无法威胁周边格子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26124,6 +26252,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creatures have no action points.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210727T150907Z" creationid="quentine" creationdate="20210727T150907Z">
+        <seg>生物没有行动点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creatures immune to critical hits are also immune to the effects of massive damage.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T144403Z" creationid="quentine" creationdate="20190114T144403Z">
@@ -27641,6 +27777,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Every time a creature picks up a heroic class level, it gains a number of action points equal to 5 + one-half its heroic character level (not counting the creature’s starting Hit Dice).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210727T151254Z" creationid="quentine" creationdate="20210727T151254Z">
+        <seg>每当生物获得一级英雄职业等级，它获得的行动点数=5+英雄职业等级的一半（生物的初始生命骰不算在内）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Every time the diseased character makes a saving throw against disease effects (after the initial contamination), the treating character first makes a Treat Injury check to help the diseased character fend off secondary damage.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191028T131629Z" creationid="quentine" creationdate="20191028T131629Z">
@@ -27829,6 +27973,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181106T134734Z" creationid="QuenTine" creationdate="20181106T124103Z">
         <seg>威名会让英雄被认出时进行魅力相关技能检定可获得加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fantastic creatures often have allegiances to a moral or ethical philosophy as well as allegiances to masters, groups, organizations, owners, or creators.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210727T150651Z" creationid="quentine" creationdate="20210727T150651Z">
+        <seg>奇幻生物通常有其所属的道德阵营，以及效忠于主人、团体、组织、所有者或创造者的阵营。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28245,6 +28397,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210707T141134Z" creationid="quentine" creationdate="20210707T141134Z">
         <seg>如果障碍物是铁蒺藜，铁蒺藜将对载具造成一次攻击（见`铁蒺藜`条目）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For creatures with spell-like abilities, a designated caster level serves to define how difficult it is to dispel their spell-like effects and to define any level-dependent variable the abilities might have.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210723T000455Z" creationid="quentine" creationdate="20210723T000455Z">
+        <seg>每个具有类法术能力的生物都会有一个施法者等级，用于计算类法术效果的解除难度，以及能力中那些需要代入等级的计算。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29265,6 +29425,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, creatures can gain action points by taking levels in a heroic character class.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210727T151043Z" creationid="quentine" creationdate="20210727T151043Z">
+        <seg>但生物若获得英雄职业的等级，也会获得行动点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, damage reduction from spells does not confer this ability.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T134052Z" creationid="quentine" creationdate="20191030T133450Z">
@@ -29365,6 +29533,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210611T134819Z" creationid="qt911" creationdate="20210609T141057Z">
         <seg>但是，有时候角色仅仅只是想攫抓住目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, supernatural abilities do not provoke attacks of opportunity and never require Concentration checks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210727T145936Z" creationid="quentine" creationdate="20210727T145936Z">
+        <seg>但超自然能力不会引发借机攻击，也不需要专注检定。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30315,8 +30491,8 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>If the Concentration check fails, the related check automatically fails just as if the character’s concentration had been disrupted by a distraction.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20190917T131600Z" creationid="quentine" creationdate="20190917T131600Z">
-        <seg>如果专注检定失败，该行为的检定也会自动失败，视为角色的行为因分心而被干扰了。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T150405Z" creationid="quentine" creationdate="20190917T131600Z">
+        <seg>如果专注检定失败，该行为的检定也会自动失败，视为角色的行为因分心而被扰乱了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35531,6 +35707,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Many creatures have unusual abilities.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T143627Z" creationid="quentine" creationdate="20210721T143627Z">
+        <seg>许多生物都有特别的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Many different designs exist; described here is the most basic model.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T030603Z" creationid="quentine" creationdate="20200419T030603Z">
@@ -39493,6 +39677,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spell-like abilities usually have a limit on the number of times they can be used.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T145927Z" creationid="quentine" creationdate="20210721T145915Z">
+        <seg>类法术能力通常只有有限的使用次数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spellcasting creatures are not members of an advanced class unless their entries say so, and they do not gain any class features.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191102T023535Z" creationid="quentine" creationdate="20191102T023535Z">
@@ -39901,6 +40093,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Supernatural abilities may have a use limit or be usable at will, just like spell-like abilities.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210727T145901Z" creationid="quentine" creationdate="20210727T145901Z">
+        <seg>超自然能力可能有使用限制，也可能没有，这点与类法术能力相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Suppressors cannot be used on revolvers or shotguns.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T131955Z" creationid="quentine" creationdate="20200117T111031Z">
@@ -40041,6 +40241,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210719T143147Z" creationid="quentine" creationdate="20210719T143147Z">
         <seg>`表：生物体型`给出了各种体型的生物的战斗区域，除体型外，还会给出种类和例外情况等其他影响战斗区域的因素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table: Creature Sizes provides the typical reach for creatures of any given size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T142135Z" creationid="quentine" creationdate="20210721T142135Z">
+        <seg>`表：生物体型`提供了每种体型的的生物的一般触及范围。</seg>
       </tuv>
     </tu>
     <tu>
@@ -41681,6 +41889,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190923T133807Z" creationid="quentine" creationdate="20190923T133807Z">
         <seg>由GM进行检定（这样角色就不知道自己到底做得怎样了）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The GM may adjust the values in the table by –5 feet or +5 feet for creatures that have less than normal or greater than normal reach.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T142330Z" creationid="quentine" creationdate="20210721T142330Z">
+        <seg>GM可将小于正常体型的生物的触及范围下调5尺，若大于则上调5尺。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44593,6 +44809,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The creature’s caster level never affects which spell-like abilities the creature has; sometimes the given caster level is lower than the level a spellcasting character would need to cast the spell of the same name.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210727T145631Z" creationid="quentine" creationdate="20210727T144833Z">
+        <seg>生物的施法者等级绝对不能应用在生物所拥有的类法术能力上；生物的施法者等级一般会低于施展同名法术所需的角色等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The creature’s descriptive text gives the ability and the amount drained.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T123808Z" creationid="quentine" creationdate="20191030T122918Z">
@@ -46457,6 +46681,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The saving throw (if any) for a spell-like ability is 10 + the level of the spell the ability resembles or duplicates + the creature’s Charisma modifier.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210727T145245Z" creationid="quentine" creationdate="20210727T145245Z">
+        <seg>类法术能力的豁免骰（如果有的话）=10+类法术能力所类似的法术的等级+生物的魅力调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The second is a check to defeat computer security (see the Computer Use skill description).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T143935Z" creationid="quentine" creationdate="20190916T143935Z">
@@ -47754,6 +47986,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They are subject to spell resistance.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T145852Z" creationid="quentine" creationdate="20210721T145852Z">
+        <seg>类法术能力会被法术抗力抵抗。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They begin with the same ability score package as ordinaries (15, 14, 13, 12, 10, 8), but their ability scores are reduced as follows: –3 Str, –1 Dex, –3 Con, –1 Int, –1 Wis, –1 Cha.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T122247Z" creationid="quentine" creationdate="20190703T122746Z">
@@ -48583,6 +48823,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190704T122335Z" creationid="quentine" creationdate="20190704T122335Z">
         <seg>如果专长无要求，则可直接拥有。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This entry lists the creature’s most likely allegiances, in order from most important to least important.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210727T150127Z" creationid="quentine" creationdate="20210727T150127Z">
+        <seg>此项列举了生物最有可能属于的阵营，按可能性从高到低排列。</seg>
       </tuv>
     </tu>
     <tu>
@@ -50935,6 +51183,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unlike the wielder of a reach weapon, a creature with greater than normal reach (more than 5 feet) can still strike creatures next to it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T142623Z" creationid="quentine" creationdate="20210721T142623Z">
+        <seg>生物的触及范围大于一般值（大于5尺），其天生武器不能算作长型武器，它仍是可以攻击邻近的单位的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unlike with attack rolls and saving throws, a natural roll of 20 on the d20 is not an automatic success when making a skill check, and a natural roll of 1 is not an automatic failure.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T134813Z" creationid="quentine" creationdate="20190805T134813Z">
@@ -51211,6 +51467,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T131955Z" creationid="quentine" creationdate="20200117T105712Z">
         <seg>使用快速装弹器节约了转轮枪的装填时间，角色可以一次装填完所有的子弹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using a spell-like ability is an attack action unless noted otherwise, and doing so while threatened provokes attacks of opportunity.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T150220Z" creationid="quentine" creationdate="20210721T150220Z">
+        <seg>除非另有说明，使用类法术能力需要一个攻击动作，且在威胁范围内使用会引发借机攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using a supernatural ability is an attack action unless noted otherwise.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210727T145755Z" creationid="quentine" creationdate="20210727T145755Z">
+        <seg>除非另有说明，使用超自然能力是一个攻击动作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using an extraordinary ability is a free action unless noted otherwise.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T143945Z" creationid="quentine" creationdate="20210721T143945Z">
+        <seg>除非另有说明，使用特异能力是一个即时动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -52035,6 +52315,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T133902Z" creationid="quentine" creationdate="20190805T133902Z">
         <seg>当进行一次技能检定时，角色将技能级数与骰点相加，作为技能的调整值的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When measuring diagonally, every second square counts as two squares.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210721T142054Z" creationid="quentine" creationdate="20210721T142054Z">
+        <seg>计算斜向方格的距离时，每两个斜向方格多算一格距离。</seg>
       </tuv>
     </tu>
     <tu>

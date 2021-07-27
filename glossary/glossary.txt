@@ -1445,3 +1445,12 @@ Primary Attack	主要攻击	相当于人类的主手攻击
 secondary attack	次要攻击	相当于人类的副手攻击
 Multiattack	多重攻击
 Fighting Space	战斗区域
+extraordinary	特异能力
+spell-like	类法术能力
+supernatural	超自然能力
+focus	专注	注意力集中的状态
+verbal	需要姿势的	法术一般需要做一些姿势
+somatic	需要言语的	一般施展法术需要吟唱
+disrupted	扰乱
+dispel	解除（法术效果）
+Fantastic	奇幻
