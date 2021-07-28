@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Abilities</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T141722Z" creationid="quentine" creationdate="20210728T141722Z">
+        <seg>## 属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Ability Checks</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T135617Z" creationid="quentine" creationdate="20190806T135617Z">
@@ -1972,6 +1980,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210713T141418Z" creationid="quentine" creationdate="20210713T141318Z">
         <seg>## 修理伤害</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Reputation (Rep)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T141546Z" creationid="quentine" creationdate="20210728T141546Z">
+        <seg>## 声望（Rep）</seg>
       </tuv>
     </tu>
     <tu>
@@ -10255,6 +10271,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Charisma:** Any creature capable of telling the difference between itself and things that are not itself has at least 1 point of Charisma.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T144309Z" creationid="quentine" creationdate="20210728T144309Z">
+        <seg>**魅力：** 任何具备区别自我和其他存在的能力的生物至少具有1点魅力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Charm:** The Charismatic hero gets a competence bonus on all Charisma-based skill checks made to influence members of his chosen gender.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T071157Z" creationid="quentine" creationdate="20190202T115745Z">
@@ -10735,6 +10759,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Constitution:** Any living creature has at least 1 point of -Constitution.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T143751Z" creationid="quentine" creationdate="20210728T143751Z">
+        <seg>**体质：** 任何活物均至少具有1点体质。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Constrict (Ex):** The creature crushes the opponent, dealing bludgeoning damage, after making a successful grapple check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200513T145327Z" creationid="quentine" creationdate="20191030T131028Z">
@@ -11035,6 +11067,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T112053Z" creationid="quentine" creationdate="20190703T111906Z">
         <seg>**摧毁不死生物：**如果侍僧的侍僧等级大于等于不死生物的生命骰的两倍，将摧毁而不是驱散此生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Dexterity:** Any creature that can move has at least 1 point of -Dexterity.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T143604Z" creationid="quentine" creationdate="20210728T143604Z">
+        <seg>**敏捷：** 任何具备移动能力的生物至少具有1点敏捷。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11863,6 +11903,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Intelligence:** A creature can speak all the languages mentioned in its descriptive text.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T142118Z" creationid="quentine" creationdate="20210728T142118Z">
+        <seg>**智力：** 生物会说描述文字所列举的所有语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Intelligence:** Any creature that can think, learn, or remember has at least 1 point of Intelligence.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T144051Z" creationid="quentine" creationdate="20210728T144051Z">
+        <seg>**智力：** 任何能够思考、学习、或者记忆的生物具有至少1点智力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Internal:** Some weapons keep their ammunition in an internal space, which must be loaded by hand.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T132650Z" creationid="quentine" creationdate="20200410T132650Z">
@@ -12107,6 +12163,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210710T114425Z" creationid="quentine" creationdate="20210710T114425Z">
         <seg>**移动：** 移动不超过载具速度档次所限的距离。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Nonabilities:** Some creatures lack certain ability scores.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T143218Z" creationid="quentine" creationdate="20210728T143218Z">
+        <seg>**空属性：** 一些生物天生欠缺某项属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14392,6 +14456,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Strength:** Any creature that can physically manipulate other objects has at least 1 point of Strength.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T143452Z" creationid="quentine" creationdate="20210728T143452Z">
+        <seg>**力量：** 任何能够通过物理手段作用于其他物体的生物至少具有1点力量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Strength:** Quadrupeds can carry heavier loads than bipedal characters.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T142015Z" creationid="quentine" creationdate="20210728T142015Z">
+        <seg>**力量：** 四足的生物可以比双足角色负载更重的重量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Stringed Instruments:** The character is a musician gifted with a talent for playing stringed musical instruments, such as banjo, guitar, harp, lute, sitar, and violin.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T143019Z" creationid="quentine" creationdate="20191025T143019Z">
@@ -15588,6 +15668,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191025T143258Z" creationid="quentine" creationdate="20191025T143232Z">
         <seg>**管乐器：** 角色是有天赋的管乐器音乐家，善使长笛、军号、小号、大号、风笛、长号之类的乐器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Wisdom:** Any creature that can perceive its environment in any fashion has at least 1 point of Wisdom.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T144202Z" creationid="quentine" creationdate="20210728T144202Z">
+        <seg>**感知：** 任何能够通过任意方式感知环境的生物具有至少1点感知。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18766,6 +18854,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A creature has a Reputation bonus of +0 but may increase the bonus by taking levels in a character class.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T141717Z" creationid="quentine" creationdate="20210728T141717Z">
+        <seg>生物默认只有0点声望加值，但这个加值可在生物获得角色等级后增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A creature is im-mune to its own gaze attack unless otherwise noted.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T130308Z" creationid="quentine" creationdate="20191031T130308Z">
@@ -18854,6 +18950,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A creature with no Dexterity score can’t move.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T143611Z" creationid="quentine" creationdate="20210728T143611Z">
+        <seg>无敏捷属性的生物无法移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A creature with no Intelligence score is an automaton, operating on simple instincts or programmed instructions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T135518Z" creationid="QuenTine" creationdate="20181103T135453Z">
@@ -18865,6 +18969,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
         <seg>A creature with no Strength score can't exert force, usually because it has no physical body or because it doesn't move.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T133356Z" creationid="QuenTine" creationdate="20181103T133356Z">
+        <seg>无力量属性的生物无法发挥物理力的作用，通常这种情况是由于该生物不具有实体或无法运动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A creature with no Strength score can’t exert force, usually because it has no physical body or because it is immobile.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T143511Z" creationid="quentine" creationdate="20210728T143511Z">
         <seg>无力量属性的生物无法发挥物理力的作用，通常这种情况是由于该生物不具有实体或无法运动。</seg>
       </tuv>
     </tu>
@@ -22760,6 +22872,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Any creature with an Intelligence score of 3 or higher understands at least one language.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T142214Z" creationid="quentine" creationdate="20210728T142214Z">
+        <seg>智力大于等于3点的任何生物都至少能理解一门语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Any creature within the area has total concealment (attacks suffer a 50% miss chance, and the attacker can’t use sight to locate the target).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210531T143516Z" creationid="quentine" creationdate="20200508T124039Z">
@@ -22960,6 +23080,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Anything with no Charisma score is an object, not a creature.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T144349Z" creationid="quentine" creationdate="20210728T144349Z">
+        <seg>无魅力的存在为物体而非生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Anything with no Wisdom score is an object, not a creature.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T140329Z" creationid="QuenTine" creationdate="20181103T140329Z">
@@ -22968,10 +23096,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Anything without a Charisma score also has no Wisdom score.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T144418Z" creationid="quentine" creationdate="20210728T144418Z">
+        <seg>任何不具备魅力的存在都不具备感知属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Anything without a Wisdom score also has no Charisma score, and vice versa.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T140352Z" creationid="QuenTine" creationdate="20181103T140352Z">
         <seg>任何不具备感知的存在都不具备魅力属性，反之亦然。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anything without a Wisdom score also has no Charisma score.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T144244Z" creationid="quentine" creationdate="20210728T144244Z">
+        <seg>任何不具备感知的存在都不具备魅力属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23412,6 +23556,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200419T020335Z" creationid="quentine" creationdate="20200419T020335Z">
         <seg>突击步枪是同时拥有半自动和全自动发射模式的军用步枪。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Assume that a creature has a number of action points remaining equal to one-half of its heroic class levels.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T141537Z" creationid="quentine" creationdate="20210728T141537Z">
+        <seg>一般认为生物登场时只有其英雄职业等级一半的行动点。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26260,6 +26412,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creatures have the same six ability scores as characters: Strength (Str), Dexterity (Dex), Constitution (Con), Intelligence (Int), Wisdom (Wis), Charisma (Cha).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T141900Z" creationid="quentine" creationdate="20210728T141900Z">
+        <seg>生物与角色一样，有6项属性值：力量（Str）、敏捷（Dex）、体质（Con）、智力（Int）、感知（Wis）、魅力（Cha）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creatures immune to critical hits are also immune to the effects of massive damage.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T144403Z" creationid="quentine" creationdate="20190114T144403Z">
@@ -27837,6 +27997,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181024T041949Z" creationid="QuenTine" creationdate="20181024T041949Z">
         <seg>特例：部分投骰，如伤害骰和生命骰至少为1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exceptions are noted below.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T141920Z" creationid="quentine" creationdate="20210728T141920Z">
+        <seg>例外规则如下。</seg>
       </tuv>
     </tu>
     <tu>
@@ -30129,6 +30297,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If it can act (such as by casting spells), the creature applies its Intelligence modifier instead of its Dexterity modifier to initiative checks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T143724Z" creationid="quentine" creationdate="20210728T143724Z">
+        <seg>如果这一生物仍能做出行动（比如施法），则在计算先攻时使用智力调整值代替敏捷调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If it can act, it applies its Intelligence modifier to initiative checks instead of a Dexterity modifier.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T134040Z" creationid="QuenTine" creationdate="20181103T134040Z">
@@ -32061,6 +32237,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T131311Z" creationid="quentine" creationdate="20191030T131311Z">
         <seg>如果生物精通攫抓能力（见下文），则会在攫抓所用武器造成的伤害之外额外造成紧勒的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If the creature can attack, it applies its Dexterity modifier to its base attack bonus instead of a Strength modifier.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T143545Z" creationid="quentine" creationdate="20210728T143545Z">
+        <seg>若该生物可以攻击，则使用敏捷调整值代替力量调整值计算基础攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -34601,10 +34785,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It is immune to all mind-affecting effects and automatically fails Intelligence checks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T144133Z" creationid="quentine" creationdate="20210728T144133Z">
+        <seg>他们免疫所有和思维有关的效果，且进行智力检定必然失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It is immune to all mind-influencing effects (charms, compulsions, phantasms, patterns and morale effects) and automatically fails Intelligence checks.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T140203Z" creationid="QuenTine" creationdate="20181103T135512Z">
         <seg>他们免疫所有和思维有关的效果（魅惑、胁迫、魅影幻觉、心灵幻觉及道德影响），且进行智力检定必然失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is immune to any effect that requires a Fortitude save unless the effect works on objects or is harmless.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T143858Z" creationid="quentine" creationdate="20210728T143858Z">
+        <seg>这类生物免疫一切需要通过强韧豁免的效果，除非这种效果能够作用在物体上，或者该效果是无害的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35365,6 +35565,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T144102Z" creationid="quentine" creationdate="20201029T123302Z">
         <seg>和小汽车一样，卡车也为乘客提供3/4掩蔽。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Like most heroic characters, however, creatures with heroic class levels will have spent a certain number of action points in the course of their “heroic” careers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T141343Z" creationid="quentine" creationdate="20210728T141343Z">
+        <seg>然而，和大多数英雄角色一样，有英雄职业等级的生物会在登场前就消耗掉一部分行动点，视为其登场前的“英雄事迹”所消耗掉的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -37375,6 +37583,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other effects of nonabilities are as follows.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T143415Z" creationid="quentine" creationdate="20210728T143415Z">
+        <seg>空属性的其他效果如下所示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other factors can add to Defense.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T123957Z" creationid="quentine" creationdate="20190114T123957Z">
@@ -38633,6 +38849,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210105T125019Z" creationid="qt911" creationdate="20210105T125019Z">
         <seg>详见`冲撞`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Carrying Capacity.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T142034Z" creationid="quentine" creationdate="20210728T142034Z">
+        <seg>见`负重能力`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44745,6 +44969,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The creature is also immune to ability damage, ability drain, and energy drain, and it always fails Constitution checks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T144025Z" creationid="quentine" creationdate="20210728T144025Z">
+        <seg>这类生物同样免疫属性伤害、属性吸取和能量吸取，但在进行体质检定时必然失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The creature is also immune to ability damage, ability drain, energy drain, and massive damage, and always fails Constitution checks.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T123808Z" creationid="QuenTine" creationdate="20181103T135005Z">
@@ -45965,6 +46197,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T132429Z" creationid="QuenTine" creationdate="20181103T132429Z">
         <seg>调整值的计算公式如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The modifier for a nonability is +0.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T143346Z" creationid="quentine" creationdate="20210728T143346Z">
+        <seg>空属性的调整值为+0。</seg>
       </tuv>
     </tu>
     <tu>
@@ -47710,6 +47950,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191102T023420Z" creationid="quentine" creationdate="20191102T023420Z">
         <seg>这些生物遵循和角色一样的施法规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These creatures do not have an ability score of 0—they lack the ability altogether.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210728T143320Z" creationid="quentine" creationdate="20210728T143320Z">
+        <seg>这些生物不是某项属性为0——而是完全没有这项属性。</seg>
       </tuv>
     </tu>
     <tu>
