@@ -1,315 +1,315 @@
 > 该材料是OGC，而且是被OGL的条款许可公开使用的。
 
-# CREATURE OVERVIEW
+# 生物概述
 
-## Creature Description
+## 生物描述
 
-Each creature is organized in the same general format, as described in the following text. Much of the information on a creature is condensed into a creature statistics block, the contents of which are explained below.
+每种生物都将以相同的格式组织描述，下文将详细介绍格式。生物的大多数信息都简要地写在信息块中，并在下方详细解释其内容。
 
-## Challenge Rating (CR)
+## 挑战等级（CR）
 
-A creature’s Challenge Rating provides a rough measure of the creature’s toughness in a combat situation. As a rule of thumb, four heroes of a level equal to the creature’s Challenge Rating should exhaust roughly one-quarter of their resources battling it. But situations may arise where a creature’s Challenge Rating does not accurately reflect the difficulty of the challenge.
+生物的挑战等级代表着生物在战斗中的大致难度。从经验上讲，四个等级与生物的挑战等级相等的英雄要战胜该生物，会消耗他们1/4的资源。然而，也会有生物的挑战等级不能精准地反映挑战难度的情况发生。
 
-## Size
+## 体型
 
-A creature falls into one of nine size categories. The size categories are briefly described in Table: Creature Sizes. Each size category includes a size modifier that applies to the creature’s Defense and attack rolls; a modifier that applies to grapple checks; and a modifier that applies to Hide checks. These modifiers have been figured into the statistics for the creatures described here.
+生物的体型在9个等级的体型的范围内。`表：生物体型`简略地描述了体型范畴。每个体型等级包括了一个体型调整值，该调整值会应用到生物的防御与攻击骰上；也包括了一个应用于擒抱检定的调整值；还有一个应用于躲藏检定的调整值。这些调整值将在生物的数据中给出。
 
-## Type
+## 种类
 
-A creature’s type determines many of its characteristics and abilities: physical ability scores, Hit Die type, base attack bonus, saving throw bonuses, skill points, feats, and special qualities. Mental ability scores (Intelligence, Wisdom, and Charisma) can vary widely among creatures of a type; unless a type description specifies a particular score for one of these abilities, the GM will assign values as he or she deems appropriate.
+生物的种类决定了生物的许多特性和能力：肉体属性值、生命骰类型、基础攻击加值、豁免骰加值、技能点、专长、以及特殊能力。不同种类的生物，其精神属性值（智力、感知、以及魅力）差别巨大；除非生物种类的描述指定了其中的属性，GM可自行酌情设置属性值。
 
-## Hit Dice (HD) and Hit Points (hp)
+## 生命骰（HD）与生命值（hp）
 
-A creature’s type and size determine its Hit Dice. A creature’s Hit Dice is equivalent to its level for determining how various FX abilities affect the creature, its rate of natural healing, and its maximum ranks in a skill.
+生物的生命骰由种类和体型决定。生物的生命骰在决定生物有多少超自然能力、自然恢复率、以及最高技能级数时，可当作等级使用。
 
-A creature’s Hit Dice and Constitution modifier determine its hit points. A creature’s entry gives the creature’s average hit points.
+生物的生命骰和体质调整值决定了其生命值。生物的简述中会提到这种生物的平均生命值。
 
-## Massive Damage Threshold (Mas)
+## 巨创阈值（Mas）
 
-When a creature takes damage from a single attack equal to or greater than its current Constitution, it must succeed on a Fortitude save (DC 15) or immediately drop to –1 hit points. If the damage would reduce the creature to –1 hit points or fewer anyway, the massive damage threshold does not apply, and the creature does not need to make a Fortitude save.
+当生物受到单次攻击的伤害大于等于其当前的体质值时，它必须进行一次强韧豁免（DC15），若失败则生命值立即降至-1。如果某次伤害会使生物的生命值降至-1甚至更低，则巨创阈值不会生效，生物也无需做强韧豁免。
 
-Constructs, elementals, oozes, plants, and undead ignore the effects of massive damage and do not have massive damage thresholds. Vermin gain a +5 species bonus on their Fortitude saves to avoid falling to –1 hit points.
+构装体类、元素类、泥形怪类、植物类以及不死生物类免疫巨创效果，也没有巨创阈值。虫类的强韧豁免，在用于避免生命值跌至-1时，拥有5点物种加值。
 
-## Initiative (Init)
+## 先攻（Init）
 
-The creature’s modifier on initiative checks is usually equal to its Dexterity modifier, although the Improved Initiative feat provides an additional +4 bonus.
+生物的先攻调整值一般等于敏捷调整值，但`精通先攻`专长会额外提供4点调整值。
 
-## Speed (Spd)
+## 速度（Spd）
 
-A creature’s tactical speed on land is the amount of distance it can cover in one move action. If the creature wears armor that reduces its speed, this fact is given along with a parenthetical note indicating the armor type; the creature’s base unarmored speed follows.
+生物在战斗中的移动速度，是一个移动动作中总共能移动的距离。如果生物穿着会削减速度的护甲，会以括号标示，括号内写明了所穿着的护甲类型；后面跟着生物未着甲时的基础速度。
 
-If the creature has other modes of movement, these are given after the main entry. Unless noted otherwise, modes of movement are natural (not magical).
+如果生物有其他移动模式，以下模式将会出现在数据中。除非另有说明，移动模式默认是自然移动（而非魔法）。
 
-**Burrow:** The creature can tunnel through dirt, but not through rock unless the descriptive text says otherwise. Creatures cannot run while burrowing.
+**掘穴：** 生物能钻入土中，但不能钻入岩石地表，除非另有说明。生物不能在钻地状态奔跑。
 
-**Climb:** A creature with a climb speed has the Climb skill at no cost and gains a +8 species bonus on Climb checks. The creature must make a Climb check to climb any wall or slope with a DC greater than 0, but it always can choose to take 10, even if rushed or threatened while climbing. The creature climbs at the given speed while climbing. If it attempts an accelerated climb, it moves at double the given climb speed (or its normal land speed, whichever is less) and makes a single Climb check at a –5 penalty. Creatures cannot use the run action while climbing. The creature retains its Dexterity bonus to Defense (if any) while climbing, and opponents get no special bonus on their attack rolls against the climbing creature.
+**攀爬：** 具有攀爬速度的生物自带攀爬技能，且攀爬检定将有8点物种加值。生物要攀爬任何DC大于0的墙或斜坡都需要做攀爬检定，但生物总是可以取10，即使生物处于匆忙或受威胁都可以。生物攀爬的速度将会在数据中给出。如果生物尝试加速攀爬，它将会以双倍的速度攀爬（或者以正常的平地移动速度攀爬，取两者中较小者），加速攀爬所需的每次攀爬检定都会受到5点减值。生物在攀爬时不能奔跑。生物在攀爬时，防御的敏捷加值仍有效，且对手对正在攀爬的生物的攻击骰没有特殊的加值。
 
-**Fly:** The creature can fly at the given speed if carrying no more than a medium load. All fly speeds include a parenthetical note indicating maneuverability:
+**飞行：** 生物能在负载不高于中度的条件下，以给定速度飞行。所有的飞行速度都跟着一个括号值，括号内为机动性：
 
-**Perfect:** The creature can perform almost any aerial maneuver it wishes.
+**完美：** 生物能在空中随心所欲地机动。
 
-**Good:** The creature is agile in the air, but cannot change direction as readily as one with perfect maneuverability.
+**优秀：** 生物能在空中敏捷地机动，但不能如完美机动一般随时转向。
 
-**Average:** The creature can fly as adroitly as a small bird.
+**一般：** 生物的飞行能力如小鸟一样熟练。
 
-**Poor:** The creature flies as well as a very large bird.
+**不佳：** 生物的飞行能力笨拙得像一只巨鸟。
 
-**Clumsy:** The creature can barely fly at all.
+**笨拙：** 生物几乎不能飞行。
 
-Creatures that fly can make dive attacks. A dive attack works just like a charge, but the diving creature must move a minimum of 30 feet. It can make only claw attacks, but these deal double damage. Creatures can use the run action while flying, provided they fly in a straight line.
+飞行的生物可以发动俯冲攻击。俯冲攻击的机制与冲锋大致相同，区别在于俯冲攻击需要先移动至少30尺。俯冲攻击只能以爪子攻击，但可以造成双倍伤害。生物可以在飞行时执行奔跑动作，在这种状态下，生物可以直线飞行。
 
-**Swim:** A creature with a swim speed can move through water at the given speed without making Swim checks. It gains a +8 species bonus on any Swim check to perform some special action or avoid a hazard. The creature always can choose to take 10, even if distracted or endangered when swimming. Creatures can use the run action while swimming, provided they swim in a straight line.
+**游泳：** 具有游泳速度的生物可以以给定的速度穿越水域移动，不需要做游泳检定。在需要用游泳检定执行特殊动作或规避险情时，游泳检定有8点加值。生物的游泳检定总是可以取10，即使生物处于分心或在险情中都可以。生物可以在游泳时执行奔跑动作，在这种状态下，生物可以在水中直线移动。
 
 ## 防御
 
-A creature’s Defense includes a parenthetical mention of the modifiers contributing to it. The creature’s “touch” Defense (discounting natural armor and other armor modifiers) and “flat-footed” Defense (discounting Dexterity bonus and class bonus, if any) are provided as well.
+生物的防御值后面跟着一段括号标注，里面包含了形成该防御值的所有调整值。生物的`接触防御`（减去了天生护甲和其他护甲调整值的防御值）和`措手不及防御`（减去了敏捷加值和等级加值的防御值）也会给出。
 
-## Base Attack Bonus (BAB)
+## 基础攻击加值（BAB）
 
-A creature’s base attack bonus does not include any modifiers. It is used to calculate a creature’s grapple modifier as well as the maximum bonus on damage rolls for a creature using the Power Attack feat. A creature’s base attack bonus is derived by cross-referencing the creature’s Hit Dice and type on Table: Creature Saves and Base Attack Bonuses.
+生物的基础攻击加值不包含任何调整值。它用于计算生物的擒抱调整值，以及`猛力攻击`专长中，伤害骰调整值的上限。生物的基础攻击加值是将生物的生命骰和类型，根据`表：生物的豁免和基础攻击加值`对照得出的。
 
-## Grapple Modifier (Grap)
+## 擒抱调整值（Grap）
 
-Whenever a creature makes an opposed grapple check, apply this modifier to its d20 roll. The total modifier on grapple checks is determined as follows: base attack bonus + Strength modifier + grapple modifier. The grapple modifiers for creatures of various sizes are given in Table: Creature Sizes.
+当生物要做擒抱的对抗检定时，将此调整值加到d20上。擒抱检定的总调整值由此公式得出：基础攻击加值 + 力量调整值 + 擒抱调整值。各体型的生物的擒抱调整值由`表：生物体型`给出。
 
-## Primary Attack (Atk)
+## 主要攻击（Atk）
 
-If a creature moves more than 5 feet in the same round it attacks, it makes only a single attack using its primary attack bonus. This bonus includes modifications for size and Strength (for melee attacks) or Dexterity (for ranged attacks). A creature with the Weapon Finesse feat can use its Dexterity modifier on its primary attack. The damage and primary weapon type are noted in parentheses.
+如果生物在一轮中移动了超过5尺的距离，它只能以其主要攻击加值做单次攻击。该加值包含了体型以及力量（对于近战攻击）或敏捷（对于远程攻击）带来的调整值。有`武器娴熟`专长的生物可以在主要攻击中应用敏捷调整值。伤害与主要武器类型会在括号内给出。
 
-A creature’s primary attack damage includes its full Strength modifier (1.5 times its Strength bonus if it is the creature’s sole attack).
+生物的主要攻击伤害已将其全力量调整值（如果此次攻击是该生物的单次攻击，则为1.5倍于力量加值）包含在内。
 
-Use the creature’s primary attack bonus whenever the creature makes an attack of opportunity.
+当生物发动借机攻击时，应当应用生物的主要攻击加值。
 
-Creatures can attack with natural weapons, manufactured weapons, or sometimes both.
+生物可以用天生武器、人造武器或两者来攻击。
 
-## Natural Weapons
+## 天生武器
 
-Natural weapons include teeth, claws, horns, and the like. The number of attacks along with the weapon, attack bonus, and form of attack (melee or ranged) are provided in a creature’s entry. Unless noted otherwise, natural weapons threaten critical hits on a natural attack roll of 20.
+天生武器包括牙、爪、角以及类似物。武器可攻击的次数、攻击加值以及攻击方式（近战或远程）将在生物信息中给出。除非另有说明，天生武器的重击威胁区间仅为20。
 
-If any attacks also cause some special effect other than damage, that information is given along with the damage. Unless noted otherwise, creatures deal double damage on critical hits.
+如果攻击会造成伤害以外的特殊效果，会在伤害值后给出。除非另有说明，生物的重击造成两倍伤害。
 
-Natural weapons have types just as other weapons do. The most common types are summarized below.
+天生武器的种类与一般武器相同。大多数常见的种类如下所述。
 
-**Bite:** The creature attacks with its mouth, dealing piercing damage.
+**啮咬：** 生物用嘴攻击，造成穿刺伤害。
 
-**Claw or Rake:** The creature rips with a sharp appendage, dealing slashing damage.
+**抓挠：** 生物以尖利的附加物，如爪子，撕裂，造成劈砍伤害。
 
-**Gore:** The creature spears the opponent with an antler, horn, or similar appendage, dealing piercing damage.
+**抵撞：** 生物以角或类似的附加物突刺，造成穿刺伤害。
 
-**Slap or Slam:** The creature batters opponents with an appendage, dealing bludgeoning damage.
+**拍击：** 生物以附加物拍打对手，造成钝击伤害。
 
-**Sting:** The creature stabs with a stinger, dealing piercing dam-age. Stings are usually poisoned.
+**螯刺：** 生物以螯刺叮咬，造成穿刺伤害。叮通常有毒。
 
-## Manufactured Weapons
+## 人造武器
 
-Creatures that use manufactured weapons follow the same rules as characters, including those for multiple attacks and two-weapon fighting penalties.
+使用人造武器的生物遵循与角色相同的规则，包括多次攻击和双持武器攻击的惩罚。
 
-## Full Attack (Full Atk)
+## 全力攻击（Full Atk）
 
-A creature that takes no more than a 5-foot step during its turn can make a full attack using all of its natural weapons. A creature’s full attack includes both its primary attack and its secondary attacks (if any).
+若生物在回合中移动的距离不超过5尺，可以用其所有的天生武器进行全力攻击。生物的全力攻击包含了主要攻击和次要攻击（如果有的话）。
 
-The primary attack bonus includes modifications for size and Strength (for melee attacks) or Dexterity (for ranged attacks). A creature with the Weapon Finesse feat can use its Dexterity modifier on melee attacks. A creature’s primary attack damage includes its full Strength modifier (1.5 times its Strength bonus if it is the creature’s sole attack or if the creature is wielding a two-handed melee weapon).
+主要攻击加值包含了体型以及力量（对于近战攻击）或敏捷（对于远程攻击）带来的调整值。有`武器娴熟`专长的生物可以在近战攻击攻击中应用敏捷调整值。生物的主要攻击伤害已将其全力量调整值（如果此次攻击是该生物的单次攻击，或者生物装备着双手近战武器，则为1.5倍于力量加值）包含在内。
 
-The remaining weapons are secondary attacks and take a –5 penalty on attack rolls. Creatures with the Multiattack feat (see Feats, below) take only a –2 penalty on secondary attacks. Secondary attacks add only one-half the creature’s Strength bonus to the damage.
+余下的武器用于次要攻击，攻击骰将受到5点减值。有`多重攻击`专长的生物（见下文`专长`）的次要攻击只承受2点减值。次要攻击只会将生物的力量加值的一半加到伤害上。
 
-Creatures that do not normally carry ranged weapons are still given a ranged attack bonus for situations in which they might be throwing objects at a target.
+平时不携带远程武器的生物仍有远程攻击加值，用于计算其可能的投掷攻击的情况。
 
-## Fighting Space (FS)
+## 战斗区域（FS）
 
-Fighting space approximates the amount of space a creature needs to move and fight effectively, and how much space it occupies on a grid of 5-foot-by-5-foot squares. Table: Creature Sizes gives the fighting space for creatures of any given size, although variations and exceptions are possible.
+由生物的战斗区域得出其有效的移动和战斗的方格，以及自身要占据多少方格。`表：生物体型`给出了各种体型的生物的战斗区域，除体型外，还会给出种类和例外情况等其他影响战斗区域的因素。
 
-## Reach
+## 触及范围
 
-A creature’s reach is the distance at which it can strike targets with its natural weapons without needing to adjust its position on the grid. A creature using its natural weapons threatens all squares within its reach. When measuring diagonally, every second square counts as two squares. Table: Creature Sizes provides the typical reach for creatures of any given size. The GM may adjust the values in the table by –5 feet or +5 feet for creatures that have less than normal or greater than normal reach. Unlike the wielder of a reach weapon, a creature with greater than normal reach (more than 5 feet) can still strike creatures next to it. A creature with greater than normal reach usually gets an attack of opportunity against a character if the character approaches it, because the character enters a square it threatens before he or she can attack it. (This does not apply if the character takes a 5-foot step.) Large or larger creatures with reach weapons can strike targets out to double their reach but can’t strike at targets within their normal reach or less.
+生物的触及范围是生物在无需移动的情况下，可以用其天生武器攻击到的距离。使用天生武器的生物，其威胁范围为其触及范围。计算斜向方格的距离时，每两个斜向方格多算一格距离。`表：生物体型`提供了每种体型的的生物的一般触及范围。GM可将小于正常体型的生物的触及范围下调5尺，若大于则上调5尺。生物的触及范围大于一般值（大于5尺），其天生武器不能算作长型武器，它仍是可以攻击邻近的单位的。角色靠近触及范围大于一般值的生物时，往往会引发该生物的借机攻击，因为角色在移动到能攻击该生物的距离前就进入了威胁范围。（五尺快步则不会引发借机攻击）体型大于等于大型的生物可以攻击触及范围一倍以上，两倍及以下的距离。
 
-A creature with a 0-foot reach must move into the fighting space of its target to attack it, provoking an attack of opportunity from the target as the creature enters the target’s fighting space and threatened area. Also, creatures with 0-foot reach do not threaten the squares around them.
+触及范围为0的生物必须移动到目标所占的方格才能攻击，这会引发目标的借机攻击，因为在攻击到之前就进入了目标的威胁范围。同理，触及范围为0的生物，其威胁范围也仅限于自身所占格子，无法威胁周边格子。
 
-## Special Qualities (SQ)
+## 特殊能力（SQ）
 
-Many creatures have unusual abilities.  A special quality can be extraordinary (Ex), spell-like (Sp), or supernatural (Su).
+许多生物都有特别的能力。特殊能力可分为特异能力、类法术能力、以及超自然能力。
 
-**Extraordinary:** Extraordinary abilities are nonmagical and are not subject to anything that disrupts magic. Using an extraordinary ability is a free action unless noted otherwise.
+**特异能力：** 特异能力是非魔法的，也不会被任何打断魔法的因素所影响。除非另有说明，使用特异能力是一个即时动作。
 
-**Spell-Like:** Spell-like abilities are magical and work just like spells, though they have no verbal, somatic, material, focus, or XP components. They are subject to spell resistance.
+**类法术能力：** 类法术能力是魔法的，运行机制也类似法术，但它们不需要姿势、言语、消耗材料、集中注意力或者消耗经验值。类法术能力会被法术抗力抵抗。
 
-Spell-like abilities usually have a limit on the number of times they can be used. A spell-like ability that can be used “at will” has no use limit. Using a spell-like ability is an attack action unless noted otherwise, and doing so while threatened provokes attacks of opportunity. A spell-like ability can be disrupted just as a spell can be.
+类法术能力通常只有有限的使用次数。可“随意”使用的类法术能力则不限制使用次数。除非另有说明，使用类法术能力需要一个攻击动作，且在威胁范围内使用会引发借机攻击。类法术能力会像法术那样可被扰乱。
 
-For creatures with spell-like abilities, a designated caster level serves to define how difficult it is to dispel their spell-like effects and to define any level-dependent variable the abilities might have. The creature’s caster level never affects which spell-like abilities the creature has; sometimes the given caster level is lower than the level a spellcasting character would need to cast the spell of the same name.
+每个具有类法术能力的生物都会有一个施法者等级，用于计算类法术效果的解除难度，以及能力中那些需要代入等级的计算。生物的施法者等级绝对不能应用在生物所拥有的类法术能力上；生物的施法者等级一般会低于施展同名法术所需的角色等级。
 
-The saving throw (if any) for a spell-like ability is 10 + the level of the spell the ability resembles or duplicates + the creature’s Charisma modifier.
+类法术能力的豁免骰（如果有的话）=10+类法术能力所类似的法术的等级+生物的魅力调整值。
 
-**Supernatural:** Supernatural abilities are magical but are not subject to spell resistance. Using a supernatural ability is an attack action unless noted otherwise. Supernatural abilities may have a use limit or be usable at will, just like spell-like abilities. However, supernatural abilities do not provoke attacks of opportunity and never require Concentration checks.
+**超自然能力：** 超自然能力是魔法的，但不受法术抗力影响。除非另有说明，使用超自然能力是一个攻击动作。超自然能力可能有使用限制，也可能没有，这点与类法术能力相同。但超自然能力不会引发借机攻击，也不需要专注检定。
 
-## Allegiances (AL)
+## 阵营（AL）
 
-This entry lists the creature’s most likely allegiances, in order from most important to least important. Fantastic creatures often have allegiances to a moral or ethical philosophy as well as allegiances to masters, groups, organizations, owners, or creators.
+此项列举了生物最有可能属于的阵营，按可能性从高到低排列。奇幻生物通常有其所属的道德阵营，以及效忠于主人、团体、组织、所有者或创造者的阵营。
 
-## Saves (SV)
+## 豁免（SV）
 
-A creature’s Fortitude, Reflex, and Will saving throw modifiers take into account the creature’s type, ability score modifiers, feats, and any special qualities.
+生物的强轫、反射和意志豁免骰调整值取决于生物的类型、属性调整值、专长以及特殊能力。
 
-## Action Points (AP)
+## 行动点（AP）
 
-Creatures have no action points. However, creatures can gain action points by taking levels in a heroic character class. Every time a creature picks up a heroic class level, it gains a number of action points equal to 5 + one-half its heroic character level (not counting the creature’s starting Hit Dice). Like most heroic characters, however, creatures with heroic class levels will have spent a certain number of action points in the course of their “heroic” careers.
+生物没有行动点。但生物若获得英雄职业的等级，也会获得行动点。每当生物获得一级英雄职业等级，它获得的行动点数=5+英雄职业等级的一半（生物的初始生命骰不算在内）。然而，和大多数英雄角色一样，有英雄职业等级的生物会在登场前就消耗掉一部分行动点，视为其登场前的“英雄事迹”所消耗掉的。
 
-Assume that a creature has a number of action points remaining equal to one-half of its heroic class levels.
+一般认为生物登场时只有其英雄职业等级一半的行动点。
 
-## Reputation (Rep)
+## 声望（Rep）
 
-A creature has a Reputation bonus of +0 but may increase the bonus by taking levels in a character class.
+生物默认只有0点声望加值，但这个加值可在生物获得角色等级后增加。
 
-## Abilities
+## 属性
 
-Creatures have the same six ability scores as characters: Strength (Str), Dexterity (Dex), Constitution (Con), Intelligence (Int), Wisdom (Wis), Charisma (Cha). Exceptions are noted below.
+生物与角色一样，有6项属性值：力量（Str）、敏捷（Dex）、体质（Con）、智力（Int）、感知（Wis）、魅力（Cha）。例外规则如下。
 
-**Strength:** Quadrupeds can carry heavier loads than bipedal characters. See Carrying Capacity.
+**力量：** 四足的生物可以比双足角色负载更重的重量。见`负重能力`。
 
-**Intelligence:** A creature can speak all the languages mentioned in its descriptive text. Any creature with an Intelligence score of 3 or higher understands at least one language.
+**智力：** 生物会说描述文字所列举的所有语言。智力大于等于3点的任何生物都至少能理解一门语言。
 
-**Nonabilities:** Some creatures lack certain ability scores. These creatures do not have an ability score of 0—they lack the ability altogether. The modifier for a nonability is +0. Other effects of nonabilities are as follows.
+**空属性：** 一些生物天生欠缺某项属性。这些生物不是某项属性为0——而是完全没有这项属性。空属性的调整值为+0。空属性的其他效果如下所示。
 
-**Strength:** Any creature that can physically manipulate other objects has at least 1 point of Strength. A creature with no Strength score can’t exert force, usually because it has no physical body or because it is immobile. 这类生物力量检定必然失败。If the creature can attack, it applies its Dexterity modifier to its base attack bonus instead of a Strength modifier.
+**力量：** 任何能够通过物理手段作用于其他物体的生物至少具有1点力量。无力量属性的生物无法发挥物理力的作用，通常这种情况是由于该生物不具有实体或无法运动。这类生物力量检定必然失败。若该生物可以攻击，则使用敏捷调整值代替力量调整值计算基础攻击。
 
-**Dexterity:** Any creature that can move has at least 1 point of -Dexterity. A creature with no Dexterity score can’t move. If it can act (such as by casting spells), the creature applies its Intelligence modifier instead of its Dexterity modifier to initiative checks. 这类生物反射豁免及敏捷检定必然失败。
+**敏捷：** 任何具备移动能力的生物至少具有1点敏捷。无敏捷属性的生物无法移动。如果这一生物仍能做出行动（比如施法），则在计算先攻时使用智力调整值代替敏捷调整值。这类生物反射豁免及敏捷检定必然失败。
 
-**Constitution:** Any living creature has at least 1 point of -Constitution. 无体质属性的生物无实体或实体不进行新陈代谢。It is immune to any effect that requires a Fortitude save unless the effect works on objects or is harmless. The creature is also immune to ability damage, ability drain, and energy drain, and it always fails Constitution checks.
+**体质：** 任何活物均至少具有1点体质。无体质属性的生物无实体或实体不进行新陈代谢。这类生物免疫一切需要通过强韧豁免的效果，除非这种效果能够作用在物体上，或者该效果是无害的。这类生物同样免疫属性伤害、属性吸取和能量吸取，但在进行体质检定时必然失败。
 
-**Intelligence:** Any creature that can think, learn, or remember has at least 1 point of Intelligence. 无智力的生物为机器人，通过简单本能或程序化的指令进行行动。It is immune to all mind-affecting effects and automatically fails Intelligence checks.
+**智力：** 任何能够思考、学习、或者记忆的生物具有至少1点智力。无智力的生物为机器人，通过简单本能或程序化的指令进行行动。他们免疫所有和思维有关的效果，且进行智力检定必然失败。
 
-**Wisdom:** Any creature that can perceive its environment in any fashion has at least 1 point of Wisdom. 无感知的存在为物体而非生物。Anything without a Wisdom score also has no Charisma score.
+**感知：** 任何能够通过任意方式感知环境的生物具有至少1点感知。无感知的存在为物体而非生物。任何不具备感知的存在都不具备魅力属性。
 
-**Charisma:** Any creature capable of telling the difference between itself and things that are not itself has at least 1 point of Charisma. Anything with no Charisma score is an object, not a creature. Anything without a Charisma score also has no Wisdom score.
+**魅力：** 任何具备区别自我和其他存在的能力的生物至少具有1点魅力。无魅力的存在为物体而非生物。任何不具备魅力的存在都不具备感知属性。
 
-## Skills
+## 技能
 
-This section lists alphabetically all the creature’s skills by name along with skill modifiers that include adjustments for ability scores and any bonuses from feats or species abilities (unless otherwise noted in the descriptive text). All listed skills were purchased as class skills unless the creature acquires a character class (see Advancement, below).
+此项按英语字母顺序列举出该种生物的所有技能，以及包括对属性的调整、专长或物种能力提供的加值在内的技能调整值。所有列举的技能都已具备，并被视为本职技能，除非生物获得了一个角色职业（见下文`加强`）。
 
-**Automatic Languages:** Some creatures read, write, or speak unique languages that heroes don’t know anything about. The GM determines whether a hero is capable of learning one of these unique languages and the method by which that language can be learned.
+**所知语言：** 一些生物能读、写、说某种独特的语言，这种语言并不为英雄所知。由GM来决定英雄是否适合学习这种独特的语言，以及如何学习该语言。
 
 ## 专长列表
 
-This section lists alphabetically all the creature’s feats.
+此项按英语字母顺序列举出该种生物的所有专长。
 
-Most creatures use the same feats that are available to characters, but some have access to the Multiattack feat (described below).
+大多数生物的专长即角色可用的专长，但有的生物有生物独有的`多重攻击`专长（见下文）。
 
-## Multiattack
+## 多重攻击
 
-The creature is adept at using all its natural weapons at once.
+生物能更熟练地在一次攻击中用所有的天生武器同时攻击。
 
-**Prerequisite:** Three or more natural weapons.
+**要求：** 拥有的天生武器大于等于三个。
 
-**Benefit:** The creature’s secondary attacks with natural weapons take only a –2 penalty.
+**效果：** 生物用天生武器发动的次要攻击只承受2点减值。
 
-**Normal:** Without this feat, the creature’s secondary natural attacks take a –5 penalty.
+**正常：** 无此专长的生物，其天生武器次要攻击将承受5点减值。
 
-## Advancement
+## 提升
 
-The GM can improve a creature by increasing its Hit Dice. The Advancement entry indicates the increased Hit Dice (and often size) of the creature or indicates that the creature can advance by character class.
+GM可以通过增加生命骰点的方式提升生物的实力。`提升`一项将给出生物升级后要掷的生命骰的次数（以及标准体型）以及生物是否能在获得角色等级后掷角色职业的生命骰。
 
-## Increasing Hit Dice
+## 增加生命骰
 
-As a creature gains Hit Dice, many of its game statistics change.
+生物获得生命骰时，生物的许多数据都将随之改变。
 
-**Size:** Adding Hit Dice to a creature can also increase its size. An increase in size affects a creature’s Defense, attack rolls, and grapple checks, as shown on Table: Creature Sizes, as well as physical ability scores and damage, as shown in the descriptions of the creature types.
+**体型：** 为生物加生命骰的同时也会增加生物的体型。生物体型的增加将影响其防御值、攻击骰、擒抱检定，在`表：生物体型`中列举；以及肉体属性值、伤害，见生物类型的描述。
 
-**Defense:** An increase in size affects a creature’s Defense, as shown on Table: Creature Sizes. An increase in size might also improve a creature’s natural armor bonus to Defense, as shown on Table: Adjustments to Physical Abilities and Natural Armor. Note that a natural armor bonus stacks with an equipment bonus from armor.
+**防御：** 生物体型的增加将影响其防御值，如`表：生物体型`所述。体型的增加也有可能提高生物的天生护甲加值，如`表：对肉体属性和天生护甲的调整`。注意，天生护甲加值可与护甲的装备加值叠加。
 
-**Attack Bonus:** Table: Creature Saves and Base Attack Bonuses shows how a creature’s base attack bonus improves as it gains Hit Dice. A change in the creature’s size also modifies its attack rolls, as shown on Table: Creature Sizes. Both values must be counted when recalculating a creature’s attack bonus.
+**攻击加值：** `表：生物豁免与基础攻击加值`给出了当生物获得攻击骰时，生物的基础攻击加值提升的量。生物体型的改变同样也为攻击骰提供了调整值，如`表：生物体型`所述。在重新计算生物的攻击加值时，这两个值都要算在内。
 
-**Grapple Modifier:** An increase in size affects a creature’s grapple modifier, as shown on Table: Creature Sizes.
+**擒抱调整值：** 体型的提升会影响生物的擒抱检定，如`表：生物体型`所述。
 
-**Damage:** An increase in size also increases the amount of damage a creature deals with its natural weapons.
+**伤害：** 体型的提升也会增加生物用天生武器攻击所造成的伤害。
 
-**Saving Throws:** Table: Creature Saves and Base At-tack Bonuses shows how a creature’s saving throw bonuses improve as it gains Hit Dice.
+**豁免骰：** `表：生物豁免与基础攻击加值`给出了当生物获得生命骰时，生物的豁免骰加值的提升量。
 
-**Ability Scores:** An increase in size affects a creature’s Strength, Dexterity, and Constitution, as shown on Table: Adjustments to Physical Abilities and Natural Armor.
+**属性点：** 体型的提升会影响生物的力量、敏捷和体质，如`表：对肉体属性和天生护甲的调整`所述。
 
-**Skills and Feats:** As shown on Table: Bonus Skill Points and Feats by Creature Type, a creature may gain additional skill points and feats depending on its type.
+**技能和专长：** 如`表：生物类型的奖励技能点与奖励专长`所示，生物会根据其类型，获得额外的技能点和专长。
 
-**Table: Adjustments to Physical Abilities and Natural Armor**
+**表：对肉体属性和天生护甲的调整**
 
-|Old Size\*|New Size|Str|Dex|Con|Natural Armor Improvement|
+|旧尺寸\*|新尺寸|力|敏|体|天生护甲提升|
 |----------|:------:|:-:|:-:|:-:|:-----------------------:|
-|Fine|Diminutive|—|–2|—|—|
-|Diminutive|Tiny|+2|–2|—|—|
-|Tiny|Small|+4|–2|—|—|
-|Small|Medium-size|+4|–2|+2|—|
-|Medium-size|Large|+8|–2|+4|+2|
-|Large|Huge|+8|–2|+4|+3|
-|Huge|Gargantuan|+8|—|+4|+4|
-|Gargantuan|Colossal|+8|—|+4|+5|
+|超微型|微型|—|–2|—|—|
+|微型|超小型|+2|–2|—|—|
+|超小型|小型|+4|–2|—|—|
+|小型|普通|+4|–2|+2|—|
+|普通|大型|+8|–2|+4|+2|
+|大型|超大型|+8|–2|+4|+3|
+|超大型|巨型|+8|—|+4|+4|
+|巨型|超巨型|+8|—|+4|+5|
 
-\* Repeat the adjustment if the creature moves up more than one size category.
+\* 若生物一次提升了多级体型，则应连续叠加上去。
 
-**Table: Bonus Skill Points and Feats by Creature Type**
+**表：生物类型的奖励技能点与奖励专长**
 
-|Type|Bonus Skill Points|Bonus Feats|
+|类型|奖励技能点|奖励专长|
 |----|------------------|-----------|
-|Aberration|+2 per extra HD|+1 per 4 extra HD|
-|Animal|—|—|
-|Construct|—|—|
-|Dragon|6 + Int modifier per extra HD|+1 per 4 extra HD|
-|Elemental|+2 per extra HD|+1 per 4 extra HD|
-|Fey|+2 per extra HD|+1 per 4 extra HD|
-|Giant|+2 per extra HD|+1 per 4 extra HD|
-|Humanoid|+1 per extra HD|+1 per 4 extra HD|
-|Magical beast|+1 per extra HD\*|+1 per 4 extra HD|
-|Monstrous humanoid|+2 per extra HD|+1 per 4 extra HD|
-|Ooze|—|—|
-|Outsider|8 + Int modifier per 4 extra HD|+1 per extra HD|
-|Plant|—|—|
-|Undead|+2 per extra HD|+1 per 4 extra HD|
-|Vermin|—|—|
+|异怪类|每加一次HD得2个 |每加4次HD得1个|
+|动物类|—|—|
+|构装体类|—|—|
+|龙类|每加一次HD得(6 + 智力调整值)个|每加4次HD得1个|
+|元素类|每加一次HD得2个|每加4次HD得1个|
+|精类|每加一次HD得2个|每加4次HD得1个|
+|巨人类|每加一次HD得2个|每加4次HD得1个|
+|类人生物类|每加一次HD得1个|每加4次HD得1个|
+|魔法兽类|每加一次HD得1个\*|每加4次HD得1个|
+|人形怪物类|每加一次HD得2个|每加4次HD得1个|
+|泥形怪类|—|—|
+|异界生物类|每加4次HD得(8 + 智力调整值)个|每加一次HD得1个|
+|植物类|—|—|
+|不死生物类|每加一次HD得2个|每加4次HD得1个|
+|虫类|—|—|
 
-\*Magical beasts with an Intelligence of 1 or 2 gain no bonus skills as they advance.
+\*智力为1或2的魔法兽类在提升时
 
-## Acquiring a Character Class
+## 获得角色等级
 
-A creature that acquires a character class follows the rules for multiclass characters. The creature’s character level equals its Hit Dice plus the number of character class levels it has. Creatures with 1 or fewer Hit Dice count only their character class levels.
+获得角色等级的生物遵循跨职角色的规则。生物的角色等级=生物的生命骰+所拥有的所有角色职业等级。生物的生命骰数小于等于1，则只算角色职业等级。
 
-**Size:** Adding character classes to a creature never affects its size.
+**尺寸：** 生物提升角色等级不会影响其体型。
 
-**Skills:** Creatures that take levels of a character class do not gain as many skill points as a human character of the same class. Creatures get 4 fewer skill points at 1st level than a human character and 1 fewer skill point each level thereafter; see Table: Skill Points per Class Level for Nonhumans.
+**技能：** 提升角色等级的生物获得的技能点数没有同职业人类角色获得的多。第一级时，生物获得的技能点比人类角色少4个，之后每次升级获得的技能点都比人类角色少一个，见`表：非人类的生物每职业等级所获技能点`。
 
-**Feats:** Creatures with 1 or fewer Hit Dice that acquire character class levels advance as human characters do, but they gain only one bonus feat at 1st level instead of two.
+**专长：** 生物的生命骰数若小于等于1，可像人类角色一样提升角色职业等级，但在第一级只能获得一个奖励专长，而非两个。
 
-## Talents and Abilities
+## 天赋与属性
 
-Creatures that advance by character class gain special talents and abilities, which are noted here.
+提升了角色职业等级的生物会获得特殊天赋与属性点，将在此项给出。
 
-**Table: Skill Points per Class Level for Nonhumans**
+**表：非人类的生物每职业等级所获技能点**
 
-|Basic Class|Skill Points per Level\*|
+|基本职业|每级技能点\*|
 |-----------|------------------------|
-|Strong|2 + Int modifier|
-|Fast|4 + Int modifier|
-|Tough|2 + Int modifier|
-|Smart|8 + Int modifier|
-|Dedicated|4 + Int modifier|
-|Charismatic|6 + Int modifier|
+|力量型|2 + 智力调整值|
+|敏捷型|4 +智力调整值|
+|体质型|2 + 智力调整|
+|智力型|8 + 智力调整值|
+|感知型|4 + 智力调整值|
+|魅力型|6 + 智力调整值|
 
-|Advanced Class|Skill Points per Level|
+|高级职业|每级技能点|
 |--------------|----------------------|
-|Soldier|4 + Int modifier|
-|Martial Artist|2 + Int modifier|
-|Gunslinger|4 + Int modifier|
-|Infiltrator|6 + Int modifier|
-|Daredevil|4 + Int modifier|
-|Bodyguard|2 + Int modifier|
-|Field Scientist|6 + Int modifier|
-|Techie|6 + Int modifier|
-|Field Medic|4 + Int modifier|
-|Investigator|4 + Int modifier|
-|Personality|4 + Int modifier|
-|Negotiator|4 + Int modifier|
+|士兵|4 + 智力调整值|
+|武术家|2 + 智力调整值|
+|枪手|4 + 智力调整值|
+|渗透者|6 + 智力调整值|
+|勇士|4 + 智力调整值|
+|保镖|2 + 智力调整值|
+|战地科学家|6 + 智力调整值|
+|技师|6 + 智力调整值|
+|战地医生|4 + 智力调整值|
+|调查员|4 + 智力调整值|
+|明星|4 + 智力调整值|
+|谈判专家|4 + 智力调整值|
 
-|Campaign-Specific Advanced Class|Skill Points per Level|
+|战役高级职业|每级技能点|
 |--------------------------------|----------------------|
-|Mage|6 + Int modifier|
-|Acolyte|4+ Int modifier|
-|Shadow Slayer|2+ Int modifier|
-|Occultist|4+ Int modifier|
-|Telepath|4+ Int modifier|
-|Battle Mind|2+ Int modifier|
+|法师|6 + 智力调整值|
+|侍僧|4+ 智力调整值|
+|暗影猎手|2+ 智力调整值|
+|术士|4+ 智力调整值|
+|异能者|4+ 智力调整值|
+|灵战士|2+ 智力调整值|
 
-\*Humanoids with 1 or fewer Hit Dice advance as human characters do. At 1st level, multiply the number of skill points per level by 4.
+\*生命骰数小于等于1的类人生物类，按人类角色的规则提升。第一级时，获得4倍于每级技能点的技能点数。

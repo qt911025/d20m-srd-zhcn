@@ -2,7 +2,7 @@
 
 # CREATURE TYPES
 
-A creature’s type determines many of its characteristics and abilities: physical ability scores, Hit Die type, base attack bonus, saving throw bonuses, skill points, feats, and special qualities. Mental ability scores (Intelligence, Wisdom, and Charisma) can vary widely among creatures of a type; unless a type description specifies a particular score for one of these abilities, the GM will assign values as he or she deems appropriate.
+生物的种类决定了生物的许多特性和能力：肉体属性值、生命骰类型、基础攻击加值、豁免骰加值、技能点、专长、以及特殊能力。不同种类的生物，其精神属性值（智力、感知、以及魅力）差别巨大；除非生物种类的描述指定了其中的属性，GM可自行酌情设置属性值。
 
 A creature belongs to one of the fifteen types described below. A single creature cannot have more than one type.
 

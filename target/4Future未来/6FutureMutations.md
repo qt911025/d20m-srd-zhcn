@@ -7,7 +7,7 @@ While a mutation can assume many forms, it typically signifies an abnormal trait
 Mutations may appear only at birth or manifest as consequences of radiation exposure or some horrible physical trauma.
 
 Ordinarily, a GM should allow players to select appropriate mutations and drawbacks for their characters using the Mutation Point (MP) system presented below. However, for GM-controlled creatures and supporting characters, the GM can determine mutations randomly. Whenever a creature or supporting character gains a mutation, the GM may roll percentile dice and consult Table: Mutations below, then select an appropriate number of drawbacks with a total MP value equal to or greater than the MP cost of the randomly determined mutation.
-All special qualities granted by mutations are considered extraordinary abilities. Using an extraordinary ability is a free action unless noted otherwise.
+All special qualities granted by mutations are considered extraordinary abilities. 除非另有说明，使用特异能力是一个即时动作。
 
 MUTATION POINTS
 Mutation Points (MP) provide a simple method of selecting mutations while preserving game balance. All creatures (including heroes) begin play with 0 MP. A creature gains MP by selecting one or more drawbacks—physical deformities and disabilities that make the creature less effective in play. A creature can then “spend” the MP on one or more beneficial mutations. The total MP spent on beneficial mutations cannot exceed the total MP the creature gains from drawbacks. A creature may still have unspent MP after choosing beneficial mutations, however. These unspent MP can be spent on new mutations at a later time.

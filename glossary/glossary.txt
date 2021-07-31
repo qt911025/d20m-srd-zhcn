@@ -1455,3 +1455,6 @@ disrupted	扰乱
 dispel	解除（法术效果）
 Fantastic	奇幻
 Nonabilities	空属性
+Advancement	提升	生物生命骰
+Animal	动物类
+Occultist	术士

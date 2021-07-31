@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Acquiring a Character Class</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T142300Z" creationid="quentine" creationdate="20210731T142300Z">
+        <seg>## 获得角色等级</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Action Points</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T122051Z" creationid="quentine" creationdate="20190703T122051Z">
@@ -386,6 +394,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T122236Z" creationid="quentine" creationdate="20190703T122236Z">
         <seg>## 高级职业</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Advancement</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T142156Z" creationid="quentine" creationdate="20210729T140159Z">
+        <seg>## 提升</seg>
       </tuv>
     </tu>
     <tu>
@@ -1464,6 +1480,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Increasing Hit Dice</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T133714Z" creationid="quentine" creationdate="20210731T133714Z">
+        <seg>## 增加生命骰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Initiative</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T123023Z" creationid="quentine" creationdate="20201118T123023Z">
@@ -1700,6 +1724,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210628T140436Z" creationid="qt911" creationdate="20210628T140436Z">
         <seg>## 移动</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Multiattack</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T131324Z" creationid="quentine" creationdate="20210731T131324Z">
+        <seg>## 多重攻击</seg>
       </tuv>
     </tu>
     <tu>
@@ -2184,6 +2216,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Skills</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210729T135157Z" creationid="quentine" creationdate="20210729T135157Z">
+        <seg>## 技能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Sleight of Hand (Dex) Trained Only; Armor Penalty</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T132622Z" creationid="quentine" creationdate="20191027T132622Z">
@@ -2468,6 +2508,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T132806Z" creationid="quentine" creationdate="20190806T132806Z">
         <seg>## 取20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Talents and Abilities</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T143417Z" creationid="quentine" creationdate="20210731T143417Z">
+        <seg>## 天赋与属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -8845,6 +8893,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Ability Scores:** An increase in size affects a creature’s Strength, Dexterity, and Constitution, as shown on Table: Adjustments to Physical Abilities and Natural Armor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T135757Z" creationid="quentine" creationdate="20210731T135706Z">
+        <seg>**属性点：** 体型的提升会影响生物的力量、敏捷和体质，如`表：对肉体属性和天生护甲的调整`所述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Ability:** Charisma</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190202T111725Z" creationid="quentine" creationdate="20190202T111725Z">
@@ -9246,6 +9302,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Attack Bonus:** Table: Creature Saves and Base Attack Bonuses shows how a creature’s base attack bonus improves as it gains Hit Dice.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T135005Z" creationid="quentine" creationdate="20210731T135005Z">
+        <seg>**攻击加值：** `表：生物豁免与基础攻击加值`给出了当生物获得攻击骰时，生物的基础攻击加值提升的量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Attacks:** Use the Mage’s base attack bonus.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190623T125002Z" creationid="quentine" creationdate="20190623T125002Z">
@@ -9266,6 +9330,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T124709Z" creationid="quentine" creationdate="20200410T124709Z">
         <seg>**全自动（全）：** 全自动武器可以在扣动扳机时持续射击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Automatic Languages:** Some creatures read, write, or speak unique languages that heroes don’t know anything about.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210729T144146Z" creationid="quentine" creationdate="20210729T143946Z">
+        <seg>**所知语言：** 一些生物能读、写、说某种独特的语言，这种语言并不为英雄所知。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9907,6 +9979,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190802T140456Z" creationid="quentine" creationdate="20190802T133837Z">
         <seg>**效果：** 角色徒手击打的重击威胁区间提升至19-20。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Benefit:** The creature’s secondary attacks with natural weapons take only a –2 penalty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T132006Z" creationid="quentine" creationdate="20210731T131855Z">
+        <seg>**效果：** 生物用天生武器发动的次要攻击只承受2点减值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10951,6 +11031,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Damage:** An increase in size also increases the amount of damage a creature deals with its natural weapons.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T135424Z" creationid="quentine" creationdate="20210731T135424Z">
+        <seg>**伤害：** 体型的提升也会增加生物用天生武器攻击所造成的伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Damage:** The damage the weapon deals on a successful hit.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T115425Z" creationid="quentine" creationdate="20200410T115425Z">
@@ -11027,6 +11115,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T120012Z" creationid="quentine" creationdate="20190116T120012Z">
         <seg>**防御加值：** 角色的防御加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Defense:** An increase in size affects a creature’s Defense, as shown on Table: Creature Sizes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T134522Z" creationid="quentine" creationdate="20210731T134522Z">
+        <seg>**防御：** 生物体型的增加将影响其防御值，如`表：生物体型`所述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11383,6 +11479,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Feats:** Creatures with 1 or fewer Hit Dice that acquire character class levels advance as human characters do, but they gain only one bonus feat at 1st level instead of two.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T143409Z" creationid="quentine" creationdate="20210731T143409Z">
+        <seg>**专长：** 生物的生命骰数若小于等于1，可像人类角色一样提升角色职业等级，但在第一级只能获得一个奖励专长，而非两个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Feats:** Educated, Studious.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190612T114219Z" creationid="quentine" creationdate="20190612T114219Z">
@@ -11531,6 +11635,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210719T144824Z" creationid="quentine" creationdate="20210718T142030Z">
         <seg>**抵撞：** 生物以角或类似的附加物突刺，造成穿刺伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Grapple Modifier:** An increase in size affects a creature’s grapple modifier, as shown on Table: Creature Sizes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T135348Z" creationid="quentine" creationdate="20210731T135348Z">
+        <seg>**擒抱调整值：** 体型的提升会影响生物的擒抱检定，如`表：生物体型`所述。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12415,6 +12527,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Normal:** Without this feat, the creature’s secondary natural attacks take a –5 penalty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T132108Z" creationid="quentine" creationdate="20210731T132108Z">
+        <seg>**正常：** 无此专长的生物，其天生武器次要攻击将承受5点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Open Lock:** A character can pick conventional locks, finesse combination locks, and bypass electronic locks.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190925T112617Z" creationid="quentine" creationdate="20190925T112617Z">
@@ -12715,6 +12835,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190803T135821Z" creationid="quentine" creationdate="20190803T135821Z">
         <seg>**要求：** 13力量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Prerequisite:** Three or more natural weapons.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T131835Z" creationid="quentine" creationdate="20210731T131835Z">
+        <seg>**要求：** 拥有的天生武器大于等于三个。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13264,6 +13392,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Saving Throws:** Table: Creature Saves and Base At-tack Bonuses shows how a creature’s saving throw bonuses improve as it gains Hit Dice.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T135626Z" creationid="quentine" creationdate="20210731T135626Z">
+        <seg>**豁免骰：** `表：生物豁免与基础攻击加值`给出了当生物获得生命骰时，生物的豁免骰加值的提升量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Saving Throws:** The familiar uses the Mage’s base saving throw bonuses if they’re better than the familiar’s.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190623T125325Z" creationid="quentine" creationdate="20190623T125325Z">
@@ -13388,6 +13524,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200410T123809Z" creationid="quentine" creationdate="20200410T123809Z">
         <seg>**手动：** 手动射击模式的武器需要使用者在每次射击之间都要耗费动作来操作（手动装填、制退）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Size:** Adding Hit Dice to a creature can also increase its size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T133956Z" creationid="quentine" creationdate="20210731T133902Z">
+        <seg>**体型：** 为生物加生命骰的同时也会增加生物的体型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Size:** Adding character classes to a creature never affects its size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T142610Z" creationid="quentine" creationdate="20210731T142610Z">
+        <seg>**尺寸：** 生物提升角色等级不会影响其体型。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13552,6 +13704,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Skills and Feats:** As shown on Table: Bonus Skill Points and Feats by Creature Type, a creature may gain additional skill points and feats depending on its type.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T140156Z" creationid="quentine" creationdate="20210731T140156Z">
+        <seg>**技能和专长：** 如`表：生物类型的奖励技能点与奖励专长`所示，生物会根据其类型，获得额外的技能点和专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Skills:** 6 ranks in either Craft (chemical) or Craft (electronic), plus 6 ranks in Knowledge (earth and life sciences), Knowledge (physical sciences), or Knowledge (technology), plus 6 ranks in Research.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200115T091104Z" creationid="quentine" creationdate="20190421T135522Z">
@@ -13628,6 +13788,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190623T110143Z" creationid="quentine" creationdate="20190623T110143Z">
         <seg>**技能：** 制造（化学）6级、文件解读6级、知识（秘法学识）6级、研究6级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Skills:** Creatures that take levels of a character class do not gain as many skill points as a human character of the same class.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T142807Z" creationid="quentine" creationdate="20210731T142807Z">
+        <seg>**技能：** 提升角色等级的生物获得的技能点数没有同职业人类角色获得的多。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14528,10 +14696,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Table: Adjustments to Physical Abilities and Natural Armor**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T140215Z" creationid="quentine" creationdate="20210731T140215Z">
+        <seg>**表：对肉体属性和天生护甲的调整**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Table: Attack Roll Modifiers**</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T142845Z" creationid="qt911" creationdate="20210530T142845Z">
         <seg>**表：攻击骰调整值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Bonus Skill Points and Feats by Creature Type**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T140656Z" creationid="quentine" creationdate="20210731T140656Z">
+        <seg>**表：生物类型的奖励技能点与奖励专长**</seg>
       </tuv>
     </tu>
     <tu>
@@ -14628,6 +14812,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210607T140052Z" creationid="qt911" creationdate="20210607T140052Z">
         <seg>**表：尺寸与物品防御的关系**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Skill Points per Class Level for Nonhumans**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T143115Z" creationid="quentine" creationdate="20210731T143115Z">
+        <seg>**表：非人类的生物每职业等级所获技能点**</seg>
       </tuv>
     </tu>
     <tu>
@@ -16790,6 +16982,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A change in the creature’s size also modifies its attack rolls, as shown on Table: Creature Sizes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T135142Z" creationid="quentine" creationdate="20210731T135142Z">
+        <seg>生物体型的改变同样也为攻击骰提供了调整值，如`表：生物体型`所述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A character aids another by making a skill check (DC 10).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T134355Z" creationid="quentine" creationdate="20190806T134049Z">
@@ -18874,6 +19074,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T130736Z" creationid="quentine" creationdate="20191030T130736Z">
         <seg>生物对自己的喷吐武器以及其他同类喷吐武器免疫，除非另有说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A creature that acquires a character class follows the rules for multiclass characters.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T142346Z" creationid="quentine" creationdate="20210731T142346Z">
+        <seg>获得角色等级的生物遵循跨职角色的规则。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21600,6 +21808,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All listed skills were purchased as class skills unless the creature acquires a character class (see Advancement, below).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T133341Z" creationid="quentine" creationdate="20210729T140116Z">
+        <seg>所有列举的技能都已具备，并被视为本职技能，除非生物获得了一个角色职业（见下文`加强`）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All longarms are covered by the Personal Firearms Proficiency feat.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20200419T021416Z">
@@ -22552,6 +22768,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An increase in size affects a creature’s Defense, attack rolls, and grapple checks, as shown on Table: Creature Sizes, as well as physical ability scores and damage, as shown in the descriptions of the creature types.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T134412Z" creationid="quentine" creationdate="20210731T134412Z">
+        <seg>生物体型的增加将影响其防御值、攻击骰、擒抱检定，在`表：生物体型`中列举；以及肉体属性值、伤害，见生物类型的描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An increase in size might also improve a creature’s natural armor bonus to Defense, as shown on Table: Adjustments to Physical Abilities and Natural Armor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T134735Z" creationid="quentine" creationdate="20210731T134735Z">
+        <seg>体型的增加也有可能提高生物的天生护甲加值，如`表：对肉体属性和天生护甲的调整`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An individual with a chaotic outlook tends to follow his or her instincts and whims, favor new ideas and experiences, and behave in a subjective and open manner in dealings with others.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190704T132427Z" creationid="QuenTine" creationdate="20181104T081334Z">
@@ -23304,6 +23536,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As a creature gains Hit Dice, many of its game statistics change.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T133804Z" creationid="quentine" creationdate="20210731T133804Z">
+        <seg>生物获得生命骰时，生物的许多数据都将随之改变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As a full-round action, a character can make an unarmed attack or use a melee weapon that deals nonlethal damage to deliver a knockout blow to a helpless foe.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210602T123824Z" creationid="qt911" creationdate="20210602T123824Z">
@@ -23756,6 +23996,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190619T141117Z" creationid="quentine" creationdate="20190619T140545Z">
         <seg>1级时，异能者可以选择发现3个0级的灵力和1个1级的灵力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>At 1st level, multiply the number of skill points per level by 4.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T145219Z" creationid="quentine" creationdate="20210731T145219Z">
+        <seg>第一级时，获得4倍于每级技能点的技能点数。</seg>
       </tuv>
     </tu>
     <tu>
@@ -25344,6 +25592,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Both values must be counted when recalculating a creature’s attack bonus.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T135239Z" creationid="quentine" creationdate="20210731T135239Z">
+        <seg>在重新计算生物的攻击加值时，这两个值都要算在内。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Both vehicles reduce their speed by two speed categories.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210710T131119Z" creationid="quentine" creationdate="20210710T131119Z">
@@ -26404,6 +26660,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creatures get 4 fewer skill points at 1st level than a human character and 1 fewer skill point each level thereafter; see Table: Skill Points per Class Level for Nonhumans.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T143107Z" creationid="quentine" creationdate="20210731T143107Z">
+        <seg>第一级时，生物获得的技能点比人类角色少4个，之后每次升级获得的技能点都比人类角色少一个，见`表：非人类的生物每职业等级所获技能点`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Creatures have no action points.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210727T150907Z" creationid="quentine" creationdate="20210727T150907Z">
@@ -26424,6 +26688,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190114T144403Z" creationid="quentine" creationdate="20190114T144403Z">
         <seg>免疫重击的生物也会免疫巨创。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creatures that advance by character class gain special talents and abilities, which are noted here.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T143720Z" creationid="quentine" creationdate="20210731T143720Z">
+        <seg>提升了角色职业等级的生物会获得特殊天赋与属性点，将在此项给出。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26472,6 +26744,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191102T020747Z" creationid="quentine" creationdate="20191102T020747Z">
         <seg>但用嗅觉追踪无视路况和低能见度的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creatures with 1 or fewer Hit Dice count only their character class levels.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T142524Z" creationid="quentine" creationdate="20210731T142524Z">
+        <seg>生物的生命骰数小于等于1，则只算角色职业等级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36219,6 +36499,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most creatures use the same feats that are available to characters, but some have access to the Multiattack feat (described below).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T131319Z" creationid="quentine" creationdate="20210731T131319Z">
+        <seg>大多数生物的专长即角色可用的专长，但有的生物有生物独有的`多重攻击`专长（见下文）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Most diseases that are inhaled can also be ingested (and vice versa).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T142213Z" creationid="quentine" creationdate="20190115T142213Z">
@@ -36703,6 +36991,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T135154Z" creationid="quentine" creationdate="20190115T135154Z">
         <seg>要注意的是，没被压制住的那个擒抱对象才可以扼住对方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note that a natural armor bonus stacks with an equipment bonus from armor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T134844Z" creationid="quentine" creationdate="20210731T134844Z">
+        <seg>注意，天生护甲加值可与护甲的装备加值叠加。</seg>
       </tuv>
     </tu>
     <tu>
@@ -40973,6 +41269,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Advancement entry indicates the increased Hit Dice (and often size) of the creature or indicates that the creature can advance by character class.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T142205Z" creationid="quentine" creationdate="20210731T132504Z">
+        <seg>`提升`一项将给出生物升级后要掷的生命骰的次数（以及标准体型）以及生物是否能在获得角色等级后掷角色职业的生命骰。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The BMP-2 is three squares wide and four squares long.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201030T131839Z" creationid="quentine" creationdate="20201030T131839Z">
@@ -42005,6 +42309,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The GM can improve a creature by increasing its Hit Dice.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T142237Z" creationid="quentine" creationdate="20210731T132321Z">
+        <seg>GM可以通过增加生命骰点的方式提升生物的实力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The GM can modify the DCs for these checks based on the circumstances.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T140556Z" creationid="quentine" creationdate="20190115T140556Z">
@@ -42049,6 +42361,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210531T134734Z" creationid="qt911" creationdate="20210531T134734Z">
         <seg>这个值由GM决定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The GM determines whether a hero is capable of learning one of these unique languages and the method by which that language can be learned.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210729T144358Z" creationid="quentine" creationdate="20210729T144350Z">
+        <seg>由GM来决定英雄是否适合学习这种独特的语言，以及如何学习该语言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -44969,6 +45289,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The creature is adept at using all its natural weapons at once.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T131919Z" creationid="quentine" creationdate="20210731T131629Z">
+        <seg>生物能更熟练地在一次攻击中用所有的天生武器同时攻击。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The creature is also immune to ability damage, ability drain, and energy drain, and it always fails Constitution checks.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210728T144025Z" creationid="quentine" creationdate="20210728T144025Z">
@@ -45045,6 +45373,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210727T145631Z" creationid="quentine" creationdate="20210727T144833Z">
         <seg>生物的施法者等级绝对不能应用在生物所拥有的类法术能力上；生物的施法者等级一般会低于施展同名法术所需的角色等级。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The creature’s character level equals its Hit Dice plus the number of character class levels it has.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T142533Z" creationid="quentine" creationdate="20210731T142428Z">
+        <seg>生物的角色等级=生物的生命骰+所拥有的所有角色职业等级。</seg>
       </tuv>
     </tu>
     <tu>
@@ -49997,6 +50333,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This section lists alphabetically all the creature’s feats.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T130815Z" creationid="quentine" creationdate="20210731T130815Z">
+        <seg>此项按英语字母顺序列举出该种生物的所有专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This section lists alphabetically all the creature’s skills by name along with skill modifiers that include adjustments for ability scores and any bonuses from feats or species abilities (unless otherwise noted in the descriptive text).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210729T143706Z" creationid="quentine" creationdate="20210729T135808Z">
+        <seg>此项按英语字母顺序列举出该种生物的所有技能，以及包括对属性的调整、专长或物种能力提供的加值在内的技能调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This section of a class description provides a list of class skills and also gives the number of skill points the character starts with at 1st level and the number of skill points gained each level thereafter.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T114719Z" creationid="quentine" creationdate="20190116T114719Z">
@@ -53797,6 +54149,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>\* Repeat the adjustment if the creature moves up more than one size category.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T140632Z" creationid="quentine" creationdate="20210731T140632Z">
+        <seg>\* 若生物一次提升了多级体型，则应连续叠加上去。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>\* Requires a 20-foot move.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191021T135741Z" creationid="quentine" creationdate="20191021T135741Z">
@@ -53909,10 +54269,26 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>\*Humanoids with 1 or fewer Hit Dice advance as human characters do.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T145027Z" creationid="quentine" creationdate="20210731T145027Z">
+        <seg>\*生命骰数小于等于1的类人生物类，按人类角色的规则提升。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>\*If damage is sustained, make a second saving throw to avoid 1 point being permanently drained (instead of damaged).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T123808Z" creationid="quentine" creationdate="20190115T143149Z">
         <seg>\* 若伤害已造成，再进行一次豁免以避免1点永久性的属性吸取（而不是伤害）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\*Magical beasts with an Intelligence of 1 or 2 gain no bonus skills as they advance.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T142145Z" creationid="quentine" creationdate="20210731T142145Z">
+        <seg>\*智力为1或2的魔法兽类在提升时</seg>
       </tuv>
     </tu>
     <tu>
@@ -54677,6 +55053,40 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|Advanced Class|Skill Points per Level|
+|--------------|----------------------|
+|Soldier|4 + Int modifier|
+|Martial Artist|2 + Int modifier|
+|Gunslinger|4 + Int modifier|
+|Infiltrator|6 + Int modifier|
+|Daredevil|4 + Int modifier|
+|Bodyguard|2 + Int modifier|
+|Field Scientist|6 + Int modifier|
+|Techie|6 + Int modifier|
+|Field Medic|4 + Int modifier|
+|Investigator|4 + Int modifier|
+|Personality|4 + Int modifier|
+|Negotiator|4 + Int modifier|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T144534Z" creationid="quentine" creationdate="20210731T144210Z">
+        <seg>|高级职业|每级技能点|
+|--------------|----------------------|
+|士兵|4 + 智力调整值|
+|武术家|2 + 智力调整值|
+|枪手|4 + 智力调整值|
+|渗透者|6 + 智力调整值|
+|勇士|4 + 智力调整值|
+|保镖|2 + 智力调整值|
+|战地科学家|6 + 智力调整值|
+|技师|6 + 智力调整值|
+|战地医生|4 + 智力调整值|
+|调查员|4 + 智力调整值|
+|明星|4 + 智力调整值|
+|谈判专家|4 + 智力调整值|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|Age Category|Ability Adjustments|
 |:-----------|:------------------|
 |Child (1–11)|–3 to Str and Con; –1 to Dex, Int, Wis, and Cha|
@@ -54925,6 +55335,28 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|Basic Class|Skill Points per Level\*|
+|-----------|------------------------|
+|Strong|2 + Int modifier|
+|Fast|4 + Int modifier|
+|Tough|2 + Int modifier|
+|Smart|8 + Int modifier|
+|Dedicated|4 + Int modifier|
+|Charismatic|6 + Int modifier|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T144203Z" creationid="quentine" creationdate="20210731T144158Z">
+        <seg>|基本职业|每级技能点\*|
+|-----------|------------------------|
+|力量型|2 + 智力调整值|
+|敏捷型|4 +智力调整值|
+|体质型|2 + 智力调整|
+|智力型|8 + 智力调整值|
+|感知型|4 + 智力调整值|
+|魅力型|6 + 智力调整值|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|Battle Mind Level|Pts/Day|0\*|1\*|2\*|3\*|4\*|5\*|
 |--------------|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|
 |1st|2|2|—|—|—|—|
@@ -54969,6 +55401,28 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |官僚|10|
 |告密者|7|
 |警官|10|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Campaign-Specific Advanced Class|Skill Points per Level|
+|--------------------------------|----------------------|
+|Mage|6 + Int modifier|
+|Acolyte|4+ Int modifier|
+|Shadow Slayer|2+ Int modifier|
+|Occultist|4+ Int modifier|
+|Telepath|4+ Int modifier|
+|Battle Mind|2+ Int modifier|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T144911Z" creationid="quentine" creationdate="20210731T144216Z">
+        <seg>|战役高级职业|每级技能点|
+|--------------------------------|----------------------|
+|法师|6 + 智力调整值|
+|侍僧|4+ 智力调整值|
+|暗影猎手|2+ 智力调整值|
+|术士|4+ 智力调整值|
+|异能者|4+ 智力调整值|
+|灵战士|2+ 智力调整值|</seg>
       </tuv>
     </tu>
     <tu>
@@ -57549,6 +58003,32 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|Old Size\*|New Size|Str|Dex|Con|Natural Armor Improvement|
+|----------|:------:|:-:|:-:|:-:|:-----------------------:|
+|Fine|Diminutive|—|–2|—|—|
+|Diminutive|Tiny|+2|–2|—|—|
+|Tiny|Small|+4|–2|—|—|
+|Small|Medium-size|+4|–2|+2|—|
+|Medium-size|Large|+8|–2|+4|+2|
+|Large|Huge|+8|–2|+4|+3|
+|Huge|Gargantuan|+8|—|+4|+4|
+|Gargantuan|Colossal|+8|—|+4|+5|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T140511Z" creationid="quentine" creationdate="20210731T140511Z">
+        <seg>|旧尺寸\*|新尺寸|力|敏|体|天生护甲提升|
+|----------|:------:|:-:|:-:|:-:|:-----------------------:|
+|超微型|微型|—|–2|—|—|
+|微型|超小型|+2|–2|—|—|
+|超小型|小型|+4|–2|—|—|
+|小型|普通|+4|–2|+2|—|
+|普通|大型|+8|–2|+4|+2|
+|大型|超大型|+8|–2|+4|+3|
+|超大型|巨型|+8|—|+4|+4|
+|巨型|超巨型|+8|—|+4|+5|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|Original Aura Power|Duration|
 |-------------------|--------|
 |Faint|1d6 minutes|
@@ -58661,6 +59141,46 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |中等（投石车、小棚屋、地板）|10|20|24 小时|
 |复杂（仓房、拱形天花板）|15|25|60 小时|
 |高级（房子）|20|30|600 小时|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Type|Bonus Skill Points|Bonus Feats|
+|----|------------------|-----------|
+|Aberration|+2 per extra HD|+1 per 4 extra HD|
+|Animal|—|—|
+|Construct|—|—|
+|Dragon|6 + Int modifier per extra HD|+1 per 4 extra HD|
+|Elemental|+2 per extra HD|+1 per 4 extra HD|
+|Fey|+2 per extra HD|+1 per 4 extra HD|
+|Giant|+2 per extra HD|+1 per 4 extra HD|
+|Humanoid|+1 per extra HD|+1 per 4 extra HD|
+|Magical beast|+1 per extra HD\*|+1 per 4 extra HD|
+|Monstrous humanoid|+2 per extra HD|+1 per 4 extra HD|
+|Ooze|—|—|
+|Outsider|8 + Int modifier per 4 extra HD|+1 per extra HD|
+|Plant|—|—|
+|Undead|+2 per extra HD|+1 per 4 extra HD|
+|Vermin|—|—|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T141935Z" creationid="quentine" creationdate="20210731T141935Z">
+        <seg>|类型|奖励技能点|奖励专长|
+|----|------------------|-----------|
+|异怪类|每加一次HD得2个 |每加4次HD得1个|
+|动物类|—|—|
+|构装体类|—|—|
+|龙类|每加一次HD得(6 + 智力调整值)个|每加4次HD得1个|
+|元素类|每加一次HD得2个|每加4次HD得1个|
+|精类|每加一次HD得2个|每加4次HD得1个|
+|巨人类|每加一次HD得2个|每加4次HD得1个|
+|类人生物类|每加一次HD得1个|每加4次HD得1个|
+|魔法兽类|每加一次HD得1个\*|每加4次HD得1个|
+|人形怪物类|每加一次HD得2个|每加4次HD得1个|
+|泥形怪类|—|—|
+|异界生物类|每加4次HD得(8 + 智力调整值)个|每加一次HD得1个|
+|植物类|—|—|
+|不死生物类|每加一次HD得2个|每加4次HD得1个|
+|虫类|—|—|</seg>
       </tuv>
     </tu>
     <tu>
