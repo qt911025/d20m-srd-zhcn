@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg># CREATURE TYPES</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210801T233734Z" creationid="quentine" creationdate="20210801T233734Z">
+        <seg># 生物类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg># Changing Ability Scores</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T140451Z" creationid="QuenTine" creationdate="20181103T140451Z">
@@ -294,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Aberration</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T032152Z" creationid="quentine" creationdate="20210804T032152Z">
+        <seg>## 异怪类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Abilities</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210728T141722Z" creationid="quentine" creationdate="20210728T141722Z">
@@ -434,6 +450,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210727T145944Z" creationid="quentine" creationdate="20210727T145944Z">
         <seg>## 阵营（AL）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Animal</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T135434Z" creationid="quentine" creationdate="20210810T135434Z">
+        <seg>## 动物类</seg>
       </tuv>
     </tu>
     <tu>
@@ -796,6 +820,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181103T134253Z" creationid="QuenTine" creationdate="20181103T134253Z">
         <seg>## 体质</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Construct</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140631Z" creationid="quentine" creationdate="20210810T140631Z">
+        <seg>## 构装体类</seg>
       </tuv>
     </tu>
     <tu>
@@ -8859,6 +8891,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Ability Scores:** Animals have Intelligence scores of 1 or 2 (predatory animals tend to have Intelligence scores of 2).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140234Z" creationid="quentine" creationdate="20210810T140234Z">
+        <seg>**属性值：** 动物的智力属性为1到2（食肉动物的智力更倾向于2）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Ability Scores:** Constructs have no Constitution score and usually no Intelligence score.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T141011Z" creationid="quentine" creationdate="20210810T141011Z">
+        <seg>**属性值：** 构装体类无体质值，且通常没有智力值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Ability:** Charisma</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190202T111725Z" creationid="quentine" creationdate="20190202T111725Z">
@@ -9262,8 +9310,8 @@ This section covers offensive and defensive modifiers provided by position.</seg
       <tuv lang="en-US">
         <seg>**Attack Bonus:** Table: Creature Saves and Base Attack Bonuses shows how a creature’s base attack bonus improves as it gains Hit Dice.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20210731T135005Z" creationid="quentine" creationdate="20210731T135005Z">
-        <seg>**攻击加值：** `表：生物豁免与基础攻击加值`给出了当生物获得攻击骰时，生物的基础攻击加值提升的量。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210801T234047Z" creationid="quentine" creationdate="20210731T135005Z">
+        <seg>**攻击加值：** `表：生物豁免与基础攻击加值`给出了当生物获得生命骰时，生物的基础攻击加值提升的量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9348,6 +9396,30 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Base Attack Bonus (A):** Use this column for aberrations, animals, constructs, elementals, giants, humanoids, oozes, plants, and vermin.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T032013Z" creationid="quentine" creationdate="20210804T032013Z">
+        <seg>**基础攻击加值（A）：** 异怪类、动物类、构装体类、元素类、巨人类、类人生物类、泥怪类、植物类以及虫类适用该值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Base Attack Bonus (B):** Use this column for dragons, magical beasts, monstrous humanoids, and outsiders.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T032115Z" creationid="quentine" creationdate="20210804T032115Z">
+        <seg>**基础攻击加值（B）：** 龙类、魔法兽类、人形怪物类以及异界生物类适用该值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Base Attack Bonus (C):** Use this column for fey and undead.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T032145Z" creationid="quentine" creationdate="20210804T032145Z">
+        <seg>**基础攻击加值（C）：** 精类和不死生物类适用该值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Base Attack Bonus:** +2.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190227T042252Z" creationid="quentine" creationdate="20190227T042252Z">
@@ -9360,6 +9432,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190221T134446Z" creationid="quentine" creationdate="20190221T134446Z">
         <seg>**基础攻击加值：** +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Base Attack Bonus:** 3/4 of total Hit Dice (see Table: Creature Saves and Base Attack Bonuses).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T032916Z" creationid="quentine" creationdate="20210804T032916Z">
+        <seg>**基础攻击加值：** 总HD的3/4（见表：生物豁免和基础属性加值）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11013,6 +11093,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Darkvision (Ex):** Most aberrations have darkvision with a range of 60 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T135135Z" creationid="quentine" creationdate="20210810T135135Z">
+        <seg>**黑暗视觉（特异）：** 大多数异怪类都有60尺范围的黑暗视觉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Darkvision (Ex):** Most constructs have darkvision with a range of 60 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T141135Z" creationid="quentine" creationdate="20210810T141135Z">
+        <seg>**黑暗视觉（特异）：** 大多数构装体类都有60尺范围的黑暗视觉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Darkvision (Ex):** The creature can see in total darkness, out to the specified range (usually 60 feet).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T134317Z" creationid="quentine" creationdate="20191030T134317Z">
@@ -11285,6 +11381,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Extra Hit Points:** Constructs gain extra hit points according to size, as shown on Table: Constructs.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T141117Z" creationid="quentine" creationdate="20210810T141117Z">
+        <seg>**额外生命值：** 不同体型构装体类有不同的额外生命值，见`表：构装体类`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Extraordinary:** Extraordinary abilities are nonmagical and are not subject to anything that disrupts magic.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210721T143910Z" creationid="quentine" creationdate="20210721T143910Z">
@@ -11453,6 +11557,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Feats:** Int modifier (minimum +0), plus 1 feat per 4 Hit Dice beyond 1 HD.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T033456Z" creationid="quentine" creationdate="20210804T033456Z">
+        <seg>**专长：** max(0, 智力调整值)+max(0, 1/4×(HD-1))</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Feats:** None.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140009Z" creationid="quentine" creationdate="20210810T140009Z">
+        <seg>**专长：** 无。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Feinting in Combat:** A character can also use Bluff to mislead an opponent in combat so that the opponent can’t dodge the character’s attack effectively.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190808T133811Z" creationid="quentine" creationdate="20190808T133811Z">
@@ -11577,6 +11697,30 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T073801Z" creationid="quentine" creationdate="20191027T073801Z">
         <seg>**日耳曼语：** 南非荷兰语、丹麦语、荷兰语、英语、佛兰德语、德语、冰岛语、挪威语、瑞典语、意第绪语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Good Saving Throws:** Fortitude and Reflex (some animals have different good saves).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T135947Z" creationid="quentine" creationdate="20210810T135947Z">
+        <seg>**优势豁免：** 强韧与反射（有的动物有不同的优势豁免）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Good Saving Throws:** None.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140832Z" creationid="quentine" creationdate="20210810T140832Z">
+        <seg>**优势豁免：** 无。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Good Saving Throws:** Will.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T032951Z" creationid="quentine" creationdate="20210804T032951Z">
+        <seg>**优势豁免：** 意志。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11797,6 +11941,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Hit Die:** d10.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140823Z" creationid="quentine" creationdate="20210810T140823Z">
+        <seg>**生命骰：** d10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Hit Die:** d8.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T032817Z" creationid="quentine" creationdate="20210804T032817Z">
+        <seg>**生命骰：** d8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Hit Points:** Heroic supporting characters gain maximum hit points at 1st level, just as heroic player characters do.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T123912Z" creationid="quentine" creationdate="20190703T123753Z">
@@ -11865,6 +12025,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190116T130001Z" creationid="quentine" creationdate="20190116T130001Z">
         <seg>**无视硬度：** 力量型英雄无视物体2点硬度。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Immunities:** Constructs are immune to mind-influencing effects and to poison, sleep, paralysis, stunning, disease, necromancy effects, and any effect that requires a Fortitude save unless the effect also works on objects or is harmless.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T141805Z" creationid="quentine" creationdate="20210810T141805Z">
+        <seg>**免疫：** 构装体类对所有和思维有关的效果、中毒、沉睡、麻痹、震慑、疾病以及死灵系效果免疫，且免疫任何需要强韧豁免的效果，除非该效果对物体有效，或者该效果是无害的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12169,6 +12337,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191031T135058Z" creationid="quentine" creationdate="20191031T135058Z">
         <seg>**低光视觉（特异）：** 有低光视觉的生物可以在昏暗条件下拥有正常视野两倍的视距。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Low-Light Vision (Ex):** Most animals have low-light vision.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140419Z" creationid="quentine" creationdate="20210810T140419Z">
+        <seg>**低光视觉（特异）：** 大多数动物都有低光视觉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13205,6 +13381,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Repairable:** Constructs cannot heal damage on their own but can be repaired using the Repair skill.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T142151Z" creationid="quentine" creationdate="20210810T142151Z">
+        <seg>**可修理：** 构装体类不会自动恢复伤害，但可以用修理技能修复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Reprogramming:** A robot can be reprogrammed at any time.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190523T132128Z" creationid="quentine" creationdate="20190523T132128Z">
@@ -13626,6 +13810,30 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190413T141008Z" creationid="quentine" creationdate="20190413T141008Z">
         <seg>**升级技能点数：** 7+智力调整值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Skill Points:** 10–15.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140000Z" creationid="quentine" creationdate="20210810T140000Z">
+        <seg>**技能点：** 10–15。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Skill Points:** 2 x Int score, plus 2 points per Hit Dice beyond 1 HD.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T033316Z" creationid="quentine" creationdate="20210804T033316Z">
+        <seg>**技能点：** 2×智力值+max(0, 2×(HD-1))。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Skill Points:** None.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140842Z" creationid="quentine" creationdate="20210810T140842Z">
+        <seg>**技能点：** 无。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14278,6 +14486,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Special:** Constructs cannot be raised from the dead.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T142536Z" creationid="quentine" creationdate="20210810T142536Z">
+        <seg>**特别：** 构装体无法复活。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Special:** Effects that increase a character’s speed also increase the character’s jumping distance, since the check is modified by the character’s speed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191021T142859Z" creationid="quentine" creationdate="20191021T142859Z">
@@ -14646,6 +14862,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Table: Aberrations**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T135141Z" creationid="quentine" creationdate="20210810T135141Z">
+        <seg>**表：异怪类**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Table: Actions in Combat**</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201119T115556Z" creationid="quentine" creationdate="20201119T115556Z">
@@ -14658,6 +14882,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210731T140215Z" creationid="quentine" creationdate="20210731T140215Z">
         <seg>**表：对肉体属性和天生护甲的调整**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Animals**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140428Z" creationid="quentine" creationdate="20210810T140428Z">
+        <seg>**表：动物**</seg>
       </tuv>
     </tu>
     <tu>
@@ -14702,10 +14934,26 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Table: Constructs**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T142546Z" creationid="quentine" creationdate="20210810T142546Z">
+        <seg>**表：构装体类**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Table: Cover**</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210531T142443Z" creationid="qt911" creationdate="20210531T142443Z">
         <seg>**表：掩蔽**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Creature Saves and Base Attack Bonuses**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210801T235930Z" creationid="quentine" creationdate="20210801T235930Z">
+        <seg>**表：生物豁免与基础攻击加值**</seg>
       </tuv>
     </tu>
     <tu>
@@ -15754,6 +16002,30 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190522T142530Z" creationid="quentine" creationdate="20190522T142530Z">
         <seg>**财富检定：** 制造机器人所需部件的购买DC取决于其体型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Weapon and Armor Proficiency:** Aberrations receive one of the following as a bonus feat: Archaic Weapons Proficiency or Simple Weapons Proficiency.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T033833Z" creationid="quentine" creationdate="20210804T033833Z">
+        <seg>**擅长武器与护甲：** 异怪类从以下专长中选择一个作为奖励专长：擅长古典武器、擅长简单武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Weapon and Armor Proficiency:** Animals are proficient with their natural weapons only.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140126Z" creationid="quentine" creationdate="20210810T140058Z">
+        <seg>**擅长武器与护甲：** 动物类仅擅长其天生武器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Weapon and Armor Proficiency:** Constructs are proficient with their natural weapons only.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140914Z" creationid="quentine" creationdate="20210810T140914Z">
+        <seg>**擅长武器与护甲：** 构装体类仅擅长其天生武器，</seg>
       </tuv>
     </tu>
     <tu>
@@ -18956,6 +19228,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A construct is an animated object or artificially constructed creature.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140736Z" creationid="quentine" creationdate="20210810T140736Z">
+        <seg>构装体类是可运动的物体或人工建造的生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A construct reduced to 0 hit points is immediately destroyed and cannot be repaired.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T142514Z" creationid="quentine" creationdate="20210810T142514Z">
+        <seg>构装体的生命值若降到0，会立马被摧毁，无法再修复。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A contact can, however, provide information or render a service (make a specific skill check on the Investigator’s behalf).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190526T083036Z" creationid="quentine" creationdate="20190526T081456Z">
@@ -18984,6 +19272,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210531T142437Z" creationid="qt911" creationdate="20210531T142437Z">
         <seg>提供掩蔽的角色也可自己选择不应用敏捷加值以及闪避加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A creature belongs to one of the fifteen types described below.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210801T233808Z" creationid="quentine" creationdate="20210801T233808Z">
+        <seg>生物分为以下15类。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20524,6 +20820,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A single creature cannot have more than one type.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210801T233845Z" creationid="quentine" creationdate="20210801T233845Z">
+        <seg>一个生物不能兼属多个种类。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A site can be as small as a single computer, or as large as a corporate network connecting computers and data archives all over the world—the important thing is that access to the site connects the user to everything within it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190916T143543Z" creationid="quentine" creationdate="20190916T135926Z">
@@ -20768,6 +21072,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T140136Z" creationid="quentine" creationdate="20190115T140136Z">
         <seg>成功的反射豁免能让伤害减半。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A successful Repair check (DC 30) heals 1d10 points of damage to a construct, and each check represents 1 hour of work.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T142430Z" creationid="quentine" creationdate="20210810T142430Z">
+        <seg>修理检定成功（DC30）可为构装体治疗1d10的伤害，每次检定都代表一小时的工夫。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21082,6 +21394,22 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T115057Z" creationid="quentine" creationdate="20190216T115057Z">
         <seg>高级职业</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Aberrations noted for wearing armor gain the Armor Proficiency bonus feat for whatever type of armor they are accustomed to wearing (light, medium, heavy), as well as all lighter types.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T135102Z" creationid="quentine" creationdate="20210810T135102Z">
+        <seg>自带护甲的异怪类生物自动获得所穿护甲种类的`擅长护甲`专长，且擅长所有比这更轻的护甲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Aberrations share the following additional traits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T033633Z" creationid="quentine" creationdate="20210804T033633Z">
+        <seg>异怪类自带以下专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22406,6 +22734,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An aberration has a bizarre anatomy, strange abilities, an alien mindset, or any combination of the three.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T032623Z" creationid="quentine" creationdate="20210804T032623Z">
+        <seg>异怪类拥有奇异的解剖学结构、或者奇怪的能力、或者如外星人一般的脑回路。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An advanced class represents a focus and a calling for the experienced adventurer.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T115426Z" creationid="quentine" creationdate="20190216T115426Z">
@@ -22466,6 +22802,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190930T141153Z" creationid="quentine" creationdate="20190930T140011Z">
         <seg>一个动物只能学会一种`工作`，但是如果动物还有余力学习其他`技巧`（不在通用工作里的技巧）则仍可以学习。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An animal is a nonhumanoid creature, usually a vertebrate with no magical abilities and no innate capacity for language or culture.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T135816Z" creationid="quentine" creationdate="20210810T135816Z">
+        <seg>动物是非人形生物，通常为没有魔法能力且没有形成语言和文化的脊椎动物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22946,6 +23290,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T092420Z" creationid="quentine" creationdate="20191027T092420Z">
         <seg>不适合骑乘的动物为骑乘者的骑术检定提供2点减值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Animals share the following additional traits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140022Z" creationid="quentine" creationdate="20210810T140022Z">
+        <seg>动物类自带以下专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -26350,6 +26702,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T085602Z" creationid="quentine" creationdate="20190918T141739Z">
         <seg>连接导火索或起爆器需要爆破检定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Constructs share the following additional traits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140856Z" creationid="quentine" creationdate="20210810T140856Z">
+        <seg>构装体类自带以下专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -36767,6 +37127,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No creature with an Intelligence score of 3 or higher can be an animal.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140338Z" creationid="quentine" creationdate="20210810T140338Z">
+        <seg>智力大于等于3的生物不可能为动物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No film developing is necessary.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191115T131740Z" creationid="quentine" creationdate="20191115T131740Z">
@@ -39097,6 +39465,30 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See Table: Aberrations for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T032806Z" creationid="quentine" creationdate="20210804T032806Z">
+        <seg>异怪类的肉体属性值、建议最低生命骰以及各体型伤害详见`表：异怪类`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Table: Animals for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T135845Z" creationid="quentine" creationdate="20210810T135845Z">
+        <seg>动物类的肉体属性值、建议最低生命骰以及各体型伤害详见`表：动物类`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Table: Constructs for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140811Z" creationid="quentine" creationdate="20210810T140811Z">
+        <seg>构装体类的肉体属性值、建议最低生命骰以及各体型伤害详见`表：构装体类`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See Table: Light Sources for the radius that a light source illuminates and how long it lasts.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T131320Z" creationid="quentine" creationdate="20190115T131320Z">
@@ -40653,6 +41045,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210531T140202Z" creationid="qt911" creationdate="20210531T140202Z">
         <seg>`表：掩蔽`给出了不同掩蔽度提供的反射豁免加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Table: Creature Saves and Base Attack Bonuses provides the modifiers to a creature’s saving throws and attack rolls based on its type and Hit Dice.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210801T235912Z" creationid="quentine" creationdate="20210801T234036Z">
+        <seg>`表：生物豁免与基础攻击加值`给出了生物的豁免与攻击骰的调整值，该调整值基于生物的种类和生命骰。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48458,6 +48858,30 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200418T015433Z" creationid="quentine" creationdate="20200418T015433Z">
         <seg>机制比转轮枪更复杂，但比转轮枪更流行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are not proficient with armor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140122Z" creationid="quentine" creationdate="20210810T140122Z">
+        <seg>不擅长任何护甲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are not subject to critical hits, nonlethal damage, ability damage, ability drain, energy drain, or the effects of massive damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T142029Z" creationid="quentine" creationdate="20210810T142029Z">
+        <seg>构装体类也不会遭受重击、非致命攻击、属性伤害、属性吸取、能量吸取以及承受巨创伤害的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are proficient with their natural weapons and any weapon mentioned in their entries.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T134703Z" creationid="quentine" creationdate="20210810T134703Z">
+        <seg>异怪类`擅长`其天生武器，以及条目中特别提到的武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -56535,6 +56959,56 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>|Creature’s Hit Dice|Good Save Bonus|Poor Save Bonus|Base Attack Bonus (A)|Base Attack Bonus (B)|Base Attack Bonus (C)|
+|-|:-:|:-:|-|-|-|
+|1 or less|+2|+0|+0|+1|+0|
+|2|+3|+0|+1|+2|+0|
+|3|+3|+1|+2|+3|+1|
+|4|+4|+1|+3|+4|+1|
+|5|+4|+1|+3|+5|+2|
+|6|+5|+2|+4|+6/+1|+2|
+|7|+5|+2|+5|+7/+2|+3|
+|8|+6|+2|+6/+1|+8/+3|+4|
+|9|+6|+3|+6/+1|+9/+4|+4|
+|10|+7|+3|+7/+2|+10/+5|+5|
+|11|+7|+3|+8/+3|+11/+6/+1|+5|
+|12|+8|+4|+9/+4|+12/+7/+2|+6/+1|
+|13|+8|+4|+9/+4|+13/+8/+3|+6/+1|
+|14|+9|+4|+10/+5|+14/+9/+4|+7/+2|
+|15|+9|+5|+11/+6/+1|+15/+10/+5|+7/+2|
+|16|+10|+5|+12/+7/+2|+16/+11/+6/+1|+8/+3|
+|17|+10|+5|+12/+7/+2|+17/+12/+7/+2|+8/+3|
+|18|+11|+6|+13/+8/+3|+18/+13/+8/+3|+9/+4|
+|19|+11|+6|+14/+9/+4|+19/+14/+9/+4|+9/+4|
+|20|+12|+6|+15/+10/+5|+20/+15/+10/+5|+10/+5|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T031819Z" creationid="quentine" creationdate="20210802T000028Z">
+        <seg>|生物的生命骰|强项豁免加值|弱项豁免加值|基础攻击加值（A）|基础攻击加值（B）|基础攻击加值（C）|
+|-|:-:|:-:|-|-|-|
+|小于等于1|+2|+0|+0|+1|+0|
+|2|+3|+0|+1|+2|+0|
+|3|+3|+1|+2|+3|+1|
+|4|+4|+1|+3|+4|+1|
+|5|+4|+1|+3|+5|+2|
+|6|+5|+2|+4|+6/+1|+2|
+|7|+5|+2|+5|+7/+2|+3|
+|8|+6|+2|+6/+1|+8/+3|+4|
+|9|+6|+3|+6/+1|+9/+4|+4|
+|10|+7|+3|+7/+2|+10/+5|+5|
+|11|+7|+3|+8/+3|+11/+6/+1|+5|
+|12|+8|+4|+9/+4|+12/+7/+2|+6/+1|
+|13|+8|+4|+9/+4|+13/+8/+3|+6/+1|
+|14|+9|+4|+10/+5|+14/+9/+4|+7/+2|
+|15|+9|+5|+11/+6/+1|+15/+10/+5|+7/+2|
+|16|+10|+5|+12/+7/+2|+16/+11/+6/+1|+8/+3|
+|17|+10|+5|+12/+7/+2|+17/+12/+7/+2|+8/+3|
+|18|+11|+6|+13/+8/+3|+18/+13/+8/+3|+9/+4|
+|19|+11|+6|+14/+9/+4|+19/+14/+9/+4|+9/+4|
+|20|+12|+6|+15/+10/+5|+20/+15/+10/+5|+10/+5|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>|Crew Quality|Check Modifier|Attack Bonus|
 |------------|:------------:|:----------:|
 |Untrained|–4|–2|
@@ -58445,6 +58919,90 @@ This section covers offensive and defensive modifiers provided by position.</seg
 |超小型|+2|
 |微型|+4|
 |超微型|+8|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size|Str|Dex|Con|Minimum HD|Extra Hit Points|Slam|Bite|Claw|Gore|
+|----|:-:|:-:|:-:|:--------:|:--------------:|:--:|:--:|:--:|:--:|
+|Colossal|44–47|6–7|—|32d10|120|4d6|2d6|2d8|4d6|
+|Gargantuan|36–39|6–7|—|16d10|80|2d8|1d8|2d6|2d8|
+|Huge|28–31|6–7|—|8d10|40|2d6|1d6|2d4|2d6|
+|Large|20–23|8–9|—|2d10|20|1d8|1d4|1d6|1d8|
+|Medium-size|12–15|10–11|—|1d10|10|1d6|1d3|1d4|1d6|
+|Small|8–11|12–13|—|1/2 d10|5|1d4|1d2|1d3|1d4|
+|Tiny|4–7|14–15|—|1/4 d10|—|1d3|1|1d2|1d3|
+|Diminutive|2–5|16–17|—|1/8 d10|—|1d2|—|1|1d2|
+|Fine|1|18–19|—|1/16 d10|—|1|—|—|1|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T142709Z" creationid="quentine" creationdate="20210810T142709Z">
+        <seg>|体型|力|敏|体|最小HD|额外生命值|拍击|啮咬|抓挠|抵撞|
+|----|:-:|:-:|:-:|:--------:|:--------------:|:--:|:--:|:--:|:--:|
+|超巨型|44–47|6–7|—|32d10|120|4d6|2d6|2d8|4d6|
+|巨型|36–39|6–7|—|16d10|80|2d8|1d8|2d6|2d8|
+|超大型|28–31|6–7|—|8d10|40|2d6|1d6|2d4|2d6|
+|大型|20–23|8–9|—|2d10|20|1d8|1d4|1d6|1d8|
+|普通|12–15|10–11|—|1d10|10|1d6|1d3|1d4|1d6|
+|小型|8–11|12–13|—|1/2 d10|5|1d4|1d2|1d3|1d4|
+|超小型|4–7|14–15|—|1/4 d10|—|1d3|1|1d2|1d3|
+|微型|2–5|16–17|—|1/8 d10|—|1d2|—|1|1d2|
+|超微型|1|18–19|—|1/16 d10|—|1|—|—|1|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size|Str|Dex|Con|Minimum HD|Slam|Bite|Claw|Gore|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|Colossal|42–43|10–11|28–29|32d8|2d6|4d6|2d8|4d6|
+|Gargantuan|34–35|10–11|24–25|16d8|1d8|2d8|2d6|2d8|
+|Huge|26–27|10–11|20–21|4d8|1d6|2d6|2d4|2d6|
+|Large|18–19|12–13|16–17|2d8|1d4|1d8|1d6|1d8|
+|Medium-size|10–11|14–15|12–13|1d8|1d3|1d6|1d4|1d6|
+|Small|6–7|16–17|10–11|1/2 d8|1d2|1d4|1d3|1d4|
+|Tiny|2–3|18–19|10–11|1/4 d8|1|1d3|1d2|1d3|
+|Diminutive|1|20–21|10–11|1/8 d8|—|1d2|1|1d2|
+|Fine|1|22–23|10–11|1/16 d8|—|1|—|1|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140603Z" creationid="quentine" creationdate="20210810T140603Z">
+        <seg>|体型|力|敏|体|最小HD|拍击|啮咬|抓挠|抵撞|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|超巨型|42–43|10–11|28–29|32d8|2d6|4d6|2d8|4d6|
+|巨型|34–35|10–11|24–25|16d8|1d8|2d8|2d6|2d8|
+|超大型|26–27|10–11|20–21|4d8|1d6|2d6|2d4|2d6|
+|大型|18–19|12–13|16–17|2d8|1d4|1d8|1d6|1d8|
+|普通|10–11|14–15|12–13|1d8|1d3|1d6|1d4|1d6|
+|小型|6–7|16–17|10–11|1/2 d8|1d2|1d4|1d3|1d4|
+|超小型|2–3|18–19|10–11|1/4 d8|1|1d3|1d2|1d3|
+|微型|1|20–21|10–11|1/8 d8|—|1d2|1|1d2|
+|超微型|1|22–23|10–11|1/16 d8|—|1|—|1|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size|Str|Dex|Con|Minimum HD|Slam|Bite|Claw|Gore|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|Colossal|42–43|10–11|28–29|32d8|2d6|4d8|2d8|4d6|
+|Gargantuan|34–35|10–11|24–25|16d8|1d8|4d6|2d6|2d8|
+|Huge|26–27|10–11|20–21|8d8|1d6|2d8|2d4|2d6|
+|Large|18–19|12–13|16–17|2d8|1d4|2d6|1d6|1d8|
+|Medium-size|10–11|14–15|12–13|1d8|1d3|2d4|1d4|1d6|
+|Small|6–7|16–17|10–11|1/2 d8|1d2|1d6|1d3|1d4|
+|Tiny|2–3|18–19|10–11|1/4 d8|1|1d4|1d2|1d3|
+|Diminutive|1|20–21|10–11|1/8 d8|—|1d3|1|1d2|
+|Fine|1|22–23|10–11|1/16 d8|—|1d2|—|1|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T135426Z" creationid="quentine" creationdate="20210810T135426Z">
+        <seg>|体型|力|敏|体|最小HD|拍击|啮咬|抓挠|抵撞|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|超巨型|42–43|10–11|28–29|32d8|2d6|4d8|2d8|4d6|
+|巨型|34–35|10–11|24–25|16d8|1d8|4d6|2d6|2d8|
+|超大型|26–27|10–11|20–21|8d8|1d6|2d8|2d4|2d6|
+|大型|18–19|12–13|16–17|2d8|1d4|2d6|1d6|1d8|
+|普通|10–11|14–15|12–13|1d8|1d3|2d4|1d4|1d6|
+|小型|6–7|16–17|10–11|1/2 d8|1d2|1d6|1d3|1d4|
+|超小型|2–3|18–19|10–11|1/4 d8|1|1d4|1d2|1d3|
+|微型|1|20–21|10–11|1/8 d8|—|1d3|1|1d2|
+|超微型|1|22–23|10–11|1/16 d8|—|1d2|—|1|</seg>
       </tuv>
     </tu>
     <tu>

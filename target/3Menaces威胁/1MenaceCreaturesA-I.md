@@ -488,7 +488,7 @@ Species Traits
 Fiends share the following traits:
 Darkvision (Ex): Fiends have darkvision out to a range of 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and a fiend can function with no light at all.
 Allegiances: All fiends have a primary allegiance to evil. Fiends may also have an allegiance to either chaos or law.
-Weapon and Armor Proficiency: Fiends receive either Archaic Weapons Proficiency or Simple Weapons Proficiency as a bonus feat. They are proficient with their natural weapons and any weapon mentioned in their entries. Fiends noted for wearing armor gain the bonus feat Armor Proficiency with whatever type of armor they are accustomed to wearing (light, medium, heavy), as well as all lighter types.
+Weapon and Armor Proficiency: Fiends receive either Archaic Weapons Proficiency or Simple Weapons Proficiency as a bonus feat. 异怪类`擅长`其天生武器，以及条目中特别提到的武器。Fiends noted for wearing armor gain the bonus feat Armor Proficiency with whatever type of armor they are accustomed to wearing (light, medium, heavy), as well as all lighter types.
 Languages: Fiends can speak Abyssal (the language of demons) and a number of additional languages equal to their Intelligence bonus. Fiends with an Intelligence of 8 or higher can also read and write these languages.
 Special: Fiends cannot be raised from the dead.
 

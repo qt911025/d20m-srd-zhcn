@@ -88,7 +88,7 @@ Good Saving Throws: None.
 Skill Points: None.
 Feats: None.
 Starting Occupation: Robots never get starting occupations. Starting occupations represent life experiences gained before acquiring 1st level. Robots have no life experiences before rolling off the assembly line; before then, they were nothing but parts.
-Weapon and Armor Proficiency: Robots are proficient with their manipulators only. They are not proficient with armor.
+Weapon and Armor Proficiency: Robots are proficient with their manipulators only. 不擅长任何护甲。
 Ability Scores: Robots have no Constitution score and usually no Intelligence score. A robot’s size and frame determines its ability scores, as shown on Tables 10–1 to 10–5.
 Extra Hit Points: Robots gain extra hit points according to their
 size, as shown on the tables below.

@@ -151,7 +151,7 @@ Demonic Auto
 The demonic auto does not speak. It has the normal height and weight of the automobile it most closely resembles.
 Species Traits
 Demonic autos have the following traits:
-Construct: Demonic autos are immune to mind-influencing effects and to poison, sleep, paralysis, stunning, disease, necromancy effects, and any effect that requires a Fortitude save unless the effect also works on objects or is harmless. They are not subject to critical hits, nonlethal damage, ability damage, ability drain, energy drain, or the effects of massive damage.
+Construct: Demonic autos are immune to mind-influencing effects and to poison, sleep, paralysis, stunning, disease, necromancy effects, and any effect that requires a Fortitude save unless the effect also works on objects or is harmless. 构装体类也不会遭受重击、非致命攻击、属性伤害、属性吸取、能量吸取以及承受巨创伤害的效果。
 Outsider Traits: While they are technically constructs, demonic autos are animated by a fell presence from beyond Shadow. They gain skills and feats as if they were outsiders, and they have an Intelligence score.
 Damage Reduction 20/+1 (Ex): A demonic auto ignores the first 20 points of damage dealt by a nonmagical weapon.
 Vehicle Movement: The demonic car moves as a vehicle, not as a character. It has a top speed of 320 squares at character scale (32 squares at chase scale). It maneuvers as a vehicle, using its Drive score, and it must choose a speed category (alley, street, highway, or all-out speed) at the beginning of each action. The demonic auto’s speed category may increase its Defense and penalize skill checks.
@@ -497,7 +497,7 @@ Gear Golem
 Gear golems cannot speak. They typically stand 10 feet tall and weigh 4,000 pounds. A gear golem may be created using the create golem incantation.
 Species Traits
 Gear golems have the following traits:
-Construct: Gear golems are immune to mind-influencing effects as well as poison, sleep, paralysis, stunning, disease, necromancy effects, and any effect that requires a Fortitude save unless the effect also works on objects or is harmless. They are not subject to critical hits, nonlethal damage, ability damage, ability drain, energy drain, or the effects of massive damage.
+Construct: Gear golems are immune to mind-influencing effects as well as poison, sleep, paralysis, stunning, disease, necromancy effects, and any effect that requires a Fortitude save unless the effect also works on objects or is harmless. 构装体类也不会遭受重击、非致命攻击、属性伤害、属性吸取、能量吸取以及承受巨创伤害的效果。
 Speed: Gear golems are lumbering constructs that can’t take run actions.
 Improved Grab (Ex): To use this ability, the gear golem must hit an opponent smaller than itself with its slam attack. If it gets a hold, it attempts to grind its foe against its spinning gears as a free action (see below).
 Gear Grind (Ex): If the gear golem successfully grapples a creature smaller than itself, it grinds the creature with its spinning gears for 4d8 points of slashing damage each round the grapple is maintained (including the round in which the grapple is first achieved).
@@ -613,7 +613,7 @@ Homunculus
 Most homunculi cannot speak, with exceptions noted below. However, the process of creating a homunculus links it telepathically with its creator. It knows what its master knows and can convey to her everything it sees and hears, up to a range of 1 mile. A homunculus never willingly travels beyond this range; if taken beyond the 1-mile range, it loses telepathic contact with its creator and seeks to regain contact at all costs. If a homunculus is slain, its creator immediately takes 2d10 points of damage. If the master is slain, the homunculus is immediately destroyed.
 Species Traits
 Homunculi have the following traits:
-Construct: Homunculi are immune to mind-influencing effects, as well as poison, sleep, paralysis, stunning, disease, necromancy effects, and any effect that requires a Fortitude save unless the effect also works on objects or is harmless. They are not subject to critical hits, nonlethal damage, ability damage, ability drain, energy drain, or the effects of massive damage.
+Construct: Homunculi are immune to mind-influencing effects, as well as poison, sleep, paralysis, stunning, disease, necromancy effects, and any effect that requires a Fortitude save unless the effect also works on objects or is harmless. 构装体类也不会遭受重击、非致命攻击、属性伤害、属性吸取、能量吸取以及承受巨创伤害的效果。
 Repairable: Homunculi cannot heal damage on their own but can be repaired using the Repair skill. A successful Repair check (DC 30) heals 1d10 points of damage, and each check represents 1 hour of work. A homunculus cannot repair itself unless it has one or more ranks in the Repair skill.
 Darkvision (Ex): Homunculi can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and homunculi can function with no light at all.
 
@@ -684,7 +684,7 @@ Living Dumpster
 Living dumpsters do not speak. They weigh between 500 and 1,000 pounds, depending on how much trash they have inside them.
 Species Traits
 Living dumpsters have the following traits:
-Construct: Living dumpsters are immune to mind-influencing effects, as well as poison, sleep, paralysis, stunning, disease, necromancy effects, and any effect that requires a Fortitude save unless the effect also works on objects or is harmless. They are not subject to critical hits, nonlethal damage, ability damage, ability drain, energy drain, or the effects of massive damage.
+Construct: Living dumpsters are immune to mind-influencing effects, as well as poison, sleep, paralysis, stunning, disease, necromancy effects, and any effect that requires a Fortitude save unless the effect also works on objects or is harmless. 构装体类也不会遭受重击、非致命攻击、属性伤害、属性吸取、能量吸取以及承受巨创伤害的效果。
 Wheels: Because the living dumpster relies on small caster wheels for locomotion, its speed is reduced by half on very soft or soft surfaces such as mud or thick lawns. It can’t negotiate stairs, although it can hop up or down a curb without difficulty.
 Wall Smash (Ex): If a living dumpster bull rushes a foe against a wall, it can make a free slam attack against that foe. If the attack succeeds, it deals 2d8+18 points of damage.
 Swallow Whole (Ex): If a living dumpster successfully grapples a creature smaller than itself, it can attempt to swallow the creature. If the living dumpster succeeds at a second grapple check, the grappled opponent is swallowed whole. Swallowed characters take 1d8+9 points of damage per round from the vigorous shaking of the living dumpster. The swallowed creature can attack the living dumpster from inside using either its natural weapons or a Small, Tiny, or Diminutive weapon. A living dumpster can hold two Medium creatures (or four Small creatures) at a time.
@@ -847,7 +847,7 @@ Retriever
 A typical retriever weighs about 6,500 pounds. It does not speak.
 Species Traits
 Retrievers have the following traits:
-Construct: Retrievers are immune to mind-influencing effects as well as poison, sleep, paralysis, stunning, disease, necromancy effects, and any effect that requires a Fortitude save unless the effect also works on objects or is harmless. They are not subject to critical hits, nonlethal damage, ability damage, ability drain, energy drain, or the effects of massive damage.
+Construct: Retrievers are immune to mind-influencing effects as well as poison, sleep, paralysis, stunning, disease, necromancy effects, and any effect that requires a Fortitude save unless the effect also works on objects or is harmless. 构装体类也不会遭受重击、非致命攻击、属性伤害、属性吸取、能量吸取以及承受巨创伤害的效果。
 Eye Rays (Su): A retriever’s eyes can produce four different magical rays with a range of 100 feet. Each round, it can fire one ray, as a free action. An individual ray is usable only once every 4 rounds. It can fire an eye ray in the same round as it makes physical attacks. The save DC for all rays is 10 + 1/2 the retriever’s Hit Dice + the retriever’s Dexterity modifier. The four eye effects are:
 Fire: Deals 12d6 points of fire damage to the target (Reflex half).
 Cold: Deals 12d6 points of cold damage to the target (Reflex half).

@@ -18,7 +18,7 @@ A creature’s description often includes statistics for both the standard breed
 
 **Skills:** Climb +18, Listen +6, Spot +6.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** 5–8 HD (Large).
 
@@ -34,7 +34,7 @@ A creature’s description often includes statistics for both the standard breed
 
 **Skills:** Listen +9, Move Silently +6, Spot +9.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** None.
 
@@ -52,7 +52,7 @@ Bears have the following traits.
 
 **Skills:** Climb +18, Listen +6, Spot +6.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** 7–10 HD (Large).
 
@@ -120,7 +120,7 @@ Bears have the following traits.
 
 **Skills:** Hide +7 (+19 when submerged), Listen +5, Spot +5.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** 4–5 HD (Medium-size); 6–7 HD (Large).
 
@@ -128,7 +128,7 @@ Bears have the following traits.
 
 **Skills:** Hide +0 (+4 while submerged), Listen +5, Spot +5.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** 8–16 HD (Huge); 17–32 HD (Gargantuan).
 
@@ -142,7 +142,7 @@ Bears have the following traits.
 
 **Skills:** Hide +7, Jump +13, Listen +11, Spot +11, Survival +9.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** 5–8 HD (Large).
 
@@ -158,7 +158,7 @@ Bears have the following traits.
 
 **Skills:** Jump +3, Listen +5, Spot +5, Survival +1 (+5 when tracking by scent), Swim +5.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** None.
 
@@ -166,7 +166,7 @@ Bears have the following traits.
 
 **Skills:** Jump +4, Listen +5, Spot +5, Survival +1 (+5 when tracking by scent), Swim +5.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** None.
 
@@ -307,7 +307,7 @@ A skinhusker resembles a frightfully gaunt, 9-foot-tall human with red skin. Two
 
 **Skills:** None.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** 10–18 HD (Large); 19–27 HD (Huge).
 
@@ -315,7 +315,7 @@ A skinhusker resembles a frightfully gaunt, 9-foot-tall human with red skin. Two
 
 **Skills:** None.
 
-**Feats:** None.
+**专长：** 无。
 
 ## Gargoyle
 
@@ -433,7 +433,7 @@ A skinhusker resembles a frightfully gaunt, 9-foot-tall human with red skin. Two
 
 **Skills:** Listen +8, Spot +5.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** 6–7 HD (Large).
 
@@ -449,7 +449,7 @@ A horse cannot fight while carrying a rider.
 
 **Skills:** Listen +6, Spot +6.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** None.
 
@@ -613,7 +613,7 @@ Invisible stalkers have the following traits.
 
 **Skills:** None.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** 12–16 HD (Huge); 17–32 HD (Gargantuan); 33–48 HD (Colossal).
 
@@ -621,7 +621,7 @@ Invisible stalkers have the following traits.
 
 **Skills:** None.
 
-**Feats:** None.
+**专长：** 无。
 
 ## Monstrous Spider
 
@@ -701,7 +701,7 @@ A monstrous spider can move across its own sheet web at its climb speed and can 
 
 **Skills:** Climb +14, Hide +5, Jump +2 (+8 for hunting spiders), Move Silently +9, Spot +12.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** None.
 
@@ -709,7 +709,7 @@ A monstrous spider can move across its own sheet web at its climb speed and can 
 
 **Skills:** Climb +16, Hide +1, Jump +4 (+10 for hunting spiders), Move Silently +9, Spot +12.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** None.
 
@@ -717,7 +717,7 @@ A monstrous spider can move across its own sheet web at its climb speed and can 
 
 **Skills:** Climb +18, Hide –3, Jump +6 (+12 for hunting spiders), Move Silently +9, Spot +12.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** None.
 
@@ -725,7 +725,7 @@ A monstrous spider can move across its own sheet web at its climb speed and can 
 
 **Skills:** Climb +20, Hide –7, Jump +8 (+14 for hunting spiders), Move Silently +9, Spot +12.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** None.
 
@@ -845,7 +845,7 @@ An afflicted creature that dies of mummy rot shrivels away and turns to dust.
 
 **Skills:** Hide +20, Listen +7, Spot +7.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** None.
 
@@ -961,7 +961,7 @@ The replacement gains a +4 species bonus on Disguise checks when impersonating t
 
 **Skills:** None (unless programmed by a Techie).
 
-**Feats:** None.
+**专长：** 无。
 
 **External Components:** Audio/visual sensor.
 
@@ -969,7 +969,7 @@ The replacement gains a +4 species bonus on Disguise checks when impersonating t
 
 **Skills:** None (unless programmed by a Techie).
 
-**Feats:** None.
+**专长：** 无。
 
 **External Components:** Audio/visual sensor, manipulator arms.
 
@@ -1065,7 +1065,7 @@ Snakes have the following traits.
 
 **Skills:** Balance +11, Climb +14, Hide +11, Listen +9, Spot +9, Swim +11.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** 4–8 HD (Large); 9–16 HD (Huge); 17–32 HD (Gargantuan).
 
@@ -1093,7 +1093,7 @@ Snakes have the following traits.
 
 **Skills:** None.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** 33–56 HD (Colossal).
 
@@ -1113,7 +1113,7 @@ Snakes have the following traits.
 
 **Skills:** Balance +6, Hide +5 (+9 in tall grass or undergrowth), Listen +3, Move Silently +9, Spot +3, Swim +11.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** 7–12 HD (Large); 13–18 HD (Huge).
 
@@ -1127,7 +1127,7 @@ Snakes have the following traits.
 
 **Skills:** Hide +21 (includes +4 species bonus), Listen +5, Spot +4.
 
-**Feats:** None.
+**专长：** 无。
 
 **Advancement:** None.
 

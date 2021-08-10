@@ -1458,3 +1458,7 @@ Nonabilities	空属性
 Advancement	提升	生物生命骰
 Animal	动物类
 Occultist	术士
+Good Save Bonus	优势豁免加值
+Poor Save Bonus	劣势豁免加值
+Good Saving Throws	优势豁免
+necromancy	死灵系
