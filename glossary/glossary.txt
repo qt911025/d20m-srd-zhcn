@@ -1462,3 +1462,8 @@ Good Save Bonus	优势豁免加值
 Poor Save Bonus	劣势豁免加值
 Good Saving Throws	优势豁免
 necromancy	死灵系
+Keen Sight	敏锐视觉
+visual effect	可见性效果
+illusion	幻术
+necromantic	死灵术
+Potent Venom	猛毒

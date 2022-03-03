@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1096,6 +1096,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Dragon</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T140258Z" creationid="quentine" creationdate="20210811T140258Z">
+        <seg>## 龙类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Drive (Dex)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190926T125222Z" creationid="quentine" creationdate="20190926T125222Z">
@@ -1140,6 +1148,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T143719Z" creationid="quentine" creationdate="20190115T143719Z">
         <seg>## 电</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Elemental</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T141644Z" creationid="quentine" creationdate="20210811T141644Z">
+        <seg>## 元素类</seg>
       </tuv>
     </tu>
     <tu>
@@ -1288,6 +1304,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Fey</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142728Z" creationid="quentine" creationdate="20210811T142728Z">
+        <seg>## 精类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Fighting Space (FS)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210719T142637Z" creationid="quentine" creationdate="20210719T142637Z">
@@ -1392,6 +1416,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Giant</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T143513Z" creationid="quentine" creationdate="20210811T143513Z">
+        <seg>## 巨人类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Grabbing Objects</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210609T135748Z" creationid="qt911" creationdate="20210609T135748Z">
@@ -1492,6 +1524,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T121705Z" creationid="quentine" creationdate="20190703T121705Z">
         <seg>## 生命值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Humanoid</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T135806Z" creationid="quentine" creationdate="20210812T135806Z">
+        <seg>## 类人生物类</seg>
       </tuv>
     </tu>
     <tu>
@@ -1656,6 +1696,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Magical Beast</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T142646Z" creationid="quentine" creationdate="20210812T142646Z">
+        <seg>## 魔法兽类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Manufactured Weapons</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210718T142353Z" creationid="quentine" creationdate="20210718T142353Z">
@@ -1716,6 +1764,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T140612Z" creationid="quentine" creationdate="20190806T140612Z">
         <seg>## 调整值类型与叠加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Monstrous Humanoid</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210904T101642Z" creationid="quentine" creationdate="20210904T101642Z">
+        <seg>## 人形怪物类</seg>
       </tuv>
     </tu>
     <tu>
@@ -1856,6 +1912,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Ooze</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T115755Z" creationid="quentine" creationdate="20220303T115755Z">
+        <seg>## 泥形怪类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Opposed Checks</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T141242Z" creationid="quentine" creationdate="20190805T141242Z">
@@ -1884,6 +1948,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201030T124017Z" creationid="quentine" creationdate="20201030T124017Z">
         <seg>## 其他载具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Outsider</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T121835Z" creationid="quentine" creationdate="20220303T121835Z">
+        <seg>## 异界生物类</seg>
       </tuv>
     </tu>
     <tu>
@@ -1948,6 +2020,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T124130Z" creationid="quentine" creationdate="20190115T124130Z">
         <seg>## 压制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Plant</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T122539Z" creationid="quentine" creationdate="20220303T122539Z">
+        <seg>## 植物类</seg>
       </tuv>
     </tu>
     <tu>
@@ -2664,6 +2744,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>## Undead</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T123149Z" creationid="quentine" creationdate="20220303T123133Z">
+        <seg>## 不死生物类</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>## Untrained Skill Checks</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T122613Z" creationid="quentine" creationdate="20190806T122613Z">
@@ -2716,6 +2804,14 @@ This section covers offensive and defensive modifiers provided by position.</seg
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210627T133640Z" creationid="qt911" creationdate="20210627T133640Z">
         <seg>## 载具速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>## Vermin</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T124859Z" creationid="quentine" creationdate="20220303T124859Z">
+        <seg>## 虫类</seg>
       </tuv>
     </tu>
     <tu>
@@ -8933,6 +9029,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Ability Scores:** An undead has no Constitution score.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T123739Z" creationid="quentine" creationdate="20220303T123739Z">
+        <seg>**属性值：** 不死生物类无体质值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Ability Scores:** Animals have Intelligence scores of 1 or 2 (predatory animals tend to have Intelligence scores of 2).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140234Z" creationid="quentine" creationdate="20210810T140234Z">
@@ -8945,6 +9049,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210810T141011Z" creationid="quentine" creationdate="20210810T141011Z">
         <seg>**属性值：** 构装体类无体质值，且通常没有智力值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Ability Scores:** Oozes have no Intelligence score.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T120222Z" creationid="quentine" creationdate="20220303T120222Z">
+        <seg>**属性值：** 泥形怪类无智力值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Ability Scores:** Vermin have no Intelligence score.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T125341Z" creationid="quentine" creationdate="20220303T125341Z">
+        <seg>**属性值：** 虫类无智力值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9478,10 +9598,26 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Base Attack Bonus:** 1/2 of total Hit Dice (see Table: Creature Saves and Base Attack Bonuses).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142934Z" creationid="quentine" creationdate="20210811T142934Z">
+        <seg>**基础攻击加值：** 总HD的1/2（见`表：生物豁免和基础攻击加值`）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Base Attack Bonus:** 3/4 of total Hit Dice (see Table 8–2: Creature Saves and Base Attack Bonuses).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142103Z" creationid="quentine" creationdate="20210811T141937Z">
+        <seg>**基础攻击加值：** 总HD的3/4（见`表8-2：生物豁免和基础攻击加值`）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Base Attack Bonus:** 3/4 of total Hit Dice (see Table: Creature Saves and Base Attack Bonuses).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T032916Z" creationid="quentine" creationdate="20210804T032916Z">
-        <seg>**基础攻击加值：** 总HD的3/4（见表：生物豁免和基础属性加值）。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142110Z" creationid="quentine" creationdate="20210804T032916Z">
+        <seg>**基础攻击加值：** 总HD的3/4（见`表：生物豁免和基础攻击加值`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9490,6 +9626,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190216T083808Z" creationid="quentine" creationdate="20190116T115550Z">
         <seg>**基础攻击加值：** 角色的基本攻击加值与攻击次数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Base Attack Bonus:** Total Hit Dice (see Table: Creature Saves and Base Attack Bonuses).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142209Z" creationid="quentine" creationdate="20210811T140641Z">
+        <seg>**基础攻击加值：** 等于总HD（见`表：生物豁免和基础攻击加值`）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10283,6 +10427,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210719T144732Z" creationid="quentine" creationdate="20210718T140432Z">
         <seg>**啮咬：** 生物用嘴攻击，造成穿刺伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Blindsight (Ex):** Most oozes have blindsight with a range of 60 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T121645Z" creationid="quentine" creationdate="20220303T121645Z">
+        <seg>**盲视（特异）：** 大多数泥形怪类都有60尺范围的盲视能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Blindsight (Ex):** Most plants without visual sensory organs have blindsight with a range of 60 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T123013Z" creationid="quentine" creationdate="20220303T123013Z">
+        <seg>**盲视（特异）：** 大多数不具有感光器官的植物都有60尺范围的盲视能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Blindsight (Ex):** Most vermin without visual sensory organs have blindsight with a range of 60 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T130042Z" creationid="quentine" creationdate="20220303T130042Z">
+        <seg>**盲视（特异）：** 大多数不具有感光器官的虫类都有60尺范围的盲视能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11151,6 +11319,54 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Darkvision (Ex):** Most dragons have darkvision with a range of 60 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T141410Z" creationid="quentine" creationdate="20210811T141410Z">
+        <seg>**黑暗视觉（特异）：** 大多数龙类都有60尺范围的黑暗视觉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Darkvision (Ex):** Most elementals have darkvision with a range of 60 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142427Z" creationid="quentine" creationdate="20210811T142427Z">
+        <seg>**黑暗视觉（特异）：** 大多数元素类都有60尺范围的黑暗视觉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Darkvision (Ex):** Most monstrous humanoids have darkvision with a range of 60 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T115553Z" creationid="quentine" creationdate="20220303T115553Z">
+        <seg>**黑暗视觉（特异）：** 大多数人形怪物类都有60尺范围的黑暗视觉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Darkvision (Ex):** Most outsiders have darkvision with a range of 60 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T122356Z" creationid="quentine" creationdate="20220303T122356Z">
+        <seg>**黑暗视觉（特异）：** 大多数异界生物类都有60尺范围的黑暗视觉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Darkvision (Ex):** Most undead have darkvision with a range of 60 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T123851Z" creationid="quentine" creationdate="20220303T123851Z">
+        <seg>**黑暗视觉（特异）：** 大多数不死生物类都有60尺范围的黑暗视觉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Darkvision (Ex):** Most vermin with visual sensory organs have darkvision with a range of 60 feet.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T130019Z" creationid="quentine" creationdate="20220303T130019Z">
+        <seg>**黑暗视觉（特异）：** 大多数具有感光器官的虫类都有60尺范围的黑暗视觉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Darkvision (Ex):** The creature can see in total darkness, out to the specified range (usually 60 feet).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T134317Z" creationid="quentine" creationdate="20191030T134317Z">
@@ -11423,6 +11639,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Extra Hit Points:** An ooze has no natural armor rating but is difficult to kill because of its protoplasmic body.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T120450Z" creationid="quentine" creationdate="20220303T120450Z">
+        <seg>**额外生命值：** 泥形怪没有天生护甲，但其具有原生质形体，仍非常难杀。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Extra Hit Points:** Constructs gain extra hit points according to size, as shown on Table: Constructs.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210810T141117Z" creationid="quentine" creationdate="20210810T141117Z">
@@ -11567,6 +11791,38 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Feats:** 1 + Int modifier (minimum 0), plus 1 feat per 4 Hit Dice beyond 1 HD.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T143155Z" creationid="quentine" creationdate="20210811T143155Z">
+        <seg>**专长：** 1+max(0, 智力调整值)+1/4×max(0, HD-1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Feats:** 1 + Int modifier, plus 1 feat per 4 HD beyond 1 HD.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T123505Z" creationid="quentine" creationdate="20220303T123505Z">
+        <seg>**专长：** 1+智力调整值+1/4×max(0, HD-1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Feats:** 1, plus 1 feat per 4  Hit Dice beyond 1 HD.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T122250Z" creationid="quentine" creationdate="20220303T122250Z">
+        <seg>**专长：** 1+1/4×max(0, HD-1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Feats:** 1, plus 1 feat per 4 Hit Dice beyond 1 HD.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T141329Z" creationid="quentine" creationdate="20210811T140942Z">
+        <seg>**专长：** 1+1/4×max(0, HD-1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Feats:** Archaic Weapons Proficiency.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190527T132859Z" creationid="quentine" creationdate="20190527T132859Z">
@@ -11601,8 +11857,16 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       <tuv lang="en-US">
         <seg>**Feats:** Int modifier (minimum +0), plus 1 feat per 4 Hit Dice beyond 1 HD.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T033456Z" creationid="quentine" creationdate="20210804T033456Z">
-        <seg>**专长：** max(0, 智力调整值)+max(0, 1/4×(HD-1))</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T141228Z" creationid="quentine" creationdate="20210804T033456Z">
+        <seg>**专长：** max(0, 智力调整值)+1/4×max(0, HD-1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Feats:** Int modifier (minimum 0), plus 1 feat per 4 Hit Dice beyond 1 HD.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142351Z" creationid="quentine" creationdate="20210811T142351Z">
+        <seg>**专长：** max(0, 智力调整值)+1/4×max(0, HD-1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11743,6 +12007,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Good Saving Throws:** Choose one (usually Reflex).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T140203Z" creationid="quentine" creationdate="20210812T140203Z">
+        <seg>**优势豁免：** 任选一个（一般为反射）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Good Saving Throws:** Fortitude and Reflex (some animals have different good saves).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210810T135947Z" creationid="quentine" creationdate="20210810T135947Z">
@@ -11751,10 +12023,50 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Good Saving Throws:** Fortitude, Reflex, Will.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T140701Z" creationid="quentine" creationdate="20210811T140701Z">
+        <seg>**优势豁免：** 强韧、反射、意志。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Good Saving Throws:** Fortitude, Reflex.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T142748Z" creationid="quentine" creationdate="20210812T142748Z">
+        <seg>**优势豁免：** 强韧、反射。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Good Saving Throws:** Fortitude.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T135426Z" creationid="quentine" creationdate="20210812T135426Z">
+        <seg>**优势豁免：** 强韧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Good Saving Throws:** None.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140832Z" creationid="quentine" creationdate="20210810T140832Z">
         <seg>**优势豁免：** 无。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Good Saving Throws:** Reflex, Will.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T115254Z" creationid="quentine" creationdate="20220303T115254Z">
+        <seg>**优势豁免：** 反射、意志。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Good Saving Throws:** Varies by element: Fortitude (earth, water) or Reflex (air, fire).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142328Z" creationid="quentine" creationdate="20210811T142328Z">
+        <seg>**优势豁免：** 按元素分：强韧（土、水）或反射（气、火）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11911,6 +12223,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Healing:** Undead cannot heal damage on their own if they have no Intelligence score.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T124551Z" creationid="quentine" creationdate="20220303T124551Z">
+        <seg>**治疗：**没有智力点的不死生物不会自动恢复伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Heel (DC 15):** The animal follows the character closely, even to places where it normally wouldn’t go.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190929T123314Z" creationid="quentine" creationdate="20190929T122954Z">
@@ -11987,6 +12307,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140823Z" creationid="quentine" creationdate="20210810T140823Z">
         <seg>**生命骰：** d10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Hit Die:** d12.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T140527Z" creationid="quentine" creationdate="20210811T140527Z">
+        <seg>**生命骰：** d12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Hit Die:** d6.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142919Z" creationid="quentine" creationdate="20210811T142919Z">
+        <seg>**生命骰：** d6</seg>
       </tuv>
     </tu>
     <tu>
@@ -12075,6 +12411,54 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210810T141805Z" creationid="quentine" creationdate="20210810T141805Z">
         <seg>**免疫：** 构装体类对所有和思维有关的效果、中毒、沉睡、麻痹、震慑、疾病以及死灵系效果免疫，且免疫任何需要强韧豁免的效果，除非该效果对物体有效，或者该效果是无害的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Immunities:** Dragons are immune to sleep, hold, and paralysis effects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T141510Z" creationid="quentine" creationdate="20210811T141510Z">
+        <seg>**免疫：** 龙类免疫沉睡、缠握以及麻痹效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Immunities:** Elementals are immune to poison, sleep, paralysis, and stunning.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142501Z" creationid="quentine" creationdate="20210811T142501Z">
+        <seg>**免疫：** 元素类免疫毒素、沉睡、麻痹和震慑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Immunities:** Oozes are immune to mind-affecting effects, poison, sleep, paralysis, stunning, gaze attacks, visual effects, illusions, and other attack forms that rely on sight.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T121510Z" creationid="quentine" creationdate="20220303T121510Z">
+        <seg>**免疫：** 泥形怪类对所有影响心灵的效果、中毒、沉睡、麻痹、震慑、凝视攻击、可见性效果、幻术以及其他依赖视线的攻击形式免疫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Immunities:** Plants are immune to sleep, paralysis, stunning, and mind-affecting effects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T122802Z" creationid="quentine" creationdate="20220303T122802Z">
+        <seg>**免疫：** 植物类免疫沉睡、麻痹、震慑以及影响心灵的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Immunities:** Undead are immune to poison, sleep, paralysis, stunning, disease, necromantic effects, and mind-affecting effects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T124129Z" creationid="quentine" creationdate="20220303T124129Z">
+        <seg>**免疫：** 不死生物类免疫中毒、沉睡、麻痹、震慑、疾病、死灵术效果以及影响心灵的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Immunities:** Vermin are immune to mind-affecting effects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T130112Z" creationid="quentine" creationdate="20220303T130112Z">
+        <seg>**免疫：** 虫类免疫影响心灵的效果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12263,6 +12647,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Keen Sight (Ex):** Humanoids accustomed to living underground may have darkvision with a range of 60 feet, low-light vision, or both (as noted in their entries).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T142357Z" creationid="quentine" creationdate="20210812T142357Z">
+        <seg>**敏锐视觉（特异）：** 习惯于生活在地下的类人生物类可以有60尺范围的黑暗视觉、低光视觉，或者两者都有（见条目描述）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Keen Sight (Ex):** Magical beasts have darkvision with a range of 60 feet and low-light vision (unless noted otherwise).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T143012Z" creationid="quentine" creationdate="20210812T143012Z">
+        <seg>**敏锐视觉（特异）：** 魔法兽类可以有60尺范围的黑暗视觉和低光视觉（除非另有说明）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Key Ability:** The abbreviation for the ability whose modifier applies to the skill check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190807T114825Z" creationid="quentine" creationdate="20190807T114825Z">
@@ -12387,6 +12787,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140419Z" creationid="quentine" creationdate="20210810T140419Z">
         <seg>**低光视觉（特异）：** 大多数动物都有低光视觉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Low-Light Vision (Ex):** Most fey have low-light vision.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T143413Z" creationid="quentine" creationdate="20210811T143413Z">
+        <seg>**低光视觉（特异）：** 大多数精类都有低光视觉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Low-Light Vision (Ex):** Most giants have low-light vision.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T135716Z" creationid="quentine" creationdate="20210812T135716Z">
+        <seg>**低光视觉（特异）：** 大多数巨人类都有低光视觉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Low-Light Vision (Ex):** Most plants with visual sensory organs have low-light vision.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T122942Z" creationid="quentine" creationdate="20220303T122942Z">
+        <seg>**低光视觉（特异）：** 大多数具有感光器官的植物都有低光视觉。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12867,6 +13291,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191022T140439Z" creationid="quentine" creationdate="20191022T140439Z">
         <seg>**流行文化：** 流行乐和明星、类型片与畅销书、都市传说、漫画、科幻小说和游戏等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Potent Venom:** Medium-size or larger poisonous vermin get a bonus to the save DC of their poison based on their size, as follows: Medium-size +2, Large +4, Huge +6, Gargantuan +8, Colossal +10.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T125905Z" creationid="quentine" creationdate="20220303T125905Z">
+        <seg>**猛毒：** 普通及以上体型的剧毒虫类，其毒素的豁免DC由体型决定：普通+2、大型+4、超大型+6、巨型+8、超巨型+10。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13463,6 +13895,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Resistance to Massive Damage (Ex):** Vermin gain a +5 species bonus on Fortitude saves to negate the effects of massive damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T130424Z" creationid="quentine" creationdate="20220303T130221Z">
+        <seg>**巨创抗力（特异）：** 虫类的强韧豁免，在用于抵消巨创的效果时，拥有5点物种加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Restore Hit Points (DC 15):** With a medical kit, if a character has lost hit points, the character can restore some of them.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191028T125100Z" creationid="quentine" creationdate="20191028T124316Z">
@@ -13728,6 +14168,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Size:** Giants must be Large or larger.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T135629Z" creationid="quentine" creationdate="20210812T135629Z">
+        <seg>**体型：** 巨人的体型必须大于等于大型。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Size:** Humanoids must be Medium-size or smaller.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T140314Z" creationid="quentine" creationdate="20210812T140314Z">
+        <seg>**体型：** 类人生物类的体型必须小于等于普通。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Size:** Size categories for weapons and other objects are defined differently from the size categories for creatures.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201114T020145Z" creationid="quentine" creationdate="20200410T133230Z">
@@ -13864,10 +14320,58 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Skill Points:** 2 x Int score, plus 1 point per Hit Dice beyond 1 HD, or 10–15 points if Int score is 1 or 2.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T142858Z" creationid="quentine" creationdate="20210812T142858Z">
+        <seg>**技能点：** 2×智力值+max(0, HD-1)，若智力值为1或2则只有10到15点。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Skill Points:** 2 x Int score, plus 2 points per Hit Dice beyond 1 HD.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T033316Z" creationid="quentine" creationdate="20210804T033316Z">
-        <seg>**技能点：** 2×智力值+max(0, 2×(HD-1))。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T143026Z" creationid="quentine" creationdate="20210804T033316Z">
+        <seg>**技能点：** 2×智力值+2×max(0, HD-1)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Skill Points:** 3 x Int score, plus 2 points per Hit Dice beyond 1 HD.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T143101Z" creationid="quentine" creationdate="20210811T143000Z">
+        <seg>**技能点：** 3×智力值+2×max(0, HD-1)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Skill Points:** 6 + Int modifier (minimum 1), plus 1 points per Hit Dice beyond 1 HD.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T135536Z" creationid="quentine" creationdate="20210812T135536Z">
+        <seg>**技能点：** 6+max(1, 智力调整值)+max(0, HD-1)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Skill Points:** 6 + Int modifier per Hit Dice beyond 1 HD.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T140851Z" creationid="quentine" creationdate="20210811T140851Z">
+        <seg>**技能点：** 6+智力调整值×max(0, HD-1)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Skill Points:** 6 + Int modifier, plus 1 point per Hit Dice beyond 1 HD.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T140229Z" creationid="quentine" creationdate="20210812T140229Z">
+        <seg>**技能点：** 6+智力调整值+max(0, HD-1)。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Skill Points:** 8 + Int modifier per Hit Dice.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T122209Z" creationid="quentine" creationdate="20220303T122209Z">
+        <seg>**技能点：** 8+智力调整值×HD。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14544,6 +15048,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Special:** Elementals cannot be raised from the dead.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142616Z" creationid="quentine" creationdate="20210811T142616Z">
+        <seg>**特别：** 元素类无法复活。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Special:** Even if the character has the ability to treat unarmed damage as lethal damage, the damage from a knockout punch is always nonlethal.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190802T145017Z" creationid="quentine" creationdate="20190802T145017Z">
@@ -14572,6 +15084,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20201230T000746Z" creationid="quentine" creationdate="20190730T135830Z">
         <seg>**特别：** 如果枪械有三发点射模式，短点射只消耗三发子弹而非5发，只要还剩3发子弹就能发动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Special:** Outsiders cannot be raised from the dead.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T122418Z" creationid="quentine" creationdate="20220303T122418Z">
+        <seg>**特别：** 异界生物类无法复活。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14692,6 +15212,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190926T142019Z" creationid="quentine" creationdate="20190926T142019Z">
         <seg>**特别：** 角色要伪造文件和鉴别伪造，必须能读写伪造内容对应的语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Special:** Undead cannot be raised from the dead.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T124758Z" creationid="quentine" creationdate="20220303T124758Z">
+        <seg>**特别：** 不死生物类无法复活。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15024,10 +15552,42 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Table: Dragons**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T141519Z" creationid="quentine" creationdate="20210811T141519Z">
+        <seg>**表：龙类**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Elementals**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142625Z" creationid="quentine" creationdate="20210811T142625Z">
+        <seg>**表：元素类**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Table: Example Opposed Checks**</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190805T141825Z" creationid="quentine" creationdate="20190805T141825Z">
         <seg>**表：对抗检定示例**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Fey**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T143424Z" creationid="quentine" creationdate="20210811T143424Z">
+        <seg>**表：精类**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Giants**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T135726Z" creationid="quentine" creationdate="20210812T135726Z">
+        <seg>**表：巨人类**</seg>
       </tuv>
     </tu>
     <tu>
@@ -15040,10 +15600,58 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Table: Humanoids**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T142405Z" creationid="quentine" creationdate="20210812T142405Z">
+        <seg>**表：类人生物类**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Magical beasts**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T143021Z" creationid="quentine" creationdate="20210812T143021Z">
+        <seg>**表：魔法兽类**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Monstrous Humanoids**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T115605Z" creationid="quentine" creationdate="20220303T115605Z">
+        <seg>**表：人形怪物类**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Table: Object Hardness and Hit Points**</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210607T142343Z" creationid="qt911" creationdate="20210607T142343Z">
         <seg>**表：物品的硬度与生命值**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Oozes**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T121658Z" creationid="quentine" creationdate="20220303T121658Z">
+        <seg>**表：泥形怪类**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Outsiders**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T122432Z" creationid="quentine" creationdate="20220303T122432Z">
+        <seg>**表：异界生物类**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Plants**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T123025Z" creationid="quentine" creationdate="20220303T123025Z">
+        <seg>**表：植物类**</seg>
       </tuv>
     </tu>
     <tu>
@@ -15096,6 +15704,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Table: Undead**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T124809Z" creationid="quentine" creationdate="20220303T124809Z">
+        <seg>**表：不死生物类**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Table: Vehicle Crew Quality**</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210713T132132Z" creationid="quentine" creationdate="20210713T132132Z">
@@ -15132,6 +15748,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200701T115112Z" creationid="quentine" creationdate="20200701T115112Z">
         <seg>**表：载具**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Table: Vermin**</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T130433Z" creationid="quentine" creationdate="20220303T130433Z">
+        <seg>**表：虫类**</seg>
       </tuv>
     </tu>
     <tu>
@@ -16056,6 +16680,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>**Weapon and Armor Proficiency:** A fey receives either Archaic Weapons Proficiency or Simple Weapons Proficiency as a bonus feat.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T143257Z" creationid="quentine" creationdate="20210811T143257Z">
+        <seg>**擅长武器与护甲：** 精类从以下专长中选择一个作为奖励专长：擅长古典武器、擅长简单武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>**Weapon and Armor Proficiency:** Aberrations receive one of the following as a bonus feat: Archaic Weapons Proficiency or Simple Weapons Proficiency.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210804T033833Z" creationid="quentine" creationdate="20210804T033833Z">
@@ -16076,6 +16708,94 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140914Z" creationid="quentine" creationdate="20210810T140914Z">
         <seg>**擅长武器与护甲：** 构装体类仅擅长其天生武器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Weapon and Armor Proficiency:** Dragons are proficient with their natural weapons only.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T141356Z" creationid="quentine" creationdate="20210811T141356Z">
+        <seg>**擅长武器与护甲：** 龙类仅擅长其天生武器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Weapon and Armor Proficiency:** Elementals are proficient with their natural weapons only.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142415Z" creationid="quentine" creationdate="20210811T142415Z">
+        <seg>**擅长武器与护甲：** 元素类仅擅长其天生武器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Weapon and Armor Proficiency:** Giants receive either Archaic Weapons Proficiency or Simple Weapons Proficiency as a bonus feat.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T135649Z" creationid="quentine" creationdate="20210812T135649Z">
+        <seg>**擅长武器与护甲：** 巨人类从以下专长中选择一个作为奖励专长：擅长古典武器、擅长简单武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Weapon and Armor Proficiency:** Humanoids with more than 1 Hit Die receive one bonus feat selected from the following list: Archaic Weapons Proficiency, Armor Proficiency (light), or Simple Weapons Proficiency.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T140427Z" creationid="quentine" creationdate="20210812T140427Z">
+        <seg>**擅长武器与护甲：** 生命骰大于1的类人生物类从以下专长中选择一个作为奖励专长：擅长古典武器、擅长护甲（轻型）、擅长简单武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Weapon and Armor Proficiency:** Magical beasts are proficient with their natural weapons only.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T142924Z" creationid="quentine" creationdate="20210812T142924Z">
+        <seg>**擅长武器与护甲：** 魔法兽类仅擅长其天生武器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Weapon and Armor Proficiency:** Monstrous humanoids receive either Archaic Weapons Proficiency or Simple Weapons Proficiency as a bonus feat.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T115341Z" creationid="quentine" creationdate="20220303T115341Z">
+        <seg>**擅长武器与护甲：** 人形怪物类从以下专长中选择一个作为奖励专长：擅长古典武器、擅长简单武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Weapon and Armor Proficiency:** Oozes are proficient with their natural weapons only, but not with armor.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T120116Z" creationid="quentine" creationdate="20220303T120116Z">
+        <seg>**擅长武器与护甲：** 泥形怪类仅擅长其天生武器，而不擅长护甲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Weapon and Armor Proficiency:** Outsiders receive either Archaic Weapons Proficiency or Simple Weapons Proficiency as a bonus feat.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T122315Z" creationid="quentine" creationdate="20220303T122315Z">
+        <seg>**擅长武器与护甲：** 异界生物类从以下专长中选择一个作为奖励专长：擅长古典武器、擅长简单武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Weapon and Armor Proficiency:** Plants are proficient with their natural weapons only.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T122706Z" creationid="quentine" creationdate="20220303T122706Z">
+        <seg>**擅长武器与护甲：** 植物类仅擅长其天生武器，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Weapon and Armor Proficiency:** Undead receive either Archaic Weapons Proficiency or Simple Weapons Proficiency as a bonus feat.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T123556Z" creationid="quentine" creationdate="20220303T123556Z">
+        <seg>**擅长武器与护甲：** 不死生物类从以下专长中选择一个作为奖励专长：擅长古典武器、擅长简单武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>**Weapon and Armor Proficiency:** Vermin are proficient with their natural weapons only.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T125322Z" creationid="quentine" creationdate="20220303T125322Z">
+        <seg>**擅长武器与护甲：** 虫类仅擅长其天生武器，</seg>
       </tuv>
     </tu>
     <tu>
@@ -19726,6 +20446,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A dragon is a reptilian creature, usually winged, with magical or unusual abilities.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T140453Z" creationid="quentine" creationdate="20210811T140453Z">
+        <seg>龙类是一种爬行类生物，通常有翅膀，且有魔法及其他超自然力量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A draining creature heals 5 points of damage (10 on a critical hit) whenever it drains an ability score no matter how many points it drains.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191030T124204Z" creationid="quentine" creationdate="20191030T124204Z">
@@ -19886,6 +20614,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A fey is a creature with supernatural abilities and connections to nature or some other force or place.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142835Z" creationid="quentine" creationdate="20210811T142835Z">
+        <seg>精类是一种具有超自然能力且与自然或某种其他力场相联系的生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A figure under a ghillie suit is nearly impossible to discern.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191113T141918Z" creationid="quentine" creationdate="20191113T141918Z">
@@ -19994,6 +20730,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200508T125002Z" creationid="quentine" creationdate="20200508T125002Z">
         <seg>防毒面具可使角色免疫这个效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A giant is a humanoid creature of Large size or larger.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T143621Z" creationid="quentine" creationdate="20210811T143621Z">
+        <seg>巨人类为体型大于等于大型的类人生物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20134,6 +20878,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A humanoid has few or no supernatural or extraordinary abilities.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T140121Z" creationid="quentine" creationdate="20210812T140121Z">
+        <seg>类人生物类几乎没有超自然或特异能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A humanoid usually has two arms, two legs, and one head, or a humanlike torso, arms, and head.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T140035Z" creationid="quentine" creationdate="20210812T140035Z">
+        <seg>类人生物类一般都有双臂、双腿、一个头，至少躯干、手臂和头长得像人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A kama is a wooden shaft with a scythe blade extending at a right angle out from the shaft Kama are traditional weapons in various styles of karate.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200520T142018Z" creationid="quentine" creationdate="20200520T142018Z">
@@ -20270,6 +21030,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A magical beast is similar to an animal but can have an Intelligence score higher than 2.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T142710Z" creationid="quentine" creationdate="20210812T142710Z">
+        <seg>魔法兽类类似动物类，但智力可以超过2。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A magical beast might possess supernatural or extraordinary abilities, or it might be bizarre in appearance and habits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T115216Z" creationid="quentine" creationdate="20220303T115216Z">
+        <seg>魔法兽类有的具有超自然能力或者特异能力，有的只是外观和习性怪异。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A mastercraft object that provides a +1 bonus can usually be purchased on the open market as a custom version of a common object.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191104T134530Z" creationid="quentine" creationdate="20191104T134302Z">
@@ -20362,6 +21138,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T140710Z" creationid="quentine" creationdate="20190806T140710Z">
         <seg>调整值为骰点提供一个加值（正调整值）或者一个减值（负调整值）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A monstrous humanoid is a humanoid creature with monstrous or animalistic features.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T114228Z" creationid="quentine" creationdate="20220303T114228Z">
+        <seg>人形怪物类是带有怪物或动物特征的类人生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A monstrous humanoid often possesses supernatural abilities as well.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T114316Z" creationid="quentine" creationdate="20220303T114316Z">
+        <seg>人形怪物类通常也具备超自然能力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20594,6 +21386,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210609T142014Z" creationid="qt911" creationdate="20210609T142014Z">
         <seg>被压制的角色无法移动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A plant is a vegetable creature.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T122631Z" creationid="quentine" creationdate="20220303T122631Z">
+        <seg>植物类就是植物。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22960,6 +23760,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An elemental is a being composed of one of the four classical elements: air, earth, fire, or water.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T141855Z" creationid="quentine" creationdate="20210811T141855Z">
+        <seg>元素类是由四种基本元素——气、土、火、水——构成的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An empowered weapon behaves like a magic weapon in the hands of the Shadow Slayer, providing an enhancement bonus equal to one-half of the Slayer’s level in this advanced class, rounded down.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190611T135950Z" creationid="quentine" creationdate="20190611T135950Z">
@@ -23216,6 +24024,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An ooze is an amorphous or mutable creature.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T115952Z" creationid="quentine" creationdate="20220303T115952Z">
+        <seg>泥形怪类是一类无定形或能够拟态变形的生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An opponent who fails his or her save is shaken, taking a –2 penalty on attack rolls, saves, and skill checks for a number of rounds equal to 1d6 + the character’s Charisma modifier.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190802T131439Z" creationid="quentine" creationdate="20190802T131439Z">
@@ -23256,6 +24072,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An outsider is a nonelemental creature originating from some other dimension, reality, or plane.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T121954Z" creationid="quentine" creationdate="20220303T121954Z">
+        <seg>异界生物类是来自另一个位面、次元的非实体生物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An unaided stable, conscious character who has negative hit points (and is disabled) doesn’t heal naturally.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T112533Z" creationid="quentine" creationdate="20190115T112331Z">
@@ -23276,6 +24100,22 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T125440Z" creationid="quentine" creationdate="20190115T125440Z">
         <seg>昏迷的角色无法自我防御。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An undead is a once-living creature animated by spiritual or supernatural forces.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T123333Z" creationid="quentine" creationdate="20220303T123333Z">
+        <seg>不死生物类都是些曾经活着的生物，死后被灵魂或超自然力量操控行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An undead is proficient with its natural weapons and any weapon mentioned in its entry.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T123659Z" creationid="quentine" creationdate="20220303T123659Z">
+        <seg>不死生物类`擅长`其天生武器，以及条目中特别提到的武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -27753,6 +28593,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dragons share the following additional traits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T141341Z" creationid="quentine" creationdate="20210811T141341Z">
+        <seg>龙类自带以下专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Draw a Light Weapon: A character can draw a light weap-on as a move action.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210617T143753Z" creationid="qt911" creationdate="20210617T143753Z">
@@ -28293,6 +29141,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190518T133650Z" creationid="quentine" creationdate="20190518T125809Z">
         <seg>比如电气设备、特殊工具、武器、机械设备以及其他可以用科技动手制作的物品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Elementals share the following additional traits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142401Z" creationid="quentine" creationdate="20210811T142401Z">
+        <seg>元素类自带以下专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -28893,6 +29749,38 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20201118T120719Z" creationid="quentine" creationdate="20201118T120719Z">
         <seg>专长：有的专长为角色的防御提供加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fey are proficient with any weapon mentioned in their entries.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T143334Z" creationid="quentine" creationdate="20210811T143334Z">
+        <seg>精类`擅长`其条目中特别提到的武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fey are usually human-shaped.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142850Z" creationid="quentine" creationdate="20210811T142850Z">
+        <seg>精类通常为人形。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fey noted for wearing armor gain the bonus feat Armor Proficiency with whatever type of armor they are accustomed to wearing (light, medium, heavy), as well as all lighter types.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T143401Z" creationid="quentine" creationdate="20210811T143401Z">
+        <seg>自带护甲的精类生物自动获得所穿护甲种类的`擅长护甲`专长，且擅长所有比这更轻的护甲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fey share the following additional traits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T143218Z" creationid="quentine" creationdate="20210811T143218Z">
+        <seg>精类自带以下专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -29769,6 +30657,30 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Giants are known for their great strength.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T135351Z" creationid="quentine" creationdate="20210812T135351Z">
+        <seg>巨人以其巨大的力量著称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Giants noted for wearing armor gain the bonus feat Armor Proficiency with whatever type of armor they are accustomed to wearing (light, medium, heavy), as well as all lighter types.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T135706Z" creationid="quentine" creationdate="20210812T135706Z">
+        <seg>自带护甲的巨人类生物自动获得所穿护甲种类的`擅长护甲`专长，且擅长所有比这更轻的护甲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Giants share the following additional traits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T135604Z" creationid="quentine" creationdate="20210812T135604Z">
+        <seg>巨人类自带以下专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Give the skill user a +2 circumstance bonus to represent conditions that improve performance, such as having the perfect tool for the job, getting help from another character, or working under conditions that are significantly better than normal.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T124124Z" creationid="quentine" creationdate="20190806T123904Z">
@@ -30469,6 +31381,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200117T105241Z" creationid="quentine" creationdate="20200117T105103Z">
         <seg>但使用瞄准镜需要用一个攻击动作瞄准目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Humanoids share the following additional traits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T140243Z" creationid="quentine" creationdate="20210812T140243Z">
+        <seg>类人生物类自带以下专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -35225,6 +36145,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It gains extra hit points (in addition to those from its Hit Dice and Constitution score) according to size, as shown on Table: Oozes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T120645Z" creationid="quentine" creationdate="20220303T120645Z">
+        <seg>泥形怪除了生命骰和体质决定的生命值，还根据体型拥有额外的生命值，详见`表：泥形怪类`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It grants a +2 equipment bonus on Investigate checks under appropriate circumstances (whenever the GM rules that the equipment in the kit can be of use in the current situation).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20200115T093128Z" creationid="quentine" creationdate="20200115T093128Z">
@@ -35865,6 +36793,14 @@ In general, if you wind up with a fraction, round down, even if the fraction is 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It uses its Charisma modifier for Concentration checks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T123838Z" creationid="quentine" creationdate="20220303T123838Z">
+        <seg>不死生物做专注检定应用魅力调整值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It usually takes some time (several minutes to an hour or more) to collect or create a set of impromptu tools, and it may require a skill check as well.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190806T130958Z" creationid="quentine" creationdate="20190806T130958Z">
@@ -36403,6 +37339,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Magical beasts share the following additional traits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T142913Z" creationid="quentine" creationdate="20210812T142913Z">
+        <seg>魔法兽类自带以下专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Magical beasts, unlike undead creatures, can’t be destroyed or commanded.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T115757Z" creationid="quentine" creationdate="20190703T115757Z">
@@ -36811,6 +37755,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Monstrous humanoids noted for wearing armor gain the bonus feat Armor Proficiency with whatever type of armor they are accustomed to wearing (light, medium, heavy), as well as all lighter types.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T115535Z" creationid="quentine" creationdate="20220303T115535Z">
+        <seg>自带护甲的人形怪物类生物自动获得所穿护甲种类的`擅长护甲`专长，且擅长所有比这更轻的护甲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Monstrous humanoids share the following additional traits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T115312Z" creationid="quentine" creationdate="20220303T115312Z">
+        <seg>人形怪物类类自带以下专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>More complex repair work has a DC of 20 or higher and can require an hour or more to complete.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T075331Z" creationid="quentine" creationdate="20191027T075331Z">
@@ -36943,6 +37903,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210607T134326Z" creationid="qt911" creationdate="20210607T134326Z">
         <seg>大多数溅射武器由液体和易爆容器制成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most undead are destroyed immediately if reduced to 0 hit points or less.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T124741Z" creationid="quentine" creationdate="20220303T124741Z">
+        <seg>大多数不死生物在生命值小于等于0时会立即被摧毁。</seg>
       </tuv>
     </tu>
     <tu>
@@ -38111,6 +39079,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oozes are not subject to critical hits, flanking, or the effects of massive damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T121525Z" creationid="quentine" creationdate="20220303T121525Z">
+        <seg>它们也不会受到重击、夹击、巨创的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oozes share the following additional traits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T120026Z" creationid="quentine" creationdate="20220303T120026Z">
+        <seg>泥形怪类自带以下专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="QuenTine" changedate="20181022T113436Z" creationid="QuenTine" creationdate="20181022T113436Z">
@@ -38343,6 +39327,22 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Outsiders noted for wearing armor gain the bonus feat Armor Proficiency with whatever type of armor they are accustomed to wearing (light, medium, heavy), as well as all lighter types.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T122341Z" creationid="quentine" creationdate="20220303T122341Z">
+        <seg>自带护甲的异界生物类生物自动获得所穿护甲种类的`擅长护甲`专长，且擅长所有比这更轻的护甲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Outsiders share the following additional traits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T122300Z" creationid="quentine" creationdate="20220303T122300Z">
+        <seg>异界生物类自带以下专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Outsiders, unlike undead creatures, can’t be destroyed or commanded.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190703T120054Z" creationid="quentine" creationdate="20190703T120054Z">
@@ -38499,6 +39499,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190923T134854Z" creationid="quentine" creationdate="20190923T134854Z">
         <seg>安装一个爆炸装置需要一分钟及以上的时间，取决于工程量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Plants share the following additional traits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T122652Z" creationid="quentine" creationdate="20220303T122652Z">
+        <seg>植物类自带以下专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39567,24 +40575,64 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>See Table: Aberrations for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20210804T032806Z" creationid="quentine" creationdate="20210804T032806Z">
-        <seg>异怪类的肉体属性值、建议最低生命骰以及各体型伤害详见`表：异怪类`。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T114742Z" creationid="quentine" creationdate="20210804T032806Z">
+        <seg>异怪类各体型的肉体属性值、建议最低生命骰以及伤害详见`表：异怪类`。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See Table: Animals for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T135845Z" creationid="quentine" creationdate="20210810T135845Z">
-        <seg>动物类的肉体属性值、建议最低生命骰以及各体型伤害详见`表：动物类`。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T114756Z" creationid="quentine" creationdate="20210810T135845Z">
+        <seg>动物类各体型的肉体属性值、建议最低生命骰以及伤害详见`表：动物类`。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>See Table: Constructs for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T140811Z" creationid="quentine" creationdate="20210810T140811Z">
-        <seg>构装体类的肉体属性值、建议最低生命骰以及各体型伤害详见`表：构装体类`。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T114811Z" creationid="quentine" creationdate="20210810T140811Z">
+        <seg>构装体类各体型的肉体属性值、建议最低生命骰以及伤害详见`表：构装体类`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Table: Dragons for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T114822Z" creationid="quentine" creationdate="20210811T140518Z">
+        <seg>龙类各体型的肉体属性值、建议最低生命骰以及伤害详见`表：龙类`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Table: Elementals for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T114837Z" creationid="quentine" creationdate="20210811T141917Z">
+        <seg>元素类各体型的肉体属性值、建议最低生命骰以及伤害详见`表：元素类`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Table: Fey for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T114851Z" creationid="quentine" creationdate="20210811T142909Z">
+        <seg>精类各体型的肉体属性值、建议最低生命骰以及伤害详见`表：精类`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Table: Giants for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T114901Z" creationid="quentine" creationdate="20210812T135413Z">
+        <seg>巨人类各体型的肉体属性值、建议最低生命骰以及伤害详见`表：巨人类`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Table: Humanoids for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T114912Z" creationid="quentine" creationdate="20210812T140143Z">
+        <seg>类人生物类各体型的肉体属性值、建议最低生命骰以及伤害详见`表：类人生物类`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39593,6 +40641,62 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190115T131320Z" creationid="quentine" creationdate="20190115T131320Z">
         <seg>见下表：光源照亮半径与持续时间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Table: Magical Beasts for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T114931Z" creationid="quentine" creationdate="20210812T142735Z">
+        <seg>魔法兽类各体型的肉体属性值、建议最低生命骰以及伤害详见`表：魔法兽类`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Table: Monstrous Humanoids for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T114519Z" creationid="quentine" creationdate="20220303T114519Z">
+        <seg>人形怪物类各体型的肉体属性值、建议最低生命骰以及伤害详见`表：人形怪物类`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Table: Oozes for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T120015Z" creationid="quentine" creationdate="20220303T120015Z">
+        <seg>泥形怪类各体型的肉体属性值、建议最低生命骰以及伤害详见`表：泥形怪类`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Table: Outsiders for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T122029Z" creationid="quentine" creationdate="20220303T122029Z">
+        <seg>异界生物类各体型的肉体属性值、建议最低生命骰以及伤害详见`表：异界生物类`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Table: Plants for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T123037Z" creationid="quentine" creationdate="20220303T122641Z">
+        <seg>植物类各体型的肉体属性值、建议最低生命骰以及伤害详见`表：植物类`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Table: Undead for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T123354Z" creationid="quentine" creationdate="20220303T123354Z">
+        <seg>不死生物类各体型的肉体属性值、建议最低生命骰以及伤害详见`表：不死生物类`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See Table: Vermin for physical ability scores, recommended minimum Hit Dice, and damage based on size.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T125256Z" creationid="quentine" creationdate="20220303T125256Z">
+        <seg>虫类各体型的肉体属性值、建议最低生命骰以及伤害详见`表：虫类`。</seg>
       </tuv>
     </tu>
     <tu>
@@ -48970,6 +50074,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They are not subject to critical hits or the effects of massive damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T122848Z" creationid="quentine" creationdate="20220303T122848Z">
+        <seg>它们也不会受到重击、巨创的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are not subject to critical hits, flanking, or the effects of massive damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142601Z" creationid="quentine" creationdate="20210811T142601Z">
+        <seg>它们也不会受到重击、夹击、巨创的效果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are not subject to critical hits, nonlethal damage, ability damage, ability drain, energy drain, or effects of massive damage, or any effect requiring a Fortitude save unless the effect also works on objects or is harmless.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T124442Z" creationid="quentine" creationdate="20220303T124442Z">
+        <seg>它们也不会遭受重击、非致命攻击、属性伤害、属性吸取、能量吸取、巨创以及任何需要强韧豁免的效果，但能作用于物体的或是无害的效果除外。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They are not subject to critical hits, nonlethal damage, ability damage, ability drain, energy drain, or the effects of massive damage.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210810T142029Z" creationid="quentine" creationdate="20210810T142029Z">
@@ -48978,10 +50106,18 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They are proficient with their natural attacks and any weapon mentioned in their entries.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T115429Z" creationid="quentine" creationdate="20220303T115429Z">
+        <seg>它们`擅长`其天生武器，以及条目中特别提到的武器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They are proficient with their natural weapons and any weapon mentioned in their entries.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="quentine" changedate="20210810T134703Z" creationid="quentine" creationdate="20210810T134703Z">
-        <seg>异怪类`擅长`其天生武器，以及条目中特别提到的武器。</seg>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T143700Z" creationid="quentine" creationdate="20210810T134703Z">
+        <seg>它们`擅长`其天生武器，以及条目中特别提到的武器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -51031,6 +52167,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This type includes insects, arachnids, other arthropods, worms, and similar invertebrates.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T125236Z" creationid="quentine" creationdate="20220303T125236Z">
+        <seg>这类生物囊括了昆虫类、蛛形纲等节肢动物、蠕虫以及类似的无脊椎动物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This unswerving belief allows the Dedicated hero to add his or her Wisdom modifier to the die roll whenever the hero spends 1 action point to improve the result of an attack roll, skill check, saving throw, or ability check.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20190202T104608Z" creationid="quentine" creationdate="20190202T104608Z">
@@ -52023,6 +53167,30 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Undead can be healed with negative energy (usually only available through the use of magic).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T124704Z" creationid="quentine" creationdate="20220303T124704Z">
+        <seg>不死生物类能被负面能量治疗（一般仅限魔法）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Undead noted for wearing armor gain the bonus feat Armor Proficiency with whatever type of armor they are accustomed to wearing (light, medium, heavy), as well as all lighter types.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T123716Z" creationid="quentine" creationdate="20220303T123716Z">
+        <seg>自带护甲的不死生物类生物自动获得所穿护甲种类的`擅长护甲`专长，且擅长所有比这更轻的护甲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Undead share the following additional traits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T123524Z" creationid="quentine" creationdate="20220303T123524Z">
+        <seg>不死生物类自带以下专长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unfriendly Character: There are two ways to move through a square occupied by a resisting enemy.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qt911" changedate="20210530T134711Z" creationid="qt911" creationdate="20210530T134711Z">
@@ -52627,6 +53795,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20210715T143528Z" creationid="quentine" creationdate="20210715T143528Z">
         <seg>虫类的强韧豁免，在用于避免生命值跌至-1时，拥有5点物种加值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vermin share the following additional traits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T125309Z" creationid="quentine" creationdate="20220303T125309Z">
+        <seg>虫类自带以下专长。</seg>
       </tuv>
     </tu>
     <tu>
@@ -54729,6 +55905,14 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="quentine" changedate="20191027T074925Z" creationid="quentine" creationdate="20191027T074925Z">
         <seg>\*这是古代语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>\*Unarmed attacks qualify as slam attacks that deal nonlethal damage.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T142642Z" creationid="quentine" creationdate="20210812T142642Z">
+        <seg>\*拍击形式的徒手攻击造成非致命伤害。</seg>
       </tuv>
     </tu>
     <tu>
@@ -59055,6 +60239,34 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
       <tuv lang="en-US">
         <seg>|Size|Str|Dex|Con|Minimum HD|Extra Hit Points|Slam|Bite|Claw|Gore|
 |----|:-:|:-:|:-:|:--------:|:--------------:|:--:|:--:|:--:|:--:|
+|Colossal|44–45|6–7|26–29|32d10|40|4d6|4d6|2d8|2d6|
+|Gargantuan|36–37|6–7|22–25|16d10|30|2d8|2d8|2d6|1d8|
+|Huge|28–29|6–7|18–21|8d10|20|2d6|2d6|2d4|1d6|
+|Large|20–21|8–9|14–17|2d10|15|1d8|1d8|1d6|1d4|
+|Medium-size|12–13|10–11|10–13|1d10|10|1d6|1d6|1d4|1d3|
+|Small|8–9|12–13|8–9|1/2 d10|5|1d4|1d4|1d3|1d2|
+|Tiny|4–5|14–15|8–9|1/4 d10|—|1d3|1d3|1d2|1|
+|Diminutive|2–3|16–17|8–9|1/8 d10|—|1d2|1d2|1|—|
+|Fine|2–3|18–19|8–9|1/16 d10|—|1|1|—|—|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T121823Z" creationid="quentine" creationdate="20220303T121823Z">
+        <seg>|体型|力|敏|体|最小HD|额外生命值|拍击|啮咬|抓挠|抵撞|
+|----|:-:|:-:|:-:|:--------:|:--------------:|:--:|:--:|:--:|:--:|
+|超巨型|44–45|6–7|26–29|32d10|40|4d6|4d6|2d8|2d6|
+|巨型|36–37|6–7|22–25|16d10|30|2d8|2d8|2d6|1d8|
+|超大型|28–29|6–7|18–21|8d10|20|2d6|2d6|2d4|1d6|
+|大型|20–21|8–9|14–17|2d10|15|1d8|1d8|1d6|1d4|
+|普通|12–13|10–11|10–13|1d10|10|1d6|1d6|1d4|1d3|
+|小型|8–9|12–13|8–9|1/2 d10|5|1d4|1d4|1d3|1d2|
+|超小型|4–5|14–15|8–9|1/4 d10|—|1d3|1d3|1d2|1|
+|微型|2–3|16–17|8–9|1/8 d10|—|1d2|1d2|1|—|
+|超微型|2–3|18–19|8–9|1/16 d10|—|1|1|—|—|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size|Str|Dex|Con|Minimum HD|Extra Hit Points|Slam|Bite|Claw|Gore|
+|----|:-:|:-:|:-:|:--------:|:--------------:|:--:|:--:|:--:|:--:|
 |Colossal|44–47|6–7|—|32d10|120|4d6|2d6|2d8|4d6|
 |Gargantuan|36–39|6–7|—|16d10|80|2d8|1d8|2d6|2d8|
 |Huge|28–31|6–7|—|8d10|40|2d6|1d6|2d4|2d6|
@@ -59077,6 +60289,54 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |超小型|4–7|14–15|—|1/4 d10|—|1d3|1|1d2|1d3|
 |微型|2–5|16–17|—|1/8 d10|—|1d2|—|1|1d2|
 |超微型|1|18–19|—|1/16 d10|—|1|—|—|1|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size|Str|Dex|Con|Minimum HD|Slam\*|Bite|Claw|Gore|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|Medium-size|10–15|10–13|10–11|1d8|1d3|1d4|1d4|1d6|
+|Small|6–11|12–15|8–9|1/2 d8|1d2|1d3|1d3|1d4|
+|Tiny|2–7|14–17|8–9|1/4 d8|1|1d2|1d2|1d3|
+|Diminutive|1|16–19|8–9|1/8 d8|—|1|1|1d2|
+|Fine|1|18–21|8–9|1/16 d8|—|—|—|1|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T142454Z" creationid="quentine" creationdate="20210812T142454Z">
+        <seg>|体型|力|敏|体|最小HD|拍击\*|啮咬|抓挠|抵撞|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|普通|10–15|10–13|10–11|1d8|1d3|1d4|1d4|1d6|
+|小型|6–11|12–15|8–9|1/2 d8|1d2|1d3|1d3|1d4|
+|超小型|2–7|14–17|8–9|1/4 d8|1|1d2|1d2|1d3|
+|微型|1|16–19|8–9|1/8 d8|—|1|1|1d2|
+|超微型|1|18–21|8–9|1/16 d8|—|—|—|1|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size|Str|Dex|Con|Minimum HD|Slam|Bite|Claw|Gore|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|Colossal|42–43|10–11|28–29|32d10|2d6|4d6|2d8|4d6|
+|Gargantuan|34–35|10–11|24–25|16d10|1d8|2d8|2d6|2d8|
+|Huge|26–27|10–11|20–21|8d10|1d6|2d6|2d4|2d6|
+|Large|18–19|12–13|16–17|2d10|1d4|1d8|1d6|1d8|
+|Medium-size|10–11|14–15|12–13|1d10|1d3|1d6|1d4|1d6|
+|Small|6–7|16–17|10–11|1/2 d10|1d2|1d4|1d3|1d4|
+|Tiny|2–3|18–19|10–11|1/4 d10|1|1d3|1d2|1d3|
+|Diminutive|1|20–21|10–11|1/8 d10|—|1d2|1|1d2|
+|Fine|1|22–23|10–11|1/16 d10|—|1|—|1|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T143105Z" creationid="quentine" creationdate="20210812T143105Z">
+        <seg>|体型|力|敏|体|最小HD|拍击|啮咬|抓挠|抵撞|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|超巨型|42–43|10–11|28–29|32d10|2d6|4d6|2d8|4d6|
+|巨型|34–35|10–11|24–25|16d10|1d8|2d8|2d6|2d8|
+|超大型|26–27|10–11|20–21|8d10|1d6|2d6|2d4|2d6|
+|大型|18–19|12–13|16–17|2d10|1d4|1d8|1d6|1d8|
+|普通|10–11|14–15|12–13|1d10|1d3|1d6|1d4|1d6|
+|小型|6–7|16–17|10–11|1/2 d10|1d2|1d4|1d3|1d4|
+|超小型|2–3|18–19|10–11|1/4 d10|1|1d3|1d2|1d3|
+|微型|1|20–21|10–11|1/8 d10|—|1d2|1|1d2|
+|超微型|1|22–23|10–11|1/16 d10|—|1|—|1|</seg>
       </tuv>
     </tu>
     <tu>
@@ -59133,6 +60393,248 @@ Sometimes a special rule makes you multiply a number or a die roll.</seg>
 |超小型|2–3|18–19|10–11|1/4 d8|1|1d4|1d2|1d3|
 |微型|1|20–21|10–11|1/8 d8|—|1d3|1|1d2|
 |超微型|1|22–23|10–11|1/16 d8|—|1d2|—|1|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size|Str|Dex|Con|Minimum HD|Slam|Bite|Claw|Gore|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|Colossal|42–43|6–7|26–27|32d8|2d6|4d6|2d8|4d6|
+|Gargantuan|34–35|6–7|22–23|16d8|1d8|2d8|2d6|2d8|
+|Huge|26–27|6–7|18–19|8d8|1d6|2d6|2d4|2d6|
+|Large|18–19|8–9|14–15|2d8|1d4|1d8|1d6|1d8|
+|Medium-size|10–11|10–11|10–11|1d8|1d3|1d6|1d4|1d6|
+|Small|6–7|12–13|8–9|1/2 d8|1d2|1d4|1d3|1d4|
+|Tiny|2–3|14–15|8–9|1/4 d8|1|1d3|1d2|1d3|
+|Diminutive|1|16–17|8–9|1/8 d8|—|1d2|1|1d2|
+|Fine|1|18–19|8–9|1/16 d8|—|1|—|1|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T130534Z" creationid="quentine" creationdate="20220303T130534Z">
+        <seg>|体型|力|敏|体|最小HD|拍击|啮咬|抓挠|抵撞|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|超巨型|42–43|6–7|26–27|32d8|2d6|4d6|2d8|4d6|
+|巨型|34–35|6–7|22–23|16d8|1d8|2d8|2d6|2d8|
+|超大型|26–27|6–7|18–19|8d8|1d6|2d6|2d4|2d6|
+|大型|18–19|8–9|14–15|2d8|1d4|1d8|1d6|1d8|
+|普通|10–11|10–11|10–11|1d8|1d3|1d6|1d4|1d6|
+|小型|6–7|12–13|8–9|1/2 d8|1d2|1d4|1d3|1d4|
+|超小型|2–3|14–15|8–9|1/4 d8|1|1d3|1d2|1d3|
+|微型|1|16–17|8–9|1/8 d8|—|1d2|1|1d2|
+|超微型|1|18–19|8–9|1/16 d8|—|1|—|1|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size|Str|Dex|Con|Minimum HD|Slam|Bite|Claw|Gore|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|Colossal|42–43|8–9|26–27|32d6|2d6|2d8|2d8|4d6|
+|Gargantuan|34–35|8–9|22–23|16d6|1d8|2d6|2d6|2d8|
+|Huge|26–27|8–9|18–19|8d6|1d6|1d8|2d4|2d6|
+|Large|18–19|10–11|14–15|2d6|1d4|1d6|1d6|1d8|
+|Medium-size|10–11|12–13|10–11|1d6|1d3|1d4|1d4|1d6|
+|Small|6–7|14–16|8–9|1/2 d6|1d2|1d3|1d3|1d4|
+|Tiny|2–3|16–17|8–9|1/4 d6|1|1d2|1d2|1d3|
+|Diminutive|1|18–19|8–9|1/8 d6|—|1|1|1d2|
+|Fine|1|20–21|8–9|1/16 d6|—|—|—|1|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T143505Z" creationid="quentine" creationdate="20210811T143505Z">
+        <seg>|体型|力|敏|体|最小HD|拍击|啮咬|抓挠|抵撞|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|超巨型|42–43|8–9|26–27|32d6|2d6|2d8|2d8|4d6|
+|巨型|34–35|8–9|22–23|16d6|1d8|2d6|2d6|2d8|
+|超大型|26–27|8–9|18–19|8d6|1d6|1d8|2d4|2d6|
+|大型|18–19|10–11|14–15|2d6|1d4|1d6|1d6|1d8|
+|普通|10–11|12–13|10–11|1d6|1d3|1d4|1d4|1d6|
+|小型|6–7|14–16|8–9|1/2 d6|1d2|1d3|1d3|1d4|
+|超小型|2–3|16–17|8–9|1/4 d6|1|1d2|1d2|1d3|
+|微型|1|18–19|8–9|1/8 d6|—|1|1|1d2|
+|超微型|1|20–21|8–9|1/16 d6|—|—|—|1|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size|Str|Dex|Con|Minimum HD|Slam|Bite|Claw|Gore|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|Colossal|42–43|8–9|26–27|32d8|2d6|2d8|2d8|4d6|
+|Gargantuan|34–35|8–9|22–23|16d8|1d8|2d6|2d6|2d8|
+|Huge|26–27|8–9|18–19|8d8|1d6|1d8|2d4|2d6|
+|Large|18–19|10–11|14–15|2d8|1d4|1d6|1d6|1d8|
+|Medium-size|10–11|12–13|10–11|1d8|1d3|1d4|1d4|1d6|
+|Small|6–7|14–15|8–9|1/2 d8|1d2|1d3|1d3|1d4|
+|Tiny|2–3|16–17|8–9|1/4 d8|1|1d2|1d2|1d3|
+|Diminutive|1|18–19|8–9|1/8 d8|—|1|1|1d2|
+|Fine|1|20–21|8–9|1/16 d8|—|—|—|1|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T115737Z" creationid="quentine" creationdate="20220303T115737Z">
+        <seg>|体型|力|敏|体|最小HD|拍击|啮咬|抓挠|抵撞|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|超巨型|42–43|8–9|26–27|32d8|2d6|2d8|2d8|4d6|
+|巨型|34–35|8–9|22–23|16d8|1d8|2d6|2d6|2d8|
+|超大型|26–27|8–9|18–19|8d8|1d6|1d8|2d4|2d6|
+|大型|18–19|10–11|14–15|2d8|1d4|1d6|1d6|1d8|
+|普通|10–11|12–13|10–11|1d8|1d3|1d4|1d4|1d6|
+|小型|6–7|14–15|8–9|1/2 d8|1d2|1d3|1d3|1d4|
+|超小型|2–3|16–17|8–9|1/4 d8|1|1d2|1d2|1d3|
+|微型|1|18–19|8–9|1/8 d8|—|1|1|1d2|
+|超微型|1|20–21|8–9|1/16 d8|—|—|—|1|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size|Str|Dex|Con|Minimum HD|Slam|Bite|Claw|Gore|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|Colossal|44–45|6–7|28–29|32d8|4d6|2d6|2d8|4d6|
+|Gargantuan|36–37|6–7|24–25|16d8|2d8|1d8|2d6|2d8|
+|Huge|28–29|6–7|20–21|4d8|2d6|1d6|2d4|2d6|
+|Large|20–21|8–9|16–17|2d8|1d8|1d4|1d6|1d8|
+|Medium-size|12–13|10–11|12–13|1d8|1d6|1d3|1d4|1d6|
+|Small|8–9|12–13|10–11|1/2 d8|1d4|1d2|1d3|1d4|
+|Tiny|4–5|14–15|10–11|1/4 d8|1d3|1|1d2|1d3|
+|Diminutive|2–3|16–17|10–11|1/8 d8|1d2|—|1|1d2|
+|Fine|2–3|18–19|10–11|1/16 d8|1|—|—|1|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T123127Z" creationid="quentine" creationdate="20220303T123127Z">
+        <seg>|体型|力|敏|体|最小HD|拍击|啮咬|抓挠|抵撞|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|超巨型|44–45|6–7|28–29|32d8|4d6|2d6|2d8|4d6|
+|巨型|36–37|6–7|24–25|16d8|2d8|1d8|2d6|2d8|
+|超大型|28–29|6–7|20–21|4d8|2d6|1d6|2d4|2d6|
+|大型|20–21|8–9|16–17|2d8|1d8|1d4|1d6|1d8|
+|普通|12–13|10–11|12–13|1d8|1d6|1d3|1d4|1d6|
+|小型|8–9|12–13|10–11|1/2 d8|1d4|1d2|1d3|1d4|
+|超小型|4–5|14–15|10–11|1/4 d8|1d3|1|1d2|1d3|
+|微型|2–3|16–17|10–11|1/8 d8|1d2|—|1|1d2|
+|超微型|2–3|18–19|10–11|1/16 d8|1|—|—|1|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size|Str|Dex|Con|Minimum HD|Slam|Bite|Claw|Gore|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|Colossal|44–45|6–7|28–29|32d8|4d6|4d6|2d8|2d6|
+|Gargantuan|36–37|6–7|24–25|16d8|2d8|2d8|2d6|1d8|
+|Huge|28–29|6–7|20–21|8d8|2d6|2d6|2d4|1d6|
+|Large|20–21|8–9|16–17|4d8|1d8|1d8|1d6|1d4|
+|Medium-size|12–13|10–11|12–13|2d8|1d6|1d6|1d4|1d3|
+|Small|8–9|12–13|10–11|1d8|1d4|1d4|1d3|1d2|
+|Tiny|6–7|14–15|10–11|1/2 d8|1d3|1d3|1d2|1|
+|Diminutive|4–5|16–17|10–11|1/4 d8|1d2|1d2|1|—|
+|Fine|4–5|18–19|10–11|1/8 d8|1|1|—|—|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T142717Z" creationid="quentine" creationdate="20210811T142717Z">
+        <seg>|体型|力|敏|体|最小HD|拍击|啮咬|抓挠|抵撞|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|超巨型|44–45|6–7|28–29|32d8|4d6|4d6|2d8|2d6|
+|巨型|36–37|6–7|24–25|16d8|2d8|2d8|2d6|1d8|
+|超大型|28–29|6–7|20–21|8d8|2d6|2d6|2d4|1d6|
+|大型|20–21|8–9|16–17|4d8|1d8|1d8|1d6|1d4|
+|普通|12–13|10–11|12–13|2d8|1d6|1d6|1d4|1d3|
+|小型|8–9|12–13|10–11|1d8|1d4|1d4|1d3|1d2|
+|超小型|6–7|14–15|10–11|1/2 d8|1d3|1d3|1d2|1|
+|微型|4–5|16–17|10–11|1/4 d8|1d2|1d2|1|—|
+|超微型|4–5|18–19|10–11|1/8 d8|1|1|—|—|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size|Str|Dex|Con|Minimum HD|Slam|Bite|Claw|Gore|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|Colossal|44–45|6–7|—|32d12|4d6|4d6|2d8|2d6|
+|Gargantuan|36–37|6–7|—|21d12|2d8|2d8|2d6|1d8|
+|Huge|28–29|6–7|—|10d12|2d6|2d6|2d4|1d6|
+|Large|20–21|8–9|—|4d12|1d8|1d8|1d6|1d4|
+|Medium-size|12–13|10–11|—|1d12|1d6|1d6|1d4|1d3|
+|Small|8–9|12–13|—|1/2 d12|1d4|1d4|1d3|1d2|
+|Tiny|4–5|14–15|—|1/4 d12|1d3|1d3|1d2|1|
+|Diminutive|2–3|16–17|—|1/8 d12|1d2|1d2|1|—|
+|Fine|2–3|18–19|—|1/16 d12|1|1|—|—|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T124852Z" creationid="quentine" creationdate="20220303T124852Z">
+        <seg>|体型|力|敏|体|最小HD|拍击|啮咬|抓挠|抵撞|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|超巨型|44–45|6–7|—|32d12|4d6|4d6|2d8|2d6|
+|巨型|36–37|6–7|—|21d12|2d8|2d8|2d6|1d8|
+|超大型|28–29|6–7|—|10d12|2d6|2d6|2d4|1d6|
+|大型|20–21|8–9|—|4d12|1d8|1d8|1d6|1d4|
+|普通|12–13|10–11|—|1d12|1d6|1d6|1d4|1d3|
+|小型|8–9|12–13|—|1/2 d12|1d4|1d4|1d3|1d2|
+|超小型|4–5|14–15|—|1/4 d12|1d3|1d3|1d2|1|
+|微型|2–3|16–17|—|1/8 d12|1d2|1d2|1|—|
+|超微型|2–3|18–19|—|1/16 d12|1|1|—|—|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size|Str|Dex|Con|Minimum HD|Slam|Bite|Claw|Gore|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|Colossal|44–47|6–7|28–29|32d8|4d6|4d6|2d8|2d6|
+|Gargantuan|36–39|6–7|24–25|16d8|2d8|2d8|2d6|1d8|
+|Huge|28–31|6–7|20–21|8d8|2d6|2d6|2d4|1d6|
+|Large|20–23|8–9|16–17|2d8|1d8|1d8|1d6|1d4|
+|Medium-size|12–15|10–11|12–13|1d8|1d6|1d6|1d4|1d3|
+|Small|8–11|12–13|10–11|1/2 d8|1d4|1d4|1d3|1d2|
+|Tiny|4–7|14–15|10–11|1/4 d8|1d3|1d3|1d2|1|
+|Diminutive|2–3|16–17|10–11|1/8 d8|1d2|1d2|1|—|
+|Fine|2–3|18–19|10–11|1/16 d8|1|1|—|—|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20220303T122534Z" creationid="quentine" creationdate="20220303T122534Z">
+        <seg>|体型|力|敏|体|最小HD|拍击|啮咬|抓挠|抵撞|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|超巨型|44–47|6–7|28–29|32d8|4d6|4d6|2d8|2d6|
+|巨型|36–39|6–7|24–25|16d8|2d8|2d8|2d6|1d8|
+|超大型|28–31|6–7|20–21|8d8|2d6|2d6|2d4|1d6|
+|大型|20–23|8–9|16–17|2d8|1d8|1d8|1d6|1d4|
+|普通|12–15|10–11|12–13|1d8|1d6|1d6|1d4|1d3|
+|小型|8–11|12–13|10–11|1/2 d8|1d4|1d4|1d3|1d2|
+|超小型|4–7|14–15|10–11|1/4 d8|1d3|1d3|1d2|1|
+|微型|2–3|16–17|10–11|1/8 d8|1d2|1d2|1|—|
+|超微型|2–3|18–19|10–11|1/16 d8|1|1|—|—|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size|Str|Dex|Con|Minimum HD|Slam|Bite|Claw|Gore|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|Colossal|46–47|6–7|28–31|32d8|2d6|2d8|2d8|4d6|
+|Gargantuan|38–39|6–7|24–27|16d8|1d8|2d6|2d6|2d8|
+|Huge|30–31|6–7|20–23|8d8|1d6|1d8|2d4|2d6|
+|Large|22–23|8–9|16–19|2d8|1d4|1d6|1d6|1d8|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210812T135758Z" creationid="quentine" creationdate="20210812T135758Z">
+        <seg>|体型|力|敏|体|最小HD|拍击|啮咬|抓挠|抵撞|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|超巨型|46–47|6–7|28–31|32d8|2d6|2d8|2d8|4d6|
+|巨型|38–39|6–7|24–27|16d8|1d8|2d6|2d6|2d8|
+|超大型|30–31|6–7|20–23|8d8|1d6|1d8|2d4|2d6|
+|大型|22–23|8–9|16–19|2d8|1d4|1d6|1d6|1d8|</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>|Size|Str|Dex|Con|Minimum HD|Slam|Bite|Claw|Gore|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|Colossal|46–47|6–7|30–31|38d12|2d8|4d8|4d6|4d6|
+|Gargantuan|38–39|6–7|26–27|27d12|2d6|4d6|2d8|2d8|
+|Huge|30–31|6–7|22–23|19d12|1d8|2d8|2d6|2d6|
+|Large|22–23|8–9|18–19|10d12|1d6|2d6|1d8|1d8|
+|Medium-size|14–15|10–11|14–15|7d12|1d4|1d8|1d6|1d6|
+|Small|10–11|12–13|12–13|4d12|—|1d6|1d4|1d4|
+|Tiny|6–7|14–15|12–13|3d12|—|1d4|1d3|1d3|
+|Diminutive|4–5|16–17|12–13|1d12|—|1d3|1d2|1d2|
+|Fine|4–5|18–19|12–13|1/2 d12|—|1d2|1|1|</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="quentine" changedate="20210811T141637Z" creationid="quentine" creationdate="20210811T141637Z">
+        <seg>|体型|力|敏|体|最小HD|拍击|啮咬|抓挠|抵撞|
+|----|:-:|:-:|:-:|:--------:|:--:|:--:|:--:|:--:|
+|超巨型|46–47|6–7|30–31|38d12|2d8|4d8|4d6|4d6|
+|巨型|38–39|6–7|26–27|27d12|2d6|4d6|2d8|2d8|
+|超大型|30–31|6–7|22–23|19d12|1d8|2d8|2d6|2d6|
+|大型|22–23|8–9|18–19|10d12|1d6|2d6|1d8|1d8|
+|普通|14–15|10–11|14–15|7d12|1d4|1d8|1d6|1d6|
+|小型|10–11|12–13|12–13|4d12|—|1d6|1d4|1d4|
+|超小型|6–7|14–15|12–13|3d12|—|1d4|1d3|1d3|
+|微型|4–5|16–17|12–13|1d12|—|1d3|1d2|1d2|
+|超微型|4–5|18–19|12–13|1/2 d12|—|1d2|1|1|</seg>
       </tuv>
     </tu>
     <tu>
