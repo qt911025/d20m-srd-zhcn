@@ -1467,3 +1467,29 @@ visual effect	可见性效果
 illusion	幻术
 necromantic	死灵术
 Potent Venom	猛毒
+acquired	援引
+inherited	继承
+Ape	人猿
+CR	挑战等级	Challenge rating的缩写
+hp	生命值	Hit points的缩写
+Mas	巨创阈值	Massive damage threshold的缩写
+Init	先攻	Initiative的缩写
+Spd	速度	Speed的缩写
+BAB	基础攻击加值	Base Attack Bonus
+Grap	擒抱调整值	Grapple Modifier
+Atk	主要攻击	Primary attack
+Full Atk	全力攻击	Full Attack
+FS	战斗区域	Fighting Space
+Reach	触及范围
+SQ	特殊能力	Special Qualities
+AL	阵营	allegiance
+SV	豁免	saves
+AP	行动点	action points
+Rep	声望	reputation
+fly	飞行
+Bat	蝙蝠
+Bear	熊
+Bugbear	熊地精
+Goblin	地精
+Possessions	装备	生物总览中，生物所自带的道具
+hip holster	腰部装具
